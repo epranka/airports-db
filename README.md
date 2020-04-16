@@ -43,7 +43,7 @@ For example
 
 If airport is not found, the 404 status code is returned.
 
-Have ideas on how to improve it? Feel free to share it on the [GitHub Issues](https://github.com/epranka/soundcode/issues).
+Have ideas on how to improve it? Feel free to share it on the [GitHub Issues](https://github.com/epranka/airports-db/issues).
 
 <p align="center">
   <img alt="associated image airport" src="https://images.unsplash.com/photo-1542296332-2e4473faf563?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80" />
