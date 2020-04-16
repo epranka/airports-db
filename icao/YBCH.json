@@ -1,0 +1,88 @@
+{
+    "id": "27361",
+    "ident": "YBCH",
+    "type": "small_airport",
+    "name": "Beechworth Airport",
+    "latitude_deg": "-36.3933333333",
+    "longitude_deg": "146.696388889",
+    "elevation_ft": "2000",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBCH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258261",
+            "airport_ref": "27361",
+            "airport_ident": "YBCH",
+            "length_ft": "2001",
+            "width_ft": "",
+            "surface": "X",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72181",
+            "airport_ref": "27361",
+            "airport_ident": "YBCH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "72183",
+            "airport_ref": "27361",
+            "airport_ident": "YBCH",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "72182",
+            "airport_ref": "27361",
+            "airport_ident": "YBCH",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.4"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302975",
+        "code": "AU-VIC",
+        "local_code": "VIC",
+        "name": "Victoria",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
+        "keywords": ""
+    }
+}

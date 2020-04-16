@@ -1,0 +1,96 @@
+{
+    "id": "3134",
+    "ident": "GQNK",
+    "type": "small_airport",
+    "name": "Kaédi Airport",
+    "latitude_deg": "16.1595",
+    "longitude_deg": "-13.5076",
+    "elevation_ft": "75",
+    "continent": "AF",
+    "iso_country": "MR",
+    "iso_region": "MR-04",
+    "municipality": "Kaédi",
+    "scheduled_service": "no",
+    "gps_code": "GQNK",
+    "iata_code": "KED",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ka%C3%A9di_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237619",
+            "airport_ref": "3134",
+            "airport_ident": "GQNK",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "16.1538",
+            "le_longitude_deg": "-13.5177",
+            "le_elevation_ft": "52",
+            "le_heading_degT": "60",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "16.1653",
+            "he_longitude_deg": "-13.4975",
+            "he_elevation_ft": "66",
+            "he_heading_degT": "240",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55354",
+            "airport_ref": "3134",
+            "airport_ident": "GQNK",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302587",
+        "code": "MR",
+        "name": "Mauritania",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mauritania",
+        "keywords": "مطارات موريتانيا"
+    },
+    "region": {
+        "id": "304710",
+        "code": "MR-04",
+        "local_code": "04",
+        "name": "Gorgol Region",
+        "continent": "AF",
+        "iso_country": "MR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gorgol_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89640",
+            "filename": "Kaedi_NDB_MR",
+            "ident": "KAE",
+            "name": "Kaedi",
+            "type": "NDB",
+            "frequency_khz": "289",
+            "latitude_deg": "16.156600952148438",
+            "longitude_deg": "-13.507399559020996",
+            "elevation_ft": "",
+            "iso_country": "MR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.517",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "GQNK"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "5710",
+    "ident": "RPMS",
+    "type": "medium_airport",
+    "name": "Surigao Airport",
+    "latitude_deg": "9.755838325629998",
+    "longitude_deg": "125.480947495",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-SUN",
+    "municipality": "Surigao City",
+    "scheduled_service": "yes",
+    "gps_code": "RPMS",
+    "iata_code": "SUG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Surigao_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238452",
+            "airport_ref": "5710",
+            "airport_ident": "RPMS",
+            "length_ft": "5603",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "9.76521",
+            "le_longitude_deg": "125.478",
+            "le_elevation_ft": "",
+            "le_heading_degT": "172",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "9.74992",
+            "he_longitude_deg": "125.48",
+            "he_elevation_ft": "",
+            "he_heading_degT": "352",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56521",
+            "airport_ref": "5710",
+            "airport_ident": "RPMS",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305125",
+        "code": "PH-SUN",
+        "local_code": "SUN",
+        "name": "Surigao del Norte Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Surigao_del_Norte_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94025",
+            "filename": "Surigao_NDB_PH",
+            "ident": "SU",
+            "name": "Surigao",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "9.76006031036377",
+            "longitude_deg": "125.48300170898438",
+            "elevation_ft": "",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.198",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RPMS"
+        }
+    ]
+}

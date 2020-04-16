@@ -1,0 +1,80 @@
+{
+    "id": "6301",
+    "ident": "SVMP",
+    "type": "medium_airport",
+    "name": "Metropolitano Airport",
+    "latitude_deg": "10.133169174194336",
+    "longitude_deg": "-66.78782653808594",
+    "elevation_ft": "574",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-M",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVMP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246102",
+            "airport_ref": "6301",
+            "airport_ident": "SVMP",
+            "length_ft": "4659",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "10.1318",
+            "le_longitude_deg": "-66.7942",
+            "le_elevation_ft": "",
+            "le_heading_degT": "77",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "10.1346",
+            "he_longitude_deg": "-66.7815",
+            "he_elevation_ft": "",
+            "he_heading_degT": "257",
+            "he_displaced_threshold_ft": "320"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71681",
+            "airport_ref": "6301",
+            "airport_ident": "SVMP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71682",
+            "airport_ref": "6301",
+            "airport_ident": "SVMP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306177",
+        "code": "VE-M",
+        "local_code": "M",
+        "name": "Miranda",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Miranda",
+        "keywords": ""
+    }
+}

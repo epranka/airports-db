@@ -1,0 +1,166 @@
+{
+    "id": "3705",
+    "ident": "KMRY",
+    "type": "medium_airport",
+    "name": "Monterey Peninsula Airport",
+    "latitude_deg": "36.58700180053711",
+    "longitude_deg": "-121.84300231933594",
+    "elevation_ft": "257",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Monterey",
+    "scheduled_service": "yes",
+    "gps_code": "KMRY",
+    "iata_code": "MRY",
+    "local_code": "MRY",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Monterey_Peninsula_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244399",
+            "airport_ref": "3705",
+            "airport_ident": "KMRY",
+            "length_ft": "3513",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10L",
+            "le_latitude_deg": "36.5886",
+            "le_longitude_deg": "-121.845",
+            "le_elevation_ft": "198",
+            "le_heading_degT": "112.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28R",
+            "he_latitude_deg": "36.5849",
+            "he_longitude_deg": "-121.834",
+            "he_elevation_ft": "256",
+            "he_heading_degT": "292.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244398",
+            "airport_ref": "3705",
+            "airport_ident": "KMRY",
+            "length_ft": "7616",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10R",
+            "le_latitude_deg": "36.5912",
+            "le_longitude_deg": "-121.857",
+            "le_elevation_ft": "155",
+            "le_heading_degT": "112.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28L",
+            "he_latitude_deg": "36.5831",
+            "he_longitude_deg": "-121.833",
+            "he_elevation_ft": "247",
+            "he_heading_degT": "292.8",
+            "he_displaced_threshold_ft": "1000"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68011",
+            "airport_ref": "3705",
+            "airport_ident": "KMRY",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "127.15"
+        },
+        {
+            "id": "68012",
+            "airport_ref": "3705",
+            "airport_ident": "KMRY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "68013",
+            "airport_ref": "3705",
+            "airport_ident": "KMRY",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "135.45"
+        },
+        {
+            "id": "68014",
+            "airport_ref": "3705",
+            "airport_ident": "KMRY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "68015",
+            "airport_ref": "3705",
+            "airport_ident": "KMRY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "68016",
+            "airport_ref": "3705",
+            "airport_ident": "KMRY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "68017",
+            "airport_ref": "3705",
+            "airport_ident": "KMRY",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91231",
+            "filename": "Munso_NDB_US",
+            "ident": "MR",
+            "name": "Munso",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "36.62080001831055",
+            "longitude_deg": "-121.93900299072266",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.226",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KMRY"
+        }
+    ]
+}

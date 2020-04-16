@@ -1,0 +1,142 @@
+{
+    "id": "2530",
+    "ident": "EICK",
+    "type": "large_airport",
+    "name": "Cork Airport",
+    "latitude_deg": "51.84130096435547",
+    "longitude_deg": "-8.491109848022461",
+    "elevation_ft": "502",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-C",
+    "municipality": "Cork",
+    "scheduled_service": "yes",
+    "gps_code": "EICK",
+    "iata_code": "ORK",
+    "local_code": "",
+    "home_link": "http://www.corkairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cork_Airport",
+    "keywords": "Aerfort Chorcaí",
+    "runways": [
+        {
+            "id": "235644",
+            "airport_ref": "2530",
+            "airport_ident": "EICK",
+            "length_ft": "4298",
+            "width_ft": "148",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "51.8416",
+            "le_longitude_deg": "-8.496",
+            "le_elevation_ft": "471",
+            "le_heading_degT": "63",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "51.847",
+            "he_longitude_deg": "-8.47912",
+            "he_elevation_ft": "502",
+            "he_heading_degT": "243",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "235645",
+            "airport_ref": "2530",
+            "airport_ident": "EICK",
+            "length_ft": "6998",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "51.8503",
+            "le_longitude_deg": "-8.49644",
+            "le_elevation_ft": "477",
+            "le_heading_degT": "160",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "51.8323",
+            "he_longitude_deg": "-8.48579",
+            "he_elevation_ft": "460",
+            "he_heading_degT": "340",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51946",
+            "airport_ref": "2530",
+            "airport_ident": "EICK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "51947",
+            "airport_ref": "2530",
+            "airport_ident": "EICK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.925"
+        },
+        {
+            "id": "51948",
+            "airport_ref": "2530",
+            "airport_ident": "EICK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "51949",
+            "airport_ref": "2530",
+            "airport_ident": "EICK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.3"
+        }
+    ],
+    "country": {
+        "id": "302694",
+        "code": "IE",
+        "name": "Ireland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
+        "keywords": "Eire"
+    },
+    "region": {
+        "id": "304129",
+        "code": "IE-C",
+        "local_code": "C",
+        "name": "County Cork",
+        "continent": "EU",
+        "iso_country": "IE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cork",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87034",
+            "filename": "Cork_VOR-DME_IE",
+            "ident": "CRK",
+            "name": "Cork",
+            "type": "VOR-DME",
+            "frequency_khz": "114600",
+            "latitude_deg": "51.840599060058594",
+            "longitude_deg": "-8.494270324707031",
+            "elevation_ft": "500",
+            "iso_country": "IE",
+            "dme_frequency_khz": "114600",
+            "dme_channel": "093X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.007",
+            "magnetic_variation_deg": "-5.413",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EICK"
+        }
+    ]
+}

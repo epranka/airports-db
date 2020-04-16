@@ -1,0 +1,158 @@
+{
+    "id": "4470",
+    "ident": "LQTZ",
+    "type": "medium_airport",
+    "name": "Tuzla International Airport",
+    "latitude_deg": "44.45869827270508",
+    "longitude_deg": "18.72480010986328",
+    "elevation_ft": "784",
+    "continent": "EU",
+    "iso_country": "BA",
+    "iso_region": "BA-BIH",
+    "municipality": "Tuzla",
+    "scheduled_service": "no",
+    "gps_code": "LQTZ",
+    "iata_code": "TZL",
+    "local_code": "",
+    "home_link": "http://www.tuzla-airport.ba/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tuzla_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233687",
+            "airport_ref": "4470",
+            "airport_ident": "LQTZ",
+            "length_ft": "8152",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "44.4598",
+            "le_longitude_deg": "18.7093",
+            "le_elevation_ft": "763",
+            "le_heading_degT": "96",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "44.4575",
+            "he_longitude_deg": "18.7403",
+            "he_elevation_ft": "776",
+            "he_heading_degT": "276",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49440",
+            "airport_ref": "4470",
+            "airport_ident": "LQTZ",
+            "type": "APP",
+            "description": "APP/DEP",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "49441",
+            "airport_ref": "4470",
+            "airport_ident": "LQTZ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "140.325"
+        },
+        {
+            "id": "49442",
+            "airport_ref": "4470",
+            "airport_ident": "LQTZ",
+            "type": "GCCD",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "143.425"
+        },
+        {
+            "id": "49443",
+            "airport_ref": "4470",
+            "airport_ident": "LQTZ",
+            "type": "OPS",
+            "description": "AFLD OPS",
+            "frequency_mhz": "142.525"
+        },
+        {
+            "id": "49444",
+            "airport_ref": "4470",
+            "airport_ident": "LQTZ",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "25.892"
+        },
+        {
+            "id": "49445",
+            "airport_ref": "4470",
+            "airport_ident": "LQTZ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "130.85"
+        }
+    ],
+    "country": {
+        "id": "302675",
+        "code": "BA",
+        "name": "Bosnia and Herzegovina",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303052",
+        "code": "BA-BIH",
+        "local_code": "BIH",
+        "name": "Federacija Bosna i Hercegovina",
+        "continent": "EU",
+        "iso_country": "BA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Federacija_Bosna_i_Hercegovina",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94653",
+            "filename": "Tuzla_NDB_BA",
+            "ident": "TU",
+            "name": "Tuzla",
+            "type": "NDB",
+            "frequency_khz": "445",
+            "latitude_deg": "44.477298736572266",
+            "longitude_deg": "18.482999801635742",
+            "elevation_ft": "",
+            "iso_country": "BA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.01",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "LQTZ"
+        },
+        {
+            "id": "94685",
+            "filename": "Tuzla_TACAN_BA",
+            "ident": "TUZ",
+            "name": "Tuzla",
+            "type": "TACAN",
+            "frequency_khz": "109700",
+            "latitude_deg": "44.45709991455078",
+            "longitude_deg": "18.72960090637207",
+            "elevation_ft": "785",
+            "iso_country": "BA",
+            "dme_frequency_khz": "109700",
+            "dme_channel": "034X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "3.036",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LQTZ"
+        }
+    ]
+}

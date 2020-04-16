@@ -1,0 +1,112 @@
+{
+    "id": "4722",
+    "ident": "MMLO",
+    "type": "medium_airport",
+    "name": "Del Bajío International Airport",
+    "latitude_deg": "20.9935",
+    "longitude_deg": "-101.481003",
+    "elevation_ft": "5956",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-GUA",
+    "municipality": "Silao",
+    "scheduled_service": "yes",
+    "gps_code": "MMLO",
+    "iata_code": "BJX",
+    "local_code": "BJ1",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Del_Baj%C3%ADo_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237722",
+            "airport_ref": "4722",
+            "airport_ident": "MMLO",
+            "length_ft": "11483",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "21.0044",
+            "le_longitude_deg": "-101.493",
+            "le_elevation_ft": "5956",
+            "le_heading_degT": "134",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "20.9825",
+            "he_longitude_deg": "-101.469",
+            "he_elevation_ft": "5956",
+            "he_heading_degT": "314",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55459",
+            "airport_ref": "4722",
+            "airport_ident": "MMLO",
+            "type": "APP",
+            "description": "LEON APP",
+            "frequency_mhz": "119.05"
+        },
+        {
+            "id": "55460",
+            "airport_ref": "4722",
+            "airport_ident": "MMLO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "55461",
+            "airport_ref": "4722",
+            "airport_ident": "MMLO",
+            "type": "TWR",
+            "description": "LEON TWR",
+            "frequency_mhz": "118.35"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304801",
+        "code": "MX-GUA",
+        "local_code": "GUA",
+        "name": "Guanajuato",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guanajuato",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86080",
+            "filename": "Leon_VOR-DME_MX",
+            "ident": "BJX",
+            "name": "Leon",
+            "type": "VOR-DME",
+            "frequency_khz": "115800",
+            "latitude_deg": "20.997299194335938",
+            "longitude_deg": "-101.48300170898438",
+            "elevation_ft": "5956",
+            "iso_country": "MX",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.004",
+            "magnetic_variation_deg": "6.514",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMLO"
+        }
+    ]
+}

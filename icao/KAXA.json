@@ -1,0 +1,110 @@
+{
+    "id": "19335",
+    "ident": "KAXA",
+    "type": "small_airport",
+    "name": "Algona Municipal Airport",
+    "latitude_deg": "43.0778999329",
+    "longitude_deg": "-94.2720031738",
+    "elevation_ft": "1219",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Algona",
+    "scheduled_service": "no",
+    "gps_code": "KAXA",
+    "iata_code": "AXG",
+    "local_code": "AXA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Algona_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240685",
+            "airport_ref": "19335",
+            "airport_ident": "KAXA",
+            "length_ft": "3960",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "43.0815",
+            "le_longitude_deg": "-94.2784",
+            "le_elevation_ft": "1215",
+            "le_heading_degT": "131.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "43.0743",
+            "he_longitude_deg": "-94.2673",
+            "he_elevation_ft": "1204",
+            "he_heading_degT": "311.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240686",
+            "airport_ref": "19335",
+            "airport_ident": "KAXA",
+            "length_ft": "2880",
+            "width_ft": "160",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "43.0822",
+            "le_longitude_deg": "-94.27",
+            "le_elevation_ft": "",
+            "le_heading_degT": "187.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "43.0744",
+            "he_longitude_deg": "-94.2714",
+            "he_elevation_ft": "",
+            "he_heading_degT": "7.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60339",
+            "airport_ref": "19335",
+            "airport_ident": "KAXA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.475"
+        },
+        {
+            "id": "60340",
+            "airport_ref": "19335",
+            "airport_ident": "KAXA",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "60341",
+            "airport_ref": "19335",
+            "airport_ident": "KAXA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

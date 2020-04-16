@@ -1,0 +1,80 @@
+{
+    "id": "20841",
+    "ident": "KPLR",
+    "type": "small_airport",
+    "name": "St Clair County Airport",
+    "latitude_deg": "33.558799743652",
+    "longitude_deg": "-86.249099731445",
+    "elevation_ft": "485",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Pell City",
+    "scheduled_service": "no",
+    "gps_code": "KPLR",
+    "iata_code": "PLR",
+    "local_code": "PLR",
+    "home_link": "http://www.plrairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/St._Clair_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "249056",
+            "airport_ref": "20841",
+            "airport_ident": "KPLR",
+            "length_ft": "5001",
+            "width_ft": "80",
+            "surface": "ASPH-E",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "33.5525",
+            "le_longitude_deg": "-86.2521",
+            "le_elevation_ft": "483",
+            "le_heading_degT": "22",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "33.5652",
+            "he_longitude_deg": "-86.2459",
+            "he_elevation_ft": "482",
+            "he_heading_degT": "202",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61992",
+            "airport_ref": "20841",
+            "airport_ident": "KPLR",
+            "type": "A/D",
+            "description": "BIRMINGHAM APP/DEP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "61993",
+            "airport_ref": "20841",
+            "airport_ident": "KPLR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

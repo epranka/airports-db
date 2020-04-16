@@ -1,0 +1,88 @@
+{
+    "id": "313262",
+    "ident": "SBSG",
+    "type": "large_airport",
+    "name": "Governador Aluízio Alves International Airport",
+    "latitude_deg": "-5.768056",
+    "longitude_deg": "-35.376111",
+    "elevation_ft": "272",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RN",
+    "municipality": "Natal",
+    "scheduled_service": "yes",
+    "gps_code": "SBSG",
+    "iata_code": "NAT",
+    "local_code": "",
+    "home_link": "http://www.natal.aero",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Greater_Natal_International_Airport",
+    "keywords": "Natal, Greater Natal International Airport,  Augusto Severo International Airport",
+    "runways": [
+        {
+            "id": "313263",
+            "airport_ref": "313262",
+            "airport_ident": "SBSG",
+            "length_ft": "9843",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "273",
+            "le_heading_degT": "99",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "264",
+            "he_heading_degT": "279",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "313264",
+            "airport_ref": "313262",
+            "airport_ident": "SBSG",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "313266",
+            "airport_ref": "313262",
+            "airport_ident": "SBSG",
+            "type": "ILS",
+            "description": "",
+            "frequency_mhz": "109.7"
+        },
+        {
+            "id": "313265",
+            "airport_ref": "313262",
+            "airport_ident": "SBSG",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303218",
+        "code": "BR-RN",
+        "local_code": "RN",
+        "name": "Rio Grande do Norte",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Norte",
+        "keywords": ""
+    }
+}

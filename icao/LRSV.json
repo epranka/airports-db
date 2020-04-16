@@ -1,0 +1,104 @@
+{
+    "id": "4485",
+    "ident": "LRSV",
+    "type": "medium_airport",
+    "name": "Suceava Stefan cel Mare Airport",
+    "latitude_deg": "47.6875",
+    "longitude_deg": "26.35409927368164",
+    "elevation_ft": "1375",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-SV",
+    "municipality": "Suceava",
+    "scheduled_service": "yes",
+    "gps_code": "LRSV",
+    "iata_code": "SCV",
+    "local_code": "",
+    "home_link": "http://www.aeroportsuceava.ro/index_en.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Suceava_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238393",
+            "airport_ref": "4485",
+            "airport_ident": "LRSV",
+            "length_ft": "5906",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "47.6952",
+            "le_longitude_deg": "26.3506",
+            "le_elevation_ft": "1375",
+            "le_heading_degT": "163",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "47.6798",
+            "he_longitude_deg": "26.3575",
+            "he_elevation_ft": "1330",
+            "he_heading_degT": "343",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56417",
+            "airport_ref": "4485",
+            "airport_ident": "LRSV",
+            "type": "GCA",
+            "description": "PRECISION",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "56418",
+            "airport_ref": "4485",
+            "airport_ident": "LRSV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302712",
+        "code": "RO",
+        "name": "Romania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
+        "keywords": "Aeroporturi din România"
+    },
+    "region": {
+        "id": "305253",
+        "code": "RO-SV",
+        "local_code": "SV",
+        "name": "Suceava",
+        "continent": "EU",
+        "iso_country": "RO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Suceava",
+        "keywords": "Moldavia, Moldavian"
+    },
+    "navaids": [
+        {
+            "id": "93468",
+            "filename": "Suceava_VOR-DME_RO",
+            "ident": "SCV",
+            "name": "Suceava",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "47.672298431396484",
+            "longitude_deg": "26.36079978942871",
+            "elevation_ft": "1302",
+            "iso_country": "RO",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.512",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LRSV"
+        }
+    ]
+}

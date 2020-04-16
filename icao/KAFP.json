@@ -1,0 +1,88 @@
+{
+    "id": "19250",
+    "ident": "KAFP",
+    "type": "small_airport",
+    "name": "Anson County Airport - Jeff Cloud Field",
+    "latitude_deg": "35.020599",
+    "longitude_deg": "-80.077103",
+    "elevation_ft": "300",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Wadesboro",
+    "scheduled_service": "no",
+    "gps_code": "KAFP",
+    "iata_code": "",
+    "local_code": "AFP",
+    "home_link": "http://www.co.anson.nc.us/BusinessServices/Airport.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Anson_County_Airport",
+    "keywords": "3A3",
+    "runways": [
+        {
+            "id": "244362",
+            "airport_ref": "19250",
+            "airport_ident": "KAFP",
+            "length_ft": "5498",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "35.0275",
+            "le_longitude_deg": "-80.0811",
+            "le_elevation_ft": "297",
+            "le_heading_degT": "154.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "35.0138",
+            "he_longitude_deg": "-80.0732",
+            "he_elevation_ft": "295",
+            "he_heading_degT": "334.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67932",
+            "airport_ref": "19250",
+            "airport_ident": "KAFP",
+            "type": "A/D",
+            "description": "CHARLOTTE APP/DEP",
+            "frequency_mhz": "120.05"
+        },
+        {
+            "id": "67933",
+            "airport_ref": "19250",
+            "airport_ident": "KAFP",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.325"
+        },
+        {
+            "id": "67934",
+            "airport_ref": "19250",
+            "airport_ident": "KAFP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

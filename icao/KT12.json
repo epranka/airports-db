@@ -1,0 +1,102 @@
+{
+    "id": "21136",
+    "ident": "KT12",
+    "type": "small_airport",
+    "name": "Kirbyville Airport",
+    "latitude_deg": "30.6466007232666",
+    "longitude_deg": "-93.91490173339844",
+    "elevation_ft": "121",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Kirbyville",
+    "scheduled_service": "no",
+    "gps_code": "KT12",
+    "iata_code": "",
+    "local_code": "T12",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243127",
+            "airport_ref": "21136",
+            "airport_ident": "KT12",
+            "length_ft": "1983",
+            "width_ft": "45",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "04",
+            "le_latitude_deg": "30.6434",
+            "le_longitude_deg": "-93.9163",
+            "le_elevation_ft": "117",
+            "le_heading_degT": "43.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "30.6473",
+            "he_longitude_deg": "-93.9119",
+            "he_elevation_ft": "117",
+            "he_heading_degT": "223.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243128",
+            "airport_ref": "21136",
+            "airport_ident": "KT12",
+            "length_ft": "3746",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "30.6507",
+            "le_longitude_deg": "-93.9197",
+            "le_elevation_ft": "120",
+            "le_heading_degT": "133",
+            "le_displaced_threshold_ft": "326",
+            "he_ident": "31",
+            "he_latitude_deg": "30.6437",
+            "he_longitude_deg": "-93.911",
+            "he_elevation_ft": "115",
+            "he_heading_degT": "313",
+            "he_displaced_threshold_ft": "226"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65327",
+            "airport_ref": "21136",
+            "airport_ident": "KT12",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "126.625"
+        },
+        {
+            "id": "65328",
+            "airport_ref": "21136",
+            "airport_ident": "KT12",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

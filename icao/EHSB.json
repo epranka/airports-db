@@ -1,0 +1,112 @@
+{
+    "id": "2525",
+    "ident": "EHSB",
+    "type": "closed",
+    "name": "Soesterberg Air Base",
+    "latitude_deg": "52.1273",
+    "longitude_deg": "5.27619",
+    "elevation_ft": "66",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-UT",
+    "municipality": "Soesterberg",
+    "scheduled_service": "no",
+    "gps_code": "EHSB",
+    "iata_code": "UTC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Soesterberg_Air_Base",
+    "keywords": "ACvZ, Amsterdamsche Club voor Zweefvliegen",
+    "runways": [
+        {
+            "id": "237944",
+            "airport_ref": "2525",
+            "airport_ident": "EHSB",
+            "length_ft": "10089",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "52.1275",
+            "le_longitude_deg": "5.25395",
+            "le_elevation_ft": "44",
+            "le_heading_degT": "91.1",
+            "le_displaced_threshold_ft": "1488",
+            "he_ident": "27",
+            "he_latitude_deg": "52.1269",
+            "he_longitude_deg": "5.29902",
+            "he_elevation_ft": "66",
+            "he_heading_degT": "271.1",
+            "he_displaced_threshold_ft": "1605"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55788",
+            "airport_ref": "2525",
+            "airport_ident": "EHSB",
+            "type": "APP",
+            "description": "RAPCON WEST",
+            "frequency_mhz": "123.575"
+        },
+        {
+            "id": "55789",
+            "airport_ref": "2525",
+            "airport_ident": "EHSB",
+            "type": "ARR",
+            "description": "APP",
+            "frequency_mhz": "37.342"
+        },
+        {
+            "id": "55790",
+            "airport_ref": "2525",
+            "airport_ident": "EHSB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "129.925"
+        }
+    ],
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland,Luchthavens van Nederland"
+    },
+    "region": {
+        "id": "304942",
+        "code": "NL-UT",
+        "local_code": "UT",
+        "name": "Utrecht",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Utrecht",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93944",
+            "filename": "Soesterberg_TACAN_NL",
+            "ident": "SSB",
+            "name": "Soesterberg",
+            "type": "TACAN",
+            "frequency_khz": "115800",
+            "latitude_deg": "52.128299713134766",
+            "longitude_deg": "5.275559902191162",
+            "elevation_ft": "49",
+            "iso_country": "NL",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.252",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EHSB"
+        }
+    ]
+}

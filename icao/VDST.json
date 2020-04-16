@@ -1,0 +1,96 @@
+{
+    "id": "26477",
+    "ident": "VDST",
+    "type": "medium_airport",
+    "name": "Stung Treng Airport",
+    "latitude_deg": "13.531900405883789",
+    "longitude_deg": "106.01499938964844",
+    "elevation_ft": "203",
+    "continent": "AS",
+    "iso_country": "KH",
+    "iso_region": "KH-19",
+    "municipality": "Stung Treng",
+    "scheduled_service": "yes",
+    "gps_code": "VDST",
+    "iata_code": "TNX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Stung_Treng_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235104",
+            "airport_ref": "26477",
+            "airport_ident": "VDST",
+            "length_ft": "4248",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "13.526",
+            "le_longitude_deg": "106.012",
+            "le_elevation_ft": "203",
+            "le_heading_degT": "19",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "13.5371",
+            "he_longitude_deg": "106.016",
+            "he_elevation_ft": "180",
+            "he_heading_degT": "199",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51079",
+            "airport_ref": "26477",
+            "airport_ident": "VDST",
+            "type": "AAS",
+            "description": "TWR",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302641",
+        "code": "KH",
+        "name": "Cambodia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cambodia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304362",
+        "code": "KH-19",
+        "local_code": "19",
+        "name": "Stueng Traeng",
+        "continent": "AS",
+        "iso_country": "KH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Stueng_Traeng",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93959",
+            "filename": "Stung_Treng_NDB_KH",
+            "ident": "ST",
+            "name": "Stung Treng",
+            "type": "NDB",
+            "frequency_khz": "444",
+            "latitude_deg": "13.524999618530273",
+            "longitude_deg": "106.01499938964844",
+            "elevation_ft": "",
+            "iso_country": "KH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.286",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VDST"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "1702",
+    "ident": "CYCZ",
+    "type": "small_airport",
+    "name": "Fairmont Hot Springs Airport",
+    "latitude_deg": "50.330299377399996",
+    "longitude_deg": "-115.873001099",
+    "elevation_ft": "2661",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Fairmont Hot Springs",
+    "scheduled_service": "no",
+    "gps_code": "CYCZ",
+    "iata_code": "YCZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fairmont_Hot_Springs_Airport",
+    "keywords": "YCZ",
+    "runways": [
+        {
+            "id": "234827",
+            "airport_ref": "1702",
+            "airport_ident": "CYCZ",
+            "length_ft": "6003",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "50.34",
+            "le_longitude_deg": "-115.876",
+            "le_elevation_ft": "2637",
+            "le_heading_degT": "170",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "50.3239",
+            "he_longitude_deg": "-115.871",
+            "he_elevation_ft": "2658",
+            "he_heading_degT": "350",
+            "he_displaced_threshold_ft": "820"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50542",
+            "airport_ref": "1702",
+            "airport_ident": "CYCZ",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        },
+        {
+            "id": "50543",
+            "airport_ref": "1702",
+            "airport_ident": "CYCZ",
+            "type": "RCO",
+            "description": "PACIFIC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87236",
+            "filename": "Fairmont_Hot_Springs_NDB-DME_CA",
+            "ident": "D6",
+            "name": "Fairmont Hot Springs",
+            "type": "NDB-DME",
+            "frequency_khz": "261",
+            "latitude_deg": "50.326900482177734",
+            "longitude_deg": "-115.87699890136719",
+            "elevation_ft": "2661",
+            "iso_country": "CA",
+            "dme_frequency_khz": "109600",
+            "dme_channel": "033X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.456",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYCZ"
+        }
+    ]
+}

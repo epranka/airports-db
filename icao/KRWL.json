@@ -1,0 +1,118 @@
+{
+    "id": "20974",
+    "ident": "KRWL",
+    "type": "medium_airport",
+    "name": "Rawlins Municipal Airport/Harvey Field",
+    "latitude_deg": "41.80559921",
+    "longitude_deg": "-107.1999969",
+    "elevation_ft": "6813",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Rawlins",
+    "scheduled_service": "no",
+    "gps_code": "KRWL",
+    "iata_code": "RWL",
+    "local_code": "RWL",
+    "home_link": "http://www.wyomingairports.org/index.php?/main/airports_detail/rawlins_municipal_airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rawlins_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244262",
+            "airport_ref": "20974",
+            "airport_ident": "KRWL",
+            "length_ft": "7008",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "41.8001",
+            "le_longitude_deg": "-107.21",
+            "le_elevation_ft": "6741",
+            "le_heading_degT": "54",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "41.8114",
+            "he_longitude_deg": "-107.189",
+            "he_elevation_ft": "6813",
+            "he_heading_degT": "234",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244263",
+            "airport_ref": "20974",
+            "airport_ident": "KRWL",
+            "length_ft": "4118",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "41.8078",
+            "le_longitude_deg": "-107.207",
+            "le_elevation_ft": "6813",
+            "le_heading_degT": "115.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "41.803",
+            "he_longitude_deg": "-107.193",
+            "he_elevation_ft": "6813",
+            "he_heading_degT": "295.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67728",
+            "airport_ref": "20974",
+            "airport_ident": "KRWL",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "67729",
+            "airport_ref": "20974",
+            "airport_ident": "KRWL",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "67730",
+            "airport_ref": "20974",
+            "airport_ident": "KRWL",
+            "type": "RDO",
+            "description": "CASPER RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "67731",
+            "airport_ref": "20974",
+            "airport_ident": "KRWL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306127",
+        "code": "US-WY",
+        "local_code": "WY",
+        "name": "Wyoming",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
+        "keywords": ""
+    }
+}

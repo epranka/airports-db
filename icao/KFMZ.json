@@ -1,0 +1,102 @@
+{
+    "id": "19883",
+    "ident": "KFMZ",
+    "type": "small_airport",
+    "name": "Fairmont State Airfield",
+    "latitude_deg": "40.58610153198242",
+    "longitude_deg": "-97.5730972290039",
+    "elevation_ft": "1636",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Fairmont",
+    "scheduled_service": "no",
+    "gps_code": "KFMZ",
+    "iata_code": "",
+    "local_code": "FMZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241245",
+            "airport_ref": "19883",
+            "airport_ident": "KFMZ",
+            "length_ft": "3011",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "40.5854",
+            "le_longitude_deg": "-97.5799",
+            "le_elevation_ft": "1636",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "40.5796",
+            "he_longitude_deg": "-97.5722",
+            "he_elevation_ft": "1633",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241246",
+            "airport_ref": "19883",
+            "airport_ident": "KFMZ",
+            "length_ft": "4316",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "40.5945",
+            "le_longitude_deg": "-97.5711",
+            "le_elevation_ft": "1635",
+            "le_heading_degT": "179.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "40.5827",
+            "he_longitude_deg": "-97.5711",
+            "he_elevation_ft": "1634",
+            "he_heading_degT": "359.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61451",
+            "airport_ref": "19883",
+            "airport_ident": "KFMZ",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "61452",
+            "airport_ref": "19883",
+            "airport_ident": "KFMZ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

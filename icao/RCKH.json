@@ -1,0 +1,128 @@
+{
+    "id": "5516",
+    "ident": "RCKH",
+    "type": "large_airport",
+    "name": "Kaohsiung International Airport",
+    "latitude_deg": "22.57710075378418",
+    "longitude_deg": "120.3499984741211",
+    "elevation_ft": "31",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-KHH",
+    "municipality": "Kaohsiung City",
+    "scheduled_service": "yes",
+    "gps_code": "RCKH",
+    "iata_code": "KHH",
+    "local_code": "",
+    "home_link": "http://www.kia.gov.tw/english/e_index.asp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kaohsiung_International_Airport",
+    "keywords": "Siaogang International Airport, 高雄國際航空站, 小港國際機場",
+    "runways": [
+        {
+            "id": "239315",
+            "airport_ref": "5516",
+            "airport_ident": "RCKH",
+            "length_ft": "10335",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "22.5776",
+            "le_longitude_deg": "120.335",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "91.9",
+            "le_displaced_threshold_ft": "525",
+            "he_ident": "27",
+            "he_latitude_deg": "22.5766",
+            "he_longitude_deg": "120.365",
+            "he_elevation_ft": "30",
+            "he_heading_degT": "271.9",
+            "he_displaced_threshold_ft": "1477"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57999",
+            "airport_ref": "5516",
+            "airport_ident": "RCKH",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "58000",
+            "airport_ref": "5516",
+            "airport_ident": "RCKH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "58001",
+            "airport_ref": "5516",
+            "airport_ident": "RCKH",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "58002",
+            "airport_ref": "5516",
+            "airport_ident": "RCKH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "58003",
+            "airport_ref": "5516",
+            "airport_ident": "RCKH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306750",
+        "code": "TW-KHH",
+        "local_code": "KHH",
+        "name": "Kaohsiung (municipality)",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kaohsiung",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93674",
+            "filename": "Sk_NDB_TW",
+            "ident": "SK",
+            "name": "Sk",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "22.577800750732422",
+            "longitude_deg": "120.32599639892578",
+            "elevation_ft": "",
+            "iso_country": "TW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.006",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "RCKH"
+        }
+    ]
+}

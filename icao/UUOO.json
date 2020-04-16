@@ -1,0 +1,150 @@
+{
+    "id": "26400",
+    "ident": "UUOO",
+    "type": "medium_airport",
+    "name": "Voronezh International Airport",
+    "latitude_deg": "51.81420135498047",
+    "longitude_deg": "39.22959899902344",
+    "elevation_ft": "514",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-VOR",
+    "municipality": "Voronezh",
+    "scheduled_service": "yes",
+    "gps_code": "UUOO",
+    "iata_code": "VOZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Voronezh_International_Airport",
+    "keywords": "Chertovitskoye Airport, Chertovitskoe Airport, Аэропорт Воронеж, Аэропорт Чертовицкое",
+    "runways": [
+        {
+            "id": "238572",
+            "airport_ref": "26400",
+            "airport_ident": "UUOO",
+            "length_ft": "7546",
+            "width_ft": "161",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "51.8209",
+            "le_longitude_deg": "39.217",
+            "le_elevation_ft": "511",
+            "le_heading_degT": "131",
+            "le_displaced_threshold_ft": "230",
+            "he_ident": "30",
+            "he_latitude_deg": "51.8075",
+            "he_longitude_deg": "39.2422",
+            "he_elevation_ft": "487",
+            "he_heading_degT": "311",
+            "he_displaced_threshold_ft": "203"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56764",
+            "airport_ref": "26400",
+            "airport_ident": "UUOO",
+            "type": "APP",
+            "description": "VORONEZH APP",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "56765",
+            "airport_ref": "26400",
+            "airport_ident": "UUOO",
+            "type": "GND",
+            "description": "VORONEZH TAXIING",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "56766",
+            "airport_ref": "26400",
+            "airport_ident": "UUOO",
+            "type": "PMSV",
+            "description": "VORONEZH METEO",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "56767",
+            "airport_ref": "26400",
+            "airport_ident": "UUOO",
+            "type": "RDR",
+            "description": "VORONEZH KRUG",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "56768",
+            "airport_ref": "26400",
+            "airport_ident": "UUOO",
+            "type": "TWR",
+            "description": "VORONEZH TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305343",
+        "code": "RU-VOR",
+        "local_code": "VOR",
+        "name": "Voronezh Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Voronezh_Oblast",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85530",
+            "filename": "Voronezh_NDB_RU",
+            "ident": "AP",
+            "name": "Voronezh",
+            "type": "NDB",
+            "frequency_khz": "289",
+            "latitude_deg": "51.77669906616211",
+            "longitude_deg": "39.30329895019531",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.266",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "UUOO"
+        },
+        {
+            "id": "95496",
+            "filename": "Voronezh_NDB_RU",
+            "ident": "WR",
+            "name": "Voronezh",
+            "type": "NDB",
+            "frequency_khz": "289",
+            "latitude_deg": "51.845001220703125",
+            "longitude_deg": "39.176700592041016",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.267",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "UUOO"
+        }
+    ]
+}

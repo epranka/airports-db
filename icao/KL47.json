@@ -1,0 +1,88 @@
+{
+    "id": "20301",
+    "ident": "KL47",
+    "type": "small_airport",
+    "name": "Olla Airport",
+    "latitude_deg": "31.895399093628",
+    "longitude_deg": "-92.217903137207",
+    "elevation_ft": "130",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Olla",
+    "scheduled_service": "no",
+    "gps_code": "L47",
+    "iata_code": "",
+    "local_code": "L47",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LA32",
+    "runways": [
+        {
+            "id": "245648",
+            "airport_ref": "20301",
+            "airport_ident": "KL47",
+            "length_ft": "3010",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "31.8919",
+            "le_longitude_deg": "-92.2204",
+            "le_elevation_ft": "130",
+            "le_heading_degT": "30.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "31.899",
+            "he_longitude_deg": "-92.2154",
+            "he_elevation_ft": "130",
+            "he_heading_degT": "210.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70764",
+            "airport_ref": "20301",
+            "airport_ident": "KL47",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "70765",
+            "airport_ref": "20301",
+            "airport_ident": "KL47",
+            "type": "FSS",
+            "description": "DE RIDDER RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "70766",
+            "airport_ref": "20301",
+            "airport_ident": "KL47",
+            "type": "MISC",
+            "description": "MONROE RCO",
+            "frequency_mhz": "122.25"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

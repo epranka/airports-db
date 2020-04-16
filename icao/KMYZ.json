@@ -1,0 +1,110 @@
+{
+    "id": "20592",
+    "ident": "KMYZ",
+    "type": "small_airport",
+    "name": "Marysville Municipal Airport",
+    "latitude_deg": "39.85530090332031",
+    "longitude_deg": "-96.63059997558594",
+    "elevation_ft": "1283",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Marysville",
+    "scheduled_service": "no",
+    "gps_code": "KMYZ",
+    "iata_code": "",
+    "local_code": "MYZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241066",
+            "airport_ref": "20592",
+            "airport_ident": "KMYZ",
+            "length_ft": "2190",
+            "width_ft": "75",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "39.8507",
+            "le_longitude_deg": "-96.6327",
+            "le_elevation_ft": "1276",
+            "le_heading_degT": "34",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "39.8557",
+            "he_longitude_deg": "-96.6283",
+            "he_elevation_ft": "1273",
+            "he_heading_degT": "214",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241067",
+            "airport_ref": "20592",
+            "airport_ident": "KMYZ",
+            "length_ft": "4200",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "39.8619",
+            "le_longitude_deg": "-96.6332",
+            "le_elevation_ft": "1277",
+            "le_heading_degT": "161",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "39.851",
+            "he_longitude_deg": "-96.6282",
+            "he_elevation_ft": "1276",
+            "he_heading_degT": "341",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61079",
+            "airport_ref": "20592",
+            "airport_ident": "KMYZ",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "61080",
+            "airport_ref": "20592",
+            "airport_ident": "KMYZ",
+            "type": "FSS",
+            "description": "COLUMBUS RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "61081",
+            "airport_ref": "20592",
+            "airport_ident": "KMYZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

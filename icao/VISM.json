@@ -1,0 +1,104 @@
+{
+    "id": "26576",
+    "ident": "VISM",
+    "type": "small_airport",
+    "name": "Shimla Airport",
+    "latitude_deg": "31.0818",
+    "longitude_deg": "77.068001",
+    "elevation_ft": "5072",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-HP",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "VISM",
+    "iata_code": "SLV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shimla_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236664",
+            "airport_ref": "26576",
+            "airport_ident": "VISM",
+            "length_ft": "4035",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "31.0864",
+            "le_longitude_deg": "77.0644",
+            "le_elevation_ft": "5072",
+            "le_heading_degT": "146.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "31.0772",
+            "he_longitude_deg": "77.0716",
+            "he_elevation_ft": "5072",
+            "he_heading_degT": "326.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "309770",
+            "airport_ref": "26576",
+            "airport_ident": "VISM",
+            "type": "STANDBY",
+            "description": "",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "53861",
+            "airport_ref": "26576",
+            "airport_ident": "VISM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.35"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304175",
+        "code": "IN-HP",
+        "local_code": "HP",
+        "name": "Himachal Pradesh",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93570",
+            "filename": "Simla_NDB_IN",
+            "ident": "SH",
+            "name": "Simla",
+            "type": "NDB",
+            "frequency_khz": "398",
+            "latitude_deg": "31.086200714111328",
+            "longitude_deg": "77.06700134277344",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.112",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VISM"
+        }
+    ]
+}

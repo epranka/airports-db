@@ -1,0 +1,80 @@
+{
+    "id": "18720",
+    "ident": "K3M8",
+    "type": "small_airport",
+    "name": "North Pickens Airport",
+    "latitude_deg": "33.38679885864258",
+    "longitude_deg": "-88.00659942626953",
+    "elevation_ft": "237",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Reform",
+    "scheduled_service": "no",
+    "gps_code": "K3M8",
+    "iata_code": "",
+    "local_code": "3M8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244937",
+            "airport_ref": "18720",
+            "airport_ident": "K3M8",
+            "length_ft": "5144",
+            "width_ft": "80",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "33.3797",
+            "le_longitude_deg": "-88.0075",
+            "le_elevation_ft": "230",
+            "le_heading_degT": "7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "33.3938",
+            "he_longitude_deg": "-88.0056",
+            "he_elevation_ft": "237",
+            "he_heading_degT": "187",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69215",
+            "airport_ref": "18720",
+            "airport_ident": "K3M8",
+            "type": "A/D",
+            "description": "COLUMBUS APP/DEP",
+            "frequency_mhz": "135.6"
+        },
+        {
+            "id": "69216",
+            "airport_ref": "18720",
+            "airport_ident": "K3M8",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

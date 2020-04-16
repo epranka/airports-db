@@ -1,0 +1,96 @@
+{
+    "id": "26473",
+    "ident": "VDBG",
+    "type": "medium_airport",
+    "name": "Battambang Airport",
+    "latitude_deg": "13.095600128173828",
+    "longitude_deg": "103.2239990234375",
+    "elevation_ft": "59",
+    "continent": "AS",
+    "iso_country": "KH",
+    "iso_region": "KH-2",
+    "municipality": "Battambang",
+    "scheduled_service": "yes",
+    "gps_code": "VDBG",
+    "iata_code": "BBM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Battambang_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235103",
+            "airport_ref": "26473",
+            "airport_ident": "VDBG",
+            "length_ft": "5250",
+            "width_ft": "112",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "13.093",
+            "le_longitude_deg": "103.218",
+            "le_elevation_ft": "59",
+            "le_heading_degT": "69",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "13.0981",
+            "he_longitude_deg": "103.231",
+            "he_elevation_ft": "59",
+            "he_heading_degT": "249",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51078",
+            "airport_ref": "26473",
+            "airport_ident": "VDBG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.4"
+        }
+    ],
+    "country": {
+        "id": "302641",
+        "code": "KH",
+        "name": "Cambodia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cambodia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304363",
+        "code": "KH-2",
+        "local_code": "2",
+        "name": "Baat Dambang",
+        "continent": "AS",
+        "iso_country": "KH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baat_Dambang",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85827",
+            "filename": "Battambang_NDB_KH",
+            "ident": "BB",
+            "name": "Battambang",
+            "type": "NDB",
+            "frequency_khz": "484",
+            "latitude_deg": "13.091699600219727",
+            "longitude_deg": "103.2229995727539",
+            "elevation_ft": "",
+            "iso_country": "KH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.274",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VDBG"
+        }
+    ]
+}

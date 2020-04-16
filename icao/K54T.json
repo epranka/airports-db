@@ -1,0 +1,102 @@
+{
+    "id": "18879",
+    "ident": "K54T",
+    "type": "small_airport",
+    "name": "RWJ Airpark",
+    "latitude_deg": "29.7616996765",
+    "longitude_deg": "-94.846496582",
+    "elevation_ft": "30",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Baytown",
+    "scheduled_service": "no",
+    "gps_code": "K54T",
+    "iata_code": "",
+    "local_code": "54T",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242615",
+            "airport_ref": "18879",
+            "airport_ident": "K54T",
+            "length_ft": "5035",
+            "width_ft": "40",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "29.7615",
+            "le_longitude_deg": "-94.8544",
+            "le_elevation_ft": "30",
+            "le_heading_degT": "89",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "29.7618",
+            "he_longitude_deg": "-94.8386",
+            "he_elevation_ft": "27",
+            "he_heading_degT": "269",
+            "he_displaced_threshold_ft": "939"
+        },
+        {
+            "id": "242616",
+            "airport_ref": "18879",
+            "airport_ident": "K54T",
+            "length_ft": "3500",
+            "width_ft": "100",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "29.7663",
+            "le_longitude_deg": "-94.853",
+            "le_elevation_ft": "33",
+            "le_heading_degT": "147.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "29.7581",
+            "he_longitude_deg": "-94.847",
+            "he_elevation_ft": "28",
+            "he_heading_degT": "327.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64291",
+            "airport_ref": "18879",
+            "airport_ident": "K54T",
+            "type": "A/D",
+            "description": "HOUSTON APP/DEP",
+            "frequency_mhz": "134.45"
+        },
+        {
+            "id": "64292",
+            "airport_ref": "18879",
+            "airport_ident": "K54T",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

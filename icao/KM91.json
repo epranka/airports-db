@@ -1,0 +1,88 @@
+{
+    "id": "20463",
+    "ident": "KM91",
+    "type": "small_airport",
+    "name": "Springfield Robertson County Airport",
+    "latitude_deg": "36.53720093",
+    "longitude_deg": "-86.92060089",
+    "elevation_ft": "706",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Springfield",
+    "scheduled_service": "no",
+    "gps_code": "KM91",
+    "iata_code": "",
+    "local_code": "M91",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245537",
+            "airport_ref": "20463",
+            "airport_ident": "KM91",
+            "length_ft": "5006",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "36.5314",
+            "le_longitude_deg": "-86.9253",
+            "le_elevation_ft": "700",
+            "le_heading_degT": "33.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "36.5429",
+            "he_longitude_deg": "-86.916",
+            "he_elevation_ft": "707",
+            "he_heading_degT": "213.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70533",
+            "airport_ref": "20463",
+            "airport_ident": "KM91",
+            "type": "A/D",
+            "description": "NASHVILLE APP/DEP",
+            "frequency_mhz": "119.35"
+        },
+        {
+            "id": "70534",
+            "airport_ref": "20463",
+            "airport_ident": "KM91",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.675"
+        },
+        {
+            "id": "70535",
+            "airport_ref": "20463",
+            "airport_ident": "KM91",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

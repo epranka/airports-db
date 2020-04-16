@@ -1,0 +1,80 @@
+{
+    "id": "18350",
+    "ident": "K0B5",
+    "type": "small_airport",
+    "name": "Turners Falls Airport",
+    "latitude_deg": "42.5914001465",
+    "longitude_deg": "-72.5227966309",
+    "elevation_ft": "356",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Montague",
+    "scheduled_service": "no",
+    "gps_code": "0B5",
+    "iata_code": "",
+    "local_code": "0B5",
+    "home_link": "http://turnersfallsairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Turners_Falls_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243387",
+            "airport_ref": "18350",
+            "airport_ident": "K0B5",
+            "length_ft": "3013",
+            "width_ft": "75",
+            "surface": "ASPH-F",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "42.5947",
+            "le_longitude_deg": "-72.5262",
+            "le_elevation_ft": "346",
+            "le_heading_degT": "143",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "42.5881",
+            "he_longitude_deg": "-72.5194",
+            "he_elevation_ft": "356",
+            "he_heading_degT": "323",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65869",
+            "airport_ref": "18350",
+            "airport_ident": "K0B5",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "123.75"
+        },
+        {
+            "id": "65870",
+            "airport_ref": "18350",
+            "airport_ident": "K0B5",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306095",
+        "code": "US-MA",
+        "local_code": "MA",
+        "name": "Massachusetts",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
+        "keywords": ""
+    }
+}

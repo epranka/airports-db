@@ -1,0 +1,152 @@
+{
+    "id": "3453",
+    "ident": "KCKB",
+    "type": "medium_airport",
+    "name": "North Central West Virginia Airport",
+    "latitude_deg": "39.2966003418",
+    "longitude_deg": "-80.2281036377",
+    "elevation_ft": "1217",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Clarksburg",
+    "scheduled_service": "yes",
+    "gps_code": "KCKB",
+    "iata_code": "CKB",
+    "local_code": "CKB",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Harrison/Marion_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243152",
+            "airport_ref": "3453",
+            "airport_ident": "KCKB",
+            "length_ft": "7800",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "39.2878",
+            "le_longitude_deg": "-80.2329",
+            "le_elevation_ft": "1183",
+            "le_heading_degT": "23",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "39.3055",
+            "he_longitude_deg": "-80.2233",
+            "he_elevation_ft": "1217",
+            "he_heading_degT": "203",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65372",
+            "airport_ref": "3453",
+            "airport_ident": "KCKB",
+            "type": "A/D",
+            "description": "CLARKSBURG APP/DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "65373",
+            "airport_ref": "3453",
+            "airport_ident": "KCKB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.825"
+        },
+        {
+            "id": "65374",
+            "airport_ref": "3453",
+            "airport_ident": "KCKB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "65375",
+            "airport_ref": "3453",
+            "airport_ident": "KCKB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "65376",
+            "airport_ref": "3453",
+            "airport_ident": "KCKB",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "139.05"
+        },
+        {
+            "id": "65377",
+            "airport_ref": "3453",
+            "airport_ident": "KCKB",
+            "type": "RDO",
+            "description": "ELKINS RDO",
+            "frequency_mhz": "112.6"
+        },
+        {
+            "id": "65378",
+            "airport_ref": "3453",
+            "airport_ident": "KCKB",
+            "type": "TWR",
+            "description": "CLARKSBURG TWR",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "65379",
+            "airport_ref": "3453",
+            "airport_ident": "KCKB",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306126",
+        "code": "US-WV",
+        "local_code": "WV",
+        "name": "West Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86824",
+            "filename": "Clarksburg_VOR-DME_US",
+            "ident": "CKB",
+            "name": "Clarksburg",
+            "type": "VOR-DME",
+            "frequency_khz": "112600",
+            "latitude_deg": "39.25320053100586",
+            "longitude_deg": "-80.26789855957031",
+            "elevation_ft": "1430",
+            "iso_country": "US",
+            "dme_frequency_khz": "112600",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.001",
+            "magnetic_variation_deg": "-8.276",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KCKB"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "6412",
+    "ident": "TVSB",
+    "type": "medium_airport",
+    "name": "J F Mitchell Airport",
+    "latitude_deg": "12.9884004593",
+    "longitude_deg": "-61.2620010376",
+    "elevation_ft": "15",
+    "continent": "NA",
+    "iso_country": "VC",
+    "iso_region": "VC-06",
+    "municipality": "Bequia",
+    "scheduled_service": "yes",
+    "gps_code": "TVSB",
+    "iata_code": "BQU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/J._F._Mitchell_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246050",
+            "airport_ref": "6412",
+            "airport_ident": "TVSB",
+            "length_ft": "3609",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "12.9896",
+            "le_longitude_deg": "-61.267",
+            "le_elevation_ft": "",
+            "le_heading_degT": "103",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "12.9873",
+            "he_longitude_deg": "-61.2571",
+            "he_elevation_ft": "",
+            "he_heading_degT": "283",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71634",
+            "airport_ref": "6412",
+            "airport_ident": "TVSB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71635",
+            "airport_ref": "6412",
+            "airport_ident": "TVSB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.45"
+        }
+    ],
+    "country": {
+        "id": "302756",
+        "code": "VC",
+        "name": "Saint Vincent and the Grenadines",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306723",
+        "code": "VC-06",
+        "local_code": "06",
+        "name": "Grenadines",
+        "continent": "NA",
+        "iso_country": "VC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grenadines",
+        "keywords": ""
+    }
+}

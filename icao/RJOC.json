@@ -1,0 +1,104 @@
+{
+    "id": "5592",
+    "ident": "RJOC",
+    "type": "medium_airport",
+    "name": "Izumo Airport",
+    "latitude_deg": "35.4136009216",
+    "longitude_deg": "132.88999939",
+    "elevation_ft": "15",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-32",
+    "municipality": "Izumo",
+    "scheduled_service": "yes",
+    "gps_code": "RJOC",
+    "iata_code": "IZO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Izumo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237162",
+            "airport_ref": "5592",
+            "airport_ident": "RJOC",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "35.4091",
+            "le_longitude_deg": "132.88",
+            "le_elevation_ft": "6",
+            "le_heading_degT": "59.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "35.4183",
+            "he_longitude_deg": "132.899",
+            "he_elevation_ft": "15",
+            "he_heading_degT": "239.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54561",
+            "airport_ref": "5592",
+            "airport_ident": "RJOC",
+            "type": "APP",
+            "description": "MIHO APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "54562",
+            "airport_ref": "5592",
+            "airport_ident": "RJOC",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304317",
+        "code": "JP-32",
+        "local_code": "32",
+        "name": "Shimane Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shimane",
+        "keywords": "Chugoku"
+    },
+    "navaids": [
+        {
+            "id": "95596",
+            "filename": "Izumo_VOR-DME_JP",
+            "ident": "XZE",
+            "name": "Izumo",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "35.417198181152344",
+            "longitude_deg": "132.89199829101562",
+            "elevation_ft": "43",
+            "iso_country": "JP",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.231",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RJOC"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "902",
+    "ident": "CEU2",
+    "type": "small_airport",
+    "name": "Beaverlodge Airport",
+    "latitude_deg": "55.184200286865234",
+    "longitude_deg": "-119.447998046875",
+    "elevation_ft": "2289",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Beaverlodge",
+    "scheduled_service": "no",
+    "gps_code": "CEU2",
+    "iata_code": "",
+    "local_code": "CEU2",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Beaverlodge_Airport",
+    "keywords": "EU2",
+    "runways": [
+        {
+            "id": "234803",
+            "airport_ref": "902",
+            "airport_ident": "CEU2",
+            "length_ft": "3000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "55.1842",
+            "le_longitude_deg": "-119.455",
+            "le_elevation_ft": "",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "55.1842",
+            "he_longitude_deg": "-119.44",
+            "he_elevation_ft": "",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50503",
+            "airport_ref": "902",
+            "airport_ident": "CEU2",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    }
+}

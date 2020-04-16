@@ -1,0 +1,88 @@
+{
+    "id": "20229",
+    "ident": "KJYG",
+    "type": "small_airport",
+    "name": "St James Municipal Airport",
+    "latitude_deg": "43.98630142211914",
+    "longitude_deg": "-94.55789947509766",
+    "elevation_ft": "1067",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "St James",
+    "scheduled_service": "no",
+    "gps_code": "KJYG",
+    "iata_code": "",
+    "local_code": "JYG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242085",
+            "airport_ref": "20229",
+            "airport_ident": "KJYG",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "43.991",
+            "le_longitude_deg": "-94.5618",
+            "le_elevation_ft": "1061",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "43.9816",
+            "he_longitude_deg": "-94.554",
+            "he_elevation_ft": "1065",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63176",
+            "airport_ref": "20229",
+            "airport_ident": "KJYG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "26"
+        },
+        {
+            "id": "63177",
+            "airport_ref": "20229",
+            "airport_ident": "KJYG",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "63178",
+            "airport_ref": "20229",
+            "airport_ident": "KJYG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

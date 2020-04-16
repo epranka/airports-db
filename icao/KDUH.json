@@ -1,0 +1,96 @@
+{
+    "id": "19665",
+    "ident": "KDUH",
+    "type": "small_airport",
+    "name": "Toledo Suburban Airport",
+    "latitude_deg": "41.73590087890625",
+    "longitude_deg": "-83.65540313720703",
+    "elevation_ft": "669",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Lambertville",
+    "scheduled_service": "no",
+    "gps_code": "KDUH",
+    "iata_code": "",
+    "local_code": "DUH",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Toledo_Suburban_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240625",
+            "airport_ref": "19665",
+            "airport_ident": "KDUH",
+            "length_ft": "5013",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "41.7355",
+            "le_longitude_deg": "-83.6646",
+            "le_elevation_ft": "669",
+            "le_heading_degT": "86.9",
+            "le_displaced_threshold_ft": "1274",
+            "he_ident": "27",
+            "he_latitude_deg": "41.7363",
+            "he_longitude_deg": "-83.6462",
+            "he_elevation_ft": "669",
+            "he_heading_degT": "266.9",
+            "he_displaced_threshold_ft": "1200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60272",
+            "airport_ref": "19665",
+            "airport_ident": "KDUH",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "134.35"
+        },
+        {
+            "id": "60273",
+            "airport_ref": "19665",
+            "airport_ident": "KDUH",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.175"
+        },
+        {
+            "id": "60274",
+            "airport_ref": "19665",
+            "airport_ident": "KDUH",
+            "type": "RDO",
+            "description": "CLEVELAND RDO",
+            "frequency_mhz": "113.1"
+        },
+        {
+            "id": "60275",
+            "airport_ref": "19665",
+            "airport_ident": "KDUH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

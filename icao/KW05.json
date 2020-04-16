@@ -1,0 +1,72 @@
+{
+    "id": "21347",
+    "ident": "KW05",
+    "type": "small_airport",
+    "name": "Gettysburg Regional Airport",
+    "latitude_deg": "39.84090042",
+    "longitude_deg": "-77.27420044",
+    "elevation_ft": "590",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Gettysburg",
+    "scheduled_service": "no",
+    "gps_code": "W05",
+    "iata_code": "GTY",
+    "local_code": "W05",
+    "home_link": "http://flygra.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gettysburg_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245855",
+            "airport_ref": "21347",
+            "airport_ident": "KW05",
+            "length_ft": "3100",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "39.8389",
+            "le_longitude_deg": "-77.2789",
+            "le_elevation_ft": "",
+            "le_heading_degT": "61.9",
+            "le_displaced_threshold_ft": "167",
+            "he_ident": "24",
+            "he_latitude_deg": "39.8428",
+            "he_longitude_deg": "-77.2694",
+            "he_elevation_ft": "",
+            "he_heading_degT": "241.9",
+            "he_displaced_threshold_ft": "542"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71203",
+            "airport_ref": "21347",
+            "airport_ident": "KW05",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

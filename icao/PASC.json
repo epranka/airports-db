@@ -1,0 +1,150 @@
+{
+    "id": "5405",
+    "ident": "PASC",
+    "type": "medium_airport",
+    "name": "Deadhorse Airport",
+    "latitude_deg": "70.19470215",
+    "longitude_deg": "-148.4649963",
+    "elevation_ft": "65",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Deadhorse",
+    "scheduled_service": "yes",
+    "gps_code": "PASC",
+    "iata_code": "SCC",
+    "local_code": "SCC",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Deadhorse_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "254802",
+            "airport_ref": "5405",
+            "airport_ident": "PASC",
+            "length_ft": "6500",
+            "width_ft": "150",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "70.1925",
+            "le_longitude_deg": "-148.49",
+            "le_elevation_ft": "64",
+            "le_heading_degT": "75",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "70.1971",
+            "he_longitude_deg": "-148.44",
+            "he_elevation_ft": "58",
+            "he_heading_degT": "255",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64321",
+            "airport_ref": "5405",
+            "airport_ident": "PASC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "64322",
+            "airport_ref": "5405",
+            "airport_ident": "PASC",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "134.4"
+        },
+        {
+            "id": "64323",
+            "airport_ref": "5405",
+            "airport_ident": "PASC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "64324",
+            "airport_ref": "5405",
+            "airport_ident": "PASC",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "64325",
+            "airport_ref": "5405",
+            "airport_ident": "PASC",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92818",
+            "filename": "Put_River_NDB_US",
+            "ident": "PVQ",
+            "name": "Put River",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "70.22270202636719",
+            "longitude_deg": "-148.41600036621094",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "24.281",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PASC"
+        },
+        {
+            "id": "93452",
+            "filename": "Deadhorse_VOR-DME_US",
+            "ident": "SCC",
+            "name": "Deadhorse",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "70.19920349121094",
+            "longitude_deg": "-148.41600036621094",
+            "elevation_ft": "74",
+            "iso_country": "US",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "31.001",
+            "magnetic_variation_deg": "24.275",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PASC"
+        }
+    ]
+}

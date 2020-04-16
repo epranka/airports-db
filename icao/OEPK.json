@@ -1,0 +1,80 @@
+{
+    "id": "5108",
+    "ident": "OEPK",
+    "type": "small_airport",
+    "name": "Ipsa 3 Airport",
+    "latitude_deg": "27.954200744628906",
+    "longitude_deg": "46.74259948730469",
+    "elevation_ft": "1000",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-04",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "OEPK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238652",
+            "airport_ref": "5108",
+            "airport_ident": "OEPK",
+            "length_ft": "6007",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "27.9621",
+            "le_longitude_deg": "46.74",
+            "le_elevation_ft": "",
+            "le_heading_degT": "163.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "27.9463",
+            "he_longitude_deg": "46.7453",
+            "he_elevation_ft": "",
+            "he_heading_degT": "343.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56929",
+            "airport_ref": "5108",
+            "airport_ident": "OEPK",
+            "type": "A/G",
+            "description": "DISPATCH",
+            "frequency_mhz": "138.25"
+        },
+        {
+            "id": "56930",
+            "airport_ref": "5108",
+            "airport_ident": "OEPK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305363",
+        "code": "SA-04",
+        "local_code": "04",
+        "name": "Ash Sharqiyah Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ash_Sharqiyah_Region",
+        "keywords": ""
+    }
+}

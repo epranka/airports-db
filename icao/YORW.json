@@ -1,0 +1,88 @@
+{
+    "id": "38538",
+    "ident": "YORW",
+    "type": "small_airport",
+    "name": "Orient Well Airport",
+    "latitude_deg": "-29.199199676513672",
+    "longitude_deg": "121.43800354003906",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YORW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259199",
+            "airport_ref": "38538",
+            "airport_ident": "YORW",
+            "length_ft": "4265",
+            "width_ft": "",
+            "surface": "X",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74220",
+            "airport_ref": "38538",
+            "airport_ident": "YORW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "74221",
+            "airport_ref": "38538",
+            "airport_ident": "YORW",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "74222",
+            "airport_ref": "38538",
+            "airport_ident": "YORW",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.7"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": ""
+    }
+}

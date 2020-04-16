@@ -1,0 +1,152 @@
+{
+    "id": "3526",
+    "ident": "KFBG",
+    "type": "medium_airport",
+    "name": "Simmons Army Air Field",
+    "latitude_deg": "35.13180161",
+    "longitude_deg": "-78.93669891",
+    "elevation_ft": "244",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Fort Bragg",
+    "scheduled_service": "no",
+    "gps_code": "KFBG",
+    "iata_code": "FBG",
+    "local_code": "FBG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Simmons_Army_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245028",
+            "airport_ref": "3526",
+            "airport_ident": "KFBG",
+            "length_ft": "4650",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "35.1314",
+            "le_longitude_deg": "-78.9443",
+            "le_elevation_ft": "242",
+            "le_heading_degT": "85.9",
+            "le_displaced_threshold_ft": "1050",
+            "he_ident": "27",
+            "he_latitude_deg": "35.1323",
+            "he_longitude_deg": "-78.9288",
+            "he_elevation_ft": "225",
+            "he_heading_degT": "265.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69424",
+            "airport_ref": "3526",
+            "airport_ident": "KFBG",
+            "type": "A/D",
+            "description": "FAYETTEVILLE APP/DEP",
+            "frequency_mhz": "133"
+        },
+        {
+            "id": "69425",
+            "airport_ref": "3526",
+            "airport_ident": "KFBG",
+            "type": "AAS",
+            "description": "FLT ADVSY",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "69426",
+            "airport_ref": "3526",
+            "airport_ident": "KFBG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "139.25"
+        },
+        {
+            "id": "69427",
+            "airport_ref": "3526",
+            "airport_ident": "KFBG",
+            "type": "GCCD",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "69428",
+            "airport_ref": "3526",
+            "airport_ident": "KFBG",
+            "type": "MISC",
+            "description": "RANGE RDO",
+            "frequency_mhz": "46.75"
+        },
+        {
+            "id": "69429",
+            "airport_ref": "3526",
+            "airport_ident": "KFBG",
+            "type": "OPS",
+            "description": "BASE OPS",
+            "frequency_mhz": "142.35"
+        },
+        {
+            "id": "69430",
+            "airport_ref": "3526",
+            "airport_ident": "KFBG",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "141.25"
+        },
+        {
+            "id": "69431",
+            "airport_ref": "3526",
+            "airport_ident": "KFBG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87984",
+            "filename": "Fort_Bragg_NDB_US",
+            "ident": "FGP",
+            "name": "Fort Bragg",
+            "type": "NDB",
+            "frequency_khz": "393",
+            "latitude_deg": "35.13880157470703",
+            "longitude_deg": "-78.8125",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.275",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KFBG"
+        }
+    ]
+}

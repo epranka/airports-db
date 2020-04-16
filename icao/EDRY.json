@@ -1,0 +1,102 @@
+{
+    "id": "2268",
+    "ident": "EDRY",
+    "type": "small_airport",
+    "name": "Speyer Airfield",
+    "latitude_deg": "49.304722",
+    "longitude_deg": "8.451389",
+    "elevation_ft": "312",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Speyer",
+    "scheduled_service": "no",
+    "gps_code": "EDRY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.flugplatz-speyer.de",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236201",
+            "airport_ref": "2268",
+            "airport_ident": "EDRY",
+            "length_ft": "5501",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "49.3081",
+            "le_longitude_deg": "8.44903",
+            "le_elevation_ft": "312",
+            "le_heading_degT": "165",
+            "le_displaced_threshold_ft": "1106",
+            "he_ident": "34",
+            "he_latitude_deg": "49.2974",
+            "he_longitude_deg": "8.45336",
+            "he_elevation_ft": "312",
+            "he_heading_degT": "345",
+            "he_displaced_threshold_ft": "452"
+        },
+        {
+            "id": "236202",
+            "airport_ref": "2268",
+            "airport_ident": "EDRY",
+            "length_ft": "3281",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16R",
+            "le_latitude_deg": "49.3077",
+            "le_longitude_deg": "8.44834",
+            "le_elevation_ft": "",
+            "le_heading_degT": "165",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34L",
+            "he_latitude_deg": "49.299",
+            "he_longitude_deg": "8.45189",
+            "he_elevation_ft": "",
+            "he_heading_degT": "345",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52956",
+            "airport_ref": "2268",
+            "airport_ident": "EDRY",
+            "type": "AFIS",
+            "description": "LANGEN INFORMATION",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "52957",
+            "airport_ref": "2268",
+            "airport_ident": "EDRY",
+            "type": "INFO",
+            "description": "SPEYER INFO",
+            "frequency_mhz": "118.08"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303557",
+        "code": "DE-RP",
+        "local_code": "RP",
+        "name": "Rhineland-Palatinate",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rhineland-Palatinate",
+        "keywords": "Rheinland-Pfalz"
+    }
+}

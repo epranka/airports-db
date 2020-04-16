@@ -1,0 +1,142 @@
+{
+    "id": "20332",
+    "ident": "KLFK",
+    "type": "medium_airport",
+    "name": "Angelina County Airport",
+    "latitude_deg": "31.2339992523",
+    "longitude_deg": "-94.75",
+    "elevation_ft": "296",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Lufkin",
+    "scheduled_service": "no",
+    "gps_code": "KLFK",
+    "iata_code": "LFK",
+    "local_code": "LFK",
+    "home_link": "http://www.angelinacounty.net/departments/airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Angelina_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243080",
+            "airport_ref": "20332",
+            "airport_ident": "KLFK",
+            "length_ft": "5398",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "31.2343",
+            "le_longitude_deg": "-94.7574",
+            "le_elevation_ft": "284",
+            "le_heading_degT": "75",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "31.2381",
+            "he_longitude_deg": "-94.7407",
+            "he_elevation_ft": "296",
+            "he_heading_degT": "255",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243081",
+            "airport_ref": "20332",
+            "airport_ident": "KLFK",
+            "length_ft": "4309",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "31.2369",
+            "le_longitude_deg": "-94.7535",
+            "le_elevation_ft": "275",
+            "le_heading_degT": "160",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "31.2258",
+            "he_longitude_deg": "-94.7488",
+            "he_elevation_ft": "275",
+            "he_heading_degT": "340",
+            "he_displaced_threshold_ft": "105"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65235",
+            "airport_ref": "20332",
+            "airport_ident": "KLFK",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.625"
+        },
+        {
+            "id": "65236",
+            "airport_ref": "20332",
+            "airport_ident": "KLFK",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "65237",
+            "airport_ref": "20332",
+            "airport_ident": "KLFK",
+            "type": "RDO",
+            "description": "MONTGOMERY CO RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "65238",
+            "airport_ref": "20332",
+            "airport_ident": "KLFK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90291",
+            "filename": "Flufy_NDB_US",
+            "ident": "LF",
+            "name": "Flufy",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "31.218900680541992",
+            "longitude_deg": "-94.82510375976562",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.298",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KLFK"
+        }
+    ]
+}

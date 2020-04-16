@@ -1,0 +1,72 @@
+{
+    "id": "20612",
+    "ident": "KN53",
+    "type": "small_airport",
+    "name": "Stroudsburg Pocono Airport",
+    "latitude_deg": "41.0358009338",
+    "longitude_deg": "-75.1605987549",
+    "elevation_ft": "480",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "East Stroudsburg",
+    "scheduled_service": "no",
+    "gps_code": "KN53",
+    "iata_code": "ESP",
+    "local_code": "N53",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Stroudsburg-Pocono_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242777",
+            "airport_ref": "20612",
+            "airport_ident": "KN53",
+            "length_ft": "3087",
+            "width_ft": "30",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "41.0342",
+            "le_longitude_deg": "-75.1661",
+            "le_elevation_ft": "471",
+            "le_heading_degT": "67",
+            "le_displaced_threshold_ft": "100",
+            "he_ident": "26",
+            "he_latitude_deg": "41.0376",
+            "he_longitude_deg": "-75.1555",
+            "he_elevation_ft": "480",
+            "he_heading_degT": "247",
+            "he_displaced_threshold_ft": "770"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64616",
+            "airport_ref": "20612",
+            "airport_ident": "KN53",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

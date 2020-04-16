@@ -1,0 +1,134 @@
+{
+    "id": "19963",
+    "ident": "KGMU",
+    "type": "medium_airport",
+    "name": "Greenville Downtown Airport",
+    "latitude_deg": "34.847900390599996",
+    "longitude_deg": "-82.34999847410002",
+    "elevation_ft": "1048",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Greenville",
+    "scheduled_service": "no",
+    "gps_code": "KGMU",
+    "iata_code": "GMU",
+    "local_code": "GMU",
+    "home_link": "http://www.greenvilledowntownairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Greenville_Downtown_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244008",
+            "airport_ref": "19963",
+            "airport_ident": "KGMU",
+            "length_ft": "5393",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "34.8405",
+            "le_longitude_deg": "-82.3486",
+            "le_elevation_ft": "988",
+            "le_heading_degT": "4.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "34.8553",
+            "he_longitude_deg": "-82.3482",
+            "he_elevation_ft": "1048",
+            "he_heading_degT": "184.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244009",
+            "airport_ref": "19963",
+            "airport_ident": "KGMU",
+            "length_ft": "3998",
+            "width_ft": "80",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "34.8481",
+            "le_longitude_deg": "-82.3588",
+            "le_elevation_ft": "993",
+            "le_heading_degT": "91.7",
+            "le_displaced_threshold_ft": "265",
+            "he_ident": "28",
+            "he_latitude_deg": "34.8478",
+            "he_longitude_deg": "-82.3455",
+            "he_elevation_ft": "1013",
+            "he_heading_degT": "271.7",
+            "he_displaced_threshold_ft": "270"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67205",
+            "airport_ref": "19963",
+            "airport_ident": "KGMU",
+            "type": "A/D",
+            "description": "GREER APP/DEP",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "67206",
+            "airport_ref": "19963",
+            "airport_ident": "KGMU",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "127.075"
+        },
+        {
+            "id": "67207",
+            "airport_ref": "19963",
+            "airport_ident": "KGMU",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "67208",
+            "airport_ref": "19963",
+            "airport_ident": "KGMU",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.25"
+        },
+        {
+            "id": "67209",
+            "airport_ref": "19963",
+            "airport_ident": "KGMU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "67210",
+            "airport_ref": "19963",
+            "airport_ident": "KGMU",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306116",
+        "code": "US-SC",
+        "local_code": "SC",
+        "name": "South Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
+        "keywords": ""
+    }
+}

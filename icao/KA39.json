@@ -1,0 +1,72 @@
+{
+    "id": "19221",
+    "ident": "KA39",
+    "type": "small_airport",
+    "name": "Ak-Chin Regional Airport",
+    "latitude_deg": "32.990806",
+    "longitude_deg": "-111.918528",
+    "elevation_ft": "1300",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Maricopa",
+    "scheduled_service": "no",
+    "gps_code": "A39",
+    "iata_code": "",
+    "local_code": "A39",
+    "home_link": "http://akchinairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Phoenix_Regional_Airport",
+    "keywords": "Phoenix Regional Airport",
+    "runways": [
+        {
+            "id": "240084",
+            "airport_ref": "19221",
+            "airport_ident": "KA39",
+            "length_ft": "4751",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "4",
+            "le_latitude_deg": "32.9865",
+            "le_longitude_deg": "-111.926",
+            "le_elevation_ft": "",
+            "le_heading_degT": "41",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "32.9968",
+            "he_longitude_deg": "-111.915",
+            "he_elevation_ft": "",
+            "he_heading_degT": "221",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59432",
+            "airport_ref": "19221",
+            "airport_ident": "KA39",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

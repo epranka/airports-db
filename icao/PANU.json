@@ -1,0 +1,88 @@
+{
+    "id": "5417",
+    "ident": "PANU",
+    "type": "small_airport",
+    "name": "Nulato Airport",
+    "latitude_deg": "64.729301",
+    "longitude_deg": "-158.074005",
+    "elevation_ft": "399",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Nulato",
+    "scheduled_service": "no",
+    "gps_code": "PANU",
+    "iata_code": "NUL",
+    "local_code": "NUL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nulato_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239665",
+            "airport_ref": "5417",
+            "airport_ident": "PANU",
+            "length_ft": "4000",
+            "width_ft": "100",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "64.7253",
+            "le_longitude_deg": "-158.083",
+            "le_elevation_ft": "356",
+            "le_heading_degT": "42",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "64.7334",
+            "he_longitude_deg": "-158.066",
+            "he_elevation_ft": "399",
+            "he_heading_degT": "222",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58670",
+            "airport_ref": "5417",
+            "airport_ident": "PANU",
+            "type": "ARTC",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "58671",
+            "airport_ref": "5417",
+            "airport_ident": "PANU",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "58672",
+            "airport_ref": "5417",
+            "airport_ident": "PANU",
+            "type": "FSS",
+            "description": "FAIRBANKS RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    }
+}

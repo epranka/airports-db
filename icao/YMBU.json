@@ -1,0 +1,102 @@
+{
+    "id": "27046",
+    "ident": "YMBU",
+    "type": "small_airport",
+    "name": "Maryborough Airport",
+    "latitude_deg": "-37.03310012817383",
+    "longitude_deg": "143.70899963378906",
+    "elevation_ft": "766",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YMBU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Maryborough_Airport_(Victoria)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233565",
+            "airport_ref": "27046",
+            "airport_ident": "YMBU",
+            "length_ft": "1908",
+            "width_ft": "100",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-37.0328",
+            "le_longitude_deg": "143.709",
+            "le_elevation_ft": "",
+            "le_heading_degT": "68",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "-37.0308",
+            "he_longitude_deg": "143.715",
+            "he_elevation_ft": "",
+            "he_heading_degT": "248",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "233566",
+            "airport_ref": "27046",
+            "airport_ident": "YMBU",
+            "length_ft": "3414",
+            "width_ft": "100",
+            "surface": "PER",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "-37.0305",
+            "le_longitude_deg": "143.707",
+            "le_elevation_ft": "766",
+            "le_heading_degT": "174",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "-37.0398",
+            "he_longitude_deg": "143.708",
+            "he_elevation_ft": "766",
+            "he_heading_degT": "354",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49225",
+            "airport_ref": "27046",
+            "airport_ident": "YMBU",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "49226",
+            "airport_ref": "27046",
+            "airport_ident": "YMBU",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "126.8"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302975",
+        "code": "AU-VIC",
+        "local_code": "VIC",
+        "name": "Victoria",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "4455",
+    "ident": "LPOV",
+    "type": "medium_airport",
+    "name": "Ovar Air Base",
+    "latitude_deg": "40.915901",
+    "longitude_deg": "-8.64592",
+    "elevation_ft": "56",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-01",
+    "municipality": "Ovar",
+    "scheduled_service": "no",
+    "gps_code": "LPOV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238337",
+            "airport_ref": "4455",
+            "airport_ident": "LPOV",
+            "length_ft": "8005",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.9268",
+            "le_longitude_deg": "-8.6469",
+            "le_elevation_ft": "44",
+            "le_heading_degT": "176",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "40.905",
+            "he_longitude_deg": "-8.64495",
+            "he_elevation_ft": "56",
+            "he_heading_degT": "356",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56312",
+            "airport_ref": "4455",
+            "airport_ident": "LPOV",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "56313",
+            "airport_ref": "4455",
+            "airport_ident": "LPOV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302711",
+        "code": "PT",
+        "name": "Portugal",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
+        "keywords": "Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "305167",
+        "code": "PT-01",
+        "local_code": "01",
+        "name": "Aveiro District",
+        "continent": "EU",
+        "iso_country": "PT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aveiro_District",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92166",
+            "filename": "Ovar_TACAN_PT",
+            "ident": "OVR",
+            "name": "Ovar",
+            "type": "TACAN",
+            "frequency_khz": "110600",
+            "latitude_deg": "40.887001037597656",
+            "longitude_deg": "-8.643349647521973",
+            "elevation_ft": "102",
+            "iso_country": "PT",
+            "dme_frequency_khz": "110600",
+            "dme_channel": "043X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.585",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPOV"
+        }
+    ]
+}

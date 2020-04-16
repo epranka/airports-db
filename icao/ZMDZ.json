@@ -1,0 +1,104 @@
+{
+    "id": "27209",
+    "ident": "ZMDZ",
+    "type": "medium_airport",
+    "name": "Dalanzadgad Airport",
+    "latitude_deg": "43.59170150756836",
+    "longitude_deg": "104.43000030517578",
+    "elevation_ft": "4787",
+    "continent": "AS",
+    "iso_country": "MN",
+    "iso_region": "MN-053",
+    "municipality": "Dalanzadgad",
+    "scheduled_service": "yes",
+    "gps_code": "ZMDZ",
+    "iata_code": "DLZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dalanzadgad_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237555",
+            "airport_ref": "27209",
+            "airport_ident": "ZMDZ",
+            "length_ft": "7545",
+            "width_ft": "164",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "43.5823",
+            "le_longitude_deg": "104.423",
+            "le_elevation_ft": "4787",
+            "le_heading_degT": "26.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "43.6012",
+            "he_longitude_deg": "104.436",
+            "he_elevation_ft": "4704",
+            "he_heading_degT": "206.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55292",
+            "airport_ref": "27209",
+            "airport_ident": "ZMDZ",
+            "type": "APP",
+            "description": "HONGOR APP",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "55293",
+            "airport_ref": "27209",
+            "airport_ident": "ZMDZ",
+            "type": "RDO",
+            "description": "HONGOR RDO",
+            "frequency_mhz": "550.5"
+        }
+    ],
+    "country": {
+        "id": "302650",
+        "code": "MN",
+        "name": "Mongolia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongolia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304690",
+        "code": "MN-053",
+        "local_code": "053",
+        "name": "Ömnögovi",
+        "continent": "AS",
+        "iso_country": "MN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Omnogovi",
+        "keywords": "Өмнөговь"
+    },
+    "navaids": [
+        {
+            "id": "94840",
+            "filename": "Dalanzadgad_NDB_MN",
+            "ident": "UG",
+            "name": "Dalanzadgad",
+            "type": "NDB",
+            "frequency_khz": "430",
+            "latitude_deg": "43.60900115966797",
+            "longitude_deg": "104.44200134277344",
+            "elevation_ft": "",
+            "iso_country": "MN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.441",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ZMDZ"
+        }
+    ]
+}

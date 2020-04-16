@@ -1,0 +1,142 @@
+{
+    "id": "4264",
+    "ident": "LGKO",
+    "type": "medium_airport",
+    "name": "Kos Airport",
+    "latitude_deg": "36.79330062866211",
+    "longitude_deg": "27.091699600219727",
+    "elevation_ft": "412",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-81",
+    "municipality": "Kos Island",
+    "scheduled_service": "yes",
+    "gps_code": "LGKO",
+    "iata_code": "KGS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kos_Island_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236341",
+            "airport_ref": "4264",
+            "airport_ident": "LGKO",
+            "length_ft": "7841",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "36.8036",
+            "le_longitude_deg": "27.0836",
+            "le_elevation_ft": "412",
+            "le_heading_degT": "148",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "36.7852",
+            "he_longitude_deg": "27.0979",
+            "he_elevation_ft": "373",
+            "he_heading_degT": "328",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53334",
+            "airport_ref": "4264",
+            "airport_ident": "LGKO",
+            "type": "A/G",
+            "description": "IPPOKRATIS RDO",
+            "frequency_mhz": "563.7"
+        },
+        {
+            "id": "53335",
+            "airport_ref": "4264",
+            "airport_ident": "LGKO",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.95"
+        },
+        {
+            "id": "53336",
+            "airport_ref": "4264",
+            "airport_ident": "LGKO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "53337",
+            "airport_ref": "4264",
+            "airport_ident": "LGKO",
+            "type": "TWR",
+            "description": "IPPOKRATIS TWR",
+            "frequency_mhz": "121.05"
+        }
+    ],
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "303948",
+        "code": "GR-81",
+        "local_code": "81",
+        "name": "Dodecanese",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dodecanese",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89921",
+            "filename": "Kos_VOR-DME_GR",
+            "ident": "KOS",
+            "name": "Kos",
+            "type": "VOR-DME",
+            "frequency_khz": "109000",
+            "latitude_deg": "36.79059982299805",
+            "longitude_deg": "27.091100692749023",
+            "elevation_ft": "410",
+            "iso_country": "GR",
+            "dme_frequency_khz": "109000",
+            "dme_channel": "027X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.343",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LGKO"
+        },
+        {
+            "id": "89922",
+            "filename": "Kos_NDB_GR",
+            "ident": "KOS",
+            "name": "Kos",
+            "type": "NDB",
+            "frequency_khz": "311",
+            "latitude_deg": "36.7952995300293",
+            "longitude_deg": "27.091100692749023",
+            "elevation_ft": "",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.343",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LGKO"
+        }
+    ]
+}

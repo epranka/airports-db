@@ -1,0 +1,136 @@
+{
+    "id": "3666",
+    "ident": "KMCC",
+    "type": "medium_airport",
+    "name": "Mc Clellan Airfield",
+    "latitude_deg": "38.66759872",
+    "longitude_deg": "-121.401001",
+    "elevation_ft": "77",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Sacramento",
+    "scheduled_service": "no",
+    "gps_code": "KMCC",
+    "iata_code": "MCC",
+    "local_code": "MCC",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/McClellan_Airfield",
+    "keywords": "McClellan AFB",
+    "runways": [
+        {
+            "id": "243564",
+            "airport_ref": "3666",
+            "airport_ident": "KMCC",
+            "length_ft": "10600",
+            "width_ft": "200",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "38.6822",
+            "le_longitude_deg": "-121.401",
+            "le_elevation_ft": "75",
+            "le_heading_degT": "179.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "38.6531",
+            "he_longitude_deg": "-121.401",
+            "he_elevation_ft": "70",
+            "he_heading_degT": "359.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66272",
+            "airport_ref": "3666",
+            "airport_ident": "KMCC",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "66273",
+            "airport_ref": "3666",
+            "airport_ident": "KMCC",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "109.2"
+        },
+        {
+            "id": "66274",
+            "airport_ref": "3666",
+            "airport_ident": "KMCC",
+            "type": "INFO",
+            "description": "USCG COMSTA SAN FRAN",
+            "frequency_mhz": "312.3"
+        },
+        {
+            "id": "66275",
+            "airport_ref": "3666",
+            "airport_ident": "KMCC",
+            "type": "MISC",
+            "description": "USCG SACRAMENTO",
+            "frequency_mhz": "167.9"
+        },
+        {
+            "id": "66276",
+            "airport_ref": "3666",
+            "airport_ident": "KMCC",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "66277",
+            "airport_ref": "3666",
+            "airport_ident": "KMCC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.975"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90789",
+            "filename": "Mc_Clellan_VOR-DME_US",
+            "ident": "MCC",
+            "name": "Mc Clellan",
+            "type": "VOR-DME",
+            "frequency_khz": "109200",
+            "latitude_deg": "38.66740036010742",
+            "longitude_deg": "-121.40399932861328",
+            "elevation_ft": "72",
+            "iso_country": "US",
+            "dme_frequency_khz": "109200",
+            "dme_channel": "029X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "17.001",
+            "magnetic_variation_deg": "14.499",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMCC"
+        }
+    ]
+}

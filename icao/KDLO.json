@@ -1,0 +1,88 @@
+{
+    "id": "19639",
+    "ident": "KDLO",
+    "type": "small_airport",
+    "name": "Delano Municipal Airport",
+    "latitude_deg": "35.745601654052734",
+    "longitude_deg": "-119.23699951171875",
+    "elevation_ft": "314",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Delano",
+    "scheduled_service": "no",
+    "gps_code": "KDLO",
+    "iata_code": "",
+    "local_code": "DLO",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Delano_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241409",
+            "airport_ref": "19639",
+            "airport_ident": "KDLO",
+            "length_ft": "5650",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "35.7528",
+            "le_longitude_deg": "-119.24",
+            "le_elevation_ft": "313",
+            "le_heading_degT": "158.6",
+            "le_displaced_threshold_ft": "1640",
+            "he_ident": "32",
+            "he_latitude_deg": "35.7384",
+            "he_longitude_deg": "-119.233",
+            "he_elevation_ft": "311",
+            "he_heading_degT": "338.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61799",
+            "airport_ref": "19639",
+            "airport_ident": "KDLO",
+            "type": "A/D",
+            "description": "BAKERSFIELD APP/DEP",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "61800",
+            "airport_ref": "19639",
+            "airport_ident": "KDLO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.55"
+        },
+        {
+            "id": "61801",
+            "airport_ref": "19639",
+            "airport_ident": "KDLO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

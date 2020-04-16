@@ -1,0 +1,80 @@
+{
+    "id": "20541",
+    "ident": "KMO6",
+    "type": "small_airport",
+    "name": "Washington Regional Airport",
+    "latitude_deg": "38.587601",
+    "longitude_deg": "-90.993797",
+    "elevation_ft": "488",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Washington",
+    "scheduled_service": "no",
+    "gps_code": "KFYG",
+    "iata_code": "",
+    "local_code": "FYG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "MO6",
+    "runways": [
+        {
+            "id": "239754",
+            "airport_ref": "20541",
+            "airport_ident": "KMO6",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "38.5938",
+            "le_longitude_deg": "-90.9976",
+            "le_elevation_ft": "488",
+            "le_heading_degT": "154",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "38.5814",
+            "he_longitude_deg": "-90.99",
+            "he_elevation_ft": "485",
+            "he_heading_degT": "334",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58911",
+            "airport_ref": "20541",
+            "airport_ident": "KMO6",
+            "type": "A/D",
+            "description": "ST LOUIS APP/DEP",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "58912",
+            "airport_ref": "20541",
+            "airport_ident": "KMO6",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

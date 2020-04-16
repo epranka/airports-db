@@ -1,0 +1,88 @@
+{
+    "id": "20938",
+    "ident": "KRKW",
+    "type": "small_airport",
+    "name": "Rockwood Municipal Airport",
+    "latitude_deg": "35.9222984314",
+    "longitude_deg": "-84.6896972656",
+    "elevation_ft": "1664",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Rockwood",
+    "scheduled_service": "no",
+    "gps_code": "KRKW",
+    "iata_code": "RKW",
+    "local_code": "RKW",
+    "home_link": "http://www.rockwoodtn.org/airport.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rockwood_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243635",
+            "airport_ref": "20938",
+            "airport_ident": "KRKW",
+            "length_ft": "4995",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "35.917",
+            "le_longitude_deg": "-84.6951",
+            "le_elevation_ft": "1659",
+            "le_heading_degT": "39.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "35.9276",
+            "he_longitude_deg": "-84.6844",
+            "he_elevation_ft": "1630",
+            "he_heading_degT": "219.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66433",
+            "airport_ref": "20938",
+            "airport_ident": "KRKW",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.775"
+        },
+        {
+            "id": "66434",
+            "airport_ref": "20938",
+            "airport_ident": "KRKW",
+            "type": "CNTR",
+            "description": "ATLANTA CNTR",
+            "frequency_mhz": "133.6"
+        },
+        {
+            "id": "66435",
+            "airport_ref": "20938",
+            "airport_ident": "KRKW",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

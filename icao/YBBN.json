@@ -1,0 +1,158 @@
+{
+    "id": "26901",
+    "ident": "YBBN",
+    "type": "large_airport",
+    "name": "Brisbane International Airport",
+    "latitude_deg": "-27.384199142456055",
+    "longitude_deg": "153.11700439453125",
+    "elevation_ft": "13",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Brisbane",
+    "scheduled_service": "yes",
+    "gps_code": "YBBN",
+    "iata_code": "BNE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brisbane_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233169",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
+            "length_ft": "11680",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-27.4039",
+            "le_longitude_deg": "153.118",
+            "le_elevation_ft": "12",
+            "le_heading_degT": "27",
+            "le_displaced_threshold_ft": "197",
+            "he_ident": "19",
+            "he_latitude_deg": "-27.3753",
+            "he_longitude_deg": "153.134",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "207",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "233170",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
+            "length_ft": "5577",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-27.3578",
+            "le_longitude_deg": "153.124",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "146.7",
+            "le_displaced_threshold_ft": "197",
+            "he_ident": "32",
+            "he_latitude_deg": "-27.3706",
+            "he_longitude_deg": "153.133",
+            "he_elevation_ft": "9",
+            "he_heading_degT": "326.7",
+            "he_displaced_threshold_ft": "197"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48631",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "48632",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "113.2"
+        },
+        {
+            "id": "48633",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "48634",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
+            "type": "FSS",
+            "description": "RADAR",
+            "frequency_mhz": "125.7"
+        },
+        {
+            "id": "48635",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "48636",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.5"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86189",
+            "filename": "Brisbane_VOR-DME_AU",
+            "ident": "BN",
+            "name": "Brisbane",
+            "type": "VOR-DME",
+            "frequency_khz": "113200",
+            "latitude_deg": "-27.365800857543945",
+            "longitude_deg": "153.13900756835938",
+            "elevation_ft": "28",
+            "iso_country": "AU",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.007",
+            "magnetic_variation_deg": "11.073",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YBBN"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "id": "5109",
+    "ident": "OEPS",
+    "type": "medium_airport",
+    "name": "Prince Sultan Air Base",
+    "latitude_deg": "24.062700271606445",
+    "longitude_deg": "47.580501556396484",
+    "elevation_ft": "1651",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-01",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "OEPS",
+    "iata_code": "AKH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "OEKH",
+    "runways": [
+        {
+            "id": "238689",
+            "airport_ref": "5109",
+            "airport_ident": "OEPS",
+            "length_ft": "13143",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "24.0807",
+            "le_longitude_deg": "47.5789",
+            "le_elevation_ft": "1601",
+            "le_heading_degT": "175",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "24.0447",
+            "he_longitude_deg": "47.5821",
+            "he_elevation_ft": "1651",
+            "he_heading_degT": "355",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56997",
+            "airport_ref": "5109",
+            "airport_ident": "OEPS",
+            "type": "APP",
+            "description": "SULTAN APP",
+            "frequency_mhz": "123.425"
+        },
+        {
+            "id": "56998",
+            "airport_ref": "5109",
+            "airport_ident": "OEPS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "136.975"
+        },
+        {
+            "id": "56999",
+            "airport_ref": "5109",
+            "airport_ident": "OEPS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "57000",
+            "airport_ref": "5109",
+            "airport_ident": "OEPS",
+            "type": "POST",
+            "description": "AMC COMD POST",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "57001",
+            "airport_ref": "5109",
+            "airport_ident": "OEPS",
+            "type": "TWR",
+            "description": "SULTAN TWR",
+            "frequency_mhz": "126.8"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305360",
+        "code": "SA-01",
+        "local_code": "01",
+        "name": "Riyadh Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Riyadh_Region",
+        "keywords": "Riyad"
+    },
+    "navaids": [
+        {
+            "id": "92719",
+            "filename": "Prince_Sultan_VORTAC_SA",
+            "ident": "PSA",
+            "name": "Prince Sultan",
+            "type": "VORTAC",
+            "frequency_khz": "115400",
+            "latitude_deg": "24.07390022277832",
+            "longitude_deg": "47.58330154418945",
+            "elevation_ft": "1599",
+            "iso_country": "SA",
+            "dme_frequency_khz": "115400",
+            "dme_channel": "101X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.144",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OEPS"
+        },
+        {
+            "id": "94001",
+            "filename": "Prince_Sultan_TACAN_SA",
+            "ident": "STN",
+            "name": "Prince Sultan",
+            "type": "TACAN",
+            "frequency_khz": "134100",
+            "latitude_deg": "24.069599151611328",
+            "longitude_deg": "47.58169937133789",
+            "elevation_ft": "1589",
+            "iso_country": "SA",
+            "dme_frequency_khz": "134100",
+            "dme_channel": "068X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.144",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OEPS"
+        }
+    ]
+}

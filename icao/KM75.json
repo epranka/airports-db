@@ -1,0 +1,80 @@
+{
+    "id": "20453",
+    "ident": "KM75",
+    "type": "small_airport",
+    "name": "Malta Airport",
+    "latitude_deg": "48.366901397700005",
+    "longitude_deg": "-107.918998718",
+    "elevation_ft": "2254",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Malta",
+    "scheduled_service": "no",
+    "gps_code": "M75",
+    "iata_code": "MLK",
+    "local_code": "M75",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Malta_Airport_(Montana)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240106",
+            "airport_ref": "20453",
+            "airport_ident": "KM75",
+            "length_ft": "4500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "48.3659",
+            "le_longitude_deg": "-107.929",
+            "le_elevation_ft": "2254",
+            "le_heading_degT": "84.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "48.367",
+            "he_longitude_deg": "-107.91",
+            "he_elevation_ft": "2253",
+            "he_heading_degT": "264.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59471",
+            "airport_ref": "20453",
+            "airport_ident": "KM75",
+            "type": "ARTC",
+            "description": "SALT LAKE CITY CNTR",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "59472",
+            "airport_ref": "20453",
+            "airport_ident": "KM75",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306102",
+        "code": "US-MT",
+        "local_code": "MT",
+        "name": "Montana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
+        "keywords": ""
+    }
+}

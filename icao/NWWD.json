@@ -1,0 +1,96 @@
+{
+    "id": "5013",
+    "ident": "NWWD",
+    "type": "medium_airport",
+    "name": "Koné Airport",
+    "latitude_deg": "-21.05430030822754",
+    "longitude_deg": "164.83700561523438",
+    "elevation_ft": "23",
+    "continent": "OC",
+    "iso_country": "NC",
+    "iso_region": "NC-U-A",
+    "municipality": "Koné",
+    "scheduled_service": "yes",
+    "gps_code": "NWWD",
+    "iata_code": "KNQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kon%C3%A9_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237863",
+            "airport_ref": "5013",
+            "airport_ident": "NWWD",
+            "length_ft": "3281",
+            "width_ft": "66",
+            "surface": "MAC",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "-21.0535",
+            "le_longitude_deg": "164.832",
+            "le_elevation_ft": "23",
+            "le_heading_degT": "99.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "-21.055",
+            "he_longitude_deg": "164.842",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "279.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55658",
+            "airport_ref": "5013",
+            "airport_ident": "NWWD",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302772",
+        "code": "NC",
+        "name": "New Caledonia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Caledonia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304865",
+        "code": "NC-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "NC",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89715",
+            "filename": "Kone_NDB_NC",
+            "ident": "KE",
+            "name": "Kone",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "-21.08880043029785",
+            "longitude_deg": "164.8470001220703",
+            "elevation_ft": "",
+            "iso_country": "NC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.526",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "NWWD"
+        }
+    ]
+}

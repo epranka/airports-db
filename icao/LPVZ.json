@@ -1,0 +1,96 @@
+{
+    "id": "4466",
+    "ident": "LPVZ",
+    "type": "medium_airport",
+    "name": "Aerodromo Goncalves Lobato (Viseu Airport)",
+    "latitude_deg": "40.725498",
+    "longitude_deg": "-7.88899",
+    "elevation_ft": "2060",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-18",
+    "municipality": "Viseu",
+    "scheduled_service": "yes",
+    "gps_code": "LPVZ",
+    "iata_code": "VSE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Viseu_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238340",
+            "airport_ref": "4466",
+            "airport_ident": "LPVZ",
+            "length_ft": "4015",
+            "width_ft": "97",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "40.72",
+            "le_longitude_deg": "-7.8885",
+            "le_elevation_ft": "2060",
+            "le_heading_degT": "356",
+            "le_displaced_threshold_ft": "192",
+            "he_ident": "19",
+            "he_latitude_deg": "40.731",
+            "he_longitude_deg": "-7.88955",
+            "he_elevation_ft": "2038",
+            "he_heading_degT": "176",
+            "he_displaced_threshold_ft": "214"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56317",
+            "airport_ref": "4466",
+            "airport_ident": "LPVZ",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302711",
+        "code": "PT",
+        "name": "Portugal",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
+        "keywords": "Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "305184",
+        "code": "PT-18",
+        "local_code": "18",
+        "name": "Viseu District",
+        "continent": "EU",
+        "iso_country": "PT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Viseu_District",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95151",
+            "filename": "Viseu_VOR-DME_PT",
+            "ident": "VIS",
+            "name": "Viseu",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "40.72330093383789",
+            "longitude_deg": "-7.885829925537109",
+            "elevation_ft": "2109",
+            "iso_country": "PT",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-3.416",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPVZ"
+        }
+    ]
+}

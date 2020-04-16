@@ -1,0 +1,104 @@
+{
+    "id": "4754",
+    "ident": "MMTB",
+    "type": "medium_airport",
+    "name": "Terán Air Base",
+    "latitude_deg": "16.739901",
+    "longitude_deg": "-93.173301",
+    "elevation_ft": "1909",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-CHP",
+    "municipality": "Tuxtla Gutiérrez",
+    "scheduled_service": "no",
+    "gps_code": "MMTB",
+    "iata_code": "",
+    "local_code": "TGM",
+    "home_link": "",
+    "wikipedia_link": "http://es.wikipedia.org/wiki/Base_A%C3%A9rea_No._6_Ter%C3%A1n",
+    "keywords": "Angel Albino Corzo Airport",
+    "runways": [
+        {
+            "id": "237765",
+            "airport_ref": "4754",
+            "airport_ident": "MMTB",
+            "length_ft": "7065",
+            "width_ft": "135",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "16.7497",
+            "le_longitude_deg": "-93.1734",
+            "le_elevation_ft": "1909",
+            "le_heading_degT": "179.1",
+            "le_displaced_threshold_ft": "185",
+            "he_ident": "35",
+            "he_latitude_deg": "16.7302",
+            "he_longitude_deg": "-93.1731",
+            "he_elevation_ft": "1909",
+            "he_heading_degT": "359.1",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55506",
+            "airport_ref": "4754",
+            "airport_ident": "MMTB",
+            "type": "APP",
+            "description": "TUXTLA APP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "55507",
+            "airport_ref": "4754",
+            "airport_ident": "MMTB",
+            "type": "TWR",
+            "description": "TUXTLA TWR",
+            "frequency_mhz": "118.45"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304795",
+        "code": "MX-CHP",
+        "local_code": "CHP",
+        "name": "Chiapas",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chiapas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94320",
+            "filename": "Teran_VOR-DME_MX",
+            "ident": "TGM",
+            "name": "Teran",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "16.739999771118164",
+            "longitude_deg": "-93.17469787597656",
+            "elevation_ft": "1909",
+            "iso_country": "MX",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.382",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMTB"
+        }
+    ]
+}

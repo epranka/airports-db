@@ -1,0 +1,142 @@
+{
+    "id": "6026",
+    "ident": "SCIP",
+    "type": "medium_airport",
+    "name": "Mataveri Airport",
+    "latitude_deg": "-27.1648006439",
+    "longitude_deg": "-109.42199707",
+    "elevation_ft": "227",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-VS",
+    "municipality": "Isla De Pascua",
+    "scheduled_service": "yes",
+    "gps_code": "SCIP",
+    "iata_code": "IPC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mataveri_International_Airport",
+    "keywords": "Rapa Nui, Easter Island",
+    "runways": [
+        {
+            "id": "235212",
+            "airport_ref": "6026",
+            "airport_ident": "SCIP",
+            "length_ft": "10827",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-27.158",
+            "le_longitude_deg": "-109.437",
+            "le_elevation_ft": "127",
+            "le_heading_degT": "117.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "-27.1716",
+            "he_longitude_deg": "-109.407",
+            "he_elevation_ft": "227",
+            "he_heading_degT": "297.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51298",
+            "airport_ref": "6026",
+            "airport_ident": "SCIP",
+            "type": "APP",
+            "description": "PASCUA APP",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "51299",
+            "airport_ref": "6026",
+            "airport_ident": "SCIP",
+            "type": "RDO",
+            "description": "PASCUA RDO",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "51300",
+            "airport_ref": "6026",
+            "airport_ident": "SCIP",
+            "type": "RDO",
+            "description": "PASCUA RDO",
+            "frequency_mhz": "866.7"
+        },
+        {
+            "id": "51301",
+            "airport_ref": "6026",
+            "airport_ident": "SCIP",
+            "type": "TWR",
+            "description": "PASCUA TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303410",
+        "code": "CL-VS",
+        "local_code": "VS",
+        "name": "Valparaíso Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valparaíso_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89299",
+            "filename": "Isla_De_Pascua_VOR-DME_CL",
+            "ident": "IPA",
+            "name": "Isla De Pascua",
+            "type": "VOR-DME",
+            "frequency_khz": "117100",
+            "latitude_deg": "-27.16390037536621",
+            "longitude_deg": "-109.40599822998047",
+            "elevation_ft": "719",
+            "iso_country": "CL",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.244",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "SCIP"
+        },
+        {
+            "id": "89300",
+            "filename": "Isla_De_Pascua_NDB_CL",
+            "ident": "IPA",
+            "name": "Isla De Pascua",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "-27.15399932861328",
+            "longitude_deg": "-109.4209976196289",
+            "elevation_ft": "394",
+            "iso_country": "CL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.242",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "SCIP"
+        }
+    ]
+}

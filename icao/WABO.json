@@ -1,0 +1,96 @@
+{
+    "id": "41419",
+    "ident": "WABO",
+    "type": "small_airport",
+    "name": "Serui Airport",
+    "latitude_deg": "-1.8755799531936646",
+    "longitude_deg": "136.24099731445312",
+    "elevation_ft": "50",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PA",
+    "municipality": "Serui-Japen Island",
+    "scheduled_service": "no",
+    "gps_code": "WABO",
+    "iata_code": "ZRI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "311143",
+            "airport_ref": "41419",
+            "airport_ident": "WABO",
+            "length_ft": "2133",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "311144",
+            "airport_ref": "41419",
+            "airport_ident": "WABO",
+            "type": "AFIS",
+            "description": "",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304118",
+        "code": "ID-PA",
+        "local_code": "PA",
+        "name": "Papua",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "96126",
+            "filename": "Serui_NDB_ID",
+            "ident": "ZU",
+            "name": "Serui",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "-1.876389980316162",
+            "longitude_deg": "136.24000549316406",
+            "elevation_ft": "23",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.025",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WABO"
+        }
+    ]
+}

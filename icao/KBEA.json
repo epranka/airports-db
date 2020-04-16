@@ -1,0 +1,102 @@
+{
+    "id": "18730",
+    "ident": "KBEA",
+    "type": "small_airport",
+    "name": "Beeville Municipal Airport",
+    "latitude_deg": "28.361900329589844",
+    "longitude_deg": "-97.79100036621094",
+    "elevation_ft": "268",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Beeville",
+    "scheduled_service": "no",
+    "gps_code": "KBEA",
+    "iata_code": "",
+    "local_code": "BEA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Formerly 3R0",
+    "runways": [
+        {
+            "id": "241992",
+            "airport_ref": "18730",
+            "airport_ident": "KBEA",
+            "length_ft": "4551",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "28.366",
+            "le_longitude_deg": "-97.7964",
+            "le_elevation_ft": "268",
+            "le_heading_degT": "131",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "28.3578",
+            "he_longitude_deg": "-97.7857",
+            "he_elevation_ft": "244",
+            "he_heading_degT": "311",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241993",
+            "airport_ref": "18730",
+            "airport_ident": "KBEA",
+            "length_ft": "2530",
+            "width_ft": "60",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "28.3721",
+            "le_longitude_deg": "-97.7929",
+            "le_elevation_ft": "270",
+            "le_heading_degT": "189.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "28.3653",
+            "he_longitude_deg": "-97.7942",
+            "he_elevation_ft": "261",
+            "he_heading_degT": "9.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62959",
+            "airport_ref": "18730",
+            "airport_ident": "KBEA",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "134.6"
+        },
+        {
+            "id": "62960",
+            "airport_ref": "18730",
+            "airport_ident": "KBEA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

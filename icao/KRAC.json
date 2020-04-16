@@ -1,0 +1,118 @@
+{
+    "id": "20907",
+    "ident": "KRAC",
+    "type": "small_airport",
+    "name": "John H Batten Airport",
+    "latitude_deg": "42.7606010437",
+    "longitude_deg": "-87.8152008057",
+    "elevation_ft": "674",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Racine",
+    "scheduled_service": "no",
+    "gps_code": "KRAC",
+    "iata_code": "RAC",
+    "local_code": "RAC",
+    "home_link": "http://www.battenairport.aero/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/John_H._Batten_Airport",
+    "keywords": "Horlick Field",
+    "runways": [
+        {
+            "id": "244126",
+            "airport_ref": "20907",
+            "airport_ident": "KRAC",
+            "length_ft": "6556",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "42.7544",
+            "le_longitude_deg": "-87.8203",
+            "le_elevation_ft": "667",
+            "le_heading_degT": "37",
+            "le_displaced_threshold_ft": "715",
+            "he_ident": "22",
+            "he_latitude_deg": "42.7688",
+            "he_longitude_deg": "-87.8057",
+            "he_elevation_ft": "665",
+            "he_heading_degT": "217",
+            "he_displaced_threshold_ft": "770"
+        },
+        {
+            "id": "244127",
+            "airport_ref": "20907",
+            "airport_ident": "KRAC",
+            "length_ft": "4423",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "42.7648",
+            "le_longitude_deg": "-87.8212",
+            "le_elevation_ft": "670",
+            "le_heading_degT": "132",
+            "le_displaced_threshold_ft": "807",
+            "he_ident": "32",
+            "he_latitude_deg": "42.7567",
+            "he_longitude_deg": "-87.8089",
+            "he_elevation_ft": "658",
+            "he_heading_degT": "312",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67424",
+            "airport_ref": "20907",
+            "airport_ident": "KRAC",
+            "type": "A/D",
+            "description": "MILWAUKEE APP/DEP",
+            "frequency_mhz": "120.15"
+        },
+        {
+            "id": "67425",
+            "airport_ref": "20907",
+            "airport_ident": "KRAC",
+            "type": "AWOS",
+            "description": "ASOS",
+            "frequency_mhz": "117.7"
+        },
+        {
+            "id": "67426",
+            "airport_ref": "20907",
+            "airport_ident": "KRAC",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.15"
+        },
+        {
+            "id": "67427",
+            "airport_ref": "20907",
+            "airport_ident": "KRAC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.075"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

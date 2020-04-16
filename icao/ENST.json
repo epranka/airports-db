@@ -1,0 +1,104 @@
+{
+    "id": "2598",
+    "ident": "ENST",
+    "type": "medium_airport",
+    "name": "Sandnessjøen Airport (Stokka)",
+    "latitude_deg": "65.956802368164",
+    "longitude_deg": "12.468899726868",
+    "elevation_ft": "56",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-18",
+    "municipality": "Alstahaug",
+    "scheduled_service": "yes",
+    "gps_code": "ENST",
+    "iata_code": "SSJ",
+    "local_code": "",
+    "home_link": "https://avinor.no/en/airport/sandnessjoen-airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sandnessj%C3%B8en_Airport%2C_Stokka",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237968",
+            "airport_ref": "2598",
+            "airport_ident": "ENST",
+            "length_ft": "3563",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "65.9524",
+            "le_longitude_deg": "12.464",
+            "le_elevation_ft": "32",
+            "le_heading_degT": "25",
+            "le_displaced_threshold_ft": "262",
+            "he_ident": "21",
+            "he_latitude_deg": "65.9613",
+            "he_longitude_deg": "12.474",
+            "he_elevation_ft": "56",
+            "he_heading_degT": "205",
+            "he_displaced_threshold_ft": "345"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55837",
+            "airport_ref": "2598",
+            "airport_ident": "ENST",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "55838",
+            "airport_ref": "2598",
+            "airport_ident": "ENST",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        }
+    ],
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "304961",
+        "code": "NO-18",
+        "local_code": "18",
+        "name": "Nordland",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nordland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94008",
+            "filename": "Stokka_VOR-DME_NO",
+            "ident": "STO",
+            "name": "Stokka",
+            "type": "VOR-DME",
+            "frequency_khz": "112000",
+            "latitude_deg": "65.96040344238281",
+            "longitude_deg": "12.469400405883789",
+            "elevation_ft": "137",
+            "iso_country": "NO",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "2.078",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "ENST"
+        }
+    ]
+}

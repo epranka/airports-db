@@ -1,0 +1,166 @@
+{
+    "id": "5121",
+    "ident": "OETB",
+    "type": "medium_airport",
+    "name": "Tabuk Airport",
+    "latitude_deg": "28.3654",
+    "longitude_deg": "36.6189",
+    "elevation_ft": "2551",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-07",
+    "municipality": "Tabuk",
+    "scheduled_service": "yes",
+    "gps_code": "OETB",
+    "iata_code": "TUU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tabuk_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238631",
+            "airport_ref": "5121",
+            "airport_ident": "OETB",
+            "length_ft": "10991",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "28.3692",
+            "le_longitude_deg": "36.6199",
+            "le_elevation_ft": "2545",
+            "le_heading_degT": "65",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "28.382",
+            "he_longitude_deg": "36.6509",
+            "he_elevation_ft": "2551",
+            "he_heading_degT": "245",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "238632",
+            "airport_ref": "5121",
+            "airport_ident": "OETB",
+            "length_ft": "10007",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "28.3812",
+            "le_longitude_deg": "36.594",
+            "le_elevation_ft": "2530",
+            "le_heading_degT": "132.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "28.3622",
+            "he_longitude_deg": "36.6171",
+            "he_elevation_ft": "2539",
+            "he_heading_degT": "312.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56883",
+            "airport_ref": "5121",
+            "airport_ident": "OETB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "24.59"
+        },
+        {
+            "id": "56882",
+            "airport_ref": "5121",
+            "airport_ident": "OETB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "56884",
+            "airport_ref": "5121",
+            "airport_ident": "OETB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "115.7"
+        },
+        {
+            "id": "56885",
+            "airport_ref": "5121",
+            "airport_ident": "OETB",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "128.75"
+        },
+        {
+            "id": "56886",
+            "airport_ref": "5121",
+            "airport_ident": "OETB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "126.3"
+        },
+        {
+            "id": "56887",
+            "airport_ref": "5121",
+            "airport_ident": "OETB",
+            "type": "POST",
+            "description": "HOTEL 8",
+            "frequency_mhz": "913"
+        },
+        {
+            "id": "56888",
+            "airport_ref": "5121",
+            "airport_ident": "OETB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.9"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305366",
+        "code": "SA-07",
+        "local_code": "07",
+        "name": "Tabuk Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tabuk_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94227",
+            "filename": "Tabuk_VORTAC_SA",
+            "ident": "TBK",
+            "name": "Tabuk",
+            "type": "VORTAC",
+            "frequency_khz": "115700",
+            "latitude_deg": "28.367300033569336",
+            "longitude_deg": "36.606998443603516",
+            "elevation_ft": "2569",
+            "iso_country": "SA",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.224",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OETB"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "11720",
+    "ident": "4TE0",
+    "type": "small_airport",
+    "name": "Lone Star Steel Company Airport",
+    "latitude_deg": "32.9334983826",
+    "longitude_deg": "-94.7334976196",
+    "elevation_ft": "285",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Lone Star",
+    "scheduled_service": "no",
+    "gps_code": "4TE0",
+    "iata_code": "",
+    "local_code": "4TE0",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242272",
+            "airport_ref": "11720",
+            "airport_ident": "4TE0",
+            "length_ft": "5350",
+            "width_ft": "42",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "32.9386",
+            "le_longitude_deg": "-94.7394",
+            "le_elevation_ft": "",
+            "le_heading_degT": "137",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "32.9281",
+            "he_longitude_deg": "-94.7278",
+            "he_elevation_ft": "",
+            "he_heading_degT": "317",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63575",
+            "airport_ref": "11720",
+            "airport_ident": "4TE0",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "127.45"
+        },
+        {
+            "id": "63576",
+            "airport_ref": "11720",
+            "airport_ident": "4TE0",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.75"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

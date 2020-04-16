@@ -1,0 +1,104 @@
+{
+    "id": "6134",
+    "ident": "SKMG",
+    "type": "medium_airport",
+    "name": "Baracoa Airport",
+    "latitude_deg": "9.28474",
+    "longitude_deg": "-74.8461",
+    "elevation_ft": "178",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-BOL",
+    "municipality": "Magangué",
+    "scheduled_service": "no",
+    "gps_code": "SKMG",
+    "iata_code": "MGN",
+    "local_code": "MGN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Baracoa_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235282",
+            "airport_ref": "6134",
+            "airport_ident": "SKMG",
+            "length_ft": "4921",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "9.2861",
+            "le_longitude_deg": "-74.8528",
+            "le_elevation_ft": "",
+            "le_heading_degT": "101.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "9.28337",
+            "he_longitude_deg": "-74.8394",
+            "he_elevation_ft": "",
+            "he_heading_degT": "281.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51404",
+            "airport_ref": "6134",
+            "airport_ident": "SKMG",
+            "type": "RDO",
+            "description": "MAGANGUE RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51405",
+            "airport_ref": "6134",
+            "airport_ident": "SKMG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303461",
+        "code": "CO-BOL",
+        "local_code": "BOL",
+        "name": "Bolívar Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolívar_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90920",
+            "filename": "Magangue_VOR-DME_CO",
+            "ident": "MGN",
+            "name": "Magangue",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "9.287409782409668",
+            "longitude_deg": "-74.84719848632812",
+            "elevation_ft": "164",
+            "iso_country": "CO",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-5.552",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKMG"
+        }
+    ]
+}

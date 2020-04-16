@@ -1,0 +1,104 @@
+{
+    "id": "6235",
+    "ident": "SPRU",
+    "type": "medium_airport",
+    "name": "Capitan FAP Carlos Martinez De Pinillos International Airport",
+    "latitude_deg": "-8.08141040802002",
+    "longitude_deg": "-79.10880279541016",
+    "elevation_ft": "106",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LAL",
+    "municipality": "Trujillo",
+    "scheduled_service": "yes",
+    "gps_code": "SPRU",
+    "iata_code": "TRU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cap._FAP_Carlos_Mart%C3%ADnez_de_Pinillos_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238137",
+            "airport_ref": "6235",
+            "airport_ident": "SPRU",
+            "length_ft": "9920",
+            "width_ft": "145",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-8.09449",
+            "le_longitude_deg": "-79.1128",
+            "le_elevation_ft": "46",
+            "le_heading_degT": "17",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "-8.06833",
+            "he_longitude_deg": "-79.1048",
+            "he_elevation_ft": "106",
+            "he_heading_degT": "197",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56073",
+            "airport_ref": "6235",
+            "airport_ident": "SPRU",
+            "type": "APP",
+            "description": "TRUJILLO APP/TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "56074",
+            "airport_ref": "6235",
+            "airport_ident": "SPRU",
+            "type": "RDO",
+            "description": "TRUJILLO RDO",
+            "frequency_mhz": "126.9"
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Perú",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305019",
+        "code": "PE-LAL",
+        "local_code": "LAL",
+        "name": "La Libertad Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Libertad_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94614",
+            "filename": "Trujillo_VOR-DME_PE",
+            "ident": "TRU",
+            "name": "Trujillo",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "-8.087220191955566",
+            "longitude_deg": "-79.11219787597656",
+            "elevation_ft": "100",
+            "iso_country": "PE",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "0.276",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPRU"
+        }
+    ]
+}

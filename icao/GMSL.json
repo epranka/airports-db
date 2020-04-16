@@ -1,0 +1,96 @@
+{
+    "id": "3118",
+    "ident": "GMSL",
+    "type": "small_airport",
+    "name": "Sidi Slimane Airport",
+    "latitude_deg": "34.2305984497",
+    "longitude_deg": "-6.05013990402",
+    "elevation_ft": "179",
+    "continent": "AF",
+    "iso_country": "MA",
+    "iso_region": "MA-KEN",
+    "municipality": "Sidi Slimane",
+    "scheduled_service": "no",
+    "gps_code": "GMSL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sidi_Slimane_Air_Base",
+    "keywords": "Sidi Slimane Air Base",
+    "runways": [
+        {
+            "id": "237599",
+            "airport_ref": "3118",
+            "airport_ident": "GMSL",
+            "length_ft": "11302",
+            "width_ft": "140",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "34.225",
+            "le_longitude_deg": "-6.06764",
+            "le_elevation_ft": "174",
+            "le_heading_degT": "69",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "34.2363",
+            "he_longitude_deg": "-6.03277",
+            "he_elevation_ft": "162",
+            "he_heading_degT": "249",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55330",
+            "airport_ref": "3118",
+            "airport_ident": "GMSL",
+            "type": "ARTC",
+            "description": "CASABLANCA APP",
+            "frequency_mhz": "124.5"
+        }
+    ],
+    "country": {
+        "id": "302584",
+        "code": "MA",
+        "name": "Morocco",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morocco",
+        "keywords": "مطارات المغرب"
+    },
+    "region": {
+        "id": "304588",
+        "code": "MA-KEN",
+        "local_code": "KEN",
+        "name": "Kénitra Province",
+        "continent": "AF",
+        "iso_country": "MA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kénitra_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93784",
+            "filename": "Sidi_Slimane_VOR-DME_MA",
+            "ident": "SMN",
+            "name": "Sidi Slimane",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "34.23249816894531",
+            "longitude_deg": "-6.050559997558594",
+            "elevation_ft": "179",
+            "iso_country": "MA",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.47",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMSL"
+        }
+    ]
+}

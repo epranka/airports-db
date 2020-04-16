@@ -1,0 +1,96 @@
+{
+    "id": "21099",
+    "ident": "KSPB",
+    "type": "small_airport",
+    "name": "Scappoose Industrial Airpark",
+    "latitude_deg": "45.770999908447266",
+    "longitude_deg": "-122.86199951171875",
+    "elevation_ft": "58",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Scappoose",
+    "scheduled_service": "no",
+    "gps_code": "KSPB",
+    "iata_code": "",
+    "local_code": "SPB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242587",
+            "airport_ref": "21099",
+            "airport_ident": "KSPB",
+            "length_ft": "5100",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "45.7779",
+            "le_longitude_deg": "-122.864",
+            "le_elevation_ft": "55",
+            "le_heading_degT": "169",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "45.7642",
+            "he_longitude_deg": "-122.86",
+            "he_elevation_ft": "27",
+            "he_heading_degT": "349",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64245",
+            "airport_ref": "21099",
+            "airport_ident": "KSPB",
+            "type": "A/D",
+            "description": "PORTLAND APP/DEP",
+            "frequency_mhz": "133"
+        },
+        {
+            "id": "64246",
+            "airport_ref": "21099",
+            "airport_ident": "KSPB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.875"
+        },
+        {
+            "id": "64247",
+            "airport_ref": "21099",
+            "airport_ident": "KSPB",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "64248",
+            "airport_ref": "21099",
+            "airport_ident": "KSPB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306113",
+        "code": "US-OR",
+        "local_code": "OR",
+        "name": "Oregon",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
+        "keywords": ""
+    }
+}

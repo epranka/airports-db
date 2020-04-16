@@ -1,0 +1,150 @@
+{
+    "id": "19672",
+    "ident": "KDVT",
+    "type": "small_airport",
+    "name": "Phoenix Deer Valley Airport",
+    "latitude_deg": "33.6883010864",
+    "longitude_deg": "-112.083000183",
+    "elevation_ft": "1478",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Phoenix",
+    "scheduled_service": "no",
+    "gps_code": "KDVT",
+    "iata_code": "DVT",
+    "local_code": "DVT",
+    "home_link": "http://deervalleyairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Phoenix_Deer_Valley_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243475",
+            "airport_ref": "19672",
+            "airport_ident": "KDVT",
+            "length_ft": "4500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07L",
+            "le_latitude_deg": "33.6892",
+            "le_longitude_deg": "-112.089",
+            "le_elevation_ft": "1455",
+            "le_heading_degT": "86",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25R",
+            "he_latitude_deg": "33.69",
+            "he_longitude_deg": "-112.075",
+            "he_elevation_ft": "1477",
+            "he_heading_degT": "266",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243474",
+            "airport_ref": "19672",
+            "airport_ident": "KDVT",
+            "length_ft": "8208",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07R",
+            "le_latitude_deg": "33.6868",
+            "le_longitude_deg": "-112.096",
+            "le_elevation_ft": "1445",
+            "le_heading_degT": "86",
+            "le_displaced_threshold_ft": "897",
+            "he_ident": "25L",
+            "he_latitude_deg": "33.6884",
+            "he_longitude_deg": "-112.069",
+            "he_elevation_ft": "1475",
+            "he_heading_degT": "266",
+            "he_displaced_threshold_ft": "930"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66069",
+            "airport_ref": "19672",
+            "airport_ident": "KDVT",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "66070",
+            "airport_ref": "19672",
+            "airport_ident": "KDVT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "66071",
+            "airport_ref": "19672",
+            "airport_ident": "KDVT",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "123.9"
+        },
+        {
+            "id": "66072",
+            "airport_ref": "19672",
+            "airport_ident": "KDVT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "66073",
+            "airport_ref": "19672",
+            "airport_ident": "KDVT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "66074",
+            "airport_ref": "19672",
+            "airport_ident": "KDVT",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "66075",
+            "airport_ref": "19672",
+            "airport_ident": "KDVT",
+            "type": "TWR",
+            "description": "DEER VALLEY TWR",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "66076",
+            "airport_ref": "19672",
+            "airport_ident": "KDVT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

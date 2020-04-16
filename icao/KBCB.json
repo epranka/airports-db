@@ -1,0 +1,118 @@
+{
+    "id": "19356",
+    "ident": "KBCB",
+    "type": "small_airport",
+    "name": "Virginia Tech Montgomery Executive Airport",
+    "latitude_deg": "37.207599639899996",
+    "longitude_deg": "-80.4077987671",
+    "elevation_ft": "2132",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Blacksburg",
+    "scheduled_service": "no",
+    "gps_code": "KBCB",
+    "iata_code": "BCB",
+    "local_code": "BCB",
+    "home_link": "http://www.vtbcb.com/index.php",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia_Tech_Montgomery_Executive_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241860",
+            "airport_ref": "19356",
+            "airport_ident": "KBCB",
+            "length_ft": "2850",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "08",
+            "le_latitude_deg": "37.2049",
+            "le_longitude_deg": "-80.4149",
+            "le_elevation_ft": "",
+            "le_heading_degT": "71.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "37.2075",
+            "he_longitude_deg": "-80.4061",
+            "he_elevation_ft": "",
+            "he_heading_degT": "251.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241861",
+            "airport_ref": "19356",
+            "airport_ident": "KBCB",
+            "length_ft": "4539",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "37.2105",
+            "le_longitude_deg": "-80.4148",
+            "le_elevation_ft": "2113",
+            "le_heading_degT": "117.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "37.2048",
+            "he_longitude_deg": "-80.4009",
+            "he_elevation_ft": "2132",
+            "he_heading_degT": "297.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62724",
+            "airport_ref": "19356",
+            "airport_ident": "KBCB",
+            "type": "A/D",
+            "description": "ROANOKE APP/DEP",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "62725",
+            "airport_ref": "19356",
+            "airport_ident": "KBCB",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.325"
+        },
+        {
+            "id": "62726",
+            "airport_ref": "19356",
+            "airport_ident": "KBCB",
+            "type": "CLD",
+            "description": "ROANOKE CLNC DEL",
+            "frequency_mhz": "124.85"
+        },
+        {
+            "id": "62727",
+            "airport_ref": "19356",
+            "airport_ident": "KBCB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    }
+}

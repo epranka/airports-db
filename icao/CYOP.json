@@ -1,0 +1,96 @@
+{
+    "id": "1838",
+    "ident": "CYOP",
+    "type": "medium_airport",
+    "name": "Rainbow Lake Airport",
+    "latitude_deg": "58.49140167236328",
+    "longitude_deg": "-119.40799713134766",
+    "elevation_ft": "1759",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Rainbow Lake",
+    "scheduled_service": "yes",
+    "gps_code": "CYOP",
+    "iata_code": "YOP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rainbow_Lake_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234684",
+            "airport_ref": "1838",
+            "airport_ident": "CYOP",
+            "length_ft": "4539",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "58.4935",
+            "le_longitude_deg": "-119.419",
+            "le_elevation_ft": "1759",
+            "le_heading_degT": "110",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "58.4892",
+            "he_longitude_deg": "-119.397",
+            "he_elevation_ft": "1759",
+            "he_heading_degT": "290",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50288",
+            "airport_ref": "1838",
+            "airport_ident": "CYOP",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95956",
+            "filename": "Rainbow_Lake_DME_CA",
+            "ident": "Z2",
+            "name": "Rainbow Lake",
+            "type": "DME",
+            "frequency_khz": "111700",
+            "latitude_deg": "58.494998931884766",
+            "longitude_deg": "-119.41300201416016",
+            "elevation_ft": "1790",
+            "iso_country": "CA",
+            "dme_frequency_khz": "111700",
+            "dme_channel": "054X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.235",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYOP"
+        }
+    ]
+}

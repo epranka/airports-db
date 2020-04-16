@@ -1,0 +1,88 @@
+{
+    "id": "4050",
+    "ident": "LFAC",
+    "type": "medium_airport",
+    "name": "Calais-Dunkerque Airport",
+    "latitude_deg": "50.962100982666016",
+    "longitude_deg": "1.954759955406189",
+    "elevation_ft": "12",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-HDF",
+    "municipality": "Calais/Dunkerque",
+    "scheduled_service": "no",
+    "gps_code": "LFAC",
+    "iata_code": "CQF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Dunkirk",
+    "runways": [
+        {
+            "id": "235853",
+            "airport_ref": "4050",
+            "airport_ident": "LFAC",
+            "length_ft": "5036",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "50.9588",
+            "le_longitude_deg": "1.94521",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "61",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "50.9654",
+            "he_longitude_deg": "1.96431",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "241",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52246",
+            "airport_ref": "4050",
+            "airport_ident": "LFAC",
+            "type": "APP",
+            "description": "LILLE APP",
+            "frequency_mhz": "120.275"
+        },
+        {
+            "id": "52247",
+            "airport_ref": "4050",
+            "airport_ident": "LFAC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135.45"
+        },
+        {
+            "id": "52248",
+            "airport_ref": "4050",
+            "airport_ident": "LFAC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.925"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306337",
+        "code": "FR-HDF",
+        "local_code": "HDF",
+        "name": "Hauts-de-France",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
+        "keywords": ""
+    }
+}

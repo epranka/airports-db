@@ -1,0 +1,96 @@
+{
+    "id": "4746",
+    "ident": "MMPS",
+    "type": "medium_airport",
+    "name": "Puerto Escondido International Airport",
+    "latitude_deg": "15.8769",
+    "longitude_deg": "-97.089103",
+    "elevation_ft": "294",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-OAX",
+    "municipality": "Puerto Escondido",
+    "scheduled_service": "yes",
+    "gps_code": "MMPS",
+    "iata_code": "PXM",
+    "local_code": "P1M",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Puerto_Escondido_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237682",
+            "airport_ref": "4746",
+            "airport_ident": "MMPS",
+            "length_ft": "7546",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "15.8774",
+            "le_longitude_deg": "-97.0999",
+            "le_elevation_ft": "294",
+            "le_heading_degT": "92.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "15.8764",
+            "he_longitude_deg": "-97.0783",
+            "he_elevation_ft": "294",
+            "he_heading_degT": "272.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55426",
+            "airport_ref": "4746",
+            "airport_ident": "MMPS",
+            "type": "TWR",
+            "description": "ESCONDIDO TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304809",
+        "code": "MX-OAX",
+        "local_code": "OAX",
+        "name": "Oaxaca",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oaxaca",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92841",
+            "filename": "Escondido_VOR-DME_MX",
+            "ident": "PXM",
+            "name": "Escondido",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "15.875100135803223",
+            "longitude_deg": "-97.08170318603516",
+            "elevation_ft": "294",
+            "iso_country": "MX",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.009",
+            "magnetic_variation_deg": "5.238",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMPS"
+        }
+    ]
+}

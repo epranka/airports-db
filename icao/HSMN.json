@@ -1,0 +1,72 @@
+{
+    "id": "300673",
+    "ident": "HSMN",
+    "type": "medium_airport",
+    "name": "Merowe New Airport",
+    "latitude_deg": "18.4433333333",
+    "longitude_deg": "31.8433333333",
+    "elevation_ft": "897",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-01",
+    "municipality": "Merowe",
+    "scheduled_service": "no",
+    "gps_code": "HSMN",
+    "iata_code": "MWE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Merowe International",
+    "runways": [
+        {
+            "id": "300674",
+            "airport_ref": "300673",
+            "airport_ident": "HSMN",
+            "length_ft": "13124",
+            "width_ft": "",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "300675",
+            "airport_ref": "300673",
+            "airport_ident": "HSMN",
+            "type": "TWR",
+            "description": "Merowe Tower",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302597",
+        "code": "SD",
+        "name": "Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sudan",
+        "keywords": "مطارات السودان"
+    },
+    "region": {
+        "id": "305384",
+        "code": "SD-01",
+        "local_code": "01",
+        "name": "Northern State",
+        "continent": "AF",
+        "iso_country": "SD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_State",
+        "keywords": ""
+    }
+}

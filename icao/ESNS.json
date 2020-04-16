@@ -1,0 +1,96 @@
+{
+    "id": "2687",
+    "ident": "ESNS",
+    "type": "medium_airport",
+    "name": "Skellefteå Airport",
+    "latitude_deg": "64.62480163574219",
+    "longitude_deg": "21.076900482177734",
+    "elevation_ft": "157",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-AC",
+    "municipality": "Skellefteå",
+    "scheduled_service": "yes",
+    "gps_code": "ESNS",
+    "iata_code": "SFT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Skellefte%C3%A5_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239059",
+            "airport_ref": "2687",
+            "airport_ident": "ESNS",
+            "length_ft": "6890",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "64.6274",
+            "le_longitude_deg": "21.0558",
+            "le_elevation_ft": "157",
+            "le_heading_degT": "106.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "64.6221",
+            "he_longitude_deg": "21.098",
+            "he_elevation_ft": "125",
+            "he_heading_degT": "286.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57498",
+            "airport_ref": "2687",
+            "airport_ident": "ESNS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.05"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305412",
+        "code": "SE-AC",
+        "local_code": "AC",
+        "name": "Västerbottens län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västerbottens_län",
+        "keywords": "Västerbotten County"
+    },
+    "navaids": [
+        {
+            "id": "93677",
+            "filename": "Skelleftea_VOR-DME_SE",
+            "ident": "SKA",
+            "name": "Skelleftea",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "64.62670135498047",
+            "longitude_deg": "21.079299926757812",
+            "elevation_ft": "174",
+            "iso_country": "SE",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.001",
+            "magnetic_variation_deg": "6.271",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ESNS"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "4473",
+    "ident": "LRBM",
+    "type": "medium_airport",
+    "name": "Maramureș International Airport",
+    "latitude_deg": "47.660598",
+    "longitude_deg": "23.467252",
+    "elevation_ft": "605",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-MM",
+    "municipality": "Baia Mare",
+    "scheduled_service": "yes",
+    "gps_code": "LRBM",
+    "iata_code": "BAY",
+    "local_code": "",
+    "home_link": "https://aimm.eu/",
+    "wikipedia_link": "https://ro.wikipedia.org/wiki/Aeroportul_Interna%C8%9Bional_Maramure%C8%99",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238408",
+            "airport_ref": "4473",
+            "airport_ident": "LRBM",
+            "length_ft": "7054",
+            "width_ft": "148",
+            "surface": "ASPHALT",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "47.66",
+            "le_longitude_deg": "23.4497",
+            "le_elevation_ft": "555",
+            "le_heading_degT": "93",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "47.6569",
+            "he_longitude_deg": "23.4781",
+            "he_elevation_ft": "606",
+            "he_heading_degT": "273",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56452",
+            "airport_ref": "4473",
+            "airport_ident": "LRBM",
+            "type": "TWR",
+            "description": "BAIA MARE TOWER",
+            "frequency_mhz": "118.855"
+        },
+        {
+            "id": "56453",
+            "airport_ref": "4473",
+            "airport_ident": "LRBM",
+            "type": "TWR ALTN",
+            "description": "BAIA MARE TOWER",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302712",
+        "code": "RO",
+        "name": "Romania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
+        "keywords": "Aeroporturi din România"
+    },
+    "region": {
+        "id": "305245",
+        "code": "RO-MM",
+        "local_code": "MM",
+        "name": "Maramureş",
+        "continent": "EU",
+        "iso_country": "RO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maramureş",
+        "keywords": "Transylvania, Transylvanian Region"
+    },
+    "navaids": [
+        {
+            "id": "86186",
+            "filename": "Baia_Mare_NDB_RO",
+            "ident": "BMR",
+            "name": "Baia Mare",
+            "type": "NDB",
+            "frequency_khz": "404",
+            "latitude_deg": "47.671199798583984",
+            "longitude_deg": "23.34600067138672",
+            "elevation_ft": "531",
+            "iso_country": "RO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.159",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LRBM"
+        }
+    ]
+}

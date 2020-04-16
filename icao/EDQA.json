@@ -1,0 +1,118 @@
+{
+    "id": "317932",
+    "ident": "EDQA",
+    "type": "medium_airport",
+    "name": "Airport Bamberg-Breitenau",
+    "latitude_deg": "49.920403",
+    "longitude_deg": "10.914233",
+    "elevation_ft": "811",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Bamberg",
+    "scheduled_service": "no",
+    "gps_code": "EDQA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aeroclub-bamberg.de/",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bamberg-Breitenau",
+    "keywords": "Bamberg, Breitenau",
+    "runways": [
+        {
+            "id": "317935",
+            "airport_ref": "317932",
+            "airport_ident": "EDQA",
+            "length_ft": "4223",
+            "width_ft": "50",
+            "surface": "ASPH",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "49.9161",
+            "le_longitude_deg": "10.9094",
+            "le_elevation_ft": "810",
+            "le_heading_degT": "36",
+            "le_displaced_threshold_ft": "782",
+            "he_ident": "21",
+            "he_latitude_deg": "49.9253",
+            "he_longitude_deg": "10.92",
+            "he_elevation_ft": "830",
+            "he_heading_degT": "216",
+            "he_displaced_threshold_ft": "790"
+        },
+        {
+            "id": "236111",
+            "airport_ref": "317932",
+            "airport_ident": "EDQA",
+            "length_ft": "3773",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "49.9167",
+            "le_longitude_deg": "10.91",
+            "le_elevation_ft": "807",
+            "le_heading_degT": "36",
+            "le_displaced_threshold_ft": "543",
+            "he_ident": "22",
+            "he_latitude_deg": "49.925",
+            "he_longitude_deg": "10.9195",
+            "he_elevation_ft": "826",
+            "he_heading_degT": "216",
+            "he_displaced_threshold_ft": "598"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "317920",
+            "airport_ref": "317932",
+            "airport_ident": "EDQA",
+            "type": "ATIS",
+            "description": "Bamberg ATIS (After 3x PTT)",
+            "frequency_mhz": "124.125"
+        },
+        {
+            "id": "52720",
+            "airport_ref": "317932",
+            "airport_ident": "EDQA",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "120.175"
+        },
+        {
+            "id": "317933",
+            "airport_ref": "317932",
+            "airport_ident": "EDQA",
+            "type": "INFO",
+            "description": "Bamberg INFO",
+            "frequency_mhz": "120.175"
+        },
+        {
+            "id": "317934",
+            "airport_ref": "317932",
+            "airport_ident": "EDQA",
+            "type": "METAR",
+            "description": "Bamberg Metar (after 3xPTT)",
+            "frequency_mhz": "124.125"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    }
+}

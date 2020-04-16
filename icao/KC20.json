@@ -1,0 +1,118 @@
+{
+    "id": "19440",
+    "ident": "KC20",
+    "type": "small_airport",
+    "name": "Andrews University Airpark",
+    "latitude_deg": "41.951698303222656",
+    "longitude_deg": "-86.3676986694336",
+    "elevation_ft": "668",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Berrien Springs",
+    "scheduled_service": "no",
+    "gps_code": "KC20",
+    "iata_code": "",
+    "local_code": "C20",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240813",
+            "airport_ref": "19440",
+            "airport_ident": "KC20",
+            "length_ft": "1944",
+            "width_ft": "115",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "41.9518",
+            "le_longitude_deg": "-86.3714",
+            "le_elevation_ft": "",
+            "le_heading_degT": "27.6",
+            "le_displaced_threshold_ft": "613",
+            "he_ident": "21",
+            "he_latitude_deg": "41.9565",
+            "he_longitude_deg": "-86.3681",
+            "he_elevation_ft": "",
+            "he_heading_degT": "207.6",
+            "he_displaced_threshold_ft": "550"
+        },
+        {
+            "id": "240814",
+            "airport_ref": "19440",
+            "airport_ident": "KC20",
+            "length_ft": "4161",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "41.9534",
+            "le_longitude_deg": "-86.3728",
+            "le_elevation_ft": "",
+            "le_heading_degT": "131",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "41.9459",
+            "he_longitude_deg": "-86.3613",
+            "he_elevation_ft": "",
+            "he_heading_degT": "311",
+            "he_displaced_threshold_ft": "1140"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60562",
+            "airport_ref": "19440",
+            "airport_ident": "KC20",
+            "type": "A/D",
+            "description": "SOUTH BEND APP/DEP",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "60563",
+            "airport_ref": "19440",
+            "airport_ident": "KC20",
+            "type": "MISC",
+            "description": "FLT SCH",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "60564",
+            "airport_ref": "19440",
+            "airport_ident": "KC20",
+            "type": "RCO",
+            "description": "BERRIEN SPRINGS",
+            "frequency_mhz": "121.625"
+        },
+        {
+            "id": "60565",
+            "airport_ref": "19440",
+            "airport_ident": "KC20",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

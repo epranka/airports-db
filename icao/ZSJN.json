@@ -1,0 +1,104 @@
+{
+    "id": "27219",
+    "ident": "ZSJN",
+    "type": "large_airport",
+    "name": "Yaoqiang Airport",
+    "latitude_deg": "36.857200622558594",
+    "longitude_deg": "117.21600341796875",
+    "elevation_ft": "76",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-37",
+    "municipality": "Jinan",
+    "scheduled_service": "yes",
+    "gps_code": "ZSJN",
+    "iata_code": "TNA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jinan_Yaoqiang_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235156",
+            "airport_ref": "27219",
+            "airport_ident": "ZSJN",
+            "length_ft": "11812",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "36.841",
+            "le_longitude_deg": "117.216",
+            "le_elevation_ft": "76",
+            "le_heading_degT": "360",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "36.8734",
+            "he_longitude_deg": "117.216",
+            "he_elevation_ft": "73",
+            "he_heading_degT": "180",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51157",
+            "airport_ref": "27219",
+            "airport_ident": "ZSJN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.05"
+        },
+        {
+            "id": "51158",
+            "airport_ref": "27219",
+            "airport_ident": "ZSJN",
+            "type": "TWR",
+            "description": "JINAN TWR",
+            "frequency_mhz": "118.55"
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303436",
+        "code": "CN-37",
+        "local_code": "37",
+        "name": "Shandong Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shandong",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95805",
+            "filename": "Jinan_VOR-DME_CN",
+            "ident": "YQG",
+            "name": "Jinan",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "36.83000183105469",
+            "longitude_deg": "117.21700286865234",
+            "elevation_ft": "76",
+            "iso_country": "CN",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.487",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZSJN"
+        }
+    ]
+}

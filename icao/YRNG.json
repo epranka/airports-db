@@ -1,0 +1,80 @@
+{
+    "id": "27127",
+    "ident": "YRNG",
+    "type": "small_airport",
+    "name": "Ramingining Airport",
+    "latitude_deg": "-12.356399536132812",
+    "longitude_deg": "134.8979949951172",
+    "elevation_ft": "206",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "YRNG",
+    "iata_code": "RAM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ramingining_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233521",
+            "airport_ref": "27127",
+            "airport_ident": "YRNG",
+            "length_ft": "4825",
+            "width_ft": "59",
+            "surface": "PER",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "-12.3568",
+            "le_longitude_deg": "134.886",
+            "le_elevation_ft": "206",
+            "le_heading_degT": "92",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "-12.3573",
+            "he_longitude_deg": "134.899",
+            "he_elevation_ft": "206",
+            "he_heading_degT": "272",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49170",
+            "airport_ref": "27127",
+            "airport_ident": "YRNG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49171",
+            "airport_ref": "27127",
+            "airport_ident": "YRNG",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "123.4"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

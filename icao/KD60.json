@@ -1,0 +1,102 @@
+{
+    "id": "19606",
+    "ident": "KD60",
+    "type": "small_airport",
+    "name": "Tioga Municipal Airport",
+    "latitude_deg": "48.38050079",
+    "longitude_deg": "-102.8980026",
+    "elevation_ft": "2271",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Tioga",
+    "scheduled_service": "no",
+    "gps_code": "D60",
+    "iata_code": "VEX",
+    "local_code": "D60",
+    "home_link": "http://www.tiogand.net/index.asp?SEC=D996B72D-EE0E-4AA1-929E-1F5F0C5C46CE&Type=B_BASIC",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242973",
+            "airport_ref": "19606",
+            "airport_ident": "KD60",
+            "length_ft": "3200",
+            "width_ft": "120",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "48.3777",
+            "le_longitude_deg": "-102.902",
+            "le_elevation_ft": "2255",
+            "le_heading_degT": "41",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "48.3843",
+            "he_longitude_deg": "-102.894",
+            "he_elevation_ft": "2236",
+            "he_heading_degT": "221",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242974",
+            "airport_ref": "19606",
+            "airport_ident": "KD60",
+            "length_ft": "4501",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "48.3844",
+            "le_longitude_deg": "-102.905",
+            "le_elevation_ft": "2239",
+            "le_heading_degT": "133",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "48.376",
+            "he_longitude_deg": "-102.891",
+            "he_elevation_ft": "2266",
+            "he_heading_degT": "313",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65027",
+            "airport_ref": "19606",
+            "airport_ident": "KD60",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "65028",
+            "airport_ref": "19606",
+            "airport_ident": "KD60",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306104",
+        "code": "US-ND",
+        "local_code": "ND",
+        "name": "North Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
+        "keywords": ""
+    }
+}

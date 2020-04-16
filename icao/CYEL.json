@@ -1,0 +1,104 @@
+{
+    "id": "1719",
+    "ident": "CYEL",
+    "type": "medium_airport",
+    "name": "Elliot Lake Municipal Airport",
+    "latitude_deg": "46.351398468",
+    "longitude_deg": "-82.5614013672",
+    "elevation_ft": "1087",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Elliot Lake",
+    "scheduled_service": "no",
+    "gps_code": "CYEL",
+    "iata_code": "YEL",
+    "local_code": "",
+    "home_link": "http://cyelont.tripod.com/cyel/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Elliot_Lake_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234780",
+            "airport_ref": "1719",
+            "airport_ident": "CYEL",
+            "length_ft": "4500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "46.3536",
+            "le_longitude_deg": "-82.5697",
+            "le_elevation_ft": "1086",
+            "le_heading_degT": "112.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "46.3489",
+            "he_longitude_deg": "-82.5531",
+            "he_elevation_ft": "1086",
+            "he_heading_degT": "292.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50468",
+            "airport_ref": "1719",
+            "airport_ident": "CYEL",
+            "type": "CNTR",
+            "description": "TORONTO CNTR",
+            "frequency_mhz": "135.4"
+        },
+        {
+            "id": "50469",
+            "airport_ref": "1719",
+            "airport_ident": "CYEL",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95657",
+            "filename": "Elliot_Lake_NDB_CA",
+            "ident": "YEL",
+            "name": "Elliot Lake",
+            "type": "NDB",
+            "frequency_khz": "276",
+            "latitude_deg": "46.371700286865234",
+            "longitude_deg": "-82.6281967163086",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.497",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYEL"
+        }
+    ]
+}

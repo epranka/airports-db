@@ -1,0 +1,142 @@
+{
+    "id": "3425",
+    "ident": "KBRL",
+    "type": "medium_airport",
+    "name": "Southeast Iowa Regional Airport",
+    "latitude_deg": "40.783199310302734",
+    "longitude_deg": "-91.12550354003906",
+    "elevation_ft": "698",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Burlington",
+    "scheduled_service": "yes",
+    "gps_code": "KBRL",
+    "iata_code": "BRL",
+    "local_code": "BRL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Southeast_Iowa_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245587",
+            "airport_ref": "3425",
+            "airport_ident": "KBRL",
+            "length_ft": "5350",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "40.7914",
+            "le_longitude_deg": "-91.136",
+            "le_elevation_ft": "692",
+            "le_heading_degT": "119.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "40.7842",
+            "he_longitude_deg": "-91.1192",
+            "he_elevation_ft": "693",
+            "he_heading_degT": "299.6",
+            "he_displaced_threshold_ft": "500"
+        },
+        {
+            "id": "245588",
+            "airport_ref": "3425",
+            "airport_ident": "KBRL",
+            "length_ft": "6702",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.7888",
+            "le_longitude_deg": "-91.1239",
+            "le_elevation_ft": "694",
+            "le_heading_degT": "179.5",
+            "le_displaced_threshold_ft": "1210",
+            "he_ident": "36",
+            "he_latitude_deg": "40.7704",
+            "he_longitude_deg": "-91.1238",
+            "he_elevation_ft": "677",
+            "he_heading_degT": "359.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70648",
+            "airport_ref": "3425",
+            "airport_ident": "KBRL",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.025"
+        },
+        {
+            "id": "70649",
+            "airport_ref": "3425",
+            "airport_ident": "KBRL",
+            "type": "CNTR",
+            "description": "CHICAGO CNTR",
+            "frequency_mhz": "135.6"
+        },
+        {
+            "id": "70650",
+            "airport_ref": "3425",
+            "airport_ident": "KBRL",
+            "type": "RDO",
+            "description": "FORT DODGE RDO",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "70651",
+            "airport_ref": "3425",
+            "airport_ident": "KBRL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86302",
+            "filename": "Burns_NDB_US",
+            "ident": "BR",
+            "name": "Burns",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "40.65420150756836",
+            "longitude_deg": "-91.12300109863281",
+            "elevation_ft": "575",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.03",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBRL"
+        }
+    ]
+}

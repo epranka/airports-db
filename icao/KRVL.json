@@ -1,0 +1,88 @@
+{
+    "id": "20970",
+    "ident": "KRVL",
+    "type": "small_airport",
+    "name": "Mifflin County Airport",
+    "latitude_deg": "40.6773986816",
+    "longitude_deg": "-77.6268005371",
+    "elevation_ft": "819",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Reedsville",
+    "scheduled_service": "no",
+    "gps_code": "KRVL",
+    "iata_code": "RED",
+    "local_code": "RVL",
+    "home_link": "http://www.mifflincountyairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mifflin_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241338",
+            "airport_ref": "20970",
+            "airport_ident": "KRVL",
+            "length_ft": "5001",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "40.6729",
+            "le_longitude_deg": "-77.6336",
+            "le_elevation_ft": "816",
+            "le_heading_degT": "48.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "40.6819",
+            "he_longitude_deg": "-77.62",
+            "he_elevation_ft": "810",
+            "he_heading_degT": "228.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61643",
+            "airport_ref": "20970",
+            "airport_ident": "KRVL",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "61644",
+            "airport_ref": "20970",
+            "airport_ident": "KRVL",
+            "type": "CNTR",
+            "description": "NEW YORK CNTR",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "61645",
+            "airport_ref": "20970",
+            "airport_ident": "KRVL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

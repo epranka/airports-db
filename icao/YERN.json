@@ -1,0 +1,80 @@
+{
+    "id": "27554",
+    "ident": "YERN",
+    "type": "small_airport",
+    "name": "Ernabella Airport",
+    "latitude_deg": "-26.2632999420166",
+    "longitude_deg": "132.1820068359375",
+    "elevation_ft": "707",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YERN",
+    "iata_code": "ERB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258600",
+            "airport_ref": "27554",
+            "airport_ident": "YERN",
+            "length_ft": "3838",
+            "width_ft": "",
+            "surface": "X",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72931",
+            "airport_ref": "27554",
+            "airport_ident": "YERN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "72932",
+            "airport_ref": "27554",
+            "airport_ident": "YERN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "118.15"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": ""
+    }
+}

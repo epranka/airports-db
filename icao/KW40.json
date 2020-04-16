@@ -1,0 +1,80 @@
+{
+    "id": "21354",
+    "ident": "KW40",
+    "type": "small_airport",
+    "name": "Mount Olive Municipal Airport",
+    "latitude_deg": "35.22219849",
+    "longitude_deg": "-78.03780365",
+    "elevation_ft": "168",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Mount Olive",
+    "scheduled_service": "no",
+    "gps_code": "KW40",
+    "iata_code": "",
+    "local_code": "W40",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245115",
+            "airport_ref": "21354",
+            "airport_ident": "KW40",
+            "length_ft": "3697",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "35.2184",
+            "le_longitude_deg": "-78.0418",
+            "le_elevation_ft": "167",
+            "le_heading_degT": "40.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "35.2261",
+            "he_longitude_deg": "-78.0338",
+            "he_elevation_ft": "168",
+            "he_heading_degT": "220.3",
+            "he_displaced_threshold_ft": "400"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69607",
+            "airport_ref": "21354",
+            "airport_ident": "KW40",
+            "type": "A/D",
+            "description": "SEYM JOHNSON APP/DEP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "69608",
+            "airport_ref": "21354",
+            "airport_ident": "KW40",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

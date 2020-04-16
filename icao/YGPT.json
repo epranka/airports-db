@@ -1,0 +1,80 @@
+{
+    "id": "26997",
+    "ident": "YGPT",
+    "type": "medium_airport",
+    "name": "Garden Point Airport",
+    "latitude_deg": "-11.40250015258789",
+    "longitude_deg": "130.4219970703125",
+    "elevation_ft": "90",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YGPT",
+    "iata_code": "GPN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233514",
+            "airport_ref": "26997",
+            "airport_ident": "YGPT",
+            "length_ft": "4314",
+            "width_ft": "98",
+            "surface": "COP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "-11.4041",
+            "le_longitude_deg": "130.421",
+            "le_elevation_ft": "69",
+            "le_heading_degT": "46",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "-11.3959",
+            "he_longitude_deg": "130.429",
+            "he_elevation_ft": "86",
+            "he_heading_degT": "226",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49158",
+            "airport_ref": "26997",
+            "airport_ident": "YGPT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49159",
+            "airport_ref": "26997",
+            "airport_ident": "YGPT",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "118.15"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

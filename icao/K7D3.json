@@ -1,0 +1,102 @@
+{
+    "id": "19053",
+    "ident": "K7D3",
+    "type": "small_airport",
+    "name": "Baldwin Municipal Airport",
+    "latitude_deg": "43.8754997253418",
+    "longitude_deg": "-85.84210205078125",
+    "elevation_ft": "828",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Baldwin",
+    "scheduled_service": "no",
+    "gps_code": "K7D3",
+    "iata_code": "",
+    "local_code": "7D3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242094",
+            "airport_ref": "19053",
+            "airport_ident": "K7D3",
+            "length_ft": "2800",
+            "width_ft": "100",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "43.8735",
+            "le_longitude_deg": "-85.8505",
+            "le_elevation_ft": "",
+            "le_heading_degT": "47.3",
+            "le_displaced_threshold_ft": "800",
+            "he_ident": "23",
+            "he_latitude_deg": "43.8787",
+            "he_longitude_deg": "-85.8427",
+            "he_elevation_ft": "",
+            "he_heading_degT": "227.3",
+            "he_displaced_threshold_ft": "800"
+        },
+        {
+            "id": "242095",
+            "airport_ref": "19053",
+            "airport_ident": "K7D3",
+            "length_ft": "3800",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "43.8754",
+            "le_longitude_deg": "-85.846",
+            "le_elevation_ft": "818",
+            "le_heading_degT": "93.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "43.8747",
+            "he_longitude_deg": "-85.8316",
+            "he_elevation_ft": "828",
+            "he_heading_degT": "273.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63193",
+            "airport_ref": "19053",
+            "airport_ident": "K7D3",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "120.85"
+        },
+        {
+            "id": "63194",
+            "airport_ref": "19053",
+            "airport_ident": "K7D3",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

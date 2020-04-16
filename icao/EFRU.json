@@ -1,0 +1,80 @@
+{
+    "id": "27268",
+    "ident": "EFRU",
+    "type": "small_airport",
+    "name": "Ranua Airport",
+    "latitude_deg": "65.97309875490001",
+    "longitude_deg": "26.365299224900003",
+    "elevation_ft": "541",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-LL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EFRU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ranua_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310809",
+            "airport_ref": "27268",
+            "airport_ident": "EFRU",
+            "length_ft": "3937",
+            "width_ft": "75",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310808",
+            "airport_ref": "27268",
+            "airport_ident": "EFRU",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "310807",
+            "airport_ref": "27268",
+            "airport_ident": "EFRU",
+            "type": "RDO",
+            "description": "Ranua traffic",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303802",
+        "code": "FI-LL",
+        "local_code": "LL",
+        "name": "Lapland",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lapland",
+        "keywords": "Lapin lääni, Lapplands län, Lappland"
+    }
+}

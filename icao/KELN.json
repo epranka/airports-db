@@ -1,0 +1,118 @@
+{
+    "id": "19752",
+    "ident": "KELN",
+    "type": "small_airport",
+    "name": "Bowers Field",
+    "latitude_deg": "47.03300095",
+    "longitude_deg": "-120.5309982",
+    "elevation_ft": "1764",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Ellensburg",
+    "scheduled_service": "no",
+    "gps_code": "KELN",
+    "iata_code": "ELN",
+    "local_code": "ELN",
+    "home_link": "http://www.wsdot.wa.gov/aviation/AllStateAirports/Ellensburg_BowersField.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bowers_Airport",
+    "keywords": "Ellensburg Army Airfield",
+    "runways": [
+        {
+            "id": "241481",
+            "airport_ref": "19752",
+            "airport_ident": "KELN",
+            "length_ft": "5590",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "47.0314",
+            "le_longitude_deg": "-120.543",
+            "le_elevation_ft": "1710",
+            "le_heading_degT": "88",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "47.0319",
+            "he_longitude_deg": "-120.521",
+            "he_elevation_ft": "1755",
+            "he_heading_degT": "268",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241482",
+            "airport_ref": "19752",
+            "airport_ident": "KELN",
+            "length_ft": "4300",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "47.0389",
+            "le_longitude_deg": "-120.535",
+            "le_elevation_ft": "1763",
+            "le_heading_degT": "133",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "47.0308",
+            "he_longitude_deg": "-120.523",
+            "he_elevation_ft": "1747",
+            "he_heading_degT": "313",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61959",
+            "airport_ref": "19752",
+            "airport_ident": "KELN",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "61960",
+            "airport_ref": "19752",
+            "airport_ident": "KELN",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "132.6"
+        },
+        {
+            "id": "61961",
+            "airport_ref": "19752",
+            "airport_ident": "KELN",
+            "type": "RDO",
+            "description": "SEATTLE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "61962",
+            "airport_ref": "19752",
+            "airport_ident": "KELN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    }
+}

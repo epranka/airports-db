@@ -1,0 +1,212 @@
+{
+    "id": "3938",
+    "ident": "KTYS",
+    "type": "large_airport",
+    "name": "McGhee Tyson Airport",
+    "latitude_deg": "35.81100082",
+    "longitude_deg": "-83.9940033",
+    "elevation_ft": "981",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Knoxville",
+    "scheduled_service": "yes",
+    "gps_code": "KTYS",
+    "iata_code": "TYS",
+    "local_code": "TYS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/McGhee_Tyson_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243473",
+            "airport_ref": "3938",
+            "airport_ident": "KTYS",
+            "length_ft": "9005",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05L",
+            "le_latitude_deg": "35.8043",
+            "le_longitude_deg": "-84.0055",
+            "le_elevation_ft": "923",
+            "le_heading_degT": "44.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23R",
+            "he_latitude_deg": "35.8219",
+            "he_longitude_deg": "-83.9841",
+            "he_elevation_ft": "976",
+            "he_heading_degT": "224.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243472",
+            "airport_ref": "3938",
+            "airport_ident": "KTYS",
+            "length_ft": "9000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05R",
+            "le_latitude_deg": "35.8001",
+            "le_longitude_deg": "-84.004",
+            "le_elevation_ft": "938",
+            "le_heading_degT": "44.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23L",
+            "he_latitude_deg": "35.8176",
+            "he_longitude_deg": "-83.9826",
+            "he_elevation_ft": "962",
+            "he_heading_degT": "224.8",
+            "he_displaced_threshold_ft": "400"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66060",
+            "airport_ref": "3938",
+            "airport_ident": "KTYS",
+            "type": "A/D",
+            "description": "KNOXVILLE APP/DEP",
+            "frequency_mhz": "36.08"
+        },
+        {
+            "id": "66059",
+            "airport_ref": "3938",
+            "airport_ident": "KTYS",
+            "type": "A/D",
+            "description": "KNOXVILLE APP/DEP",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "66061",
+            "airport_ref": "3938",
+            "airport_ident": "KTYS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.35"
+        },
+        {
+            "id": "66062",
+            "airport_ref": "3938",
+            "airport_ident": "KTYS",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "66063",
+            "airport_ref": "3938",
+            "airport_ident": "KTYS",
+            "type": "GND",
+            "description": "KNOXVILLE GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "66064",
+            "airport_ref": "3938",
+            "airport_ident": "KTYS",
+            "type": "MISC",
+            "description": "ARNG OPS",
+            "frequency_mhz": "41.5"
+        },
+        {
+            "id": "66065",
+            "airport_ref": "3938",
+            "airport_ident": "KTYS",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "30.3"
+        },
+        {
+            "id": "66066",
+            "airport_ref": "3938",
+            "airport_ident": "KTYS",
+            "type": "RDO",
+            "description": "NASHVILLE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "66067",
+            "airport_ref": "3938",
+            "airport_ident": "KTYS",
+            "type": "TWR",
+            "description": "KNOXVILLE TWR",
+            "frequency_mhz": "121.2"
+        },
+        {
+            "id": "66068",
+            "airport_ref": "3938",
+            "airport_ident": "KTYS",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94729",
+            "filename": "Benfi_NDB_US",
+            "ident": "TY",
+            "name": "Benfi",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "35.7421989440918",
+            "longitude_deg": "-84.0811996459961",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.427",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KTYS"
+        },
+        {
+            "id": "95343",
+            "filename": "Volunteer_VORTAC_US",
+            "ident": "VXV",
+            "name": "Volunteer",
+            "type": "VORTAC",
+            "frequency_khz": "116400",
+            "latitude_deg": "35.90480041503906",
+            "longitude_deg": "-83.89469909667969",
+            "elevation_ft": "1290",
+            "iso_country": "US",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.001",
+            "magnetic_variation_deg": "-4.532",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KTYS"
+        }
+    ]
+}

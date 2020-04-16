@@ -1,0 +1,96 @@
+{
+    "id": "21312",
+    "ident": "KVBT",
+    "type": "small_airport",
+    "name": "Bentonville Municipal-Louise M Thaden Field",
+    "latitude_deg": "36.34569931",
+    "longitude_deg": "-94.21929932",
+    "elevation_ft": "1296",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Bentonville",
+    "scheduled_service": "no",
+    "gps_code": "KVBT",
+    "iata_code": "",
+    "local_code": "VBT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243520",
+            "airport_ref": "21312",
+            "airport_ident": "KVBT",
+            "length_ft": "4082",
+            "width_ft": "65",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "36.3513",
+            "le_longitude_deg": "-94.2193",
+            "le_elevation_ft": "1288",
+            "le_heading_degT": "180.4",
+            "le_displaced_threshold_ft": "227",
+            "he_ident": "36",
+            "he_latitude_deg": "36.3401",
+            "he_longitude_deg": "-94.2194",
+            "he_elevation_ft": "1290",
+            "he_heading_degT": "0.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66170",
+            "airport_ref": "21312",
+            "airport_ident": "KVBT",
+            "type": "A/D",
+            "description": "RAZORBACK APP/DEP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "66171",
+            "airport_ref": "21312",
+            "airport_ident": "KVBT",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "134.975"
+        },
+        {
+            "id": "66172",
+            "airport_ref": "21312",
+            "airport_ident": "KVBT",
+            "type": "CLD",
+            "description": "RAZORBACK CLNC DEL",
+            "frequency_mhz": "121.05"
+        },
+        {
+            "id": "66173",
+            "airport_ref": "21312",
+            "airport_ident": "KVBT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "19457",
+    "ident": "KC91",
+    "type": "small_airport",
+    "name": "Dowagiac Municipal Airport",
+    "latitude_deg": "41.99290085",
+    "longitude_deg": "-86.12799835",
+    "elevation_ft": "747",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Dowagiac",
+    "scheduled_service": "no",
+    "gps_code": "KC91",
+    "iata_code": "",
+    "local_code": "C91",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245215",
+            "airport_ref": "19457",
+            "airport_ident": "KC91",
+            "length_ft": "2200",
+            "width_ft": "100",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "41.989",
+            "le_longitude_deg": "-86.1255",
+            "le_elevation_ft": "",
+            "le_heading_degT": "39.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "41.9937",
+            "he_longitude_deg": "-86.1203",
+            "he_elevation_ft": "",
+            "he_heading_degT": "219.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245216",
+            "airport_ref": "19457",
+            "airport_ident": "KC91",
+            "length_ft": "4700",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "41.9937",
+            "le_longitude_deg": "-86.1391",
+            "le_elevation_ft": "736",
+            "le_heading_degT": "90.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "41.9937",
+            "he_longitude_deg": "-86.1218",
+            "he_elevation_ft": "746",
+            "he_heading_degT": "270.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69816",
+            "airport_ref": "19457",
+            "airport_ident": "KC91",
+            "type": "A/D",
+            "description": "SOUTH BEND APP/DEP",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "69817",
+            "airport_ref": "19457",
+            "airport_ident": "KC91",
+            "type": "RDO",
+            "description": "LANSING RDO",
+            "frequency_mhz": "116.6"
+        },
+        {
+            "id": "69818",
+            "airport_ref": "19457",
+            "airport_ident": "KC91",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

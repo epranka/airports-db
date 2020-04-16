@@ -1,0 +1,88 @@
+{
+    "id": "20141",
+    "ident": "KI69",
+    "type": "small_airport",
+    "name": "Clermont County Airport",
+    "latitude_deg": "39.07839966",
+    "longitude_deg": "-84.21019745",
+    "elevation_ft": "843",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Batavia",
+    "scheduled_service": "no",
+    "gps_code": "KI69",
+    "iata_code": "",
+    "local_code": "I69",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244412",
+            "airport_ref": "20141",
+            "airport_ident": "KI69",
+            "length_ft": "3568",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "39.0753",
+            "le_longitude_deg": "-84.2131",
+            "le_elevation_ft": "844",
+            "le_heading_degT": "37",
+            "le_displaced_threshold_ft": "398",
+            "he_ident": "22",
+            "he_latitude_deg": "39.0823",
+            "he_longitude_deg": "-84.2065",
+            "he_elevation_ft": "813",
+            "he_heading_degT": "217",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68039",
+            "airport_ref": "20141",
+            "airport_ident": "KI69",
+            "type": "A/D",
+            "description": "CINCINNATI APP/DEP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "68040",
+            "airport_ref": "20141",
+            "airport_ident": "KI69",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "68041",
+            "airport_ref": "20141",
+            "airport_ident": "KI69",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.975"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

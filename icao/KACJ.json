@@ -1,0 +1,118 @@
+{
+    "id": "19229",
+    "ident": "KACJ",
+    "type": "small_airport",
+    "name": "Jimmy Carter Regional Airport",
+    "latitude_deg": "32.110802",
+    "longitude_deg": "-84.188904",
+    "elevation_ft": "468",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Americus",
+    "scheduled_service": "no",
+    "gps_code": "KACJ",
+    "iata_code": "",
+    "local_code": "ACJ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jimmy_Carter_Regional_Airport",
+    "keywords": "Souther Field",
+    "runways": [
+        {
+            "id": "245803",
+            "airport_ref": "19229",
+            "airport_ident": "KACJ",
+            "length_ft": "6021",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "32.1044",
+            "le_longitude_deg": "-84.1955",
+            "le_elevation_ft": "466",
+            "le_heading_degT": "46",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "32.1159",
+            "he_longitude_deg": "-84.1816",
+            "he_elevation_ft": "462",
+            "he_heading_degT": "226",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245804",
+            "airport_ref": "19229",
+            "airport_ident": "KACJ",
+            "length_ft": "3787",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "32.1119",
+            "le_longitude_deg": "-84.1955",
+            "le_elevation_ft": "471",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "32.1118",
+            "he_longitude_deg": "-84.1832",
+            "he_elevation_ft": "459",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71088",
+            "airport_ref": "19229",
+            "airport_ident": "KACJ",
+            "type": "A/D",
+            "description": "ATLANTA  APP/DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "71089",
+            "airport_ref": "19229",
+            "airport_ident": "KACJ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "128.375"
+        },
+        {
+            "id": "71090",
+            "airport_ref": "19229",
+            "airport_ident": "KACJ",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.95"
+        },
+        {
+            "id": "71091",
+            "airport_ref": "19229",
+            "airport_ident": "KACJ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

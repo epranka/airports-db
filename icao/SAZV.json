@@ -1,0 +1,96 @@
+{
+    "id": "5854",
+    "ident": "SAZV",
+    "type": "medium_airport",
+    "name": "Villa Gesell Airport",
+    "latitude_deg": "-37.2354",
+    "longitude_deg": "-57.0292",
+    "elevation_ft": "32",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Villa Gesell",
+    "scheduled_service": "no",
+    "gps_code": "SAZV",
+    "iata_code": "VLG",
+    "local_code": "GES",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233020",
+            "airport_ref": "5854",
+            "airport_ident": "SAZV",
+            "length_ft": "5709",
+            "width_ft": "92",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-37.2337",
+            "le_longitude_deg": "-57.0393",
+            "le_elevation_ft": "34",
+            "le_heading_degT": "102",
+            "le_displaced_threshold_ft": "540",
+            "he_ident": "29",
+            "he_latitude_deg": "-37.2371",
+            "he_longitude_deg": "-57.0192",
+            "he_elevation_ft": "34",
+            "he_heading_degT": "282",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48442",
+            "airport_ref": "5854",
+            "airport_ident": "SAZV",
+            "type": "TWR",
+            "description": "GESELL TWR/APP",
+            "frequency_mhz": "119"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302933",
+        "code": "AR-B",
+        "local_code": "B",
+        "name": "Buenos Aires Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88344",
+            "filename": "Villa_Gesell_NDB_AR",
+            "ident": "GES",
+            "name": "Villa Gesell",
+            "type": "NDB",
+            "frequency_khz": "242",
+            "latitude_deg": "-37.23469924926758",
+            "longitude_deg": "-57.02389907836914",
+            "elevation_ft": "33",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.458",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SAZV"
+        }
+    ]
+}

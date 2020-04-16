@@ -1,0 +1,118 @@
+{
+    "id": "19527",
+    "ident": "KCNU",
+    "type": "medium_airport",
+    "name": "Chanute Martin Johnson Airport",
+    "latitude_deg": "37.668800354",
+    "longitude_deg": "-95.4850997925",
+    "elevation_ft": "1002",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Chanute",
+    "scheduled_service": "no",
+    "gps_code": "KCNU",
+    "iata_code": "CNU",
+    "local_code": "CNU",
+    "home_link": "http://www.chanute.org/index.aspx?NID=65",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chanute_Martin_Johnson_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239906",
+            "airport_ref": "19527",
+            "airport_ident": "KCNU",
+            "length_ft": "2200",
+            "width_ft": "135",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "37.6689",
+            "le_longitude_deg": "-95.4875",
+            "le_elevation_ft": "980",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "37.6689",
+            "he_longitude_deg": "-95.48",
+            "he_elevation_ft": "995",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239907",
+            "airport_ref": "19527",
+            "airport_ident": "KCNU",
+            "length_ft": "4255",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "37.6737",
+            "le_longitude_deg": "-95.4859",
+            "le_elevation_ft": "982",
+            "le_heading_degT": "187",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "37.6621",
+            "he_longitude_deg": "-95.4876",
+            "he_elevation_ft": "1002",
+            "he_heading_degT": "7",
+            "he_displaced_threshold_ft": "270"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59163",
+            "airport_ref": "19527",
+            "airport_ident": "KCNU",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "127.075"
+        },
+        {
+            "id": "59164",
+            "airport_ref": "19527",
+            "airport_ident": "KCNU",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "132.9"
+        },
+        {
+            "id": "59165",
+            "airport_ref": "19527",
+            "airport_ident": "KCNU",
+            "type": "RDO",
+            "description": "WICHITA RDO",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "59166",
+            "airport_ref": "19527",
+            "airport_ident": "KCNU",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

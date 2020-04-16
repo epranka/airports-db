@@ -1,0 +1,102 @@
+{
+    "id": "1942",
+    "ident": "CYVT",
+    "type": "small_airport",
+    "name": "Buffalo Narrows Airport",
+    "latitude_deg": "55.8418998718",
+    "longitude_deg": "-108.417999268",
+    "elevation_ft": "1423",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Buffalo Narrows",
+    "scheduled_service": "no",
+    "gps_code": "CYVT",
+    "iata_code": "YVT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Buffalo_Narrows_Airport",
+    "keywords": "YVT",
+    "runways": [
+        {
+            "id": "235031",
+            "airport_ref": "1942",
+            "airport_ident": "CYVT",
+            "length_ft": "2297",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "55.8414",
+            "le_longitude_deg": "-108.439",
+            "le_elevation_ft": "",
+            "le_heading_degT": "82",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "55.8425",
+            "he_longitude_deg": "-108.427",
+            "he_elevation_ft": "",
+            "he_heading_degT": "262",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "235032",
+            "airport_ref": "1942",
+            "airport_ident": "CYVT",
+            "length_ft": "5006",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "55.8431",
+            "le_longitude_deg": "-108.432",
+            "le_elevation_ft": "1444",
+            "le_heading_degT": "129",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "55.8347",
+            "he_longitude_deg": "-108.413",
+            "he_elevation_ft": "1444",
+            "he_heading_degT": "309",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50921",
+            "airport_ref": "1942",
+            "airport_ident": "CYVT",
+            "type": "A/G",
+            "description": "MF REGINA RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50922",
+            "airport_ref": "1942",
+            "airport_ident": "CYVT",
+            "type": "RCO",
+            "description": "REGINA RDO",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303305",
+        "code": "CA-SK",
+        "local_code": "SK",
+        "name": "Saskatchewan",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
+        "keywords": ""
+    }
+}

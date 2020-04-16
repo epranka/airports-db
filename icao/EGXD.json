@@ -1,0 +1,142 @@
+{
+    "id": "2498",
+    "ident": "EGXD",
+    "type": "medium_airport",
+    "name": "RAF Dishforth",
+    "latitude_deg": "54.1371994019",
+    "longitude_deg": "-1.42025005817",
+    "elevation_ft": "117",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Dishforth",
+    "scheduled_service": "no",
+    "gps_code": "EGXD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Dishforth",
+    "keywords": "Royal Air Force",
+    "runways": [
+        {
+            "id": "239513",
+            "airport_ref": "2498",
+            "airport_ident": "EGXD",
+            "length_ft": "4469",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "54.1439",
+            "le_longitude_deg": "-1.42794",
+            "le_elevation_ft": "114",
+            "le_heading_degT": "92.4",
+            "le_displaced_threshold_ft": "1398",
+            "he_ident": "28",
+            "he_latitude_deg": "54.1433",
+            "he_longitude_deg": "-1.40711",
+            "he_elevation_ft": "96",
+            "he_heading_degT": "272.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239514",
+            "airport_ref": "2498",
+            "airport_ident": "EGXD",
+            "length_ft": "6096",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "54.1441",
+            "le_longitude_deg": "-1.42692",
+            "le_elevation_ft": "115",
+            "le_heading_degT": "151",
+            "le_displaced_threshold_ft": "466",
+            "he_ident": "33",
+            "he_latitude_deg": "54.1294",
+            "he_longitude_deg": "-1.4129",
+            "he_elevation_ft": "99",
+            "he_heading_degT": "331",
+            "he_displaced_threshold_ft": "315"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58360",
+            "airport_ref": "2498",
+            "airport_ident": "EGXD",
+            "type": "A/G",
+            "description": "AG",
+            "frequency_mhz": "130.1"
+        },
+        {
+            "id": "58361",
+            "airport_ref": "2498",
+            "airport_ident": "EGXD",
+            "type": "APP",
+            "description": "Topcliffe APP",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "58362",
+            "airport_ref": "2498",
+            "airport_ident": "EGXD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "58363",
+            "airport_ref": "2498",
+            "airport_ident": "EGXD",
+            "type": "OPS",
+            "description": "AAC OPS",
+            "frequency_mhz": "242.25"
+        },
+        {
+            "id": "58364",
+            "airport_ref": "2498",
+            "airport_ident": "EGXD",
+            "type": "TWR",
+            "description": "TWR/Common Mil",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "307804",
+            "airport_ref": "2498",
+            "airport_ident": "EGXD",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "278.225"
+        },
+        {
+            "id": "307807",
+            "airport_ref": "2498",
+            "airport_ident": "EGXD",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "371.97"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

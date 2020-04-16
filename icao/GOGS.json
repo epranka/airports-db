@@ -1,0 +1,104 @@
+{
+    "id": "3123",
+    "ident": "GOGS",
+    "type": "medium_airport",
+    "name": "Cap Skirring Airport",
+    "latitude_deg": "12.39533",
+    "longitude_deg": "-16.748",
+    "elevation_ft": "52",
+    "continent": "AF",
+    "iso_country": "SN",
+    "iso_region": "SN-ZG",
+    "municipality": "Cap Skirring",
+    "scheduled_service": "yes",
+    "gps_code": "GOGS",
+    "iata_code": "CSK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cap_Skirring_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238845",
+            "airport_ref": "3123",
+            "airport_ident": "GOGS",
+            "length_ft": "6573",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "12.3982",
+            "le_longitude_deg": "-16.7508",
+            "le_elevation_ft": "52",
+            "le_heading_degT": "136",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "12.3889",
+            "he_longitude_deg": "-16.7414",
+            "he_elevation_ft": "30",
+            "he_heading_degT": "316",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57152",
+            "airport_ref": "3123",
+            "airport_ident": "GOGS",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "568"
+        },
+        {
+            "id": "57153",
+            "airport_ref": "3123",
+            "airport_ident": "GOGS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302600",
+        "code": "SN",
+        "name": "Senegal",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Senegal",
+        "keywords": "Aéroports du Sénégal"
+    },
+    "region": {
+        "id": "305617",
+        "code": "SN-ZG",
+        "local_code": "ZG",
+        "name": "Ziguinchor Region",
+        "continent": "AF",
+        "iso_country": "SN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ziguinchor_Region",
+        "keywords": "Basse Casamance"
+    },
+    "navaids": [
+        {
+            "id": "93696",
+            "filename": "Cap_Skiring_NDB_SN",
+            "ident": "SKN",
+            "name": "Cap Skiring",
+            "type": "NDB",
+            "frequency_khz": "398",
+            "latitude_deg": "12.38659954071045",
+            "longitude_deg": "-16.742799758911133",
+            "elevation_ft": "108",
+            "iso_country": "SN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.031",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "GOGS"
+        }
+    ]
+}

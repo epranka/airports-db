@@ -1,0 +1,136 @@
+{
+    "id": "4062",
+    "ident": "LFBF",
+    "type": "medium_airport",
+    "name": "Toulouse-Francazal (BA 101) Air Base",
+    "latitude_deg": "43.54560089111328",
+    "longitude_deg": "1.3674999475479126",
+    "elevation_ft": "535",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Toulouse/Francazal",
+    "scheduled_service": "no",
+    "gps_code": "LFBF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235936",
+            "airport_ref": "4062",
+            "airport_ident": "LFBF",
+            "length_ft": "5906",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "43.5491",
+            "le_longitude_deg": "1.3572",
+            "le_elevation_ft": "534",
+            "le_heading_degT": "115",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "43.5423",
+            "he_longitude_deg": "1.37741",
+            "he_elevation_ft": "533",
+            "he_heading_degT": "295",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52409",
+            "airport_ref": "4062",
+            "airport_ident": "LFBF",
+            "type": "AFIS",
+            "description": "TOULOUSE INFO",
+            "frequency_mhz": "121.25"
+        },
+        {
+            "id": "52410",
+            "airport_ref": "4062",
+            "airport_ident": "LFBF",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "52411",
+            "airport_ref": "4062",
+            "airport_ident": "LFBF",
+            "type": "APP",
+            "description": "TOULOUSE APP",
+            "frequency_mhz": "125.175"
+        },
+        {
+            "id": "52412",
+            "airport_ref": "4062",
+            "airport_ident": "LFBF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "141.75"
+        },
+        {
+            "id": "52413",
+            "airport_ref": "4062",
+            "airport_ident": "LFBF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "52414",
+            "airport_ref": "4062",
+            "airport_ident": "LFBF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306341",
+        "code": "FR-OCC",
+        "local_code": "OCC",
+        "name": "Occitanie",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occitanie",
+        "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
+    },
+    "navaids": [
+        {
+            "id": "94438",
+            "filename": "Toulouse_Francazal_TACAN_FR",
+            "ident": "TLU",
+            "name": "Toulouse/Francazal",
+            "type": "TACAN",
+            "frequency_khz": "116000",
+            "latitude_deg": "43.548500061035156",
+            "longitude_deg": "1.3682199716567993",
+            "elevation_ft": "597",
+            "iso_country": "FR",
+            "dme_frequency_khz": "116000",
+            "dme_channel": "107X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-0.56",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFBF"
+        }
+    ]
+}

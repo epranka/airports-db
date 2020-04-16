@@ -1,0 +1,104 @@
+{
+    "id": "20845",
+    "ident": "KPMU",
+    "type": "small_airport",
+    "name": "Panola County Airport",
+    "latitude_deg": "34.36349869",
+    "longitude_deg": "-89.89260101",
+    "elevation_ft": "221",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Batesville",
+    "scheduled_service": "no",
+    "gps_code": "KPMU",
+    "iata_code": "",
+    "local_code": "PMU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243765",
+            "airport_ref": "20845",
+            "airport_ident": "KPMU",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "34.3568",
+            "le_longitude_deg": "-89.8943",
+            "le_elevation_ft": "221",
+            "le_heading_degT": "12",
+            "le_displaced_threshold_ft": "600",
+            "he_ident": "19",
+            "he_latitude_deg": "34.3702",
+            "he_longitude_deg": "-89.8909",
+            "he_elevation_ft": "219",
+            "he_heading_degT": "192",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66699",
+            "airport_ref": "20845",
+            "airport_ident": "KPMU",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "66700",
+            "airport_ref": "20845",
+            "airport_ident": "KPMU",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91095",
+            "filename": "Marks_NDB_US",
+            "ident": "MMS",
+            "name": "Marks",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "34.233001708984375",
+            "longitude_deg": "-90.28980255126953",
+            "elevation_ft": "160",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.125",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KPMU"
+        }
+    ]
+}

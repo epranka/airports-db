@@ -1,0 +1,96 @@
+{
+    "id": "4203",
+    "ident": "LFQT",
+    "type": "medium_airport",
+    "name": "Merville-Calonne Airport",
+    "latitude_deg": "50.61840057373047",
+    "longitude_deg": "2.642240047454834",
+    "elevation_ft": "61",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-HDF",
+    "municipality": "Merville/Calonne",
+    "scheduled_service": "no",
+    "gps_code": "LFQT",
+    "iata_code": "HZB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236014",
+            "airport_ref": "4203",
+            "airport_ident": "LFQT",
+            "length_ft": "6037",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "50.6118",
+            "le_longitude_deg": "2.63434",
+            "le_elevation_ft": "61",
+            "le_heading_degT": "37",
+            "le_displaced_threshold_ft": "197",
+            "he_ident": "22",
+            "he_latitude_deg": "50.6249",
+            "he_longitude_deg": "2.65015",
+            "he_elevation_ft": "60",
+            "he_heading_degT": "217",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52565",
+            "airport_ref": "4203",
+            "airport_ident": "LFQT",
+            "type": "APP",
+            "description": "LILLE APP",
+            "frequency_mhz": "120.275"
+        },
+        {
+            "id": "52566",
+            "airport_ref": "4203",
+            "airport_ident": "LFQT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "52567",
+            "airport_ref": "4203",
+            "airport_ident": "LFQT",
+            "type": "GND",
+            "description": "MERVILLE GND",
+            "frequency_mhz": "121.675"
+        },
+        {
+            "id": "52568",
+            "airport_ref": "4203",
+            "airport_ident": "LFQT",
+            "type": "TWR",
+            "description": "MERVILLE TWR",
+            "frequency_mhz": "119.075"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306337",
+        "code": "FR-HDF",
+        "local_code": "HDF",
+        "name": "Hauts-de-France",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
+        "keywords": ""
+    }
+}

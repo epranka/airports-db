@@ -1,0 +1,104 @@
+{
+    "id": "26712",
+    "ident": "VYBG",
+    "type": "small_airport",
+    "name": "Bagan Airport",
+    "latitude_deg": "21.178800582885742",
+    "longitude_deg": "94.9301986694336",
+    "elevation_ft": "312",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-04",
+    "municipality": "Nyaung U",
+    "scheduled_service": "yes",
+    "gps_code": "VYBG",
+    "iata_code": "NYU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nyaung_U_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233725",
+            "airport_ref": "26712",
+            "airport_ident": "VYBG",
+            "length_ft": "8500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "21.1904",
+            "le_longitude_deg": "94.9302",
+            "le_elevation_ft": "",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "21.1671",
+            "he_longitude_deg": "94.9301",
+            "he_elevation_ft": "",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49510",
+            "airport_ref": "26712",
+            "airport_ident": "VYBG",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "49511",
+            "airport_ref": "26712",
+            "airport_ident": "VYBG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302649",
+        "code": "MM",
+        "name": "Burma",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
+        "keywords": "Myanmar"
+    },
+    "region": {
+        "id": "304669",
+        "code": "MM-04",
+        "local_code": "04",
+        "name": "Mandalay Division",
+        "continent": "AS",
+        "iso_country": "MM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mandalay_Division",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85994",
+            "filename": "Bagan_NDB_MM",
+            "ident": "BGN",
+            "name": "Bagan",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "21.180999755859375",
+            "longitude_deg": "94.9281997680664",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.423",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VYBG"
+        }
+    ]
+}

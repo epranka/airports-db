@@ -1,0 +1,96 @@
+{
+    "id": "19899",
+    "ident": "KFSO",
+    "type": "small_airport",
+    "name": "Franklin County State Airport",
+    "latitude_deg": "44.94029999",
+    "longitude_deg": "-73.09750366",
+    "elevation_ft": "228",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Highgate",
+    "scheduled_service": "no",
+    "gps_code": "KFSO",
+    "iata_code": "",
+    "local_code": "FSO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245331",
+            "airport_ref": "19899",
+            "airport_ident": "KFSO",
+            "length_ft": "3000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "44.9362",
+            "le_longitude_deg": "-73.0969",
+            "le_elevation_ft": "228",
+            "le_heading_degT": "354",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "44.9444",
+            "he_longitude_deg": "-73.098",
+            "he_elevation_ft": "228",
+            "he_heading_degT": "174",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70064",
+            "airport_ref": "19899",
+            "airport_ident": "KFSO",
+            "type": "A/D",
+            "description": "BURLINGTON APP/DEP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "70065",
+            "airport_ref": "19899",
+            "airport_ident": "KFSO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "70066",
+            "airport_ref": "19899",
+            "airport_ident": "KFSO",
+            "type": "RDO",
+            "description": "BURLINGTON RDO",
+            "frequency_mhz": "116.9"
+        },
+        {
+            "id": "70067",
+            "airport_ref": "19899",
+            "airport_ident": "KFSO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306123",
+        "code": "US-VT",
+        "local_code": "VT",
+        "name": "Vermont",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vermont",
+        "keywords": ""
+    }
+}

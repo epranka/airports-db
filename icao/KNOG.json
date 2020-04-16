@@ -1,0 +1,126 @@
+{
+    "id": "20648",
+    "ident": "KNOG",
+    "type": "small_airport",
+    "name": "Orange Grove Naval Auxiliary Landing Field",
+    "latitude_deg": "27.901100158691406",
+    "longitude_deg": "-98.05169677734375",
+    "elevation_ft": "257",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Orange Grove",
+    "scheduled_service": "no",
+    "gps_code": "KNOG",
+    "iata_code": "",
+    "local_code": "NOG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245624",
+            "airport_ref": "20648",
+            "airport_ident": "KNOG",
+            "length_ft": "8000",
+            "width_ft": "200",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "27.8848",
+            "le_longitude_deg": "-98.0487",
+            "le_elevation_ft": "257",
+            "le_heading_degT": "14.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "27.9061",
+            "he_longitude_deg": "-98.0425",
+            "he_elevation_ft": "257",
+            "he_heading_degT": "194.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245625",
+            "airport_ref": "20648",
+            "airport_ident": "KNOG",
+            "length_ft": "8000",
+            "width_ft": "200",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "27.9059",
+            "le_longitude_deg": "-98.0503",
+            "le_elevation_ft": "257",
+            "le_heading_degT": "134.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "27.8904",
+            "he_longitude_deg": "-98.0327",
+            "he_elevation_ft": "257",
+            "he_heading_degT": "314.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70721",
+            "airport_ref": "20648",
+            "airport_ident": "KNOG",
+            "type": "A/D",
+            "description": "KINGSVILLE APP/DEP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "70722",
+            "airport_ref": "20648",
+            "airport_ident": "KNOG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "25.432"
+        },
+        {
+            "id": "70723",
+            "airport_ref": "20648",
+            "airport_ident": "KNOG",
+            "type": "GCCD",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "23.905"
+        },
+        {
+            "id": "70724",
+            "airport_ref": "20648",
+            "airport_ident": "KNOG",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "70725",
+            "airport_ref": "20648",
+            "airport_ident": "KNOG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.35"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

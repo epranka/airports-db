@@ -1,0 +1,112 @@
+{
+    "id": "5581",
+    "ident": "RJNA",
+    "type": "medium_airport",
+    "name": "Nagoya Airport",
+    "latitude_deg": "35.255001068115234",
+    "longitude_deg": "136.9239959716797",
+    "elevation_ft": "52",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-23",
+    "municipality": "Nagoya",
+    "scheduled_service": "yes",
+    "gps_code": "RJNA",
+    "iata_code": "NKM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nagoya_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237158",
+            "airport_ref": "5581",
+            "airport_ident": "RJNA",
+            "length_ft": "8990",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "35.2664",
+            "le_longitude_deg": "136.917",
+            "le_elevation_ft": "52",
+            "le_heading_degT": "152.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "35.2445",
+            "he_longitude_deg": "136.931",
+            "he_elevation_ft": "50",
+            "he_heading_degT": "332.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54550",
+            "airport_ref": "5581",
+            "airport_ident": "RJNA",
+            "type": "APP",
+            "description": "CENTRAIR APP",
+            "frequency_mhz": "121.05"
+        },
+        {
+            "id": "54551",
+            "airport_ref": "5581",
+            "airport_ident": "RJNA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "54552",
+            "airport_ref": "5581",
+            "airport_ident": "RJNA",
+            "type": "DEP",
+            "description": "CENTRAIR DEP",
+            "frequency_mhz": "121.225"
+        },
+        {
+            "id": "54553",
+            "airport_ref": "5581",
+            "airport_ident": "RJNA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "54554",
+            "airport_ref": "5581",
+            "airport_ident": "RJNA",
+            "type": "TCA",
+            "description": "CENTRAIR TCA",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "54555",
+            "airport_ref": "5581",
+            "airport_ident": "RJNA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304308",
+        "code": "JP-23",
+        "local_code": "23",
+        "name": "Aichi Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aichi",
+        "keywords": "Chubu"
+    }
+}

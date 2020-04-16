@@ -1,0 +1,88 @@
+{
+    "id": "27890",
+    "ident": "YPLG",
+    "type": "small_airport",
+    "name": "Pilliga Airport",
+    "latitude_deg": "-30.36669921875",
+    "longitude_deg": "148.88299560546875",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YPLG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259233",
+            "airport_ref": "27890",
+            "airport_ident": "YPLG",
+            "length_ft": "3412",
+            "width_ft": "",
+            "surface": "C",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74288",
+            "airport_ref": "27890",
+            "airport_ident": "YPLG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "74289",
+            "airport_ref": "27890",
+            "airport_ident": "YPLG",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "74290",
+            "airport_ref": "27890",
+            "airport_ident": "YPLG",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.9"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    }
+}

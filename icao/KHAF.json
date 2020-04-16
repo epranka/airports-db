@@ -1,0 +1,80 @@
+{
+    "id": "20023",
+    "ident": "KHAF",
+    "type": "small_airport",
+    "name": "Half Moon Bay Airport",
+    "latitude_deg": "37.513401031499995",
+    "longitude_deg": "-122.500999451",
+    "elevation_ft": "66",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Half Moon Bay",
+    "scheduled_service": "no",
+    "gps_code": "KHAF",
+    "iata_code": "HAF",
+    "local_code": "HAF",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Half_Moon_Bay_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241777",
+            "airport_ref": "20023",
+            "airport_ident": "KHAF",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "37.5185",
+            "le_longitude_deg": "-122.507",
+            "le_elevation_ft": "59",
+            "le_heading_degT": "137",
+            "le_displaced_threshold_ft": "763",
+            "he_ident": "30",
+            "he_latitude_deg": "37.5084",
+            "he_longitude_deg": "-122.495",
+            "he_elevation_ft": "36",
+            "he_heading_degT": "317",
+            "he_displaced_threshold_ft": "763"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62542",
+            "airport_ref": "20023",
+            "airport_ident": "KHAF",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "135.1"
+        },
+        {
+            "id": "62543",
+            "airport_ref": "20023",
+            "airport_ident": "KHAF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

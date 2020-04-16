@@ -1,0 +1,102 @@
+{
+    "id": "18662",
+    "ident": "K38D",
+    "type": "small_airport",
+    "name": "Salem Airpark Inc Airport",
+    "latitude_deg": "40.94810104370117",
+    "longitude_deg": "-80.86209869384766",
+    "elevation_ft": "1162",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Salem",
+    "scheduled_service": "no",
+    "gps_code": "K38D",
+    "iata_code": "",
+    "local_code": "38D",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242656",
+            "airport_ref": "18662",
+            "airport_ident": "K38D",
+            "length_ft": "3404",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10L",
+            "le_latitude_deg": "40.9482",
+            "le_longitude_deg": "-80.8689",
+            "le_elevation_ft": "1152",
+            "le_heading_degT": "90.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28R",
+            "he_latitude_deg": "40.9482",
+            "he_longitude_deg": "-80.8565",
+            "he_elevation_ft": "1162",
+            "he_heading_degT": "270.1",
+            "he_displaced_threshold_ft": "258"
+        },
+        {
+            "id": "242655",
+            "airport_ref": "18662",
+            "airport_ident": "K38D",
+            "length_ft": "2593",
+            "width_ft": "85",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10R",
+            "le_latitude_deg": "40.9479",
+            "le_longitude_deg": "-80.866",
+            "le_elevation_ft": "1150",
+            "le_heading_degT": "90.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28L",
+            "he_latitude_deg": "40.9478",
+            "he_longitude_deg": "-80.8566",
+            "he_elevation_ft": "1162",
+            "he_heading_degT": "270.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64365",
+            "airport_ref": "18662",
+            "airport_ident": "K38D",
+            "type": "A/D",
+            "description": "AKRON CANTON APP/DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "64366",
+            "airport_ref": "18662",
+            "airport_ident": "K38D",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

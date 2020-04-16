@@ -1,0 +1,110 @@
+{
+    "id": "19353",
+    "ident": "KBBD",
+    "type": "medium_airport",
+    "name": "Curtis Field",
+    "latitude_deg": "31.1793003082",
+    "longitude_deg": "-99.3238983154",
+    "elevation_ft": "1827",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Brady",
+    "scheduled_service": "no",
+    "gps_code": "KBBD",
+    "iata_code": "BBD",
+    "local_code": "BBD",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Curtis_Field",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245680",
+            "airport_ref": "19353",
+            "airport_ident": "KBBD",
+            "length_ft": "3520",
+            "width_ft": "110",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "08",
+            "le_latitude_deg": "31.18",
+            "le_longitude_deg": "-99.3286",
+            "le_elevation_ft": "1818",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "31.1798",
+            "he_longitude_deg": "-99.3174",
+            "he_elevation_ft": "1824",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245681",
+            "airport_ref": "19353",
+            "airport_ident": "KBBD",
+            "length_ft": "4604",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "31.1853",
+            "le_longitude_deg": "-99.3246",
+            "le_elevation_ft": "1827",
+            "le_heading_degT": "180.1",
+            "le_displaced_threshold_ft": "583",
+            "he_ident": "35",
+            "he_latitude_deg": "31.1726",
+            "he_longitude_deg": "-99.3247",
+            "he_elevation_ft": "1792",
+            "he_heading_degT": "0.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70827",
+            "airport_ref": "19353",
+            "airport_ident": "KBBD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "70828",
+            "airport_ref": "19353",
+            "airport_ident": "KBBD",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "70829",
+            "airport_ref": "19353",
+            "airport_ident": "KBBD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

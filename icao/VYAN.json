@@ -1,0 +1,72 @@
+{
+    "id": "26710",
+    "ident": "VYAN",
+    "type": "small_airport",
+    "name": "Ann Airport",
+    "latitude_deg": "19.769199",
+    "longitude_deg": "94.0261",
+    "elevation_ft": "74",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-16",
+    "municipality": "Aeng",
+    "scheduled_service": "no",
+    "gps_code": "VYAN",
+    "iata_code": "VBA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ann_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233708",
+            "airport_ref": "26710",
+            "airport_ident": "VYAN",
+            "length_ft": "8500",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "19.7808",
+            "le_longitude_deg": "94.0265",
+            "le_elevation_ft": "",
+            "le_heading_degT": "181.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "19.7575",
+            "he_longitude_deg": "94.0257",
+            "he_elevation_ft": "",
+            "he_heading_degT": "1.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49492",
+            "airport_ref": "26710",
+            "airport_ident": "VYAN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302649",
+        "code": "MM",
+        "name": "Burma",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
+        "keywords": "Myanmar"
+    },
+    "region": {
+        "id": "304678",
+        "code": "MM-16",
+        "local_code": "16",
+        "name": "Rakhine State",
+        "continent": "AS",
+        "iso_country": "MM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rakhine_State",
+        "keywords": ""
+    }
+}

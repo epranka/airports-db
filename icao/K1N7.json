@@ -1,0 +1,88 @@
+{
+    "id": "18498",
+    "ident": "K1N7",
+    "type": "small_airport",
+    "name": "Blairstown Airport",
+    "latitude_deg": "40.9710998535",
+    "longitude_deg": "-74.99749755859999",
+    "elevation_ft": "372",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Blairstown",
+    "scheduled_service": "no",
+    "gps_code": "1N7",
+    "iata_code": "",
+    "local_code": "1N7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240384",
+            "airport_ref": "18498",
+            "airport_ident": "K1N7",
+            "length_ft": "3100",
+            "width_ft": "70",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "40.9691",
+            "le_longitude_deg": "-75.0024",
+            "le_elevation_ft": "367",
+            "le_heading_degT": "61",
+            "le_displaced_threshold_ft": "296",
+            "he_ident": "25",
+            "he_latitude_deg": "40.9732",
+            "he_longitude_deg": "-74.9926",
+            "he_elevation_ft": "372",
+            "he_heading_degT": "241",
+            "he_displaced_threshold_ft": "246"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59869",
+            "airport_ref": "18498",
+            "airport_ident": "K1N7",
+            "type": "A/D",
+            "description": "NEW YORK APP/DEP",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "59870",
+            "airport_ref": "18498",
+            "airport_ident": "K1N7",
+            "type": "APP",
+            "description": "ALLENTOWN APP DEP",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "59871",
+            "airport_ref": "18498",
+            "airport_ident": "K1N7",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    }
+}

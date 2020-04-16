@@ -1,0 +1,142 @@
+{
+    "id": "27201",
+    "ident": "ZJHK",
+    "type": "large_airport",
+    "name": "Haikou Meilan International Airport",
+    "latitude_deg": "19.934900283813477",
+    "longitude_deg": "110.45899963378906",
+    "elevation_ft": "75",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-46",
+    "municipality": "Haikou",
+    "scheduled_service": "yes",
+    "gps_code": "ZJHK",
+    "iata_code": "HAK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Haikou_Meilan_International_Airport",
+    "keywords": "ZGHK",
+    "runways": [
+        {
+            "id": "235157",
+            "airport_ref": "27201",
+            "airport_ident": "ZJHK",
+            "length_ft": "11811",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "19.9348",
+            "le_longitude_deg": "110.442",
+            "le_elevation_ft": "75",
+            "le_heading_degT": "89.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "19.9349",
+            "he_longitude_deg": "110.476",
+            "he_elevation_ft": "66",
+            "he_heading_degT": "269.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51159",
+            "airport_ref": "27201",
+            "airport_ident": "ZJHK",
+            "type": "APP",
+            "description": "HAIKOU APP",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "51160",
+            "airport_ref": "27201",
+            "airport_ident": "ZJHK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.65"
+        },
+        {
+            "id": "51161",
+            "airport_ref": "27201",
+            "airport_ident": "ZJHK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "51162",
+            "airport_ref": "27201",
+            "airport_ident": "ZJHK",
+            "type": "TWR",
+            "description": "HAIKOU TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303442",
+        "code": "CN-46",
+        "local_code": "46",
+        "name": "Hainan Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hainan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91075",
+            "filename": "Dongmulantou_VOR-DME_CN",
+            "ident": "MLT",
+            "name": "Dongmulantou",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "20.15169906616211",
+            "longitude_deg": "110.6729965209961",
+            "elevation_ft": "190",
+            "iso_country": "CN",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.32",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZJHK"
+        },
+        {
+            "id": "91795",
+            "filename": "Nanyingbindao_VOR-DME_CN",
+            "ident": "NYB",
+            "name": "Nanyingbindao",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "20.0132999420166",
+            "longitude_deg": "110.13700103759766",
+            "elevation_ft": "75",
+            "iso_country": "CN",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.277",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZJHK"
+        }
+    ]
+}

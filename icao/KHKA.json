@@ -1,0 +1,88 @@
+{
+    "id": "20057",
+    "ident": "KHKA",
+    "type": "small_airport",
+    "name": "Blytheville Municipal Airport",
+    "latitude_deg": "35.940399169900004",
+    "longitude_deg": "-89.83080291750001",
+    "elevation_ft": "255",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Blytheville",
+    "scheduled_service": "no",
+    "gps_code": "KHKA",
+    "iata_code": "HKA",
+    "local_code": "HKA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Blytheville_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241731",
+            "airport_ref": "20057",
+            "airport_ident": "KHKA",
+            "length_ft": "5001",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "35.9473",
+            "le_longitude_deg": "-89.831",
+            "le_elevation_ft": "255",
+            "le_heading_degT": "178.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "35.9335",
+            "he_longitude_deg": "-89.8306",
+            "he_elevation_ft": "254",
+            "he_heading_degT": "358.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62454",
+            "airport_ref": "20057",
+            "airport_ident": "KHKA",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.025"
+        },
+        {
+            "id": "62455",
+            "airport_ref": "20057",
+            "airport_ident": "KHKA",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "134.65"
+        },
+        {
+            "id": "62456",
+            "airport_ref": "20057",
+            "airport_ident": "KHKA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

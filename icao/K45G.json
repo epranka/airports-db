@@ -1,0 +1,72 @@
+{
+    "id": "18780",
+    "ident": "K45G",
+    "type": "small_airport",
+    "name": "Brighton Airport",
+    "latitude_deg": "42.569801330566406",
+    "longitude_deg": "-83.77850341796875",
+    "elevation_ft": "973",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Brighton",
+    "scheduled_service": "no",
+    "gps_code": "K45G",
+    "iata_code": "",
+    "local_code": "45G",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240183",
+            "airport_ref": "18780",
+            "airport_ident": "K45G",
+            "length_ft": "3120",
+            "width_ft": "24",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "42.5665",
+            "le_longitude_deg": "-83.7821",
+            "le_elevation_ft": "969",
+            "le_heading_degT": "38.5",
+            "le_displaced_threshold_ft": "194",
+            "he_ident": "22",
+            "he_latitude_deg": "42.5732",
+            "he_longitude_deg": "-83.7749",
+            "he_elevation_ft": "973",
+            "he_heading_degT": "218.5",
+            "he_displaced_threshold_ft": "365"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59578",
+            "airport_ref": "18780",
+            "airport_ident": "K45G",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

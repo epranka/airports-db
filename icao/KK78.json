@@ -1,0 +1,80 @@
+{
+    "id": "20264",
+    "ident": "KK78",
+    "type": "small_airport",
+    "name": "Abilene Municipal Airport",
+    "latitude_deg": "38.904098510742",
+    "longitude_deg": "-97.235900878906",
+    "elevation_ft": "1152",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Abilene",
+    "scheduled_service": "no",
+    "gps_code": "K78",
+    "iata_code": "",
+    "local_code": "K78",
+    "home_link": "http://www.abilenecityhall.com/index.aspx?NID=379",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Abilene_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242870",
+            "airport_ref": "20264",
+            "airport_ident": "KK78",
+            "length_ft": "4100",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "38.9097",
+            "le_longitude_deg": "-97.2358",
+            "le_elevation_ft": "1152",
+            "le_heading_degT": "180.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "38.8984",
+            "he_longitude_deg": "-97.2359",
+            "he_elevation_ft": "1149",
+            "he_heading_degT": "0.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64815",
+            "airport_ref": "20264",
+            "airport_ident": "KK78",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "134.9"
+        },
+        {
+            "id": "64816",
+            "airport_ref": "20264",
+            "airport_ident": "KK78",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

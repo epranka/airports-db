@@ -1,0 +1,80 @@
+{
+    "id": "27253",
+    "ident": "EFII",
+    "type": "small_airport",
+    "name": "Iisalmi Airport",
+    "latitude_deg": "63.631900787353516",
+    "longitude_deg": "27.12220001220703",
+    "elevation_ft": "384",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-IS",
+    "municipality": "Iisalmi",
+    "scheduled_service": "no",
+    "gps_code": "EFII",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310769",
+            "airport_ref": "27253",
+            "airport_ident": "EFII",
+            "length_ft": "2165",
+            "width_ft": "59",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "63.6335",
+            "le_longitude_deg": "27.1241",
+            "le_elevation_ft": "",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "19",
+            "he_ident": "35",
+            "he_latitude_deg": "63.6277",
+            "he_longitude_deg": "27.1243",
+            "he_elevation_ft": "",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": "19"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310768",
+            "airport_ref": "27253",
+            "airport_ident": "EFII",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "132.325"
+        },
+        {
+            "id": "310767",
+            "airport_ref": "27253",
+            "airport_ident": "EFII",
+            "type": "RDO",
+            "description": "Iisalmi traffic",
+            "frequency_mhz": "123.55"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303801",
+        "code": "FI-IS",
+        "local_code": "IS",
+        "name": "Eastern Finland",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Finland",
+        "keywords": "Itä-Suomen lääni, Östra Finlands län"
+    }
+}

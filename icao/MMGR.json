@@ -1,0 +1,72 @@
+{
+    "id": "31554",
+    "ident": "MMGR",
+    "type": "small_airport",
+    "name": "Guerrero Negro Airport",
+    "latitude_deg": "28.0261",
+    "longitude_deg": "-114.024002",
+    "elevation_ft": "59",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-BCN",
+    "municipality": "Guerrero Negro",
+    "scheduled_service": "yes",
+    "gps_code": "MMGR",
+    "iata_code": "GUB",
+    "local_code": "GRN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Guerrero_Negro_Airport",
+    "keywords": "MM58",
+    "runways": [
+        {
+            "id": "249995",
+            "airport_ref": "31554",
+            "airport_ident": "MMGR",
+            "length_ft": "7216",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "28.0329",
+            "le_longitude_deg": "-114.032",
+            "le_elevation_ft": "",
+            "le_heading_degT": "134",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "28.0192",
+            "he_longitude_deg": "-114.016",
+            "he_elevation_ft": "",
+            "he_heading_degT": "314",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75557",
+            "airport_ref": "31554",
+            "airport_ident": "MMGR",
+            "type": "unicom",
+            "description": "Guerrero Negro Traffic",
+            "frequency_mhz": "123.3"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304791",
+        "code": "MX-BCN",
+        "local_code": "BCN",
+        "name": "Baja California",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California",
+        "keywords": ""
+    }
+}

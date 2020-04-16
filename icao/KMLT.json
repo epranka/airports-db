@@ -1,0 +1,126 @@
+{
+    "id": "20526",
+    "ident": "KMLT",
+    "type": "small_airport",
+    "name": "Millinocket Municipal Airport",
+    "latitude_deg": "45.64780044555664",
+    "longitude_deg": "-68.68560028076172",
+    "elevation_ft": "408",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Millinocket",
+    "scheduled_service": "no",
+    "gps_code": "KMLT",
+    "iata_code": "",
+    "local_code": "MLT",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Millinocket_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241830",
+            "airport_ref": "20526",
+            "airport_ident": "KMLT",
+            "length_ft": "4713",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "45.6494",
+            "le_longitude_deg": "-68.6928",
+            "le_elevation_ft": "401",
+            "le_heading_degT": "90.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "45.6493",
+            "he_longitude_deg": "-68.6744",
+            "he_elevation_ft": "395",
+            "he_heading_degT": "270.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241831",
+            "airport_ref": "20526",
+            "airport_ident": "KMLT",
+            "length_ft": "4008",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "45.6502",
+            "le_longitude_deg": "-68.693",
+            "le_elevation_ft": "400",
+            "le_heading_degT": "139",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "45.6419",
+            "he_longitude_deg": "-68.6827",
+            "he_elevation_ft": "380",
+            "he_heading_degT": "319",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62651",
+            "airport_ref": "20526",
+            "airport_ident": "KMLT",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.225"
+        },
+        {
+            "id": "62652",
+            "airport_ref": "20526",
+            "airport_ident": "KMLT",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "62653",
+            "airport_ref": "20526",
+            "airport_ident": "KMLT",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "120.25"
+        },
+        {
+            "id": "62654",
+            "airport_ref": "20526",
+            "airport_ident": "KMLT",
+            "type": "RDO",
+            "description": "BANGOR RDO",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "62655",
+            "airport_ref": "20526",
+            "airport_ident": "KMLT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306097",
+        "code": "US-ME",
+        "local_code": "ME",
+        "name": "Maine",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
+        "keywords": ""
+    }
+}

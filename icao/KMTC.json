@@ -1,0 +1,176 @@
+{
+    "id": "3712",
+    "ident": "KMTC",
+    "type": "medium_airport",
+    "name": "Selfridge Air National Guard Base Airport",
+    "latitude_deg": "42.613463",
+    "longitude_deg": "-82.836919",
+    "elevation_ft": "580",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Mount Clemens",
+    "scheduled_service": "no",
+    "gps_code": "KMTC",
+    "iata_code": "MTC",
+    "local_code": "MTC",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Selfridge_Air_National_Guard_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244350",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "length_ft": "9000",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "42.6015",
+            "le_longitude_deg": "-82.8373",
+            "le_elevation_ft": "580",
+            "le_heading_degT": "1.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "42.6262",
+            "he_longitude_deg": "-82.8365",
+            "he_elevation_ft": "579",
+            "he_heading_degT": "181.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67899",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "A/G",
+            "description": "927 ARW OPS",
+            "frequency_mhz": "31.42"
+        },
+        {
+            "id": "67900",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "67901",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.325"
+        },
+        {
+            "id": "67902",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "67903",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "67904",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "128.3"
+        },
+        {
+            "id": "67905",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "MISC",
+            "description": "USCG DETROIT AIR",
+            "frequency_mhz": "38.18"
+        },
+        {
+            "id": "67906",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "OPS",
+            "description": "WING COMD POST",
+            "frequency_mhz": "148.525"
+        },
+        {
+            "id": "67907",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "PMSV",
+            "description": "PMSV/METRO",
+            "frequency_mhz": "34.25"
+        },
+        {
+            "id": "67908",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "134.85"
+        },
+        {
+            "id": "67909",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.15"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91312",
+            "filename": "Selfridge_TACAN_US",
+            "ident": "MTC",
+            "name": "Selfridge",
+            "type": "TACAN",
+            "frequency_khz": "133700",
+            "latitude_deg": "42.612998962402344",
+            "longitude_deg": "-82.83180236816406",
+            "elevation_ft": "580",
+            "iso_country": "US",
+            "dme_frequency_khz": "133700",
+            "dme_channel": "064X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.001",
+            "magnetic_variation_deg": "-7.234",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KMTC"
+        }
+    ]
+}

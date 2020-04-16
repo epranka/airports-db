@@ -1,0 +1,102 @@
+{
+    "id": "18894",
+    "ident": "K5B2",
+    "type": "small_airport",
+    "name": "Saratoga County Airport",
+    "latitude_deg": "43.05130005",
+    "longitude_deg": "-73.86119843",
+    "elevation_ft": "434",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Saratoga Springs",
+    "scheduled_service": "no",
+    "gps_code": "K5B2",
+    "iata_code": "",
+    "local_code": "5B2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240317",
+            "airport_ref": "18894",
+            "airport_ident": "K5B2",
+            "length_ft": "4700",
+            "width_ft": "100",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "43.0462",
+            "le_longitude_deg": "-73.8669",
+            "le_elevation_ft": "433",
+            "le_heading_degT": "39",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "43.0562",
+            "he_longitude_deg": "-73.8558",
+            "he_elevation_ft": "424",
+            "he_heading_degT": "219",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240318",
+            "airport_ref": "18894",
+            "airport_ident": "K5B2",
+            "length_ft": "4000",
+            "width_ft": "100",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "43.0544",
+            "le_longitude_deg": "-73.8676",
+            "le_elevation_ft": "432",
+            "le_heading_degT": "128.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "43.0475",
+            "he_longitude_deg": "-73.8559",
+            "he_elevation_ft": "425",
+            "he_heading_degT": "308.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59763",
+            "airport_ref": "18894",
+            "airport_ident": "K5B2",
+            "type": "A/D",
+            "description": "ALBANY APP/DEP",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "59764",
+            "airport_ref": "18894",
+            "airport_ident": "K5B2",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

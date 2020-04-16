@@ -1,0 +1,110 @@
+{
+    "id": "21317",
+    "ident": "KVDI",
+    "type": "small_airport",
+    "name": "Vidalia Regional Airport",
+    "latitude_deg": "32.192699432373",
+    "longitude_deg": "-82.371200561523",
+    "elevation_ft": "275",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Vidalia",
+    "scheduled_service": "no",
+    "gps_code": "KVDI",
+    "iata_code": "VDI",
+    "local_code": "VDI",
+    "home_link": "http://www.vidaliaga.com/airport.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vidalia_Regional_Airport",
+    "keywords": "Vidalia-Lyons AAF, Turner AAF AuxAF No. 8",
+    "runways": [
+        {
+            "id": "241744",
+            "airport_ref": "21317",
+            "airport_ident": "KVDI",
+            "length_ft": "6003",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "32.1876",
+            "le_longitude_deg": "-82.3793",
+            "le_elevation_ft": "272",
+            "le_heading_degT": "63",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "32.1952",
+            "he_longitude_deg": "-82.362",
+            "he_elevation_ft": "269",
+            "he_heading_degT": "243",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241745",
+            "airport_ref": "21317",
+            "airport_ident": "KVDI",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "32.1989",
+            "le_longitude_deg": "-82.3778",
+            "le_elevation_ft": "272",
+            "le_heading_degT": "132",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "32.1898",
+            "he_longitude_deg": "-82.3658",
+            "he_elevation_ft": "272",
+            "he_heading_degT": "312",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62478",
+            "airport_ref": "21317",
+            "airport_ident": "KVDI",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "62479",
+            "airport_ref": "21317",
+            "airport_ident": "KVDI",
+            "type": "CNTR",
+            "description": "JACKSONVILLE CNTR",
+            "frequency_mhz": "132.3"
+        },
+        {
+            "id": "62480",
+            "airport_ref": "21317",
+            "airport_ident": "KVDI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

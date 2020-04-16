@@ -1,0 +1,120 @@
+{
+    "id": "3077",
+    "ident": "GCFV",
+    "type": "medium_airport",
+    "name": "Fuerteventura Airport",
+    "latitude_deg": "28.452699661254883",
+    "longitude_deg": "-13.863800048828125",
+    "elevation_ft": "85",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CN",
+    "municipality": "Fuerteventura Island",
+    "scheduled_service": "yes",
+    "gps_code": "GCFV",
+    "iata_code": "FUE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/El_Matorral_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238896",
+            "airport_ref": "3077",
+            "airport_ident": "GCFV",
+            "length_ft": "7874",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "28.4419",
+            "le_longitude_deg": "-13.8641",
+            "le_elevation_ft": "37",
+            "le_heading_degT": "2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "28.4635",
+            "he_longitude_deg": "-13.8634",
+            "he_elevation_ft": "75",
+            "he_heading_degT": "182",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57243",
+            "airport_ref": "3077",
+            "airport_ident": "GCFV",
+            "type": "APP",
+            "description": "CANARIAS APP",
+            "frequency_mhz": "129.3"
+        },
+        {
+            "id": "57244",
+            "airport_ref": "3077",
+            "airport_ident": "GCFV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.65"
+        },
+        {
+            "id": "57245",
+            "airport_ref": "3077",
+            "airport_ident": "GCFV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57246",
+            "airport_ref": "3077",
+            "airport_ident": "GCFV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303742",
+        "code": "ES-CN",
+        "local_code": "CN",
+        "name": "Canary Islands",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canary_Islands",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88183",
+            "filename": "Fuerteventura_VOR-DME_ES",
+            "ident": "FTV",
+            "name": "Fuerteventura",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "28.43079948425293",
+            "longitude_deg": "-13.864500045776367",
+            "elevation_ft": "46",
+            "iso_country": "ES",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "28.4309",
+            "dme_longitude_deg": "-13.8645",
+            "dme_elevation_ft": "46",
+            "slaved_variation_deg": "-7.007",
+            "magnetic_variation_deg": "-5.354",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GCFV"
+        }
+    ]
+}

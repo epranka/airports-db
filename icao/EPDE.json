@@ -1,0 +1,72 @@
+{
+    "id": "2607",
+    "ident": "EPDE",
+    "type": "medium_airport",
+    "name": "Deblin Military Air Base",
+    "latitude_deg": "51.551399231",
+    "longitude_deg": "21.8936004639",
+    "elevation_ft": "392",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-LU",
+    "municipality": "Dęblin",
+    "scheduled_service": "no",
+    "gps_code": "EPDE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Wyższa Szkoła Oficerska Sił Powietrznych",
+    "runways": [
+        {
+            "id": "238260",
+            "airport_ref": "2607",
+            "airport_ident": "EPDE",
+            "length_ft": "8202",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "51.5569",
+            "le_longitude_deg": "21.8781",
+            "le_elevation_ft": "391",
+            "le_heading_degT": "121",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "51.5456",
+            "he_longitude_deg": "21.9092",
+            "he_elevation_ft": "392",
+            "he_heading_degT": "301",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56203",
+            "airport_ref": "2607",
+            "airport_ident": "EPDE",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "128.5"
+        }
+    ],
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305148",
+        "code": "PL-LU",
+        "local_code": "LU",
+        "name": "Lublin",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lublin_Voivodeship",
+        "keywords": "Lubelskie"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "3187",
+    "ident": "HEGO",
+    "type": "small_airport",
+    "name": "El Gouna Airport",
+    "latitude_deg": "27.366899490356445",
+    "longitude_deg": "33.6682014465332",
+    "elevation_ft": "56",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-BA",
+    "municipality": "El Gouna",
+    "scheduled_service": "no",
+    "gps_code": "HEGO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235540",
+            "airport_ref": "3187",
+            "airport_ident": "HEGO",
+            "length_ft": "5249",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "27.3738",
+            "le_longitude_deg": "33.6658",
+            "le_elevation_ft": "",
+            "le_heading_degT": "163.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "27.3599",
+            "he_longitude_deg": "33.6705",
+            "he_elevation_ft": "",
+            "he_heading_degT": "343.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51835",
+            "airport_ref": "3187",
+            "airport_ident": "HEGO",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "119.05"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303694",
+        "code": "EG-BA",
+        "local_code": "BA",
+        "name": "Red Sea Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Red_Sea_Governorate",
+        "keywords": ""
+    }
+}

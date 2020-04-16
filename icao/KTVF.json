@@ -1,0 +1,118 @@
+{
+    "id": "21232",
+    "ident": "KTVF",
+    "type": "small_airport",
+    "name": "Thief River Falls Regional Airport",
+    "latitude_deg": "48.06570053",
+    "longitude_deg": "-96.18499756",
+    "elevation_ft": "1119",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Thief River Falls",
+    "scheduled_service": "no",
+    "gps_code": "KTVF",
+    "iata_code": "TVF",
+    "local_code": "TVF",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Thief_River_Falls_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245170",
+            "airport_ref": "21232",
+            "airport_ident": "KTVF",
+            "length_ft": "4997",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "1",
+            "le_ident": "03",
+            "le_latitude_deg": "48.0617",
+            "le_longitude_deg": "-96.1928",
+            "le_elevation_ft": "1116",
+            "le_heading_degT": "39",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "48.0723",
+            "he_longitude_deg": "-96.1799",
+            "he_elevation_ft": "1116",
+            "he_heading_degT": "219",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245171",
+            "airport_ref": "21232",
+            "airport_ident": "KTVF",
+            "length_ft": "6503",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "48.071",
+            "le_longitude_deg": "-96.1934",
+            "le_elevation_ft": "1113",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "48.0584",
+            "he_longitude_deg": "-96.1745",
+            "he_elevation_ft": "1112",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69731",
+            "airport_ref": "21232",
+            "airport_ident": "KTVF",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "108.4"
+        },
+        {
+            "id": "69732",
+            "airport_ref": "21232",
+            "airport_ident": "KTVF",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "132.15"
+        },
+        {
+            "id": "69733",
+            "airport_ref": "21232",
+            "airport_ident": "KTVF",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "108.4"
+        },
+        {
+            "id": "69734",
+            "airport_ref": "21232",
+            "airport_ident": "KTVF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

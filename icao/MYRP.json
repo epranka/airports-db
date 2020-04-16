@@ -1,0 +1,72 @@
+{
+    "id": "4953",
+    "ident": "MYRP",
+    "type": "small_airport",
+    "name": "Rum Cay Airport",
+    "latitude_deg": "23.68440055847168",
+    "longitude_deg": "-74.83619689941406",
+    "elevation_ft": "15",
+    "continent": "NA",
+    "iso_country": "BS",
+    "iso_region": "BS-SR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "MYRP",
+    "iata_code": "RCY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233643",
+            "airport_ref": "4953",
+            "airport_ident": "MYRP",
+            "length_ft": "4500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "23.6844",
+            "le_longitude_deg": "-74.8429",
+            "le_elevation_ft": "",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "23.6844",
+            "he_longitude_deg": "-74.8295",
+            "he_elevation_ft": "",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49370",
+            "airport_ref": "4953",
+            "airport_ident": "MYRP",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302728",
+        "code": "BS",
+        "name": "Bahamas",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahamas",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303247",
+        "code": "BS-SR",
+        "local_code": "SR",
+        "name": "San Salvador and Rum Cay",
+        "continent": "NA",
+        "iso_country": "BS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/San_Salvador_and_Rum_Cay",
+        "keywords": ""
+    }
+}

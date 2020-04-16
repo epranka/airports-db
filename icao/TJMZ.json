@@ -1,0 +1,120 @@
+{
+    "id": "6382",
+    "ident": "TJMZ",
+    "type": "medium_airport",
+    "name": "Eugenio Maria De Hostos Airport",
+    "latitude_deg": "18.255699157714844",
+    "longitude_deg": "-67.14849853515625",
+    "elevation_ft": "28",
+    "continent": "NA",
+    "iso_country": "PR",
+    "iso_region": "PR-U-A",
+    "municipality": "Mayaguez",
+    "scheduled_service": "yes",
+    "gps_code": "TJMZ",
+    "iata_code": "MAZ",
+    "local_code": "MAZ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Eugenio_Mar%C3%ADa_de_Hostos_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238491",
+            "airport_ref": "6382",
+            "airport_ident": "TJMZ",
+            "length_ft": "4998",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "18.254",
+            "le_longitude_deg": "-67.1555",
+            "le_elevation_ft": "28",
+            "le_heading_degT": "76",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "18.2573",
+            "he_longitude_deg": "-67.1414",
+            "he_elevation_ft": "28",
+            "he_heading_degT": "256",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56570",
+            "airport_ref": "6382",
+            "airport_ident": "TJMZ",
+            "type": "A/D",
+            "description": "SAN JUAN CNTR",
+            "frequency_mhz": "118.75"
+        },
+        {
+            "id": "56571",
+            "airport_ref": "6382",
+            "airport_ident": "TJMZ",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "56572",
+            "airport_ref": "6382",
+            "airport_ident": "TJMZ",
+            "type": "RDO",
+            "description": "SAN JUAN RDO",
+            "frequency_mhz": "110.6"
+        },
+        {
+            "id": "56573",
+            "airport_ref": "6382",
+            "airport_ident": "TJMZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302751",
+        "code": "PR",
+        "name": "Puerto Rico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Puerto_Rico",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305165",
+        "code": "PR-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "PR",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90754",
+            "filename": "Mayaguez_VOR-DME_PR",
+            "ident": "MAZ",
+            "name": "Mayaguez",
+            "type": "VOR-DME",
+            "frequency_khz": "110600",
+            "latitude_deg": "18.256500244140625",
+            "longitude_deg": "-67.1510009765625",
+            "elevation_ft": "18",
+            "iso_country": "PR",
+            "dme_frequency_khz": "110600",
+            "dme_channel": "043X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.006",
+            "magnetic_variation_deg": "-12.012",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "TJMZ"
+        }
+    ]
+}

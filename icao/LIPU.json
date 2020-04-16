@@ -1,0 +1,96 @@
+{
+    "id": "4365",
+    "ident": "LIPU",
+    "type": "medium_airport",
+    "name": "Padova Airport",
+    "latitude_deg": "45.395802",
+    "longitude_deg": "11.8479",
+    "elevation_ft": "44",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Padova",
+    "scheduled_service": "no",
+    "gps_code": "LIPU",
+    "iata_code": "QPA",
+    "local_code": "PD11",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237037",
+            "airport_ref": "4365",
+            "airport_ident": "LIPU",
+            "length_ft": "3681",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "45.3925",
+            "le_longitude_deg": "11.8437",
+            "le_elevation_ft": "44",
+            "le_heading_degT": "40",
+            "le_displaced_threshold_ft": "203",
+            "he_ident": "22",
+            "he_latitude_deg": "45.4002",
+            "he_longitude_deg": "11.8528",
+            "he_elevation_ft": "42",
+            "he_heading_degT": "220",
+            "he_displaced_threshold_ft": "735"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54290",
+            "airport_ref": "4365",
+            "airport_ident": "LIPU",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "123.25"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306354",
+        "code": "IT-34",
+        "local_code": "34",
+        "name": "Veneto",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Veneto",
+        "keywords": "VN"
+    },
+    "navaids": [
+        {
+            "id": "92348",
+            "filename": "Padova_NDB_IT",
+            "ident": "PDV",
+            "name": "Padova",
+            "type": "NDB",
+            "frequency_khz": "285",
+            "latitude_deg": "45.36009979248047",
+            "longitude_deg": "11.818099975585938",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.413",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LIPU"
+        }
+    ]
+}

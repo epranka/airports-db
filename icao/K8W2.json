@@ -1,0 +1,72 @@
+{
+    "id": "19151",
+    "ident": "K8W2",
+    "type": "small_airport",
+    "name": "New Market Airport",
+    "latitude_deg": "38.65570068359375",
+    "longitude_deg": "-78.70809936523438",
+    "elevation_ft": "975",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "New Market",
+    "scheduled_service": "no",
+    "gps_code": "K8W2",
+    "iata_code": "",
+    "local_code": "8W2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240383",
+            "airport_ref": "19151",
+            "airport_ident": "K8W2",
+            "length_ft": "2920",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "38.6531",
+            "le_longitude_deg": "-78.712",
+            "le_elevation_ft": "",
+            "le_heading_degT": "50.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "38.6582",
+            "he_longitude_deg": "-78.7041",
+            "he_elevation_ft": "",
+            "he_heading_degT": "230.5",
+            "he_displaced_threshold_ft": "900"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59868",
+            "airport_ref": "19151",
+            "airport_ident": "K8W2",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    }
+}

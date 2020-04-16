@@ -1,0 +1,96 @@
+{
+    "id": "4449",
+    "ident": "LPGR",
+    "type": "medium_airport",
+    "name": "Graciosa Airport",
+    "latitude_deg": "39.092201232910156",
+    "longitude_deg": "-28.029800415039062",
+    "elevation_ft": "86",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-20",
+    "municipality": "Santa Cruz da Graciosa",
+    "scheduled_service": "yes",
+    "gps_code": "LPGR",
+    "iata_code": "GRW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Graciosa_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238323",
+            "airport_ref": "4449",
+            "airport_ident": "LPGR",
+            "length_ft": "4529",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "39.0908",
+            "le_longitude_deg": "-28.0377",
+            "le_elevation_ft": "",
+            "le_heading_degT": "76.7",
+            "le_displaced_threshold_ft": "182",
+            "he_ident": "27",
+            "he_latitude_deg": "39.0935",
+            "he_longitude_deg": "-28.022",
+            "he_elevation_ft": "",
+            "he_heading_degT": "256.7",
+            "he_displaced_threshold_ft": "182"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56289",
+            "airport_ref": "4449",
+            "airport_ident": "LPGR",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302711",
+        "code": "PT",
+        "name": "Portugal",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
+        "keywords": "Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "305185",
+        "code": "PT-20",
+        "local_code": "20",
+        "name": "Autonomous Region of Azores",
+        "continent": "EU",
+        "iso_country": "PT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Region_of_Azores",
+        "keywords": "Região Autónoma dos Açores"
+    },
+    "navaids": [
+        {
+            "id": "88295",
+            "filename": "Graciosa_NDB_PT",
+            "ident": "GC",
+            "name": "Graciosa",
+            "type": "NDB",
+            "frequency_khz": "428",
+            "latitude_deg": "39.09379959106445",
+            "longitude_deg": "-28.030799865722656",
+            "elevation_ft": "",
+            "iso_country": "PT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.108",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPGR"
+        }
+    ]
+}

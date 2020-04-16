@@ -1,0 +1,80 @@
+{
+    "id": "2337",
+    "ident": "EFPU",
+    "type": "small_airport",
+    "name": "Pudasjärvi Airport",
+    "latitude_deg": "65.4021987915",
+    "longitude_deg": "26.946899414100002",
+    "elevation_ft": "397",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-OL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EFPU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.pudasjarvi.fi/vapaa-ajan-palvelut/pudasjarven-ilmailukeskus",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pudasj%C3%A4rvi_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235745",
+            "airport_ref": "2337",
+            "airport_ident": "EFPU",
+            "length_ft": "6528",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "65.4022",
+            "le_longitude_deg": "26.9469",
+            "le_elevation_ft": "",
+            "le_heading_degT": "91.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "65.4026",
+            "he_longitude_deg": "26.99",
+            "he_elevation_ft": "",
+            "he_heading_degT": "271.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310803",
+            "airport_ref": "2337",
+            "airport_ident": "EFPU",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "52108",
+            "airport_ref": "2337",
+            "airport_ident": "EFPU",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303804",
+        "code": "FI-OL",
+        "local_code": "OL",
+        "name": "Oulu",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oulu",
+        "keywords": "Oulun lääni, Uleåborgs län"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "20990",
+    "ident": "KS12",
+    "type": "small_airport",
+    "name": "Albany Municipal Airport",
+    "latitude_deg": "44.637798309326",
+    "longitude_deg": "-123.05899810791",
+    "elevation_ft": "226",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Albany",
+    "scheduled_service": "no",
+    "gps_code": "S12",
+    "iata_code": "",
+    "local_code": "S12",
+    "home_link": "http://www.cityofalbany.net/departments/public-works/transportation/albany-municipal-airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Albany_Municipal_Airport_(Oregon)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244273",
+            "airport_ref": "20990",
+            "airport_ident": "KS12",
+            "length_ft": "3004",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "44.6419",
+            "le_longitude_deg": "-123.059",
+            "le_elevation_ft": "225",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "44.6337",
+            "he_longitude_deg": "-123.059",
+            "he_elevation_ft": "226",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67753",
+            "airport_ref": "20990",
+            "airport_ident": "KS12",
+            "type": "A/D",
+            "description": "CASCADE APP/DEP",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "67754",
+            "airport_ref": "20990",
+            "airport_ident": "KS12",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306113",
+        "code": "US-OR",
+        "local_code": "OR",
+        "name": "Oregon",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
+        "keywords": ""
+    }
+}

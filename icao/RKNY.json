@@ -1,0 +1,128 @@
+{
+    "id": "5638",
+    "ident": "RKNY",
+    "type": "medium_airport",
+    "name": "Yangyang International Airport",
+    "latitude_deg": "38.061298",
+    "longitude_deg": "128.669006",
+    "elevation_ft": "241",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-42",
+    "municipality": "Gonghang-ro",
+    "scheduled_service": "yes",
+    "gps_code": "RKNY",
+    "iata_code": "YNY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yangyang_International_Airport",
+    "keywords": "RKNY, YNY, Yangyang, Gonghang",
+    "runways": [
+        {
+            "id": "237290",
+            "airport_ref": "5638",
+            "airport_ident": "RKNY",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "38.0701",
+            "le_longitude_deg": "128.66",
+            "le_elevation_ft": "230",
+            "le_heading_degT": "141",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "38.0526",
+            "he_longitude_deg": "128.678",
+            "he_elevation_ft": "227",
+            "he_heading_degT": "321",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54885",
+            "airport_ref": "5638",
+            "airport_ident": "RKNY",
+            "type": "APP",
+            "description": "GANGNEUNG APP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "54886",
+            "airport_ref": "5638",
+            "airport_ident": "RKNY",
+            "type": "CLD",
+            "description": "CLD",
+            "frequency_mhz": "123.15"
+        },
+        {
+            "id": "54887",
+            "airport_ref": "5638",
+            "airport_ident": "RKNY",
+            "type": "DEP",
+            "description": "GANGNEUNG DEP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "54888",
+            "airport_ref": "5638",
+            "airport_ident": "RKNY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "123.15"
+        },
+        {
+            "id": "54889",
+            "airport_ref": "5638",
+            "airport_ident": "RKNY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.85"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304408",
+        "code": "KR-42",
+        "local_code": "42",
+        "name": "Gang'weondo",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gang'weondo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95609",
+            "filename": "Yangyang_VOR-DME_KR",
+            "ident": "YAG",
+            "name": "Yangyang",
+            "type": "VOR-DME",
+            "frequency_khz": "110600",
+            "latitude_deg": "38.063201904296875",
+            "longitude_deg": "128.66099548339844",
+            "elevation_ft": "241",
+            "iso_country": "KR",
+            "dme_frequency_khz": "110600",
+            "dme_channel": "043X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-8.07",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKNY"
+        }
+    ]
+}

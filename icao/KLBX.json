@@ -1,0 +1,96 @@
+{
+    "id": "20323",
+    "ident": "KLBX",
+    "type": "medium_airport",
+    "name": "Texas Gulf Coast Regional Airport",
+    "latitude_deg": "29.1086006165",
+    "longitude_deg": "-95.462097168",
+    "elevation_ft": "25",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Angleton/Lake Jackson",
+    "scheduled_service": "no",
+    "gps_code": "KLBX",
+    "iata_code": "LJN",
+    "local_code": "LBX",
+    "home_link": "http://www.flylbx.org/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Texas_Gulf_Coast_Regional_Airport",
+    "keywords": "Texas Gulf Coast Regional Airport",
+    "runways": [
+        {
+            "id": "244189",
+            "airport_ref": "20323",
+            "airport_ident": "KLBX",
+            "length_ft": "7000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "29.1183",
+            "le_longitude_deg": "-95.4621",
+            "le_elevation_ft": "25",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "29.099",
+            "he_longitude_deg": "-95.4621",
+            "he_elevation_ft": "24",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67571",
+            "airport_ref": "20323",
+            "airport_ident": "KLBX",
+            "type": "A/D",
+            "description": "HOUSTON APP/DEP",
+            "frequency_mhz": "134.45"
+        },
+        {
+            "id": "67572",
+            "airport_ref": "20323",
+            "airport_ident": "KLBX",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "67573",
+            "airport_ref": "20323",
+            "airport_ident": "KLBX",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "67574",
+            "airport_ref": "20323",
+            "airport_ident": "KLBX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "5193",
+    "ident": "OISF",
+    "type": "medium_airport",
+    "name": "Fasa Airport",
+    "latitude_deg": "28.891799926757812",
+    "longitude_deg": "53.72330093383789",
+    "elevation_ft": "4261",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-14",
+    "municipality": "Fasa",
+    "scheduled_service": "no",
+    "gps_code": "OISF",
+    "iata_code": "FAZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236913",
+            "airport_ref": "5193",
+            "airport_ident": "OISF",
+            "length_ft": "6502",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "28.8989",
+            "le_longitude_deg": "53.7164",
+            "le_elevation_ft": "4261",
+            "le_heading_degT": "140",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "28.8858",
+            "he_longitude_deg": "53.7303",
+            "he_elevation_ft": "4261",
+            "he_heading_degT": "320",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54086",
+            "airport_ref": "5193",
+            "airport_ident": "OISF",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.95"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304231",
+        "code": "IR-14",
+        "local_code": "14",
+        "name": "Fars Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fars_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88159",
+            "filename": "Fasa_NDB_IR",
+            "ident": "FSA",
+            "name": "Fasa",
+            "type": "NDB",
+            "frequency_khz": "216",
+            "latitude_deg": "28.896099090576172",
+            "longitude_deg": "53.722801208496094",
+            "elevation_ft": "4261",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.201",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OISF"
+        }
+    ]
+}

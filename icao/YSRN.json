@@ -1,0 +1,120 @@
+{
+    "id": "27964",
+    "ident": "YSRN",
+    "type": "small_airport",
+    "name": "Strahan Airport",
+    "latitude_deg": "-42.154998779296875",
+    "longitude_deg": "145.29200744628906",
+    "elevation_ft": "20",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "YSRN",
+    "iata_code": "SRN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Strahan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259365",
+            "airport_ref": "27964",
+            "airport_ident": "YSRN",
+            "length_ft": "4002",
+            "width_ft": "",
+            "surface": "X",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "61",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "61",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74565",
+            "airport_ref": "27964",
+            "airport_ident": "YSRN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "74567",
+            "airport_ref": "27964",
+            "airport_ident": "YSRN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "74566",
+            "airport_ref": "27964",
+            "airport_ident": "YSRN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "74568",
+            "airport_ref": "27964",
+            "airport_ident": "YSRN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.8"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302973",
+        "code": "AU-TAS",
+        "local_code": "TAS",
+        "name": "Tasmania",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93927",
+            "filename": "Strahan_NDB_AU",
+            "ident": "SRN",
+            "name": "Strahan",
+            "type": "NDB",
+            "frequency_khz": "257",
+            "latitude_deg": "-42.152801513671875",
+            "longitude_deg": "145.2949981689453",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.235",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YSRN"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "21303",
+    "ident": "KUTA",
+    "type": "small_airport",
+    "name": "Tunica Municipal Airport",
+    "latitude_deg": "34.680999755859",
+    "longitude_deg": "-90.346702575684",
+    "elevation_ft": "194",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Tunica",
+    "scheduled_service": "no",
+    "gps_code": "KUTA",
+    "iata_code": "UTM",
+    "local_code": "UTA",
+    "home_link": "http://tunicaairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tunica_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245692",
+            "airport_ref": "21303",
+            "airport_ident": "KUTA",
+            "length_ft": "7000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "34.6924",
+            "le_longitude_deg": "-90.3498",
+            "le_elevation_ft": "194",
+            "le_heading_degT": "167",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "34.6737",
+            "he_longitude_deg": "-90.3446",
+            "he_elevation_ft": "194",
+            "he_heading_degT": "347",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70860",
+            "airport_ref": "21303",
+            "airport_ident": "KUTA",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "70861",
+            "airport_ref": "21303",
+            "airport_ident": "KUTA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.075"
+        },
+        {
+            "id": "70862",
+            "airport_ref": "21303",
+            "airport_ident": "KUTA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    }
+}

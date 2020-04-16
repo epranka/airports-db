@@ -1,0 +1,80 @@
+{
+    "id": "2271",
+    "ident": "EDSN",
+    "type": "small_airport",
+    "name": "Neuhausen ob Eck Airport",
+    "latitude_deg": "47.97666549682617",
+    "longitude_deg": "8.903888702392578",
+    "elevation_ft": "2638",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Neuhausen ob Eck",
+    "scheduled_service": "no",
+    "gps_code": "EDSN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236173",
+            "airport_ref": "2271",
+            "airport_ident": "EDSN",
+            "length_ft": "4094",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "47.9769",
+            "le_longitude_deg": "8.89681",
+            "le_elevation_ft": "2648",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "47.9768",
+            "he_longitude_deg": "8.91352",
+            "he_elevation_ft": "2601",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52855",
+            "airport_ref": "2271",
+            "airport_ident": "EDSN",
+            "type": "AFIS",
+            "description": "ZURICH INFO",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "52856",
+            "airport_ref": "2271",
+            "airport_ident": "EDSN",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "130.5"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
+    }
+}

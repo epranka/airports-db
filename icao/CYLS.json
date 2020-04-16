@@ -1,0 +1,88 @@
+{
+    "id": "1293",
+    "ident": "CYLS",
+    "type": "small_airport",
+    "name": "Barrie-Orillia (Lake Simcoe Regional Airport)",
+    "latitude_deg": "44.4852981567",
+    "longitude_deg": "-79.55560302730001",
+    "elevation_ft": "972",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Barrie-Orillia",
+    "scheduled_service": "no",
+    "gps_code": "CYLS",
+    "iata_code": "YLK",
+    "local_code": "CYLS",
+    "home_link": "http://www.lakesimcoeairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Barrie-Orillia_(Lake_Simcoe_Regional)_Airport",
+    "keywords": "NB9, CNB9, Oro Station",
+    "runways": [
+        {
+            "id": "234899",
+            "airport_ref": "1293",
+            "airport_ident": "CYLS",
+            "length_ft": "6001",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "44.4853",
+            "le_longitude_deg": "-79.5653",
+            "le_elevation_ft": "968",
+            "le_heading_degT": "88.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "44.4856",
+            "he_longitude_deg": "-79.5464",
+            "he_elevation_ft": "955",
+            "he_heading_degT": "268.8",
+            "he_displaced_threshold_ft": "303"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50688",
+            "airport_ref": "1293",
+            "airport_ident": "CYLS",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "50689",
+            "airport_ref": "1293",
+            "airport_ident": "CYLS",
+            "type": "CNTR",
+            "description": "TORONTO CNTR",
+            "frequency_mhz": "124.025"
+        },
+        {
+            "id": "50690",
+            "airport_ref": "1293",
+            "airport_ident": "CYLS",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": ""
+    }
+}

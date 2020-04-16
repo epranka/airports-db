@@ -1,0 +1,72 @@
+{
+    "id": "4985",
+    "ident": "NTGC",
+    "type": "medium_airport",
+    "name": "Tikehau Airport",
+    "latitude_deg": "-15.119600296020508",
+    "longitude_deg": "-148.2310028076172",
+    "elevation_ft": "6",
+    "continent": "OC",
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "NTGC",
+    "iata_code": "TIH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tikehau_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235807",
+            "airport_ref": "4985",
+            "airport_ident": "NTGC",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-15.121",
+            "le_longitude_deg": "-148.236",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "75.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "-15.1182",
+            "he_longitude_deg": "-148.225",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "255.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52195",
+            "airport_ref": "4985",
+            "airport_ident": "NTGC",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "119.5"
+        }
+    ],
+    "country": {
+        "id": "302777",
+        "code": "PF",
+        "name": "French Polynesia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/French_Polynesia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305033",
+        "code": "PF-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "PF",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

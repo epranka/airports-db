@@ -1,0 +1,104 @@
+{
+    "id": "26739",
+    "ident": "VYST",
+    "type": "medium_airport",
+    "name": "Shante Air Base",
+    "latitude_deg": "20.941699981689453",
+    "longitude_deg": "95.91449737548828",
+    "elevation_ft": "630",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-04",
+    "municipality": "Meiktila",
+    "scheduled_service": "no",
+    "gps_code": "VYST",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233733",
+            "airport_ref": "26739",
+            "airport_ident": "VYST",
+            "length_ft": "8501",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "20.9301",
+            "le_longitude_deg": "95.9131",
+            "le_elevation_ft": "",
+            "le_heading_degT": "6.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "20.9532",
+            "he_longitude_deg": "95.9159",
+            "he_elevation_ft": "",
+            "he_heading_degT": "186.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49521",
+            "airport_ref": "26739",
+            "airport_ident": "VYST",
+            "type": "APP",
+            "description": "MEIKTILA APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "49522",
+            "airport_ref": "26739",
+            "airport_ident": "VYST",
+            "type": "TWR",
+            "description": "MEIKTILA TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302649",
+        "code": "MM",
+        "name": "Burma",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
+        "keywords": "Myanmar"
+    },
+    "region": {
+        "id": "304669",
+        "code": "MM-04",
+        "local_code": "04",
+        "name": "Mandalay Division",
+        "continent": "AS",
+        "iso_country": "MM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mandalay_Division",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91035",
+            "filename": "Meiktila_NDB_MM",
+            "ident": "MKT",
+            "name": "Meiktila",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "20.93429946899414",
+            "longitude_deg": "95.91310119628906",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.434",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VYST"
+        }
+    ]
+}

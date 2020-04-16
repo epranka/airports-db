@@ -1,0 +1,112 @@
+{
+    "id": "5955",
+    "ident": "SBPJ",
+    "type": "medium_airport",
+    "name": "Brigadeiro Lysias Rodrigues Airport",
+    "latitude_deg": "-10.291500091600001",
+    "longitude_deg": "-48.35699844359999",
+    "elevation_ft": "774",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-TO",
+    "municipality": "Palmas",
+    "scheduled_service": "yes",
+    "gps_code": "SBPJ",
+    "iata_code": "PMW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Palmas_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233891",
+            "airport_ref": "5955",
+            "airport_ident": "SBPJ",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49576",
+            "airport_ref": "5955",
+            "airport_ident": "SBPJ",
+            "type": "AFIS",
+            "description": "PALMAS RDO",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "49577",
+            "airport_ref": "5955",
+            "airport_ident": "SBPJ",
+            "type": "APP",
+            "description": "PALMAS APP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "49578",
+            "airport_ref": "5955",
+            "airport_ident": "SBPJ",
+            "type": "TWR",
+            "description": "PALMAS TWR",
+            "frequency_mhz": "118"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303225",
+        "code": "BR-TO",
+        "local_code": "TO",
+        "name": "Tocatins",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tocatins",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92545",
+            "filename": "Palmas_VOR-DME_BR",
+            "ident": "PMS",
+            "name": "Palmas",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "-10.2878999710083",
+            "longitude_deg": "-48.3583984375",
+            "elevation_ft": "656",
+            "iso_country": "BR",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.151",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBPJ"
+        }
+    ]
+}

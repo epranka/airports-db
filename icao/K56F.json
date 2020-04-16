@@ -1,0 +1,102 @@
+{
+    "id": "18886",
+    "ident": "K56F",
+    "type": "small_airport",
+    "name": "Fisher County Airport",
+    "latitude_deg": "32.82569885253906",
+    "longitude_deg": "-100.41500091552734",
+    "elevation_ft": "1941",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Rotan/Roby",
+    "scheduled_service": "no",
+    "gps_code": "K56F",
+    "iata_code": "",
+    "local_code": "56F",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242469",
+            "airport_ref": "18886",
+            "airport_ident": "K56F",
+            "length_ft": "2800",
+            "width_ft": "50",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "32.8264",
+            "le_longitude_deg": "-100.425",
+            "le_elevation_ft": "",
+            "le_heading_degT": "73",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "25",
+            "he_latitude_deg": "32.8286",
+            "he_longitude_deg": "-100.416",
+            "he_elevation_ft": "",
+            "he_heading_degT": "253",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242470",
+            "airport_ref": "18886",
+            "airport_ident": "K56F",
+            "length_ft": "3300",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "32.8297",
+            "le_longitude_deg": "-100.417",
+            "le_elevation_ft": "1941",
+            "le_heading_degT": "165",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "32.8211",
+            "he_longitude_deg": "-100.414",
+            "he_elevation_ft": "",
+            "he_heading_degT": "345",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63983",
+            "airport_ref": "18886",
+            "airport_ident": "K56F",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "127.45"
+        },
+        {
+            "id": "63984",
+            "airport_ref": "18886",
+            "airport_ident": "K56F",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

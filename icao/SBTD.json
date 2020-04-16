@@ -1,0 +1,96 @@
+{
+    "id": "5981",
+    "ident": "SBTD",
+    "type": "small_airport",
+    "name": "Toledo Airport",
+    "latitude_deg": "-24.6863",
+    "longitude_deg": "-53.697498",
+    "elevation_ft": "1843",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Toledo",
+    "scheduled_service": "yes",
+    "gps_code": "SBTD",
+    "iata_code": "TOW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Toledo_Airport_(Brazil)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234022",
+            "airport_ref": "5981",
+            "airport_ident": "SBTD",
+            "length_ft": "5479",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "2",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49599",
+            "airport_ref": "5981",
+            "airport_ident": "SBTD",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "131.05"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303216",
+        "code": "BR-PR",
+        "local_code": "PR",
+        "name": "Paraná",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94513",
+            "filename": "Toledo_NDB_BR",
+            "ident": "TOL",
+            "name": "Toledo",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "-24.685699462890625",
+            "longitude_deg": "-53.69969940185547",
+            "elevation_ft": "1854",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.106",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBTD"
+        }
+    ]
+}

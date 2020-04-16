@@ -1,0 +1,110 @@
+{
+    "id": "19846",
+    "ident": "KFBR",
+    "type": "small_airport",
+    "name": "Fort Bridger Airport",
+    "latitude_deg": "41.3918991089",
+    "longitude_deg": "-110.406997681",
+    "elevation_ft": "7034",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Fort Bridger",
+    "scheduled_service": "no",
+    "gps_code": "KFBR",
+    "iata_code": "FBR",
+    "local_code": "FBR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243678",
+            "airport_ref": "19846",
+            "airport_ident": "KFBR",
+            "length_ft": "6402",
+            "width_ft": "80",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "41.3868",
+            "le_longitude_deg": "-110.416",
+            "le_elevation_ft": "7034",
+            "le_heading_degT": "54.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "41.397",
+            "he_longitude_deg": "-110.397",
+            "he_elevation_ft": "7002",
+            "he_heading_degT": "234.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243679",
+            "airport_ref": "19846",
+            "airport_ident": "KFBR",
+            "length_ft": "4042",
+            "width_ft": "50",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "41.3947",
+            "le_longitude_deg": "-110.411",
+            "le_elevation_ft": "7016",
+            "le_heading_degT": "78.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "41.3969",
+            "he_longitude_deg": "-110.397",
+            "he_elevation_ft": "7000",
+            "he_heading_degT": "258.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66523",
+            "airport_ref": "19846",
+            "airport_ident": "KFBR",
+            "type": "AWOS",
+            "description": "AWOS 2",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "66524",
+            "airport_ref": "19846",
+            "airport_ident": "KFBR",
+            "type": "RDO",
+            "description": "CASPER RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "66525",
+            "airport_ref": "19846",
+            "airport_ident": "KFBR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306127",
+        "code": "US-WY",
+        "local_code": "WY",
+        "name": "Wyoming",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
+        "keywords": ""
+    }
+}

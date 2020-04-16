@@ -1,0 +1,80 @@
+{
+    "id": "19000",
+    "ident": "K6L4",
+    "type": "small_airport",
+    "name": "Logan County Airport",
+    "latitude_deg": "37.8557014465",
+    "longitude_deg": "-81.91590118410001",
+    "elevation_ft": "1667",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Logan",
+    "scheduled_service": "no",
+    "gps_code": "6L4",
+    "iata_code": "",
+    "local_code": "6L4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245670",
+            "airport_ref": "19000",
+            "airport_ident": "K6L4",
+            "length_ft": "3600",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "37.8531",
+            "le_longitude_deg": "-81.9212",
+            "le_elevation_ft": "1656",
+            "le_heading_degT": "58",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "37.8583",
+            "he_longitude_deg": "-81.9106",
+            "he_elevation_ft": "1667",
+            "he_heading_degT": "238",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70806",
+            "airport_ref": "19000",
+            "airport_ident": "K6L4",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "70807",
+            "airport_ref": "19000",
+            "airport_ident": "K6L4",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306126",
+        "code": "US-WV",
+        "local_code": "WV",
+        "name": "West Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
+        "keywords": ""
+    }
+}

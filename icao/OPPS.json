@@ -1,0 +1,150 @@
+{
+    "id": "5270",
+    "ident": "OPPS",
+    "type": "medium_airport",
+    "name": "Peshawar International Airport",
+    "latitude_deg": "33.993900299072266",
+    "longitude_deg": "71.51460266113281",
+    "elevation_ft": "1158",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-NW",
+    "municipality": "Peshawar",
+    "scheduled_service": "yes",
+    "gps_code": "OPPS",
+    "iata_code": "PEW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Peshawar_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238210",
+            "airport_ref": "5270",
+            "airport_ident": "OPPS",
+            "length_ft": "9000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "34.006",
+            "le_longitude_deg": "71.5135",
+            "le_elevation_ft": "1171",
+            "le_heading_degT": "175.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "33.9814",
+            "he_longitude_deg": "71.5157",
+            "he_elevation_ft": "1211",
+            "he_heading_degT": "355.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56164",
+            "airport_ref": "5270",
+            "airport_ident": "OPPS",
+            "type": "APP",
+            "description": "CHERAT APP",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "56165",
+            "airport_ref": "5270",
+            "airport_ident": "OPPS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "56166",
+            "airport_ref": "5270",
+            "airport_ident": "OPPS",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "56167",
+            "airport_ref": "5270",
+            "airport_ident": "OPPS",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "292.3"
+        },
+        {
+            "id": "56168",
+            "airport_ref": "5270",
+            "airport_ident": "OPPS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302657",
+        "code": "PK",
+        "name": "Pakistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pakistan",
+        "keywords": "پاکستان کے ہوائی اڈوں"
+    },
+    "region": {
+        "id": "305139",
+        "code": "PK-NW",
+        "local_code": "NW",
+        "name": "North-West Frontier",
+        "continent": "AS",
+        "iso_country": "PK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North-West_Frontier",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92705",
+            "filename": "Peshawar_VOR-DME_PK",
+            "ident": "PS",
+            "name": "Peshawar",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "33.975399017333984",
+            "longitude_deg": "71.51719665527344",
+            "elevation_ft": "1257",
+            "iso_country": "PK",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "2.155",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OPPS"
+        },
+        {
+            "id": "92709",
+            "filename": "Peshawar_NDB_PK",
+            "ident": "PS",
+            "name": "Peshawar",
+            "type": "NDB",
+            "frequency_khz": "308",
+            "latitude_deg": "33.99580001831055",
+            "longitude_deg": "71.50440216064453",
+            "elevation_ft": "1257",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.159",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OPPS"
+        }
+    ]
+}

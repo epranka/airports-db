@@ -1,0 +1,104 @@
+{
+    "id": "2930",
+    "ident": "FMSK",
+    "type": "medium_airport",
+    "name": "Manakara Airport",
+    "latitude_deg": "-22.119699478149414",
+    "longitude_deg": "48.02170181274414",
+    "elevation_ft": "33",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-F",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "FMSK",
+    "iata_code": "WVK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Manakara_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237538",
+            "airport_ref": "2930",
+            "airport_ident": "FMSK",
+            "length_ft": "3886",
+            "width_ft": "79",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "-22.1242",
+            "le_longitude_deg": "48.0186",
+            "le_elevation_ft": "33",
+            "le_heading_degT": "33.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "-22.1153",
+            "he_longitude_deg": "48.025",
+            "he_elevation_ft": "33",
+            "he_heading_degT": "213.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55261",
+            "airport_ref": "2930",
+            "airport_ident": "FMSK",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "548.4"
+        },
+        {
+            "id": "55262",
+            "airport_ref": "2930",
+            "airport_ident": "FMSK",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302585",
+        "code": "MG",
+        "name": "Madagascar",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madagascar",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304625",
+        "code": "MG-F",
+        "local_code": "F",
+        "name": "Fianarantsoa",
+        "continent": "AF",
+        "iso_country": "MG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fianarantsoa",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95294",
+            "filename": "Manakara_NDB_MG",
+            "ident": "VSR",
+            "name": "Manakara",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "-22.116500854492188",
+            "longitude_deg": "48.02199935913086",
+            "elevation_ft": "",
+            "iso_country": "MG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.277",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FMSK"
+        }
+    ]
+}

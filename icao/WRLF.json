@@ -1,0 +1,80 @@
+{
+    "id": "35281",
+    "ident": "WRLF",
+    "type": "small_airport",
+    "name": "Nunukan Airport",
+    "latitude_deg": "4.13333333333",
+    "longitude_deg": "117.666666667",
+    "elevation_ft": "30",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-KU",
+    "municipality": "Nunukan-Nunukan Island",
+    "scheduled_service": "yes",
+    "gps_code": "WALF",
+    "iata_code": "NNX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nunukan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "271014",
+            "airport_ref": "35281",
+            "airport_ident": "WRLF",
+            "length_ft": "3609",
+            "width_ft": "75",
+            "surface": "ASPHALT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "308932",
+            "airport_ref": "35281",
+            "airport_ident": "WRLF",
+            "type": "NUNUKAN INFO",
+            "description": "PRIMARY",
+            "frequency_mhz": "120.55"
+        },
+        {
+            "id": "308933",
+            "airport_ref": "35281",
+            "airport_ident": "WRLF",
+            "type": "NUNUKAN INFO",
+            "description": "SECONDARY",
+            "frequency_mhz": "123.15"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "316679",
+        "code": "ID-KU",
+        "local_code": "KU",
+        "name": "North Kalimantan",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Kalimantan",
+        "keywords": "Kalimantan Utara"
+    }
+}

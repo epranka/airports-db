@@ -1,0 +1,118 @@
+{
+    "id": "21103",
+    "ident": "KSPW",
+    "type": "small_airport",
+    "name": "Spencer Municipal Airport",
+    "latitude_deg": "43.165500640869",
+    "longitude_deg": "-95.202796936035",
+    "elevation_ft": "1339",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Spencer",
+    "scheduled_service": "no",
+    "gps_code": "KSPW",
+    "iata_code": "SPW",
+    "local_code": "SPW",
+    "home_link": "http://spenceriowacity.com/airport.php",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Spencer_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241763",
+            "airport_ref": "21103",
+            "airport_ident": "KSPW",
+            "length_ft": "6000",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "43.1707",
+            "le_longitude_deg": "-95.2122",
+            "le_elevation_ft": "1339",
+            "le_heading_degT": "126.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "43.161",
+            "he_longitude_deg": "-95.194",
+            "he_elevation_ft": "1337",
+            "he_heading_degT": "306.2",
+            "he_displaced_threshold_ft": "500"
+        },
+        {
+            "id": "241764",
+            "airport_ref": "21103",
+            "airport_ident": "KSPW",
+            "length_ft": "5100",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "43.1721",
+            "le_longitude_deg": "-95.2016",
+            "le_elevation_ft": "1337",
+            "le_heading_degT": "185.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "43.1582",
+            "he_longitude_deg": "-95.2034",
+            "he_elevation_ft": "1336",
+            "he_heading_degT": "5.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62518",
+            "airport_ref": "21103",
+            "airport_ident": "KSPW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "126.625"
+        },
+        {
+            "id": "62519",
+            "airport_ref": "21103",
+            "airport_ident": "KSPW",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "62520",
+            "airport_ref": "21103",
+            "airport_ident": "KSPW",
+            "type": "RDO",
+            "description": "FORT DODGE RDO",
+            "frequency_mhz": "122.15"
+        },
+        {
+            "id": "62521",
+            "airport_ref": "21103",
+            "airport_ident": "KSPW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

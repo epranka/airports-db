@@ -1,0 +1,142 @@
+{
+    "id": "4821",
+    "ident": "MSSS",
+    "type": "medium_airport",
+    "name": "Ilopango International Airport",
+    "latitude_deg": "13.69950008392334",
+    "longitude_deg": "-89.11990356445312",
+    "elevation_ft": "2021",
+    "continent": "NA",
+    "iso_country": "SV",
+    "iso_region": "SV-SS",
+    "municipality": "San Salvador",
+    "scheduled_service": "no",
+    "gps_code": "MSSS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ilopango_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235665",
+            "airport_ref": "4821",
+            "airport_ident": "MSSS",
+            "length_ft": "7349",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "13.7085",
+            "le_longitude_deg": "-89.1245",
+            "le_elevation_ft": "1998",
+            "le_heading_degT": "153.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "13.6905",
+            "he_longitude_deg": "-89.1153",
+            "he_elevation_ft": "2021",
+            "he_heading_degT": "333.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51979",
+            "airport_ref": "4821",
+            "airport_ident": "MSSS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "51980",
+            "airport_ref": "4821",
+            "airport_ident": "MSSS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51981",
+            "airport_ref": "4821",
+            "airport_ident": "MSSS",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "127.05"
+        },
+        {
+            "id": "51982",
+            "airport_ref": "4821",
+            "airport_ident": "MSSS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302752",
+        "code": "SV",
+        "name": "El Salvador",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/El_Salvador",
+        "keywords": "Salvadorian, Salvadorean"
+    },
+    "region": {
+        "id": "305661",
+        "code": "SV-SS",
+        "local_code": "SS",
+        "name": "San Salvador",
+        "continent": "NA",
+        "iso_country": "SV",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/San_Salvador",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95845",
+            "filename": "Ilopango_VOR-DME_SV",
+            "ident": "YSV",
+            "name": "Ilopango",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "13.690099716186523",
+            "longitude_deg": "-89.11630249023438",
+            "elevation_ft": "2046",
+            "iso_country": "SV",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "2.007",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MSSS"
+        },
+        {
+            "id": "95846",
+            "filename": "Ilopango_NDB_SV",
+            "ident": "YSX",
+            "name": "Ilopango",
+            "type": "NDB",
+            "frequency_khz": "215",
+            "latitude_deg": "13.69849967956543",
+            "longitude_deg": "-89.11759948730469",
+            "elevation_ft": "2025",
+            "iso_country": "SV",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.007",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "MSSS"
+        }
+    ]
+}

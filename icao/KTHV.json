@@ -1,0 +1,96 @@
+{
+    "id": "21194",
+    "ident": "KTHV",
+    "type": "small_airport",
+    "name": "York Airport",
+    "latitude_deg": "39.91699982",
+    "longitude_deg": "-76.8730011",
+    "elevation_ft": "495",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "York",
+    "scheduled_service": "no",
+    "gps_code": "KTHV",
+    "iata_code": "THV",
+    "local_code": "THV",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/York_Airport_(Pennsylvania)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242840",
+            "airport_ref": "21194",
+            "airport_ident": "KTHV",
+            "length_ft": "5188",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "39.9235",
+            "le_longitude_deg": "-76.8769",
+            "le_elevation_ft": "470",
+            "le_heading_degT": "155",
+            "le_displaced_threshold_ft": "800",
+            "he_ident": "35",
+            "he_latitude_deg": "39.9105",
+            "he_longitude_deg": "-76.8692",
+            "he_elevation_ft": "480",
+            "he_heading_degT": "335",
+            "he_displaced_threshold_ft": "740"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64752",
+            "airport_ref": "21194",
+            "airport_ident": "KTHV",
+            "type": "A/D",
+            "description": "HARRISBURG APP/DEP",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "64753",
+            "airport_ref": "21194",
+            "airport_ident": "KTHV",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "64754",
+            "airport_ref": "21194",
+            "airport_ident": "KTHV",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "64755",
+            "airport_ref": "21194",
+            "airport_ident": "KTHV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

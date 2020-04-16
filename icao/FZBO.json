@@ -1,0 +1,96 @@
+{
+    "id": "3044",
+    "ident": "FZBO",
+    "type": "medium_airport",
+    "name": "Bandundu Airport",
+    "latitude_deg": "-3.3113200664520264",
+    "longitude_deg": "17.38170051574707",
+    "elevation_ft": "1063",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-BN",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "FZBO",
+    "iata_code": "FDU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bandundu_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235139",
+            "airport_ref": "3044",
+            "airport_ident": "FZBO",
+            "length_ft": "4528",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-3.30959",
+            "le_longitude_deg": "17.3757",
+            "le_elevation_ft": "1060",
+            "le_heading_degT": "106",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "-3.31305",
+            "he_longitude_deg": "17.3876",
+            "he_elevation_ft": "1060",
+            "he_heading_degT": "286",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51129",
+            "airport_ref": "3044",
+            "airport_ident": "FZBO",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Congo (Kinshasa)",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Congo_(Kinshasa)",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303310",
+        "code": "CD-BN",
+        "local_code": "BN",
+        "name": "Bandundu Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bandundu_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85804",
+            "filename": "Bandundu_NDB_CD",
+            "ident": "BAN",
+            "name": "Bandundu",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "-3.302380084991455",
+            "longitude_deg": "17.38290023803711",
+            "elevation_ft": "",
+            "iso_country": "CD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.194",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FZBO"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "1185",
+    "ident": "CKH2",
+    "type": "small_airport",
+    "name": "Rocanville Airport",
+    "latitude_deg": "50.464698791503906",
+    "longitude_deg": "-101.55400085449219",
+    "elevation_ft": "1585",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Rocanville",
+    "scheduled_service": "no",
+    "gps_code": "CKH2",
+    "iata_code": "",
+    "local_code": "CKH2",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rocanville_Airport",
+    "keywords": "KH2",
+    "runways": [
+        {
+            "id": "234696",
+            "airport_ref": "1185",
+            "airport_ident": "CKH2",
+            "length_ft": "3950",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "50.4678",
+            "le_longitude_deg": "-101.564",
+            "le_elevation_ft": "",
+            "le_heading_degT": "139",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "50.4597",
+            "he_longitude_deg": "-101.553",
+            "he_elevation_ft": "",
+            "he_heading_degT": "319",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50311",
+            "airport_ref": "1185",
+            "airport_ident": "CKH2",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303305",
+        "code": "CA-SK",
+        "local_code": "SK",
+        "name": "Saskatchewan",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87233",
+            "filename": "Rocanville_NDB_CA",
+            "ident": "D4",
+            "name": "Rocanville",
+            "type": "NDB",
+            "frequency_khz": "304",
+            "latitude_deg": "50.46500015258789",
+            "longitude_deg": "-101.552001953125",
+            "elevation_ft": "1585",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.068",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CKH2"
+        }
+    ]
+}

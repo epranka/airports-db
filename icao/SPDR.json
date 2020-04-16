@@ -1,0 +1,96 @@
+{
+    "id": "6206",
+    "ident": "SPDR",
+    "type": "small_airport",
+    "name": "Trompeteros Airport",
+    "latitude_deg": "-3.80601000786",
+    "longitude_deg": "-75.03929901119999",
+    "elevation_ft": "427",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LOR",
+    "municipality": "Corrientes",
+    "scheduled_service": "no",
+    "gps_code": "SPDR",
+    "iata_code": "TDP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238125",
+            "airport_ref": "6206",
+            "airport_ident": "SPDR",
+            "length_ft": "6075",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-3.80396",
+            "le_longitude_deg": "-75.0474",
+            "le_elevation_ft": "",
+            "le_heading_degT": "104.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "-3.80806",
+            "he_longitude_deg": "-75.0312",
+            "he_elevation_ft": "",
+            "he_heading_degT": "284.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56056",
+            "airport_ref": "6206",
+            "airport_ident": "SPDR",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122"
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Perú",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305022",
+        "code": "PE-LOR",
+        "local_code": "LOR",
+        "name": "Loreto Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Loreto_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94604",
+            "filename": "Corrientes_NDB_PE",
+            "ident": "TRO",
+            "name": "Corrientes",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "-3.799720048904419",
+            "longitude_deg": "-75.03970336914062",
+            "elevation_ft": "427",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.225",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "SPDR"
+        }
+    ]
+}

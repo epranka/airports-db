@@ -1,0 +1,80 @@
+{
+    "id": "20691",
+    "ident": "KO47",
+    "type": "small_airport",
+    "name": "Prague Municipal Airport",
+    "latitude_deg": "35.4822998046875",
+    "longitude_deg": "-96.71869659423828",
+    "elevation_ft": "1042",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Prague",
+    "scheduled_service": "no",
+    "gps_code": "KO47",
+    "iata_code": "",
+    "local_code": "O47",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240539",
+            "airport_ref": "20691",
+            "airport_ident": "KO47",
+            "length_ft": "2757",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "35.4861",
+            "le_longitude_deg": "-96.7187",
+            "le_elevation_ft": "1040",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "35.4786",
+            "he_longitude_deg": "-96.7187",
+            "he_elevation_ft": "1015",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60112",
+            "airport_ref": "20691",
+            "airport_ident": "KO47",
+            "type": "A/D",
+            "description": "FORT WORTH APP/DEP",
+            "frequency_mhz": "132.2"
+        },
+        {
+            "id": "60113",
+            "airport_ref": "20691",
+            "airport_ident": "KO47",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

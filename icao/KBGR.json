@@ -1,0 +1,190 @@
+{
+    "id": "3405",
+    "ident": "KBGR",
+    "type": "large_airport",
+    "name": "Bangor International Airport",
+    "latitude_deg": "44.80739974975586",
+    "longitude_deg": "-68.8281021118164",
+    "elevation_ft": "192",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Bangor",
+    "scheduled_service": "yes",
+    "gps_code": "KBGR",
+    "iata_code": "BGR",
+    "local_code": "BGR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bangor_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240571",
+            "airport_ref": "3405",
+            "airport_ident": "KBGR",
+            "length_ft": "11440",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "44.8184",
+            "le_longitude_deg": "-68.8439",
+            "le_elevation_ft": "192",
+            "le_heading_degT": "134",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "44.7965",
+            "he_longitude_deg": "-68.8123",
+            "he_elevation_ft": "163",
+            "he_heading_degT": "314",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60166",
+            "airport_ref": "3405",
+            "airport_ident": "KBGR",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.925"
+        },
+        {
+            "id": "60167",
+            "airport_ref": "3405",
+            "airport_ident": "KBGR",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "60168",
+            "airport_ref": "3405",
+            "airport_ident": "KBGR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "60169",
+            "airport_ref": "3405",
+            "airport_ident": "KBGR",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "135.9"
+        },
+        {
+            "id": "60170",
+            "airport_ref": "3405",
+            "airport_ident": "KBGR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "60171",
+            "airport_ref": "3405",
+            "airport_ident": "KBGR",
+            "type": "MISC",
+            "description": "ARNG OPS",
+            "frequency_mhz": "41.2"
+        },
+        {
+            "id": "60172",
+            "airport_ref": "3405",
+            "airport_ident": "KBGR",
+            "type": "OPS",
+            "description": "ANG OPS",
+            "frequency_mhz": "31.1"
+        },
+        {
+            "id": "60173",
+            "airport_ref": "3405",
+            "airport_ident": "KBGR",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "60174",
+            "airport_ref": "3405",
+            "airport_ident": "KBGR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "60175",
+            "airport_ref": "3405",
+            "airport_ident": "KBGR",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306097",
+        "code": "US-ME",
+        "local_code": "ME",
+        "name": "Maine",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85977",
+            "filename": "Totte_NDB_US",
+            "ident": "BG",
+            "name": "Totte",
+            "type": "NDB",
+            "frequency_khz": "227",
+            "latitude_deg": "44.727500915527344",
+            "longitude_deg": "-68.71289825439453",
+            "elevation_ft": "514",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.187",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBGR"
+        },
+        {
+            "id": "85999",
+            "filename": "Bangor_VORTAC_US",
+            "ident": "BGR",
+            "name": "Bangor",
+            "type": "VORTAC",
+            "frequency_khz": "114800",
+            "latitude_deg": "44.841800689697266",
+            "longitude_deg": "-68.8740005493164",
+            "elevation_ft": "359",
+            "iso_country": "US",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-19.001",
+            "magnetic_variation_deg": "-17.185",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KBGR"
+        }
+    ]
+}

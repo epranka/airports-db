@@ -1,0 +1,80 @@
+{
+    "id": "18447",
+    "ident": "K1A6",
+    "type": "small_airport",
+    "name": "Middlesboro-Bell County Airport",
+    "latitude_deg": "36.6105995178",
+    "longitude_deg": "-83.73739624019998",
+    "elevation_ft": "1154",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Middlesboro",
+    "scheduled_service": "no",
+    "gps_code": "1A6",
+    "iata_code": "",
+    "local_code": "1A6",
+    "home_link": "http://www.bellcounty.ky.gov/services/airport.htm",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243497",
+            "airport_ref": "18447",
+            "airport_ident": "K1A6",
+            "length_ft": "3631",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "36.6113",
+            "le_longitude_deg": "-83.7435",
+            "le_elevation_ft": "1154",
+            "le_heading_degT": "98",
+            "le_displaced_threshold_ft": "229",
+            "he_ident": "28",
+            "he_latitude_deg": "36.6099",
+            "he_longitude_deg": "-83.7313",
+            "he_elevation_ft": "1140",
+            "he_heading_degT": "278",
+            "he_displaced_threshold_ft": "79"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66124",
+            "airport_ref": "18447",
+            "airport_ident": "K1A6",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "119.425"
+        },
+        {
+            "id": "66125",
+            "airport_ref": "18447",
+            "airport_ident": "K1A6",
+            "type": "CTAF/UNICOM",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306093",
+        "code": "US-KY",
+        "local_code": "KY",
+        "name": "Kentucky",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
+        "keywords": ""
+    }
+}

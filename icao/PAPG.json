@@ -1,0 +1,120 @@
+{
+    "id": "5398",
+    "ident": "PAPG",
+    "type": "medium_airport",
+    "name": "Petersburg James A Johnson Airport",
+    "latitude_deg": "56.80170059",
+    "longitude_deg": "-132.9450073",
+    "elevation_ft": "111",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Petersburg",
+    "scheduled_service": "yes",
+    "gps_code": "PAPG",
+    "iata_code": "PSG",
+    "local_code": "PSG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Petersburg_James_A._Johnson_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241025",
+            "airport_ref": "5398",
+            "airport_ident": "PAPG",
+            "length_ft": "6000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "56.7989",
+            "le_longitude_deg": "-132.959",
+            "le_elevation_ft": "105",
+            "le_heading_degT": "70.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "56.8044",
+            "he_longitude_deg": "-132.931",
+            "he_elevation_ft": "101",
+            "he_heading_degT": "250.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61006",
+            "airport_ref": "5398",
+            "airport_ident": "PAPG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "61007",
+            "airport_ref": "5398",
+            "airport_ident": "PAPG",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "61008",
+            "airport_ref": "5398",
+            "airport_ident": "PAPG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "61009",
+            "airport_ref": "5398",
+            "airport_ident": "PAPG",
+            "type": "FSS",
+            "description": "SITKA RDO",
+            "frequency_mhz": "122.35"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88114",
+            "filename": "Fredericks_Point_NDB_US",
+            "ident": "FPN",
+            "name": "Fredericks Point",
+            "type": "NDB",
+            "frequency_khz": "372",
+            "latitude_deg": "56.792301177978516",
+            "longitude_deg": "-132.8209991455078",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "22.19",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "PAPG"
+        }
+    ]
+}

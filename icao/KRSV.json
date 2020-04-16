@@ -1,0 +1,110 @@
+{
+    "id": "20964",
+    "ident": "KRSV",
+    "type": "small_airport",
+    "name": "Robinson Municipal Airport",
+    "latitude_deg": "39.01599884033203",
+    "longitude_deg": "-87.6498031616211",
+    "elevation_ft": "462",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Robinson",
+    "scheduled_service": "no",
+    "gps_code": "KRSV",
+    "iata_code": "",
+    "local_code": "RSV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241848",
+            "airport_ref": "20964",
+            "airport_ident": "KRSV",
+            "length_ft": "5109",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "39.0166",
+            "le_longitude_deg": "-87.661",
+            "le_elevation_ft": "462",
+            "le_heading_degT": "91.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "39.0162",
+            "he_longitude_deg": "-87.643",
+            "he_elevation_ft": "455",
+            "he_heading_degT": "271.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241849",
+            "airport_ref": "20964",
+            "airport_ident": "KRSV",
+            "length_ft": "3399",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "39.02",
+            "le_longitude_deg": "-87.6479",
+            "le_elevation_ft": "456",
+            "le_heading_degT": "165.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "39.0109",
+            "he_longitude_deg": "-87.645",
+            "he_elevation_ft": "452",
+            "he_heading_degT": "345.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62699",
+            "airport_ref": "20964",
+            "airport_ident": "KRSV",
+            "type": "A/D",
+            "description": "HULMAN APP/DEP",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "62700",
+            "airport_ref": "20964",
+            "airport_ident": "KRSV",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "62701",
+            "airport_ref": "20964",
+            "airport_ident": "KRSV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

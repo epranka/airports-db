@@ -1,0 +1,220 @@
+{
+    "id": "3864",
+    "ident": "KSAV",
+    "type": "large_airport",
+    "name": "Savannah Hilton Head International Airport",
+    "latitude_deg": "32.12760162",
+    "longitude_deg": "-81.20210266",
+    "elevation_ft": "50",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Savannah",
+    "scheduled_service": "yes",
+    "gps_code": "KSAV",
+    "iata_code": "SAV",
+    "local_code": "SAV",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Savannah/Hilton_Head_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "250942",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "length_ft": "7002",
+            "width_ft": "150",
+            "surface": "CONC-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "32.1166",
+            "le_longitude_deg": "-81.2",
+            "le_elevation_ft": "29",
+            "le_heading_degT": "0",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "32.1358",
+            "he_longitude_deg": "-81.2001",
+            "he_elevation_ft": "42",
+            "he_heading_degT": "180",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "250943",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "length_ft": "9351",
+            "width_ft": "150",
+            "surface": "CONC-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "32.1288",
+            "le_longitude_deg": "-81.2188",
+            "le_elevation_ft": "17",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "32.1285",
+            "he_longitude_deg": "-81.1886",
+            "he_elevation_ft": "46",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64181",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "64182",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "123.75"
+        },
+        {
+            "id": "64183",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.55"
+        },
+        {
+            "id": "64184",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "64185",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "64186",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "MISC",
+            "description": "ANDERSON RDO",
+            "frequency_mhz": "112.7"
+        },
+        {
+            "id": "64187",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "OPS",
+            "description": "CRTC OPS",
+            "frequency_mhz": "23.7"
+        },
+        {
+            "id": "64188",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "POST",
+            "description": "165 AW COMD POST",
+            "frequency_mhz": "22.575"
+        },
+        {
+            "id": "64189",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "RDO",
+            "description": "MACON RDO",
+            "frequency_mhz": "123.65"
+        },
+        {
+            "id": "64190",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "64191",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93346",
+            "filename": "Mavis_NDB_US",
+            "ident": "SA",
+            "name": "Mavis",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "32.12990188598633",
+            "longitude_deg": "-81.33149719238281",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.014",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KSAV"
+        },
+        {
+            "id": "93396",
+            "filename": "Savannah_VORTAC_US",
+            "ident": "SAV",
+            "name": "Savannah",
+            "type": "VORTAC",
+            "frequency_khz": "115950",
+            "latitude_deg": "32.14630126953125",
+            "longitude_deg": "-81.1990966796875",
+            "elevation_ft": "9",
+            "iso_country": "US",
+            "dme_frequency_khz": "115950",
+            "dme_channel": "106Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.001",
+            "magnetic_variation_deg": "-6.06",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KSAV"
+        }
+    ]
+}

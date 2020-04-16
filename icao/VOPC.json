@@ -1,0 +1,96 @@
+{
+    "id": "26621",
+    "ident": "VOPC",
+    "type": "medium_airport",
+    "name": "Pondicherry Airport",
+    "latitude_deg": "11.968",
+    "longitude_deg": "79.812",
+    "elevation_ft": "134",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-TN",
+    "municipality": "Pondicherry",
+    "scheduled_service": "no",
+    "gps_code": "VOPC",
+    "iata_code": "PNY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pondicherry_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236605",
+            "airport_ref": "26621",
+            "airport_ident": "VOPC",
+            "length_ft": "4921",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "11.9667",
+            "le_longitude_deg": "79.8049",
+            "le_elevation_ft": "",
+            "le_heading_degT": "68",
+            "le_displaced_threshold_ft": "379",
+            "he_ident": "25",
+            "he_latitude_deg": "11.9707",
+            "he_longitude_deg": "79.8152",
+            "he_elevation_ft": "",
+            "he_heading_degT": "248",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "298619",
+            "airport_ref": "26621",
+            "airport_ident": "VOPC",
+            "type": "Tower",
+            "description": "",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304193",
+        "code": "IN-TN",
+        "local_code": "TN",
+        "name": "Tamil Nadu",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tamil_Nadu",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92012",
+            "filename": "Pondicherry_NDB_IN",
+            "ident": "OM",
+            "name": "Pondicherry",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "11.96619987487793",
+            "longitude_deg": "79.80979919433594",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.563",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VOPC"
+        }
+    ]
+}

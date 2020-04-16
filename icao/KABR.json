@@ -1,0 +1,150 @@
+{
+    "id": "3358",
+    "ident": "KABR",
+    "type": "medium_airport",
+    "name": "Aberdeen Regional Airport",
+    "latitude_deg": "45.449100494384766",
+    "longitude_deg": "-98.42179870605469",
+    "elevation_ft": "1302",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Aberdeen",
+    "scheduled_service": "yes",
+    "gps_code": "KABR",
+    "iata_code": "ABR",
+    "local_code": "ABR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Aberdeen_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241085",
+            "airport_ref": "3358",
+            "airport_ident": "KABR",
+            "length_ft": "6901",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "45.4552",
+            "le_longitude_deg": "-98.428",
+            "le_elevation_ft": "1302",
+            "le_heading_degT": "135.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "45.4418",
+            "he_longitude_deg": "-98.409",
+            "he_elevation_ft": "1301",
+            "he_heading_degT": "315.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241086",
+            "airport_ref": "3358",
+            "airport_ident": "KABR",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "45.4556",
+            "le_longitude_deg": "-98.4274",
+            "le_elevation_ft": "1302",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "45.4405",
+            "he_longitude_deg": "-98.4273",
+            "he_elevation_ft": "1298",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61116",
+            "airport_ref": "3358",
+            "airport_ident": "KABR",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "125.875"
+        },
+        {
+            "id": "61117",
+            "airport_ref": "3358",
+            "airport_ident": "KABR",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "61118",
+            "airport_ref": "3358",
+            "airport_ident": "KABR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.7"
+        },
+        {
+            "id": "61119",
+            "airport_ref": "3358",
+            "airport_ident": "KABR",
+            "type": "RDO",
+            "description": "HURON RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "61120",
+            "airport_ref": "3358",
+            "airport_ident": "KABR",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306117",
+        "code": "US-SD",
+        "local_code": "SD",
+        "name": "South Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85200",
+            "filename": "Reney_NDB_US",
+            "ident": "AB",
+            "name": "Reney",
+            "type": "NDB",
+            "frequency_khz": "203",
+            "latitude_deg": "45.38600158691406",
+            "longitude_deg": "-98.32839965820312",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.298",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KABR"
+        }
+    ]
+}

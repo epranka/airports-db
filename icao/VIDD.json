@@ -1,0 +1,80 @@
+{
+    "id": "26552",
+    "ident": "VIDD",
+    "type": "medium_airport",
+    "name": "Safdarjung Airport",
+    "latitude_deg": "28.58449935913086",
+    "longitude_deg": "77.20580291748047",
+    "elevation_ft": "705",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-DL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "VIDD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Safdarjung_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236735",
+            "airport_ref": "26552",
+            "airport_ident": "VIDD",
+            "length_ft": "4520",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "28.5881",
+            "le_longitude_deg": "77.2001",
+            "le_elevation_ft": "706",
+            "le_heading_degT": "125",
+            "le_displaced_threshold_ft": "260",
+            "he_ident": "30",
+            "he_latitude_deg": "28.5809",
+            "he_longitude_deg": "77.2115",
+            "he_elevation_ft": "697",
+            "he_heading_degT": "305",
+            "he_displaced_threshold_ft": "1530"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53914",
+            "airport_ref": "26552",
+            "airport_ident": "VIDD",
+            "type": "APP",
+            "description": "DELHI  APP",
+            "frequency_mhz": "126.35"
+        },
+        {
+            "id": "53915",
+            "airport_ref": "26552",
+            "airport_ident": "VIDD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304171",
+        "code": "IN-DL",
+        "local_code": "DL",
+        "name": "Delhi",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Delhi",
+        "keywords": ""
+    }
+}

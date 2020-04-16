@@ -1,0 +1,96 @@
+{
+    "id": "26573",
+    "ident": "VIPT",
+    "type": "medium_airport",
+    "name": "Pantnagar Airport",
+    "latitude_deg": "29.0334",
+    "longitude_deg": "79.473701",
+    "elevation_ft": "769",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-UP",
+    "municipality": "Pantnagar",
+    "scheduled_service": "yes",
+    "gps_code": "VIPT",
+    "iata_code": "PGH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Panthnagar",
+    "runways": [
+        {
+            "id": "236637",
+            "airport_ref": "26573",
+            "airport_ident": "VIPT",
+            "length_ft": "4500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "29.0341",
+            "le_longitude_deg": "79.4681",
+            "le_elevation_ft": "764",
+            "le_heading_degT": "98",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "29.0327",
+            "he_longitude_deg": "79.4794",
+            "he_elevation_ft": "764",
+            "he_heading_degT": "278",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53831",
+            "airport_ref": "26573",
+            "airport_ident": "VIPT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304197",
+        "code": "IN-UP",
+        "local_code": "UP",
+        "name": "Uttar Pradesh",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89066",
+            "filename": "Pantnagar_NDB_IN",
+            "ident": "HW",
+            "name": "Pantnagar",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "29.031099319458008",
+            "longitude_deg": "79.47370147705078",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.382",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VIPT"
+        }
+    ]
+}

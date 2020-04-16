@@ -1,0 +1,80 @@
+{
+    "id": "21283",
+    "ident": "KUBX",
+    "type": "small_airport",
+    "name": "Cuba Municipal Airport",
+    "latitude_deg": "38.06880187988281",
+    "longitude_deg": "-91.42890167236328",
+    "elevation_ft": "1023",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Cuba",
+    "scheduled_service": "no",
+    "gps_code": "KUBX",
+    "iata_code": "",
+    "local_code": "UBX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240259",
+            "airport_ref": "21283",
+            "airport_ident": "KUBX",
+            "length_ft": "3420",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.0734",
+            "le_longitude_deg": "-91.4283",
+            "le_elevation_ft": "1023",
+            "le_heading_degT": "186",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.0641",
+            "he_longitude_deg": "-91.4294",
+            "he_elevation_ft": "1019",
+            "he_heading_degT": "6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59695",
+            "airport_ref": "21283",
+            "airport_ident": "KUBX",
+            "type": "A/D",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "133.4"
+        },
+        {
+            "id": "59696",
+            "airport_ref": "21283",
+            "airport_ident": "KUBX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

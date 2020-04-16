@@ -1,0 +1,102 @@
+{
+    "id": "2631",
+    "ident": "EPSD",
+    "type": "small_airport",
+    "name": "Szczecin-Dąbie Airport",
+    "latitude_deg": "53.3921012878418",
+    "longitude_deg": "14.63379955291748",
+    "elevation_ft": "3",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-ZP",
+    "municipality": "Szczecin",
+    "scheduled_service": "no",
+    "gps_code": "EPSD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "260405",
+            "airport_ref": "2631",
+            "airport_ident": "EPSD",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "UNK",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09L",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "3",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27R",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "3",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "238249",
+            "airport_ref": "2631",
+            "airport_ident": "EPSD",
+            "length_ft": "2668",
+            "width_ft": "826",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09R",
+            "le_latitude_deg": "53.3932",
+            "le_longitude_deg": "14.6273",
+            "le_elevation_ft": "3",
+            "le_heading_degT": "105.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27L",
+            "he_latitude_deg": "53.3913",
+            "he_longitude_deg": "14.6391",
+            "he_elevation_ft": "3",
+            "he_heading_degT": "285.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56192",
+            "airport_ref": "2631",
+            "airport_ident": "EPSD",
+            "type": "AFIS",
+            "description": "SZCZECIN AERO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "56193",
+            "airport_ref": "2631",
+            "airport_ident": "EPSD",
+            "type": "INFO",
+            "description": "SZCZECIN INFO",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305160",
+        "code": "PL-ZP",
+        "local_code": "ZP",
+        "name": "West Pomerania",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Pomeranian_Voivodeship",
+        "keywords": "Zachodniopomorskie"
+    }
+}

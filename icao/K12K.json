@@ -1,0 +1,102 @@
+{
+    "id": "18410",
+    "ident": "K12K",
+    "type": "small_airport",
+    "name": "Superior Municipal Airport",
+    "latitude_deg": "40.0463981628418",
+    "longitude_deg": "-98.06009674072266",
+    "elevation_ft": "1691",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Superior",
+    "scheduled_service": "no",
+    "gps_code": "K12K",
+    "iata_code": "",
+    "local_code": "12K",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245031",
+            "airport_ref": "18410",
+            "airport_ident": "K12K",
+            "length_ft": "3702",
+            "width_ft": "60",
+            "surface": "ASPH-CONC-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "40.0505",
+            "le_longitude_deg": "-98.0639",
+            "le_elevation_ft": "1691",
+            "le_heading_degT": "145",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "40.0422",
+            "he_longitude_deg": "-98.0563",
+            "he_elevation_ft": "1650",
+            "he_heading_degT": "325",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245032",
+            "airport_ref": "18410",
+            "airport_ident": "K12K",
+            "length_ft": "3000",
+            "width_ft": "200",
+            "surface": "TURF-F",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.051",
+            "le_longitude_deg": "-98.0628",
+            "le_elevation_ft": "1682",
+            "le_heading_degT": "190",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "40.0429",
+            "he_longitude_deg": "-98.0648",
+            "he_elevation_ft": "1691",
+            "he_heading_degT": "10",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69435",
+            "airport_ref": "18410",
+            "airport_ident": "K12K",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "69436",
+            "airport_ref": "18410",
+            "airport_ident": "K12K",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

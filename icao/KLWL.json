@@ -1,0 +1,102 @@
+{
+    "id": "20392",
+    "ident": "KLWL",
+    "type": "small_airport",
+    "name": "Wells Municipal Airport/Harriet Field",
+    "latitude_deg": "41.117099762",
+    "longitude_deg": "-114.92199707",
+    "elevation_ft": "5772",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Wells",
+    "scheduled_service": "no",
+    "gps_code": "KLWL",
+    "iata_code": "LWL",
+    "local_code": "LWL",
+    "home_link": "http://www.cityofwellsnv.com/airport.shtml",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wells_Municipal_Airport_(Nevada)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241981",
+            "airport_ref": "20392",
+            "airport_ident": "KLWL",
+            "length_ft": "2681",
+            "width_ft": "150",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "41.1164",
+            "le_longitude_deg": "-114.924",
+            "le_elevation_ft": "5734",
+            "le_heading_degT": "27",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "41.123",
+            "he_longitude_deg": "-114.919",
+            "he_elevation_ft": "5711",
+            "he_heading_degT": "207",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241982",
+            "airport_ref": "20392",
+            "airport_ident": "KLWL",
+            "length_ft": "5498",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "41.1173",
+            "le_longitude_deg": "-114.932",
+            "le_elevation_ft": "5708",
+            "le_heading_degT": "100.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "41.1145",
+            "he_longitude_deg": "-114.913",
+            "he_elevation_ft": "5769",
+            "he_heading_degT": "280.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62941",
+            "airport_ref": "20392",
+            "airport_ident": "KLWL",
+            "type": "RDO",
+            "description": "RENO RDO",
+            "frequency_mhz": "114.2"
+        },
+        {
+            "id": "62942",
+            "airport_ref": "20392",
+            "airport_ident": "KLWL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306109",
+        "code": "US-NV",
+        "local_code": "NV",
+        "name": "Nevada",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "18453",
+    "ident": "K1B6",
+    "type": "small_airport",
+    "name": "Hopedale Industrial Park Airport",
+    "latitude_deg": "42.10649871826172",
+    "longitude_deg": "-71.51010131835938",
+    "elevation_ft": "269",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Hopedale",
+    "scheduled_service": "no",
+    "gps_code": "K1B6",
+    "iata_code": "",
+    "local_code": "1B6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241740",
+            "airport_ref": "18453",
+            "airport_ident": "K1B6",
+            "length_ft": "3172",
+            "width_ft": "90",
+            "surface": "ASPH-F",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "42.1107",
+            "le_longitude_deg": "-71.5115",
+            "le_elevation_ft": "268",
+            "le_heading_degT": "166",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "42.1023",
+            "he_longitude_deg": "-71.5087",
+            "he_elevation_ft": "237",
+            "he_heading_degT": "346",
+            "he_displaced_threshold_ft": "110"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62467",
+            "airport_ref": "18453",
+            "airport_ident": "K1B6",
+            "type": "A/D",
+            "description": "BRADLEY APP/DEP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "62468",
+            "airport_ref": "18453",
+            "airport_ident": "K1B6",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306095",
+        "code": "US-MA",
+        "local_code": "MA",
+        "name": "Massachusetts",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
+        "keywords": ""
+    }
+}

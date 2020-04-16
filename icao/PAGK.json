@@ -1,0 +1,150 @@
+{
+    "id": "5367",
+    "ident": "PAGK",
+    "type": "medium_airport",
+    "name": "Gulkana Airport",
+    "latitude_deg": "62.1548996",
+    "longitude_deg": "-145.4570007",
+    "elevation_ft": "1586",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Gulkana",
+    "scheduled_service": "no",
+    "gps_code": "PAGK",
+    "iata_code": "GKN",
+    "local_code": "GKN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gulkana_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "257590",
+            "airport_ref": "5367",
+            "airport_ident": "PAGK",
+            "length_ft": "5001",
+            "width_ft": "100",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "62.1617",
+            "le_longitude_deg": "-145.457",
+            "le_elevation_ft": "1586",
+            "le_heading_degT": "171",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "62.1482",
+            "he_longitude_deg": "-145.452",
+            "he_elevation_ft": "1546",
+            "he_heading_degT": "351",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70396",
+            "airport_ref": "5367",
+            "airport_ident": "PAGK",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "134.85"
+        },
+        {
+            "id": "70397",
+            "airport_ref": "5367",
+            "airport_ident": "PAGK",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "70398",
+            "airport_ref": "5367",
+            "airport_ident": "PAGK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "70399",
+            "airport_ref": "5367",
+            "airport_ident": "PAGK",
+            "type": "FSS",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "70400",
+            "airport_ref": "5367",
+            "airport_ident": "PAGK",
+            "type": "MISC",
+            "description": "TWEB",
+            "frequency_mhz": "115.6"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88433",
+            "filename": "Gulkana_VOR-DME_US",
+            "ident": "GKN",
+            "name": "Gulkana",
+            "type": "VOR-DME",
+            "frequency_khz": "115600",
+            "latitude_deg": "62.152400970458984",
+            "longitude_deg": "-145.4499969482422",
+            "elevation_ft": "1548",
+            "iso_country": "US",
+            "dme_frequency_khz": "115600",
+            "dme_channel": "103X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "28.001",
+            "magnetic_variation_deg": "22.154",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PAGK"
+        },
+        {
+            "id": "88444",
+            "filename": "Glennallen_NDB_US",
+            "ident": "GLA",
+            "name": "Glennallen",
+            "type": "NDB",
+            "frequency_khz": "248",
+            "latitude_deg": "62.19540023803711",
+            "longitude_deg": "-145.46800231933594",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "22.162",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PAGK"
+        }
+    ]
+}

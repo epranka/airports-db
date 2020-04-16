@@ -1,0 +1,80 @@
+{
+    "id": "2771",
+    "ident": "FABE",
+    "type": "medium_airport",
+    "name": "Bisho Airport",
+    "latitude_deg": "-32.8970985413",
+    "longitude_deg": "27.279100418099997",
+    "elevation_ft": "1950",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Bisho",
+    "scheduled_service": "no",
+    "gps_code": "FABE",
+    "iata_code": "BIY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238773",
+            "airport_ref": "2771",
+            "airport_ident": "FABE",
+            "length_ft": "8202",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "-32.9034",
+            "le_longitude_deg": "27.268",
+            "le_elevation_ft": "1945",
+            "le_heading_degT": "57",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "-32.8909",
+            "he_longitude_deg": "27.2903",
+            "he_elevation_ft": "1950",
+            "he_heading_degT": "237",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57083",
+            "airport_ref": "2771",
+            "airport_ident": "FABE",
+            "type": "APP",
+            "description": "EAST LONDON APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "57084",
+            "airport_ref": "2771",
+            "airport_ident": "FABE",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "120.6"
+        }
+    ],
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306295",
+        "code": "ZA-EC",
+        "local_code": "EC",
+        "name": "Eastern Cape",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Cape",
+        "keywords": ""
+    }
+}

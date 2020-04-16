@@ -1,0 +1,150 @@
+{
+    "id": "6163",
+    "ident": "SKSP",
+    "type": "medium_airport",
+    "name": "Gustavo Rojas Pinilla International Airport",
+    "latitude_deg": "12.5836",
+    "longitude_deg": "-81.7112",
+    "elevation_ft": "19",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-SAP",
+    "municipality": "San Andrés",
+    "scheduled_service": "yes",
+    "gps_code": "SKSP",
+    "iata_code": "ADZ",
+    "local_code": "ADZ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gustavo_Rojas_Pinilla_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235303",
+            "airport_ref": "6163",
+            "airport_ident": "SKSP",
+            "length_ft": "7808",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "12.5782",
+            "le_longitude_deg": "-81.7206",
+            "le_elevation_ft": "8",
+            "le_heading_degT": "59.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "12.589",
+            "he_longitude_deg": "-81.7017",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "239.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51442",
+            "airport_ref": "6163",
+            "airport_ident": "SKSP",
+            "type": "APP",
+            "description": "SAN ANDRES APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "51443",
+            "airport_ref": "6163",
+            "airport_ident": "SKSP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "113.3"
+        },
+        {
+            "id": "51444",
+            "airport_ref": "6163",
+            "airport_ident": "SKSP",
+            "type": "CNTR",
+            "description": "PANAMA CNTR",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "51445",
+            "airport_ref": "6163",
+            "airport_ident": "SKSP",
+            "type": "RDO",
+            "description": "SAN ANDRES RDO",
+            "frequency_mhz": "653.2"
+        },
+        {
+            "id": "51446",
+            "airport_ref": "6163",
+            "airport_ident": "SKSP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303484",
+        "code": "CO-SAP",
+        "local_code": "SAP",
+        "name": "San Andrés, Providencia y Santa Catalina Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/San_Andrés,_Providencia_y_Santa_Catalina_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93889",
+            "filename": "San_Andres_VOR-DME_CO",
+            "ident": "SPP",
+            "name": "San Andres",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "12.582200050354004",
+            "longitude_deg": "-81.70559692382812",
+            "elevation_ft": "182",
+            "iso_country": "CO",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-2.052",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKSP"
+        },
+        {
+            "id": "93890",
+            "filename": "San_Andres_NDB_CO",
+            "ident": "SPP",
+            "name": "San Andres",
+            "type": "NDB",
+            "frequency_khz": "387",
+            "latitude_deg": "12.591899871826172",
+            "longitude_deg": "-81.70189666748047",
+            "elevation_ft": "12",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.055",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SKSP"
+        }
+    ]
+}

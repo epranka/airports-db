@@ -1,0 +1,152 @@
+{
+    "id": "3886",
+    "ident": "KSKF",
+    "type": "medium_airport",
+    "name": "Lackland Air Force Base",
+    "latitude_deg": "29.38419914",
+    "longitude_deg": "-98.58110046",
+    "elevation_ft": "691",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "San Antonio",
+    "scheduled_service": "no",
+    "gps_code": "KSKF",
+    "iata_code": "SKF",
+    "local_code": "SKF",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lackland_Air_Force_Base",
+    "keywords": "Kelly Field Annex, Lackland AFB",
+    "runways": [
+        {
+            "id": "244155",
+            "airport_ref": "3886",
+            "airport_ident": "KSKF",
+            "length_ft": "11550",
+            "width_ft": "300",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "29.3993",
+            "le_longitude_deg": "-98.5867",
+            "le_elevation_ft": "691",
+            "le_heading_degT": "162.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "29.3691",
+            "he_longitude_deg": "-98.5756",
+            "he_elevation_ft": "660",
+            "he_heading_degT": "342.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67485",
+            "airport_ref": "3886",
+            "airport_ident": "KSKF",
+            "type": "APP",
+            "description": "SAN ANTONIO APP",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "67486",
+            "airport_ref": "3886",
+            "airport_ident": "KSKF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "67487",
+            "airport_ref": "3886",
+            "airport_ident": "KSKF",
+            "type": "DEP",
+            "description": "SAN ANTONIO DEP",
+            "frequency_mhz": "125.7"
+        },
+        {
+            "id": "67488",
+            "airport_ref": "3886",
+            "airport_ident": "KSKF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "67489",
+            "airport_ref": "3886",
+            "airport_ident": "KSKF",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "23.98"
+        },
+        {
+            "id": "67490",
+            "airport_ref": "3886",
+            "airport_ident": "KSKF",
+            "type": "POST",
+            "description": "AFRC COMD POST",
+            "frequency_mhz": "143.8"
+        },
+        {
+            "id": "67491",
+            "airport_ref": "3886",
+            "airport_ident": "KSKF",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "130.65"
+        },
+        {
+            "id": "67492",
+            "airport_ref": "3886",
+            "airport_ident": "KSKF",
+            "type": "TWR",
+            "description": "KELLY TWR",
+            "frequency_mhz": "124.3"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90013",
+            "filename": "Kelly_TACAN_US",
+            "ident": "KSY",
+            "name": "Kelly",
+            "type": "TACAN",
+            "frequency_khz": "112000",
+            "latitude_deg": "29.391599655151367",
+            "longitude_deg": "-98.58100128173828",
+            "elevation_ft": "687",
+            "iso_country": "US",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.011",
+            "magnetic_variation_deg": "5.408",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KSKF"
+        }
+    ]
+}

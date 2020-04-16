@@ -1,0 +1,72 @@
+{
+    "id": "2348",
+    "ident": "EFTS",
+    "type": "closed",
+    "name": "Teisko Airport",
+    "latitude_deg": "61.7733",
+    "longitude_deg": "24.027",
+    "elevation_ft": "515",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-LS",
+    "municipality": "Tampere",
+    "scheduled_service": "no",
+    "gps_code": "EFTS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235753",
+            "airport_ref": "2348",
+            "airport_ident": "EFTS",
+            "length_ft": "3937",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "61.7701",
+            "le_longitude_deg": "24.018",
+            "le_elevation_ft": "515",
+            "le_heading_degT": "50",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "61.7766",
+            "he_longitude_deg": "24.036",
+            "he_elevation_ft": "515",
+            "he_heading_degT": "230",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52118",
+            "airport_ref": "2348",
+            "airport_ident": "EFTS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.15"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303803",
+        "code": "FI-LS",
+        "local_code": "LS",
+        "name": "Western Finland",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Finland",
+        "keywords": "Länsi-Suomen lääni, Västra Finlands län"
+    }
+}

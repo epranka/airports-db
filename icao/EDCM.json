@@ -1,0 +1,110 @@
+{
+    "id": "2205",
+    "ident": "EDCM",
+    "type": "small_airport",
+    "name": "Kamenz Airport",
+    "latitude_deg": "51.29694366455078",
+    "longitude_deg": "14.1274995803833",
+    "elevation_ft": "495",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-SN",
+    "municipality": "Kamenz",
+    "scheduled_service": "no",
+    "gps_code": "EDCM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.fc-kamenz.de/",
+    "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_Kamenz",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236107",
+            "airport_ref": "2205",
+            "airport_ident": "EDCM",
+            "length_ft": "3609",
+            "width_ft": "92",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "51.2931",
+            "le_longitude_deg": "14.1232",
+            "le_elevation_ft": "495",
+            "le_heading_degT": "34.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "51.3012",
+            "he_longitude_deg": "14.1321",
+            "he_elevation_ft": "495",
+            "he_heading_degT": "214.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "236108",
+            "airport_ref": "2205",
+            "airport_ident": "EDCM",
+            "length_ft": "3609",
+            "width_ft": "131",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03L",
+            "le_latitude_deg": "51.2934",
+            "le_longitude_deg": "14.1223",
+            "le_elevation_ft": "",
+            "le_heading_degT": "34.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21R",
+            "he_latitude_deg": "51.3016",
+            "he_longitude_deg": "14.1312",
+            "he_elevation_ft": "",
+            "he_heading_degT": "214.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52708",
+            "airport_ref": "2205",
+            "airport_ident": "EDCM",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "52709",
+            "airport_ref": "2205",
+            "airport_ident": "EDCM",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "52710",
+            "airport_ref": "2205",
+            "airport_ident": "EDCM",
+            "type": "RDR",
+            "description": "BERLIN RADAR",
+            "frequency_mhz": "126.175"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303560",
+        "code": "DE-SN",
+        "local_code": "SN",
+        "name": "Saxony",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony",
+        "keywords": "Sachsen"
+    }
+}

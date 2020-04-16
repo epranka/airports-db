@@ -1,0 +1,118 @@
+{
+    "id": "2442",
+    "ident": "EGNJ",
+    "type": "medium_airport",
+    "name": "Humberside Airport",
+    "latitude_deg": "53.57440185546875",
+    "longitude_deg": "-0.350832998752594",
+    "elevation_ft": "121",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Grimsby",
+    "scheduled_service": "yes",
+    "gps_code": "EGNJ",
+    "iata_code": "HUY",
+    "local_code": "",
+    "home_link": "http://www.humbersideairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Humberside_Airport",
+    "keywords": "RAF Kirmington",
+    "runways": [
+        {
+            "id": "239602",
+            "airport_ref": "2442",
+            "airport_ident": "EGNJ",
+            "length_ft": "7205",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "53.5653",
+            "le_longitude_deg": "-0.357058",
+            "le_elevation_ft": "121",
+            "le_heading_degT": "22",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "53.5836",
+            "he_longitude_deg": "-0.344444",
+            "he_elevation_ft": "74",
+            "he_heading_degT": "202",
+            "he_displaced_threshold_ft": "806"
+        },
+        {
+            "id": "239603",
+            "airport_ref": "2442",
+            "airport_ident": "EGNJ",
+            "length_ft": "3458",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "53.5758",
+            "le_longitude_deg": "-0.353469",
+            "le_elevation_ft": "87",
+            "le_heading_degT": "82",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "53.5771",
+            "he_longitude_deg": "-0.337692",
+            "he_elevation_ft": "85",
+            "he_heading_degT": "262",
+            "he_displaced_threshold_ft": "647"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58538",
+            "airport_ref": "2442",
+            "airport_ident": "EGNJ",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "119.13"
+        },
+        {
+            "id": "327819",
+            "airport_ref": "2442",
+            "airport_ident": "EGNJ",
+            "type": "APP/RAD",
+            "description": "",
+            "frequency_mhz": "129.255"
+        },
+        {
+            "id": "58539",
+            "airport_ref": "2442",
+            "airport_ident": "EGNJ",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "124.13"
+        },
+        {
+            "id": "58540",
+            "airport_ref": "2442",
+            "airport_ident": "EGNJ",
+            "type": "TWR",
+            "description": "8.33 conversion planned oct. 2018",
+            "frequency_mhz": "124.905"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

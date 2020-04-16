@@ -1,0 +1,88 @@
+{
+    "id": "20622",
+    "ident": "4PA0",
+    "type": "small_airport",
+    "name": "Millard Airport",
+    "latitude_deg": "40.31719970703125",
+    "longitude_deg": "-76.5363998413086",
+    "elevation_ft": "485",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Annville",
+    "scheduled_service": "no",
+    "gps_code": "4PA0",
+    "iata_code": "",
+    "local_code": "4PA0",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Formerly N76",
+    "runways": [
+        {
+            "id": "240601",
+            "airport_ref": "20622",
+            "airport_ident": "4PA0",
+            "length_ft": "2870",
+            "width_ft": "50",
+            "surface": "ASPH-P",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "40.3178",
+            "le_longitude_deg": "-76.5417",
+            "le_elevation_ft": "456",
+            "le_heading_degT": "100.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "40.3164",
+            "he_longitude_deg": "-76.5316",
+            "he_elevation_ft": "478",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60225",
+            "airport_ref": "20622",
+            "airport_ident": "4PA0",
+            "type": "A/D",
+            "description": "HARRISBURG APP/DEP",
+            "frequency_mhz": "126.45"
+        },
+        {
+            "id": "60226",
+            "airport_ref": "20622",
+            "airport_ident": "4PA0",
+            "type": "RDO",
+            "description": "WILLIAMSPORT RDO",
+            "frequency_mhz": "114.6"
+        },
+        {
+            "id": "60227",
+            "airport_ref": "20622",
+            "airport_ident": "4PA0",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

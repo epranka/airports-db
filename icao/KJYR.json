@@ -1,0 +1,110 @@
+{
+    "id": "20233",
+    "ident": "KJYR",
+    "type": "small_airport",
+    "name": "York Municipal Airport",
+    "latitude_deg": "40.89680099487305",
+    "longitude_deg": "-97.622802734375",
+    "elevation_ft": "1670",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "York",
+    "scheduled_service": "no",
+    "gps_code": "KJYR",
+    "iata_code": "",
+    "local_code": "JYR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239910",
+            "airport_ref": "20233",
+            "airport_ident": "KJYR",
+            "length_ft": "4700",
+            "width_ft": "150",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "40.8922",
+            "le_longitude_deg": "-97.6326",
+            "le_elevation_ft": "1665",
+            "le_heading_degT": "53.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "40.8998",
+            "he_longitude_deg": "-97.6189",
+            "he_elevation_ft": "1664",
+            "he_heading_degT": "233.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239911",
+            "airport_ref": "20233",
+            "airport_ident": "KJYR",
+            "length_ft": "5900",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "40.9048",
+            "le_longitude_deg": "-97.6238",
+            "le_elevation_ft": "1664",
+            "le_heading_degT": "174.3",
+            "le_displaced_threshold_ft": "798",
+            "he_ident": "35",
+            "he_latitude_deg": "40.8887",
+            "he_longitude_deg": "-97.6218",
+            "he_elevation_ft": "1668",
+            "he_heading_degT": "354.4",
+            "he_displaced_threshold_ft": "400"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59168",
+            "airport_ref": "20233",
+            "airport_ident": "KJYR",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "124.175"
+        },
+        {
+            "id": "59169",
+            "airport_ref": "20233",
+            "airport_ident": "KJYR",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "59170",
+            "airport_ref": "20233",
+            "airport_ident": "KJYR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

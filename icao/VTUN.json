@@ -1,0 +1,150 @@
+{
+    "id": "26683",
+    "ident": "VTUN",
+    "type": "small_airport",
+    "name": "Khorat Airport",
+    "latitude_deg": "14.9344997406",
+    "longitude_deg": "102.07900238",
+    "elevation_ft": "729",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-30",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "VTUN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Korat_Royal_Thai_Air_Force_Base",
+    "keywords": "Korat Air Base",
+    "runways": [
+        {
+            "id": "239169",
+            "airport_ref": "26683",
+            "airport_ident": "VTUN",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "14.9281",
+            "le_longitude_deg": "102.066",
+            "le_elevation_ft": "729",
+            "le_heading_degT": "62.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "14.9408",
+            "he_longitude_deg": "102.091",
+            "he_elevation_ft": "686",
+            "he_heading_degT": "242.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57694",
+            "airport_ref": "26683",
+            "airport_ident": "VTUN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "129.75"
+        },
+        {
+            "id": "57695",
+            "airport_ref": "26683",
+            "airport_ident": "VTUN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "39.06"
+        },
+        {
+            "id": "57696",
+            "airport_ref": "26683",
+            "airport_ident": "VTUN",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "57697",
+            "airport_ref": "26683",
+            "airport_ident": "VTUN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "57698",
+            "airport_ref": "26683",
+            "airport_ident": "VTUN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305725",
+        "code": "TH-30",
+        "local_code": "30",
+        "name": "Nakhon Ratchasima Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nakhon_Ratchasima",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89979",
+            "filename": "Khorat_TACAN_TH",
+            "ident": "KRT",
+            "name": "Khorat",
+            "type": "TACAN",
+            "frequency_khz": "117800",
+            "latitude_deg": "14.9350004196167",
+            "longitude_deg": "102.072998046875",
+            "elevation_ft": "729",
+            "iso_country": "TH",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.353",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTUN"
+        },
+        {
+            "id": "89981",
+            "filename": "Khorat_VOR-DME_TH",
+            "ident": "KRT",
+            "name": "Khorat",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "14.9173002243042",
+            "longitude_deg": "102.13999938964844",
+            "elevation_ft": "729",
+            "iso_country": "TH",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.352",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTUN"
+        }
+    ]
+}

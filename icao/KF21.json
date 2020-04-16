@@ -1,0 +1,102 @@
+{
+    "id": "19803",
+    "ident": "KF21",
+    "type": "small_airport",
+    "name": "Memphis Municipal Airport",
+    "latitude_deg": "34.739601135253906",
+    "longitude_deg": "-100.52999877929688",
+    "elevation_ft": "2102",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Memphis",
+    "scheduled_service": "no",
+    "gps_code": "KF21",
+    "iata_code": "",
+    "local_code": "F21",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243254",
+            "airport_ref": "19803",
+            "airport_ident": "KF21",
+            "length_ft": "2750",
+            "width_ft": "70",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "34.7358",
+            "le_longitude_deg": "-100.532",
+            "le_elevation_ft": "",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "34.7358",
+            "he_longitude_deg": "-100.523",
+            "he_elevation_ft": "",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243255",
+            "airport_ref": "19803",
+            "airport_ident": "KF21",
+            "length_ft": "4670",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "34.7482",
+            "le_longitude_deg": "-100.531",
+            "le_elevation_ft": "2102",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "34.7354",
+            "he_longitude_deg": "-100.531",
+            "he_elevation_ft": "2070",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65584",
+            "airport_ref": "19803",
+            "airport_ident": "KF21",
+            "type": "CNTR",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "65585",
+            "airport_ref": "19803",
+            "airport_ident": "KF21",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

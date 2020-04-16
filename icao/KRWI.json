@@ -1,0 +1,128 @@
+{
+    "id": "3860",
+    "ident": "KRWI",
+    "type": "medium_airport",
+    "name": "Rocky Mount Wilson Regional Airport",
+    "latitude_deg": "35.856300354003906",
+    "longitude_deg": "-77.89189910888672",
+    "elevation_ft": "159",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Rocky Mount",
+    "scheduled_service": "no",
+    "gps_code": "KRWI",
+    "iata_code": "RWI",
+    "local_code": "RWI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244948",
+            "airport_ref": "3860",
+            "airport_ident": "KRWI",
+            "length_ft": "7100",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "35.8481",
+            "le_longitude_deg": "-77.8985",
+            "le_elevation_ft": "159",
+            "le_heading_degT": "33.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "35.8644",
+            "he_longitude_deg": "-77.8854",
+            "he_elevation_ft": "151",
+            "he_heading_degT": "213.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69245",
+            "airport_ref": "3860",
+            "airport_ident": "KRWI",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.875"
+        },
+        {
+            "id": "69246",
+            "airport_ref": "3860",
+            "airport_ident": "KRWI",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "69247",
+            "airport_ref": "3860",
+            "airport_ident": "KRWI",
+            "type": "CNTR",
+            "description": "WASHINGTON CNTR",
+            "frequency_mhz": "135.3"
+        },
+        {
+            "id": "69248",
+            "airport_ref": "3860",
+            "airport_ident": "KRWI",
+            "type": "RDO",
+            "description": "RALEIGH RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "69249",
+            "airport_ref": "3860",
+            "airport_ident": "KRWI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94733",
+            "filename": "Tar_River_VORTAC_US",
+            "ident": "TYI",
+            "name": "Tar River",
+            "type": "VORTAC",
+            "frequency_khz": "117800",
+            "latitude_deg": "35.97669982910156",
+            "longitude_deg": "-77.70379638671875",
+            "elevation_ft": "70",
+            "iso_country": "US",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.001",
+            "magnetic_variation_deg": "-9.26",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KRWI"
+        }
+    ]
+}

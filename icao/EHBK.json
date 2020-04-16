@@ -1,0 +1,142 @@
+{
+    "id": "2515",
+    "ident": "EHBK",
+    "type": "medium_airport",
+    "name": "Maastricht Aachen Airport",
+    "latitude_deg": "50.911701",
+    "longitude_deg": "5.77014",
+    "elevation_ft": "375",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-LI",
+    "municipality": "Maastricht",
+    "scheduled_service": "yes",
+    "gps_code": "EHBK",
+    "iata_code": "MST",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Maastricht_Aachen_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237921",
+            "airport_ref": "2515",
+            "airport_ident": "EHBK",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "50.9018",
+            "le_longitude_deg": "5.76005",
+            "le_elevation_ft": "365",
+            "le_heading_degT": "33",
+            "le_displaced_threshold_ft": "820",
+            "he_ident": "21",
+            "he_latitude_deg": "50.9208",
+            "he_longitude_deg": "5.77923",
+            "he_elevation_ft": "370",
+            "he_heading_degT": "213",
+            "he_displaced_threshold_ft": "820"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55736",
+            "airport_ref": "2515",
+            "airport_ident": "EHBK",
+            "type": "APP",
+            "description": "BEEK APP",
+            "frequency_mhz": "120.205"
+        },
+        {
+            "id": "55737",
+            "airport_ref": "2515",
+            "airport_ident": "EHBK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.58"
+        },
+        {
+            "id": "55738",
+            "airport_ref": "2515",
+            "airport_ident": "EHBK",
+            "type": "GND",
+            "description": "BEEK DELIVERY",
+            "frequency_mhz": "121.83"
+        },
+        {
+            "id": "55739",
+            "airport_ref": "2515",
+            "airport_ident": "EHBK",
+            "type": "TWR",
+            "description": "BEEK TWR",
+            "frequency_mhz": "119.48"
+        }
+    ],
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland,Luchthavens van Nederland"
+    },
+    "region": {
+        "id": "304937",
+        "code": "NL-LI",
+        "local_code": "LI",
+        "name": "Limburg",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limburg",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90747",
+            "filename": "Maastricht_VOR-DME_NL",
+            "ident": "MAS",
+            "name": "Maastricht",
+            "type": "VOR-DME",
+            "frequency_khz": "108600",
+            "latitude_deg": "50.971900939941406",
+            "longitude_deg": "5.960430145263672",
+            "elevation_ft": "283",
+            "iso_country": "NL",
+            "dme_frequency_khz": "108600",
+            "dme_channel": "023X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-0.057",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EHBK"
+        },
+        {
+            "id": "91776",
+            "filename": "Maastricht_NDB_NL",
+            "ident": "NW",
+            "name": "Maastricht",
+            "type": "NDB",
+            "frequency_khz": "373",
+            "latitude_deg": "51.01940155029297",
+            "longitude_deg": "5.878339767456055",
+            "elevation_ft": "150",
+            "iso_country": "NL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.075",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EHBK"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "2331",
+    "ident": "EFME",
+    "type": "small_airport",
+    "name": "Menkijarvi Airport",
+    "latitude_deg": "62.94670104980469",
+    "longitude_deg": "23.51889991760254",
+    "elevation_ft": "331",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-LS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EFME",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235711",
+            "airport_ref": "2331",
+            "airport_ident": "EFME",
+            "length_ft": "3937",
+            "width_ft": "72",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "62.943",
+            "le_longitude_deg": "23.5103",
+            "le_elevation_ft": "",
+            "le_heading_degT": "46",
+            "le_displaced_threshold_ft": "787",
+            "he_ident": "22",
+            "he_latitude_deg": "62.9504",
+            "he_longitude_deg": "23.5275",
+            "he_elevation_ft": "",
+            "he_heading_degT": "226",
+            "he_displaced_threshold_ft": "197"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52055",
+            "airport_ref": "2331",
+            "airport_ident": "EFME",
+            "type": "CTAF",
+            "description": "RDO",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303803",
+        "code": "FI-LS",
+        "local_code": "LS",
+        "name": "Western Finland",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Finland",
+        "keywords": "Länsi-Suomen lääni, Västra Finlands län"
+    }
+}

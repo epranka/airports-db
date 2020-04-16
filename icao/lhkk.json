@@ -1,0 +1,80 @@
+{
+    "id": "46653",
+    "ident": "lhkk",
+    "type": "small_airport",
+    "name": "Kiskunlacháza-airport",
+    "latitude_deg": "47.16888520449999",
+    "longitude_deg": "19.084968566900002",
+    "elevation_ft": "322",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-PE",
+    "municipality": "Budapest",
+    "scheduled_service": "no",
+    "gps_code": "LHKK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.kiskunlachaza-airport.hu",
+    "wikipedia_link": "http://hu.wikipedia.org/wiki/Kiskunlacházi_repülőtér",
+    "keywords": "Lachaza, LHKK, Lacháza, Kiskunlacháza, Budapest, LHTL, LHBP, ferihegy",
+    "runways": [
+        {
+            "id": "307707",
+            "airport_ref": "46653",
+            "airport_ident": "lhkk",
+            "length_ft": "2608",
+            "width_ft": "147",
+            "surface": "Concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "322",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "322",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "300363",
+            "airport_ref": "46653",
+            "airport_ident": "lhkk",
+            "type": "Unicom",
+            "description": "Lacháza INFO",
+            "frequency_mhz": "124.025"
+        },
+        {
+            "id": "300364",
+            "airport_ref": "46653",
+            "airport_ident": "lhkk",
+            "type": "Unicom",
+            "description": "Lacháza INFO",
+            "frequency_mhz": "124.025"
+        }
+    ],
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304079",
+        "code": "HU-PE",
+        "local_code": "PE",
+        "name": "Pest",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pest",
+        "keywords": ""
+    }
+}

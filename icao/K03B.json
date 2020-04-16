@@ -1,0 +1,72 @@
+{
+    "id": "18313",
+    "ident": "K03B",
+    "type": "small_airport",
+    "name": "Mansfield Municipal Airport",
+    "latitude_deg": "37.1278",
+    "longitude_deg": "-92.621",
+    "elevation_ft": "1500",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Mansfield",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "03B",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "MO14",
+    "runways": [
+        {
+            "id": "244021",
+            "airport_ref": "18313",
+            "airport_ident": "K03B",
+            "length_ft": "3000",
+            "width_ft": "50",
+            "surface": "ASPH-F",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "37.1261",
+            "le_longitude_deg": "-92.6258",
+            "le_elevation_ft": "",
+            "le_heading_degT": "68.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "37.1276",
+            "he_longitude_deg": "-92.6161",
+            "he_elevation_ft": "",
+            "he_heading_degT": "255.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67229",
+            "airport_ref": "18313",
+            "airport_ident": "K03B",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "6425",
+    "ident": "UAFL",
+    "type": "medium_airport",
+    "name": "Issyk-Kul International Airport",
+    "latitude_deg": "42.58792",
+    "longitude_deg": "76.713046",
+    "elevation_ft": "5425",
+    "continent": "AS",
+    "iso_country": "KG",
+    "iso_region": "KG-Y",
+    "municipality": "Tamchy",
+    "scheduled_service": "yes",
+    "gps_code": "UCFL",
+    "iata_code": "IKU",
+    "local_code": "IKU",
+    "home_link": "http://www.airport.kg/index.php?option=com_content&view=article&id=4&Itemid=6",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tamchy_Airport",
+    "keywords": "UAFL, Issyk-Kul Airport, Chok-Tal Airport, Аэропорт Тамчы, Аэропорт Иссык-Куль, Аэропорт Чок-Тал",
+    "runways": [
+        {
+            "id": "237279",
+            "airport_ref": "6425",
+            "airport_ident": "UAFL",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "42.585",
+            "le_longitude_deg": "76.7017",
+            "le_elevation_ft": "5414",
+            "le_heading_degT": "73.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "42.59",
+            "he_longitude_deg": "76.725",
+            "he_elevation_ft": "5423",
+            "he_heading_degT": "253.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54850",
+            "airport_ref": "6425",
+            "airport_ident": "UAFL",
+            "type": "TWR",
+            "description": "YSYKKUL TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302640",
+        "code": "KG",
+        "name": "Kyrgyzstan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304351",
+        "code": "KG-Y",
+        "local_code": "Y",
+        "name": "Issyk Kul Region",
+        "continent": "AS",
+        "iso_country": "KG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Issyk_Kul_Region",
+        "keywords": "Ysyk-Kol"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "26615",
+    "ident": "VOHY",
+    "type": "medium_airport",
+    "name": "Begumpet Airport",
+    "latitude_deg": "17.4531002045",
+    "longitude_deg": "78.4675979614",
+    "elevation_ft": "1742",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-TG",
+    "municipality": "Hyderabad",
+    "scheduled_service": "no",
+    "gps_code": "VOHY",
+    "iata_code": "BPM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Begumpet_Airport",
+    "keywords": "Begumpet Air Force Station, HYD, Hyderabad Airport",
+    "runways": [
+        {
+            "id": "236652",
+            "airport_ref": "26615",
+            "airport_ident": "VOHY",
+            "length_ft": "10600",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "17.453",
+            "le_longitude_deg": "78.4539",
+            "le_elevation_ft": "1741",
+            "le_heading_degT": "88.8",
+            "le_displaced_threshold_ft": "1575",
+            "he_ident": "27",
+            "he_latitude_deg": "17.4536",
+            "he_longitude_deg": "78.4843",
+            "he_elevation_ft": "1715",
+            "he_heading_degT": "268.8",
+            "he_displaced_threshold_ft": "2424"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53840",
+            "airport_ref": "26615",
+            "airport_ident": "VOHY",
+            "type": "ACC",
+            "description": "ACC",
+            "frequency_mhz": "129.7"
+        },
+        {
+            "id": "53841",
+            "airport_ref": "26615",
+            "airport_ident": "VOHY",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "132.4"
+        },
+        {
+            "id": "53842",
+            "airport_ref": "26615",
+            "airport_ident": "VOHY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "53843",
+            "airport_ref": "26615",
+            "airport_ident": "VOHY",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "287.2"
+        },
+        {
+            "id": "53844",
+            "airport_ref": "26615",
+            "airport_ident": "VOHY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.25"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "316678",
+        "code": "IN-TG",
+        "local_code": "TG",
+        "name": "Telangana",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Telangana",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88833",
+            "filename": "Hyderabad_VOR-DME_IN",
+            "ident": "HHY",
+            "name": "Hyderabad",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "17.45439910888672",
+            "longitude_deg": "78.4574966430664",
+            "elevation_ft": "1741",
+            "iso_country": "IN",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.011",
+            "magnetic_variation_deg": "-1.101",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOHY"
+        }
+    ]
+}

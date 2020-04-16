@@ -1,0 +1,88 @@
+{
+    "id": "20931",
+    "ident": "KRIL",
+    "type": "medium_airport",
+    "name": "Garfield County Regional Airport",
+    "latitude_deg": "39.526299",
+    "longitude_deg": "-107.726997",
+    "elevation_ft": "5548",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Rifle",
+    "scheduled_service": "no",
+    "gps_code": "KRIL",
+    "iata_code": "RIL",
+    "local_code": "RIL",
+    "home_link": "http://www.rifleairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Garfield_County_Regional_Airport",
+    "keywords": "Rifle Airport",
+    "runways": [
+        {
+            "id": "239889",
+            "airport_ref": "20931",
+            "airport_ident": "KRIL",
+            "length_ft": "7000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "39.5268",
+            "le_longitude_deg": "-107.739",
+            "le_elevation_ft": "5457",
+            "le_heading_degT": "92.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "39.5258",
+            "he_longitude_deg": "-107.715",
+            "he_elevation_ft": "5544",
+            "he_heading_degT": "272.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59142",
+            "airport_ref": "20931",
+            "airport_ident": "KRIL",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.275"
+        },
+        {
+            "id": "59143",
+            "airport_ref": "20931",
+            "airport_ident": "KRIL",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "134.5"
+        },
+        {
+            "id": "59144",
+            "airport_ref": "20931",
+            "airport_ident": "KRIL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

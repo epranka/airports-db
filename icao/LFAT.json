@@ -1,0 +1,118 @@
+{
+    "id": "4055",
+    "ident": "LFAT",
+    "type": "medium_airport",
+    "name": "Le Touquet-Côte d'Opale Airport",
+    "latitude_deg": "50.517398834228516",
+    "longitude_deg": "1.6205899715423584",
+    "elevation_ft": "36",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-HDF",
+    "municipality": "Le Touquet-Paris-Plage",
+    "scheduled_service": "no",
+    "gps_code": "LFAT",
+    "iata_code": "LTQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "260351",
+            "airport_ref": "4055",
+            "airport_ident": "LFAT",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "UNK",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "36",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "236051",
+            "airport_ref": "4055",
+            "airport_ident": "LFAT",
+            "length_ft": "6070",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "50.524",
+            "le_longitude_deg": "1.61247",
+            "le_elevation_ft": "19",
+            "le_heading_degT": "133",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "50.5125",
+            "he_longitude_deg": "1.63139",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "313",
+            "he_displaced_threshold_ft": "492"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52627",
+            "airport_ref": "4055",
+            "airport_ident": "LFAT",
+            "type": "APP",
+            "description": "LILLE APP",
+            "frequency_mhz": "120.275"
+        },
+        {
+            "id": "52628",
+            "airport_ref": "4055",
+            "airport_ident": "LFAT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "123.125"
+        },
+        {
+            "id": "52629",
+            "airport_ref": "4055",
+            "airport_ident": "LFAT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "52630",
+            "airport_ref": "4055",
+            "airport_ident": "LFAT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.45"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306337",
+        "code": "FR-HDF",
+        "local_code": "HDF",
+        "name": "Hauts-de-France",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
+        "keywords": ""
+    }
+}

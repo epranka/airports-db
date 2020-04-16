@@ -1,0 +1,80 @@
+{
+    "id": "20847",
+    "ident": "KPMZ",
+    "type": "small_airport",
+    "name": "Plymouth Municipal Airport",
+    "latitude_deg": "35.80839920043945",
+    "longitude_deg": "-76.7593002319336",
+    "elevation_ft": "39",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Plymouth",
+    "scheduled_service": "no",
+    "gps_code": "KPMZ",
+    "iata_code": "",
+    "local_code": "PMZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244589",
+            "airport_ref": "20847",
+            "airport_ident": "KPMZ",
+            "length_ft": "3700",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "35.8036",
+            "le_longitude_deg": "-76.7611",
+            "le_elevation_ft": "37",
+            "le_heading_degT": "17.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "35.8133",
+            "he_longitude_deg": "-76.7574",
+            "he_elevation_ft": "35",
+            "he_heading_degT": "197.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68447",
+            "airport_ref": "20847",
+            "airport_ident": "KPMZ",
+            "type": "A/D",
+            "description": "WASHINGTON APP/DEP",
+            "frequency_mhz": "135.5"
+        },
+        {
+            "id": "68448",
+            "airport_ref": "20847",
+            "airport_ident": "KPMZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

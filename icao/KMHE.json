@@ -1,0 +1,110 @@
+{
+    "id": "20503",
+    "ident": "KMHE",
+    "type": "small_airport",
+    "name": "Mitchell Municipal Airport",
+    "latitude_deg": "43.774799346900004",
+    "longitude_deg": "-98.03859710690001",
+    "elevation_ft": "1304",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Mitchell",
+    "scheduled_service": "no",
+    "gps_code": "KMHE",
+    "iata_code": "MHE",
+    "local_code": "MHE",
+    "home_link": "http://www.cityofmitchell.org/index.asp?SEC=0E5EB6F8-1E38-48AD-8D27-2CDD01C4E949&Type=B_BASIC",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mitchell_Municipal_Airport",
+    "keywords": "Mitchell AAF",
+    "runways": [
+        {
+            "id": "242847",
+            "airport_ref": "20503",
+            "airport_ident": "KMHE",
+            "length_ft": "6700",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "43.7809",
+            "le_longitude_deg": "-98.0515",
+            "le_elevation_ft": "1296",
+            "le_heading_degT": "134.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "43.7681",
+            "he_longitude_deg": "-98.0334",
+            "he_elevation_ft": "1303",
+            "he_heading_degT": "314.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242848",
+            "airport_ref": "20503",
+            "airport_ident": "KMHE",
+            "length_ft": "5512",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "43.7828",
+            "le_longitude_deg": "-98.034",
+            "le_elevation_ft": "1283",
+            "le_heading_degT": "179.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "43.7676",
+            "he_longitude_deg": "-98.0339",
+            "he_elevation_ft": "1303",
+            "he_heading_degT": "359.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64767",
+            "airport_ref": "20503",
+            "airport_ident": "KMHE",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "124.175"
+        },
+        {
+            "id": "64768",
+            "airport_ref": "20503",
+            "airport_ident": "KMHE",
+            "type": "RDO",
+            "description": "HURON RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "64769",
+            "airport_ref": "20503",
+            "airport_ident": "KMHE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306117",
+        "code": "US-SD",
+        "local_code": "SD",
+        "name": "South Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
+        "keywords": ""
+    }
+}

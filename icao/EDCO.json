@@ -1,0 +1,80 @@
+{
+    "id": "2206",
+    "ident": "EDCO",
+    "type": "small_airport",
+    "name": "Obermehler-Schlotheim Airport",
+    "latitude_deg": "51.26777648925781",
+    "longitude_deg": "10.634721755981445",
+    "elevation_ft": "909",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-TH",
+    "municipality": "Obermehler",
+    "scheduled_service": "no",
+    "gps_code": "EDCO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Flugplatz Obermehler-Schlotheim",
+    "runways": [
+        {
+            "id": "236110",
+            "airport_ref": "2206",
+            "airport_ident": "EDCO",
+            "length_ft": "4757",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "51.2699",
+            "le_longitude_deg": "10.6251",
+            "le_elevation_ft": "909",
+            "le_heading_degT": "110",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "51.2655",
+            "he_longitude_deg": "10.6446",
+            "he_elevation_ft": "909",
+            "he_heading_degT": "290",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52717",
+            "airport_ref": "2206",
+            "airport_ident": "EDCO",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "52718",
+            "airport_ref": "2206",
+            "airport_ident": "EDCO",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303562",
+        "code": "DE-TH",
+        "local_code": "TH",
+        "name": "Thuringia",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thuringia",
+        "keywords": "Thueringen, Freistaat Thüringen"
+    }
+}

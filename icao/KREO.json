@@ -1,0 +1,72 @@
+{
+    "id": "20924",
+    "ident": "KREO",
+    "type": "small_airport",
+    "name": "Rome State Airport",
+    "latitude_deg": "42.5777015686",
+    "longitude_deg": "-117.885002136",
+    "elevation_ft": "4053",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Rome",
+    "scheduled_service": "no",
+    "gps_code": "KREO",
+    "iata_code": "REO",
+    "local_code": "REO",
+    "home_link": "http://www.oregon.gov/aviation/Pages/Rome.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rome_State_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245970",
+            "airport_ref": "20924",
+            "airport_ident": "KREO",
+            "length_ft": "6000",
+            "width_ft": "150",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "42.5719",
+            "le_longitude_deg": "-117.893",
+            "le_elevation_ft": "",
+            "le_heading_degT": "46",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "42.5833",
+            "he_longitude_deg": "-117.878",
+            "he_elevation_ft": "",
+            "he_heading_degT": "226",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71468",
+            "airport_ref": "20924",
+            "airport_ident": "KREO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306113",
+        "code": "US-OR",
+        "local_code": "OR",
+        "name": "Oregon",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
+        "keywords": ""
+    }
+}

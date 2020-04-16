@@ -1,0 +1,80 @@
+{
+    "id": "20798",
+    "ident": "KP19",
+    "type": "small_airport",
+    "name": "Stellar Airpark",
+    "latitude_deg": "33.298829",
+    "longitude_deg": "-111.915795",
+    "elevation_ft": "1177",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Chandler",
+    "scheduled_service": "no",
+    "gps_code": "KP19",
+    "iata_code": "",
+    "local_code": "P19",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Stellar_Airpark",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245279",
+            "airport_ref": "20798",
+            "airport_ident": "KP19",
+            "length_ft": "3913",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "33.3043",
+            "le_longitude_deg": "-111.915",
+            "le_elevation_ft": "1177",
+            "le_heading_degT": "180.1",
+            "le_displaced_threshold_ft": "216",
+            "he_ident": "35",
+            "he_latitude_deg": "33.2936",
+            "he_longitude_deg": "-111.915",
+            "he_elevation_ft": "1173",
+            "he_heading_degT": "0.1",
+            "he_displaced_threshold_ft": "208"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69970",
+            "airport_ref": "20798",
+            "airport_ident": "KP19",
+            "type": "A/D",
+            "description": "PHOENIX APP/DEP",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "69971",
+            "airport_ref": "20798",
+            "airport_ident": "KP19",
+            "type": "UNIC",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

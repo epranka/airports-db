@@ -1,0 +1,120 @@
+{
+    "id": "4067",
+    "ident": "LFBL",
+    "type": "medium_airport",
+    "name": "Limoges Airport",
+    "latitude_deg": "45.86280059814453",
+    "longitude_deg": "1.1794400215148926",
+    "elevation_ft": "1300",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Limoges/Bellegarde",
+    "scheduled_service": "yes",
+    "gps_code": "LFBL",
+    "iata_code": "LIG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Limoges_-_Bellegarde_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236047",
+            "airport_ref": "4067",
+            "airport_ident": "LFBL",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "45.8525",
+            "le_longitude_deg": "1.17254",
+            "le_elevation_ft": "1273",
+            "le_heading_degT": "34",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "45.8713",
+            "he_longitude_deg": "1.1902",
+            "he_elevation_ft": "1275",
+            "he_heading_degT": "214",
+            "he_displaced_threshold_ft": "196"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52618",
+            "airport_ref": "4067",
+            "airport_ident": "LFBL",
+            "type": "APP",
+            "description": "LIMOGES APP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "52619",
+            "airport_ref": "4067",
+            "airport_ident": "LFBL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.075"
+        },
+        {
+            "id": "52620",
+            "airport_ref": "4067",
+            "airport_ident": "LFBL",
+            "type": "INFO",
+            "description": "LIMOGES INFO",
+            "frequency_mhz": "124.05"
+        },
+        {
+            "id": "52621",
+            "airport_ref": "4067",
+            "airport_ident": "LFBL",
+            "type": "TWR",
+            "description": "LIMOGES TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306352",
+        "code": "FR-NAQ",
+        "local_code": "NAQ",
+        "name": "Nouvelle-Aquitaine",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
+        "keywords": "Limousin, Poitou-Charentes"
+    },
+    "navaids": [
+        {
+            "id": "90418",
+            "filename": "Limoges_VOR-DME_FR",
+            "ident": "LMG",
+            "name": "Limoges",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "45.81589889526367",
+            "longitude_deg": "1.0255800485610962",
+            "elevation_ft": "1375",
+            "iso_country": "FR",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-1.127",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFBL"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "6244",
+    "ident": "SUAA",
+    "type": "medium_airport",
+    "name": "Angel S Adami Airport",
+    "latitude_deg": "-34.7892",
+    "longitude_deg": "-56.264702",
+    "elevation_ft": "174",
+    "continent": "SA",
+    "iso_country": "UY",
+    "iso_region": "UY-MO",
+    "municipality": "Montevideo",
+    "scheduled_service": "no",
+    "gps_code": "SUAA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/%C3%81ngel_S._Adami_Airport",
+    "keywords": "Aeródromo de Melilla",
+    "runways": [
+        {
+            "id": "246034",
+            "airport_ref": "6244",
+            "airport_ident": "SUAA",
+            "length_ft": "4101",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-34.7946",
+            "le_longitude_deg": "-56.2645",
+            "le_elevation_ft": "174",
+            "le_heading_degT": "7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-34.7834",
+            "he_longitude_deg": "-56.2653",
+            "he_elevation_ft": "151",
+            "he_heading_degT": "187",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71613",
+            "airport_ref": "6244",
+            "airport_ident": "SUAA",
+            "type": "AUX",
+            "description": "ADAMI TWR",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "71614",
+            "airport_ref": "6244",
+            "airport_ident": "SUAA",
+            "type": "TWR",
+            "description": "ADAMI TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302801",
+        "code": "UY",
+        "name": "Uruguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uruguay",
+        "keywords": "Aeropuertos de Uruguay"
+    },
+    "region": {
+        "id": "306137",
+        "code": "UY-MO",
+        "local_code": "MO",
+        "name": "Montevideo Department",
+        "continent": "SA",
+        "iso_country": "UY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montevideo_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85625",
+            "filename": "Adami_NDB_UY",
+            "ident": "ASI",
+            "name": "Adami",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "-34.78950119018555",
+            "longitude_deg": "-56.26300048828125",
+            "elevation_ft": "174",
+            "iso_country": "UY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.492",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SUAA"
+        }
+    ]
+}

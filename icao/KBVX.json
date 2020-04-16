@@ -1,0 +1,142 @@
+{
+    "id": "19421",
+    "ident": "KBVX",
+    "type": "small_airport",
+    "name": "Batesville Regional Airport",
+    "latitude_deg": "35.7262001",
+    "longitude_deg": "-91.64730072",
+    "elevation_ft": "465",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Batesville",
+    "scheduled_service": "no",
+    "gps_code": "KBVX",
+    "iata_code": "BVX",
+    "local_code": "BVX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241439",
+            "airport_ref": "19421",
+            "airport_ident": "KBVX",
+            "length_ft": "6002",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "35.7231",
+            "le_longitude_deg": "-91.6611",
+            "le_elevation_ft": "452",
+            "le_heading_degT": "80",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "35.726",
+            "he_longitude_deg": "-91.6412",
+            "he_elevation_ft": "464",
+            "he_heading_degT": "260",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241440",
+            "airport_ref": "19421",
+            "airport_ident": "KBVX",
+            "length_ft": "3078",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "35.7337",
+            "le_longitude_deg": "-91.6394",
+            "le_elevation_ft": "435",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "35.7252",
+            "he_longitude_deg": "-91.6396",
+            "he_elevation_ft": "463",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": "272"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61863",
+            "airport_ref": "19421",
+            "airport_ident": "KBVX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "61864",
+            "airport_ref": "19421",
+            "airport_ident": "KBVX",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "61865",
+            "airport_ref": "19421",
+            "airport_ident": "KBVX",
+            "type": "RDO",
+            "description": "JONESBORO RDO",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "61866",
+            "airport_ref": "19421",
+            "airport_ident": "KBVX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86456",
+            "filename": "Almnd_NDB_US",
+            "ident": "BV",
+            "name": "Almnd",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "35.70320129394531",
+            "longitude_deg": "-91.79779815673828",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.092",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBVX"
+        }
+    ]
+}

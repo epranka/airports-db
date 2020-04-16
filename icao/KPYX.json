@@ -1,0 +1,110 @@
+{
+    "id": "20902",
+    "ident": "KPYX",
+    "type": "small_airport",
+    "name": "Perryton Ochiltree County Airport",
+    "latitude_deg": "36.412899017333984",
+    "longitude_deg": "-100.75199890136719",
+    "elevation_ft": "2918",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Perryton",
+    "scheduled_service": "no",
+    "gps_code": "KPYX",
+    "iata_code": "",
+    "local_code": "PYX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240297",
+            "airport_ref": "20902",
+            "airport_ident": "KPYX",
+            "length_ft": "3280",
+            "width_ft": "144",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "36.4066",
+            "le_longitude_deg": "-100.759",
+            "le_elevation_ft": "2915",
+            "le_heading_degT": "51.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "36.4123",
+            "he_longitude_deg": "-100.75",
+            "he_elevation_ft": "2915",
+            "he_heading_degT": "231.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240298",
+            "airport_ref": "20902",
+            "airport_ident": "KPYX",
+            "length_ft": "5700",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "36.4227",
+            "le_longitude_deg": "-100.75",
+            "le_elevation_ft": "2915",
+            "le_heading_degT": "179.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "36.4071",
+            "he_longitude_deg": "-100.75",
+            "he_elevation_ft": "2915",
+            "he_heading_degT": "359.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59745",
+            "airport_ref": "20902",
+            "airport_ident": "KPYX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.175"
+        },
+        {
+            "id": "59746",
+            "airport_ref": "20902",
+            "airport_ident": "KPYX",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "59747",
+            "airport_ref": "20902",
+            "airport_ident": "KPYX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

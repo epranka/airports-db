@@ -1,0 +1,88 @@
+{
+    "id": "21206",
+    "ident": "KTNT",
+    "type": "small_airport",
+    "name": "Dade Collier Training and Transition Airport",
+    "latitude_deg": "25.861799240112",
+    "longitude_deg": "-80.897003173828",
+    "elevation_ft": "13",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Miami",
+    "scheduled_service": "no",
+    "gps_code": "KTNT",
+    "iata_code": "TNT",
+    "local_code": "TNT",
+    "home_link": "http://www.miami-airport.com/dade_collier.asp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dade-Collier_Training_and_Transition_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244072",
+            "airport_ref": "21206",
+            "airport_ident": "KTNT",
+            "length_ft": "10499",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "25.8618",
+            "le_longitude_deg": "-80.913",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "25.8618",
+            "he_longitude_deg": "-80.881",
+            "he_elevation_ft": "12",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67328",
+            "airport_ref": "21206",
+            "airport_ident": "KTNT",
+            "type": "CNTR",
+            "description": "MIAMI CNTR",
+            "frequency_mhz": "132.4"
+        },
+        {
+            "id": "67329",
+            "airport_ref": "21206",
+            "airport_ident": "KTNT",
+            "type": "RDO",
+            "description": "MIAMI RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "67330",
+            "airport_ref": "21206",
+            "airport_ident": "KTNT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

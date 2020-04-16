@@ -1,0 +1,96 @@
+{
+    "id": "20883",
+    "ident": "KPUW",
+    "type": "medium_airport",
+    "name": "Pullman Moscow Regional Airport",
+    "latitude_deg": "46.7439",
+    "longitude_deg": "-117.110001",
+    "elevation_ft": "2556",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Pullman/Moscow",
+    "scheduled_service": "yes",
+    "gps_code": "KPUW",
+    "iata_code": "PUW",
+    "local_code": "PUW",
+    "home_link": "http://www.pullman-wa.gov/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pullman-Moscow_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242716",
+            "airport_ref": "20883",
+            "airport_ident": "KPUW",
+            "length_ft": "6730",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "46.7407",
+            "le_longitude_deg": "-117.122",
+            "le_elevation_ft": "2538",
+            "le_heading_degT": "70",
+            "le_displaced_threshold_ft": "290",
+            "he_ident": "24",
+            "he_latitude_deg": "46.747",
+            "he_longitude_deg": "-117.097",
+            "he_elevation_ft": "2549",
+            "he_heading_degT": "250",
+            "he_displaced_threshold_ft": "801"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64492",
+            "airport_ref": "20883",
+            "airport_ident": "KPUW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.675"
+        },
+        {
+            "id": "64493",
+            "airport_ref": "20883",
+            "airport_ident": "KPUW",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "123.95"
+        },
+        {
+            "id": "64494",
+            "airport_ref": "20883",
+            "airport_ident": "KPUW",
+            "type": "RDO",
+            "description": "SEATTLE RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "64495",
+            "airport_ref": "20883",
+            "airport_ident": "KPUW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    }
+}

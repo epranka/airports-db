@@ -1,0 +1,104 @@
+{
+    "id": "4538",
+    "ident": "LTBO",
+    "type": "small_airport",
+    "name": "Uşak Airport",
+    "latitude_deg": "38.68149948120117",
+    "longitude_deg": "29.47170066833496",
+    "elevation_ft": "2897",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-64",
+    "municipality": "Uşak",
+    "scheduled_service": "yes",
+    "gps_code": "LTBO",
+    "iata_code": "USQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/U%C5%9Fak_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239237",
+            "airport_ref": "4538",
+            "airport_ident": "LTBO",
+            "length_ft": "8385",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "38.6817",
+            "le_longitude_deg": "29.457",
+            "le_elevation_ft": "2895",
+            "le_heading_degT": "90.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "38.6813",
+            "he_longitude_deg": "29.4864",
+            "he_elevation_ft": "2865",
+            "he_heading_degT": "270.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57831",
+            "airport_ref": "4538",
+            "airport_ident": "LTBO",
+            "type": "APP",
+            "description": "MENDERES APP",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "57832",
+            "airport_ref": "4538",
+            "airport_ident": "LTBO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.425"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305899",
+        "code": "TR-64",
+        "local_code": "64",
+        "name": "Uşak Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uşak_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94967",
+            "filename": "Usak_NDB-DME_TR",
+            "ident": "USK",
+            "name": "Usak",
+            "type": "NDB-DME",
+            "frequency_khz": "414",
+            "latitude_deg": "38.67959976196289",
+            "longitude_deg": "29.480100631713867",
+            "elevation_ft": "2821",
+            "iso_country": "TR",
+            "dme_frequency_khz": "108000",
+            "dme_channel": "017X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.017",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "LTBO"
+        }
+    ]
+}

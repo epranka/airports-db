@@ -1,0 +1,72 @@
+{
+    "id": "4491",
+    "ident": "LSGK",
+    "type": "small_airport",
+    "name": "Saanen Airport",
+    "latitude_deg": "46.4874992371",
+    "longitude_deg": "7.25083017349",
+    "elevation_ft": "3307",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-BE",
+    "municipality": "Saanen",
+    "scheduled_service": "no",
+    "gps_code": "LSGK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.air-sarina.ch",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239109",
+            "airport_ref": "4491",
+            "airport_ident": "LSGK",
+            "length_ft": "4593",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "46.4865",
+            "le_longitude_deg": "7.24183",
+            "le_elevation_ft": "3278",
+            "le_heading_degT": "80.6",
+            "le_displaced_threshold_ft": "1017",
+            "he_ident": "26",
+            "he_latitude_deg": "46.4885",
+            "he_longitude_deg": "7.25983",
+            "he_elevation_ft": "3297",
+            "he_heading_degT": "260.6",
+            "he_displaced_threshold_ft": "1050"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57536",
+            "airport_ref": "4491",
+            "airport_ident": "LSGK",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "119.425"
+        }
+    ],
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303355",
+        "code": "CH-BE",
+        "local_code": "BE",
+        "name": "Canton of Berne",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Berne",
+        "keywords": "Bern"
+    }
+}

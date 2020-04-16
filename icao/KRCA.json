@@ -1,0 +1,166 @@
+{
+    "id": "3840",
+    "ident": "KRCA",
+    "type": "medium_airport",
+    "name": "Ellsworth Air Force Base",
+    "latitude_deg": "44.14500046",
+    "longitude_deg": "-103.1039963",
+    "elevation_ft": "3276",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Rapid City",
+    "scheduled_service": "no",
+    "gps_code": "KRCA",
+    "iata_code": "RCA",
+    "local_code": "RCA",
+    "home_link": "http://www.ellsworth.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ellsworth_Air_Force_Base",
+    "keywords": "28th Bomb Wing",
+    "runways": [
+        {
+            "id": "242715",
+            "airport_ref": "3840",
+            "airport_ident": "KRCA",
+            "length_ft": "13497",
+            "width_ft": "300",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "44.1592",
+            "le_longitude_deg": "-103.121",
+            "le_elevation_ft": "3279",
+            "le_heading_degT": "138",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "44.1316",
+            "he_longitude_deg": "-103.087",
+            "he_elevation_ft": "3181",
+            "he_heading_degT": "318",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64485",
+            "airport_ref": "3840",
+            "airport_ident": "KRCA",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "64486",
+            "airport_ref": "3840",
+            "airport_ident": "KRCA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.625"
+        },
+        {
+            "id": "64487",
+            "airport_ref": "3840",
+            "airport_ident": "KRCA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "64488",
+            "airport_ref": "3840",
+            "airport_ident": "KRCA",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "37.577"
+        },
+        {
+            "id": "64489",
+            "airport_ref": "3840",
+            "airport_ident": "KRCA",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "32.1"
+        },
+        {
+            "id": "64490",
+            "airport_ref": "3840",
+            "airport_ident": "KRCA",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "64491",
+            "airport_ref": "3840",
+            "airport_ident": "KRCA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306117",
+        "code": "US-SD",
+        "local_code": "SD",
+        "name": "South Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92967",
+            "filename": "Rapid_City_VORTAC_US",
+            "ident": "RAP",
+            "name": "Rapid City",
+            "type": "VORTAC",
+            "frequency_khz": "112300",
+            "latitude_deg": "43.97600173950195",
+            "longitude_deg": "-103.01200103759766",
+            "elevation_ft": "3160",
+            "iso_country": "US",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "13.001",
+            "magnetic_variation_deg": "8.503",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KRCA"
+        },
+        {
+            "id": "93004",
+            "filename": "Ellsworth_TACAN_US",
+            "ident": "RCA",
+            "name": "Ellsworth",
+            "type": "TACAN",
+            "frequency_khz": "108800",
+            "latitude_deg": "44.138999938964844",
+            "longitude_deg": "-103.10199737548828",
+            "elevation_ft": "3200",
+            "iso_country": "US",
+            "dme_frequency_khz": "108800",
+            "dme_channel": "025X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.001",
+            "magnetic_variation_deg": "8.545",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KRCA"
+        }
+    ]
+}

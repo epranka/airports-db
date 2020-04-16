@@ -1,0 +1,88 @@
+{
+    "id": "19811",
+    "ident": "KF34",
+    "type": "small_airport",
+    "name": "Firebaugh Airport",
+    "latitude_deg": "36.860000610352",
+    "longitude_deg": "-120.46399688721",
+    "elevation_ft": "157",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Firebaugh",
+    "scheduled_service": "no",
+    "gps_code": "F34",
+    "iata_code": "",
+    "local_code": "F34",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Firebaugh_Airport",
+    "keywords": "Q49",
+    "runways": [
+        {
+            "id": "244891",
+            "airport_ref": "19811",
+            "airport_ident": "KF34",
+            "length_ft": "3102",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "36.8632",
+            "le_longitude_deg": "-120.468",
+            "le_elevation_ft": "157",
+            "le_heading_degT": "139.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "36.8567",
+            "he_longitude_deg": "-120.461",
+            "he_elevation_ft": "157",
+            "he_heading_degT": "319.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69113",
+            "airport_ref": "19811",
+            "airport_ident": "KF34",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "120.95"
+        },
+        {
+            "id": "69114",
+            "airport_ref": "19811",
+            "airport_ident": "KF34",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "69115",
+            "airport_ref": "19811",
+            "airport_ident": "KF34",
+            "type": "RDO",
+            "description": "RANCHO RDO",
+            "frequency_mhz": "112.6"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

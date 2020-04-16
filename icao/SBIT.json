@@ -1,0 +1,96 @@
+{
+    "id": "5919",
+    "ident": "SBIT",
+    "type": "small_airport",
+    "name": "Francisco Vilela do Amaral Airport",
+    "latitude_deg": "-18.4447002411",
+    "longitude_deg": "-49.2134017944",
+    "elevation_ft": "1630",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Itumbiara",
+    "scheduled_service": "no",
+    "gps_code": "SBIT",
+    "iata_code": "ITR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Itumbiara_Airport",
+    "keywords": "Hidroelétrica Airport",
+    "runways": [
+        {
+            "id": "234146",
+            "airport_ref": "5919",
+            "airport_ident": "SBIT",
+            "length_ft": "5741",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49700",
+            "airport_ref": "5919",
+            "airport_ident": "SBIT",
+            "type": "AFIS",
+            "description": "ITUMBIARA RDO",
+            "frequency_mhz": "130.3"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303207",
+        "code": "BR-GO",
+        "local_code": "GO",
+        "name": "Goiás",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95622",
+            "filename": "Itumbiara_NDB_BR",
+            "ident": "YBA",
+            "name": "Itumbiara",
+            "type": "NDB",
+            "frequency_khz": "245",
+            "latitude_deg": "-18.44029998779297",
+            "longitude_deg": "-49.21870040893555",
+            "elevation_ft": "1630",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.236",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBIT"
+        }
+    ]
+}

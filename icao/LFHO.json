@@ -1,0 +1,80 @@
+{
+    "id": "4110",
+    "ident": "LFHO",
+    "type": "medium_airport",
+    "name": "Aubenas-Ardèche Méridional Airport",
+    "latitude_deg": "44.544203",
+    "longitude_deg": "4.372192",
+    "elevation_ft": "923",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Aubenas/Ardèche Méridional",
+    "scheduled_service": "no",
+    "gps_code": "LFHO",
+    "iata_code": "OBS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/w/index.php?title=Aubenas_-_Ard%C3%A8che_M%C3%A9ridional_Aerodrome&redirect=no",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235904",
+            "airport_ref": "4110",
+            "airport_ident": "LFHO",
+            "length_ft": "4675",
+            "width_ft": "98",
+            "surface": "Paved",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "44.5378",
+            "le_longitude_deg": "4.37158",
+            "le_elevation_ft": "919",
+            "le_heading_degT": "184",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "44.5506",
+            "he_longitude_deg": "4.3728",
+            "he_elevation_ft": "878",
+            "he_heading_degT": "4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52342",
+            "airport_ref": "4110",
+            "airport_ident": "LFHO",
+            "type": "A/A",
+            "description": "réservé aux AFCT munis de radio",
+            "frequency_mhz": "119.85"
+        },
+        {
+            "id": "301598",
+            "airport_ref": "4110",
+            "airport_ident": "LFHO",
+            "type": "Orange French AF",
+            "description": "zone R 55",
+            "frequency_mhz": "118.92"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306351",
+        "code": "FR-ARA",
+        "local_code": "ARA",
+        "name": "Auvergne-Rhône-Alpes",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
+        "keywords": ""
+    }
+}

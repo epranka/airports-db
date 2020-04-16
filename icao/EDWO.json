@@ -1,0 +1,88 @@
+{
+    "id": "28684",
+    "ident": "EDWO",
+    "type": "small_airport",
+    "name": "Osnabrück-Atterheide Airport",
+    "latitude_deg": "52.286388",
+    "longitude_deg": "7.969722",
+    "elevation_ft": "287",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Osnabrück",
+    "scheduled_service": "no",
+    "gps_code": "EDWO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259797",
+            "airport_ref": "28684",
+            "airport_ident": "EDWO",
+            "length_ft": "2625",
+            "width_ft": "",
+            "surface": "UNK",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "287",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "287",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "328932",
+            "airport_ref": "28684",
+            "airport_ident": "EDWO",
+            "type": "AFIS",
+            "description": "BREMEN INFORMATION",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "328933",
+            "airport_ref": "28684",
+            "airport_ident": "EDWO",
+            "type": "AFIS",
+            "description": "LANGEN INFORMATION",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "328931",
+            "airport_ref": "28684",
+            "airport_ident": "EDWO",
+            "type": "INFO",
+            "description": "OSNABRUCK INFO",
+            "frequency_mhz": "118.675"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303555",
+        "code": "DE-NI",
+        "local_code": "NI",
+        "name": "Lower Saxony",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
+        "keywords": "Niedersachsen"
+    }
+}

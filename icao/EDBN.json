@@ -1,0 +1,166 @@
+{
+    "id": "2743",
+    "ident": "EDBN",
+    "type": "medium_airport",
+    "name": "Neubrandenburg Airport",
+    "latitude_deg": "53.6022",
+    "longitude_deg": "13.306",
+    "elevation_ft": "228",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-MV",
+    "municipality": "Neubrandenburg",
+    "scheduled_service": "no",
+    "gps_code": "EDBN",
+    "iata_code": "FNB",
+    "local_code": "",
+    "home_link": "http://www.flughafen-neubrandenburg.de/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Neubrandenburg_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236182",
+            "airport_ref": "2743",
+            "airport_ident": "EDBN",
+            "length_ft": "7522",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "53.6019",
+            "le_longitude_deg": "13.2888",
+            "le_elevation_ft": "201",
+            "le_heading_degT": "89",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "53.6026",
+            "he_longitude_deg": "13.3234",
+            "he_elevation_ft": "227",
+            "he_heading_degT": "269",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52889",
+            "airport_ref": "2743",
+            "airport_ident": "EDBN",
+            "type": "A/D",
+            "description": "RADAR",
+            "frequency_mhz": "35.875"
+        },
+        {
+            "id": "52888",
+            "airport_ref": "2743",
+            "airport_ident": "EDBN",
+            "type": "A/D",
+            "description": "RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "52890",
+            "airport_ref": "2743",
+            "airport_ident": "EDBN",
+            "type": "ACC",
+            "description": "BERLIN RADAR",
+            "frequency_mhz": "126.175"
+        },
+        {
+            "id": "52891",
+            "airport_ref": "2743",
+            "airport_ident": "EDBN",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "52892",
+            "airport_ref": "2743",
+            "airport_ident": "EDBN",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "52893",
+            "airport_ref": "2743",
+            "airport_ident": "EDBN",
+            "type": "RMP",
+            "description": "APRON",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "52894",
+            "airport_ref": "2743",
+            "airport_ident": "EDBN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.175"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303554",
+        "code": "DE-MV",
+        "local_code": "MV",
+        "name": "Mecklenburg-Vorpommern",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mecklenburg-Vorpommern",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91509",
+            "filename": "Neubrandenburg_TACAN_DE",
+            "ident": "NEG",
+            "name": "Neubrandenburg",
+            "type": "TACAN",
+            "frequency_khz": "108050",
+            "latitude_deg": "53.604698181152344",
+            "longitude_deg": "13.308699607849121",
+            "elevation_ft": "270",
+            "iso_country": "DE",
+            "dme_frequency_khz": "108050",
+            "dme_channel": "017Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.011",
+            "magnetic_variation_deg": "2.107",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EDBN"
+        },
+        {
+            "id": "91697",
+            "filename": "Neubrandenburg_NDB_DE",
+            "ident": "NRG",
+            "name": "Neubrandenburg",
+            "type": "NDB",
+            "frequency_khz": "357",
+            "latitude_deg": "53.60279846191406",
+            "longitude_deg": "13.338299751281738",
+            "elevation_ft": "264",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.113",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDBN"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "35174",
+    "ident": "UWKB",
+    "type": "medium_airport",
+    "name": "Bugulma Airport",
+    "latitude_deg": "54.63999938964844",
+    "longitude_deg": "52.801700592041016",
+    "elevation_ft": "991",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-TA",
+    "municipality": "Bugulma",
+    "scheduled_service": "yes",
+    "gps_code": "UWKB",
+    "iata_code": "UUA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bugulma_Airport",
+    "keywords": "Аэропорт Бугульма",
+    "runways": [
+        {
+            "id": "271029",
+            "airport_ref": "35174",
+            "airport_ident": "UWKB",
+            "length_ft": "6561",
+            "width_ft": "131",
+            "surface": "concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "12",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "192",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75426",
+            "airport_ref": "35174",
+            "airport_ident": "UWKB",
+            "type": "APP",
+            "description": "Bugulma Approach / russian only",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "75425",
+            "airport_ref": "35174",
+            "airport_ident": "UWKB",
+            "type": "TWR",
+            "description": "Bugulma TWR / russian only",
+            "frequency_mhz": "118"
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305329",
+        "code": "RU-TA",
+        "local_code": "TA",
+        "name": "Republic of Tatarstan",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Republic_of_Tatarstan",
+        "keywords": ""
+    }
+}

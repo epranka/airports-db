@@ -1,0 +1,102 @@
+{
+    "id": "19582",
+    "ident": "KCZD",
+    "type": "small_airport",
+    "name": "Cozad Municipal Airport",
+    "latitude_deg": "40.86909866",
+    "longitude_deg": "-100.0039978",
+    "elevation_ft": "2503",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Cozad",
+    "scheduled_service": "no",
+    "gps_code": "KCZD",
+    "iata_code": "",
+    "local_code": "CZD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245706",
+            "airport_ref": "19582",
+            "airport_ident": "KCZD",
+            "length_ft": "4201",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "40.8733",
+            "le_longitude_deg": "-100.009",
+            "le_elevation_ft": "2502",
+            "le_heading_degT": "137.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "40.8649",
+            "he_longitude_deg": "-99.9991",
+            "he_elevation_ft": "2497",
+            "he_heading_degT": "317.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245707",
+            "airport_ref": "19582",
+            "airport_ident": "KCZD",
+            "length_ft": "3000",
+            "width_ft": "300",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.8734",
+            "le_longitude_deg": "-100.001",
+            "le_elevation_ft": "2499",
+            "le_heading_degT": "190.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "40.8653",
+            "he_longitude_deg": "-100.003",
+            "he_elevation_ft": "2496",
+            "he_heading_degT": "10.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70891",
+            "airport_ref": "19582",
+            "airport_ident": "KCZD",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "132.7"
+        },
+        {
+            "id": "70892",
+            "airport_ref": "19582",
+            "airport_ident": "KCZD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

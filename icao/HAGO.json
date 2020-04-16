@@ -1,0 +1,72 @@
+{
+    "id": "3165",
+    "ident": "HAGO",
+    "type": "medium_airport",
+    "name": "Gode Airport",
+    "latitude_deg": "5.93513011932",
+    "longitude_deg": "43.5786018372",
+    "elevation_ft": "834",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-SO",
+    "municipality": "Gode",
+    "scheduled_service": "yes",
+    "gps_code": "HAGO",
+    "iata_code": "GDE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gode_Airport",
+    "keywords": "Iddiole",
+    "runways": [
+        {
+            "id": "235677",
+            "airport_ref": "3165",
+            "airport_ident": "HAGO",
+            "length_ft": "7505",
+            "width_ft": "115",
+            "surface": "PEM",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "5.92653",
+            "le_longitude_deg": "43.5717",
+            "le_elevation_ft": "822",
+            "le_heading_degT": "38.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "5.94267",
+            "he_longitude_deg": "43.5846",
+            "he_elevation_ft": "834",
+            "he_heading_degT": "218.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51999",
+            "airport_ref": "3165",
+            "airport_ident": "HAGO",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "125.2"
+        }
+    ],
+    "country": {
+        "id": "302572",
+        "code": "ET",
+        "name": "Ethiopia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ethiopia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303796",
+        "code": "ET-SO",
+        "local_code": "SO",
+        "name": "Somali",
+        "continent": "AF",
+        "iso_country": "ET",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Somali",
+        "keywords": ""
+    }
+}

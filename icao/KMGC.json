@@ -1,0 +1,88 @@
+{
+    "id": "20498",
+    "ident": "KMGC",
+    "type": "small_airport",
+    "name": "Michigan City Municipal Airport",
+    "latitude_deg": "41.703300476100004",
+    "longitude_deg": "-86.8211975098",
+    "elevation_ft": "655",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Michigan City",
+    "scheduled_service": "no",
+    "gps_code": "KMGC",
+    "iata_code": "MGC",
+    "local_code": "MGC",
+    "home_link": "http://www.emichigancity.com/cityhall/departments/airport/index.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan_City_Municipal_Airport",
+    "keywords": "Phillips Field",
+    "runways": [
+        {
+            "id": "239884",
+            "airport_ref": "20498",
+            "airport_ident": "KMGC",
+            "length_ft": "4100",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "41.698",
+            "le_longitude_deg": "-86.8239",
+            "le_elevation_ft": "655",
+            "le_heading_degT": "20",
+            "le_displaced_threshold_ft": "360",
+            "he_ident": "20",
+            "he_latitude_deg": "41.7086",
+            "he_longitude_deg": "-86.8186",
+            "he_elevation_ft": "642",
+            "he_heading_degT": "200",
+            "he_displaced_threshold_ft": "183"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59132",
+            "airport_ref": "20498",
+            "airport_ident": "KMGC",
+            "type": "A/D",
+            "description": "SOUTH BEND APP/DEP",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "59133",
+            "airport_ref": "20498",
+            "airport_ident": "KMGC",
+            "type": "CLD",
+            "description": "SOUTH BEND CLNC DEL",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "59134",
+            "airport_ref": "20498",
+            "airport_ident": "KMGC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

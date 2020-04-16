@@ -1,0 +1,104 @@
+{
+    "id": "2819",
+    "ident": "FAOH",
+    "type": "medium_airport",
+    "name": "Oudtshoorn Airport",
+    "latitude_deg": "-33.6069984436",
+    "longitude_deg": "22.188999176",
+    "elevation_ft": "1063",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "Oudtshoorn",
+    "scheduled_service": "no",
+    "gps_code": "FAOH",
+    "iata_code": "OUH",
+    "local_code": "FAOH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238810",
+            "airport_ref": "2819",
+            "airport_ident": "FAOH",
+            "length_ft": "5577",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "-33.6144",
+            "le_longitude_deg": "22.187",
+            "le_elevation_ft": "1040",
+            "le_heading_degT": "13",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "-33.5995",
+            "he_longitude_deg": "22.191",
+            "he_elevation_ft": "1061",
+            "he_heading_degT": "193",
+            "he_displaced_threshold_ft": "330"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310737",
+            "airport_ref": "2819",
+            "airport_ident": "FAOH",
+            "type": "AFIS",
+            "description": "Oudtshoorn Radio/Oudtshoorn Traffic",
+            "frequency_mhz": "131.1"
+        },
+        {
+            "id": "57115",
+            "airport_ref": "2819",
+            "airport_ident": "FAOH",
+            "type": "APP",
+            "description": "GEORGE APP",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306304",
+        "code": "ZA-WC",
+        "local_code": "WC",
+        "name": "Western Cape",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Cape",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91936",
+            "filename": "Oudtshoorn_NDB_ZA",
+            "ident": "OH",
+            "name": "Oudtshoorn",
+            "type": "NDB",
+            "frequency_khz": "367",
+            "latitude_deg": "-33.60169982910156",
+            "longitude_deg": "22.185800552368164",
+            "elevation_ft": "1063",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-24.549",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAOH"
+        }
+    ]
+}

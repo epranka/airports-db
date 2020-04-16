@@ -1,0 +1,102 @@
+{
+    "id": "29784",
+    "ident": "LKCH",
+    "type": "small_airport",
+    "name": "Chomutov Airfield",
+    "latitude_deg": "50.468899",
+    "longitude_deg": "13.4681",
+    "elevation_ft": "1132",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-US",
+    "municipality": "Chomutov",
+    "scheduled_service": "no",
+    "gps_code": "LKCH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "315779",
+            "airport_ref": "29784",
+            "airport_ident": "LKCH",
+            "length_ft": "3935",
+            "width_ft": "131",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "50.4695",
+            "le_longitude_deg": "13.4687",
+            "le_elevation_ft": "",
+            "le_heading_degT": "38",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "50.4777",
+            "he_longitude_deg": "13.4795",
+            "he_elevation_ft": "",
+            "he_heading_degT": "218",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "315780",
+            "airport_ref": "29784",
+            "airport_ident": "LKCH",
+            "length_ft": "2725",
+            "width_ft": "131",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "50.4725",
+            "le_longitude_deg": "13.4633",
+            "le_elevation_ft": "",
+            "le_heading_degT": "139",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "50.4667",
+            "he_longitude_deg": "13.4708",
+            "he_elevation_ft": "",
+            "he_heading_degT": "319",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "314438",
+            "airport_ref": "29784",
+            "airport_ident": "LKCH",
+            "type": "AFIS",
+            "description": "",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "333138",
+            "airport_ref": "29784",
+            "airport_ident": "LKCH",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "123.605"
+        }
+    ],
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303544",
+        "code": "CZ-US",
+        "local_code": "US",
+        "name": "Ústí nad Labem Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ústí_nad_Labem_Region",
+        "keywords": "Ústecký kraj"
+    }
+}

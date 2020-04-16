@@ -1,0 +1,96 @@
+{
+    "id": "19387",
+    "ident": "KBLF",
+    "type": "medium_airport",
+    "name": "Mercer County Airport",
+    "latitude_deg": "37.295799255371094",
+    "longitude_deg": "-81.20770263671875",
+    "elevation_ft": "2857",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Bluefield",
+    "scheduled_service": "yes",
+    "gps_code": "KBLF",
+    "iata_code": "BLF",
+    "local_code": "BLF",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mercer_County_Airport_(West_Virginia)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241018",
+            "airport_ref": "19387",
+            "airport_ident": "KBLF",
+            "length_ft": "4742",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "37.2909",
+            "le_longitude_deg": "-81.2131",
+            "le_elevation_ft": "2850",
+            "le_heading_degT": "41.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "37.3006",
+            "he_longitude_deg": "-81.2022",
+            "he_elevation_ft": "2856",
+            "he_heading_degT": "221.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60993",
+            "airport_ref": "19387",
+            "airport_ident": "KBLF",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "132.725"
+        },
+        {
+            "id": "60994",
+            "airport_ref": "19387",
+            "airport_ident": "KBLF",
+            "type": "CNTR",
+            "description": "INDIANAPOLIS CNTR",
+            "frequency_mhz": "126.575"
+        },
+        {
+            "id": "60995",
+            "airport_ref": "19387",
+            "airport_ident": "KBLF",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "60996",
+            "airport_ref": "19387",
+            "airport_ident": "KBLF",
+            "type": "RDO",
+            "description": "ELKINS RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306126",
+        "code": "US-WV",
+        "local_code": "WV",
+        "name": "West Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
+        "keywords": ""
+    }
+}

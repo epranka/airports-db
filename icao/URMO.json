@@ -1,0 +1,112 @@
+{
+    "id": "6516",
+    "ident": "URMO",
+    "type": "medium_airport",
+    "name": "Beslan Airport",
+    "latitude_deg": "43.2051010132",
+    "longitude_deg": "44.6066017151",
+    "elevation_ft": "1673",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SE",
+    "municipality": "Beslan",
+    "scheduled_service": "yes",
+    "gps_code": "URMO",
+    "iata_code": "OGZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Beslan_Airport",
+    "keywords": "Vladikavkaz Airport, Аэропорт Беслан, Аэропорт Владикавказ",
+    "runways": [
+        {
+            "id": "238568",
+            "airport_ref": "6516",
+            "airport_ident": "URMO",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "43.2078",
+            "le_longitude_deg": "44.5886",
+            "le_elevation_ft": "1634",
+            "le_heading_degT": "101.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "43.2024",
+            "he_longitude_deg": "44.6247",
+            "he_elevation_ft": "1673",
+            "he_heading_degT": "281.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56752",
+            "airport_ref": "6516",
+            "airport_ident": "URMO",
+            "type": "MISC",
+            "description": "TRANSIT",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "56753",
+            "airport_ref": "6516",
+            "airport_ident": "URMO",
+            "type": "RDR",
+            "description": "KRUG",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "56754",
+            "airport_ref": "6516",
+            "airport_ident": "URMO",
+            "type": "TWR",
+            "description": "START",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305324",
+        "code": "RU-SE",
+        "local_code": "SE",
+        "name": "Republic of North Ossetia-Alania",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Republic_of_North_Ossetia-Alania",
+        "keywords": "Severnaya Osetiya"
+    },
+    "navaids": [
+        {
+            "id": "86746",
+            "filename": "Vladikavkaz_NDB_RU",
+            "ident": "CH",
+            "name": "Vladikavkaz",
+            "type": "NDB",
+            "frequency_khz": "105",
+            "latitude_deg": "43.21500015258789",
+            "longitude_deg": "44.538299560546875",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.092",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "URMO"
+        }
+    ]
+}

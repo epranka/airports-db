@@ -1,0 +1,96 @@
+{
+    "id": "892",
+    "ident": "CER3",
+    "type": "small_airport",
+    "name": "Drayton Valley Industrial Airport",
+    "latitude_deg": "53.265800476074",
+    "longitude_deg": "-114.95999908447",
+    "elevation_ft": "2776",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Drayton Valley",
+    "scheduled_service": "no",
+    "gps_code": "CER3",
+    "iata_code": "YDC",
+    "local_code": "CER3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Drayton_Valley_Industrial_Airport",
+    "keywords": "ER3",
+    "runways": [
+        {
+            "id": "234945",
+            "airport_ref": "892",
+            "airport_ident": "CER3",
+            "length_ft": "5066",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "53.271",
+            "le_longitude_deg": "-114.963",
+            "le_elevation_ft": "",
+            "le_heading_degT": "161",
+            "le_displaced_threshold_ft": "761",
+            "he_ident": "32",
+            "he_latitude_deg": "53.2579",
+            "he_longitude_deg": "-114.955",
+            "he_elevation_ft": "",
+            "he_heading_degT": "341",
+            "he_displaced_threshold_ft": "344"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50777",
+            "airport_ref": "892",
+            "airport_ident": "CER3",
+            "type": "ATF",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85080",
+            "filename": "Drayton_Valley_Industrial_NDB-DME_CA",
+            "ident": "3M",
+            "name": "Drayton Valley Industrial",
+            "type": "NDB-DME",
+            "frequency_khz": "385",
+            "latitude_deg": "53.26639938354492",
+            "longitude_deg": "-114.95500183105469",
+            "elevation_ft": "2785",
+            "iso_country": "CA",
+            "dme_frequency_khz": "110600",
+            "dme_channel": "043X",
+            "dme_latitude_deg": "53.2681",
+            "dme_longitude_deg": "-114.957",
+            "dme_elevation_ft": "2785",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.225",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CER3"
+        }
+    ]
+}

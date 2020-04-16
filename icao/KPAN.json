@@ -1,0 +1,88 @@
+{
+    "id": "20804",
+    "ident": "KPAN",
+    "type": "small_airport",
+    "name": "Payson Airport",
+    "latitude_deg": "34.256801605225",
+    "longitude_deg": "-111.33899688721",
+    "elevation_ft": "5157",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Payson",
+    "scheduled_service": "no",
+    "gps_code": "KPAN",
+    "iata_code": "PJB",
+    "local_code": "PAN",
+    "home_link": "http://www.paysonaz.gov/Departments/Airport/AirportHome.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Payson_Airport",
+    "keywords": "E69",
+    "runways": [
+        {
+            "id": "245623",
+            "airport_ref": "20804",
+            "airport_ident": "KPAN",
+            "length_ft": "5500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "34.2504",
+            "le_longitude_deg": "-111.365",
+            "le_elevation_ft": "5139",
+            "le_heading_degT": "72.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "34.255",
+            "he_longitude_deg": "-111.348",
+            "he_elevation_ft": "5157",
+            "he_heading_degT": "252.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70718",
+            "airport_ref": "20804",
+            "airport_ident": "KPAN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.325"
+        },
+        {
+            "id": "70719",
+            "airport_ref": "20804",
+            "airport_ident": "KPAN",
+            "type": "FSS",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "70720",
+            "airport_ref": "20804",
+            "airport_ident": "KPAN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

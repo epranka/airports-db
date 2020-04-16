@@ -1,0 +1,110 @@
+{
+    "id": "19312",
+    "ident": "KASL",
+    "type": "small_airport",
+    "name": "Harrison County Airport",
+    "latitude_deg": "32.5205001831",
+    "longitude_deg": "-94.307800293",
+    "elevation_ft": "357",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Marshall",
+    "scheduled_service": "no",
+    "gps_code": "KASL",
+    "iata_code": "ASL",
+    "local_code": "ASL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Harrison_County_Airport_(Texas)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243368",
+            "airport_ref": "19312",
+            "airport_ident": "KASL",
+            "length_ft": "3298",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "32.5177",
+            "le_longitude_deg": "-94.3098",
+            "le_elevation_ft": "338",
+            "le_heading_degT": "21.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "32.5261",
+            "he_longitude_deg": "-94.3058",
+            "he_elevation_ft": "341",
+            "he_heading_degT": "201.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243369",
+            "airport_ref": "19312",
+            "airport_ident": "KASL",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "32.5259",
+            "le_longitude_deg": "-94.311",
+            "le_elevation_ft": "356",
+            "le_heading_degT": "156.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "32.5133",
+            "he_longitude_deg": "-94.3046",
+            "he_elevation_ft": "320",
+            "he_heading_degT": "336.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65828",
+            "airport_ref": "19312",
+            "airport_ident": "KASL",
+            "type": "A/D",
+            "description": "SHREVEPORT APP/DEP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "65829",
+            "airport_ref": "19312",
+            "airport_ident": "KASL",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.675"
+        },
+        {
+            "id": "65830",
+            "airport_ref": "19312",
+            "airport_ident": "KASL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

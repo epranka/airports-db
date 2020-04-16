@@ -1,0 +1,182 @@
+{
+    "id": "2747",
+    "ident": "ETOU",
+    "type": "medium_airport",
+    "name": "Wiesbaden Army Airfield",
+    "latitude_deg": "50.049800872802734",
+    "longitude_deg": "8.325400352478027",
+    "elevation_ft": "461",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Wiesbaden",
+    "scheduled_service": "no",
+    "gps_code": "ETOU",
+    "iata_code": "WIE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wiesbaden_Army_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236203",
+            "airport_ref": "2747",
+            "airport_ident": "ETOU",
+            "length_ft": "7065",
+            "width_ft": "120",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "50.0471",
+            "le_longitude_deg": "8.31103",
+            "le_elevation_ft": "454",
+            "le_heading_degT": "73.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "50.0526",
+            "he_longitude_deg": "8.33984",
+            "he_elevation_ft": "459",
+            "he_heading_degT": "253.3",
+            "he_displaced_threshold_ft": "121"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52958",
+            "airport_ref": "2747",
+            "airport_ident": "ETOU",
+            "type": "AAS",
+            "description": "LANGEN INFO",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "52959",
+            "airport_ref": "2747",
+            "airport_ident": "ETOU",
+            "type": "APP",
+            "description": "LANGEN ARR",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "52960",
+            "airport_ref": "2747",
+            "airport_ident": "ETOU",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "139.525"
+        },
+        {
+            "id": "52961",
+            "airport_ref": "2747",
+            "airport_ident": "ETOU",
+            "type": "DEP",
+            "description": "LANGEN DEP",
+            "frequency_mhz": "120.15"
+        },
+        {
+            "id": "52962",
+            "airport_ref": "2747",
+            "airport_ident": "ETOU",
+            "type": "EMR",
+            "description": "EMERG FM",
+            "frequency_mhz": "40.5"
+        },
+        {
+            "id": "52963",
+            "airport_ref": "2747",
+            "airport_ident": "ETOU",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "138.55"
+        },
+        {
+            "id": "52964",
+            "airport_ref": "2747",
+            "airport_ident": "ETOU",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "74.1"
+        },
+        {
+            "id": "52965",
+            "airport_ref": "2747",
+            "airport_ident": "ETOU",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "140.3"
+        },
+        {
+            "id": "52966",
+            "airport_ref": "2747",
+            "airport_ident": "ETOU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "30.1"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303552",
+        "code": "DE-HE",
+        "local_code": "HE",
+        "name": "Hesse",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hesse",
+        "keywords": "Hessen"
+    },
+    "navaids": [
+        {
+            "id": "95380",
+            "filename": "Wiesbaden_NDB_DE",
+            "ident": "WBD",
+            "name": "Wiesbaden",
+            "type": "NDB",
+            "frequency_khz": "399",
+            "latitude_deg": "50.04899978637695",
+            "longitude_deg": "8.328669548034668",
+            "elevation_ft": "490",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.42",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "ETOU"
+        },
+        {
+            "id": "95418",
+            "filename": "Wiesbaden_TACAN_DE",
+            "ident": "WIB",
+            "name": "Wiesbaden",
+            "type": "TACAN",
+            "frequency_khz": "114100",
+            "latitude_deg": "50.046199798583984",
+            "longitude_deg": "8.310830116271973",
+            "elevation_ft": "472",
+            "iso_country": "DE",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.004",
+            "magnetic_variation_deg": "0.417",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETOU"
+        }
+    ]
+}

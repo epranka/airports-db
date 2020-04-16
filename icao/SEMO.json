@@ -1,0 +1,96 @@
+{
+    "id": "6065",
+    "ident": "SEMO",
+    "type": "small_airport",
+    "name": "El Carmen Airport",
+    "latitude_deg": "-2.067009925842285",
+    "longitude_deg": "-76.97570037841797",
+    "elevation_ft": "960",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-Y",
+    "municipality": "Montalvo",
+    "scheduled_service": "no",
+    "gps_code": "SEMO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235516",
+            "airport_ref": "6065",
+            "airport_ident": "SEMO",
+            "length_ft": "4725",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "-2.06751",
+            "le_longitude_deg": "-76.9822",
+            "le_elevation_ft": "",
+            "le_heading_degT": "84.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "-2.06627",
+            "he_longitude_deg": "-76.9693",
+            "he_elevation_ft": "",
+            "he_heading_degT": "264.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51811",
+            "airport_ref": "6065",
+            "airport_ident": "SEMO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.2"
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303673",
+        "code": "EC-Y",
+        "local_code": "Y",
+        "name": "Pastaza Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pastaza_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91325",
+            "filename": "Montalvo_NDB_EC",
+            "ident": "MTL",
+            "name": "Montalvo",
+            "type": "NDB",
+            "frequency_khz": "331",
+            "latitude_deg": "-2.069999933242798",
+            "longitude_deg": "-76.96890258789062",
+            "elevation_ft": "960",
+            "iso_country": "EC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.215",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SEMO"
+        }
+    ]
+}

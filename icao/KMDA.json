@@ -1,0 +1,102 @@
+{
+    "id": "20485",
+    "ident": "KMDA",
+    "type": "heliport",
+    "name": "Martindale Army Heliport",
+    "latitude_deg": "29.4312992096",
+    "longitude_deg": "-98.3777999878",
+    "elevation_ft": "674",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "San Antonio",
+    "scheduled_service": "no",
+    "gps_code": "KMDA",
+    "iata_code": "MDA",
+    "local_code": "MDA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245834",
+            "airport_ref": "20485",
+            "airport_ident": "KMDA",
+            "length_ft": "3000",
+            "width_ft": "700",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "13",
+            "le_latitude_deg": "29.4349",
+            "le_longitude_deg": "-98.3826",
+            "le_elevation_ft": "",
+            "le_heading_degT": "134",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "29.4292",
+            "he_longitude_deg": "-98.3758",
+            "he_elevation_ft": "",
+            "he_heading_degT": "314",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245835",
+            "airport_ref": "20485",
+            "airport_ident": "KMDA",
+            "length_ft": "3000",
+            "width_ft": "700",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "29.4353",
+            "le_longitude_deg": "-98.3778",
+            "le_elevation_ft": "674",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "29.4272",
+            "he_longitude_deg": "-98.3778",
+            "he_elevation_ft": "674",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71157",
+            "airport_ref": "20485",
+            "airport_ident": "KMDA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "71158",
+            "airport_ref": "20485",
+            "airport_ident": "KMDA",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "36.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

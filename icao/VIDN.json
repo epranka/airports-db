@@ -1,0 +1,104 @@
+{
+    "id": "26554",
+    "ident": "VIDN",
+    "type": "medium_airport",
+    "name": "Dehradun Airport",
+    "latitude_deg": "30.189699",
+    "longitude_deg": "78.180298",
+    "elevation_ft": "1831",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-UL",
+    "municipality": "Dehradun",
+    "scheduled_service": "yes",
+    "gps_code": "VIDN",
+    "iata_code": "DED",
+    "local_code": "",
+    "home_link": "http://aai.aero/allAirports/dehradun_generalinfo.jsp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jolly_Grant_Airport",
+    "keywords": "Jolly Grant Airport",
+    "runways": [
+        {
+            "id": "236698",
+            "airport_ref": "26554",
+            "airport_ident": "VIDN",
+            "length_ft": "7000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "30.1888",
+            "le_longitude_deg": "78.1745",
+            "le_elevation_ft": "1772",
+            "le_heading_degT": "79.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "30.1906",
+            "he_longitude_deg": "78.186",
+            "he_elevation_ft": "1831",
+            "he_heading_degT": "259.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53881",
+            "airport_ref": "26554",
+            "airport_ident": "VIDN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "308640",
+            "airport_ref": "26554",
+            "airport_ident": "VIDN",
+            "type": "VOR",
+            "description": "DDN",
+            "frequency_mhz": "112.6"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304196",
+        "code": "IN-UL",
+        "local_code": "UL",
+        "name": "Uttaranchal",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uttaranchal",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89478",
+            "filename": "Dehradun_NDB_IN",
+            "ident": "JG",
+            "name": "Dehradun",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "30.189899444580078",
+            "longitude_deg": "78.17440032958984",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.56",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VIDN"
+        }
+    ]
+}

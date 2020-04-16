@@ -1,0 +1,118 @@
+{
+    "id": "3370",
+    "ident": "KAKR",
+    "type": "medium_airport",
+    "name": "Akron Fulton International Airport",
+    "latitude_deg": "41.0374984741",
+    "longitude_deg": "-81.4669036865",
+    "elevation_ft": "1067",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Akron",
+    "scheduled_service": "no",
+    "gps_code": "KAKR",
+    "iata_code": "AKC",
+    "local_code": "AKR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Akron_Fulton_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242287",
+            "airport_ref": "3370",
+            "airport_ident": "KAKR",
+            "length_ft": "2336",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "41.0345",
+            "le_longitude_deg": "-81.4649",
+            "le_elevation_ft": "1044",
+            "le_heading_degT": "0.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "41.041",
+            "he_longitude_deg": "-81.4648",
+            "he_elevation_ft": "1043",
+            "he_heading_degT": "180.9",
+            "he_displaced_threshold_ft": "190"
+        },
+        {
+            "id": "242288",
+            "airport_ref": "3370",
+            "airport_ident": "KAKR",
+            "length_ft": "6337",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "41.0333",
+            "le_longitude_deg": "-81.4778",
+            "le_elevation_ft": "1060",
+            "le_heading_degT": "62",
+            "le_displaced_threshold_ft": "369",
+            "he_ident": "25",
+            "he_latitude_deg": "41.0415",
+            "he_longitude_deg": "-81.4576",
+            "he_elevation_ft": "1054",
+            "he_heading_degT": "242",
+            "he_displaced_threshold_ft": "849"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63617",
+            "airport_ref": "3370",
+            "airport_ident": "KAKR",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "63618",
+            "airport_ref": "3370",
+            "airport_ident": "KAKR",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "126.825"
+        },
+        {
+            "id": "63619",
+            "airport_ref": "3370",
+            "airport_ident": "KAKR",
+            "type": "CTAF",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.075"
+        },
+        {
+            "id": "63620",
+            "airport_ref": "3370",
+            "airport_ident": "KAKR",
+            "type": "RDO",
+            "description": "CLEVELAND RDO",
+            "frequency_mhz": "114.4"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

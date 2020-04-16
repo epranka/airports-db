@@ -1,0 +1,80 @@
+{
+    "id": "4086",
+    "ident": "LFCR",
+    "type": "medium_airport",
+    "name": "Rodez-Marcillac Airport",
+    "latitude_deg": "44.407901763916016",
+    "longitude_deg": "2.4826700687408447",
+    "elevation_ft": "1910",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Rodez/Marcillac",
+    "scheduled_service": "yes",
+    "gps_code": "LFCR",
+    "iata_code": "RDZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rodez-Marcillac_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235858",
+            "airport_ref": "4086",
+            "airport_ident": "LFCR",
+            "length_ft": "6693",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "44.4137",
+            "le_longitude_deg": "2.47266",
+            "le_elevation_ft": "1910",
+            "le_heading_degT": "130",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "44.4021",
+            "he_longitude_deg": "2.49264",
+            "he_elevation_ft": "1895",
+            "he_heading_degT": "310",
+            "he_displaced_threshold_ft": "164"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52259",
+            "airport_ref": "4086",
+            "airport_ident": "LFCR",
+            "type": "APP",
+            "description": "RODEZ APP",
+            "frequency_mhz": "125.375"
+        },
+        {
+            "id": "52260",
+            "airport_ref": "4086",
+            "airport_ident": "LFCR",
+            "type": "TWR",
+            "description": "RODEZ TWR",
+            "frequency_mhz": "118.125"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306341",
+        "code": "FR-OCC",
+        "local_code": "OCC",
+        "name": "Occitanie",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occitanie",
+        "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
+    }
+}

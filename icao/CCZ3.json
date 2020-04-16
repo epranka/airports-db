@@ -1,0 +1,80 @@
+{
+    "id": "794",
+    "ident": "CCZ3",
+    "type": "small_airport",
+    "name": "Clarenville Airport",
+    "latitude_deg": "48.27470016479492",
+    "longitude_deg": "-53.92390060424805",
+    "elevation_ft": "199",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NL",
+    "municipality": "Clarenville",
+    "scheduled_service": "no",
+    "gps_code": "CCZ3",
+    "iata_code": "",
+    "local_code": "CCZ3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clarenville_Airport",
+    "keywords": "CZ3",
+    "runways": [
+        {
+            "id": "234600",
+            "airport_ref": "794",
+            "airport_ident": "CCZ3",
+            "length_ft": "3933",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "48.2715",
+            "le_longitude_deg": "-53.9304",
+            "le_elevation_ft": "171",
+            "le_heading_degT": "54",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "48.2779",
+            "he_longitude_deg": "-53.9174",
+            "he_elevation_ft": "199",
+            "he_heading_degT": "234",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50121",
+            "airport_ref": "794",
+            "airport_ident": "CCZ3",
+            "type": "A/D",
+            "description": "GANDER CNTR",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "50122",
+            "airport_ref": "794",
+            "airport_ident": "CCZ3",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303298",
+        "code": "CA-NL",
+        "local_code": "NL",
+        "name": "Newfoundland and Labrador",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
+        "keywords": ""
+    }
+}

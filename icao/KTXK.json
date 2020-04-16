@@ -1,0 +1,158 @@
+{
+    "id": "3936",
+    "ident": "KTXK",
+    "type": "medium_airport",
+    "name": "Texarkana Regional Webb Field",
+    "latitude_deg": "33.45370101928711",
+    "longitude_deg": "-93.99099731445312",
+    "elevation_ft": "390",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Texarkana",
+    "scheduled_service": "yes",
+    "gps_code": "KTXK",
+    "iata_code": "TXK",
+    "local_code": "TXK",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Texarkana_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244682",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "length_ft": "6601",
+            "width_ft": "144",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "33.4463",
+            "le_longitude_deg": "-94.0014",
+            "le_elevation_ft": "338",
+            "le_heading_degT": "46",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "33.4591",
+            "he_longitude_deg": "-93.9861",
+            "he_elevation_ft": "384",
+            "he_heading_degT": "226",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244683",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "length_ft": "5200",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "33.4601",
+            "le_longitude_deg": "-93.9937",
+            "le_elevation_ft": "362",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "641",
+            "he_ident": "31",
+            "he_latitude_deg": "33.45",
+            "he_longitude_deg": "-93.9816",
+            "he_elevation_ft": "386",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68634",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "68635",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "123.925"
+        },
+        {
+            "id": "68636",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.7"
+        },
+        {
+            "id": "68637",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "68638",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "type": "RDO",
+            "description": "JONESBORO RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "68639",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94721",
+            "filename": "Tecco_NDB_US",
+            "ident": "TX",
+            "name": "Tecco",
+            "type": "NDB",
+            "frequency_khz": "234",
+            "latitude_deg": "33.52410125732422",
+            "longitude_deg": "-93.90599822998047",
+            "elevation_ft": "260",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.478",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KTXK"
+        }
+    ]
+}

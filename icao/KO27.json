@@ -1,0 +1,80 @@
+{
+    "id": "20682",
+    "ident": "KO27",
+    "type": "small_airport",
+    "name": "Oakdale Airport",
+    "latitude_deg": "37.75630188",
+    "longitude_deg": "-120.8000031",
+    "elevation_ft": "237",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Oakdale",
+    "scheduled_service": "no",
+    "gps_code": "O27",
+    "iata_code": "ODC",
+    "local_code": "O27",
+    "home_link": "http://www.oakdalegov.com/#!oakdale-municipal-airport/c1tnd",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Oakdale_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245787",
+            "airport_ref": "20682",
+            "airport_ident": "KO27",
+            "length_ft": "3020",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "37.7579",
+            "le_longitude_deg": "-120.805",
+            "le_elevation_ft": "221",
+            "le_heading_degT": "111.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "37.7548",
+            "he_longitude_deg": "-120.795",
+            "he_elevation_ft": "234",
+            "he_heading_degT": "291.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71060",
+            "airport_ref": "20682",
+            "airport_ident": "KO27",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "71061",
+            "airport_ref": "20682",
+            "airport_ident": "KO27",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

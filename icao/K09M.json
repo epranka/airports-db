@@ -1,0 +1,72 @@
+{
+    "id": "18340",
+    "ident": "K09M",
+    "type": "small_airport",
+    "name": "Charleston Municipal Airport",
+    "latitude_deg": "33.99150085449219",
+    "longitude_deg": "-90.0781021118164",
+    "elevation_ft": "175",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Charleston",
+    "scheduled_service": "no",
+    "gps_code": "K09M",
+    "iata_code": "",
+    "local_code": "09M",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244207",
+            "airport_ref": "18340",
+            "airport_ident": "K09M",
+            "length_ft": "3000",
+            "width_ft": "50",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "33.9957",
+            "le_longitude_deg": "-90.0755",
+            "le_elevation_ft": "",
+            "le_heading_degT": "178",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "33.9874",
+            "he_longitude_deg": "-90.0752",
+            "he_elevation_ft": "",
+            "he_heading_degT": "296.8",
+            "he_displaced_threshold_ft": "994"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67614",
+            "airport_ref": "18340",
+            "airport_ident": "K09M",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    }
+}

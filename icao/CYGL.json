@@ -1,0 +1,142 @@
+{
+    "id": "1744",
+    "ident": "CYGL",
+    "type": "medium_airport",
+    "name": "La Grande Rivière Airport",
+    "latitude_deg": "53.625301361083984",
+    "longitude_deg": "-77.7042007446289",
+    "elevation_ft": "639",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "La Grande Rivière",
+    "scheduled_service": "yes",
+    "gps_code": "CYGL",
+    "iata_code": "YGL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/La_Grande_Rivi%C3%A8re_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234833",
+            "airport_ref": "1744",
+            "airport_ident": "CYGL",
+            "length_ft": "6500",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "53.6288",
+            "le_longitude_deg": "-77.7179",
+            "le_elevation_ft": "595",
+            "le_heading_degT": "113",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "53.6219",
+            "he_longitude_deg": "-77.6904",
+            "he_elevation_ft": "639",
+            "he_heading_degT": "293",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50550",
+            "airport_ref": "1744",
+            "airport_ident": "CYGL",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50551",
+            "airport_ref": "1744",
+            "airport_ident": "CYGL",
+            "type": "CNTR",
+            "description": "MONTREAL CNTR",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "50552",
+            "airport_ref": "1744",
+            "airport_ident": "CYGL",
+            "type": "RCO",
+            "description": "QUEBEC RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "50553",
+            "airport_ref": "1744",
+            "airport_ident": "CYGL",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    },
+    "navaids": [
+        {
+            "id": "88434",
+            "filename": "La_Grande_Riviere_NDB_CA",
+            "ident": "GL",
+            "name": "La Grande Riviere",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "53.630401611328125",
+            "longitude_deg": "-77.70390319824219",
+            "elevation_ft": "638",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.523",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYGL"
+        },
+        {
+            "id": "95676",
+            "filename": "La_Grande_Riviere_VOR-DME_CA",
+            "ident": "YGL",
+            "name": "La Grande Riviere",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "53.6255989074707",
+            "longitude_deg": "-77.71640014648438",
+            "elevation_ft": "624",
+            "iso_country": "CA",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-18.001",
+            "magnetic_variation_deg": "-16.515",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYGL"
+        }
+    ]
+}

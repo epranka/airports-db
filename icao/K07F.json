@@ -1,0 +1,102 @@
+{
+    "id": "18328",
+    "ident": "K07F",
+    "type": "small_airport",
+    "name": "Gladewater Municipal Airport",
+    "latitude_deg": "32.528801",
+    "longitude_deg": "-94.971702",
+    "elevation_ft": "296",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Gladewater",
+    "scheduled_service": "no",
+    "gps_code": "K07F",
+    "iata_code": "",
+    "local_code": "07F",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240923",
+            "airport_ref": "18328",
+            "airport_ident": "K07F",
+            "length_ft": "3301",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "32.5332",
+            "le_longitude_deg": "-94.9753",
+            "le_elevation_ft": "285",
+            "le_heading_degT": "143",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "32.526",
+            "he_longitude_deg": "-94.9688",
+            "he_elevation_ft": "296",
+            "he_heading_degT": "323",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240924",
+            "airport_ref": "18328",
+            "airport_ident": "K07F",
+            "length_ft": "2301",
+            "width_ft": "50",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "32.5309",
+            "le_longitude_deg": "-94.9713",
+            "le_elevation_ft": "292",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "32.5246",
+            "he_longitude_deg": "-94.9712",
+            "he_elevation_ft": "294",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60777",
+            "airport_ref": "18328",
+            "airport_ident": "K07F",
+            "type": "A/D",
+            "description": "LONGVIEW APP/DEP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "60778",
+            "airport_ref": "18328",
+            "airport_ident": "K07F",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

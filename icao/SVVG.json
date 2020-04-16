@@ -1,0 +1,96 @@
+{
+    "id": "6335",
+    "ident": "SVVG",
+    "type": "medium_airport",
+    "name": "Juan Pablo Pérez Alfonso Airport",
+    "latitude_deg": "8.624139",
+    "longitude_deg": "-71.672668",
+    "elevation_ft": "250",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-L",
+    "municipality": "El Vigía",
+    "scheduled_service": "yes",
+    "gps_code": "SVVG",
+    "iata_code": "VIG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Juan_Pablo_P%C3%A9rez_Alfonzo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246128",
+            "airport_ref": "6335",
+            "airport_ident": "SVVG",
+            "length_ft": "10645",
+            "width_ft": "145",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "8.62204",
+            "le_longitude_deg": "-71.6874",
+            "le_elevation_ft": "241",
+            "le_heading_degT": "81.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "8.62616",
+            "he_longitude_deg": "-71.6582",
+            "he_elevation_ft": "267",
+            "he_heading_degT": "261.9",
+            "he_displaced_threshold_ft": "1628"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71717",
+            "airport_ref": "6335",
+            "airport_ident": "SVVG",
+            "type": "TWR",
+            "description": "VIGIA TWR",
+            "frequency_mhz": "118.75"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306176",
+        "code": "VE-L",
+        "local_code": "L",
+        "name": "Merida",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Merida",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87868",
+            "filename": "El_Vigia_NDB_VE",
+            "ident": "EVG",
+            "name": "El Vigia",
+            "type": "NDB",
+            "frequency_khz": "393",
+            "latitude_deg": "8.6225004196167",
+            "longitude_deg": "-71.66449737548828",
+            "elevation_ft": "250",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.565",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SVVG"
+        }
+    ]
+}

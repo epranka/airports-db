@@ -1,0 +1,104 @@
+{
+    "id": "5217",
+    "ident": "OJJR",
+    "type": "closed",
+    "name": "Jerusalem Airport",
+    "latitude_deg": "31.8647",
+    "longitude_deg": "35.2192",
+    "elevation_ft": "2485",
+    "continent": "AS",
+    "iso_country": "PS",
+    "iso_region": "PS-JEM",
+    "municipality": "Jerusalem",
+    "scheduled_service": "no",
+    "gps_code": "LLJR",
+    "iata_code": "JRS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Atarot_Airport",
+    "keywords": "Atarot Airport, LLJR, OJJR",
+    "runways": [
+        {
+            "id": "246217",
+            "airport_ref": "5217",
+            "airport_ident": "OJJR",
+            "length_ft": "6447",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "31.8704",
+            "le_longitude_deg": "35.2083",
+            "le_elevation_ft": "2485",
+            "le_heading_degT": "116",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "31.8628",
+            "he_longitude_deg": "35.227",
+            "he_elevation_ft": "2464",
+            "he_heading_degT": "296",
+            "he_displaced_threshold_ft": "404"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71799",
+            "airport_ref": "5217",
+            "airport_ident": "OJJR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "71800",
+            "airport_ref": "5217",
+            "airport_ident": "OJJR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302658",
+        "code": "PS",
+        "name": "Palestinian Territory",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Palestinian_Territory",
+        "keywords": ""
+    },
+    "region": {
+        "id": "316600",
+        "code": "PS-JEM",
+        "local_code": "JEM",
+        "name": "Jerusalem Governorate",
+        "continent": "AS",
+        "iso_country": "PS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jerusalem_Governorate",
+        "keywords": "محافظة القدس"
+    },
+    "navaids": [
+        {
+            "id": "89325",
+            "filename": "Jerusalem_NDB_PS",
+            "ident": "IRM",
+            "name": "Jerusalem",
+            "type": "NDB",
+            "frequency_khz": "336",
+            "latitude_deg": "31.863399505615234",
+            "longitude_deg": "35.216400146484375",
+            "elevation_ft": "2485",
+            "iso_country": "PS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.409",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "OJJR"
+        }
+    ]
+}

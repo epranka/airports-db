@@ -1,0 +1,110 @@
+{
+    "id": "19334",
+    "ident": "KAWO",
+    "type": "small_airport",
+    "name": "Arlington Municipal Airport",
+    "latitude_deg": "48.16070175",
+    "longitude_deg": "-122.1589966",
+    "elevation_ft": "142",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Arlington",
+    "scheduled_service": "no",
+    "gps_code": "KAWO",
+    "iata_code": "",
+    "local_code": "AWO",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Arlington_Municipal_Airport_(Washington)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244760",
+            "airport_ref": "19334",
+            "airport_ident": "KAWO",
+            "length_ft": "3500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "48.1617",
+            "le_longitude_deg": "-122.169",
+            "le_elevation_ft": "129",
+            "le_heading_degT": "127",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "48.1559",
+            "he_longitude_deg": "-122.157",
+            "he_elevation_ft": "124",
+            "he_heading_degT": "307",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244761",
+            "airport_ref": "19334",
+            "airport_ident": "KAWO",
+            "length_ft": "5333",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "48.1693",
+            "le_longitude_deg": "-122.157",
+            "le_elevation_ft": "137",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "48.1547",
+            "he_longitude_deg": "-122.156",
+            "he_elevation_ft": "123",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68813",
+            "airport_ref": "19334",
+            "airport_ident": "KAWO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.625"
+        },
+        {
+            "id": "68814",
+            "airport_ref": "19334",
+            "airport_ident": "KAWO",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "68815",
+            "airport_ref": "19334",
+            "airport_ident": "KAWO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    }
+}

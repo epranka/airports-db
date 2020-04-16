@@ -1,0 +1,118 @@
+{
+    "id": "21185",
+    "ident": "KTDZ",
+    "type": "small_airport",
+    "name": "Toledo Executive Airport",
+    "latitude_deg": "41.56489944",
+    "longitude_deg": "-83.4822998",
+    "elevation_ft": "623",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Toledo",
+    "scheduled_service": "no",
+    "gps_code": "KTDZ",
+    "iata_code": "TDZ",
+    "local_code": "TDZ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Metcalf_Field",
+    "keywords": "Metcalf Field",
+    "runways": [
+        {
+            "id": "243173",
+            "airport_ref": "21185",
+            "airport_ident": "KTDZ",
+            "length_ft": "3664",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "41.56",
+            "le_longitude_deg": "-83.4861",
+            "le_elevation_ft": "622",
+            "le_heading_degT": "39",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "41.5678",
+            "he_longitude_deg": "-83.4778",
+            "he_elevation_ft": "620",
+            "he_heading_degT": "219",
+            "he_displaced_threshold_ft": "90"
+        },
+        {
+            "id": "243174",
+            "airport_ref": "21185",
+            "airport_ident": "KTDZ",
+            "length_ft": "5830",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "41.571",
+            "le_longitude_deg": "-83.4901",
+            "le_elevation_ft": "620",
+            "le_heading_degT": "134",
+            "le_displaced_threshold_ft": "580",
+            "he_ident": "32",
+            "he_latitude_deg": "41.5599",
+            "he_longitude_deg": "-83.4748",
+            "he_elevation_ft": "621",
+            "he_heading_degT": "314",
+            "he_displaced_threshold_ft": "580"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65420",
+            "airport_ref": "21185",
+            "airport_ident": "KTDZ",
+            "type": "A/D",
+            "description": "TOLEDO APP/DEP",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "65421",
+            "airport_ref": "21185",
+            "airport_ident": "KTDZ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.575"
+        },
+        {
+            "id": "65422",
+            "airport_ref": "21185",
+            "airport_ident": "KTDZ",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "65423",
+            "airport_ref": "21185",
+            "airport_ident": "KTDZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

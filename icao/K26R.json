@@ -1,0 +1,80 @@
+{
+    "id": "18553",
+    "ident": "K26R",
+    "type": "small_airport",
+    "name": "Jackson County Airport",
+    "latitude_deg": "29.000999450683594",
+    "longitude_deg": "-96.58200073242188",
+    "elevation_ft": "61",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Edna",
+    "scheduled_service": "no",
+    "gps_code": "K26R",
+    "iata_code": "",
+    "local_code": "26R",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242383",
+            "airport_ref": "18553",
+            "airport_ident": "K26R",
+            "length_ft": "3393",
+            "width_ft": "70",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "29.005",
+            "le_longitude_deg": "-96.5846",
+            "le_elevation_ft": "61",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "28.997",
+            "he_longitude_deg": "-96.5793",
+            "he_elevation_ft": "61",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": "400"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63824",
+            "airport_ref": "18553",
+            "airport_ident": "K26R",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "63825",
+            "airport_ref": "18553",
+            "airport_ident": "K26R",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

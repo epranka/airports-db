@@ -1,0 +1,126 @@
+{
+    "id": "21411",
+    "ident": "KXNO",
+    "type": "small_airport",
+    "name": "North Air Force Auxillary Airfield",
+    "latitude_deg": "33.609355",
+    "longitude_deg": "-81.08328",
+    "elevation_ft": "321",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "North",
+    "scheduled_service": "no",
+    "gps_code": "KXNO",
+    "iata_code": "",
+    "local_code": "XNO",
+    "home_link": "http://www.jbcharleston.jb.mil/About-Us/Fact-Sheets/Article/233010/north-auxiliary-airfield/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/North_Auxiliary_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241163",
+            "airport_ref": "21411",
+            "airport_ident": "KXNO",
+            "length_ft": "3500",
+            "width_ft": "90",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "33.6074",
+            "le_longitude_deg": "-81.0773",
+            "le_elevation_ft": "",
+            "le_heading_degT": "43.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "33.6143",
+            "he_longitude_deg": "-81.0693",
+            "he_elevation_ft": "",
+            "he_heading_degT": "223.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241164",
+            "airport_ref": "21411",
+            "airport_ident": "KXNO",
+            "length_ft": "10000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "33.6009",
+            "le_longitude_deg": "-81.0971",
+            "le_elevation_ft": "",
+            "le_heading_degT": "54",
+            "le_displaced_threshold_ft": "1000",
+            "he_ident": "24",
+            "he_latitude_deg": "33.6172",
+            "he_longitude_deg": "-81.0707",
+            "he_elevation_ft": "",
+            "he_heading_degT": "234",
+            "he_displaced_threshold_ft": "1000"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61278",
+            "airport_ref": "21411",
+            "airport_ident": "KXNO",
+            "type": "A/D",
+            "description": "COLUMBIA APP/DEP",
+            "frequency_mhz": "124.15"
+        },
+        {
+            "id": "61279",
+            "airport_ref": "21411",
+            "airport_ident": "KXNO",
+            "type": "CLD",
+            "description": "COLUMBIA CLNC DEL",
+            "frequency_mhz": "120.475"
+        },
+        {
+            "id": "61280",
+            "airport_ref": "21411",
+            "airport_ident": "KXNO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "61281",
+            "airport_ref": "21411",
+            "airport_ident": "KXNO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "61282",
+            "airport_ref": "21411",
+            "airport_ident": "KXNO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.15"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306116",
+        "code": "US-SC",
+        "local_code": "SC",
+        "name": "South Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
+        "keywords": ""
+    }
+}

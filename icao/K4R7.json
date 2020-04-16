@@ -1,0 +1,80 @@
+{
+    "id": "18847",
+    "ident": "K4R7",
+    "type": "small_airport",
+    "name": "Eunice Airport",
+    "latitude_deg": "30.466299057007",
+    "longitude_deg": "-92.423797607422",
+    "elevation_ft": "42",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Eunice",
+    "scheduled_service": "no",
+    "gps_code": "4R7",
+    "iata_code": "UCE",
+    "local_code": "4R7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241564",
+            "airport_ref": "18847",
+            "airport_ident": "K4R7",
+            "length_ft": "5001",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "30.473",
+            "le_longitude_deg": "-92.4257",
+            "le_elevation_ft": "39",
+            "le_heading_degT": "166",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "30.4596",
+            "he_longitude_deg": "-92.4219",
+            "he_elevation_ft": "42",
+            "he_heading_degT": "346",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62127",
+            "airport_ref": "18847",
+            "airport_ident": "K4R7",
+            "type": "A/D",
+            "description": "LAFAYETTE APP/DEP",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "62128",
+            "airport_ref": "18847",
+            "airport_ident": "K4R7",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

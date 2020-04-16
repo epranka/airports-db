@@ -1,0 +1,142 @@
+{
+    "id": "4242",
+    "ident": "LFTW",
+    "type": "medium_airport",
+    "name": "Nîmes-Arles-Camargue Airport",
+    "latitude_deg": "43.75740051269531",
+    "longitude_deg": "4.4163498878479",
+    "elevation_ft": "309",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Nîmes/Garons",
+    "scheduled_service": "yes",
+    "gps_code": "LFTW",
+    "iata_code": "FNI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/N%C3%AEmes-Arles-Camargue_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235967",
+            "airport_ref": "4242",
+            "airport_ident": "LFTW",
+            "length_ft": "8005",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "43.7684",
+            "le_longitude_deg": "4.41556",
+            "le_elevation_ft": "301",
+            "le_heading_degT": "177",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "43.7464",
+            "he_longitude_deg": "4.41714",
+            "he_elevation_ft": "309",
+            "he_heading_degT": "357",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52483",
+            "airport_ref": "4242",
+            "airport_ident": "LFTW",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "52484",
+            "airport_ref": "4242",
+            "airport_ident": "LFTW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "129.35"
+        },
+        {
+            "id": "52485",
+            "airport_ref": "4242",
+            "airport_ident": "LFTW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "52486",
+            "airport_ref": "4242",
+            "airport_ident": "LFTW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306341",
+        "code": "FR-OCC",
+        "local_code": "OCC",
+        "name": "Occitanie",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occitanie",
+        "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
+    },
+    "navaids": [
+        {
+            "id": "91530",
+            "filename": "Nimes_Garons_NDB_FR",
+            "ident": "NG",
+            "name": "Nimes/Garons",
+            "type": "NDB",
+            "frequency_khz": "354",
+            "latitude_deg": "43.857200622558594",
+            "longitude_deg": "4.406280040740967",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.061",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LFTW"
+        },
+        {
+            "id": "91573",
+            "filename": "Nimes_TACAN_FR",
+            "ident": "NIM",
+            "name": "Nimes",
+            "type": "TACAN",
+            "frequency_khz": "111600",
+            "latitude_deg": "43.74580001831055",
+            "longitude_deg": "4.419559955596924",
+            "elevation_ft": "309",
+            "iso_country": "FR",
+            "dme_frequency_khz": "111600",
+            "dme_channel": "053X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.056",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFTW"
+        }
+    ]
+}

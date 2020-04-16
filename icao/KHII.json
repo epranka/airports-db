@@ -1,0 +1,88 @@
+{
+    "id": "20053",
+    "ident": "KHII",
+    "type": "small_airport",
+    "name": "Lake Havasu City Airport",
+    "latitude_deg": "34.571098",
+    "longitude_deg": "-114.358002",
+    "elevation_ft": "783",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Lake Havasu City",
+    "scheduled_service": "no",
+    "gps_code": "KHII",
+    "iata_code": "HII",
+    "local_code": "HII",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lake_Havasu_City_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242426",
+            "airport_ref": "20053",
+            "airport_ident": "KHII",
+            "length_ft": "8001",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "34.5806",
+            "le_longitude_deg": "-114.365",
+            "le_elevation_ft": "746",
+            "le_heading_degT": "149.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "34.5616",
+            "he_longitude_deg": "-114.352",
+            "he_elevation_ft": "783",
+            "he_heading_degT": "329.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63906",
+            "airport_ref": "20053",
+            "airport_ident": "KHII",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "63907",
+            "airport_ref": "20053",
+            "airport_ident": "KHII",
+            "type": "CNTR",
+            "description": "LOS ANGELES CNTR",
+            "frequency_mhz": "134.65"
+        },
+        {
+            "id": "63908",
+            "airport_ref": "20053",
+            "airport_ident": "KHII",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

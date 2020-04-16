@@ -1,0 +1,88 @@
+{
+    "id": "20345",
+    "ident": "KLIC",
+    "type": "small_airport",
+    "name": "Limon Municipal Airport",
+    "latitude_deg": "39.274799346900004",
+    "longitude_deg": "-103.666000366",
+    "elevation_ft": "5374",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Limon",
+    "scheduled_service": "no",
+    "gps_code": "KLIC",
+    "iata_code": "LIC",
+    "local_code": "LIC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244329",
+            "airport_ref": "20345",
+            "airport_ident": "KLIC",
+            "length_ft": "4700",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "39.2811",
+            "le_longitude_deg": "-103.667",
+            "le_elevation_ft": "5374",
+            "le_heading_degT": "169.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "39.2684",
+            "he_longitude_deg": "-103.664",
+            "he_elevation_ft": "5349",
+            "he_heading_degT": "349.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67851",
+            "airport_ref": "20345",
+            "airport_ident": "KLIC",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "67852",
+            "airport_ref": "20345",
+            "airport_ident": "KLIC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "67853",
+            "airport_ref": "20345",
+            "airport_ident": "KLIC",
+            "type": "FSS",
+            "description": "DENVER RDO",
+            "frequency_mhz": "122.475"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

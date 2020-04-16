@@ -1,0 +1,80 @@
+{
+    "id": "2280",
+    "ident": "EDUF",
+    "type": "small_airport",
+    "name": "Falkenberg-Lönnewitz Airport",
+    "latitude_deg": "51.54777908325195",
+    "longitude_deg": "13.228055953979492",
+    "elevation_ft": "312",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BR",
+    "municipality": "Uebigau-Wahrenbrück",
+    "scheduled_service": "no",
+    "gps_code": "EDUF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236237",
+            "airport_ref": "2280",
+            "airport_ident": "EDUF",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "51.547",
+            "le_longitude_deg": "13.2205",
+            "le_elevation_ft": "284",
+            "le_heading_degT": "80",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "51.5489",
+            "he_longitude_deg": "13.2376",
+            "he_elevation_ft": "284",
+            "he_heading_degT": "260",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53050",
+            "airport_ref": "2280",
+            "airport_ident": "EDUF",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "130.125"
+        },
+        {
+            "id": "53051",
+            "airport_ref": "2280",
+            "airport_ident": "EDUF",
+            "type": "INFO",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "125.8"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303547",
+        "code": "DE-BR",
+        "local_code": "BR",
+        "name": "Brandenburg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
+        "keywords": ""
+    }
+}

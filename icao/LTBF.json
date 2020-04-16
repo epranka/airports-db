@@ -1,0 +1,120 @@
+{
+    "id": "4529",
+    "ident": "LTBF",
+    "type": "medium_airport",
+    "name": "Balıkesir Merkez Airport",
+    "latitude_deg": "39.619300842285156",
+    "longitude_deg": "27.926000595092773",
+    "elevation_ft": "340",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-10",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "LTBF",
+    "iata_code": "BZI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bal%C4%B1kesir_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239250",
+            "airport_ref": "4529",
+            "airport_ident": "LTBF",
+            "length_ft": "9810",
+            "width_ft": "144",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "39.6327",
+            "le_longitude_deg": "27.9266",
+            "le_elevation_ft": "340",
+            "le_heading_degT": "182.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "39.6058",
+            "he_longitude_deg": "27.9253",
+            "he_elevation_ft": "332",
+            "he_heading_degT": "2.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57856",
+            "airport_ref": "4529",
+            "airport_ident": "LTBF",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "57857",
+            "airport_ref": "4529",
+            "airport_ident": "LTBF",
+            "type": "ATIS",
+            "description": "INFO",
+            "frequency_mhz": "23.36"
+        },
+        {
+            "id": "57858",
+            "airport_ref": "4529",
+            "airport_ident": "LTBF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "25.125"
+        },
+        {
+            "id": "57859",
+            "airport_ref": "4529",
+            "airport_ident": "LTBF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305845",
+        "code": "TR-10",
+        "local_code": "10",
+        "name": "Balıkesir Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balıkesir_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86315",
+            "filename": "Balikesir_TACAN_TR",
+            "ident": "BRI",
+            "name": "Balikesir",
+            "type": "TACAN",
+            "frequency_khz": "110600",
+            "latitude_deg": "39.60060119628906",
+            "longitude_deg": "27.929500579833984",
+            "elevation_ft": "331",
+            "iso_country": "TR",
+            "dme_frequency_khz": "110600",
+            "dme_channel": "043X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.578",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTBF"
+        }
+    ]
+}

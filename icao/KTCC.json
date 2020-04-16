@@ -1,0 +1,142 @@
+{
+    "id": "3916",
+    "ident": "KTCC",
+    "type": "medium_airport",
+    "name": "Tucumcari Municipal Airport",
+    "latitude_deg": "35.182800293",
+    "longitude_deg": "-103.602996826",
+    "elevation_ft": "4065",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Tucumcari",
+    "scheduled_service": "no",
+    "gps_code": "KTCC",
+    "iata_code": "TCC",
+    "local_code": "TCC",
+    "home_link": "http://www.cityoftucumcari.com/airport.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tucumcari_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244706",
+            "airport_ref": "3916",
+            "airport_ident": "KTCC",
+            "length_ft": "7102",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "35.1749",
+            "le_longitude_deg": "-103.611",
+            "le_elevation_ft": "4040",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "35.1887",
+            "he_longitude_deg": "-103.594",
+            "he_elevation_ft": "4047",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244707",
+            "airport_ref": "3916",
+            "airport_ident": "KTCC",
+            "length_ft": "4599",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "35.1843",
+            "le_longitude_deg": "-103.612",
+            "le_elevation_ft": "4065",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "35.1843",
+            "he_longitude_deg": "-103.596",
+            "he_elevation_ft": "4036",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68678",
+            "airport_ref": "3916",
+            "airport_ident": "KTCC",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "68679",
+            "airport_ref": "3916",
+            "airport_ident": "KTCC",
+            "type": "CNTR",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "68680",
+            "airport_ref": "3916",
+            "airport_ident": "KTCC",
+            "type": "RDO",
+            "description": "ALBUQUERQUE RDO",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "68681",
+            "airport_ref": "3916",
+            "airport_ident": "KTCC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94252",
+            "filename": "Tucumcari_VORTAC_US",
+            "ident": "TCC",
+            "name": "Tucumcari",
+            "type": "VORTAC",
+            "frequency_khz": "113600",
+            "latitude_deg": "35.182098388671875",
+            "longitude_deg": "-103.5989990234375",
+            "elevation_ft": "4070",
+            "iso_country": "US",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.001",
+            "magnetic_variation_deg": "8.286",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KTCC"
+        }
+    ]
+}

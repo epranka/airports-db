@@ -1,0 +1,104 @@
+{
+    "id": "4213",
+    "ident": "LFRI",
+    "type": "medium_airport",
+    "name": "La Roche-sur-Yon Airport",
+    "latitude_deg": "46.701900482177734",
+    "longitude_deg": "-1.3786300420761108",
+    "elevation_ft": "299",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-PDL",
+    "municipality": "La Roche-sur-Yon/Les Ajoncs",
+    "scheduled_service": "no",
+    "gps_code": "LFRI",
+    "iata_code": "EDM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235975",
+            "airport_ref": "4213",
+            "airport_ident": "LFRI",
+            "length_ft": "5085",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "46.7033",
+            "le_longitude_deg": "-1.38856",
+            "le_elevation_ft": "288",
+            "le_heading_degT": "102",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "46.7006",
+            "he_longitude_deg": "-1.36869",
+            "he_elevation_ft": "291",
+            "he_heading_degT": "282",
+            "he_displaced_threshold_ft": "951"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52497",
+            "airport_ref": "4213",
+            "airport_ident": "LFRI",
+            "type": "AFIS",
+            "description": "LA ROCHE INFO",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "52498",
+            "airport_ref": "4213",
+            "airport_ident": "LFRI",
+            "type": "APP",
+            "description": "NANTES APP",
+            "frequency_mhz": "130.275"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306336",
+        "code": "FR-PDL",
+        "local_code": "PDL",
+        "name": "Pays-de-la-Loire",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pays-de-la-Loire",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95758",
+            "filename": "La_Roche_Sur_Yon_NDB_FR",
+            "ident": "YN",
+            "name": "La Roche Sur Yon",
+            "type": "NDB",
+            "frequency_khz": "334",
+            "latitude_deg": "46.6890983581543",
+            "longitude_deg": "-1.2863099575042725",
+            "elevation_ft": "302",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.029",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LFRI"
+        }
+    ]
+}

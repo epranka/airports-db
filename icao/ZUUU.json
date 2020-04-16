@@ -1,0 +1,150 @@
+{
+    "id": "27230",
+    "ident": "ZUUU",
+    "type": "large_airport",
+    "name": "Chengdu Shuangliu International Airport",
+    "latitude_deg": "30.578500747680664",
+    "longitude_deg": "103.9469985961914",
+    "elevation_ft": "1625",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-51",
+    "municipality": "Chengdu",
+    "scheduled_service": "yes",
+    "gps_code": "ZUUU",
+    "iata_code": "CTU",
+    "local_code": "",
+    "home_link": "http://www.cdairport.com/cdairport/en_front/index.jsp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chengdu_Shuangliu_International_Airport",
+    "keywords": "成都双流国际机场",
+    "runways": [
+        {
+            "id": "235194",
+            "airport_ref": "27230",
+            "airport_ident": "ZUUU",
+            "length_ft": "11811",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "30.5635",
+            "le_longitude_deg": "103.94",
+            "le_elevation_ft": "1617",
+            "le_heading_degT": "22",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "30.5936",
+            "he_longitude_deg": "103.954",
+            "he_elevation_ft": "1624",
+            "he_heading_degT": "202",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51262",
+            "airport_ref": "27230",
+            "airport_ident": "ZUUU",
+            "type": "APP",
+            "description": "CHENGDU APP AREA 2",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "51261",
+            "airport_ref": "27230",
+            "airport_ident": "ZUUU",
+            "type": "APP",
+            "description": "CHENGDU APP AREA 1",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "51263",
+            "airport_ref": "27230",
+            "airport_ident": "ZUUU",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "51264",
+            "airport_ref": "27230",
+            "airport_ident": "ZUUU",
+            "type": "GND",
+            "description": "CHENGDU GND",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "51265",
+            "airport_ref": "27230",
+            "airport_ident": "ZUUU",
+            "type": "TWR",
+            "description": "CHENGDU TWR",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303444",
+        "code": "CN-51",
+        "local_code": "51",
+        "name": "Sichuan Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sichuan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86025",
+            "filename": "Baihesi_VOR-DME_CN",
+            "ident": "BHS",
+            "name": "Baihesi",
+            "type": "VOR-DME",
+            "frequency_khz": "117900",
+            "latitude_deg": "30.50830078125",
+            "longitude_deg": "104.2030029296875",
+            "elevation_ft": "1667",
+            "iso_country": "CN",
+            "dme_frequency_khz": "117900",
+            "dme_channel": "126X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.471",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZUUU"
+        },
+        {
+            "id": "87095",
+            "filename": "Shuangliu_VOR-DME_CN",
+            "ident": "CTU",
+            "name": "Shuangliu",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "30.575000762939453",
+            "longitude_deg": "103.94300079345703",
+            "elevation_ft": "1612",
+            "iso_country": "CN",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.446",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZUUU"
+        }
+    ]
+}

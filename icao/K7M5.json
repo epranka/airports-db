@@ -1,0 +1,80 @@
+{
+    "id": "19071",
+    "ident": "K7M5",
+    "type": "small_airport",
+    "name": "Ozark Franklin County Airport",
+    "latitude_deg": "35.51070022583008",
+    "longitude_deg": "-93.83930206298828",
+    "elevation_ft": "648",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Ozark",
+    "scheduled_service": "no",
+    "gps_code": "K7M5",
+    "iata_code": "",
+    "local_code": "7M5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245796",
+            "airport_ref": "19071",
+            "airport_ident": "K7M5",
+            "length_ft": "3302",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "35.5073",
+            "le_longitude_deg": "-93.843",
+            "le_elevation_ft": "606",
+            "le_heading_degT": "41.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "35.5141",
+            "he_longitude_deg": "-93.8356",
+            "he_elevation_ft": "648",
+            "he_heading_degT": "221.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71076",
+            "airport_ref": "19071",
+            "airport_ident": "K7M5",
+            "type": "A/D",
+            "description": "RAZORBACK APP/DEP",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "71077",
+            "airport_ref": "19071",
+            "airport_ident": "K7M5",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

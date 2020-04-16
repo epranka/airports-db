@@ -1,0 +1,72 @@
+{
+    "id": "300948",
+    "ident": "SE-0006",
+    "type": "small_airport",
+    "name": "Alvesta Smålanda Airfield",
+    "latitude_deg": "56.925822",
+    "longitude_deg": "14.542294",
+    "elevation_ft": "450",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-G",
+    "municipality": "Alvesta",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.smalanda.se/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "300950",
+            "airport_ref": "300948",
+            "airport_ident": "SE-0006",
+            "length_ft": "2297",
+            "width_ft": "66",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "300949",
+            "airport_ref": "300948",
+            "airport_ident": "SE-0006",
+            "type": "RDO",
+            "description": "",
+            "frequency_mhz": "123.6"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305418",
+        "code": "SE-G",
+        "local_code": "G",
+        "name": "Kronoberge län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kronoberge_län",
+        "keywords": "Kronoberg County"
+    }
+}

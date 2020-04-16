@@ -1,0 +1,88 @@
+{
+    "id": "20077",
+    "ident": "KHQU",
+    "type": "small_airport",
+    "name": "Thomson-McDuffie County Airport",
+    "latitude_deg": "33.52970123",
+    "longitude_deg": "-82.51650238",
+    "elevation_ft": "501",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Thomson",
+    "scheduled_service": "no",
+    "gps_code": "KHQU",
+    "iata_code": "",
+    "local_code": "HQU",
+    "home_link": "http://www.thomson-mcduffie.com/citycounty/departments/thomson-city-departments/airport",
+    "wikipedia_link": "",
+    "keywords": "48J",
+    "runways": [
+        {
+            "id": "242536",
+            "airport_ref": "20077",
+            "airport_ident": "KHQU",
+            "length_ft": "5200",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "33.53",
+            "le_longitude_deg": "-82.525",
+            "le_elevation_ft": "452",
+            "le_heading_degT": "93",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "33.5294",
+            "he_longitude_deg": "-82.5079",
+            "he_elevation_ft": "498",
+            "he_heading_degT": "273",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64134",
+            "airport_ref": "20077",
+            "airport_ident": "KHQU",
+            "type": "A/D",
+            "description": "AUGUSTA APP/DEP",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "64135",
+            "airport_ref": "20077",
+            "airport_ident": "KHQU",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.625"
+        },
+        {
+            "id": "64136",
+            "airport_ref": "20077",
+            "airport_ident": "KHQU",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

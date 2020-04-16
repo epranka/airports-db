@@ -1,0 +1,128 @@
+{
+    "id": "19982",
+    "ident": "KGTR",
+    "type": "medium_airport",
+    "name": "Golden Triangle Regional Airport",
+    "latitude_deg": "33.450298309299995",
+    "longitude_deg": "-88.5914001465",
+    "elevation_ft": "264",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Columbus/W Point/Starkville",
+    "scheduled_service": "yes",
+    "gps_code": "KGTR",
+    "iata_code": "GTR",
+    "local_code": "GTR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241431",
+            "airport_ref": "19982",
+            "airport_ident": "KGTR",
+            "length_ft": "8002",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "33.4593",
+            "le_longitude_deg": "-88.5913",
+            "le_elevation_ft": "260",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "33.4414",
+            "he_longitude_deg": "-88.5915",
+            "he_elevation_ft": "256",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61842",
+            "airport_ref": "19982",
+            "airport_ident": "KGTR",
+            "type": "A/D",
+            "description": "COLUMBUS APP/DEP",
+            "frequency_mhz": "135.6"
+        },
+        {
+            "id": "61843",
+            "airport_ref": "19982",
+            "airport_ident": "KGTR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.375"
+        },
+        {
+            "id": "61844",
+            "airport_ref": "19982",
+            "airport_ident": "KGTR",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "126.375"
+        },
+        {
+            "id": "61845",
+            "airport_ref": "19982",
+            "airport_ident": "KGTR",
+            "type": "CLD",
+            "description": "COLUMBUS CLNC DEL",
+            "frequency_mhz": "126.25"
+        },
+        {
+            "id": "61846",
+            "airport_ref": "19982",
+            "airport_ident": "KGTR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.025"
+        },
+        {
+            "id": "61847",
+            "airport_ref": "19982",
+            "airport_ident": "KGTR",
+            "type": "GND",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "135.375"
+        },
+        {
+            "id": "61848",
+            "airport_ref": "19982",
+            "airport_ident": "KGTR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.025"
+        },
+        {
+            "id": "61849",
+            "airport_ref": "19982",
+            "airport_ident": "KGTR",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    }
+}

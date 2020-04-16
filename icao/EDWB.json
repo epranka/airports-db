@@ -1,0 +1,102 @@
+{
+    "id": "2287",
+    "ident": "EDWB",
+    "type": "closed",
+    "name": "Bremerhaven Airport",
+    "latitude_deg": "53.506943",
+    "longitude_deg": "8.572778",
+    "elevation_ft": "10",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HB",
+    "municipality": "Bremerhaven",
+    "scheduled_service": "yes",
+    "gps_code": "EDWB",
+    "iata_code": "BRV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bremerhaven_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236144",
+            "airport_ref": "2287",
+            "airport_ident": "EDWB",
+            "length_ft": "2160",
+            "width_ft": "61",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "53.5023",
+            "le_longitude_deg": "8.56967",
+            "le_elevation_ft": "10",
+            "le_heading_degT": "68",
+            "le_displaced_threshold_ft": "115",
+            "he_ident": "25",
+            "he_latitude_deg": "53.5045",
+            "he_longitude_deg": "8.57887",
+            "he_elevation_ft": "10",
+            "he_heading_degT": "248",
+            "he_displaced_threshold_ft": "164"
+        },
+        {
+            "id": "236145",
+            "airport_ref": "2287",
+            "airport_ident": "EDWB",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "53.5122",
+            "le_longitude_deg": "8.57031",
+            "le_elevation_ft": "10",
+            "le_heading_degT": "164",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "53.5019",
+            "he_longitude_deg": "8.57546",
+            "he_elevation_ft": "10",
+            "he_heading_degT": "344",
+            "he_displaced_threshold_ft": "279"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52789",
+            "airport_ref": "2287",
+            "airport_ident": "EDWB",
+            "type": "AFIS",
+            "description": "BREMEN INFO",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "52790",
+            "airport_ref": "2287",
+            "airport_ident": "EDWB",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "129.05"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303551",
+        "code": "DE-HB",
+        "local_code": "HB",
+        "name": "Bremen",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bremen",
+        "keywords": ""
+    }
+}

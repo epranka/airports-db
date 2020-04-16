@@ -1,0 +1,136 @@
+{
+    "id": "2426",
+    "ident": "EGJJ",
+    "type": "medium_airport",
+    "name": "Jersey Airport",
+    "latitude_deg": "49.20790100097656",
+    "longitude_deg": "-2.195509910583496",
+    "elevation_ft": "277",
+    "continent": "EU",
+    "iso_country": "JE",
+    "iso_region": "JE-U-A",
+    "municipality": "Saint Helier",
+    "scheduled_service": "yes",
+    "gps_code": "EGJJ",
+    "iata_code": "JER",
+    "local_code": "",
+    "home_link": "http://www.jerseyairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jersey_Airport",
+    "keywords": "Channel Islands",
+    "runways": [
+        {
+            "id": "237244",
+            "airport_ref": "2426",
+            "airport_ident": "EGJJ",
+            "length_ft": "5597",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "49.207",
+            "le_longitude_deg": "-2.20693",
+            "le_elevation_ft": "270",
+            "le_heading_degT": "83",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "26",
+            "he_latitude_deg": "49.2089",
+            "he_longitude_deg": "-2.18368",
+            "he_elevation_ft": "271",
+            "he_heading_degT": "263",
+            "he_displaced_threshold_ft": "299"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54805",
+            "airport_ref": "2426",
+            "airport_ident": "EGJJ",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "54806",
+            "airport_ref": "2426",
+            "airport_ident": "EGJJ",
+            "type": "ATIS",
+            "description": "INFO",
+            "frequency_mhz": "112.2"
+        },
+        {
+            "id": "316267",
+            "airport_ref": "2426",
+            "airport_ident": "EGJJ",
+            "type": "ATIS",
+            "description": "INFO",
+            "frequency_mhz": "129.725"
+        },
+        {
+            "id": "54807",
+            "airport_ref": "2426",
+            "airport_ident": "EGJJ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "54808",
+            "airport_ref": "2426",
+            "airport_ident": "EGJJ",
+            "type": "RDR",
+            "description": "RDR",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "54809",
+            "airport_ref": "2426",
+            "airport_ident": "EGJJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.45"
+        }
+    ],
+    "country": {
+        "id": "302698",
+        "code": "JE",
+        "name": "Jersey",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jersey",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304257",
+        "code": "JE-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "EU",
+        "iso_country": "JE",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89563",
+            "filename": "Jersey_VOR-DME_JE",
+            "ident": "JSY",
+            "name": "Jersey",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "49.221099853515625",
+            "longitude_deg": "-2.046109914779663",
+            "elevation_ft": "276",
+            "iso_country": "JE",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.001",
+            "magnetic_variation_deg": "-2.387",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGJJ"
+        }
+    ]
+}

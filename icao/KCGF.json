@@ -1,0 +1,150 @@
+{
+    "id": "3446",
+    "ident": "KCGF",
+    "type": "medium_airport",
+    "name": "Cuyahoga County Airport",
+    "latitude_deg": "41.5651016235",
+    "longitude_deg": "-81.4863967896",
+    "elevation_ft": "879",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Cleveland",
+    "scheduled_service": "no",
+    "gps_code": "KCGF",
+    "iata_code": "CGF",
+    "local_code": "CGF",
+    "home_link": "http://publicworks.cuyahogacounty.us/en-US/County-Airport.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cuyahoga_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240812",
+            "airport_ref": "3446",
+            "airport_ident": "KCGF",
+            "length_ft": "5102",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "41.5606",
+            "le_longitude_deg": "-81.4934",
+            "le_elevation_ft": "873",
+            "le_heading_degT": "49.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "41.5697",
+            "he_longitude_deg": "-81.4793",
+            "he_elevation_ft": "879",
+            "he_heading_degT": "229.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60557",
+            "airport_ref": "3446",
+            "airport_ident": "KCGF",
+            "type": "A/D",
+            "description": "CLEVELAND APP/DEP",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "60558",
+            "airport_ref": "3446",
+            "airport_ident": "KCGF",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "60559",
+            "airport_ref": "3446",
+            "airport_ident": "KCGF",
+            "type": "GCCD",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "60560",
+            "airport_ref": "3446",
+            "airport_ident": "KCGF",
+            "type": "TWR",
+            "description": "COUNTY TWR",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "60561",
+            "airport_ref": "3446",
+            "airport_ident": "KCGF",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87181",
+            "filename": "Chardon_VOR-DME_US",
+            "ident": "CXR",
+            "name": "Chardon",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "41.51689910888672",
+            "longitude_deg": "-81.16320037841797",
+            "elevation_ft": "1310",
+            "iso_country": "US",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.001",
+            "magnetic_variation_deg": "-8.25",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KCGF"
+        },
+        {
+            "id": "88349",
+            "filename": "Hogaf_NDB_US",
+            "ident": "GF",
+            "name": "Hogaf",
+            "type": "NDB",
+            "frequency_khz": "521",
+            "latitude_deg": "41.574100494384766",
+            "longitude_deg": "-81.47119903564453",
+            "elevation_ft": "870",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.114",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCGF"
+        }
+    ]
+}

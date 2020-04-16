@@ -1,0 +1,72 @@
+{
+    "id": "2338",
+    "ident": "EFPY",
+    "type": "small_airport",
+    "name": "Pyhäsalmi Airport",
+    "latitude_deg": "63.7318992615",
+    "longitude_deg": "25.926300048799998",
+    "elevation_ft": "528",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-OL",
+    "municipality": "Pyhäjärvi",
+    "scheduled_service": "no",
+    "gps_code": "EFPY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pyh%C3%A4salmi_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235736",
+            "airport_ref": "2338",
+            "airport_ident": "EFPY",
+            "length_ft": "3281",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "63.7319",
+            "le_longitude_deg": "25.9263",
+            "le_elevation_ft": "",
+            "le_heading_degT": "155.6",
+            "le_displaced_threshold_ft": "295",
+            "he_ident": "33",
+            "he_latitude_deg": "63.7235",
+            "he_longitude_deg": "25.9349",
+            "he_elevation_ft": "",
+            "he_heading_degT": "335.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52091",
+            "airport_ref": "2338",
+            "airport_ident": "EFPY",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "121.6"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303804",
+        "code": "FI-OL",
+        "local_code": "OL",
+        "name": "Oulu",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oulu",
+        "keywords": "Oulun lääni, Uleåborgs län"
+    }
+}

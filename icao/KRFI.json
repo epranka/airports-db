@@ -1,0 +1,102 @@
+{
+    "id": "19800",
+    "ident": "KRFI",
+    "type": "small_airport",
+    "name": "Rusk County Airport",
+    "latitude_deg": "32.141700744628906",
+    "longitude_deg": "-94.85169982910156",
+    "elevation_ft": "442",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Henderson",
+    "scheduled_service": "no",
+    "gps_code": "KRFI",
+    "iata_code": "",
+    "local_code": "RFI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Formerly F12",
+    "runways": [
+        {
+            "id": "244910",
+            "airport_ref": "19800",
+            "airport_ident": "KRFI",
+            "length_ft": "3002",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "32.1434",
+            "le_longitude_deg": "-94.8555",
+            "le_elevation_ft": "434",
+            "le_heading_degT": "126",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "32.1385",
+            "he_longitude_deg": "-94.8477",
+            "he_elevation_ft": "437",
+            "he_heading_degT": "306",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244911",
+            "airport_ref": "19800",
+            "airport_ident": "KRFI",
+            "length_ft": "4004",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "32.1477",
+            "le_longitude_deg": "-94.8529",
+            "le_elevation_ft": "435",
+            "le_heading_degT": "170",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "32.1369",
+            "he_longitude_deg": "-94.8507",
+            "he_elevation_ft": "440",
+            "he_heading_degT": "350",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69155",
+            "airport_ref": "19800",
+            "airport_ident": "KRFI",
+            "type": "A/D",
+            "description": "LONGVIEW APP/DEP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "69156",
+            "airport_ref": "19800",
+            "airport_ident": "KRFI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

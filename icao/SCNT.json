@@ -1,0 +1,96 @@
+{
+    "id": "6031",
+    "ident": "SCNT",
+    "type": "medium_airport",
+    "name": "Tte. Julio Gallardo Airport",
+    "latitude_deg": "-51.67150115966797",
+    "longitude_deg": "-72.52839660644531",
+    "elevation_ft": "217",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-MA",
+    "municipality": "Puerto Natales",
+    "scheduled_service": "no",
+    "gps_code": "SCNT",
+    "iata_code": "PNT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235259",
+            "airport_ref": "6031",
+            "airport_ident": "SCNT",
+            "length_ft": "5786",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-51.6676",
+            "le_longitude_deg": "-72.5394",
+            "le_elevation_ft": "",
+            "le_heading_degT": "120",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "-51.6754",
+            "he_longitude_deg": "-72.5173",
+            "he_elevation_ft": "",
+            "he_heading_degT": "300",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51372",
+            "airport_ref": "6031",
+            "airport_ident": "SCNT",
+            "type": "INFO",
+            "description": "NATALES INFO",
+            "frequency_mhz": "127.7"
+        }
+    ],
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303405",
+        "code": "CL-MA",
+        "local_code": "MA",
+        "name": "Magallanes Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Magallanes_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92583",
+            "filename": "Puerto_Natales_VOR-DME_CL",
+            "ident": "PNT",
+            "name": "Puerto Natales",
+            "type": "VOR-DME",
+            "frequency_khz": "115900",
+            "latitude_deg": "-51.73500061035156",
+            "longitude_deg": "-72.4480972290039",
+            "elevation_ft": "423",
+            "iso_country": "CL",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.007",
+            "magnetic_variation_deg": "14.333",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "SCNT"
+        }
+    ]
+}

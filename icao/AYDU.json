@@ -1,0 +1,96 @@
+{
+    "id": "55",
+    "ident": "AYDU",
+    "type": "medium_airport",
+    "name": "Daru Airport",
+    "latitude_deg": "-9.08675956726",
+    "longitude_deg": "143.207992554",
+    "elevation_ft": "20",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Daru",
+    "scheduled_service": "yes",
+    "gps_code": "AYDU",
+    "iata_code": "DAU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Daru_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238369",
+            "airport_ref": "55",
+            "airport_ident": "AYDU",
+            "length_ft": "4593",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-9.08229",
+            "le_longitude_deg": "143.203",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-9.09122",
+            "he_longitude_deg": "143.212",
+            "he_elevation_ft": "19",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56362",
+            "airport_ref": "55",
+            "airport_ident": "AYDU",
+            "type": "FSS",
+            "description": "MORESBY CNTR",
+            "frequency_mhz": "124.9"
+        }
+    ],
+    "country": {
+        "id": "302778",
+        "code": "PG",
+        "name": "Papua New Guinea",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305054",
+        "code": "PG-WPD",
+        "local_code": "WPD",
+        "name": "Western (Fly River)",
+        "continent": "OC",
+        "iso_country": "PG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_(Fly_River)",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87278",
+            "filename": "Daru_NDB-DME_PG",
+            "ident": "DAU",
+            "name": "Daru",
+            "type": "NDB-DME",
+            "frequency_khz": "290",
+            "latitude_deg": "-9.075019836425781",
+            "longitude_deg": "143.21299743652344",
+            "elevation_ft": "170",
+            "iso_country": "PG",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "-9.07383",
+            "dme_longitude_deg": "143.212",
+            "dme_elevation_ft": "170",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.282",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "AYDU"
+        }
+    ]
+}

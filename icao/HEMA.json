@@ -1,0 +1,120 @@
+{
+    "id": "3192",
+    "ident": "HEMA",
+    "type": "medium_airport",
+    "name": "Marsa Alam International Airport",
+    "latitude_deg": "25.557100296",
+    "longitude_deg": "34.5836982727",
+    "elevation_ft": "251",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-BA",
+    "municipality": "Marsa Alam",
+    "scheduled_service": "yes",
+    "gps_code": "HEMA",
+    "iata_code": "RMF",
+    "local_code": "",
+    "home_link": "http://www.marsa-alam-airport.com",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Marsa_Alam_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235544",
+            "airport_ref": "3192",
+            "airport_ident": "HEMA",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "25.5688",
+            "le_longitude_deg": "34.5762",
+            "le_elevation_ft": "247",
+            "le_heading_degT": "149.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "25.5454",
+            "he_longitude_deg": "34.5912",
+            "he_elevation_ft": "233",
+            "he_heading_degT": "329.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51842",
+            "airport_ref": "3192",
+            "airport_ident": "HEMA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "51843",
+            "airport_ref": "3192",
+            "airport_ident": "HEMA",
+            "type": "EMR",
+            "description": "FIRE",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51844",
+            "airport_ref": "3192",
+            "airport_ident": "HEMA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51845",
+            "airport_ref": "3192",
+            "airport_ident": "HEMA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303694",
+        "code": "EG-BA",
+        "local_code": "BA",
+        "name": "Red Sea Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Red_Sea_Governorate",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90727",
+            "filename": "Marsa_Alam_VOR-DME_EG",
+            "ident": "MAK",
+            "name": "Marsa Alam",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "25.582799911499023",
+            "longitude_deg": "34.56560134887695",
+            "elevation_ft": "265",
+            "iso_country": "EG",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.09",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HEMA"
+        }
+    ]
+}

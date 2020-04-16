@@ -1,0 +1,72 @@
+{
+    "id": "2663",
+    "ident": "ESMG",
+    "type": "small_airport",
+    "name": "Feringe Airport",
+    "latitude_deg": "56.9502983093",
+    "longitude_deg": "13.921699523900001",
+    "elevation_ft": "538",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-G",
+    "municipality": "Ljungby",
+    "scheduled_service": "no",
+    "gps_code": "ESMG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.feringefk.se/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239060",
+            "airport_ref": "2663",
+            "airport_ident": "ESMG",
+            "length_ft": "3780",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "56.9453",
+            "le_longitude_deg": "13.9188",
+            "le_elevation_ft": "531",
+            "le_heading_degT": "16.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "56.9552",
+            "he_longitude_deg": "13.9243",
+            "he_elevation_ft": "538",
+            "he_heading_degT": "196.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57499",
+            "airport_ref": "2663",
+            "airport_ident": "ESMG",
+            "type": "Club.",
+            "description": "Feringe segel.",
+            "frequency_mhz": "122.505"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305418",
+        "code": "SE-G",
+        "local_code": "G",
+        "name": "Kronoberge län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kronoberge_län",
+        "keywords": "Kronoberg County"
+    }
+}

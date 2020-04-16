@@ -1,0 +1,96 @@
+{
+    "id": "18975",
+    "ident": "K6A2",
+    "type": "small_airport",
+    "name": "Griffin Spalding County Airport",
+    "latitude_deg": "33.22700119018555",
+    "longitude_deg": "-84.27490234375",
+    "elevation_ft": "958",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Griffin",
+    "scheduled_service": "no",
+    "gps_code": "K6A2",
+    "iata_code": "",
+    "local_code": "6A2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244592",
+            "airport_ref": "18975",
+            "airport_ident": "K6A2",
+            "length_ft": "3701",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "33.2307",
+            "le_longitude_deg": "-84.2791",
+            "le_elevation_ft": "958",
+            "le_heading_degT": "137",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "32",
+            "he_latitude_deg": "33.2233",
+            "he_longitude_deg": "-84.2708",
+            "he_elevation_ft": "937",
+            "he_heading_degT": "317",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68455",
+            "airport_ref": "18975",
+            "airport_ident": "K6A2",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "68456",
+            "airport_ref": "18975",
+            "airport_ident": "K6A2",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "68457",
+            "airport_ref": "18975",
+            "airport_ident": "K6A2",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "68458",
+            "airport_ref": "18975",
+            "airport_ident": "K6A2",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.075"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

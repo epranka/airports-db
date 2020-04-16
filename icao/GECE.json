@@ -1,0 +1,104 @@
+{
+    "id": "35151",
+    "ident": "GECE",
+    "type": "heliport",
+    "name": "Ceuta Heliport",
+    "latitude_deg": "35.892799377441406",
+    "longitude_deg": "-5.306389808654785",
+    "elevation_ft": "8",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CE",
+    "municipality": "Ceuta",
+    "scheduled_service": "yes",
+    "gps_code": "GECE",
+    "iata_code": "JCU",
+    "local_code": "",
+    "home_link": "http://www.aena.es/csee/Satellite?cid=1075113413724&pagename=subHome&Language=EN_GB&SiteName=JCU&c=Page",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ceuta_Heliport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "260418",
+            "airport_ref": "35151",
+            "airport_ident": "GECE",
+            "length_ft": "787",
+            "width_ft": "112",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "35.8922",
+            "le_longitude_deg": "-5.30749",
+            "le_elevation_ft": "8",
+            "le_heading_degT": "67",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "35.8932",
+            "he_longitude_deg": "-5.3051",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "247",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75184",
+            "airport_ref": "35151",
+            "airport_ident": "GECE",
+            "type": "AWOS",
+            "description": "",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "75183",
+            "airport_ref": "35151",
+            "airport_ident": "GECE",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "123.235"
+        }
+    ],
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303739",
+        "code": "ES-CE",
+        "local_code": "CE",
+        "name": "Ceuta",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ceuta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86691",
+            "filename": "Ceuta_NDB-DME_ES",
+            "ident": "CEU",
+            "name": "Ceuta",
+            "type": "NDB-DME",
+            "frequency_khz": "300",
+            "latitude_deg": "35.892601013183594",
+            "longitude_deg": "-5.3054399490356445",
+            "elevation_ft": "39",
+            "iso_country": "ES",
+            "dme_frequency_khz": "117750",
+            "dme_channel": "124Y",
+            "dme_latitude_deg": "35.8926",
+            "dme_longitude_deg": "-5.30528",
+            "dme_elevation_ft": "39",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.344",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "GECE"
+        }
+    ]
+}

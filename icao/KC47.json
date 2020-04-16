@@ -1,0 +1,110 @@
+{
+    "id": "19446",
+    "ident": "KC47",
+    "type": "small_airport",
+    "name": "Portage Municipal Airport",
+    "latitude_deg": "43.560298919677734",
+    "longitude_deg": "-89.48290252685547",
+    "elevation_ft": "825",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Portage",
+    "scheduled_service": "no",
+    "gps_code": "KC47",
+    "iata_code": "",
+    "local_code": "C47",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241537",
+            "airport_ref": "19446",
+            "airport_ident": "KC47",
+            "length_ft": "2560",
+            "width_ft": "40",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "43.5573",
+            "le_longitude_deg": "-89.4858",
+            "le_elevation_ft": "824",
+            "le_heading_degT": "43",
+            "le_displaced_threshold_ft": "60",
+            "he_ident": "22",
+            "he_latitude_deg": "43.5624",
+            "he_longitude_deg": "-89.4792",
+            "he_elevation_ft": "816",
+            "he_heading_degT": "223",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241538",
+            "airport_ref": "19446",
+            "airport_ident": "KC47",
+            "length_ft": "3775",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "43.5658",
+            "le_longitude_deg": "-89.4834",
+            "le_elevation_ft": "811",
+            "le_heading_degT": "178",
+            "le_displaced_threshold_ft": "103",
+            "he_ident": "35",
+            "he_latitude_deg": "43.5554",
+            "he_longitude_deg": "-89.4828",
+            "he_elevation_ft": "822",
+            "he_heading_degT": "358",
+            "he_displaced_threshold_ft": "262"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62082",
+            "airport_ref": "19446",
+            "airport_ident": "KC47",
+            "type": "A/D",
+            "description": "MADISON APP/DEP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "62083",
+            "airport_ref": "19446",
+            "airport_ident": "KC47",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "117"
+        },
+        {
+            "id": "62084",
+            "airport_ref": "19446",
+            "airport_ident": "KC47",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

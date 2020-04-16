@@ -1,0 +1,96 @@
+{
+    "id": "5229",
+    "ident": "OMAJ",
+    "type": "small_airport",
+    "name": "Jebel Dhana Airport",
+    "latitude_deg": "24.187400817871094",
+    "longitude_deg": "52.61399841308594",
+    "elevation_ft": "43",
+    "continent": "AS",
+    "iso_country": "AE",
+    "iso_region": "AE-AZ",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "OMAJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232776",
+            "airport_ref": "5229",
+            "airport_ident": "OMAJ",
+            "length_ft": "7218",
+            "width_ft": "151",
+            "surface": "MAC",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "24.1943",
+            "le_longitude_deg": "52.6062",
+            "le_elevation_ft": "",
+            "le_heading_degT": "134",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "24.1806",
+            "he_longitude_deg": "52.6218",
+            "he_elevation_ft": "",
+            "he_heading_degT": "314",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48236",
+            "airport_ref": "5229",
+            "airport_ident": "OMAJ",
+            "type": "A/G",
+            "description": "OPS",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302618",
+        "code": "AE",
+        "name": "United Arab Emirates",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+        "keywords": "UAE,مطارات في الإمارات العربية المتحدة"
+    },
+    "region": {
+        "id": "302820",
+        "code": "AE-AZ",
+        "local_code": "AZ",
+        "name": "Abu Dhabi Emirate",
+        "continent": "AS",
+        "iso_country": "AE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Abu_Dhabi_(emirate)",
+        "keywords": "Abu Ẓaby"
+    },
+    "navaids": [
+        {
+            "id": "89458",
+            "filename": "Jebel_Dhana_NDB_AE",
+            "ident": "JD",
+            "name": "Jebel Dhana",
+            "type": "NDB",
+            "frequency_khz": "303",
+            "latitude_deg": "24.193300247192383",
+            "longitude_deg": "52.625",
+            "elevation_ft": "",
+            "iso_country": "AE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.384",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OMAJ"
+        }
+    ]
+}

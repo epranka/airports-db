@@ -1,0 +1,72 @@
+{
+    "id": "313808",
+    "ident": "YKUR",
+    "type": "small_airport",
+    "name": "Kurundi Airport",
+    "latitude_deg": "-20.51",
+    "longitude_deg": "134.6706",
+    "elevation_ft": "1340",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Kurundi Station",
+    "scheduled_service": "no",
+    "gps_code": "YKUR",
+    "iata_code": "KRD",
+    "local_code": "YKUR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "318104",
+            "airport_ref": "313808",
+            "airport_ident": "YKUR",
+            "length_ft": "2936",
+            "width_ft": "289",
+            "surface": "Dirt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-20.5055",
+            "le_longitude_deg": "134.669",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-20.5142",
+            "he_longitude_deg": "134.672",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "318105",
+            "airport_ref": "313808",
+            "airport_ident": "YKUR",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

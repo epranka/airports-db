@@ -1,0 +1,104 @@
+{
+    "id": "3132",
+    "ident": "GQNF",
+    "type": "small_airport",
+    "name": "Kiffa Airport",
+    "latitude_deg": "16.59",
+    "longitude_deg": "-11.4062",
+    "elevation_ft": "430",
+    "continent": "AF",
+    "iso_country": "MR",
+    "iso_region": "MR-03",
+    "municipality": "Kiffa",
+    "scheduled_service": "no",
+    "gps_code": "GQNF",
+    "iata_code": "KFA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kiffa_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237625",
+            "airport_ref": "3132",
+            "airport_ident": "GQNF",
+            "length_ft": "5208",
+            "width_ft": "95",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "16.5866",
+            "le_longitude_deg": "-11.4127",
+            "le_elevation_ft": "400",
+            "le_heading_degT": "61",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "16.5934",
+            "he_longitude_deg": "-11.3997",
+            "he_elevation_ft": "423",
+            "he_heading_degT": "241",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55366",
+            "airport_ref": "3132",
+            "airport_ident": "GQNF",
+            "type": "A/G",
+            "description": "AG VOICE RDO",
+            "frequency_mhz": "568"
+        },
+        {
+            "id": "55367",
+            "airport_ref": "3132",
+            "airport_ident": "GQNF",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302587",
+        "code": "MR",
+        "name": "Mauritania",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mauritania",
+        "keywords": "مطارات موريتانيا"
+    },
+    "region": {
+        "id": "304709",
+        "code": "MR-03",
+        "local_code": "03",
+        "name": "Assaba Region",
+        "continent": "AF",
+        "iso_country": "MR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Assaba_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89734",
+            "filename": "Kiffa_NDB_MR",
+            "ident": "KF",
+            "name": "Kiffa",
+            "type": "NDB",
+            "frequency_khz": "265",
+            "latitude_deg": "16.621000289916992",
+            "longitude_deg": "-11.402700424194336",
+            "elevation_ft": "",
+            "iso_country": "MR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.569",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "GQNF"
+        }
+    ]
+}

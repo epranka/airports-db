@@ -1,0 +1,104 @@
+{
+    "id": "4629",
+    "ident": "MBSC",
+    "type": "medium_airport",
+    "name": "South Caicos Airport",
+    "latitude_deg": "21.515699386599998",
+    "longitude_deg": "-71.528503418",
+    "elevation_ft": "6",
+    "continent": "NA",
+    "iso_country": "TC",
+    "iso_region": "TC-SC",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "MBSC",
+    "iata_code": "XSC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/South_Caicos_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239204",
+            "airport_ref": "4629",
+            "airport_ident": "MBSC",
+            "length_ft": "5991",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "21.5169",
+            "le_longitude_deg": "-71.5373",
+            "le_elevation_ft": "4",
+            "le_heading_degT": "97.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "21.5146",
+            "he_longitude_deg": "-71.5198",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "277.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57776",
+            "airport_ref": "4629",
+            "airport_ident": "MBSC",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "57777",
+            "airport_ref": "4629",
+            "airport_ident": "MBSC",
+            "type": "APP",
+            "description": "PROVO APP",
+            "frequency_mhz": "126"
+        }
+    ],
+    "country": {
+        "id": "302753",
+        "code": "TC",
+        "name": "Turks and Caicos Islands",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306707",
+        "code": "TC-SC",
+        "local_code": "SC",
+        "name": "South Caicos",
+        "continent": "NA",
+        "iso_country": "TC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Caicos_",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93446",
+            "filename": "South_Caicos_NDB_TC",
+            "ident": "SC",
+            "name": "South Caicos",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "21.512500762939453",
+            "longitude_deg": "-71.5374984741211",
+            "elevation_ft": "6",
+            "iso_country": "TC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.073",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MBSC"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "26634",
+    "ident": "VRMH",
+    "type": "medium_airport",
+    "name": "Hanimaadhoo Airport",
+    "latitude_deg": "6.744229793548584",
+    "longitude_deg": "73.17050170898438",
+    "elevation_ft": "4",
+    "continent": "AS",
+    "iso_country": "MV",
+    "iso_region": "MV-23",
+    "municipality": "Haa Dhaalu Atoll",
+    "scheduled_service": "yes",
+    "gps_code": "VRMH",
+    "iata_code": "HAQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hanimaadhoo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237642",
+            "airport_ref": "26634",
+            "airport_ident": "VRMH",
+            "length_ft": "4003",
+            "width_ft": "98",
+            "surface": "BIT",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "6.7393",
+            "le_longitude_deg": "73.168",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "27",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "6.74916",
+            "he_longitude_deg": "73.173",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "207",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55394",
+            "airport_ref": "26634",
+            "airport_ident": "VRMH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.1"
+        }
+    ],
+    "country": {
+        "id": "302652",
+        "code": "MV",
+        "name": "Maldives",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maldives",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304753",
+        "code": "MV-23",
+        "local_code": "23",
+        "name": "Haa Dhaalu Atoll",
+        "continent": "AS",
+        "iso_country": "MV",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haa_Dhaalu_Atoll",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88695",
+            "filename": "Hanimaadhoo_NDB_MV",
+            "ident": "HA",
+            "name": "Hanimaadhoo",
+            "type": "NDB",
+            "frequency_khz": "267",
+            "latitude_deg": "6.74390983581543",
+            "longitude_deg": "73.16649627685547",
+            "elevation_ft": "",
+            "iso_country": "MV",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.005",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VRMH"
+        }
+    ]
+}

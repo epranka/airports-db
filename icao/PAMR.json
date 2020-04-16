@@ -1,0 +1,172 @@
+{
+    "id": "5386",
+    "ident": "PAMR",
+    "type": "medium_airport",
+    "name": "Merrill Field",
+    "latitude_deg": "61.2135009765625",
+    "longitude_deg": "-149.843994140625",
+    "elevation_ft": "137",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Anchorage",
+    "scheduled_service": "no",
+    "gps_code": "PAMR",
+    "iata_code": "MRI",
+    "local_code": "MRI",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Merrill_Field",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239854",
+            "airport_ref": "5386",
+            "airport_ident": "PAMR",
+            "length_ft": "2000",
+            "width_ft": "60",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "61.2097",
+            "le_longitude_deg": "-149.845",
+            "le_elevation_ft": "130",
+            "le_heading_degT": "66.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "61.2119",
+            "he_longitude_deg": "-149.835",
+            "he_elevation_ft": "136",
+            "he_heading_degT": "246.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239855",
+            "airport_ref": "5386",
+            "airport_ident": "PAMR",
+            "length_ft": "4000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "61.2159",
+            "le_longitude_deg": "-149.853",
+            "le_elevation_ft": "124",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "61.2159",
+            "he_longitude_deg": "-149.831",
+            "he_elevation_ft": "137",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239856",
+            "airport_ref": "5386",
+            "airport_ident": "PAMR",
+            "length_ft": "2640",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "61.2157",
+            "le_longitude_deg": "-149.853",
+            "le_elevation_ft": "124",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "61.2085",
+            "he_longitude_deg": "-149.853",
+            "he_elevation_ft": "117",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59094",
+            "airport_ref": "5386",
+            "airport_ident": "PAMR",
+            "type": "A/D",
+            "description": "ANCHORAGE APP/DEP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "59095",
+            "airport_ref": "5386",
+            "airport_ident": "PAMR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.25"
+        },
+        {
+            "id": "59096",
+            "airport_ref": "5386",
+            "airport_ident": "PAMR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "59097",
+            "airport_ref": "5386",
+            "airport_ident": "PAMR",
+            "type": "FSS",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "59098",
+            "airport_ref": "5386",
+            "airport_ident": "PAMR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "59099",
+            "airport_ref": "5386",
+            "airport_ident": "PAMR",
+            "type": "RFSS",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "59100",
+            "airport_ref": "5386",
+            "airport_ident": "PAMR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "59101",
+            "airport_ref": "5386",
+            "airport_ident": "PAMR",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "19656",
+    "ident": "KDSV",
+    "type": "small_airport",
+    "name": "Dansville Municipal Airport",
+    "latitude_deg": "42.570899963399995",
+    "longitude_deg": "-77.7130966187",
+    "elevation_ft": "662",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Dansville",
+    "scheduled_service": "no",
+    "gps_code": "KDSV",
+    "iata_code": "DSV",
+    "local_code": "DSV",
+    "home_link": "http://dansville.lib.ny.us/govern/airport.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dansville_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241559",
+            "airport_ref": "19656",
+            "airport_ident": "KDSV",
+            "length_ft": "3365",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "42.5734",
+            "le_longitude_deg": "-77.7182",
+            "le_elevation_ft": "635",
+            "le_heading_degT": "128",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "42.5677",
+            "he_longitude_deg": "-77.7084",
+            "he_elevation_ft": "660",
+            "he_heading_degT": "308",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241560",
+            "airport_ref": "19656",
+            "airport_ident": "KDSV",
+            "length_ft": "2443",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "42.5742",
+            "le_longitude_deg": "-77.7134",
+            "le_elevation_ft": "633",
+            "le_heading_degT": "169",
+            "le_displaced_threshold_ft": "168",
+            "he_ident": "36",
+            "he_latitude_deg": "42.5676",
+            "he_longitude_deg": "-77.7117",
+            "he_elevation_ft": "651",
+            "he_heading_degT": "349",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62119",
+            "airport_ref": "19656",
+            "airport_ident": "KDSV",
+            "type": "A/D",
+            "description": "ROCHESTER APP/DEP",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "62120",
+            "airport_ref": "19656",
+            "airport_ident": "KDSV",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "62121",
+            "airport_ref": "19656",
+            "airport_ident": "KDSV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

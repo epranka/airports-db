@@ -1,0 +1,96 @@
+{
+    "id": "5861",
+    "ident": "SBAQ",
+    "type": "medium_airport",
+    "name": "Araraquara Airport",
+    "latitude_deg": "-21.812000274699997",
+    "longitude_deg": "-48.1329994202",
+    "elevation_ft": "2334",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Araraquara",
+    "scheduled_service": "yes",
+    "gps_code": "SBAQ",
+    "iata_code": "AQA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Araraquara_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234021",
+            "airport_ref": "5861",
+            "airport_ident": "SBAQ",
+            "length_ft": "5907",
+            "width_ft": "99",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "-21.8049",
+            "le_longitude_deg": "-48.1377",
+            "le_elevation_ft": "2275",
+            "le_heading_degT": "186",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "-21.8187",
+            "he_longitude_deg": "-48.1286",
+            "he_elevation_ft": "2334",
+            "he_heading_degT": "6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49598",
+            "airport_ref": "5861",
+            "airport_ident": "SBAQ",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "131.6"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303224",
+        "code": "BR-SP",
+        "local_code": "SP",
+        "name": "São Paulo",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/São_Paulo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85185",
+            "filename": "Araraquara_NDB_BR",
+            "ident": "AAQ",
+            "name": "Araraquara",
+            "type": "NDB",
+            "frequency_khz": "205",
+            "latitude_deg": "-21.812999725341797",
+            "longitude_deg": "-48.13949966430664",
+            "elevation_ft": "2514",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.255",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBAQ"
+        }
+    ]
+}

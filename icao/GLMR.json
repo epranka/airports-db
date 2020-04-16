@@ -1,0 +1,104 @@
+{
+    "id": "3098",
+    "ident": "GLMR",
+    "type": "medium_airport",
+    "name": "Spriggs Payne Airport",
+    "latitude_deg": "6.289060115814209",
+    "longitude_deg": "-10.758700370788574",
+    "elevation_ft": "25",
+    "continent": "AF",
+    "iso_country": "LR",
+    "iso_region": "LR-MO",
+    "municipality": "Monrovia",
+    "scheduled_service": "yes",
+    "gps_code": "GLMR",
+    "iata_code": "MLW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Spriggs_Payne_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237433",
+            "airport_ref": "3098",
+            "airport_ident": "GLMR",
+            "length_ft": "6000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "6.28254",
+            "le_longitude_deg": "-10.7639",
+            "le_elevation_ft": "25",
+            "le_heading_degT": "40",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "23",
+            "he_latitude_deg": "6.29521",
+            "he_longitude_deg": "-10.7533",
+            "he_elevation_ft": "10",
+            "he_heading_degT": "220",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55182",
+            "airport_ref": "3098",
+            "airport_ident": "GLMR",
+            "type": "APP",
+            "description": "ROBERTS APP",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "55183",
+            "airport_ref": "3098",
+            "airport_ident": "GLMR",
+            "type": "TWR",
+            "description": "SPRIGGS TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302581",
+        "code": "LR",
+        "name": "Liberia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Liberia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304477",
+        "code": "LR-MO",
+        "local_code": "MO",
+        "name": "Montserrado County",
+        "continent": "AF",
+        "iso_country": "LR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montserrado_County",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93758",
+            "filename": "Monrovia_Spriggs_Payne_NDB_LR",
+            "ident": "SM",
+            "name": "Monrovia Spriggs Payne",
+            "type": "NDB",
+            "frequency_khz": "315",
+            "latitude_deg": "6.326200008392334",
+            "longitude_deg": "-10.73330020904541",
+            "elevation_ft": "",
+            "iso_country": "LR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.135",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "GLMR"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "38222",
+    "ident": "YADS",
+    "type": "small_airport",
+    "name": "Alton Downs Airport",
+    "latitude_deg": "-26.488959",
+    "longitude_deg": "139.259906",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YADS",
+    "iata_code": "AWN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Alton_Downs_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258203",
+            "airport_ref": "38222",
+            "airport_ident": "YADS",
+            "length_ft": "3772",
+            "width_ft": "",
+            "surface": "N",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72039",
+            "airport_ref": "38222",
+            "airport_ident": "YADS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "72040",
+            "airport_ref": "38222",
+            "airport_ident": "YADS",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "115.9"
+        },
+        {
+            "id": "72041",
+            "airport_ref": "38222",
+            "airport_ident": "YADS",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.8"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": ""
+    }
+}

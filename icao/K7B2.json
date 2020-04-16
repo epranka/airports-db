@@ -1,0 +1,88 @@
+{
+    "id": "19051",
+    "ident": "K7B2",
+    "type": "small_airport",
+    "name": "Northampton Airport",
+    "latitude_deg": "42.3280983",
+    "longitude_deg": "-72.61139679",
+    "elevation_ft": "121",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Northampton",
+    "scheduled_service": "no",
+    "gps_code": "7B2",
+    "iata_code": "",
+    "local_code": "7B2",
+    "home_link": "http://www.northamptonairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Northampton_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244964",
+            "airport_ref": "19051",
+            "airport_ident": "K7B2",
+            "length_ft": "3365",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "42.3309",
+            "le_longitude_deg": "-72.6162",
+            "le_elevation_ft": "120",
+            "le_heading_degT": "128",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "42.3252",
+            "he_longitude_deg": "-72.6064",
+            "he_elevation_ft": "119",
+            "he_heading_degT": "308",
+            "he_displaced_threshold_ft": "250"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69288",
+            "airport_ref": "19051",
+            "airport_ident": "K7B2",
+            "type": "A/D",
+            "description": "BRADLEY APP/DEP",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "69289",
+            "airport_ref": "19051",
+            "airport_ident": "K7B2",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "133.6"
+        },
+        {
+            "id": "69290",
+            "airport_ref": "19051",
+            "airport_ident": "K7B2",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306095",
+        "code": "US-MA",
+        "local_code": "MA",
+        "name": "Massachusetts",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": "6225",
+    "ident": "SPLP",
+    "type": "small_airport",
+    "name": "Las Palmas Air Base",
+    "latitude_deg": "-12.16069984436",
+    "longitude_deg": "-76.998901367188",
+    "elevation_ft": "250",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LIM",
+    "municipality": "Chorrillos",
+    "scheduled_service": "no",
+    "gps_code": "SPLP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Las_Palmas_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238127",
+            "airport_ref": "6225",
+            "airport_ident": "SPLP",
+            "length_ft": "8019",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-12.1712",
+            "le_longitude_deg": "-77.0024",
+            "le_elevation_ft": "250",
+            "le_heading_degT": "18",
+            "le_displaced_threshold_ft": "500",
+            "he_ident": "20",
+            "he_latitude_deg": "-12.1502",
+            "he_longitude_deg": "-76.9955",
+            "he_elevation_ft": "240",
+            "he_heading_degT": "198",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56058",
+            "airport_ref": "6225",
+            "airport_ident": "SPLP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "56059",
+            "airport_ref": "6225",
+            "airport_ident": "SPLP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "56060",
+            "airport_ref": "6225",
+            "airport_ident": "SPLP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Perú",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305021",
+        "code": "PE-LIM",
+        "local_code": "LIM",
+        "name": "Lima Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lima_Region",
+        "keywords": ""
+    }
+}

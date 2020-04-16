@@ -1,0 +1,120 @@
+{
+    "id": "5383",
+    "ident": "PAKW",
+    "type": "medium_airport",
+    "name": "Klawock Airport",
+    "latitude_deg": "55.579200744599994",
+    "longitude_deg": "-133.076004028",
+    "elevation_ft": "80",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Klawock",
+    "scheduled_service": "no",
+    "gps_code": "PAKW",
+    "iata_code": "KLW",
+    "local_code": "AKW",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Klawock_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240232",
+            "airport_ref": "5383",
+            "airport_ident": "PAKW",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "55.5736",
+            "le_longitude_deg": "-133.083",
+            "le_elevation_ft": "39",
+            "le_heading_degT": "35",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "55.5848",
+            "he_longitude_deg": "-133.069",
+            "he_elevation_ft": "80",
+            "he_heading_degT": "215",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59663",
+            "airport_ref": "5383",
+            "airport_ident": "PAKW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.45"
+        },
+        {
+            "id": "59664",
+            "airport_ref": "5383",
+            "airport_ident": "PAKW",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "59665",
+            "airport_ref": "5383",
+            "airport_ident": "PAKW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "59666",
+            "airport_ref": "5383",
+            "airport_ident": "PAKW",
+            "type": "FSS",
+            "description": "KETCHIKAN RDO",
+            "frequency_mhz": "122.25"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85380",
+            "filename": "Klawock_NDB-DME_US",
+            "ident": "AKW",
+            "name": "Klawock",
+            "type": "NDB-DME",
+            "frequency_khz": "229",
+            "latitude_deg": "55.568599700927734",
+            "longitude_deg": "-133.07899475097656",
+            "elevation_ft": "30",
+            "iso_country": "US",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.455",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "PAKW"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "id": "2157",
+    "ident": "EBCI",
+    "type": "large_airport",
+    "name": "Brussels South Charleroi Airport",
+    "latitude_deg": "50.459202",
+    "longitude_deg": "4.45382",
+    "elevation_ft": "614",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-WHT",
+    "municipality": "Brussels",
+    "scheduled_service": "yes",
+    "gps_code": "EBCI",
+    "iata_code": "CRL",
+    "local_code": "",
+    "home_link": "http://www.charleroi-airport.com/doc.php?nd=o29&tid=29&lg=2&docid=1&site=1",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brussels_South_Charleroi_Airport",
+    "keywords": "Gosselies Airport",
+    "runways": [
+        {
+            "id": "233634",
+            "airport_ref": "2157",
+            "airport_ident": "EBCI",
+            "length_ft": "8366",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "50.4554",
+            "le_longitude_deg": "4.43664",
+            "le_elevation_ft": "611",
+            "le_heading_degT": "66",
+            "le_displaced_threshold_ft": "1477",
+            "he_ident": "24",
+            "he_latitude_deg": "50.4647",
+            "he_longitude_deg": "4.46944",
+            "he_elevation_ft": "583",
+            "he_heading_degT": "246",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49349",
+            "airport_ref": "2157",
+            "airport_ident": "EBCI",
+            "type": "APP",
+            "description": "CHARLEROI APP",
+            "frequency_mhz": "133.125"
+        },
+        {
+            "id": "49350",
+            "airport_ref": "2157",
+            "airport_ident": "EBCI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.625"
+        },
+        {
+            "id": "49351",
+            "airport_ref": "2157",
+            "airport_ident": "EBCI",
+            "type": "GND",
+            "description": "CHARLEROI GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "49352",
+            "airport_ref": "2157",
+            "airport_ident": "EBCI",
+            "type": "TWR",
+            "description": "CHARLEROI TWR",
+            "frequency_mhz": "121.3"
+        }
+    ],
+    "country": {
+        "id": "302676",
+        "code": "BE",
+        "name": "Belgium",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
+        "keywords": "Aéroports de Belgique,Luchthavens van België"
+    },
+    "region": {
+        "id": "303076",
+        "code": "BE-WHT",
+        "local_code": "WHT",
+        "name": "Hainaut",
+        "continent": "EU",
+        "iso_country": "BE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hainaut",
+        "keywords": "Wallonia, Walloon Region"
+    },
+    "navaids": [
+        {
+            "id": "88599",
+            "filename": "Gosly_VOR-DME_BE",
+            "ident": "GSY",
+            "name": "Gosly",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "50.45389938354492",
+            "longitude_deg": "4.441390037536621",
+            "elevation_ft": "654",
+            "iso_country": "BE",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.329",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "EBCI"
+        },
+        {
+            "id": "92032",
+            "filename": "Charleroi_NDB_BE",
+            "ident": "ONC",
+            "name": "Charleroi",
+            "type": "NDB",
+            "frequency_khz": "323",
+            "latitude_deg": "50.48939895629883",
+            "longitude_deg": "4.5552802085876465",
+            "elevation_ft": "",
+            "iso_country": "BE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.309",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EBCI"
+        }
+    ]
+}

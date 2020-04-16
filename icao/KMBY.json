@@ -1,0 +1,110 @@
+{
+    "id": "20478",
+    "ident": "KMBY",
+    "type": "small_airport",
+    "name": "Omar N Bradley Airport",
+    "latitude_deg": "39.463901519800004",
+    "longitude_deg": "-92.4270019531",
+    "elevation_ft": "867",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Moberly",
+    "scheduled_service": "no",
+    "gps_code": "KMBY",
+    "iata_code": "MBY",
+    "local_code": "MBY",
+    "home_link": "http://www.moberlymo.org/Government/airport.html",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244073",
+            "airport_ref": "20478",
+            "airport_ident": "KMBY",
+            "length_ft": "3350",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "39.462",
+            "le_longitude_deg": "-92.4325",
+            "le_elevation_ft": "867",
+            "le_heading_degT": "53",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "39.4675",
+            "he_longitude_deg": "-92.423",
+            "he_elevation_ft": "860",
+            "he_heading_degT": "233",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244074",
+            "airport_ref": "20478",
+            "airport_ident": "KMBY",
+            "length_ft": "4270",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "39.4669",
+            "le_longitude_deg": "-92.4323",
+            "le_elevation_ft": "862",
+            "le_heading_degT": "130",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "39.4594",
+            "he_longitude_deg": "-92.4206",
+            "he_elevation_ft": "864",
+            "he_heading_degT": "310",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67331",
+            "airport_ref": "20478",
+            "airport_ident": "KMBY",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.025"
+        },
+        {
+            "id": "67332",
+            "airport_ref": "20478",
+            "airport_ident": "KMBY",
+            "type": "RDO",
+            "description": "COLUMBIA RDO",
+            "frequency_mhz": "112.9"
+        },
+        {
+            "id": "67333",
+            "airport_ref": "20478",
+            "airport_ident": "KMBY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

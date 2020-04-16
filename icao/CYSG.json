@@ -1,0 +1,104 @@
+{
+    "id": "1902",
+    "ident": "CYSG",
+    "type": "medium_airport",
+    "name": "St Georges Airport",
+    "latitude_deg": "46.096401",
+    "longitude_deg": "-70.714699",
+    "elevation_ft": "893",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "St Georges",
+    "scheduled_service": "no",
+    "gps_code": "CYSG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/St-Georges_Airport",
+    "keywords": "YSG, SX3",
+    "runways": [
+        {
+            "id": "234820",
+            "airport_ref": "1902",
+            "airport_ident": "CYSG",
+            "length_ft": "5108",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "46.0915",
+            "le_longitude_deg": "-70.7219",
+            "le_elevation_ft": "859",
+            "le_heading_degT": "46.1",
+            "le_displaced_threshold_ft": "403",
+            "he_ident": "24",
+            "he_latitude_deg": "46.1012",
+            "he_longitude_deg": "-70.7074",
+            "he_elevation_ft": "883",
+            "he_heading_degT": "226.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50530",
+            "airport_ref": "1902",
+            "airport_ident": "CYSG",
+            "type": "CNTR",
+            "description": "MONTREAL CNTR",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "50531",
+            "airport_ref": "1902",
+            "airport_ident": "CYSG",
+            "type": "UNIC",
+            "description": "MF/UNICOM",
+            "frequency_mhz": "122.15"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    },
+    "navaids": [
+        {
+            "id": "95197",
+            "filename": "Beauce_VOR-DME_CA",
+            "ident": "VLV",
+            "name": "Beauce",
+            "type": "VOR-DME",
+            "frequency_khz": "117200",
+            "latitude_deg": "45.92499923706055",
+            "longitude_deg": "-70.84609985351562",
+            "elevation_ft": "1584",
+            "iso_country": "CA",
+            "dme_frequency_khz": "117200",
+            "dme_channel": "119X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-18.012",
+            "magnetic_variation_deg": "-16.527",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYSG"
+        }
+    ]
+}

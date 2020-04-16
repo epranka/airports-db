@@ -1,0 +1,80 @@
+{
+    "id": "26973",
+    "ident": "YDMG",
+    "type": "small_airport",
+    "name": "Doomadgee Airport",
+    "latitude_deg": "-17.9403",
+    "longitude_deg": "138.822006",
+    "elevation_ft": "153",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "YDMG",
+    "iata_code": "DMD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Doomadgee_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233312",
+            "airport_ref": "26973",
+            "airport_ident": "YDMG",
+            "length_ft": "5433",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-17.9332",
+            "le_longitude_deg": "138.808",
+            "le_elevation_ft": "",
+            "le_heading_degT": "120",
+            "le_displaced_threshold_ft": "30",
+            "he_ident": "30",
+            "he_latitude_deg": "-17.9408",
+            "he_longitude_deg": "138.821",
+            "he_elevation_ft": "",
+            "he_heading_degT": "300",
+            "he_displaced_threshold_ft": "30"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48848",
+            "airport_ref": "26973",
+            "airport_ident": "YDMG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48849",
+            "airport_ref": "26973",
+            "airport_ident": "YDMG",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "125.7"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

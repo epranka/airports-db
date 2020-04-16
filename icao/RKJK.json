@@ -1,0 +1,168 @@
+{
+    "id": "5631",
+    "ident": "RKJK",
+    "type": "large_airport",
+    "name": "Kunsan Air Base",
+    "latitude_deg": "35.90380096435547",
+    "longitude_deg": "126.61599731445312",
+    "elevation_ft": "29",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-45",
+    "municipality": "Kunsan",
+    "scheduled_service": "yes",
+    "gps_code": "RKJK",
+    "iata_code": "KUV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gunsan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237306",
+            "airport_ref": "5631",
+            "airport_ident": "RKJK",
+            "length_ft": "9000",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "35.9159",
+            "le_longitude_deg": "126.613",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "169",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "35.8916",
+            "he_longitude_deg": "126.619",
+            "he_elevation_ft": "29",
+            "he_heading_degT": "349",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54939",
+            "airport_ref": "5631",
+            "airport_ident": "RKJK",
+            "type": "ACP",
+            "description": "AMC COMD POST/TACC",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "54940",
+            "airport_ref": "5631",
+            "airport_ident": "RKJK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "54941",
+            "airport_ref": "5631",
+            "airport_ident": "RKJK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.225"
+        },
+        {
+            "id": "54942",
+            "airport_ref": "5631",
+            "airport_ident": "RKJK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "133.75"
+        },
+        {
+            "id": "54943",
+            "airport_ref": "5631",
+            "airport_ident": "RKJK",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "54944",
+            "airport_ref": "5631",
+            "airport_ident": "RKJK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "54945",
+            "airport_ref": "5631",
+            "airport_ident": "RKJK",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.65"
+        },
+        {
+            "id": "54946",
+            "airport_ref": "5631",
+            "airport_ident": "RKJK",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "27.72"
+        },
+        {
+            "id": "54947",
+            "airport_ref": "5631",
+            "airport_ident": "RKJK",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "132.25"
+        },
+        {
+            "id": "54948",
+            "airport_ref": "5631",
+            "airport_ident": "RKJK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.5"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304411",
+        "code": "KR-45",
+        "local_code": "45",
+        "name": "Jeonrabugdo",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jeonrabugdo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90064",
+            "filename": "Kunsan_VORTAC_KR",
+            "ident": "KUZ",
+            "name": "Kunsan",
+            "type": "VORTAC",
+            "frequency_khz": "112800",
+            "latitude_deg": "35.910400390625",
+            "longitude_deg": "126.61100006103516",
+            "elevation_ft": "61",
+            "iso_country": "KR",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.009",
+            "magnetic_variation_deg": "-7.156",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RKJK"
+        }
+    ]
+}

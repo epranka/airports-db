@@ -1,0 +1,118 @@
+{
+    "id": "29001",
+    "ident": "LFSL",
+    "type": "medium_airport",
+    "name": "Brive-Souillac",
+    "latitude_deg": "45.039722",
+    "longitude_deg": "1.485556",
+    "elevation_ft": "1016",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Brive la Gaillarde",
+    "scheduled_service": "yes",
+    "gps_code": "LFSL",
+    "iata_code": "BVE",
+    "local_code": "",
+    "home_link": "http://www.aeroport-brive-vallee-dordogne.fr",
+    "wikipedia_link": "https://fr.wikipedia.org/wiki/Aéroport_de_Brive-Souillac",
+    "keywords": "LFSL",
+    "runways": [
+        {
+            "id": "332278",
+            "airport_ref": "29001",
+            "airport_ident": "LFSL",
+            "length_ft": "6890",
+            "width_ft": "147",
+            "surface": "",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "1016",
+            "le_heading_degT": "115",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "976",
+            "he_heading_degT": "295",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "318082",
+            "airport_ref": "29001",
+            "airport_ident": "LFSL",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "DELETE",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "DELETE",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "318084",
+            "airport_ref": "29001",
+            "airport_ident": "LFSL",
+            "type": "AFIS",
+            "description": "",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "332279",
+            "airport_ref": "29001",
+            "airport_ident": "LFSL",
+            "type": "approach",
+            "description": "LIMOGES APPROACH",
+            "frequency_mhz": "118.08"
+        },
+        {
+            "id": "318083",
+            "airport_ref": "29001",
+            "airport_ident": "LFSL",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "332280",
+            "airport_ref": "29001",
+            "airport_ident": "LFSL",
+            "type": "TWR/AFIS",
+            "description": "BRIVE TOWER/INFO",
+            "frequency_mhz": "121.125"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306352",
+        "code": "FR-NAQ",
+        "local_code": "NAQ",
+        "name": "Nouvelle-Aquitaine",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
+        "keywords": "Limousin, Poitou-Charentes"
+    }
+}

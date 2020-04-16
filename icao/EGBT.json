@@ -1,0 +1,72 @@
+{
+    "id": "2396",
+    "ident": "EGBT",
+    "type": "small_airport",
+    "name": "Turweston Airport",
+    "latitude_deg": "52.0407981873",
+    "longitude_deg": "-1.09555995464",
+    "elevation_ft": "448",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Turweston",
+    "scheduled_service": "no",
+    "gps_code": "EGBT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.turwestonflight.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Turweston_Aerodrome",
+    "keywords": "RAF Turweston",
+    "runways": [
+        {
+            "id": "239608",
+            "airport_ref": "2396",
+            "airport_ident": "EGBT",
+            "length_ft": "3002",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "52.0407",
+            "le_longitude_deg": "-1.10222",
+            "le_elevation_ft": "430",
+            "le_heading_degT": "86.9",
+            "le_displaced_threshold_ft": "279",
+            "he_ident": "27",
+            "he_latitude_deg": "52.0408",
+            "he_longitude_deg": "-1.08917",
+            "he_elevation_ft": "426",
+            "he_heading_degT": "266.9",
+            "he_displaced_threshold_ft": "98"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58546",
+            "airport_ref": "2396",
+            "airport_ident": "EGBT",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "122.175"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

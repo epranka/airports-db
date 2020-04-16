@@ -1,0 +1,88 @@
+{
+    "id": "3018",
+    "ident": "FWKI",
+    "type": "medium_airport",
+    "name": "Lilongwe International Airport",
+    "latitude_deg": "-13.7894001007",
+    "longitude_deg": "33.78099823",
+    "elevation_ft": "4035",
+    "continent": "AF",
+    "iso_country": "MW",
+    "iso_region": "MW-LI",
+    "municipality": "Lilongwe",
+    "scheduled_service": "yes",
+    "gps_code": "FWKI",
+    "iata_code": "LLW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lilongwe_International_Airport",
+    "keywords": "FWLI, Kamuzu International Airport",
+    "runways": [
+        {
+            "id": "237556",
+            "airport_ref": "3018",
+            "airport_ident": "FWKI",
+            "length_ft": "11614",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-13.7791",
+            "le_longitude_deg": "33.7684",
+            "le_elevation_ft": "4028",
+            "le_heading_degT": "130.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-13.7996",
+            "he_longitude_deg": "33.7936",
+            "he_elevation_ft": "4022",
+            "he_heading_degT": "310.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55294",
+            "airport_ref": "3018",
+            "airport_ident": "FWKI",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "55295",
+            "airport_ref": "3018",
+            "airport_ident": "FWKI",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "55296",
+            "airport_ref": "3018",
+            "airport_ident": "FWKI",
+            "type": "TWR",
+            "description": "LUMBADZI TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302589",
+        "code": "MW",
+        "name": "Malawi",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malawi",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304771",
+        "code": "MW-LI",
+        "local_code": "LI",
+        "name": "Lilongwe District",
+        "continent": "AF",
+        "iso_country": "MW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lilongwe_District",
+        "keywords": ""
+    }
+}

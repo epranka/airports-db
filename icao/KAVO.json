@@ -1,0 +1,102 @@
+{
+    "id": "19329",
+    "ident": "KAVO",
+    "type": "small_airport",
+    "name": "Avon Park Executive Airport",
+    "latitude_deg": "27.59119987",
+    "longitude_deg": "-81.52780151",
+    "elevation_ft": "160",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Avon Park",
+    "scheduled_service": "no",
+    "gps_code": "KAVO",
+    "iata_code": "AVO",
+    "local_code": "AVO",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Avon_Park_Executive_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243801",
+            "airport_ref": "19329",
+            "airport_ident": "KAVO",
+            "length_ft": "5364",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "27.5845",
+            "le_longitude_deg": "-81.5351",
+            "le_elevation_ft": "156",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "27.5949",
+            "he_longitude_deg": "-81.5233",
+            "he_elevation_ft": "153",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": "1000"
+        },
+        {
+            "id": "243802",
+            "airport_ref": "19329",
+            "airport_ident": "KAVO",
+            "length_ft": "3825",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "27.5936",
+            "le_longitude_deg": "-81.5345",
+            "le_elevation_ft": "154",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "27.5935",
+            "he_longitude_deg": "-81.5227",
+            "he_elevation_ft": "153",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": "500"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66793",
+            "airport_ref": "19329",
+            "airport_ident": "KAVO",
+            "type": "CNTR",
+            "description": "MIAMI CNTR",
+            "frequency_mhz": "134.55"
+        },
+        {
+            "id": "66794",
+            "airport_ref": "19329",
+            "airport_ident": "KAVO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

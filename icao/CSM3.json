@@ -1,0 +1,104 @@
+{
+    "id": "1538",
+    "ident": "CSM3",
+    "type": "small_airport",
+    "name": "Thetford Mines Airport",
+    "latitude_deg": "46.051700592041016",
+    "longitude_deg": "-71.2572021484375",
+    "elevation_ft": "1408",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Thetford Mines",
+    "scheduled_service": "no",
+    "gps_code": "CSM3",
+    "iata_code": "",
+    "local_code": "CSM3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Thetford_Mines_Airport",
+    "keywords": "SM3",
+    "runways": [
+        {
+            "id": "234747",
+            "airport_ref": "1538",
+            "airport_ident": "CSM3",
+            "length_ft": "4500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "46.0472",
+            "le_longitude_deg": "-71.2633",
+            "le_elevation_ft": "1407",
+            "le_heading_degT": "43.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "46.0561",
+            "he_longitude_deg": "-71.2511",
+            "he_elevation_ft": "1384",
+            "he_heading_degT": "223.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50405",
+            "airport_ref": "1538",
+            "airport_ident": "CSM3",
+            "type": "ARR",
+            "description": "MONTREAL CNTR",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "50406",
+            "airport_ref": "1538",
+            "airport_ident": "CSM3",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    },
+    "navaids": [
+        {
+            "id": "92947",
+            "filename": "Thetford_Mines_NDB_CA",
+            "ident": "R1",
+            "name": "Thetford Mines",
+            "type": "NDB",
+            "frequency_khz": "275",
+            "latitude_deg": "46.04560089111328",
+            "longitude_deg": "-71.26789855957031",
+            "elevation_ft": "1408",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.433",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CSM3"
+        }
+    ]
+}

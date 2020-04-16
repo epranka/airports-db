@@ -1,0 +1,118 @@
+{
+    "id": "21113",
+    "ident": "KSTK",
+    "type": "small_airport",
+    "name": "Sterling Municipal Airport",
+    "latitude_deg": "40.61529922",
+    "longitude_deg": "-103.2649994",
+    "elevation_ft": "4040",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Sterling",
+    "scheduled_service": "no",
+    "gps_code": "KSTK",
+    "iata_code": "STK",
+    "local_code": "STK",
+    "home_link": "https://www.codot.gov/programs/aeronautics/colorado-airport-system/general-aviation-airports/ga-airports-r-y/STK",
+    "wikipedia_link": "",
+    "keywords": "Crosson Field",
+    "runways": [
+        {
+            "id": "241324",
+            "airport_ref": "21113",
+            "airport_ident": "KSTK",
+            "length_ft": "2500",
+            "width_ft": "150",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "40.6103",
+            "le_longitude_deg": "-103.268",
+            "le_elevation_ft": "4028",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "40.6152",
+            "he_longitude_deg": "-103.261",
+            "he_elevation_ft": "4036",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241325",
+            "airport_ref": "21113",
+            "airport_ident": "KSTK",
+            "length_ft": "4692",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "40.6231",
+            "le_longitude_deg": "-103.267",
+            "le_elevation_ft": "4034",
+            "le_heading_degT": "165.8",
+            "le_displaced_threshold_ft": "411",
+            "he_ident": "33",
+            "he_latitude_deg": "40.6106",
+            "he_longitude_deg": "-103.263",
+            "he_elevation_ft": "4024",
+            "he_heading_degT": "345.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61614",
+            "airport_ref": "21113",
+            "airport_ident": "KSTK",
+            "type": "A/D",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "118.475"
+        },
+        {
+            "id": "61615",
+            "airport_ref": "21113",
+            "airport_ident": "KSTK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "61616",
+            "airport_ref": "21113",
+            "airport_ident": "KSTK",
+            "type": "RDO",
+            "description": "AKRON RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "61617",
+            "airport_ref": "21113",
+            "airport_ident": "KSTK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

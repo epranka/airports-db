@@ -1,0 +1,96 @@
+{
+    "id": "3024",
+    "ident": "FYAR",
+    "type": "medium_airport",
+    "name": "Arandis Airport",
+    "latitude_deg": "-22.462200164794922",
+    "longitude_deg": "14.979999542236328",
+    "elevation_ft": "1905",
+    "continent": "AF",
+    "iso_country": "NA",
+    "iso_region": "NA-ER",
+    "municipality": "Arandis",
+    "scheduled_service": "no",
+    "gps_code": "FYAR",
+    "iata_code": "ADI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246194",
+            "airport_ref": "3024",
+            "airport_ident": "FYAR",
+            "length_ft": "6300",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-22.4636",
+            "le_longitude_deg": "14.9708",
+            "le_elevation_ft": "1827",
+            "le_heading_degT": "81",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "-22.4609",
+            "he_longitude_deg": "14.9892",
+            "he_elevation_ft": "1905",
+            "he_heading_degT": "261",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71782",
+            "airport_ref": "3024",
+            "airport_ident": "FYAR",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302591",
+        "code": "NA",
+        "name": "Namibia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Namibia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304852",
+        "code": "NA-ER",
+        "local_code": "ER",
+        "name": "Erongo Region",
+        "continent": "AF",
+        "iso_country": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Erongo_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85254",
+            "filename": "Arandis_NDB_NA",
+            "ident": "AD",
+            "name": "Arandis",
+            "type": "NDB",
+            "frequency_khz": "328",
+            "latitude_deg": "-22.466699600219727",
+            "longitude_deg": "14.95829963684082",
+            "elevation_ft": "",
+            "iso_country": "NA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.554",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FYAR"
+        }
+    ]
+}

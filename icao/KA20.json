@@ -1,0 +1,72 @@
+{
+    "id": "19215",
+    "ident": "KA20",
+    "type": "small_airport",
+    "name": "Sun Valley Airport",
+    "latitude_deg": "35.012500762939",
+    "longitude_deg": "-114.56300354004",
+    "elevation_ft": "725",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Bullhead City",
+    "scheduled_service": "no",
+    "gps_code": "A20",
+    "iata_code": "",
+    "local_code": "A20",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sun_Valley_Airport_(Arizona)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241672",
+            "airport_ref": "19215",
+            "airport_ident": "KA20",
+            "length_ft": "3700",
+            "width_ft": "42",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "35.0175",
+            "le_longitude_deg": "-114.562",
+            "le_elevation_ft": "",
+            "le_heading_degT": "192.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "35.0075",
+            "he_longitude_deg": "-114.565",
+            "he_elevation_ft": "",
+            "he_heading_degT": "12.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62360",
+            "airport_ref": "19215",
+            "airport_ident": "KA20",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.975"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

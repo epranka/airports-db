@@ -1,0 +1,96 @@
+{
+    "id": "2999",
+    "ident": "FTTY",
+    "type": "medium_airport",
+    "name": "Faya Largeau Airport",
+    "latitude_deg": "17.91710090637207",
+    "longitude_deg": "19.111099243164062",
+    "elevation_ft": "771",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-BET",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "FTTY",
+    "iata_code": "FYT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235107",
+            "airport_ref": "2999",
+            "airport_ident": "FTTY",
+            "length_ft": "9186",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "17.9104",
+            "le_longitude_deg": "19.0998",
+            "le_elevation_ft": "741",
+            "le_heading_degT": "58",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "17.9237",
+            "he_longitude_deg": "19.1223",
+            "he_elevation_ft": "771",
+            "he_heading_degT": "238",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51081",
+            "airport_ref": "2999",
+            "airport_ident": "FTTY",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302604",
+        "code": "TD",
+        "name": "Chad",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chad",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305688",
+        "code": "TD-BET",
+        "local_code": "BET",
+        "name": "Borkou-Ennedi-Tibesti",
+        "continent": "AF",
+        "iso_country": "TD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Borkou-Ennedi-Tibesti",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88053",
+            "filename": "Faya_Largeau_NDB_TD",
+            "ident": "FLU",
+            "name": "Faya Largeau",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "17.921100616455078",
+            "longitude_deg": "19.113000869750977",
+            "elevation_ft": "830",
+            "iso_country": "TD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.099",
+            "usageType": "HI",
+            "power": "MEDIUM",
+            "associated_airport": "FTTY"
+        }
+    ]
+}

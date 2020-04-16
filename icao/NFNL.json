@@ -1,0 +1,96 @@
+{
+    "id": "4961",
+    "ident": "NFNL",
+    "type": "medium_airport",
+    "name": "Labasa Airport",
+    "latitude_deg": "-16.466699600219727",
+    "longitude_deg": "179.33999633789062",
+    "elevation_ft": "44",
+    "continent": "OC",
+    "iso_country": "FJ",
+    "iso_region": "FJ-N",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "NFNL",
+    "iata_code": "LBS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lambasa_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235779",
+            "airport_ref": "4961",
+            "airport_ident": "NFNL",
+            "length_ft": "3521",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "-16.4627",
+            "le_longitude_deg": "179.337",
+            "le_elevation_ft": "33",
+            "le_heading_degT": "145.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "-16.4708",
+            "he_longitude_deg": "179.343",
+            "he_elevation_ft": "44",
+            "he_heading_degT": "325.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52154",
+            "airport_ref": "4961",
+            "airport_ident": "NFNL",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302766",
+        "code": "FJ",
+        "name": "Fiji",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fiji",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303808",
+        "code": "FJ-N",
+        "local_code": "N",
+        "name": "Northern",
+        "continent": "OC",
+        "iso_country": "FJ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90188",
+            "filename": "Labasa_VOR-DME_FJ",
+            "ident": "LB",
+            "name": "Labasa",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "-16.41830062866211",
+            "longitude_deg": "179.31500244140625",
+            "elevation_ft": "32",
+            "iso_country": "FJ",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.007",
+            "magnetic_variation_deg": "12.001",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NFNL"
+        }
+    ]
+}

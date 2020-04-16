@@ -1,0 +1,72 @@
+{
+    "id": "46509",
+    "ident": "SE-0004",
+    "type": "small_airport",
+    "name": "Norberg",
+    "latitude_deg": "60.107157287899994",
+    "longitude_deg": "15.950399637199999",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-W",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "271028",
+            "airport_ref": "46509",
+            "airport_ident": "SE-0004",
+            "length_ft": "2500",
+            "width_ft": "50",
+            "surface": "Pavement",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "650",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "625",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75424",
+            "airport_ref": "46509",
+            "airport_ident": "SE-0004",
+            "type": "CTAF",
+            "description": "Norberg radio",
+            "frequency_mhz": "123.15"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305429",
+        "code": "SE-W",
+        "local_code": "W",
+        "name": "Dalarnas län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dalarnas_län",
+        "keywords": "Dalarna County"
+    }
+}

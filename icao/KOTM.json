@@ -1,0 +1,142 @@
+{
+    "id": "3760",
+    "ident": "KOTM",
+    "type": "medium_airport",
+    "name": "Ottumwa Regional Airport",
+    "latitude_deg": "41.10660172",
+    "longitude_deg": "-92.44789886",
+    "elevation_ft": "845",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Ottumwa",
+    "scheduled_service": "no",
+    "gps_code": "KOTM",
+    "iata_code": "OTM",
+    "local_code": "OTM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244050",
+            "airport_ref": "3760",
+            "airport_ident": "KOTM",
+            "length_ft": "5178",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "41.1031",
+            "le_longitude_deg": "-92.4542",
+            "le_elevation_ft": "841",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "41.1132",
+            "he_longitude_deg": "-92.4409",
+            "he_elevation_ft": "836",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244051",
+            "airport_ref": "3760",
+            "airport_ident": "KOTM",
+            "length_ft": "5885",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "41.111",
+            "le_longitude_deg": "-92.4558",
+            "le_elevation_ft": "840",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "41.0995",
+            "he_longitude_deg": "-92.4407",
+            "he_elevation_ft": "838",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67281",
+            "airport_ref": "3760",
+            "airport_ident": "KOTM",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "124.175"
+        },
+        {
+            "id": "67282",
+            "airport_ref": "3760",
+            "airport_ident": "KOTM",
+            "type": "CNTR",
+            "description": "CHICAGO CNTR",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "67283",
+            "airport_ref": "3760",
+            "airport_ident": "KOTM",
+            "type": "RDO",
+            "description": "FORT DODGE RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "67284",
+            "airport_ref": "3760",
+            "airport_ident": "KOTM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92140",
+            "filename": "Ottumwa_VOR-DME_US",
+            "ident": "OTM",
+            "name": "Ottumwa",
+            "type": "VOR-DME",
+            "frequency_khz": "111600",
+            "latitude_deg": "41.02909851074219",
+            "longitude_deg": "-92.32589721679688",
+            "elevation_ft": "820",
+            "iso_country": "US",
+            "dme_frequency_khz": "111600",
+            "dme_channel": "053X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "6.001",
+            "magnetic_variation_deg": "0.591",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KOTM"
+        }
+    ]
+}

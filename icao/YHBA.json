@@ -1,0 +1,104 @@
+{
+    "id": "27003",
+    "ident": "YHBA",
+    "type": "medium_airport",
+    "name": "Hervey Bay Airport",
+    "latitude_deg": "-25.3188991547",
+    "longitude_deg": "152.880004883",
+    "elevation_ft": "60",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Hervey Bay",
+    "scheduled_service": "yes",
+    "gps_code": "YHBA",
+    "iata_code": "HVB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hervey_Bay_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233313",
+            "airport_ref": "27003",
+            "airport_ident": "YHBA",
+            "length_ft": "6561",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-25.3155",
+            "le_longitude_deg": "152.872",
+            "le_elevation_ft": "55",
+            "le_heading_degT": "119",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "-25.3242",
+            "he_longitude_deg": "152.889",
+            "he_elevation_ft": "51",
+            "he_heading_degT": "299",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48850",
+            "airport_ref": "27003",
+            "airport_ident": "YHBA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.55"
+        },
+        {
+            "id": "48851",
+            "airport_ref": "27003",
+            "airport_ident": "YHBA",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "124.6"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88735",
+            "filename": "Hervey_Bay_NDB_AU",
+            "ident": "HBA",
+            "name": "Hervey Bay",
+            "type": "NDB",
+            "frequency_khz": "200",
+            "latitude_deg": "-25.324199676513672",
+            "longitude_deg": "152.88299560546875",
+            "elevation_ft": "60",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.307",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YHBA"
+        }
+    ]
+}

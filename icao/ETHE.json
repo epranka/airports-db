@@ -1,0 +1,120 @@
+{
+    "id": "2723",
+    "ident": "ETHE",
+    "type": "closed",
+    "name": "Rheine Bentlage Air Base",
+    "latitude_deg": "52.291199",
+    "longitude_deg": "7.387",
+    "elevation_ft": "129",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ETHE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rheine-Bentlage_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236315",
+            "airport_ref": "2723",
+            "airport_ident": "ETHE",
+            "length_ft": "1673",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "52.2908",
+            "le_longitude_deg": "7.38333",
+            "le_elevation_ft": "128",
+            "le_heading_degT": "84",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "52.2913",
+            "he_longitude_deg": "7.39067",
+            "he_elevation_ft": "125",
+            "he_heading_degT": "264",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53265",
+            "airport_ref": "2723",
+            "airport_ident": "ETHE",
+            "type": "A/G",
+            "description": "A/G",
+            "frequency_mhz": "42.4"
+        },
+        {
+            "id": "53266",
+            "airport_ref": "2723",
+            "airport_ident": "ETHE",
+            "type": "ACC",
+            "description": "BREMEN CON",
+            "frequency_mhz": "124.65"
+        },
+        {
+            "id": "53267",
+            "airport_ref": "2723",
+            "airport_ident": "ETHE",
+            "type": "DIR",
+            "description": "BENTLAGE RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "53268",
+            "airport_ref": "2723",
+            "airport_ident": "ETHE",
+            "type": "TWR",
+            "description": "BENTLAGE TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303556",
+        "code": "DE-NW",
+        "local_code": "NW",
+        "name": "North Rhine-Westphalia",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
+        "keywords": "Nordrhein-Westfalen"
+    },
+    "navaids": [
+        {
+            "id": "85949",
+            "filename": "Rheine_Bentlage_NDB_DE",
+            "ident": "BET",
+            "name": "Rheine Bentlage",
+            "type": "NDB",
+            "frequency_khz": "402",
+            "latitude_deg": "52.28779983520508",
+            "longitude_deg": "7.385670185089111",
+            "elevation_ft": "219",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.169",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "ETHE"
+        }
+    ]
+}

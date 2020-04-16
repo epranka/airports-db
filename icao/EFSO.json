@@ -1,0 +1,72 @@
+{
+    "id": "2346",
+    "ident": "EFSO",
+    "type": "medium_airport",
+    "name": "Sodankyla Airport",
+    "latitude_deg": "67.3949966431",
+    "longitude_deg": "26.6191005707",
+    "elevation_ft": "602",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-LL",
+    "municipality": "Sodankyla",
+    "scheduled_service": "no",
+    "gps_code": "EFSO",
+    "iata_code": "SOT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sodankyl%C3%A4_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235710",
+            "airport_ref": "2346",
+            "airport_ident": "EFSO",
+            "length_ft": "4921",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "67.4015",
+            "le_longitude_deg": "26.6147",
+            "le_elevation_ft": "598",
+            "le_heading_degT": "165",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "67.3885",
+            "he_longitude_deg": "26.6236",
+            "he_elevation_ft": "597",
+            "he_heading_degT": "345",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52054",
+            "airport_ref": "2346",
+            "airport_ident": "EFSO",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "123.4"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303802",
+        "code": "FI-LL",
+        "local_code": "LL",
+        "name": "Lapland",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lapland",
+        "keywords": "Lapin lääni, Lapplands län, Lappland"
+    }
+}

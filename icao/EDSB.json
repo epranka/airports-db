@@ -1,0 +1,158 @@
+{
+    "id": "2270",
+    "ident": "EDSB",
+    "type": "large_airport",
+    "name": "Karlsruhe Baden-Baden Airport",
+    "latitude_deg": "48.7793998718",
+    "longitude_deg": "8.08049964905",
+    "elevation_ft": "408",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Baden-Baden",
+    "scheduled_service": "yes",
+    "gps_code": "EDSB",
+    "iata_code": "FKB",
+    "local_code": "",
+    "home_link": "http://www.baden-airpark.de/startseite.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Baden_Airpark",
+    "keywords": "Baden Airpark",
+    "runways": [
+        {
+            "id": "236109",
+            "airport_ref": "2270",
+            "airport_ident": "EDSB",
+            "length_ft": "9787",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "48.7679",
+            "le_longitude_deg": "8.06976",
+            "le_elevation_ft": "405",
+            "le_heading_degT": "32",
+            "le_displaced_threshold_ft": "830",
+            "he_ident": "21",
+            "he_latitude_deg": "48.7908",
+            "he_longitude_deg": "8.09125",
+            "he_elevation_ft": "405",
+            "he_heading_degT": "212",
+            "he_displaced_threshold_ft": "830"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52711",
+            "airport_ref": "2270",
+            "airport_ident": "EDSB",
+            "type": "AAS",
+            "description": "REIMS INFO",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "52712",
+            "airport_ref": "2270",
+            "airport_ident": "EDSB",
+            "type": "APP",
+            "description": "STRASSBOURG RADAR",
+            "frequency_mhz": "119.45"
+        },
+        {
+            "id": "52713",
+            "airport_ref": "2270",
+            "airport_ident": "EDSB",
+            "type": "ATIS",
+            "description": "BADEN ATIS",
+            "frequency_mhz": "121.275"
+        },
+        {
+            "id": "52714",
+            "airport_ref": "2270",
+            "airport_ident": "EDSB",
+            "type": "GND",
+            "description": "BADEN GND",
+            "frequency_mhz": "121.825"
+        },
+        {
+            "id": "52715",
+            "airport_ref": "2270",
+            "airport_ident": "EDSB",
+            "type": "INFO",
+            "description": "LANGEN INFO",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "52716",
+            "airport_ref": "2270",
+            "airport_ident": "EDSB",
+            "type": "TWR",
+            "description": "BADEN TWR",
+            "frequency_mhz": "124"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
+    },
+    "navaids": [
+        {
+            "id": "89680",
+            "filename": "Karlsruhe_Baden_Baden_NDB_DE",
+            "ident": "KBA",
+            "name": "Karlsruhe Baden Baden",
+            "type": "NDB",
+            "frequency_khz": "431",
+            "latitude_deg": "48.79800033569336",
+            "longitude_deg": "8.097550392150879",
+            "elevation_ft": "408",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.411",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "EDSB"
+        },
+        {
+            "id": "89681",
+            "filename": "Karlsruhe_Baden_Baden_DME_DE",
+            "ident": "KBD",
+            "name": "Karlsruhe Baden Baden",
+            "type": "DME",
+            "frequency_khz": "115800",
+            "latitude_deg": "48.78020095825195",
+            "longitude_deg": "8.088489532470703",
+            "elevation_ft": "495",
+            "iso_country": "DE",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.41",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDSB"
+        }
+    ]
+}

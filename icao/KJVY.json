@@ -1,0 +1,118 @@
+{
+    "id": "20224",
+    "ident": "KJVY",
+    "type": "small_airport",
+    "name": "Clark Regional Airport",
+    "latitude_deg": "38.36539840698242",
+    "longitude_deg": "-85.73819732666016",
+    "elevation_ft": "474",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Jeffersonville",
+    "scheduled_service": "no",
+    "gps_code": "KJVY",
+    "iata_code": "",
+    "local_code": "JVY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245322",
+            "airport_ref": "20224",
+            "airport_ident": "KJVY",
+            "length_ft": "3899",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "38.3708",
+            "le_longitude_deg": "-85.7432",
+            "le_elevation_ft": "469",
+            "le_heading_degT": "138",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "38.3628",
+            "he_longitude_deg": "-85.7341",
+            "he_elevation_ft": "461",
+            "he_heading_degT": "318",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245323",
+            "airport_ref": "20224",
+            "airport_ident": "KJVY",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.372",
+            "le_longitude_deg": "-85.7379",
+            "le_elevation_ft": "474",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.3569",
+            "he_longitude_deg": "-85.7379",
+            "he_elevation_ft": "461",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70050",
+            "airport_ref": "20224",
+            "airport_ident": "KJVY",
+            "type": "A/D",
+            "description": "LOUISVILLE APP/DEP",
+            "frequency_mhz": "123.675"
+        },
+        {
+            "id": "70051",
+            "airport_ref": "20224",
+            "airport_ident": "KJVY",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.575"
+        },
+        {
+            "id": "70052",
+            "airport_ref": "20224",
+            "airport_ident": "KJVY",
+            "type": "CLD",
+            "description": "LOUISVILLE CLNC DEL",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "70053",
+            "airport_ref": "20224",
+            "airport_ident": "KJVY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

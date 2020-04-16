@@ -1,0 +1,112 @@
+{
+    "id": "2034",
+    "ident": "CZPC",
+    "type": "medium_airport",
+    "name": "Pincher Creek Airport",
+    "latitude_deg": "49.520599365200006",
+    "longitude_deg": "-113.997001648",
+    "elevation_ft": "3903",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Pincher Creek",
+    "scheduled_service": "no",
+    "gps_code": "CZPC",
+    "iata_code": "WPC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pincher_Creek_Airport",
+    "keywords": "ZPC",
+    "runways": [
+        {
+            "id": "234731",
+            "airport_ref": "2034",
+            "airport_ident": "CZPC",
+            "length_ft": "6600",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "49.5206",
+            "le_longitude_deg": "-114.011",
+            "le_elevation_ft": "3903",
+            "le_heading_degT": "89.6",
+            "le_displaced_threshold_ft": "400",
+            "he_ident": "25",
+            "he_latitude_deg": "49.5206",
+            "he_longitude_deg": "-113.983",
+            "he_elevation_ft": "3903",
+            "he_heading_degT": "269.6",
+            "he_displaced_threshold_ft": "1200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50369",
+            "airport_ref": "2034",
+            "airport_ident": "CZPC",
+            "type": "A/D",
+            "description": "EDMONTON CNTR",
+            "frequency_mhz": "132.75"
+        },
+        {
+            "id": "50370",
+            "airport_ref": "2034",
+            "airport_ident": "CZPC",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        },
+        {
+            "id": "50371",
+            "airport_ref": "2034",
+            "airport_ident": "CZPC",
+            "type": "RDO",
+            "description": "EDMONTON RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85150",
+            "filename": "Pincher_Creek_NDB_CA",
+            "ident": "9Y",
+            "name": "Pincher Creek",
+            "type": "NDB",
+            "frequency_khz": "311",
+            "latitude_deg": "49.52330017089844",
+            "longitude_deg": "-113.9990005493164",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.458",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CZPC"
+        }
+    ]
+}

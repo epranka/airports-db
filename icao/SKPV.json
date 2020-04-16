@@ -1,0 +1,88 @@
+{
+    "id": "6155",
+    "ident": "SKPV",
+    "type": "medium_airport",
+    "name": "El Embrujo Airport",
+    "latitude_deg": "13.3569",
+    "longitude_deg": "-81.3583",
+    "elevation_ft": "10",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-SAP",
+    "municipality": "Providencia",
+    "scheduled_service": "yes",
+    "gps_code": "SKPV",
+    "iata_code": "PVA",
+    "local_code": "PVA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/El_Embrujo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235315",
+            "airport_ref": "6155",
+            "airport_ident": "SKPV",
+            "length_ft": "3832",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "13.3621",
+            "le_longitude_deg": "-81.3594",
+            "le_elevation_ft": "10",
+            "le_heading_degT": "169.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "13.3517",
+            "he_longitude_deg": "-81.3574",
+            "he_elevation_ft": "10",
+            "he_heading_degT": "349.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51472",
+            "airport_ref": "6155",
+            "airport_ident": "SKPV",
+            "type": "APP",
+            "description": "SAN ANDRES APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "51473",
+            "airport_ref": "6155",
+            "airport_ident": "SKPV",
+            "type": "RDO",
+            "description": "PROVIDENCIA RDO",
+            "frequency_mhz": "672.8"
+        },
+        {
+            "id": "51474",
+            "airport_ref": "6155",
+            "airport_ident": "SKPV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.9"
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303484",
+        "code": "CO-SAP",
+        "local_code": "SAP",
+        "name": "San Andrés, Providencia y Santa Catalina Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/San_Andrés,_Providencia_y_Santa_Catalina_Department",
+        "keywords": ""
+    }
+}

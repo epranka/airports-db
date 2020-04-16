@@ -1,0 +1,102 @@
+{
+    "id": "27160",
+    "ident": "YTOC",
+    "type": "small_airport",
+    "name": "Tocumwal Airport",
+    "latitude_deg": "-35.81169891357422",
+    "longitude_deg": "145.60800170898438",
+    "elevation_ft": "372",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YTOC",
+    "iata_code": "TCW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAAF_Station_Tocumwal",
+    "keywords": "RAAF Station Tocumwal",
+    "runways": [
+        {
+            "id": "233205",
+            "airport_ref": "27160",
+            "airport_ident": "YTOC",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "-35.8101",
+            "le_longitude_deg": "145.595",
+            "le_elevation_ft": "365",
+            "le_heading_degT": "98",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "-35.8117",
+            "he_longitude_deg": "145.608",
+            "he_elevation_ft": "372",
+            "he_heading_degT": "278",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "233206",
+            "airport_ref": "27160",
+            "airport_ident": "YTOC",
+            "length_ft": "4596",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-35.803",
+            "le_longitude_deg": "145.606",
+            "le_elevation_ft": "367",
+            "le_heading_degT": "188",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-35.8154",
+            "he_longitude_deg": "145.604",
+            "he_elevation_ft": "370",
+            "he_heading_degT": "9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48683",
+            "airport_ref": "27160",
+            "airport_ident": "YTOC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "48684",
+            "airport_ref": "27160",
+            "airport_ident": "YTOC",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    }
+}

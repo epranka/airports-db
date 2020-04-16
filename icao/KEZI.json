@@ -1,0 +1,102 @@
+{
+    "id": "19790",
+    "ident": "KEZI",
+    "type": "small_airport",
+    "name": "Kewanee Municipal Airport",
+    "latitude_deg": "41.2052001953125",
+    "longitude_deg": "-89.96389770507812",
+    "elevation_ft": "858",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Kewanee",
+    "scheduled_service": "no",
+    "gps_code": "KEZI",
+    "iata_code": "",
+    "local_code": "EZI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245396",
+            "airport_ref": "19790",
+            "airport_ident": "KEZI",
+            "length_ft": "3200",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "41.2026",
+            "le_longitude_deg": "-89.9625",
+            "le_elevation_ft": "855",
+            "le_heading_degT": "11.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "41.2112",
+            "he_longitude_deg": "-89.9602",
+            "he_elevation_ft": "837",
+            "he_heading_degT": "191.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245397",
+            "airport_ref": "19790",
+            "airport_ident": "KEZI",
+            "length_ft": "4500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "41.2041",
+            "le_longitude_deg": "-89.9738",
+            "le_elevation_ft": "854",
+            "le_heading_degT": "91.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "41.2039",
+            "he_longitude_deg": "-89.9575",
+            "he_elevation_ft": "856",
+            "he_heading_degT": "271.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70210",
+            "airport_ref": "19790",
+            "airport_ident": "KEZI",
+            "type": "A/D",
+            "description": "QUAD CITY APP/DEP",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "70211",
+            "airport_ref": "19790",
+            "airport_ident": "KEZI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

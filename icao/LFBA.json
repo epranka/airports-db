@@ -1,0 +1,96 @@
+{
+    "id": "4058",
+    "ident": "LFBA",
+    "type": "medium_airport",
+    "name": "Agen-La Garenne Airport",
+    "latitude_deg": "44.17470169067383",
+    "longitude_deg": "0.5905560255050659",
+    "elevation_ft": "204",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Agen/La Garenne",
+    "scheduled_service": "yes",
+    "gps_code": "LFBA",
+    "iata_code": "AGF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Agen_-_La_Garenne_Aerodrome",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235918",
+            "airport_ref": "4058",
+            "airport_ident": "LFBA",
+            "length_ft": "7103",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "44.1777",
+            "le_longitude_deg": "0.580428",
+            "le_elevation_ft": "203",
+            "le_heading_degT": "112",
+            "le_displaced_threshold_ft": "541",
+            "he_ident": "29",
+            "he_latitude_deg": "44.1703",
+            "he_longitude_deg": "0.605494",
+            "he_elevation_ft": "200",
+            "he_heading_degT": "292",
+            "he_displaced_threshold_ft": "1312"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52362",
+            "airport_ref": "4058",
+            "airport_ident": "LFBA",
+            "type": "APP",
+            "description": "BLAGNAC APP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "52361",
+            "airport_ref": "4058",
+            "airport_ident": "LFBA",
+            "type": "APP",
+            "description": "TOULOUSE APP",
+            "frequency_mhz": "121.175"
+        },
+        {
+            "id": "52363",
+            "airport_ref": "4058",
+            "airport_ident": "LFBA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "129.6"
+        },
+        {
+            "id": "52364",
+            "airport_ref": "4058",
+            "airport_ident": "LFBA",
+            "type": "TWR",
+            "description": "AGEN TWR",
+            "frequency_mhz": "121.3"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306352",
+        "code": "FR-NAQ",
+        "local_code": "NAQ",
+        "name": "Nouvelle-Aquitaine",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
+        "keywords": "Limousin, Poitou-Charentes"
+    }
+}

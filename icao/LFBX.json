@@ -1,0 +1,80 @@
+{
+    "id": "4076",
+    "ident": "LFBX",
+    "type": "medium_airport",
+    "name": "Périgueux-Bassillac Airport",
+    "latitude_deg": "45.19810104370117",
+    "longitude_deg": "0.815555989742279",
+    "elevation_ft": "328",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Périgueux/Bassillac",
+    "scheduled_service": "no",
+    "gps_code": "LFBX",
+    "iata_code": "PGX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235929",
+            "airport_ref": "4076",
+            "airport_ident": "LFBX",
+            "length_ft": "5741",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "45.2004",
+            "le_longitude_deg": "0.805769",
+            "le_elevation_ft": "303",
+            "le_heading_degT": "114",
+            "le_displaced_threshold_ft": "984",
+            "he_ident": "29",
+            "he_latitude_deg": "45.1941",
+            "he_longitude_deg": "0.826186",
+            "he_elevation_ft": "324",
+            "he_heading_degT": "294",
+            "he_displaced_threshold_ft": "1050"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52390",
+            "airport_ref": "4076",
+            "airport_ident": "LFBX",
+            "type": "AFIS",
+            "description": "PERIGUEUX INFO",
+            "frequency_mhz": "118.775"
+        },
+        {
+            "id": "52391",
+            "airport_ref": "4076",
+            "airport_ident": "LFBX",
+            "type": "APP",
+            "description": "AQUITAINE APP",
+            "frequency_mhz": "119.275"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306352",
+        "code": "FR-NAQ",
+        "local_code": "NAQ",
+        "name": "Nouvelle-Aquitaine",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
+        "keywords": "Limousin, Poitou-Charentes"
+    }
+}

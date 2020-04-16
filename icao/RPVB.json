@@ -1,0 +1,80 @@
+{
+    "id": "35178",
+    "ident": "RPVB",
+    "type": "medium_airport",
+    "name": "Bacolod-Silay Airport",
+    "latitude_deg": "10.7764",
+    "longitude_deg": "123.014999",
+    "elevation_ft": "82",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-NEC",
+    "municipality": "Bacolod City",
+    "scheduled_service": "yes",
+    "gps_code": "RPVB",
+    "iata_code": "BCD",
+    "local_code": "",
+    "home_link": "http://www.bacolod-silayairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bacolod%E2%80%93Silay_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "271131",
+            "airport_ref": "35178",
+            "airport_ident": "RPVB",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75563",
+            "airport_ref": "35178",
+            "airport_ident": "RPVB",
+            "type": "approach",
+            "description": "",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "75562",
+            "airport_ref": "35178",
+            "airport_ident": "RPVB",
+            "type": "TOWER",
+            "description": "",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305106",
+        "code": "PH-NEC",
+        "local_code": "NEC",
+        "name": "Negroe Occidental Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Negroe_Occidental_Province",
+        "keywords": ""
+    }
+}

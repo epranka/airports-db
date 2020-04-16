@@ -1,0 +1,72 @@
+{
+    "id": "4804",
+    "ident": "MRGF",
+    "type": "medium_airport",
+    "name": "Golfito Airport",
+    "latitude_deg": "8.654009819030762",
+    "longitude_deg": "-83.18219757080078",
+    "elevation_ft": "49",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-P",
+    "municipality": "Golfito",
+    "scheduled_service": "yes",
+    "gps_code": "MRGF",
+    "iata_code": "GLF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235374",
+            "airport_ref": "4804",
+            "airport_ident": "MRGF",
+            "length_ft": "4593",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "8.65852",
+            "le_longitude_deg": "-83.1867",
+            "le_elevation_ft": "",
+            "le_heading_degT": "135.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "8.6495",
+            "he_longitude_deg": "-83.1777",
+            "he_elevation_ft": "",
+            "he_heading_degT": "315.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51586",
+            "airport_ref": "4804",
+            "airport_ident": "MRGF",
+            "type": "RDO",
+            "description": "COCO RDO",
+            "frequency_mhz": "126.8"
+        }
+    ],
+    "country": {
+        "id": "302731",
+        "code": "CR",
+        "name": "Costa Rica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
+        "keywords": "Aeropuertos de Costa Rica"
+    },
+    "region": {
+        "id": "303496",
+        "code": "CR-P",
+        "local_code": "P",
+        "name": "Puntarenas",
+        "continent": "NA",
+        "iso_country": "CR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Puntarenas",
+        "keywords": ""
+    }
+}

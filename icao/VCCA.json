@@ -1,0 +1,104 @@
+{
+    "id": "26464",
+    "ident": "VCCA",
+    "type": "medium_airport",
+    "name": "Anuradhapura Air Force Base",
+    "latitude_deg": "8.30148983002",
+    "longitude_deg": "80.42790222170001",
+    "elevation_ft": "324",
+    "continent": "AS",
+    "iso_country": "LK",
+    "iso_region": "LK-7",
+    "municipality": "Anuradhapura",
+    "scheduled_service": "no",
+    "gps_code": "VCCA",
+    "iata_code": "ACJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Anuradhapura_Airport",
+    "keywords": "SLAF Anuradhapura",
+    "runways": [
+        {
+            "id": "235117",
+            "airport_ref": "26464",
+            "airport_ident": "VCCA",
+            "length_ft": "4876",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "8.29684",
+            "le_longitude_deg": "80.423",
+            "le_elevation_ft": "315",
+            "le_heading_degT": "46.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "8.30613",
+            "he_longitude_deg": "80.4328",
+            "he_elevation_ft": "304",
+            "he_heading_degT": "226.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51097",
+            "airport_ref": "26464",
+            "airport_ident": "VCCA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "51098",
+            "airport_ref": "26464",
+            "airport_ident": "VCCA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.5"
+        }
+    ],
+    "country": {
+        "id": "302648",
+        "code": "LK",
+        "name": "Sri Lanka",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sri_Lanka",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306765",
+        "code": "LK-7",
+        "local_code": "7",
+        "name": "North Central Province",
+        "continent": "AS",
+        "iso_country": "LK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Central_Province,_Sri_Lanka",
+        "keywords": "Uturumeda Palata"
+    },
+    "navaids": [
+        {
+            "id": "85467",
+            "filename": "Anuradhapura_NDB_LK",
+            "ident": "AN",
+            "name": "Anuradhapura",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "8.303609848022461",
+            "longitude_deg": "80.42970275878906",
+            "elevation_ft": "",
+            "iso_country": "LK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.285",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VCCA"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "19926",
+    "ident": "KGBG",
+    "type": "small_airport",
+    "name": "Galesburg Municipal Airport",
+    "latitude_deg": "40.937999725299996",
+    "longitude_deg": "-90.431098938",
+    "elevation_ft": "764",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Galesburg",
+    "scheduled_service": "no",
+    "gps_code": "KGBG",
+    "iata_code": "GBG",
+    "local_code": "GBG",
+    "home_link": "http://www.ci.galesburg.il.us/services/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Galesburg_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245168",
+            "airport_ref": "19926",
+            "airport_ident": "KGBG",
+            "length_ft": "5793",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "40.9309",
+            "le_longitude_deg": "-90.4365",
+            "le_elevation_ft": "754",
+            "le_heading_degT": "28.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "40.9449",
+            "he_longitude_deg": "-90.4266",
+            "he_elevation_ft": "764",
+            "he_heading_degT": "208.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245169",
+            "airport_ref": "19926",
+            "airport_ident": "KGBG",
+            "length_ft": "3601",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "40.9391",
+            "le_longitude_deg": "-90.4369",
+            "le_elevation_ft": "758",
+            "le_heading_degT": "101",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "40.9372",
+            "he_longitude_deg": "-90.4241",
+            "he_elevation_ft": "758",
+            "he_heading_degT": "281",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69726",
+            "airport_ref": "19926",
+            "airport_ident": "KGBG",
+            "type": "A/D",
+            "description": "QUAD CITY APP/DEP",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "69727",
+            "airport_ref": "19926",
+            "airport_ident": "KGBG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "109.8"
+        },
+        {
+            "id": "69728",
+            "airport_ref": "19926",
+            "airport_ident": "KGBG",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "69729",
+            "airport_ref": "19926",
+            "airport_ident": "KGBG",
+            "type": "RDO",
+            "description": "KANKAKEE RDO",
+            "frequency_mhz": "109.8"
+        },
+        {
+            "id": "69730",
+            "airport_ref": "19926",
+            "airport_ident": "KGBG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

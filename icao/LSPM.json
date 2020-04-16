@@ -1,0 +1,80 @@
+{
+    "id": "4500",
+    "ident": "LSPM",
+    "type": "small_airport",
+    "name": "Ambri Airport",
+    "latitude_deg": "46.512501",
+    "longitude_deg": "8.68978",
+    "elevation_ft": "3241",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-TI",
+    "municipality": "Quinto",
+    "scheduled_service": "no",
+    "gps_code": "LSPM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.ambri-airport.ch",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ambri_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239104",
+            "airport_ref": "4500",
+            "airport_ident": "LSPM",
+            "length_ft": "6529",
+            "width_ft": "131",
+            "surface": "concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "46.5156",
+            "le_longitude_deg": "8.67758",
+            "le_elevation_ft": "3241",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "2067",
+            "he_ident": "29",
+            "he_latitude_deg": "46.5094",
+            "he_longitude_deg": "8.70194",
+            "he_elevation_ft": "3241",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "2165"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57524",
+            "airport_ref": "4500",
+            "airport_ident": "LSPM",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "302423",
+            "airport_ref": "4500",
+            "airport_ident": "LSPM",
+            "type": "FIS",
+            "description": "Zurich Information (en, ge)",
+            "frequency_mhz": "124.7"
+        }
+    ],
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303372",
+        "code": "CH-TI",
+        "local_code": "TI",
+        "name": "Canton of Ticino",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ticino",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "19870",
+    "ident": "KFIT",
+    "type": "small_airport",
+    "name": "Fitchburg Municipal Airport",
+    "latitude_deg": "42.554100036621094",
+    "longitude_deg": "-71.75900268554688",
+    "elevation_ft": "348",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Fitchburg",
+    "scheduled_service": "no",
+    "gps_code": "KFIT",
+    "iata_code": "",
+    "local_code": "FIT",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fitchburg_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242971",
+            "airport_ref": "19870",
+            "airport_ident": "KFIT",
+            "length_ft": "3504",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "42.5497",
+            "le_longitude_deg": "-71.76",
+            "le_elevation_ft": "331",
+            "le_heading_degT": "8",
+            "le_displaced_threshold_ft": "567",
+            "he_ident": "20",
+            "he_latitude_deg": "42.5592",
+            "he_longitude_deg": "-71.7581",
+            "he_elevation_ft": "342",
+            "he_heading_degT": "188",
+            "he_displaced_threshold_ft": "459"
+        },
+        {
+            "id": "242972",
+            "airport_ref": "19870",
+            "airport_ident": "KFIT",
+            "length_ft": "4510",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "42.5577",
+            "le_longitude_deg": "-71.7654",
+            "le_elevation_ft": "340",
+            "le_heading_degT": "129",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "42.55",
+            "he_longitude_deg": "-71.7523",
+            "he_elevation_ft": "329",
+            "he_heading_degT": "309",
+            "he_displaced_threshold_ft": "242"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65024",
+            "airport_ref": "19870",
+            "airport_ident": "KFIT",
+            "type": "A/D",
+            "description": "BOSTON APP/DEP",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "65025",
+            "airport_ref": "19870",
+            "airport_ident": "KFIT",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.175"
+        },
+        {
+            "id": "65026",
+            "airport_ref": "19870",
+            "airport_ident": "KFIT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306095",
+        "code": "US-MA",
+        "local_code": "MA",
+        "name": "Massachusetts",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
+        "keywords": ""
+    }
+}

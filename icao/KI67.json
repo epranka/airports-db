@@ -1,0 +1,102 @@
+{
+    "id": "20139",
+    "ident": "KI67",
+    "type": "small_airport",
+    "name": "Cincinnati West Airport",
+    "latitude_deg": "39.2588996887207",
+    "longitude_deg": "-84.77429962158203",
+    "elevation_ft": "584",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Harrison",
+    "scheduled_service": "no",
+    "gps_code": "KI67",
+    "iata_code": "",
+    "local_code": "I67",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244067",
+            "airport_ref": "20139",
+            "airport_ident": "KI67",
+            "length_ft": "3043",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "39.2548",
+            "le_longitude_deg": "-84.7743",
+            "le_elevation_ft": "580",
+            "le_heading_degT": "0.3",
+            "le_displaced_threshold_ft": "309",
+            "he_ident": "19",
+            "he_latitude_deg": "39.2631",
+            "he_longitude_deg": "-84.7743",
+            "he_elevation_ft": "582",
+            "he_heading_degT": "180.3",
+            "he_displaced_threshold_ft": "220"
+        },
+        {
+            "id": "244068",
+            "airport_ref": "20139",
+            "airport_ident": "KI67",
+            "length_ft": "1770",
+            "width_ft": "100",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "09",
+            "le_latitude_deg": "39.2567",
+            "le_longitude_deg": "-84.7808",
+            "le_elevation_ft": "",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "39.2567",
+            "he_longitude_deg": "-84.7744",
+            "he_elevation_ft": "",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67318",
+            "airport_ref": "20139",
+            "airport_ident": "KI67",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "67319",
+            "airport_ref": "20139",
+            "airport_ident": "KI67",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

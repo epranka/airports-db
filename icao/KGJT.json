@@ -1,0 +1,174 @@
+{
+    "id": "3557",
+    "ident": "KGJT",
+    "type": "medium_airport",
+    "name": "Grand Junction Regional Airport",
+    "latitude_deg": "39.1223983765",
+    "longitude_deg": "-108.527000427",
+    "elevation_ft": "4858",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Grand Junction",
+    "scheduled_service": "yes",
+    "gps_code": "KGJT",
+    "iata_code": "GJT",
+    "local_code": "GJT",
+    "home_link": "http://www.gjairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Junction_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243644",
+            "airport_ref": "3557",
+            "airport_ident": "KGJT",
+            "length_ft": "5502",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "39.1099",
+            "le_longitude_deg": "-108.53",
+            "le_elevation_ft": "4784",
+            "le_heading_degT": "54.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "39.1187",
+            "he_longitude_deg": "-108.514",
+            "he_elevation_ft": "4857",
+            "he_heading_degT": "234.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243645",
+            "airport_ref": "3557",
+            "airport_ident": "KGJT",
+            "length_ft": "10501",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "39.135",
+            "le_longitude_deg": "-108.544",
+            "le_elevation_ft": "4820",
+            "le_heading_degT": "125.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "39.1184",
+            "he_longitude_deg": "-108.514",
+            "he_elevation_ft": "4858",
+            "he_heading_degT": "305.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66447",
+            "airport_ref": "3557",
+            "airport_ident": "KGJT",
+            "type": "A/D",
+            "description": "DENVER APP/DEP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "66448",
+            "airport_ref": "3557",
+            "airport_ident": "KGJT",
+            "type": "AAS",
+            "description": "VFR ADVSY SVC",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "66449",
+            "airport_ref": "3557",
+            "airport_ident": "KGJT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "66450",
+            "airport_ref": "3557",
+            "airport_ident": "KGJT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "66451",
+            "airport_ref": "3557",
+            "airport_ident": "KGJT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "66452",
+            "airport_ref": "3557",
+            "airport_ident": "KGJT",
+            "type": "RCO",
+            "description": "DENVER RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "66453",
+            "airport_ref": "3557",
+            "airport_ident": "KGJT",
+            "type": "TWR",
+            "description": "GRAND JUNCTION TWR",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "66454",
+            "airport_ref": "3557",
+            "airport_ident": "KGJT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89520",
+            "filename": "Grand_Junction_VORTAC_US",
+            "ident": "JNC",
+            "name": "Grand Junction",
+            "type": "VORTAC",
+            "frequency_khz": "112400",
+            "latitude_deg": "39.059600830078125",
+            "longitude_deg": "-108.79299926757812",
+            "elevation_ft": "7100",
+            "iso_country": "US",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "11.182",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KGJT"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "4233",
+    "ident": "LFSM",
+    "type": "medium_airport",
+    "name": "Montbéliard-Courcelles Airfield",
+    "latitude_deg": "47.487",
+    "longitude_deg": "6.79054",
+    "elevation_ft": "1041",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-BFC",
+    "municipality": "Montbéliard/Courcelles",
+    "scheduled_service": "no",
+    "gps_code": "LFSM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236027",
+            "airport_ref": "4233",
+            "airport_ident": "LFSM",
+            "length_ft": "5578",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "47.4856",
+            "le_longitude_deg": "6.77946",
+            "le_elevation_ft": "1030",
+            "le_heading_degT": "79.4",
+            "le_displaced_threshold_ft": "1313",
+            "he_ident": "26",
+            "he_latitude_deg": "47.4884",
+            "he_longitude_deg": "6.80161",
+            "he_elevation_ft": "1037",
+            "he_heading_degT": "259.4",
+            "he_displaced_threshold_ft": "1313"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52585",
+            "airport_ref": "4233",
+            "airport_ident": "LFSM",
+            "type": "AFIS",
+            "description": "MONTBELIARD INFO",
+            "frequency_mhz": "132.025"
+        },
+        {
+            "id": "52586",
+            "airport_ref": "4233",
+            "airport_ident": "LFSM",
+            "type": "APP",
+            "description": "BALE APP",
+            "frequency_mhz": "121.25"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306350",
+        "code": "FR-BFC",
+        "local_code": "BFC",
+        "name": "Bourgogne-Franche-Comté",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bourgogne-Franche-Comt%C3%A9",
+        "keywords": "Bourgogne"
+    },
+    "navaids": [
+        {
+            "id": "88984",
+            "filename": "Hericourt_NDB_FR",
+            "ident": "HR",
+            "name": "Hericourt",
+            "type": "NDB",
+            "frequency_khz": "289",
+            "latitude_deg": "47.56169891357422",
+            "longitude_deg": "6.732250213623047",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.213",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LFSM"
+        }
+    ]
+}

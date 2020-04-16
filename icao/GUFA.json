@@ -1,0 +1,80 @@
+{
+    "id": "3147",
+    "ident": "GUFA",
+    "type": "small_airport",
+    "name": "Fria Airport",
+    "latitude_deg": "10.350600242615",
+    "longitude_deg": "-13.569199562073",
+    "elevation_ft": "499",
+    "continent": "AF",
+    "iso_country": "GN",
+    "iso_region": "GN-B",
+    "municipality": "Fria",
+    "scheduled_service": "no",
+    "gps_code": "GUFA",
+    "iata_code": "FIG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fria_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236401",
+            "airport_ref": "3147",
+            "airport_ident": "GUFA",
+            "length_ft": "5249",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "10.3456",
+            "le_longitude_deg": "-13.5748",
+            "le_elevation_ft": "",
+            "le_heading_degT": "48.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "10.3553",
+            "he_longitude_deg": "-13.5638",
+            "he_elevation_ft": "",
+            "he_heading_degT": "228.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53465",
+            "airport_ref": "3147",
+            "airport_ident": "GUFA",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "658.9"
+        },
+        {
+            "id": "53466",
+            "airport_ref": "3147",
+            "airport_ident": "GUFA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.9"
+        }
+    ],
+    "country": {
+        "id": "302576",
+        "code": "GN",
+        "name": "Guinea",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guinea",
+        "keywords": "Aéroports de la Guinée"
+    },
+    "region": {
+        "id": "316858",
+        "code": "GN-B",
+        "local_code": "B",
+        "name": "Boké Region",
+        "continent": "AF",
+        "iso_country": "GN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bok%C3%A9_Region",
+        "keywords": ""
+    }
+}

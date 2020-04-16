@@ -1,0 +1,96 @@
+{
+    "id": "26640",
+    "ident": "VTBI",
+    "type": "small_airport",
+    "name": "Khao E To Airport",
+    "latitude_deg": "14.077799797058105",
+    "longitude_deg": "101.37999725341797",
+    "elevation_ft": "80",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-25",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "VTBI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239176",
+            "airport_ref": "26640",
+            "airport_ident": "VTBI",
+            "length_ft": "3280",
+            "width_ft": "112",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "14.0822",
+            "le_longitude_deg": "101.379",
+            "le_elevation_ft": "80",
+            "le_heading_degT": "172.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "14.0733",
+            "he_longitude_deg": "101.381",
+            "he_elevation_ft": "80",
+            "he_heading_degT": "352.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57716",
+            "airport_ref": "26640",
+            "airport_ident": "VTBI",
+            "type": "CNTR",
+            "description": "BANGKOK CON",
+            "frequency_mhz": "133.1"
+        }
+    ],
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305722",
+        "code": "TH-25",
+        "local_code": "25",
+        "name": "Prachin Buri Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Prachin_Buri",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92291",
+            "filename": "Prachin_Buri_NDB_TH",
+            "ident": "PB",
+            "name": "Prachin Buri",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "14.119999885559082",
+            "longitude_deg": "101.36799621582031",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.335",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTBI"
+        }
+    ]
+}

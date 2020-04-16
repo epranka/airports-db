@@ -1,0 +1,104 @@
+{
+    "id": "3436",
+    "ident": "KBYH",
+    "type": "medium_airport",
+    "name": "Arkansas International Airport",
+    "latitude_deg": "35.9642982483",
+    "longitude_deg": "-89.94400024410001",
+    "elevation_ft": "254",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Blytheville",
+    "scheduled_service": "no",
+    "gps_code": "KBYH",
+    "iata_code": "BYH",
+    "local_code": "BYH",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas_International_Airport",
+    "keywords": "Blytheville AFB, Eaker AFB",
+    "runways": [
+        {
+            "id": "241394",
+            "airport_ref": "3436",
+            "airport_ident": "KBYH",
+            "length_ft": "11602",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "35.9803",
+            "le_longitude_deg": "-89.944",
+            "le_elevation_ft": "250",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "35.9484",
+            "he_longitude_deg": "-89.944",
+            "he_elevation_ft": "252",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61749",
+            "airport_ref": "3436",
+            "airport_ident": "KBYH",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "134.65"
+        },
+        {
+            "id": "61750",
+            "airport_ref": "3436",
+            "airport_ident": "KBYH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88508",
+            "filename": "Gosnell_VOR_US",
+            "ident": "GOJ",
+            "name": "Gosnell",
+            "type": "VOR",
+            "frequency_khz": "111800",
+            "latitude_deg": "35.95100021362305",
+            "longitude_deg": "-89.94110107421875",
+            "elevation_ft": "250",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.01",
+            "magnetic_variation_deg": "-0.154",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KBYH"
+        }
+    ]
+}

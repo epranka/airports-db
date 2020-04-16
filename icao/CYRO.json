@@ -1,0 +1,88 @@
+{
+    "id": "1891",
+    "ident": "CYRO",
+    "type": "medium_airport",
+    "name": "Ottawa / Rockcliffe Airport",
+    "latitude_deg": "45.4603004456",
+    "longitude_deg": "-75.64610290530001",
+    "elevation_ft": "188",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Ottawa",
+    "scheduled_service": "no",
+    "gps_code": "CYRO",
+    "iata_code": "YRO",
+    "local_code": "CYRO",
+    "home_link": "http://www.rfc.ca/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ottawa/Rockcliffe_Airport",
+    "keywords": "YRO",
+    "runways": [
+        {
+            "id": "234683",
+            "airport_ref": "1891",
+            "airport_ident": "CYRO",
+            "length_ft": "3300",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "45.4592",
+            "le_longitude_deg": "-75.6522",
+            "le_elevation_ft": "",
+            "le_heading_degT": "76",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "27",
+            "he_latitude_deg": "45.4614",
+            "he_longitude_deg": "-75.6403",
+            "he_elevation_ft": "",
+            "he_heading_degT": "256",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75158",
+            "airport_ref": "1891",
+            "airport_ident": "CYRO",
+            "type": "ATF",
+            "description": "Rockcliffe Traffic",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "75162",
+            "airport_ref": "1891",
+            "airport_ident": "CYRO",
+            "type": "RCO",
+            "description": "Quebec Radio",
+            "frequency_mhz": "123.375"
+        },
+        {
+            "id": "50287",
+            "airport_ref": "1891",
+            "airport_ident": "CYRO",
+            "type": "UNICOM",
+            "description": "Rockcliffe Unicom",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": ""
+    }
+}

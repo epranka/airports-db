@@ -1,0 +1,172 @@
+{
+    "id": "3932",
+    "ident": "KTUS",
+    "type": "large_airport",
+    "name": "Tucson International Airport",
+    "latitude_deg": "32.1161003112793",
+    "longitude_deg": "-110.94100189208984",
+    "elevation_ft": "2643",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Tucson",
+    "scheduled_service": "yes",
+    "gps_code": "KTUS",
+    "iata_code": "TUS",
+    "local_code": "TUS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tucson_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242912",
+            "airport_ref": "3932",
+            "airport_ident": "KTUS",
+            "length_ft": "7000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "32.1172",
+            "le_longitude_deg": "-110.959",
+            "le_elevation_ft": "2564",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "841",
+            "he_ident": "21",
+            "he_latitude_deg": "32.1308",
+            "he_longitude_deg": "-110.943",
+            "he_elevation_ft": "2569",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242914",
+            "airport_ref": "3932",
+            "airport_ident": "KTUS",
+            "length_ft": "10996",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11L",
+            "le_latitude_deg": "32.1234",
+            "le_longitude_deg": "-110.948",
+            "le_elevation_ft": "2578",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29R",
+            "he_latitude_deg": "32.102",
+            "he_longitude_deg": "-110.923",
+            "he_elevation_ft": "2643",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242913",
+            "airport_ref": "3932",
+            "airport_ident": "KTUS",
+            "length_ft": "8408",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11R",
+            "le_latitude_deg": "32.1221",
+            "le_longitude_deg": "-110.95",
+            "le_elevation_ft": "2585",
+            "le_heading_degT": "135.2",
+            "le_displaced_threshold_ft": "1410",
+            "he_ident": "29L",
+            "he_latitude_deg": "32.1058",
+            "he_longitude_deg": "-110.93",
+            "he_elevation_ft": "2629",
+            "he_heading_degT": "315.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64897",
+            "airport_ref": "3932",
+            "airport_ident": "KTUS",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "64898",
+            "airport_ref": "3932",
+            "airport_ident": "KTUS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "64899",
+            "airport_ref": "3932",
+            "airport_ident": "KTUS",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126.65"
+        },
+        {
+            "id": "64900",
+            "airport_ref": "3932",
+            "airport_ident": "KTUS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "64901",
+            "airport_ref": "3932",
+            "airport_ident": "KTUS",
+            "type": "POST",
+            "description": "ANG COMD POST",
+            "frequency_mhz": "39.22"
+        },
+        {
+            "id": "64902",
+            "airport_ref": "3932",
+            "airport_ident": "KTUS",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "64903",
+            "airport_ref": "3932",
+            "airport_ident": "KTUS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "64904",
+            "airport_ref": "3932",
+            "airport_ident": "KTUS",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

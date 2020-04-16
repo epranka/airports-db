@@ -1,0 +1,150 @@
+{
+    "id": "6297",
+    "ident": "SVMC",
+    "type": "medium_airport",
+    "name": "La Chinita International Airport",
+    "latitude_deg": "10.5582084656",
+    "longitude_deg": "-71.7278594971",
+    "elevation_ft": "239",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-V",
+    "municipality": "Maracaibo",
+    "scheduled_service": "yes",
+    "gps_code": "SVMC",
+    "iata_code": "MAR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/La_Chinita_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246123",
+            "airport_ref": "6297",
+            "airport_ident": "SVMC",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "CONCRETE",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03L",
+            "le_latitude_deg": "10.5459",
+            "le_longitude_deg": "-71.7341",
+            "le_elevation_ft": "216",
+            "le_heading_degT": "31",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21R",
+            "he_latitude_deg": "10.5709",
+            "he_longitude_deg": "-71.7235",
+            "he_elevation_ft": "239",
+            "he_heading_degT": "211",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "246122",
+            "airport_ref": "6297",
+            "airport_ident": "SVMC",
+            "length_ft": "8202",
+            "width_ft": "98",
+            "surface": "CONCRETE",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03R",
+            "le_latitude_deg": "10.5476",
+            "le_longitude_deg": "-71.7313",
+            "le_elevation_ft": "229",
+            "le_heading_degT": "31",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21L",
+            "he_latitude_deg": "10.5684",
+            "he_longitude_deg": "-71.7225",
+            "he_elevation_ft": "207",
+            "he_heading_degT": "211",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71712",
+            "airport_ref": "6297",
+            "airport_ident": "SVMC",
+            "type": "APP",
+            "description": "MARACAIBO APP",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "71713",
+            "airport_ref": "6297",
+            "airport_ident": "SVMC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "115.7"
+        },
+        {
+            "id": "71714",
+            "airport_ref": "6297",
+            "airport_ident": "SVMC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71715",
+            "airport_ref": "6297",
+            "airport_ident": "SVMC",
+            "type": "RDO",
+            "description": "MARACAIBO RDO",
+            "frequency_mhz": "132"
+        },
+        {
+            "id": "71716",
+            "airport_ref": "6297",
+            "airport_ident": "SVMC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306186",
+        "code": "VE-V",
+        "local_code": "V",
+        "name": "Zulia",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zulia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90739",
+            "filename": "Maracaibo_VORTAC_VE",
+            "ident": "MAR",
+            "name": "Maracaibo",
+            "type": "VORTAC",
+            "frequency_khz": "115700",
+            "latitude_deg": "10.584199905395508",
+            "longitude_deg": "-71.71289825439453",
+            "elevation_ft": "112",
+            "iso_country": "VE",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.007",
+            "magnetic_variation_deg": "-8.13",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVMC"
+        }
+    ]
+}

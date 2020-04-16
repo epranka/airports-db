@@ -1,0 +1,96 @@
+{
+    "id": "20958",
+    "ident": "KRQE",
+    "type": "small_airport",
+    "name": "Window Rock Airport",
+    "latitude_deg": "35.652099609375",
+    "longitude_deg": "-109.06700134277344",
+    "elevation_ft": "6742",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Window Rock",
+    "scheduled_service": "no",
+    "gps_code": "KRQE",
+    "iata_code": "",
+    "local_code": "RQE",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Window_Rock_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241412",
+            "airport_ref": "20958",
+            "airport_ident": "KRQE",
+            "length_ft": "7000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "35.6441",
+            "le_longitude_deg": "-109.074",
+            "le_elevation_ft": "6698",
+            "le_heading_degT": "34.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "35.66",
+            "he_longitude_deg": "-109.061",
+            "he_elevation_ft": "6739",
+            "he_heading_degT": "214.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61804",
+            "airport_ref": "20958",
+            "airport_ident": "KRQE",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "61805",
+            "airport_ref": "20958",
+            "airport_ident": "KRQE",
+            "type": "CNTR",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "124.325"
+        },
+        {
+            "id": "61806",
+            "airport_ref": "20958",
+            "airport_ident": "KRQE",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "61807",
+            "airport_ref": "20958",
+            "airport_ident": "KRQE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

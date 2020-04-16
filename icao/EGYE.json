@@ -1,0 +1,172 @@
+{
+    "id": "2510",
+    "ident": "EGYE",
+    "type": "medium_airport",
+    "name": "RAF Barkston Heath",
+    "latitude_deg": "52.962200164799995",
+    "longitude_deg": "-0.561625003815",
+    "elevation_ft": "367",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Grantham",
+    "scheduled_service": "no",
+    "gps_code": "EGYE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Barkston_Heath",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239476",
+            "airport_ref": "2510",
+            "airport_ident": "EGYE",
+            "length_ft": "5722",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "52.9586",
+            "le_longitude_deg": "-0.571861",
+            "le_elevation_ft": "366",
+            "le_heading_degT": "58",
+            "le_displaced_threshold_ft": "219",
+            "he_ident": "24",
+            "he_latitude_deg": "52.9674",
+            "he_longitude_deg": "-0.548875",
+            "he_elevation_ft": "323",
+            "he_heading_degT": "238",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239477",
+            "airport_ref": "2510",
+            "airport_ident": "EGYE",
+            "length_ft": "4193",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "52.9603",
+            "le_longitude_deg": "-0.572261",
+            "le_elevation_ft": "367",
+            "le_heading_degT": "103",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "52.9577",
+            "he_longitude_deg": "-0.553672",
+            "he_elevation_ft": "341",
+            "he_heading_degT": "283",
+            "he_displaced_threshold_ft": "504"
+        },
+        {
+            "id": "239478",
+            "airport_ref": "2510",
+            "airport_ident": "EGYE",
+            "length_ft": "2608",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "52.965",
+            "le_longitude_deg": "-0.556167",
+            "le_elevation_ft": "367",
+            "le_heading_degT": "178",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "52.9582",
+            "he_longitude_deg": "-0.555667",
+            "he_elevation_ft": "367",
+            "he_heading_degT": "358",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58279",
+            "airport_ref": "2510",
+            "airport_ident": "EGYE",
+            "type": "APP",
+            "description": "CRANWELLL APP",
+            "frequency_mhz": "28.077"
+        },
+        {
+            "id": "307771",
+            "airport_ref": "2510",
+            "airport_ident": "EGYE",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "58280",
+            "airport_ref": "2510",
+            "airport_ident": "EGYE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "293.45"
+        },
+        {
+            "id": "58281",
+            "airport_ref": "2510",
+            "airport_ident": "EGYE",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "119.375"
+        },
+        {
+            "id": "307770",
+            "airport_ref": "2510",
+            "airport_ident": "EGYE",
+            "type": "DEP",
+            "description": "",
+            "frequency_mhz": "355.95"
+        },
+        {
+            "id": "58282",
+            "airport_ref": "2510",
+            "airport_ident": "EGYE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "389.45"
+        },
+        {
+            "id": "58283",
+            "airport_ref": "2510",
+            "airport_ident": "EGYE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.425"
+        },
+        {
+            "id": "307769",
+            "airport_ref": "2510",
+            "airport_ident": "EGYE",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "281.225"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

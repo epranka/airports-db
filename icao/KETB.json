@@ -1,0 +1,134 @@
+{
+    "id": "19773",
+    "ident": "KETB",
+    "type": "small_airport",
+    "name": "West Bend Municipal Airport",
+    "latitude_deg": "43.4221992493",
+    "longitude_deg": "-88.1278991699",
+    "elevation_ft": "887",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "West Bend",
+    "scheduled_service": "no",
+    "gps_code": "KETB",
+    "iata_code": "ETB",
+    "local_code": "ETB",
+    "home_link": "http://www.ci.west-bend.wi.us/Airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/West_Bend_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242901",
+            "airport_ref": "19773",
+            "airport_ident": "KETB",
+            "length_ft": "3897",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "43.42",
+            "le_longitude_deg": "-88.1342",
+            "le_elevation_ft": "886",
+            "le_heading_degT": "59",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "43.4255",
+            "he_longitude_deg": "-88.1217",
+            "he_elevation_ft": "874",
+            "he_heading_degT": "239",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242902",
+            "airport_ref": "19773",
+            "airport_ident": "KETB",
+            "length_ft": "4494",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "43.4254",
+            "le_longitude_deg": "-88.1347",
+            "le_elevation_ft": "882",
+            "le_heading_degT": "127",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "43.418",
+            "he_longitude_deg": "-88.1211",
+            "he_elevation_ft": "868",
+            "he_heading_degT": "307",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64876",
+            "airport_ref": "19773",
+            "airport_ident": "KETB",
+            "type": "A/D",
+            "description": "MILWAUKEE APP/DEP",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "64877",
+            "airport_ref": "19773",
+            "airport_ident": "KETB",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "64878",
+            "airport_ref": "19773",
+            "airport_ident": "KETB",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.75"
+        },
+        {
+            "id": "64879",
+            "airport_ref": "19773",
+            "airport_ident": "KETB",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "40.9"
+        },
+        {
+            "id": "64880",
+            "airport_ref": "19773",
+            "airport_ident": "KETB",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "109.8"
+        },
+        {
+            "id": "64881",
+            "airport_ref": "19773",
+            "airport_ident": "KETB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

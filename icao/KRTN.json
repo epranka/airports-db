@@ -1,0 +1,110 @@
+{
+    "id": "20965",
+    "ident": "KRTN",
+    "type": "small_airport",
+    "name": "Raton Municipal-Crews Field",
+    "latitude_deg": "36.74150085",
+    "longitude_deg": "-104.5019989",
+    "elevation_ft": "6352",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Raton",
+    "scheduled_service": "no",
+    "gps_code": "KRTN",
+    "iata_code": "RTN",
+    "local_code": "RTN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Raton_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245871",
+            "airport_ref": "20965",
+            "airport_ident": "KRTN",
+            "length_ft": "6328",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "36.7342",
+            "le_longitude_deg": "-104.511",
+            "le_elevation_ft": "6332",
+            "le_heading_degT": "34.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "36.7485",
+            "he_longitude_deg": "-104.499",
+            "he_elevation_ft": "6352",
+            "he_heading_degT": "214.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245872",
+            "airport_ref": "20965",
+            "airport_ident": "KRTN",
+            "length_ft": "4404",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "36.7405",
+            "le_longitude_deg": "-104.505",
+            "le_elevation_ft": "6342",
+            "le_heading_degT": "77.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "36.7431",
+            "he_longitude_deg": "-104.491",
+            "he_elevation_ft": "6310",
+            "he_heading_degT": "257.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71239",
+            "airport_ref": "20965",
+            "airport_ident": "KRTN",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "71240",
+            "airport_ref": "20965",
+            "airport_ident": "KRTN",
+            "type": "CNTR",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "132.8"
+        },
+        {
+            "id": "71241",
+            "airport_ref": "20965",
+            "airport_ident": "KRTN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    }
+}

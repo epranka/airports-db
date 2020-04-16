@@ -1,0 +1,88 @@
+{
+    "id": "2449",
+    "ident": "EGNV",
+    "type": "medium_airport",
+    "name": "Durham Tees Valley Airport",
+    "latitude_deg": "54.50920104980469",
+    "longitude_deg": "-1.4294099807739258",
+    "elevation_ft": "120",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Durham",
+    "scheduled_service": "yes",
+    "gps_code": "EGNV",
+    "iata_code": "MME",
+    "local_code": "",
+    "home_link": "http://www.durhamteesvalleyairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Durham_Tees_Valley_Airport",
+    "keywords": "Teesside",
+    "runways": [
+        {
+            "id": "239501",
+            "airport_ref": "2449",
+            "airport_ident": "EGNV",
+            "length_ft": "7516",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "54.5022",
+            "le_longitude_deg": "-1.44243",
+            "le_elevation_ft": "115",
+            "le_heading_degT": "48",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "54.5162",
+            "he_longitude_deg": "-1.41638",
+            "he_elevation_ft": "116",
+            "he_heading_degT": "228",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58337",
+            "airport_ref": "2449",
+            "airport_ident": "EGNV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.375"
+        },
+        {
+            "id": "58336",
+            "airport_ref": "2449",
+            "airport_ident": "EGNV",
+            "type": "RADAR",
+            "description": "Durham Radar",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "58338",
+            "airport_ref": "2449",
+            "airport_ident": "EGNV",
+            "type": "TWR",
+            "description": "Durham Tower",
+            "frequency_mhz": "119.8"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "20829",
+    "ident": "KPHK",
+    "type": "small_airport",
+    "name": "Palm Beach County Glades Airport",
+    "latitude_deg": "26.78499985",
+    "longitude_deg": "-80.69339752",
+    "elevation_ft": "16",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Pahokee",
+    "scheduled_service": "no",
+    "gps_code": "KPHK",
+    "iata_code": "PHK",
+    "local_code": "PHK",
+    "home_link": "http://www.pbia.org/about/general-aviation/glades-airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Palm_Beach_County_Glades_Airport",
+    "keywords": "Pahokee Airport",
+    "runways": [
+        {
+            "id": "239737",
+            "airport_ref": "20829",
+            "airport_ident": "KPHK",
+            "length_ft": "1617",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "07",
+            "le_latitude_deg": "26.785",
+            "le_longitude_deg": "-80.6953",
+            "le_elevation_ft": "",
+            "le_heading_degT": "64",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "26.7869",
+            "he_longitude_deg": "-80.6908",
+            "he_elevation_ft": "",
+            "he_heading_degT": "244",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239738",
+            "airport_ref": "20829",
+            "airport_ident": "KPHK",
+            "length_ft": "4116",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "26.7907",
+            "le_longitude_deg": "-80.6941",
+            "le_elevation_ft": "16",
+            "le_heading_degT": "174",
+            "le_displaced_threshold_ft": "100",
+            "he_ident": "35",
+            "he_latitude_deg": "26.7794",
+            "he_longitude_deg": "-80.6926",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "354",
+            "he_displaced_threshold_ft": "50"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58879",
+            "airport_ref": "20829",
+            "airport_ident": "KPHK",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "58880",
+            "airport_ref": "20829",
+            "airport_ident": "KPHK",
+            "type": "RDO",
+            "description": "MIAMI RDO",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "58881",
+            "airport_ref": "20829",
+            "airport_ident": "KPHK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

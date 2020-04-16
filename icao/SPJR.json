@@ -1,0 +1,96 @@
+{
+    "id": "6223",
+    "ident": "SPJR",
+    "type": "medium_airport",
+    "name": "Mayor General FAP Armando Revoredo Iglesias Airport",
+    "latitude_deg": "-7.1391801834106445",
+    "longitude_deg": "-78.4894027709961",
+    "elevation_ft": "8781",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-CAJ",
+    "municipality": "Cajamarca",
+    "scheduled_service": "yes",
+    "gps_code": "SPJR",
+    "iata_code": "CJA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/My._Gral._FAP._Armando_Revoredo_Iglesias_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238126",
+            "airport_ref": "6223",
+            "airport_ident": "SPJR",
+            "length_ft": "8201",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-7.12877",
+            "le_longitude_deg": "-78.4937",
+            "le_elevation_ft": "8848",
+            "le_heading_degT": "157.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-7.1496",
+            "he_longitude_deg": "-78.4851",
+            "he_elevation_ft": "8758",
+            "he_heading_degT": "337.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56057",
+            "airport_ref": "6223",
+            "airport_ident": "SPJR",
+            "type": "TWR",
+            "description": "CAJAMARCA TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Perú",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305012",
+        "code": "PE-CAJ",
+        "local_code": "CAJ",
+        "name": "Cajamarca Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cajamarca_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90746",
+            "filename": "Cajamarca_NDB_PE",
+            "ident": "MAR",
+            "name": "Cajamarca",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "-7.139999866485596",
+            "longitude_deg": "-78.4906005859375",
+            "elevation_ft": "8590",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.115",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SPJR"
+        }
+    ]
+}

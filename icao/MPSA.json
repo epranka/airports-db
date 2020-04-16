@@ -1,0 +1,96 @@
+{
+    "id": "4792",
+    "ident": "MPSA",
+    "type": "medium_airport",
+    "name": "Ruben Cantu Airport",
+    "latitude_deg": "8.085599899291992",
+    "longitude_deg": "-80.94529724121094",
+    "elevation_ft": "272",
+    "continent": "NA",
+    "iso_country": "PA",
+    "iso_region": "PA-9",
+    "municipality": "Santiago",
+    "scheduled_service": "no",
+    "gps_code": "MPSA",
+    "iata_code": "SYP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ruben_Cantu_Airport",
+    "keywords": "Santiago",
+    "runways": [
+        {
+            "id": "238313",
+            "airport_ref": "4792",
+            "airport_ident": "MPSA",
+            "length_ft": "3937",
+            "width_ft": "82",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "8.09103",
+            "le_longitude_deg": "-80.9457",
+            "le_elevation_ft": "",
+            "le_heading_degT": "175",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "8.08017",
+            "he_longitude_deg": "-80.9448",
+            "he_elevation_ft": "",
+            "he_heading_degT": "355",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56272",
+            "airport_ref": "4792",
+            "airport_ident": "MPSA",
+            "type": "RDO",
+            "description": "SANTIAGO RDO",
+            "frequency_mhz": "124"
+        }
+    ],
+    "country": {
+        "id": "302749",
+        "code": "PA",
+        "name": "Panama",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Panama",
+        "keywords": "Aeropuertos de Panamá"
+    },
+    "region": {
+        "id": "305004",
+        "code": "PA-9",
+        "local_code": "9",
+        "name": "Veraguas Province",
+        "continent": "NA",
+        "iso_country": "PA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Veraguas_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93985",
+            "filename": "Santiago_VOR-DME_PA",
+            "ident": "STG",
+            "name": "Santiago",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "8.0886697769165",
+            "longitude_deg": "-80.940200805664",
+            "elevation_ft": "272",
+            "iso_country": "PA",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.4",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MPSA"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "5947",
+    "ident": "SBNF",
+    "type": "medium_airport",
+    "name": "Ministro Victor Konder International Airport",
+    "latitude_deg": "-26.879999",
+    "longitude_deg": "-48.651402",
+    "elevation_ft": "18",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Navegantes",
+    "scheduled_service": "yes",
+    "gps_code": "SBNF",
+    "iata_code": "NVT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Navegantes_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234118",
+            "airport_ref": "5947",
+            "airport_ident": "SBNF",
+            "length_ft": "5581",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "7",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49681",
+            "airport_ref": "5947",
+            "airport_ident": "SBNF",
+            "type": "APP",
+            "description": "NAVEGANTES APP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "49682",
+            "airport_ref": "5947",
+            "airport_ident": "SBNF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.625"
+        },
+        {
+            "id": "49683",
+            "airport_ref": "5947",
+            "airport_ident": "SBNF",
+            "type": "TWR",
+            "description": "NAVEGANTES TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303222",
+        "code": "BR-SC",
+        "local_code": "SC",
+        "name": "Santa Catarina",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91770",
+            "filename": "Navegantes_NDB_BR",
+            "ident": "NVG",
+            "name": "Navegantes",
+            "type": "NDB",
+            "frequency_khz": "235",
+            "latitude_deg": "-26.875699996948242",
+            "longitude_deg": "-48.652801513671875",
+            "elevation_ft": "18",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.54",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBNF"
+        }
+    ]
+}

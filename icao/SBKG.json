@@ -1,0 +1,96 @@
+{
+    "id": "5926",
+    "ident": "SBKG",
+    "type": "medium_airport",
+    "name": "Presidente João Suassuna Airport",
+    "latitude_deg": "-7.26992",
+    "longitude_deg": "-35.8964",
+    "elevation_ft": "1646",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PB",
+    "municipality": "Campina Grande",
+    "scheduled_service": "yes",
+    "gps_code": "SBKG",
+    "iata_code": "CPV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Campina_Grande_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234192",
+            "airport_ref": "5926",
+            "airport_ident": "SBKG",
+            "length_ft": "5249",
+            "width_ft": "138",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49743",
+            "airport_ref": "5926",
+            "airport_ident": "SBKG",
+            "type": "AFIS",
+            "description": "CAMPINA GRANDE RDO",
+            "frequency_mhz": "125.9"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303213",
+        "code": "BR-PB",
+        "local_code": "PB",
+        "name": "Paraíba",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraíba",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86991",
+            "filename": "Campina_Grande_NDB_BR",
+            "ident": "CPG",
+            "name": "Campina Grande",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "-7.26600980758667",
+            "longitude_deg": "-35.8927001953125",
+            "elevation_ft": "1777",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.125",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBKG"
+        }
+    ]
+}

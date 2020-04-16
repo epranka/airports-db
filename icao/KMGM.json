@@ -1,0 +1,198 @@
+{
+    "id": "3681",
+    "ident": "KMGM",
+    "type": "large_airport",
+    "name": "Montgomery Regional (Dannelly Field) Airport",
+    "latitude_deg": "32.30059814",
+    "longitude_deg": "-86.39399719",
+    "elevation_ft": "221",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Montgomery",
+    "scheduled_service": "yes",
+    "gps_code": "KMGM",
+    "iata_code": "MGM",
+    "local_code": "MGM",
+    "home_link": "http://www.flymgm.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Montgomery_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245345",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "length_ft": "4010",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "32.295",
+            "le_longitude_deg": "-86.3941",
+            "le_elevation_ft": "221",
+            "le_heading_degT": "33",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "32.3042",
+            "he_longitude_deg": "-86.3871",
+            "he_elevation_ft": "186",
+            "he_heading_degT": "213",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245346",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "length_ft": "9010",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "32.3024",
+            "le_longitude_deg": "-86.41",
+            "le_elevation_ft": "219",
+            "le_heading_degT": "96",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "32.2998",
+            "he_longitude_deg": "-86.381",
+            "he_elevation_ft": "195",
+            "he_heading_degT": "276",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70096",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "70097",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.675"
+        },
+        {
+            "id": "70098",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "70099",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "70100",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "70101",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "type": "MISC",
+            "description": "ARNG OPS",
+            "frequency_mhz": "38.2"
+        },
+        {
+            "id": "70102",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "type": "OPS",
+            "description": "ANG OPS",
+            "frequency_mhz": "27.68"
+        },
+        {
+            "id": "70103",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "type": "RDO",
+            "description": "ANNISTON RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "70104",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "type": "SFA",
+            "description": "SFA",
+            "frequency_mhz": "122.85"
+        },
+        {
+            "id": "70105",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "70106",
+            "airport_ref": "3681",
+            "airport_ident": "KMGM",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90907",
+            "filename": "Marra_NDB_US",
+            "ident": "MG",
+            "name": "Marra",
+            "type": "NDB",
+            "frequency_khz": "245",
+            "latitude_deg": "32.31159973144531",
+            "longitude_deg": "-86.5105972290039",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.171",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMGM"
+        }
+    ]
+}

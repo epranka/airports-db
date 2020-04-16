@@ -1,0 +1,88 @@
+{
+    "id": "6444",
+    "ident": "UDSG",
+    "type": "medium_airport",
+    "name": "Gyumri Shirak Airport",
+    "latitude_deg": "40.7504005432",
+    "longitude_deg": "43.859298706100006",
+    "elevation_ft": "5000",
+    "continent": "AS",
+    "iso_country": "AM",
+    "iso_region": "AM-SH",
+    "municipality": "Gyumri",
+    "scheduled_service": "yes",
+    "gps_code": "UDSG",
+    "iata_code": "LWN",
+    "local_code": "",
+    "home_link": "http://www.aviation.am/eng/gorc/aeroport.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shirak_Airport",
+    "keywords": "UGEL",
+    "runways": [
+        {
+            "id": "232880",
+            "airport_ref": "6444",
+            "airport_ident": "UDSG",
+            "length_ft": "10564",
+            "width_ft": "147",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "40.7371",
+            "le_longitude_deg": "43.8517",
+            "le_elevation_ft": "4941",
+            "le_heading_degT": "24",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "40.7636",
+            "he_longitude_deg": "43.867",
+            "he_elevation_ft": "5000",
+            "he_heading_degT": "204",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48322",
+            "airport_ref": "6444",
+            "airport_ident": "UDSG",
+            "type": "APP",
+            "description": "GYUMRI APP",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "48323",
+            "airport_ref": "6444",
+            "airport_ident": "UDSG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "48324",
+            "airport_ref": "6444",
+            "airport_ident": "UDSG",
+            "type": "TWR",
+            "description": "GYUMRI TWR",
+            "frequency_mhz": "120.6"
+        }
+    ],
+    "country": {
+        "id": "302620",
+        "code": "AM",
+        "name": "Armenia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Armenia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302906",
+        "code": "AM-SH",
+        "local_code": "SH",
+        "name": "Shirak Province",
+        "continent": "AS",
+        "iso_country": "AM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shirak_Province",
+        "keywords": "Sirak, Շիրակ"
+    }
+}

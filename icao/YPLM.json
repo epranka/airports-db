@@ -1,0 +1,150 @@
+{
+    "id": "27113",
+    "ident": "YPLM",
+    "type": "medium_airport",
+    "name": "Learmonth Airport",
+    "latitude_deg": "-22.235599517799997",
+    "longitude_deg": "114.088996887",
+    "elevation_ft": "19",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Exmouth",
+    "scheduled_service": "yes",
+    "gps_code": "YPLM",
+    "iata_code": "LEA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAAF_Learmonth",
+    "keywords": "RAAF Learmonth",
+    "runways": [
+        {
+            "id": "233511",
+            "airport_ref": "27113",
+            "airport_ident": "YPLM",
+            "length_ft": "9997",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-22.22",
+            "le_longitude_deg": "114.091",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "184",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-22.2474",
+            "he_longitude_deg": "114.089",
+            "he_elevation_ft": "19",
+            "he_heading_degT": "4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49151",
+            "airport_ref": "27113",
+            "airport_ident": "YPLM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "49152",
+            "airport_ref": "27113",
+            "airport_ident": "YPLM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "49153",
+            "airport_ref": "27113",
+            "airport_ident": "YPLM",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "49154",
+            "airport_ref": "27113",
+            "airport_ident": "YPLM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "25.93"
+        },
+        {
+            "id": "49155",
+            "airport_ref": "27113",
+            "airport_ident": "YPLM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "25.78"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90407",
+            "filename": "Learmonth_VOR-DME_AU",
+            "ident": "LM",
+            "name": "Learmonth",
+            "type": "VOR-DME",
+            "frequency_khz": "112400",
+            "latitude_deg": "-22.234699249267578",
+            "longitude_deg": "114.09400177001953",
+            "elevation_ft": "25",
+            "iso_country": "AU",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.336",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YPLM"
+        },
+        {
+            "id": "90409",
+            "filename": "Learmonth_NDB_AU",
+            "ident": "LM",
+            "name": "Learmonth",
+            "type": "NDB",
+            "frequency_khz": "396",
+            "latitude_deg": "-22.24139976501465",
+            "longitude_deg": "114.09600067138672",
+            "elevation_ft": "19",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.336",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YPLM"
+        }
+    ]
+}

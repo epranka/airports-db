@@ -1,0 +1,72 @@
+{
+    "id": "19683",
+    "ident": "KE05",
+    "type": "small_airport",
+    "name": "Hatch Municipal Airport",
+    "latitude_deg": "32.661098480225",
+    "longitude_deg": "-107.19799804688",
+    "elevation_ft": "4080",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Hatch",
+    "scheduled_service": "no",
+    "gps_code": "E05",
+    "iata_code": "",
+    "local_code": "E05",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240663",
+            "airport_ref": "19683",
+            "airport_ident": "KE05",
+            "length_ft": "4110",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "32.6624",
+            "le_longitude_deg": "-107.202",
+            "le_elevation_ft": "4080",
+            "le_heading_degT": "112.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "32.6581",
+            "he_longitude_deg": "-107.189",
+            "he_elevation_ft": "4078",
+            "he_heading_degT": "292.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60309",
+            "airport_ref": "19683",
+            "airport_ident": "KE05",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    }
+}

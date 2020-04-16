@@ -1,0 +1,110 @@
+{
+    "id": "20491",
+    "ident": "KMEB",
+    "type": "small_airport",
+    "name": "Laurinburg Maxton Airport",
+    "latitude_deg": "34.791901",
+    "longitude_deg": "-79.365799",
+    "elevation_ft": "216",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Maxton",
+    "scheduled_service": "no",
+    "gps_code": "KMEB",
+    "iata_code": "MXE",
+    "local_code": "MEB",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Laurinburg-Maxton_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245149",
+            "airport_ref": "20491",
+            "airport_ident": "KMEB",
+            "length_ft": "6489",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "34.7904",
+            "le_longitude_deg": "-79.372",
+            "le_elevation_ft": "216",
+            "le_heading_degT": "45.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "34.8028",
+            "he_longitude_deg": "-79.3565",
+            "he_elevation_ft": "200",
+            "he_heading_degT": "225.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245150",
+            "airport_ref": "20491",
+            "airport_ident": "KMEB",
+            "length_ft": "3753",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "34.7876",
+            "le_longitude_deg": "-79.3731",
+            "le_elevation_ft": "217",
+            "le_heading_degT": "135.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "34.7803",
+            "he_longitude_deg": "-79.3643",
+            "he_elevation_ft": "208",
+            "he_heading_degT": "315.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69679",
+            "airport_ref": "20491",
+            "airport_ident": "KMEB",
+            "type": "A/D",
+            "description": "FAYETTEVILLE APP/DEP",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "69680",
+            "airport_ref": "20491",
+            "airport_ident": "KMEB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "134.125"
+        },
+        {
+            "id": "69681",
+            "airport_ref": "20491",
+            "airport_ident": "KMEB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

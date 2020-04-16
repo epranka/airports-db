@@ -1,0 +1,110 @@
+{
+    "id": "19037",
+    "ident": "K77G",
+    "type": "small_airport",
+    "name": "Marlette Township Airport",
+    "latitude_deg": "43.311798",
+    "longitude_deg": "-83.090897",
+    "elevation_ft": "895",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Marlette",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "77G",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239994",
+            "airport_ref": "19037",
+            "airport_ident": "K77G",
+            "length_ft": "3500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "43.3087",
+            "le_longitude_deg": "-83.0921",
+            "le_elevation_ft": "867",
+            "le_heading_degT": "4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "43.3183",
+            "he_longitude_deg": "-83.0912",
+            "he_elevation_ft": "891",
+            "he_heading_degT": "184",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239995",
+            "airport_ref": "19037",
+            "airport_ident": "K77G",
+            "length_ft": "3800",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "43.3103",
+            "le_longitude_deg": "-83.0974",
+            "le_elevation_ft": "868",
+            "le_heading_degT": "89",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "43.3104",
+            "he_longitude_deg": "-83.0832",
+            "he_elevation_ft": "876",
+            "he_heading_degT": "269",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59314",
+            "airport_ref": "19037",
+            "airport_ident": "K77G",
+            "type": "CNTR",
+            "description": "CLEVELAND CNTR",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "59315",
+            "airport_ref": "19037",
+            "airport_ident": "K77G",
+            "type": "FSS",
+            "description": "LANSING RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "59316",
+            "airport_ref": "19037",
+            "airport_ident": "K77G",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

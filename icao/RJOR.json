@@ -1,0 +1,96 @@
+{
+    "id": "5599",
+    "ident": "RJOR",
+    "type": "medium_airport",
+    "name": "Tottori Airport",
+    "latitude_deg": "35.5301017761",
+    "longitude_deg": "134.167007446",
+    "elevation_ft": "65",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-31",
+    "municipality": "Tottori",
+    "scheduled_service": "yes",
+    "gps_code": "RJOR",
+    "iata_code": "TTJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tottori_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237137",
+            "airport_ref": "5599",
+            "airport_ident": "RJOR",
+            "length_ft": "6562",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "35.5306",
+            "le_longitude_deg": "134.154",
+            "le_elevation_ft": "29",
+            "le_heading_degT": "94",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "35.5295",
+            "he_longitude_deg": "134.176",
+            "he_elevation_ft": "65",
+            "he_heading_degT": "274",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54498",
+            "airport_ref": "5599",
+            "airport_ident": "RJOR",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.15"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304316",
+        "code": "JP-31",
+        "local_code": "31",
+        "name": "Tottori Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tottori",
+        "keywords": "Chugoku"
+    },
+    "navaids": [
+        {
+            "id": "94581",
+            "filename": "Tottori_VOR-DME_JP",
+            "ident": "TRE",
+            "name": "Tottori",
+            "type": "VOR-DME",
+            "frequency_khz": "110200",
+            "latitude_deg": "35.52730178833008",
+            "longitude_deg": "134.1649932861328",
+            "elevation_ft": "115",
+            "iso_country": "JP",
+            "dme_frequency_khz": "110200",
+            "dme_channel": "039X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.231",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RJOR"
+        }
+    ]
+}

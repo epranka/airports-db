@@ -1,0 +1,104 @@
+{
+    "id": "3056",
+    "ident": "FZMA",
+    "type": "medium_airport",
+    "name": "Bukavu Kavumu Airport",
+    "latitude_deg": "-2.3089799880981445",
+    "longitude_deg": "28.808799743652344",
+    "elevation_ft": "5643",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-SK",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "FZMA",
+    "iata_code": "BKY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235144",
+            "airport_ref": "3056",
+            "airport_ident": "FZMA",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "-2.30033",
+            "le_longitude_deg": "28.8064",
+            "le_elevation_ft": "5655",
+            "le_heading_degT": "164.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "-2.31763",
+            "he_longitude_deg": "28.8112",
+            "he_elevation_ft": "5592",
+            "he_heading_degT": "344.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "323277",
+            "airport_ref": "3056",
+            "airport_ident": "FZMA",
+            "type": "RDO",
+            "description": "",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "51139",
+            "airport_ref": "3056",
+            "airport_ident": "FZMA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Congo (Kinshasa)",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Congo_(Kinshasa)",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303320",
+        "code": "CD-SK",
+        "local_code": "SK",
+        "name": "Sud-Kivu Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sud-Kivu_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86116",
+            "filename": "Bukavu_NDB_CD",
+            "ident": "BKV",
+            "name": "Bukavu",
+            "type": "NDB",
+            "frequency_khz": "255",
+            "latitude_deg": "-2.3066298961639404",
+            "longitude_deg": "28.819400787353516",
+            "elevation_ft": "",
+            "iso_country": "CD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.008",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FZMA"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "id": "5287",
+    "ident": "ORAT",
+    "type": "medium_airport",
+    "name": "Al Taqaddum Air Base",
+    "latitude_deg": "33.33810043335",
+    "longitude_deg": "43.597099304199",
+    "elevation_ft": "275",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-AN",
+    "municipality": "Al Habbaniyah",
+    "scheduled_service": "no",
+    "gps_code": "ORAT",
+    "iata_code": "TQD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Taqaddum",
+    "keywords": "Tammuz Airbase, Al Fallujah, Greene Field",
+    "runways": [
+        {
+            "id": "237105",
+            "airport_ref": "5287",
+            "airport_ident": "ORAT",
+            "length_ft": "12087",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12L",
+            "le_latitude_deg": "33.3472",
+            "le_longitude_deg": "43.5815",
+            "le_elevation_ft": "270",
+            "le_heading_degT": "119.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30R",
+            "he_latitude_deg": "33.3309",
+            "he_longitude_deg": "43.6161",
+            "he_elevation_ft": "262",
+            "he_heading_degT": "299.3",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "237104",
+            "airport_ref": "5287",
+            "airport_ident": "ORAT",
+            "length_ft": "13186",
+            "width_ft": "200",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12R",
+            "le_latitude_deg": "33.3459",
+            "le_longitude_deg": "43.5766",
+            "le_elevation_ft": "275",
+            "le_heading_degT": "119.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30L",
+            "he_latitude_deg": "33.3281",
+            "he_longitude_deg": "43.6142",
+            "he_elevation_ft": "272",
+            "he_heading_degT": "299.4",
+            "he_displaced_threshold_ft": "3403"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54431",
+            "airport_ref": "5287",
+            "airport_ident": "ORAT",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.25"
+        },
+        {
+            "id": "54432",
+            "airport_ref": "5287",
+            "airport_ident": "ORAT",
+            "type": "ATIS",
+            "description": "INFO",
+            "frequency_mhz": "22.627"
+        },
+        {
+            "id": "54433",
+            "airport_ref": "5287",
+            "airport_ident": "ORAT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "29.085"
+        },
+        {
+            "id": "54434",
+            "airport_ref": "5287",
+            "airport_ident": "ORAT",
+            "type": "POST",
+            "description": "A/DACG",
+            "frequency_mhz": "129.375"
+        },
+        {
+            "id": "54435",
+            "airport_ref": "5287",
+            "airport_ident": "ORAT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "135.775"
+        }
+    ],
+    "country": {
+        "id": "302636",
+        "code": "IQ",
+        "name": "Iraq",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iraq",
+        "keywords": "مطارات العراق"
+    },
+    "region": {
+        "id": "304200",
+        "code": "IQ-AN",
+        "local_code": "AN",
+        "name": "Al-Anbar Governorate",
+        "continent": "AS",
+        "iso_country": "IQ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Anbar_Governorate",
+        "keywords": "الأنبار"
+    },
+    "navaids": [
+        {
+            "id": "90749",
+            "filename": "Al_Taqaddum_TACAN_IQ",
+            "ident": "MAT",
+            "name": "Al Taqaddum",
+            "type": "TACAN",
+            "frequency_khz": "112300",
+            "latitude_deg": "33.339500427246094",
+            "longitude_deg": "43.59389877319336",
+            "elevation_ft": "275",
+            "iso_country": "IQ",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.001",
+            "magnetic_variation_deg": "3.527",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ORAT"
+        }
+    ]
+}

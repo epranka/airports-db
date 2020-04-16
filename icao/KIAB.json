@@ -1,0 +1,190 @@
+{
+    "id": "3601",
+    "ident": "KIAB",
+    "type": "medium_airport",
+    "name": "Mc Connell Air Force Base",
+    "latitude_deg": "37.62189865",
+    "longitude_deg": "-97.26820374",
+    "elevation_ft": "1371",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Wichita",
+    "scheduled_service": "no",
+    "gps_code": "KIAB",
+    "iata_code": "IAB",
+    "local_code": "IAB",
+    "home_link": "http://public.mcconnell.amc.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/McConnell_Air_Force_Base",
+    "keywords": "22nd Air Refueling Wing, 931st Air Refueling Group, 184th Intelligence Wing",
+    "runways": [
+        {
+            "id": "244667",
+            "airport_ref": "3601",
+            "airport_ident": "KIAB",
+            "length_ft": "12000",
+            "width_ft": "200",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01L",
+            "le_latitude_deg": "37.6073",
+            "le_longitude_deg": "-97.2735",
+            "le_elevation_ft": "1337",
+            "le_heading_degT": "13",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19R",
+            "he_latitude_deg": "37.6395",
+            "he_longitude_deg": "-97.2645",
+            "he_elevation_ft": "1371",
+            "he_heading_degT": "193",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244666",
+            "airport_ref": "3601",
+            "airport_ident": "KIAB",
+            "length_ft": "12000",
+            "width_ft": "300",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01R",
+            "le_latitude_deg": "37.6068",
+            "le_longitude_deg": "-97.2707",
+            "le_elevation_ft": "1336",
+            "le_heading_degT": "13",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19L",
+            "he_latitude_deg": "37.639",
+            "he_longitude_deg": "-97.2618",
+            "he_elevation_ft": "1364",
+            "he_heading_degT": "193",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68599",
+            "airport_ref": "3601",
+            "airport_ident": "KIAB",
+            "type": "ACP",
+            "description": "KS ANG OPS",
+            "frequency_mhz": "30.16"
+        },
+        {
+            "id": "68600",
+            "airport_ref": "3601",
+            "airport_ident": "KIAB",
+            "type": "APP",
+            "description": "WICHITA APP",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "68601",
+            "airport_ref": "3601",
+            "airport_ident": "KIAB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.65"
+        },
+        {
+            "id": "68602",
+            "airport_ref": "3601",
+            "airport_ident": "KIAB",
+            "type": "DEP",
+            "description": "WICHITA DEP",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "68603",
+            "airport_ref": "3601",
+            "airport_ident": "KIAB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "68604",
+            "airport_ref": "3601",
+            "airport_ident": "KIAB",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "37.52"
+        },
+        {
+            "id": "68605",
+            "airport_ref": "3601",
+            "airport_ident": "KIAB",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "31.1"
+        },
+        {
+            "id": "68606",
+            "airport_ref": "3601",
+            "airport_ident": "KIAB",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "68607",
+            "airport_ref": "3601",
+            "airport_ident": "KIAB",
+            "type": "RMP",
+            "description": "BOEING GND",
+            "frequency_mhz": "123.125"
+        },
+        {
+            "id": "68608",
+            "airport_ref": "3601",
+            "airport_ident": "KIAB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.25"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89114",
+            "filename": "Mc_Connell_TACAN_US",
+            "ident": "IAB",
+            "name": "Mc Connell",
+            "type": "TACAN",
+            "frequency_khz": "116500",
+            "latitude_deg": "37.62189865112305",
+            "longitude_deg": "-97.26820373535156",
+            "elevation_ft": "1374",
+            "iso_country": "US",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.001",
+            "magnetic_variation_deg": "4.535",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KIAB"
+        }
+    ]
+}

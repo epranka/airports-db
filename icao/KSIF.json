@@ -1,0 +1,88 @@
+{
+    "id": "21069",
+    "ident": "KSIF",
+    "type": "small_airport",
+    "name": "Rockingham County NC Shiloh Airport",
+    "latitude_deg": "36.43719864",
+    "longitude_deg": "-79.85099792",
+    "elevation_ft": "694",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Reidsville",
+    "scheduled_service": "no",
+    "gps_code": "KSIF",
+    "iata_code": "",
+    "local_code": "SIF",
+    "home_link": "http://shilohairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rockingham_County_NC_Shiloh_Airport",
+    "keywords": "78N",
+    "runways": [
+        {
+            "id": "245301",
+            "airport_ref": "21069",
+            "airport_ident": "KSIF",
+            "length_ft": "5199",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "36.4413",
+            "le_longitude_deg": "-79.8583",
+            "le_elevation_ft": "692",
+            "le_heading_degT": "124.6",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "31",
+            "he_latitude_deg": "36.4332",
+            "he_longitude_deg": "-79.8437",
+            "he_elevation_ft": "667",
+            "he_heading_degT": "304.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70004",
+            "airport_ref": "21069",
+            "airport_ident": "KSIF",
+            "type": "A/D",
+            "description": "GREENSBORO APP/DEP",
+            "frequency_mhz": "26.922"
+        },
+        {
+            "id": "70005",
+            "airport_ref": "21069",
+            "airport_ident": "KSIF",
+            "type": "AWOS",
+            "description": "AWOS3",
+            "frequency_mhz": "119.775"
+        },
+        {
+            "id": "70006",
+            "airport_ref": "21069",
+            "airport_ident": "KSIF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

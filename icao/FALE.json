@@ -1,0 +1,104 @@
+{
+    "id": "300795",
+    "ident": "FALE",
+    "type": "large_airport",
+    "name": "King Shaka International Airport",
+    "latitude_deg": "-29.6144444444",
+    "longitude_deg": "31.1197222222",
+    "elevation_ft": "295",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Durban",
+    "scheduled_service": "yes",
+    "gps_code": "FALE",
+    "iata_code": "DUR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/King_Shaka_International_Airport",
+    "keywords": "La Mercy Airport",
+    "runways": [
+        {
+            "id": "312671",
+            "airport_ref": "300795",
+            "airport_ident": "FALE",
+            "length_ft": "12139",
+            "width_ft": "197",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "304",
+            "le_heading_degT": "61",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "304",
+            "he_heading_degT": "241",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "312672",
+            "airport_ref": "300795",
+            "airport_ident": "FALE",
+            "type": "DURBAN Approach",
+            "description": "",
+            "frequency_mhz": "125.75"
+        },
+        {
+            "id": "312673",
+            "airport_ref": "300795",
+            "airport_ident": "FALE",
+            "type": "KING SHAKA ATIS",
+            "description": "",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "312675",
+            "airport_ref": "300795",
+            "airport_ident": "FALE",
+            "type": "KING SHAKA INT.",
+            "description": "KING SHAKA INT. Tower",
+            "frequency_mhz": "118.45"
+        },
+        {
+            "id": "312674",
+            "airport_ref": "300795",
+            "airport_ident": "FALE",
+            "type": "KING SHAKA INT.",
+            "description": "",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "312676",
+            "airport_ref": "300795",
+            "airport_ident": "FALE",
+            "type": "VOT \tTGV",
+            "description": "",
+            "frequency_mhz": "115.6"
+        }
+    ],
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306300",
+        "code": "ZA-NL",
+        "local_code": "NL",
+        "name": "Kwazulu-Natal",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwazulu-Natal",
+        "keywords": ""
+    }
+}

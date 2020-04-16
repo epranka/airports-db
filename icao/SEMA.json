@@ -1,0 +1,96 @@
+{
+    "id": "6062",
+    "ident": "SEMA",
+    "type": "medium_airport",
+    "name": "Jose Maria Velasco Ibarra Airport",
+    "latitude_deg": "-4.37823009491",
+    "longitude_deg": "-79.94100189210002",
+    "elevation_ft": "1508",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-L",
+    "municipality": "Macará",
+    "scheduled_service": "no",
+    "gps_code": "SEMA",
+    "iata_code": "MRR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Velasco_Ibarra_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235538",
+            "airport_ref": "6062",
+            "airport_ident": "SEMA",
+            "length_ft": "3532",
+            "width_ft": "65",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-4.38296",
+            "le_longitude_deg": "-79.942",
+            "le_elevation_ft": "1430",
+            "le_heading_degT": "12",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-4.3735",
+            "he_longitude_deg": "-79.94",
+            "he_elevation_ft": "1508",
+            "he_heading_degT": "192",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51834",
+            "airport_ref": "6062",
+            "airport_ident": "SEMA",
+            "type": "TWR",
+            "description": "MACARA TWR",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303661",
+        "code": "EC-L",
+        "local_code": "L",
+        "name": "Loja Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Loja_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90714",
+            "filename": "Macara_NDB_EC",
+            "ident": "MAC",
+            "name": "Macara",
+            "type": "NDB",
+            "frequency_khz": "285",
+            "latitude_deg": "-4.378330230712891",
+            "longitude_deg": "-79.94170379638672",
+            "elevation_ft": "1448",
+            "iso_country": "EC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.089",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SEMA"
+        }
+    ]
+}

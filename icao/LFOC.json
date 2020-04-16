@@ -1,0 +1,150 @@
+{
+    "id": "4170",
+    "ident": "LFOC",
+    "type": "medium_airport",
+    "name": "Châteaudun (BA 279) Air Base",
+    "latitude_deg": "48.058102",
+    "longitude_deg": "1.37662",
+    "elevation_ft": "433",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-CVL",
+    "municipality": "Châteaudun",
+    "scheduled_service": "no",
+    "gps_code": "LFOC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235922",
+            "airport_ref": "4170",
+            "airport_ident": "LFOC",
+            "length_ft": "7552",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "48.0596",
+            "le_longitude_deg": "1.36134",
+            "le_elevation_ft": "433",
+            "le_heading_degT": "98.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "48.0567",
+            "he_longitude_deg": "1.39191",
+            "he_elevation_ft": "424",
+            "he_heading_degT": "278.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52374",
+            "airport_ref": "4170",
+            "airport_ident": "LFOC",
+            "type": "APP",
+            "description": "BRICY APP",
+            "frequency_mhz": "37.057"
+        },
+        {
+            "id": "52373",
+            "airport_ref": "4170",
+            "airport_ident": "LFOC",
+            "type": "APP",
+            "description": "BRICY APP",
+            "frequency_mhz": "122.7"
+        },
+        {
+            "id": "52376",
+            "airport_ref": "4170",
+            "airport_ident": "LFOC",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "37.492"
+        },
+        {
+            "id": "52375",
+            "airport_ref": "4170",
+            "airport_ident": "LFOC",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "52377",
+            "airport_ref": "4170",
+            "airport_ident": "LFOC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.625"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306347",
+        "code": "FR-CVL",
+        "local_code": "CVL",
+        "name": "Centre-Val de Loire",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Centre-Val_de_Loire",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86663",
+            "filename": "Châteaudun_NDB_FR",
+            "ident": "CDN",
+            "name": "Châteaudun",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "48.062400817871094",
+            "longitude_deg": "1.3636399507522583",
+            "elevation_ft": "433",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.192",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LFOC"
+        },
+        {
+            "id": "95210",
+            "filename": "Châteaudun_VOR-DME_FR",
+            "ident": "VMP",
+            "name": "Châteaudun",
+            "type": "VOR-DME",
+            "frequency_khz": "117200",
+            "latitude_deg": "48.05889892578125",
+            "longitude_deg": "1.388890027999878",
+            "elevation_ft": "433",
+            "iso_country": "FR",
+            "dme_frequency_khz": "117200",
+            "dme_channel": "119X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-1.152",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFOC"
+        }
+    ]
+}

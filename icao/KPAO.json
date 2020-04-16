@@ -1,0 +1,128 @@
+{
+    "id": "20805",
+    "ident": "KPAO",
+    "type": "small_airport",
+    "name": "Palo Alto Airport of Santa Clara County",
+    "latitude_deg": "37.461101532",
+    "longitude_deg": "-122.114997864",
+    "elevation_ft": "4",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Palo Alto",
+    "scheduled_service": "no",
+    "gps_code": "KPAO",
+    "iata_code": "PAO",
+    "local_code": "PAO",
+    "home_link": "http://www.countyairports.org/pao.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Palo_Alto_Airport_of_Santa_Clara_County",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239765",
+            "airport_ref": "20805",
+            "airport_ident": "KPAO",
+            "length_ft": "2443",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "37.4638",
+            "le_longitude_deg": "-122.118",
+            "le_elevation_ft": "6",
+            "le_heading_degT": "142",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "37.4585",
+            "he_longitude_deg": "-122.112",
+            "he_elevation_ft": "6",
+            "he_heading_degT": "322",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58936",
+            "airport_ref": "20805",
+            "airport_ident": "KPAO",
+            "type": "APP",
+            "description": "NORCAL APP",
+            "frequency_mhz": "33.82"
+        },
+        {
+            "id": "58935",
+            "airport_ref": "20805",
+            "airport_ident": "KPAO",
+            "type": "APP",
+            "description": "NORCAL APP",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "58937",
+            "airport_ref": "20805",
+            "airport_ident": "KPAO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135.275"
+        },
+        {
+            "id": "58938",
+            "airport_ref": "20805",
+            "airport_ident": "KPAO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "58939",
+            "airport_ref": "20805",
+            "airport_ident": "KPAO",
+            "type": "DEP",
+            "description": "NORCAL DEP",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "58940",
+            "airport_ref": "20805",
+            "airport_ident": "KPAO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "58941",
+            "airport_ref": "20805",
+            "airport_ident": "KPAO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "58942",
+            "airport_ref": "20805",
+            "airport_ident": "KPAO",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

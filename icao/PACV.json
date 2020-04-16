@@ -1,0 +1,142 @@
+{
+    "id": "5348",
+    "ident": "PACV",
+    "type": "medium_airport",
+    "name": "Merle K (Mudhole) Smith Airport",
+    "latitude_deg": "60.4917984",
+    "longitude_deg": "-145.4779968",
+    "elevation_ft": "54",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Cordova",
+    "scheduled_service": "yes",
+    "gps_code": "PACV",
+    "iata_code": "CDV",
+    "local_code": "CDV",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Merle_K._(Mudhole)_Smith_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242505",
+            "airport_ref": "5348",
+            "airport_ident": "PACV",
+            "length_ft": "7500",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "60.4967",
+            "le_longitude_deg": "-145.497",
+            "le_elevation_ft": "36",
+            "le_heading_degT": "114.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "60.4883",
+            "he_longitude_deg": "-145.459",
+            "he_elevation_ft": "37",
+            "he_heading_degT": "294.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242506",
+            "airport_ref": "5348",
+            "airport_ident": "PACV",
+            "length_ft": "1899",
+            "width_ft": "30",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "60.4915",
+            "le_longitude_deg": "-145.477",
+            "le_elevation_ft": "46",
+            "le_heading_degT": "180.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "60.4863",
+            "he_longitude_deg": "-145.477",
+            "he_elevation_ft": "35",
+            "he_heading_degT": "0.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64067",
+            "airport_ref": "5348",
+            "airport_ident": "PACV",
+            "type": "A/D",
+            "description": "ANCHORAGE APP/DEP",
+            "frequency_mhz": "133.6"
+        },
+        {
+            "id": "64068",
+            "airport_ref": "5348",
+            "airport_ident": "PACV",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "64069",
+            "airport_ref": "5348",
+            "airport_ident": "PACV",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "64070",
+            "airport_ref": "5348",
+            "airport_ident": "PACV",
+            "type": "FSS",
+            "description": "JUNEAU RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88303",
+            "filename": "Glacier_River_NDB_US",
+            "ident": "GCR",
+            "name": "Glacier River",
+            "type": "NDB",
+            "frequency_khz": "404",
+            "latitude_deg": "60.49879837036133",
+            "longitude_deg": "-145.4739990234375",
+            "elevation_ft": "55",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.359",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PACV"
+        }
+    ]
+}

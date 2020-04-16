@@ -1,0 +1,72 @@
+{
+    "id": "2582",
+    "ident": "ENKJ",
+    "type": "small_airport",
+    "name": "Kjeller Airport",
+    "latitude_deg": "59.9692993164",
+    "longitude_deg": "11.036100387600001",
+    "elevation_ft": "354",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-02",
+    "municipality": "Kjeller",
+    "scheduled_service": "no",
+    "gps_code": "ENKJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.kjellerflyplass.no/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kjeller_Airport",
+    "keywords": "Lillestrøm",
+    "runways": [
+        {
+            "id": "237956",
+            "airport_ref": "2582",
+            "airport_ident": "ENKJ",
+            "length_ft": "5321",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "59.9733",
+            "le_longitude_deg": "11.0239",
+            "le_elevation_ft": "345",
+            "le_heading_degT": "123",
+            "le_displaced_threshold_ft": "714",
+            "he_ident": "30",
+            "he_latitude_deg": "59.9654",
+            "he_longitude_deg": "11.0484",
+            "he_elevation_ft": "354",
+            "he_heading_degT": "303",
+            "he_displaced_threshold_ft": "232"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55807",
+            "airport_ref": "2582",
+            "airport_ident": "ENKJ",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "119.1"
+        }
+    ],
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "304946",
+        "code": "NO-02",
+        "local_code": "02",
+        "name": "Akershus",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Akershus",
+        "keywords": ""
+    }
+}

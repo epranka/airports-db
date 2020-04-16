@@ -1,0 +1,104 @@
+{
+    "id": "5493",
+    "ident": "PLCH",
+    "type": "medium_airport",
+    "name": "Cassidy International Airport",
+    "latitude_deg": "1.9861600399017334",
+    "longitude_deg": "-157.35000610351562",
+    "elevation_ft": "5",
+    "continent": "OC",
+    "iso_country": "KI",
+    "iso_region": "KI-L",
+    "municipality": "Banana",
+    "scheduled_service": "yes",
+    "gps_code": "PLCH",
+    "iata_code": "CXI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cassidy_International_Airport",
+    "keywords": "Christmas Island",
+    "runways": [
+        {
+            "id": "237284",
+            "airport_ref": "5493",
+            "airport_ident": "PLCH",
+            "length_ft": "6900",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "1.98633",
+            "le_longitude_deg": "-157.359",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "1.98632",
+            "he_longitude_deg": "-157.341",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54872",
+            "airport_ref": "5493",
+            "airport_ident": "PLCH",
+            "type": "INFO",
+            "description": "AFIS",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "54873",
+            "airport_ref": "5493",
+            "airport_ident": "PLCH",
+            "type": "INFO",
+            "description": "AFIS",
+            "frequency_mhz": "346"
+        }
+    ],
+    "country": {
+        "id": "302769",
+        "code": "KI",
+        "name": "Kiribati",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kiribati",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304378",
+        "code": "KI-L",
+        "local_code": "L",
+        "name": "Line Islands",
+        "continent": "OC",
+        "iso_country": "KI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Line_Islands",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95553",
+            "filename": "Christmas_Island_NDB_KI",
+            "ident": "XI",
+            "name": "Christmas Island",
+            "type": "NDB",
+            "frequency_khz": "333",
+            "latitude_deg": "1.9880599975585938",
+            "longitude_deg": "-157.35299682617188",
+            "elevation_ft": "",
+            "iso_country": "KI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.003",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "PLCH"
+        }
+    ]
+}

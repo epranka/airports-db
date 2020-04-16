@@ -1,0 +1,134 @@
+{
+    "id": "19866",
+    "ident": "KFFZ",
+    "type": "small_airport",
+    "name": "Falcon Field",
+    "latitude_deg": "33.4608001709",
+    "longitude_deg": "-111.727996826",
+    "elevation_ft": "1394",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Mesa",
+    "scheduled_service": "no",
+    "gps_code": "KFFZ",
+    "iata_code": "MSC",
+    "local_code": "FFZ",
+    "home_link": "http://www.falconfieldairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Falcon_Field_(Arizona)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244568",
+            "airport_ref": "19866",
+            "airport_ident": "KFFZ",
+            "length_ft": "3799",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04L",
+            "le_latitude_deg": "33.4583",
+            "le_longitude_deg": "-111.734",
+            "le_elevation_ft": "1366",
+            "le_heading_degT": "51.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22R",
+            "he_latitude_deg": "33.4648",
+            "he_longitude_deg": "-111.724",
+            "he_elevation_ft": "1386",
+            "he_heading_degT": "231.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244567",
+            "airport_ref": "19866",
+            "airport_ident": "KFFZ",
+            "length_ft": "5101",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04R",
+            "le_latitude_deg": "33.4559",
+            "le_longitude_deg": "-111.734",
+            "le_elevation_ft": "1365",
+            "le_heading_degT": "51.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22L",
+            "he_latitude_deg": "33.4647",
+            "he_longitude_deg": "-111.721",
+            "he_elevation_ft": "1394",
+            "he_heading_degT": "231.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68392",
+            "airport_ref": "19866",
+            "airport_ident": "KFFZ",
+            "type": "A/D",
+            "description": "PHOENIX APP/DEP",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "68393",
+            "airport_ref": "19866",
+            "airport_ident": "KFFZ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "68394",
+            "airport_ref": "19866",
+            "airport_ident": "KFFZ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "68395",
+            "airport_ref": "19866",
+            "airport_ident": "KFFZ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "68396",
+            "airport_ref": "19866",
+            "airport_ident": "KFFZ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "68397",
+            "airport_ref": "19866",
+            "airport_ident": "KFFZ",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "20914",
+    "ident": "KRBO",
+    "type": "small_airport",
+    "name": "Nueces County Airport",
+    "latitude_deg": "27.778499603271484",
+    "longitude_deg": "-97.69049835205078",
+    "elevation_ft": "79",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Robstown",
+    "scheduled_service": "no",
+    "gps_code": "KRBO",
+    "iata_code": "",
+    "local_code": "RBO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242530",
+            "airport_ref": "20914",
+            "airport_ident": "KRBO",
+            "length_ft": "3700",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "27.7821",
+            "le_longitude_deg": "-97.6946",
+            "le_elevation_ft": "79",
+            "le_heading_degT": "134.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "27.775",
+            "he_longitude_deg": "-97.6865",
+            "he_elevation_ft": "77",
+            "he_heading_degT": "314.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64119",
+            "airport_ref": "20914",
+            "airport_ident": "KRBO",
+            "type": "APP",
+            "description": "KINGSVILLE APP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "64120",
+            "airport_ref": "20914",
+            "airport_ident": "KRBO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.175"
+        },
+        {
+            "id": "64121",
+            "airport_ref": "20914",
+            "airport_ident": "KRBO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "64122",
+            "airport_ref": "20914",
+            "airport_ident": "KRBO",
+            "type": "DEP",
+            "description": "CORPUS DEP",
+            "frequency_mhz": "120.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "20292",
+    "ident": "KL26",
+    "type": "small_airport",
+    "name": "Hesperia Airport",
+    "latitude_deg": "34.377201080322266",
+    "longitude_deg": "-117.31600189208984",
+    "elevation_ft": "3390",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Hesperia",
+    "scheduled_service": "no",
+    "gps_code": "KL26",
+    "iata_code": "",
+    "local_code": "L26",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244260",
+            "airport_ref": "20292",
+            "airport_ident": "KL26",
+            "length_ft": "3910",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "34.3736",
+            "le_longitude_deg": "-117.321",
+            "le_elevation_ft": "",
+            "le_heading_degT": "47.2",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "21",
+            "he_latitude_deg": "34.3808",
+            "he_longitude_deg": "-117.311",
+            "he_elevation_ft": "",
+            "he_heading_degT": "227.2",
+            "he_displaced_threshold_ft": "550"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67725",
+            "airport_ref": "20292",
+            "airport_ident": "KL26",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

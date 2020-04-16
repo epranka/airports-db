@@ -1,0 +1,96 @@
+{
+    "id": "20231",
+    "ident": "KJYM",
+    "type": "small_airport",
+    "name": "Hillsdale Municipal Airport",
+    "latitude_deg": "41.92129898071289",
+    "longitude_deg": "-84.58580017089844",
+    "elevation_ft": "1182",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Hillsdale",
+    "scheduled_service": "no",
+    "gps_code": "KJYM",
+    "iata_code": "",
+    "local_code": "JYM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hillsdale_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243714",
+            "airport_ref": "20231",
+            "airport_ident": "KJYM",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "41.9216",
+            "le_longitude_deg": "-84.5931",
+            "le_elevation_ft": "1160",
+            "le_heading_degT": "94",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "41.9209",
+            "he_longitude_deg": "-84.5784",
+            "he_elevation_ft": "1182",
+            "he_heading_degT": "274",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66605",
+            "airport_ref": "20231",
+            "airport_ident": "KJYM",
+            "type": "A/D",
+            "description": "TOLEDO APP/DEP",
+            "frequency_mhz": "134.35"
+        },
+        {
+            "id": "66606",
+            "airport_ref": "20231",
+            "airport_ident": "KJYM",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.025"
+        },
+        {
+            "id": "66607",
+            "airport_ref": "20231",
+            "airport_ident": "KJYM",
+            "type": "RDO",
+            "description": "LANSING RDO",
+            "frequency_mhz": "111.2"
+        },
+        {
+            "id": "66608",
+            "airport_ref": "20231",
+            "airport_ident": "KJYM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

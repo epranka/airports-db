@@ -1,0 +1,110 @@
+{
+    "id": "19343",
+    "ident": "KAZC",
+    "type": "small_airport",
+    "name": "Colorado City Municipal Airport",
+    "latitude_deg": "36.95989990234375",
+    "longitude_deg": "-113.01399993896484",
+    "elevation_ft": "4874",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Colorado City",
+    "scheduled_service": "no",
+    "gps_code": "KAZC",
+    "iata_code": "",
+    "local_code": "AZC",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado_City_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "253996",
+            "airport_ref": "19343",
+            "airport_ident": "KAZC",
+            "length_ft": "5099",
+            "width_ft": "60",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "36.9536",
+            "le_longitude_deg": "-113.017",
+            "le_elevation_ft": "4874",
+            "le_heading_degT": "28",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "36.966",
+            "he_longitude_deg": "-113.009",
+            "he_elevation_ft": "4874",
+            "he_heading_degT": "208",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243007",
+            "airport_ref": "19343",
+            "airport_ident": "KAZC",
+            "length_ft": "6300",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "36.9647",
+            "le_longitude_deg": "-113.024",
+            "le_elevation_ft": "4874",
+            "le_heading_degT": "122.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "36.9554",
+            "he_longitude_deg": "-113.006",
+            "he_elevation_ft": "4874",
+            "he_heading_degT": "302.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65111",
+            "airport_ref": "19343",
+            "airport_ident": "KAZC",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "65112",
+            "airport_ref": "19343",
+            "airport_ident": "KAZC",
+            "type": "CNTR",
+            "description": "LOS ANGELES CNTR",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "65113",
+            "airport_ref": "19343",
+            "airport_ident": "KAZC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

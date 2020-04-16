@@ -1,0 +1,126 @@
+{
+    "id": "19979",
+    "ident": "KGSH",
+    "type": "small_airport",
+    "name": "Goshen Municipal Airport",
+    "latitude_deg": "41.526401519800004",
+    "longitude_deg": "-85.79290008539999",
+    "elevation_ft": "827",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Goshen",
+    "scheduled_service": "no",
+    "gps_code": "KGSH",
+    "iata_code": "GSH",
+    "local_code": "GSH",
+    "home_link": "http://www.goshenindiana.org/content/goshen-municipal-airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Goshen_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243746",
+            "airport_ref": "19979",
+            "airport_ident": "KGSH",
+            "length_ft": "2585",
+            "width_ft": "180",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "41.5259",
+            "le_longitude_deg": "-85.7968",
+            "le_elevation_ft": "815",
+            "le_heading_degT": "44.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "41.531",
+            "he_longitude_deg": "-85.7902",
+            "he_elevation_ft": "823",
+            "he_heading_degT": "224.3",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243747",
+            "airport_ref": "19979",
+            "airport_ident": "KGSH",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "41.5253",
+            "le_longitude_deg": "-85.8017",
+            "le_elevation_ft": "819",
+            "le_heading_degT": "89.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "41.5254",
+            "he_longitude_deg": "-85.7834",
+            "he_elevation_ft": "827",
+            "he_heading_degT": "269.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66666",
+            "airport_ref": "19979",
+            "airport_ident": "KGSH",
+            "type": "A/D",
+            "description": "SOUTH BEND APP/DEP",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "66667",
+            "airport_ref": "19979",
+            "airport_ident": "KGSH",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "126.475"
+        },
+        {
+            "id": "66668",
+            "airport_ref": "19979",
+            "airport_ident": "KGSH",
+            "type": "CLD",
+            "description": "SOUTH BEND CLNC DEL",
+            "frequency_mhz": "125.25"
+        },
+        {
+            "id": "66669",
+            "airport_ref": "19979",
+            "airport_ident": "KGSH",
+            "type": "RDO",
+            "description": "TERRE HAUTE RDO",
+            "frequency_mhz": "113.7"
+        },
+        {
+            "id": "66670",
+            "airport_ref": "19979",
+            "airport_ident": "KGSH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

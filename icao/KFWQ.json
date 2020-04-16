@@ -1,0 +1,96 @@
+{
+    "id": "19910",
+    "ident": "KFWQ",
+    "type": "small_airport",
+    "name": "Rostraver Airport",
+    "latitude_deg": "40.20970153808594",
+    "longitude_deg": "-79.8313980102539",
+    "elevation_ft": "1228",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Monongahela",
+    "scheduled_service": "no",
+    "gps_code": "KFWQ",
+    "iata_code": "",
+    "local_code": "FWQ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245130",
+            "airport_ref": "19910",
+            "airport_ident": "KFWQ",
+            "length_ft": "4001",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "40.2076",
+            "le_longitude_deg": "-79.8381",
+            "le_elevation_ft": "1228",
+            "le_heading_degT": "67",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "40.2118",
+            "he_longitude_deg": "-79.8248",
+            "he_elevation_ft": "1223",
+            "he_heading_degT": "247",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69645",
+            "airport_ref": "19910",
+            "airport_ident": "KFWQ",
+            "type": "A/D",
+            "description": "PITTSBURGH APP/DEP",
+            "frequency_mhz": "119.35"
+        },
+        {
+            "id": "69646",
+            "airport_ref": "19910",
+            "airport_ident": "KFWQ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.475"
+        },
+        {
+            "id": "69647",
+            "airport_ref": "19910",
+            "airport_ident": "KFWQ",
+            "type": "RDO",
+            "description": "ALTOONA RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "69648",
+            "airport_ref": "19910",
+            "airport_ident": "KFWQ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

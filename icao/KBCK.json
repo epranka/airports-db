@@ -1,0 +1,88 @@
+{
+    "id": "19358",
+    "ident": "KBCK",
+    "type": "small_airport",
+    "name": "Black River Falls Area Airport",
+    "latitude_deg": "44.250701904296875",
+    "longitude_deg": "-90.85530090332031",
+    "elevation_ft": "836",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Black River Falls",
+    "scheduled_service": "no",
+    "gps_code": "KBCK",
+    "iata_code": "",
+    "local_code": "BCK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240903",
+            "airport_ref": "19358",
+            "airport_ident": "KBCK",
+            "length_ft": "4600",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "44.2497",
+            "le_longitude_deg": "-90.8639",
+            "le_elevation_ft": "823",
+            "le_heading_degT": "80",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "44.2518",
+            "he_longitude_deg": "-90.8466",
+            "he_elevation_ft": "836",
+            "he_heading_degT": "260",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60732",
+            "airport_ref": "19358",
+            "airport_ident": "KBCK",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "60733",
+            "airport_ref": "19358",
+            "airport_ident": "KBCK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "60734",
+            "airport_ref": "19358",
+            "airport_ident": "KBCK",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

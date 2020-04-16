@@ -1,0 +1,80 @@
+{
+    "id": "30532",
+    "ident": "EFVI",
+    "type": "small_airport",
+    "name": "Viitasaari Airport",
+    "latitude_deg": "63.1225013733",
+    "longitude_deg": "25.816099166900003",
+    "elevation_ft": "361",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-LS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EFVI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Viitasaari_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310833",
+            "airport_ref": "30532",
+            "airport_ident": "EFVI",
+            "length_ft": "951",
+            "width_ft": "82",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310832",
+            "airport_ref": "30532",
+            "airport_ident": "EFVI",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "132.325"
+        },
+        {
+            "id": "310831",
+            "airport_ref": "30532",
+            "airport_ident": "EFVI",
+            "type": "RDO",
+            "description": "Viitasaari traffic",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303803",
+        "code": "FI-LS",
+        "local_code": "LS",
+        "name": "Western Finland",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Finland",
+        "keywords": "Länsi-Suomen lääni, Västra Finlands län"
+    }
+}

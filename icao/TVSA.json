@@ -1,0 +1,96 @@
+{
+    "id": "322383",
+    "ident": "TVSA",
+    "type": "medium_airport",
+    "name": "Argyle International Airport",
+    "latitude_deg": "13.156695",
+    "longitude_deg": "-61.149945",
+    "elevation_ft": "136",
+    "continent": "NA",
+    "iso_country": "VC",
+    "iso_region": "VC-U-A",
+    "municipality": "Kingstown",
+    "scheduled_service": "yes",
+    "gps_code": "TVSA",
+    "iata_code": "SVD",
+    "local_code": "",
+    "home_link": "http://www.svgiadc.com",
+    "wikipedia_link": "https://en.m.wikipedia.org/wiki/Argyle_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "322384",
+            "airport_ref": "322383",
+            "airport_ident": "TVSA",
+            "length_ft": "9000",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "136",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "52",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "985"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "322388",
+            "airport_ref": "322383",
+            "airport_ident": "TVSA",
+            "type": "APP",
+            "description": "Argyle Approach",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "322385",
+            "airport_ref": "322383",
+            "airport_ident": "TVSA",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "132.55"
+        },
+        {
+            "id": "322386",
+            "airport_ref": "322383",
+            "airport_ident": "TVSA",
+            "type": "GND",
+            "description": "Argyle Ground",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "322387",
+            "airport_ref": "322383",
+            "airport_ident": "TVSA",
+            "type": "TWR",
+            "description": "Argyle Tower",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302756",
+        "code": "VC",
+        "name": "Saint Vincent and the Grenadines",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306164",
+        "code": "VC-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "VC",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

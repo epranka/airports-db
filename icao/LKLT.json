@@ -1,0 +1,102 @@
+{
+    "id": "30074",
+    "ident": "LKLT",
+    "type": "small_airport",
+    "name": "Letňany Airport",
+    "latitude_deg": "50.13140106201172",
+    "longitude_deg": "14.52560043334961",
+    "elevation_ft": "909",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-PR",
+    "municipality": "Letňany",
+    "scheduled_service": "no",
+    "gps_code": "LKLT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "315777",
+            "airport_ref": "30074",
+            "airport_ident": "LKLT",
+            "length_ft": "2820",
+            "width_ft": "75",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05L",
+            "le_latitude_deg": "50.134",
+            "le_longitude_deg": "14.5296",
+            "le_elevation_ft": "",
+            "le_heading_degT": "46",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23R",
+            "he_latitude_deg": "50.1293",
+            "he_longitude_deg": "14.5213",
+            "he_elevation_ft": "",
+            "he_heading_degT": "226",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "315778",
+            "airport_ref": "30074",
+            "airport_ident": "LKLT",
+            "length_ft": "2625",
+            "width_ft": "82",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05R",
+            "le_latitude_deg": "50.1338",
+            "le_longitude_deg": "14.5317",
+            "le_elevation_ft": "",
+            "le_heading_degT": "51",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23L",
+            "he_latitude_deg": "50.1293",
+            "he_longitude_deg": "14.5231",
+            "he_elevation_ft": "",
+            "he_heading_degT": "231",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "301775",
+            "airport_ref": "30074",
+            "airport_ident": "LKLT",
+            "type": "Info",
+            "description": "Letnany info",
+            "frequency_mhz": "120.325"
+        },
+        {
+            "id": "333245",
+            "airport_ref": "30074",
+            "airport_ident": "LKLT",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "120.335"
+        }
+    ],
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303541",
+        "code": "CZ-PR",
+        "local_code": "PR",
+        "name": "Prague (capital city)",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Prague",
+        "keywords": "Praha, hlavní město"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "2165",
+    "ident": "EBST",
+    "type": "small_airport",
+    "name": "Brustem Airfield Sint Truiden",
+    "latitude_deg": "50.791901",
+    "longitude_deg": "5.20167",
+    "elevation_ft": "246",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-VLI",
+    "municipality": "Sint Truiden",
+    "scheduled_service": "no",
+    "gps_code": "EBST",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.ebst.aero/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sint-Truiden_Air_Base",
+    "keywords": "Brustem Air Base",
+    "runways": [
+        {
+            "id": "233621",
+            "airport_ref": "2165",
+            "airport_ident": "EBST",
+            "length_ft": "3597",
+            "width_ft": "164",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "50.789",
+            "le_longitude_deg": "5.1945",
+            "le_elevation_ft": "237",
+            "le_heading_degT": "57.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "50.7948",
+            "he_longitude_deg": "5.20884",
+            "he_elevation_ft": "215",
+            "he_heading_degT": "237.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49320",
+            "airport_ref": "2165",
+            "airport_ident": "EBST",
+            "type": "INFO",
+            "description": "RDO",
+            "frequency_mhz": "119.98"
+        }
+    ],
+    "country": {
+        "id": "302676",
+        "code": "BE",
+        "name": "Belgium",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
+        "keywords": "Aéroports de Belgique,Luchthavens van België"
+    },
+    "region": {
+        "id": "303072",
+        "code": "BE-VLI",
+        "local_code": "VLI",
+        "name": "Limburg",
+        "continent": "EU",
+        "iso_country": "BE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limburg",
+        "keywords": "Flanders, Flemish Region, Vlaams Gewest, Vlaanderen"
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "21230",
+    "ident": "KTTS",
+    "type": "medium_airport",
+    "name": "Nasa Shuttle Landing Facility Airport",
+    "latitude_deg": "28.614999771118164",
+    "longitude_deg": "-80.69450378417969",
+    "elevation_ft": "10",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Titusville",
+    "scheduled_service": "no",
+    "gps_code": "KTTS",
+    "iata_code": "",
+    "local_code": "TTS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shuttle_Landing_Facility",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241922",
+            "airport_ref": "21230",
+            "airport_ident": "KTTS",
+            "length_ft": "15000",
+            "width_ft": "300",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "28.6328",
+            "le_longitude_deg": "-80.7061",
+            "le_elevation_ft": "10",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "28.597",
+            "he_longitude_deg": "-80.6827",
+            "he_elevation_ft": "10",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62835",
+            "airport_ref": "21230",
+            "airport_ident": "KTTS",
+            "type": "A/D",
+            "description": "ORLANDO APP/DEP",
+            "frequency_mhz": "134.95"
+        },
+        {
+            "id": "62836",
+            "airport_ref": "21230",
+            "airport_ident": "KTTS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "62837",
+            "airport_ref": "21230",
+            "airport_ident": "KTTS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "62838",
+            "airport_ref": "21230",
+            "airport_ident": "KTTS",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "62839",
+            "airport_ref": "21230",
+            "airport_ident": "KTTS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.55"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

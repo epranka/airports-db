@@ -1,0 +1,80 @@
+{
+    "id": "26980",
+    "ident": "YELD",
+    "type": "medium_airport",
+    "name": "Elcho Island Airport",
+    "latitude_deg": "-12.019399642899998",
+    "longitude_deg": "135.570999146",
+    "elevation_ft": "101",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Elcho Island",
+    "scheduled_service": "yes",
+    "gps_code": "YELD",
+    "iata_code": "ELC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Elcho_Island_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233307",
+            "airport_ref": "26980",
+            "airport_ident": "YELD",
+            "length_ft": "4724",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-12.0181",
+            "le_longitude_deg": "135.568",
+            "le_elevation_ft": "101",
+            "le_heading_degT": "99",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "-12.0203",
+            "he_longitude_deg": "135.581",
+            "he_elevation_ft": "88",
+            "he_heading_degT": "279",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48840",
+            "airport_ref": "26980",
+            "airport_ident": "YELD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "127.15"
+        },
+        {
+            "id": "48841",
+            "airport_ref": "26980",
+            "airport_ident": "YELD",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "123.4"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

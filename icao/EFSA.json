@@ -1,0 +1,104 @@
+{
+    "id": "2343",
+    "ident": "EFSA",
+    "type": "medium_airport",
+    "name": "Savonlinna Airport",
+    "latitude_deg": "61.943099975586",
+    "longitude_deg": "28.945100784302",
+    "elevation_ft": "311",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-IS",
+    "municipality": "Savonlinna",
+    "scheduled_service": "yes",
+    "gps_code": "EFSA",
+    "iata_code": "SVL",
+    "local_code": "",
+    "home_link": "http://www.finavia.fi/en/savonlinna/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Savonlinna_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235744",
+            "airport_ref": "2343",
+            "airport_ident": "EFSA",
+            "length_ft": "7546",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "61.9491",
+            "le_longitude_deg": "28.9273",
+            "le_elevation_ft": "311",
+            "le_heading_degT": "126",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "61.937",
+            "he_longitude_deg": "28.9629",
+            "he_elevation_ft": "289",
+            "he_heading_degT": "306",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52106",
+            "airport_ref": "2343",
+            "airport_ident": "EFSA",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "52107",
+            "airport_ref": "2343",
+            "airport_ident": "EFSA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "117.9"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303801",
+        "code": "FI-IS",
+        "local_code": "IS",
+        "name": "Eastern Finland",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Finland",
+        "keywords": "Itä-Suomen lääni, Östra Finlands län"
+    },
+    "navaids": [
+        {
+            "id": "94068",
+            "filename": "Linna_VOR-DME_FI",
+            "ident": "SVL",
+            "name": "Linna",
+            "type": "VOR-DME",
+            "frequency_khz": "117900",
+            "latitude_deg": "61.952701568603516",
+            "longitude_deg": "28.914100646972656",
+            "elevation_ft": "343",
+            "iso_country": "FI",
+            "dme_frequency_khz": "117900",
+            "dme_channel": "126X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.007",
+            "magnetic_variation_deg": "9.133",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EFSA"
+        }
+    ]
+}

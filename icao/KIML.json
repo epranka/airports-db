@@ -1,0 +1,110 @@
+{
+    "id": "20174",
+    "ident": "KIML",
+    "type": "small_airport",
+    "name": "Imperial Municipal Airport",
+    "latitude_deg": "40.50930023",
+    "longitude_deg": "-101.6210022",
+    "elevation_ft": "3275",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Imperial",
+    "scheduled_service": "no",
+    "gps_code": "KIML",
+    "iata_code": "IML",
+    "local_code": "IML",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244366",
+            "airport_ref": "20174",
+            "airport_ident": "KIML",
+            "length_ft": "3058",
+            "width_ft": "300",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "40.5093",
+            "le_longitude_deg": "-101.623",
+            "le_elevation_ft": "3270",
+            "le_heading_degT": "45.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "40.5152",
+            "he_longitude_deg": "-101.615",
+            "he_elevation_ft": "3275",
+            "he_heading_degT": "225.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244367",
+            "airport_ref": "20174",
+            "airport_ident": "KIML",
+            "length_ft": "5022",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "40.5148",
+            "le_longitude_deg": "-101.626",
+            "le_elevation_ft": "3272",
+            "le_heading_degT": "144",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "40.5037",
+            "he_longitude_deg": "-101.615",
+            "he_elevation_ft": "3264",
+            "he_heading_degT": "324",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67940",
+            "airport_ref": "20174",
+            "airport_ident": "KIML",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "124.175"
+        },
+        {
+            "id": "67941",
+            "airport_ref": "20174",
+            "airport_ident": "KIML",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "132.7"
+        },
+        {
+            "id": "67942",
+            "airport_ref": "20174",
+            "airport_ident": "KIML",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "831",
+    "ident": "CEA5",
+    "type": "small_airport",
+    "name": "Hardisty Airport",
+    "latitude_deg": "52.64690017700195",
+    "longitude_deg": "-111.38400268554688",
+    "elevation_ft": "2326",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Hardisty",
+    "scheduled_service": "no",
+    "gps_code": "CEA5",
+    "iata_code": "",
+    "local_code": "CEA5",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hardisty_Airport",
+    "keywords": "EA5",
+    "runways": [
+        {
+            "id": "234499",
+            "airport_ref": "831",
+            "airport_ident": "CEA5",
+            "length_ft": "3000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "52.6469",
+            "le_longitude_deg": "-111.391",
+            "le_elevation_ft": "",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "52.6469",
+            "he_longitude_deg": "-111.378",
+            "he_elevation_ft": "",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49950",
+            "airport_ref": "831",
+            "airport_ident": "CEA5",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "26717",
+    "ident": "VYEL",
+    "type": "medium_airport",
+    "name": "Naypyidaw Airport",
+    "latitude_deg": "19.623501",
+    "longitude_deg": "96.200996",
+    "elevation_ft": "302",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-04",
+    "municipality": "Pyinmana",
+    "scheduled_service": "yes",
+    "gps_code": "VYNT",
+    "iata_code": "NYT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Naypyidaw_Airport",
+    "keywords": "VYEL, Ela, Nay Pyi Taw International",
+    "runways": [
+        {
+            "id": "233712",
+            "airport_ref": "26717",
+            "airport_ident": "VYEL",
+            "length_ft": "12000",
+            "width_ft": "500",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "19.6389",
+            "le_longitude_deg": "96.1936",
+            "le_elevation_ft": "",
+            "le_heading_degT": "157.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "19.6085",
+            "he_longitude_deg": "96.2071",
+            "he_elevation_ft": "",
+            "he_heading_degT": "337.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49493",
+            "airport_ref": "26717",
+            "airport_ident": "VYEL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302649",
+        "code": "MM",
+        "name": "Burma",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
+        "keywords": "Myanmar"
+    },
+    "region": {
+        "id": "304669",
+        "code": "MM-04",
+        "local_code": "04",
+        "name": "Mandalay Division",
+        "continent": "AS",
+        "iso_country": "MM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mandalay_Division",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87707",
+            "filename": "El_NDB_MM",
+            "ident": "EL",
+            "name": "El",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "19.62459945678711",
+            "longitude_deg": "96.19750213623047",
+            "elevation_ft": "302",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.453",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VYEL"
+        }
+    ]
+}

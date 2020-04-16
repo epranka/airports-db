@@ -1,0 +1,102 @@
+{
+    "id": "19210",
+    "ident": "K9V9",
+    "type": "small_airport",
+    "name": "Chamberlain Municipal Airport",
+    "latitude_deg": "43.7661018371582",
+    "longitude_deg": "-99.32129669189453",
+    "elevation_ft": "1695",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Chamberlain",
+    "scheduled_service": "no",
+    "gps_code": "K9V9",
+    "iata_code": "",
+    "local_code": "9V9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239790",
+            "airport_ref": "19210",
+            "airport_ident": "K9V9",
+            "length_ft": "4300",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "43.7703",
+            "le_longitude_deg": "-99.3264",
+            "le_elevation_ft": "1687",
+            "le_heading_degT": "141",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "43.7611",
+            "he_longitude_deg": "-99.3162",
+            "he_elevation_ft": "1677",
+            "he_heading_degT": "321",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239791",
+            "airport_ref": "19210",
+            "airport_ident": "K9V9",
+            "length_ft": "3400",
+            "width_ft": "150",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "43.7713",
+            "le_longitude_deg": "-99.3207",
+            "le_elevation_ft": "",
+            "le_heading_degT": "187",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "43.762",
+            "he_longitude_deg": "-99.3222",
+            "he_elevation_ft": "",
+            "he_heading_degT": "7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58974",
+            "airport_ref": "19210",
+            "airport_ident": "K9V9",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "58975",
+            "airport_ref": "19210",
+            "airport_ident": "K9V9",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306117",
+        "code": "US-SD",
+        "local_code": "SD",
+        "name": "South Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
+        "keywords": ""
+    }
+}

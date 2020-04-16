@@ -1,0 +1,96 @@
+{
+    "id": "5952",
+    "ident": "SBPB",
+    "type": "small_airport",
+    "name": "Prefeito Doutor João Silva Filho Airport",
+    "latitude_deg": "-2.89374995232",
+    "longitude_deg": "-41.73199844359999",
+    "elevation_ft": "16",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PI",
+    "municipality": "Parnaíba",
+    "scheduled_service": "no",
+    "gps_code": "SBPB",
+    "iata_code": "PHB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Parna%C3%ADba-Prefeito_Dr._Jo%C3%A3o_Silva_Filho_International_Airport",
+    "keywords": "Santos Dumont Airport",
+    "runways": [
+        {
+            "id": "234026",
+            "airport_ref": "5952",
+            "airport_ident": "SBPB",
+            "length_ft": "6890",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "9",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49600",
+            "airport_ref": "5952",
+            "airport_ident": "SBPB",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "126.6"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303215",
+        "code": "BR-PI",
+        "local_code": "PI",
+        "name": "Piauí",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Piauí",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92562",
+            "filename": "Parnaiba_NDB_BR",
+            "ident": "PNB",
+            "name": "Parnaiba",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "-2.8975000381469727",
+            "longitude_deg": "-41.72880172729492",
+            "elevation_ft": "16",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.105",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBPB"
+        }
+    ]
+}

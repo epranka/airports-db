@@ -1,0 +1,96 @@
+{
+    "id": "26854",
+    "ident": "WIPO",
+    "type": "small_airport",
+    "name": "Gatot Subrato Airport",
+    "latitude_deg": "-4.391769886016846",
+    "longitude_deg": "104.4010009765625",
+    "elevation_ft": "450",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-LA",
+    "municipality": "Batu Raja-Sumatra Island",
+    "scheduled_service": "no",
+    "gps_code": "WIPO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236515",
+            "airport_ref": "26854",
+            "airport_ident": "WIPO",
+            "length_ft": "6890",
+            "width_ft": "125",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "-4.40006",
+            "le_longitude_deg": "104.397",
+            "le_elevation_ft": "",
+            "le_heading_degT": "29",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "-4.38347",
+            "he_longitude_deg": "104.406",
+            "he_elevation_ft": "",
+            "he_heading_degT": "209",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53645",
+            "airport_ref": "26854",
+            "airport_ident": "WIPO",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "123.7"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304113",
+        "code": "ID-LA",
+        "local_code": "LA",
+        "name": "Lampung",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lampung",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86295",
+            "filename": "Batu_Raja_NDB_ID",
+            "ident": "BR",
+            "name": "Batu Raja",
+            "type": "NDB",
+            "frequency_khz": "357",
+            "latitude_deg": "-4.397779941558838",
+            "longitude_deg": "104.40299987792969",
+            "elevation_ft": "451",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.228",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIPO"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "30513",
+    "ident": "LKUL",
+    "type": "small_airport",
+    "name": "Usti Nad Labem Airfield",
+    "latitude_deg": "50.699699",
+    "longitude_deg": "13.9697",
+    "elevation_ft": "791",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-US",
+    "municipality": "Usti Nad Labem",
+    "scheduled_service": "no",
+    "gps_code": "LKUL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259718",
+            "airport_ref": "30513",
+            "airport_ident": "LKUL",
+            "length_ft": "2559",
+            "width_ft": "98",
+            "surface": "Turf/Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "50.6976",
+            "le_longitude_deg": "13.9644",
+            "le_elevation_ft": "774",
+            "le_heading_degT": "51",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "50.7022",
+            "he_longitude_deg": "13.9733",
+            "he_elevation_ft": "784",
+            "he_heading_degT": "231",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "333284",
+            "airport_ref": "30513",
+            "airport_ident": "LKUL",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "123.405"
+        }
+    ],
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303544",
+        "code": "CZ-US",
+        "local_code": "US",
+        "name": "Ústí nad Labem Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ústí_nad_Labem_Region",
+        "keywords": "Ústecký kraj"
+    }
+}

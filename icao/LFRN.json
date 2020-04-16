@@ -1,0 +1,150 @@
+{
+    "id": "4218",
+    "ident": "LFRN",
+    "type": "medium_airport",
+    "name": "Rennes-Saint-Jacques Airport",
+    "latitude_deg": "48.069499969499994",
+    "longitude_deg": "-1.73478996754",
+    "elevation_ft": "124",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-BRE",
+    "municipality": "Rennes/Saint-Jacques",
+    "scheduled_service": "yes",
+    "gps_code": "LFRN",
+    "iata_code": "RNS",
+    "local_code": "",
+    "home_link": "http://www.rennes.aeroport.fr/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rennes_-_Saint-Jacques_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236034",
+            "airport_ref": "4218",
+            "airport_ident": "LFRN",
+            "length_ft": "6890",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "48.0737",
+            "le_longitude_deg": "-1.7461",
+            "le_elevation_ft": "80",
+            "le_heading_degT": "101",
+            "le_displaced_threshold_ft": "230",
+            "he_ident": "28",
+            "he_latitude_deg": "48.0702",
+            "he_longitude_deg": "-1.71839",
+            "he_elevation_ft": "120",
+            "he_heading_degT": "281",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "236035",
+            "airport_ref": "4218",
+            "airport_ident": "LFRN",
+            "length_ft": "2788",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "48.0699",
+            "le_longitude_deg": "-1.7405",
+            "le_elevation_ft": "110",
+            "le_heading_degT": "142",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "48.0639",
+            "he_longitude_deg": "-1.73353",
+            "he_elevation_ft": "109",
+            "he_heading_degT": "322",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52595",
+            "airport_ref": "4218",
+            "airport_ident": "LFRN",
+            "type": "APP",
+            "description": "RENNES APP",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "309851",
+            "airport_ref": "4218",
+            "airport_ident": "LFRN",
+            "type": "APP",
+            "description": "RENNES APP",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "52596",
+            "airport_ref": "4218",
+            "airport_ident": "LFRN",
+            "type": "ATIS",
+            "description": "RENNES ATIS",
+            "frequency_mhz": "136.4"
+        },
+        {
+            "id": "52597",
+            "airport_ref": "4218",
+            "airport_ident": "LFRN",
+            "type": "GND",
+            "description": "RENNES GND",
+            "frequency_mhz": "121.725"
+        },
+        {
+            "id": "52598",
+            "airport_ref": "4218",
+            "airport_ident": "LFRN",
+            "type": "TWR",
+            "description": "RENNES TWR",
+            "frequency_mhz": "120.5"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306348",
+        "code": "FR-BRE",
+        "local_code": "BRE",
+        "name": "Brittany",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
+        "keywords": "Bretagne"
+    },
+    "navaids": [
+        {
+            "id": "93043",
+            "filename": "Rennes_VOR-DME_FR",
+            "ident": "REN",
+            "name": "Rennes",
+            "type": "VOR-DME",
+            "frequency_khz": "109250",
+            "latitude_deg": "48.06919860839844",
+            "longitude_deg": "-1.74167001247406",
+            "elevation_ft": "126",
+            "iso_country": "FR",
+            "dme_frequency_khz": "109250",
+            "dme_channel": "029Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-2.225",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFRN"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "id": "5596",
+    "ident": "RJOK",
+    "type": "medium_airport",
+    "name": "Kōchi Ryōma Airport",
+    "latitude_deg": "33.546101",
+    "longitude_deg": "133.669006",
+    "elevation_ft": "42",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-39",
+    "municipality": "Nankoku",
+    "scheduled_service": "yes",
+    "gps_code": "RJOK",
+    "iata_code": "KCZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/K%C5%8Dchi_Airport",
+    "keywords": "Kochi, Nankoku, RJOK, KCZ",
+    "runways": [
+        {
+            "id": "237199",
+            "airport_ref": "5596",
+            "airport_ident": "RJOK",
+            "length_ft": "8203",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "33.5533",
+            "le_longitude_deg": "133.659",
+            "le_elevation_ft": "42",
+            "le_heading_degT": "131",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "33.5387",
+            "he_longitude_deg": "133.68",
+            "he_elevation_ft": "18",
+            "he_heading_degT": "311",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54677",
+            "airport_ref": "5596",
+            "airport_ident": "RJOK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "54678",
+            "airport_ref": "5596",
+            "airport_ident": "RJOK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.45"
+        },
+        {
+            "id": "54679",
+            "airport_ref": "5596",
+            "airport_ident": "RJOK",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "54680",
+            "airport_ref": "5596",
+            "airport_ident": "RJOK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.75"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304324",
+        "code": "JP-39",
+        "local_code": "39",
+        "name": "Kōchi Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kochi",
+        "keywords": "Shikoku"
+    },
+    "navaids": [
+        {
+            "id": "89948",
+            "filename": "Kochi_NDB_JP",
+            "ident": "KR",
+            "name": "Kochi",
+            "type": "NDB",
+            "frequency_khz": "399",
+            "latitude_deg": "33.54610061645508",
+            "longitude_deg": "133.67799377441406",
+            "elevation_ft": "31",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.443",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RJOK"
+        },
+        {
+            "id": "89962",
+            "filename": "Kochi_VOR-DME_JP",
+            "ident": "KRE",
+            "name": "Kochi",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "33.54180145263672",
+            "longitude_deg": "133.67999267578125",
+            "elevation_ft": "54",
+            "iso_country": "JP",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-6.442",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJOK"
+        }
+    ]
+}

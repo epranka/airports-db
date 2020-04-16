@@ -1,0 +1,104 @@
+{
+    "id": "6188",
+    "ident": "SLSA",
+    "type": "medium_airport",
+    "name": "Santa Ana Del Yacuma Airport",
+    "latitude_deg": "-13.762200355500001",
+    "longitude_deg": "-65.4352035522",
+    "elevation_ft": "472",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-B",
+    "municipality": "Santa Ana del Yacuma",
+    "scheduled_service": "no",
+    "gps_code": "SLSA",
+    "iata_code": "SBL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Ana_del_Yacuma_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233701",
+            "airport_ref": "6188",
+            "airport_ident": "SLSA",
+            "length_ft": "5013",
+            "width_ft": "69",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-13.757",
+            "le_longitude_deg": "-65.4398",
+            "le_elevation_ft": "",
+            "le_heading_degT": "140.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-13.7674",
+            "he_longitude_deg": "-65.4305",
+            "he_elevation_ft": "",
+            "he_heading_degT": "320.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49482",
+            "airport_ref": "6188",
+            "airport_ident": "SLSA",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "662.2"
+        },
+        {
+            "id": "49483",
+            "airport_ref": "6188",
+            "airport_ident": "SLSA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302790",
+        "code": "BO",
+        "name": "Bolivia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolivia",
+        "keywords": "Aeropuertos de Bolivia"
+    },
+    "region": {
+        "id": "303189",
+        "code": "BO-B",
+        "local_code": "B",
+        "name": "El Beni Department",
+        "continent": "SA",
+        "iso_country": "BO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/El_Beni_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85479",
+            "filename": "Santa_Ana_NDB_BO",
+            "ident": "ANA",
+            "name": "Santa Ana",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "-13.762999534606934",
+            "longitude_deg": "-65.43229675292969",
+            "elevation_ft": "",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.426",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SLSA"
+        }
+    ]
+}

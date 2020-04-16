@@ -1,0 +1,96 @@
+{
+    "id": "26834",
+    "ident": "WIHP",
+    "type": "small_airport",
+    "name": "Pondok Cabe Air Base",
+    "latitude_deg": "-6.3369598388671875",
+    "longitude_deg": "106.76499938964844",
+    "elevation_ft": "200",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-JK",
+    "municipality": "Jakarta",
+    "scheduled_service": "no",
+    "gps_code": "WIHP",
+    "iata_code": "PCB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pondok_Cabe_Airport",
+    "keywords": "WIPC,WIIP",
+    "runways": [
+        {
+            "id": "236554",
+            "airport_ref": "26834",
+            "airport_ident": "WIHP",
+            "length_ft": "6516",
+            "width_ft": "146",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-6.32802",
+            "le_longitude_deg": "106.765",
+            "le_elevation_ft": "",
+            "le_heading_degT": "184",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-6.34591",
+            "he_longitude_deg": "106.764",
+            "he_elevation_ft": "",
+            "he_heading_degT": "4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53716",
+            "airport_ref": "26834",
+            "airport_ident": "WIHP",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304107",
+        "code": "ID-JK",
+        "local_code": "JK",
+        "name": "Jakarta Raya",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jakarta_Raya",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86604",
+            "filename": "Pondok_Cabe_NDB_ID",
+            "ident": "CB",
+            "name": "Pondok Cabe",
+            "type": "NDB",
+            "frequency_khz": "225",
+            "latitude_deg": "-6.349820137023926",
+            "longitude_deg": "106.76799774169922",
+            "elevation_ft": "200",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.439",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIHP"
+        }
+    ]
+}

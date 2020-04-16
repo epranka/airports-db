@@ -1,0 +1,102 @@
+{
+    "id": "20090",
+    "ident": "KHSR",
+    "type": "small_airport",
+    "name": "Hot Springs Municipal Airport",
+    "latitude_deg": "43.36819839",
+    "longitude_deg": "-103.3880005",
+    "elevation_ft": "3150",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Hot Springs",
+    "scheduled_service": "no",
+    "gps_code": "KHSR",
+    "iata_code": "",
+    "local_code": "HSR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244956",
+            "airport_ref": "20090",
+            "airport_ident": "KHSR",
+            "length_ft": "4505",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "43.3634",
+            "le_longitude_deg": "-103.392",
+            "le_elevation_ft": "3148",
+            "le_heading_degT": "21.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "43.3749",
+            "he_longitude_deg": "-103.386",
+            "he_elevation_ft": "3140",
+            "he_heading_degT": "201.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244957",
+            "airport_ref": "20090",
+            "airport_ident": "KHSR",
+            "length_ft": "3950",
+            "width_ft": "250",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "43.3659",
+            "le_longitude_deg": "-103.394",
+            "le_elevation_ft": "3145",
+            "le_heading_degT": "76",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "43.3685",
+            "he_longitude_deg": "-103.38",
+            "he_elevation_ft": "3141",
+            "he_heading_degT": "256",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69268",
+            "airport_ref": "20090",
+            "airport_ident": "KHSR",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "127.95"
+        },
+        {
+            "id": "69269",
+            "airport_ref": "20090",
+            "airport_ident": "KHSR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306117",
+        "code": "US-SD",
+        "local_code": "SD",
+        "name": "South Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
+        "keywords": ""
+    }
+}

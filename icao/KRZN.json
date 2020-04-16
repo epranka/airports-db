@@ -1,0 +1,118 @@
+{
+    "id": "20983",
+    "ident": "KRZN",
+    "type": "small_airport",
+    "name": "Burnett County Airport",
+    "latitude_deg": "45.82270050048828",
+    "longitude_deg": "-92.37249755859375",
+    "elevation_ft": "989",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Siren",
+    "scheduled_service": "no",
+    "gps_code": "KRZN",
+    "iata_code": "",
+    "local_code": "RZN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241400",
+            "airport_ref": "20983",
+            "airport_ident": "KRZN",
+            "length_ft": "3900",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "45.8199",
+            "le_longitude_deg": "-92.3781",
+            "le_elevation_ft": "989",
+            "le_heading_degT": "44",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "45.8274",
+            "he_longitude_deg": "-92.3672",
+            "he_elevation_ft": "984",
+            "he_heading_degT": "224",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241401",
+            "airport_ref": "20983",
+            "airport_ident": "KRZN",
+            "length_ft": "3500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "45.8252",
+            "le_longitude_deg": "-92.377",
+            "le_elevation_ft": "986",
+            "le_heading_degT": "137",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "45.8182",
+            "he_longitude_deg": "-92.3676",
+            "he_elevation_ft": "987",
+            "he_heading_degT": "317",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61762",
+            "airport_ref": "20983",
+            "airport_ident": "KRZN",
+            "type": "ASOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "61763",
+            "airport_ref": "20983",
+            "airport_ident": "KRZN",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "121.05"
+        },
+        {
+            "id": "61764",
+            "airport_ref": "20983",
+            "airport_ident": "KRZN",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "109.4"
+        },
+        {
+            "id": "61765",
+            "airport_ref": "20983",
+            "airport_ident": "KRZN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

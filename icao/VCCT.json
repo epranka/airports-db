@@ -1,0 +1,104 @@
+{
+    "id": "26471",
+    "ident": "VCCT",
+    "type": "medium_airport",
+    "name": "China Bay Airport",
+    "latitude_deg": "8.5385103225708",
+    "longitude_deg": "81.18190002441406",
+    "elevation_ft": "6",
+    "continent": "AS",
+    "iso_country": "LK",
+    "iso_region": "LK-5",
+    "municipality": "Trincomalee",
+    "scheduled_service": "yes",
+    "gps_code": "VCCT",
+    "iata_code": "TRR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/China_Bay_Airport",
+    "keywords": "SLAF China Bay, RAF China Bay, Trincomalee Airport",
+    "runways": [
+        {
+            "id": "235113",
+            "airport_ref": "26471",
+            "airport_ident": "VCCT",
+            "length_ft": "7850",
+            "width_ft": "85",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "8.533",
+            "le_longitude_deg": "81.1725",
+            "le_elevation_ft": "6",
+            "le_heading_degT": "59.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "8.54403",
+            "he_longitude_deg": "81.1912",
+            "he_elevation_ft": "4",
+            "he_heading_degT": "239.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51089",
+            "airport_ref": "26471",
+            "airport_ident": "VCCT",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "51090",
+            "airport_ref": "26471",
+            "airport_ident": "VCCT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302648",
+        "code": "LK",
+        "name": "Sri Lanka",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sri_Lanka",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306762",
+        "code": "LK-5",
+        "local_code": "5",
+        "name": "Eastern Province",
+        "continent": "AS",
+        "iso_country": "LK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Province,_Sri_Lanka",
+        "keywords": "Negenahira Palata"
+    },
+    "navaids": [
+        {
+            "id": "86751",
+            "filename": "China_Bay_NDB_LK",
+            "ident": "CHB",
+            "name": "China Bay",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "8.533559799194336",
+            "longitude_deg": "81.185302734375",
+            "elevation_ft": "",
+            "iso_country": "LK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.236",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VCCT"
+        }
+    ]
+}

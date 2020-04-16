@@ -1,0 +1,72 @@
+{
+    "id": "2605",
+    "ident": "EPCE",
+    "type": "medium_airport",
+    "name": "Cewice Air Base",
+    "latitude_deg": "54.416",
+    "longitude_deg": "17.7633",
+    "elevation_ft": "495",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-PM",
+    "municipality": "Lębork",
+    "scheduled_service": "no",
+    "gps_code": "EPCE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238265",
+            "airport_ref": "2605",
+            "airport_ident": "EPCE",
+            "length_ft": "8214",
+            "width_ft": "170",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "54.4134",
+            "le_longitude_deg": "17.7446",
+            "le_elevation_ft": "489",
+            "le_heading_degT": "76",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "54.4187",
+            "he_longitude_deg": "17.782",
+            "he_elevation_ft": "504",
+            "he_heading_degT": "256",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56207",
+            "airport_ref": "2605",
+            "airport_ident": "EPCE",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "128.5"
+        }
+    ],
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305154",
+        "code": "PL-PM",
+        "local_code": "PM",
+        "name": "Pomerania",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pomeranian_Voivodeship",
+        "keywords": "Pomorskie"
+    }
+}

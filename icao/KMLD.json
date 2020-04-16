@@ -1,0 +1,80 @@
+{
+    "id": "20522",
+    "ident": "KMLD",
+    "type": "small_airport",
+    "name": "Malad City Airport",
+    "latitude_deg": "42.16659927368164",
+    "longitude_deg": "-112.2969970703125",
+    "elevation_ft": "4503",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Malad City",
+    "scheduled_service": "no",
+    "gps_code": "KMLD",
+    "iata_code": "",
+    "local_code": "MLD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245902",
+            "airport_ref": "20522",
+            "airport_ident": "KMLD",
+            "length_ft": "4950",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "42.1733",
+            "le_longitude_deg": "-112.297",
+            "le_elevation_ft": "4503",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "150",
+            "he_ident": "34",
+            "he_latitude_deg": "42.1597",
+            "he_longitude_deg": "-112.297",
+            "he_elevation_ft": "4473",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "210"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71313",
+            "airport_ref": "20522",
+            "airport_ident": "KMLD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "71314",
+            "airport_ref": "20522",
+            "airport_ident": "KMLD",
+            "type": "RDO",
+            "description": "BOISE RDO",
+            "frequency_mhz": "122.65"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": ""
+    }
+}

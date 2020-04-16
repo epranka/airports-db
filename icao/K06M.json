@@ -1,0 +1,72 @@
+{
+    "id": "18325",
+    "ident": "K06M",
+    "type": "small_airport",
+    "name": "Eupora Airport",
+    "latitude_deg": "33.534599",
+    "longitude_deg": "-89.312598",
+    "elevation_ft": "450",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Eupora",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "06M",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242136",
+            "airport_ref": "18325",
+            "airport_ident": "K06M",
+            "length_ft": "3000",
+            "width_ft": "60",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "33.5381",
+            "le_longitude_deg": "-89.3197",
+            "le_elevation_ft": "450",
+            "le_heading_degT": "147",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "33.5312",
+            "he_longitude_deg": "-89.3143",
+            "he_elevation_ft": "427",
+            "he_heading_degT": "359.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63292",
+            "airport_ref": "18325",
+            "airport_ident": "K06M",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    }
+}

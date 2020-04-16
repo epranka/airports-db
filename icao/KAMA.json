@@ -1,0 +1,174 @@
+{
+    "id": "3377",
+    "ident": "KAMA",
+    "type": "large_airport",
+    "name": "Rick Husband Amarillo International Airport",
+    "latitude_deg": "35.219398",
+    "longitude_deg": "-101.706001",
+    "elevation_ft": "3607",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Amarillo",
+    "scheduled_service": "yes",
+    "gps_code": "KAMA",
+    "iata_code": "AMA",
+    "local_code": "AMA",
+    "home_link": "http://airport.amarillo.gov/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rick_Husband_Amarillo_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245499",
+            "airport_ref": "3377",
+            "airport_ident": "KAMA",
+            "length_ft": "13502",
+            "width_ft": "300",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "35.2051",
+            "le_longitude_deg": "-101.733",
+            "le_elevation_ft": "3607",
+            "le_heading_degT": "46",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "35.2309",
+            "he_longitude_deg": "-101.7",
+            "he_elevation_ft": "3603",
+            "he_heading_degT": "226",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245500",
+            "airport_ref": "3377",
+            "airport_ident": "KAMA",
+            "length_ft": "7901",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "35.2297",
+            "le_longitude_deg": "-101.697",
+            "le_elevation_ft": "3602",
+            "le_heading_degT": "137.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "35.2137",
+            "he_longitude_deg": "-101.679",
+            "he_elevation_ft": "3593",
+            "he_heading_degT": "317.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70451",
+            "airport_ref": "3377",
+            "airport_ident": "KAMA",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "121.15"
+        },
+        {
+            "id": "70452",
+            "airport_ref": "3377",
+            "airport_ident": "KAMA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "70453",
+            "airport_ref": "3377",
+            "airport_ident": "KAMA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "70454",
+            "airport_ref": "3377",
+            "airport_ident": "KAMA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "70455",
+            "airport_ref": "3377",
+            "airport_ident": "KAMA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "70456",
+            "airport_ref": "3377",
+            "airport_ident": "KAMA",
+            "type": "RDO",
+            "description": "FORT WORTH RDO",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "70457",
+            "airport_ref": "3377",
+            "airport_ident": "KAMA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "70458",
+            "airport_ref": "3377",
+            "airport_ident": "KAMA",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85439",
+            "filename": "Pande_NDB_US",
+            "ident": "AM",
+            "name": "Pande",
+            "type": "NDB",
+            "frequency_khz": "251",
+            "latitude_deg": "35.14649963378906",
+            "longitude_deg": "-101.80500030517578",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.337",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KAMA"
+        }
+    ]
+}

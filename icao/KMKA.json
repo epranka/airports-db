@@ -1,0 +1,80 @@
+{
+    "id": "20515",
+    "ident": "KMKA",
+    "type": "small_airport",
+    "name": "Miller Municipal Airport",
+    "latitude_deg": "44.52519989013672",
+    "longitude_deg": "-98.95809936523438",
+    "elevation_ft": "1569",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Miller",
+    "scheduled_service": "no",
+    "gps_code": "KMKA",
+    "iata_code": "",
+    "local_code": "MKA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240626",
+            "airport_ref": "20515",
+            "airport_ident": "KMKA",
+            "length_ft": "3600",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "44.5298",
+            "le_longitude_deg": "-98.9607",
+            "le_elevation_ft": "1559",
+            "le_heading_degT": "158",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "44.5207",
+            "he_longitude_deg": "-98.9555",
+            "he_elevation_ft": "1569",
+            "he_heading_degT": "338",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60276",
+            "airport_ref": "20515",
+            "airport_ident": "KMKA",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "60277",
+            "airport_ref": "20515",
+            "airport_ident": "KMKA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306117",
+        "code": "US-SD",
+        "local_code": "SD",
+        "name": "South Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
+        "keywords": ""
+    }
+}

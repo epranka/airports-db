@@ -1,0 +1,104 @@
+{
+    "id": "2917",
+    "ident": "FMNH",
+    "type": "medium_airport",
+    "name": "Antsirabato Airport",
+    "latitude_deg": "-14.99940013885498",
+    "longitude_deg": "50.3202018737793",
+    "elevation_ft": "20",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-D",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "FMNH",
+    "iata_code": "ANM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Antsirabato_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237512",
+            "airport_ref": "2917",
+            "airport_ident": "FMNH",
+            "length_ft": "3914",
+            "width_ft": "89",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-14.9943",
+            "le_longitude_deg": "50.3186",
+            "le_elevation_ft": "16",
+            "le_heading_degT": "163",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-15.0046",
+            "he_longitude_deg": "50.3219",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "343",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55230",
+            "airport_ref": "2917",
+            "airport_ident": "FMNH",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "548.4"
+        },
+        {
+            "id": "55231",
+            "airport_ref": "2917",
+            "airport_ident": "FMNH",
+            "type": "AFIS",
+            "description": "AFIS INFO",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302585",
+        "code": "MG",
+        "name": "Madagascar",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madagascar",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304624",
+        "code": "MG-D",
+        "local_code": "D",
+        "name": "Antsiranana",
+        "continent": "AF",
+        "iso_country": "MG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antsiranana",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85318",
+            "filename": "Antalaha_NDB_MG",
+            "ident": "AH",
+            "name": "Antalaha",
+            "type": "NDB",
+            "frequency_khz": "321",
+            "latitude_deg": "-14.998900413513184",
+            "longitude_deg": "50.317901611328125",
+            "elevation_ft": "",
+            "iso_country": "MG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.368",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FMNH"
+        }
+    ]
+}

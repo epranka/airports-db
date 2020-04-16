@@ -1,0 +1,190 @@
+{
+    "id": "5742",
+    "ident": "RPVM",
+    "type": "large_airport",
+    "name": "Mactan Cebu International Airport",
+    "latitude_deg": "10.307499885559",
+    "longitude_deg": "123.97899627686",
+    "elevation_ft": "31",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-CEB",
+    "municipality": "Lapu-Lapu City",
+    "scheduled_service": "yes",
+    "gps_code": "RPVM",
+    "iata_code": "CEB",
+    "local_code": "",
+    "home_link": "http://www.mactan-cebuairport.com.ph/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mactan-Cebu_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238434",
+            "airport_ref": "5742",
+            "airport_ident": "RPVM",
+            "length_ft": "10827",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "10.297",
+            "le_longitude_deg": "123.969",
+            "le_elevation_ft": "18",
+            "le_heading_degT": "44.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "10.3182",
+            "he_longitude_deg": "123.99",
+            "he_elevation_ft": "28",
+            "he_heading_degT": "224.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56494",
+            "airport_ref": "5742",
+            "airport_ident": "RPVM",
+            "type": "ACC",
+            "description": "CON",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "56495",
+            "airport_ref": "5742",
+            "airport_ident": "RPVM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "56496",
+            "airport_ref": "5742",
+            "airport_ident": "RPVM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.6"
+        },
+        {
+            "id": "56497",
+            "airport_ref": "5742",
+            "airport_ident": "RPVM",
+            "type": "CLD",
+            "description": "CLNC",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "298471",
+            "airport_ref": "5742",
+            "airport_ident": "RPVM",
+            "type": "CTAF",
+            "description": "UNI",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "312237",
+            "airport_ref": "5742",
+            "airport_ident": "RPVM",
+            "type": "DEP",
+            "description": "Departure",
+            "frequency_mhz": "121.2"
+        },
+        {
+            "id": "56498",
+            "airport_ref": "5742",
+            "airport_ident": "RPVM",
+            "type": "FOC",
+            "description": "OPS",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "56499",
+            "airport_ref": "5742",
+            "airport_ident": "RPVM",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "56500",
+            "airport_ref": "5742",
+            "airport_ident": "RPVM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "56501",
+            "airport_ref": "5742",
+            "airport_ident": "RPVM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305079",
+        "code": "PH-CEB",
+        "local_code": "CEB",
+        "name": "Cebu Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cebu_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90809",
+            "filename": "Mactan_VOR-DME_PH",
+            "ident": "MCT",
+            "name": "Mactan",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "10.313599586486816",
+            "longitude_deg": "123.98799896240234",
+            "elevation_ft": "36",
+            "iso_country": "PH",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.289",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPVM"
+        },
+        {
+            "id": "90811",
+            "filename": "Mactan_NDB_PH",
+            "ident": "MCT",
+            "name": "Mactan",
+            "type": "NDB",
+            "frequency_khz": "331",
+            "latitude_deg": "10.309200286865234",
+            "longitude_deg": "123.98400115966797",
+            "elevation_ft": "36",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.288",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "RPVM"
+        }
+    ]
+}

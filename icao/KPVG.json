@@ -1,0 +1,110 @@
+{
+    "id": "20888",
+    "ident": "KPVG",
+    "type": "small_airport",
+    "name": "Hampton Roads Executive Airport",
+    "latitude_deg": "36.7802009583",
+    "longitude_deg": "-76.44879913330001",
+    "elevation_ft": "23",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Norfolk",
+    "scheduled_service": "no",
+    "gps_code": "KPVG",
+    "iata_code": "",
+    "local_code": "PVG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241230",
+            "airport_ref": "20888",
+            "airport_ident": "KPVG",
+            "length_ft": "3524",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "36.7763",
+            "le_longitude_deg": "-76.4495",
+            "le_elevation_ft": "21",
+            "le_heading_degT": "8.7",
+            "le_displaced_threshold_ft": "510",
+            "he_ident": "20",
+            "he_latitude_deg": "36.7859",
+            "he_longitude_deg": "-76.4477",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "188.7",
+            "he_displaced_threshold_ft": "440"
+        },
+        {
+            "id": "241231",
+            "airport_ref": "20888",
+            "airport_ident": "KPVG",
+            "length_ft": "4056",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "36.7795",
+            "le_longitude_deg": "-76.4559",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "92.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "36.7791",
+            "he_longitude_deg": "-76.4421",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "272.4",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61415",
+            "airport_ref": "20888",
+            "airport_ident": "KPVG",
+            "type": "A/D",
+            "description": "NORFOLK APP/DEP",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "61416",
+            "airport_ref": "20888",
+            "airport_ident": "KPVG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "61417",
+            "airport_ref": "20888",
+            "airport_ident": "KPVG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    }
+}

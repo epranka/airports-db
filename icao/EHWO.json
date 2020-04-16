@@ -1,0 +1,96 @@
+{
+    "id": "2529",
+    "ident": "EHWO",
+    "type": "medium_airport",
+    "name": "Woensdrecht Air Base",
+    "latitude_deg": "51.4491",
+    "longitude_deg": "4.34203",
+    "elevation_ft": "63",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-NB",
+    "municipality": "Bergen Op Zoom",
+    "scheduled_service": "no",
+    "gps_code": "EHWO",
+    "iata_code": "WOE",
+    "local_code": "",
+    "home_link": "http://www.defensie.nl/luchtmacht/luchtmachtbases/woensdrecht/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Woensdrecht_Air_Base",
+    "keywords": "BZM",
+    "runways": [
+        {
+            "id": "237937",
+            "airport_ref": "2529",
+            "airport_ident": "EHWO",
+            "length_ft": "7996",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "51.4452",
+            "le_longitude_deg": "4.32567",
+            "le_elevation_ft": "39",
+            "le_heading_degT": "69",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "51.4528",
+            "he_longitude_deg": "4.3585",
+            "he_elevation_ft": "63",
+            "he_heading_degT": "249",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55768",
+            "airport_ref": "2529",
+            "airport_ident": "EHWO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.43"
+        }
+    ],
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland,Luchthavens van Nederland"
+    },
+    "region": {
+        "id": "304938",
+        "code": "NL-NB",
+        "local_code": "NB",
+        "name": "Noord-Brabant",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Brabant",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95392",
+            "filename": "Woensdrecht_TACAN_NL",
+            "ident": "WDT",
+            "name": "Woensdrecht",
+            "type": "TACAN",
+            "frequency_khz": "115000",
+            "latitude_deg": "51.4474983215332",
+            "longitude_deg": "4.343890190124512",
+            "elevation_ft": "47",
+            "iso_country": "NL",
+            "dme_frequency_khz": "115000",
+            "dme_channel": "097X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.307",
+            "magnetic_variation_deg": "-0.405",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EHWO"
+        }
+    ]
+}

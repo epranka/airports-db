@@ -1,0 +1,88 @@
+{
+    "id": "20767",
+    "ident": "KOSC",
+    "type": "small_airport",
+    "name": "Oscoda Wurtsmith Airport",
+    "latitude_deg": "44.451599",
+    "longitude_deg": "-83.394096",
+    "elevation_ft": "633",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Oscoda",
+    "scheduled_service": "no",
+    "gps_code": "KOSC",
+    "iata_code": "OSC",
+    "local_code": "OSC",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Oscoda%E2%80%93Wurtsmith_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239748",
+            "airport_ref": "20767",
+            "airport_ident": "KOSC",
+            "length_ft": "11800",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "7",
+            "le_latitude_deg": "44.443",
+            "le_longitude_deg": "-83.4133",
+            "le_elevation_ft": "634",
+            "le_heading_degT": "58",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "44.4601",
+            "he_longitude_deg": "-83.3748",
+            "he_elevation_ft": "622",
+            "he_heading_degT": "238",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58894",
+            "airport_ref": "20767",
+            "airport_ident": "KOSC",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "116.1"
+        },
+        {
+            "id": "58895",
+            "airport_ref": "20767",
+            "airport_ident": "KOSC",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "58896",
+            "airport_ref": "20767",
+            "airport_ident": "KOSC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "21221",
+    "ident": "KTRL",
+    "type": "small_airport",
+    "name": "Terrell Municipal Airport",
+    "latitude_deg": "32.709201812744",
+    "longitude_deg": "-96.267402648926",
+    "elevation_ft": "474",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Terrell",
+    "scheduled_service": "no",
+    "gps_code": "KTRL",
+    "iata_code": "TRL",
+    "local_code": "TRL",
+    "home_link": "http://www.terrellairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Terrell_Municipal_Airport",
+    "keywords": "Terrell Field",
+    "runways": [
+        {
+            "id": "244721",
+            "airport_ref": "21221",
+            "airport_ident": "KTRL",
+            "length_ft": "3014",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "32.7137",
+            "le_longitude_deg": "-96.2707",
+            "le_elevation_ft": "472",
+            "le_heading_degT": "145.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "32.7069",
+            "he_longitude_deg": "-96.2651",
+            "he_elevation_ft": "469",
+            "he_heading_degT": "325.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244722",
+            "airport_ref": "21221",
+            "airport_ident": "KTRL",
+            "length_ft": "5006",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "32.7154",
+            "le_longitude_deg": "-96.2671",
+            "le_elevation_ft": "474",
+            "le_heading_degT": "179.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "32.7016",
+            "he_longitude_deg": "-96.2671",
+            "he_elevation_ft": "456",
+            "he_heading_degT": "359.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68708",
+            "airport_ref": "21221",
+            "airport_ident": "KTRL",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "68709",
+            "airport_ref": "21221",
+            "airport_ident": "KTRL",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "132.85"
+        },
+        {
+            "id": "68710",
+            "airport_ref": "21221",
+            "airport_ident": "KTRL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

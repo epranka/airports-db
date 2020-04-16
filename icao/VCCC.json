@@ -1,0 +1,120 @@
+{
+    "id": "26466",
+    "ident": "VCCC",
+    "type": "medium_airport",
+    "name": "Colombo Ratmalana Airport",
+    "latitude_deg": "6.821990013122559",
+    "longitude_deg": "79.88619995117188",
+    "elevation_ft": "22",
+    "continent": "AS",
+    "iso_country": "LK",
+    "iso_region": "LK-1",
+    "municipality": "Colombo",
+    "scheduled_service": "yes",
+    "gps_code": "VCCC",
+    "iata_code": "RML",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ratmalana_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235121",
+            "airport_ref": "26466",
+            "airport_ident": "VCCC",
+            "length_ft": "6013",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "6.81507",
+            "le_longitude_deg": "79.8817",
+            "le_elevation_ft": "24",
+            "le_heading_degT": "33.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "6.82892",
+            "he_longitude_deg": "79.8908",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "213.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51102",
+            "airport_ref": "26466",
+            "airport_ident": "VCCC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "51103",
+            "airport_ref": "26466",
+            "airport_ident": "VCCC",
+            "type": "CAC",
+            "description": "APP",
+            "frequency_mhz": "887.9"
+        },
+        {
+            "id": "51104",
+            "airport_ref": "26466",
+            "airport_ident": "VCCC",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "51105",
+            "airport_ref": "26466",
+            "airport_ident": "VCCC",
+            "type": "TWR",
+            "description": "RATMALANA TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302648",
+        "code": "LK",
+        "name": "Sri Lanka",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sri_Lanka",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306760",
+        "code": "LK-1",
+        "local_code": "1",
+        "name": "Western Province",
+        "continent": "AS",
+        "iso_country": "LK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Province,_Sri_Lanka",
+        "keywords": "Basnahira Palata"
+    },
+    "navaids": [
+        {
+            "id": "93137",
+            "filename": "Colombo_Ratmalana_NDB_LK",
+            "ident": "RM",
+            "name": "Colombo/Ratmalana",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "6.833680152893066",
+            "longitude_deg": "79.8853988647461",
+            "elevation_ft": "",
+            "iso_country": "LK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.454",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VCCC"
+        }
+    ]
+}

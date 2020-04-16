@@ -1,0 +1,88 @@
+{
+    "id": "19285",
+    "ident": "KANQ",
+    "type": "small_airport",
+    "name": "Tri State Steuben County Airport",
+    "latitude_deg": "41.639702",
+    "longitude_deg": "-85.083504",
+    "elevation_ft": "995",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Angola",
+    "scheduled_service": "no",
+    "gps_code": "KANQ",
+    "iata_code": "ANQ",
+    "local_code": "ANQ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tri-State_Steuben_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241556",
+            "airport_ref": "19285",
+            "airport_ident": "KANQ",
+            "length_ft": "4540",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "41.6355",
+            "le_longitude_deg": "-85.0895",
+            "le_elevation_ft": "984",
+            "le_heading_degT": "47",
+            "le_displaced_threshold_ft": "540",
+            "he_ident": "23",
+            "he_latitude_deg": "41.6439",
+            "he_longitude_deg": "-85.0774",
+            "he_elevation_ft": "995",
+            "he_heading_degT": "227",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62113",
+            "airport_ref": "19285",
+            "airport_ident": "KANQ",
+            "type": "A/D",
+            "description": "FORT WAYNE APP/DEP",
+            "frequency_mhz": "132.15"
+        },
+        {
+            "id": "62114",
+            "airport_ref": "19285",
+            "airport_ident": "KANQ",
+            "type": "FSS",
+            "description": "LITCHFIELD RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "62115",
+            "airport_ref": "19285",
+            "airport_ident": "KANQ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.075"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

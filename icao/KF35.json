@@ -1,0 +1,80 @@
+{
+    "id": "19812",
+    "ident": "KF35",
+    "type": "small_airport",
+    "name": "Possum Kingdom Airport",
+    "latitude_deg": "32.92319869995117",
+    "longitude_deg": "-98.4364013671875",
+    "elevation_ft": "1008",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Graford",
+    "scheduled_service": "no",
+    "gps_code": "KF35",
+    "iata_code": "",
+    "local_code": "F35",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242366",
+            "airport_ref": "19812",
+            "airport_ident": "KF35",
+            "length_ft": "3202",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "32.9192",
+            "le_longitude_deg": "-98.4398",
+            "le_elevation_ft": "1008",
+            "le_heading_degT": "30.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "32.9268",
+            "he_longitude_deg": "-98.4345",
+            "he_elevation_ft": "1008",
+            "he_heading_degT": "210.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63792",
+            "airport_ref": "19812",
+            "airport_ident": "KF35",
+            "type": "A/D",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "63793",
+            "airport_ref": "19812",
+            "airport_ident": "KF35",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "2330",
+    "ident": "EFMA",
+    "type": "medium_airport",
+    "name": "Mariehamn Airport",
+    "latitude_deg": "60.122200012207",
+    "longitude_deg": "19.898199081421",
+    "elevation_ft": "17",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-AL",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "EFMA",
+    "iata_code": "MHQ",
+    "local_code": "",
+    "home_link": "http://www.finavia.fi/en/mariehamn/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mariehamn_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235771",
+            "airport_ref": "2330",
+            "airport_ident": "EFMA",
+            "length_ft": "6243",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "60.1144",
+            "le_longitude_deg": "19.8914",
+            "le_elevation_ft": "4",
+            "le_heading_degT": "23",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "60.13",
+            "he_longitude_deg": "19.9049",
+            "he_elevation_ft": "17",
+            "he_heading_degT": "203",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52138",
+            "airport_ref": "2330",
+            "airport_ident": "EFMA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "114.7"
+        },
+        {
+            "id": "52139",
+            "airport_ref": "2330",
+            "airport_ident": "EFMA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.6"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303799",
+        "code": "FI-AL",
+        "local_code": "AL",
+        "name": "Åland Islands",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Åland_Islands",
+        "keywords": "Ahvenanmaan lääni, Ålands län"
+    },
+    "navaids": [
+        {
+            "id": "90740",
+            "filename": "Marie_VOR-DME_FI",
+            "ident": "MAR",
+            "name": "Marie",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "60.14099884033203",
+            "longitude_deg": "19.914400100708008",
+            "elevation_ft": "118",
+            "iso_country": "FI",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "5.065",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EFMA"
+        }
+    ]
+}

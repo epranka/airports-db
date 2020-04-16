@@ -1,0 +1,112 @@
+{
+    "id": "2613",
+    "ident": "EPKT",
+    "type": "large_airport",
+    "name": "Katowice International Airport",
+    "latitude_deg": "50.4743",
+    "longitude_deg": "19.08",
+    "elevation_ft": "995",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-SL",
+    "municipality": "Katowice",
+    "scheduled_service": "yes",
+    "gps_code": "EPKT",
+    "iata_code": "KTW",
+    "local_code": "",
+    "home_link": "http://katowice.airport.com",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Katowice_International_Airport",
+    "keywords": "Pyrzowice, Dąbrowa Górnicza, Katowice, Silesia, GOP, Silesia Metropolis, Gliwice, Piekary Śląskie, Bytom, Zabrze, Sosnowiec",
+    "runways": [
+        {
+            "id": "238275",
+            "airport_ref": "2613",
+            "airport_ident": "EPKT",
+            "length_ft": "9183",
+            "width_ft": "195",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "50.4761",
+            "le_longitude_deg": "19.0596",
+            "le_elevation_ft": "970",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "50.476",
+            "he_longitude_deg": "19.1046",
+            "he_elevation_ft": "994",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": "1045"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56216",
+            "airport_ref": "2613",
+            "airport_ident": "EPKT",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121.075"
+        },
+        {
+            "id": "56217",
+            "airport_ref": "2613",
+            "airport_ident": "EPKT",
+            "type": "GCCD",
+            "description": "HANDLING",
+            "frequency_mhz": "131.45"
+        },
+        {
+            "id": "56218",
+            "airport_ref": "2613",
+            "airport_ident": "EPKT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "129.25"
+        }
+    ],
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305156",
+        "code": "PL-SL",
+        "local_code": "SL",
+        "name": "Silesia",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Silesian_Voivodship",
+        "keywords": "Śląskie"
+    },
+    "navaids": [
+        {
+            "id": "92753",
+            "filename": "Katowice_NDB_PL",
+            "ident": "PT",
+            "name": "Katowice",
+            "type": "NDB",
+            "frequency_khz": "285",
+            "latitude_deg": "50.474098205566406",
+            "longitude_deg": "19.150299072265625",
+            "elevation_ft": "",
+            "iso_country": "PL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.388",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EPKT"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "316589",
+    "ident": "LLBO",
+    "type": "small_airport",
+    "name": "Habonim Airfield",
+    "latitude_deg": "32.65",
+    "longitude_deg": "34.9327778",
+    "elevation_ft": "17",
+    "continent": "AS",
+    "iso_country": "IL",
+    "iso_region": "IL-HA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LLBO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "316590",
+            "airport_ref": "316589",
+            "airport_ident": "LLBO",
+            "length_ft": "2625",
+            "width_ft": "59",
+            "surface": "ASPHALT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "32.6534",
+            "le_longitude_deg": "34.9336",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "188",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "32.6467",
+            "he_longitude_deg": "34.9326",
+            "he_elevation_ft": "17",
+            "he_heading_degT": "8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "316591",
+            "airport_ref": "316589",
+            "airport_ident": "LLBO",
+            "type": "CTAF",
+            "description": "Habonim Traffic",
+            "frequency_mhz": "129.15"
+        }
+    ],
+    "country": {
+        "id": "302633",
+        "code": "IL",
+        "name": "Israel",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Israel",
+        "keywords": "שדות התעופה של ישראל"
+    },
+    "region": {
+        "id": "304157",
+        "code": "IL-HA",
+        "local_code": "HA",
+        "name": "Haifa District",
+        "continent": "AS",
+        "iso_country": "IL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haifa_District",
+        "keywords": "Mehoz Hefa"
+    }
+}

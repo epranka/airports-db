@@ -1,0 +1,112 @@
+{
+    "id": "2482",
+    "ident": "EGTG",
+    "type": "closed",
+    "name": "Bristol Filton Airport",
+    "latitude_deg": "51.5194015503",
+    "longitude_deg": "-2.59083008766",
+    "elevation_ft": "226",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Bristol",
+    "scheduled_service": "no",
+    "gps_code": "EGTG",
+    "iata_code": "FZO",
+    "local_code": "",
+    "home_link": "http://www.bristolfilton.co.uk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bristol_Filton_Airport",
+    "keywords": "RAF Filton",
+    "runways": [
+        {
+            "id": "239601",
+            "airport_ref": "2482",
+            "airport_ident": "EGTG",
+            "length_ft": "8094",
+            "width_ft": "299",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "51.5194",
+            "le_longitude_deg": "-2.60802",
+            "le_elevation_ft": "199",
+            "le_heading_degT": "92",
+            "le_displaced_threshold_ft": "574",
+            "he_ident": "27",
+            "he_latitude_deg": "51.5194",
+            "he_longitude_deg": "-2.57247",
+            "he_elevation_ft": "185",
+            "he_heading_degT": "272",
+            "he_displaced_threshold_ft": "1033"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58536",
+            "airport_ref": "2482",
+            "airport_ident": "EGTG",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.725"
+        },
+        {
+            "id": "307867",
+            "airport_ref": "2482",
+            "airport_ident": "EGTG",
+            "type": "DIR",
+            "description": "Director",
+            "frequency_mhz": "127.97"
+        },
+        {
+            "id": "58537",
+            "airport_ref": "2482",
+            "airport_ident": "EGTG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "132.35"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91916",
+            "filename": "Filton_NDB_GB",
+            "ident": "OF",
+            "name": "Filton",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "51.52190017700195",
+            "longitude_deg": "-2.5902299880981445",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.133",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EGTG"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "20514",
+    "ident": "KMJX",
+    "type": "small_airport",
+    "name": "Ocean County Airport",
+    "latitude_deg": "39.92750168",
+    "longitude_deg": "-74.29239655",
+    "elevation_ft": "82",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Toms River",
+    "scheduled_service": "no",
+    "gps_code": "KMJX",
+    "iata_code": "MJX",
+    "local_code": "MJX",
+    "home_link": "http://www.planning.co.ocean.nj.us/rjmiller/index.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Robert_J._Miller_Air_Park",
+    "keywords": "N44, Robert J. Miller Air Park",
+    "runways": [
+        {
+            "id": "243709",
+            "airport_ref": "20514",
+            "airport_ident": "KMJX",
+            "length_ft": "5949",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "39.9222",
+            "le_longitude_deg": "-74.3005",
+            "le_elevation_ft": "77",
+            "le_heading_degT": "49.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "39.9328",
+            "he_longitude_deg": "-74.2843",
+            "he_elevation_ft": "76",
+            "he_heading_degT": "229.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "322851",
+            "airport_ref": "20514",
+            "airport_ident": "KMJX",
+            "length_ft": "3599",
+            "width_ft": "75",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "39.9267",
+            "le_longitude_deg": "-74.3058",
+            "le_elevation_ft": "86",
+            "le_heading_degT": "128",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "39.9206",
+            "he_longitude_deg": "-74.2957",
+            "he_elevation_ft": "76",
+            "he_heading_degT": "308",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66595",
+            "airport_ref": "20514",
+            "airport_ident": "KMJX",
+            "type": "A/D",
+            "description": "MC GUIRE APP/DEP",
+            "frequency_mhz": "124.15"
+        },
+        {
+            "id": "66596",
+            "airport_ref": "20514",
+            "airport_ident": "KMJX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.875"
+        },
+        {
+            "id": "66597",
+            "airport_ref": "20514",
+            "airport_ident": "KMJX",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.7"
+        },
+        {
+            "id": "66598",
+            "airport_ref": "20514",
+            "airport_ident": "KMJX",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "113.4"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    }
+}

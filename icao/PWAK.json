@@ -1,0 +1,104 @@
+{
+    "id": "5506",
+    "ident": "PWAK",
+    "type": "medium_airport",
+    "name": "Wake Island Airfield",
+    "latitude_deg": "19.282100677490234",
+    "longitude_deg": "166.63600158691406",
+    "elevation_ft": "14",
+    "continent": "OC",
+    "iso_country": "UM",
+    "iso_region": "UM-79",
+    "municipality": "Wake Island",
+    "scheduled_service": "no",
+    "gps_code": "PWAK",
+    "iata_code": "AWK",
+    "local_code": "AWK",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wake_Island_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246223",
+            "airport_ref": "5506",
+            "airport_ident": "PWAK",
+            "length_ft": "9843",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "19.2849",
+            "le_longitude_deg": "166.622",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "95",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "19.2793",
+            "he_longitude_deg": "166.65",
+            "he_elevation_ft": "12",
+            "he_heading_degT": "275",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71807",
+            "airport_ref": "5506",
+            "airport_ident": "PWAK",
+            "type": "A/G",
+            "description": "OPS AAS",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "71808",
+            "airport_ref": "5506",
+            "airport_ident": "PWAK",
+            "type": "RDO",
+            "description": "OAKLAND OCEANIC",
+            "frequency_mhz": "884.3"
+        }
+    ],
+    "country": {
+        "id": "302785",
+        "code": "UM",
+        "name": "United States Minor Outlying Islands",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306069",
+        "code": "UM-79",
+        "local_code": "79",
+        "name": "Wake Island",
+        "continent": "OC",
+        "iso_country": "UM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wake_Island",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85712",
+            "filename": "Wake_Island_VORTAC_UM",
+            "ident": "AWK",
+            "name": "Wake Island",
+            "type": "VORTAC",
+            "frequency_khz": "113500",
+            "latitude_deg": "19.28499984741211",
+            "longitude_deg": "166.6280059814453",
+            "elevation_ft": "10",
+            "iso_country": "UM",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "6.002",
+            "magnetic_variation_deg": "5.464",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PWAK"
+        }
+    ]
+}

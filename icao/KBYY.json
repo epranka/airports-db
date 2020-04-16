@@ -1,0 +1,88 @@
+{
+    "id": "19431",
+    "ident": "KBYY",
+    "type": "small_airport",
+    "name": "Bay City Municipal Airport",
+    "latitude_deg": "28.9733009338",
+    "longitude_deg": "-95.8635025024",
+    "elevation_ft": "45",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Bay City",
+    "scheduled_service": "no",
+    "gps_code": "KBYY",
+    "iata_code": "BBC",
+    "local_code": "BYY",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bay_City_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243719",
+            "airport_ref": "19431",
+            "airport_ident": "KBYY",
+            "length_ft": "5107",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "28.9781",
+            "le_longitude_deg": "-95.8692",
+            "le_elevation_ft": "44",
+            "le_heading_degT": "133.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "28.9684",
+            "he_longitude_deg": "-95.8577",
+            "he_elevation_ft": "40",
+            "he_heading_degT": "313.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66612",
+            "airport_ref": "19431",
+            "airport_ident": "KBYY",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.075"
+        },
+        {
+            "id": "66613",
+            "airport_ref": "19431",
+            "airport_ident": "KBYY",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "66614",
+            "airport_ref": "19431",
+            "airport_ident": "KBYY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

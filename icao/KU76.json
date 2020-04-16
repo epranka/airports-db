@@ -1,0 +1,88 @@
+{
+    "id": "21272",
+    "ident": "KU76",
+    "type": "small_airport",
+    "name": "Mountain Home Municipal Airport",
+    "latitude_deg": "43.13130188",
+    "longitude_deg": "-115.7300034",
+    "elevation_ft": "3167",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Mountain Home",
+    "scheduled_service": "no",
+    "gps_code": "KU76",
+    "iata_code": "",
+    "local_code": "U76",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243523",
+            "airport_ref": "21272",
+            "airport_ident": "KU76",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "43.1343",
+            "le_longitude_deg": "-115.738",
+            "le_elevation_ft": "3163",
+            "le_heading_degT": "116",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "43.1282",
+            "he_longitude_deg": "-115.721",
+            "he_elevation_ft": "3155",
+            "he_heading_degT": "296",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66178",
+            "airport_ref": "21272",
+            "airport_ident": "KU76",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "66179",
+            "airport_ref": "21272",
+            "airport_ident": "KU76",
+            "type": "RDO",
+            "description": "BOISE RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "66180",
+            "airport_ref": "21272",
+            "airport_ident": "KU76",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": ""
+    }
+}

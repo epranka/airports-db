@@ -1,0 +1,158 @@
+{
+    "id": "5662",
+    "ident": "RKTP",
+    "type": "small_airport",
+    "name": "Seosan Air Base",
+    "latitude_deg": "36.703999",
+    "longitude_deg": "126.486",
+    "elevation_ft": "39",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-44",
+    "municipality": "Seosan",
+    "scheduled_service": "no",
+    "gps_code": "RKTP",
+    "iata_code": "HMY",
+    "local_code": "RK6U",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Seosan_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237312",
+            "airport_ref": "5662",
+            "airport_ident": "RKTP",
+            "length_ft": "9000",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03L",
+            "le_latitude_deg": "36.694",
+            "le_longitude_deg": "126.479",
+            "le_elevation_ft": "39",
+            "le_heading_degT": "24.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21R",
+            "he_latitude_deg": "36.7163",
+            "he_longitude_deg": "126.491",
+            "he_elevation_ft": "39",
+            "he_heading_degT": "204.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "237311",
+            "airport_ref": "5662",
+            "airport_ident": "RKTP",
+            "length_ft": "9000",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03R",
+            "le_latitude_deg": "36.6932",
+            "le_longitude_deg": "126.481",
+            "le_elevation_ft": "39",
+            "le_heading_degT": "24.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21L",
+            "he_latitude_deg": "36.7156",
+            "he_longitude_deg": "126.494",
+            "he_elevation_ft": "39",
+            "he_heading_degT": "204.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54963",
+            "airport_ref": "5662",
+            "airport_ident": "RKTP",
+            "type": "APP",
+            "description": "HAEMI APP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "54964",
+            "airport_ref": "5662",
+            "airport_ident": "RKTP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "130.3"
+        },
+        {
+            "id": "54965",
+            "airport_ref": "5662",
+            "airport_ident": "RKTP",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "27.58"
+        },
+        {
+            "id": "54966",
+            "airport_ref": "5662",
+            "airport_ident": "RKTP",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "54967",
+            "airport_ref": "5662",
+            "airport_ident": "RKTP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "27.58"
+        },
+        {
+            "id": "54968",
+            "airport_ref": "5662",
+            "airport_ident": "RKTP",
+            "type": "TWR",
+            "description": "HAEMI TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304410",
+        "code": "KR-44",
+        "local_code": "44",
+        "name": "Chungcheongnamdo",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chungcheongnamdo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93379",
+            "filename": "Seosan_TACAN_KR",
+            "ident": "SAN",
+            "name": "Seosan",
+            "type": "TACAN",
+            "frequency_khz": "111500",
+            "latitude_deg": "36.71009826660156",
+            "longitude_deg": "126.48200225830078",
+            "elevation_ft": "39",
+            "iso_country": "KR",
+            "dme_frequency_khz": "111500",
+            "dme_channel": "052X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.294",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKTP"
+        }
+    ]
+}

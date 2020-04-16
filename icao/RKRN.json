@@ -1,0 +1,150 @@
+{
+    "id": "5649",
+    "ident": "RKRN",
+    "type": "small_airport",
+    "name": "Icheon Airfield (G-510)",
+    "latitude_deg": "37.200715",
+    "longitude_deg": "127.469215",
+    "elevation_ft": "255",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-41",
+    "municipality": "Jinsangmi-ro",
+    "scheduled_service": "no",
+    "gps_code": "RKRN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237325",
+            "airport_ref": "5649",
+            "airport_ident": "RKRN",
+            "length_ft": "5314",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10L",
+            "le_latitude_deg": "37.1974",
+            "le_longitude_deg": "127.466",
+            "le_elevation_ft": "",
+            "le_heading_degT": "89.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28R",
+            "he_latitude_deg": "37.1975",
+            "he_longitude_deg": "127.484",
+            "he_elevation_ft": "",
+            "he_heading_degT": "269.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "237324",
+            "airport_ref": "5649",
+            "airport_ident": "RKRN",
+            "length_ft": "1640",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10R",
+            "le_latitude_deg": "37.1964",
+            "le_longitude_deg": "127.471",
+            "le_elevation_ft": "",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28L",
+            "he_latitude_deg": "37.1964",
+            "he_longitude_deg": "127.476",
+            "he_elevation_ft": "",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55012",
+            "airport_ref": "5649",
+            "airport_ident": "RKRN",
+            "type": "APP",
+            "description": "OSAN APP",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "55013",
+            "airport_ref": "5649",
+            "airport_ident": "RKRN",
+            "type": "DEP",
+            "description": "OSAN DEP",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "55014",
+            "airport_ref": "5649",
+            "airport_ident": "RKRN",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "144"
+        },
+        {
+            "id": "55015",
+            "airport_ref": "5649",
+            "airport_ident": "RKRN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "51.15"
+        },
+        {
+            "id": "55016",
+            "airport_ref": "5649",
+            "airport_ident": "RKRN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304407",
+        "code": "KR-41",
+        "local_code": "41",
+        "name": "Gyeonggido",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeonggido",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89141",
+            "filename": "Icheon_VOR_KR",
+            "ident": "ICN",
+            "name": "Icheon",
+            "type": "VOR",
+            "frequency_khz": "117200",
+            "latitude_deg": "37.201698303222656",
+            "longitude_deg": "127.48300170898438",
+            "elevation_ft": "255",
+            "iso_country": "KR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.447",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKRN"
+        }
+    ]
+}

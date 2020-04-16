@@ -1,0 +1,80 @@
+{
+    "id": "20338",
+    "ident": "KLHB",
+    "type": "small_airport",
+    "name": "Hearne Municipal Airport",
+    "latitude_deg": "30.87179946899414",
+    "longitude_deg": "-96.62220001220703",
+    "elevation_ft": "285",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Hearne",
+    "scheduled_service": "no",
+    "gps_code": "KLHB",
+    "iata_code": "",
+    "local_code": "LHB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242304",
+            "airport_ref": "20338",
+            "airport_ident": "KLHB",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "30.8773",
+            "le_longitude_deg": "-96.6222",
+            "le_elevation_ft": "287",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "30.8663",
+            "he_longitude_deg": "-96.6222",
+            "he_elevation_ft": "287",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63652",
+            "airport_ref": "20338",
+            "airport_ident": "KLHB",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.675"
+        },
+        {
+            "id": "63653",
+            "airport_ref": "20338",
+            "airport_ident": "KLHB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

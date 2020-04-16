@@ -1,0 +1,120 @@
+{
+    "id": "5102",
+    "ident": "OENG",
+    "type": "medium_airport",
+    "name": "Nejran Airport",
+    "latitude_deg": "17.611400604248047",
+    "longitude_deg": "44.4192008972168",
+    "elevation_ft": "3982",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-10",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "OENG",
+    "iata_code": "EAM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Najran_Domestic_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238642",
+            "airport_ref": "5102",
+            "airport_ident": "OENG",
+            "length_ft": "10007",
+            "width_ft": "147",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "17.6045",
+            "le_longitude_deg": "44.4067",
+            "le_elevation_ft": "3982",
+            "le_heading_degT": "60",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "17.6183",
+            "he_longitude_deg": "44.4316",
+            "he_elevation_ft": "3958",
+            "he_heading_degT": "240",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56909",
+            "airport_ref": "5102",
+            "airport_ident": "OENG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "56910",
+            "airport_ref": "5102",
+            "airport_ident": "OENG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "56911",
+            "airport_ref": "5102",
+            "airport_ident": "OENG",
+            "type": "MISC",
+            "description": "FIRE RESCUE SVC",
+            "frequency_mhz": "133.5"
+        },
+        {
+            "id": "56912",
+            "airport_ref": "5102",
+            "airport_ident": "OENG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305369",
+        "code": "SA-10",
+        "local_code": "10",
+        "name": "Najran Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Najran_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91510",
+            "filename": "Nejran_VORTAC_SA",
+            "ident": "NEJ",
+            "name": "Nejran",
+            "type": "VORTAC",
+            "frequency_khz": "116700",
+            "latitude_deg": "17.60689926147461",
+            "longitude_deg": "44.41559982299805",
+            "elevation_ft": "3957",
+            "iso_country": "SA",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.55",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OENG"
+        }
+    ]
+}

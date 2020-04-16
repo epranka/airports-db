@@ -1,0 +1,88 @@
+{
+    "id": "19845",
+    "ident": "KFBL",
+    "type": "small_airport",
+    "name": "Faribault Municipal Airport-Liz Wall Strohfus Field",
+    "latitude_deg": "44.32844",
+    "longitude_deg": "-93.312534",
+    "elevation_ft": "1060",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Faribault",
+    "scheduled_service": "no",
+    "gps_code": "KFBL",
+    "iata_code": "FBL",
+    "local_code": "FBL",
+    "home_link": "http://www.faribault.org/departments/publicworks/airport",
+    "wikipedia_link": "",
+    "keywords": "Faribault Municipal",
+    "runways": [
+        {
+            "id": "244851",
+            "airport_ref": "19845",
+            "airport_ident": "KFBL",
+            "length_ft": "4254",
+            "width_ft": "72",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "44.3315",
+            "le_longitude_deg": "-93.3181",
+            "le_elevation_ft": "1057",
+            "le_heading_degT": "127",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "44.3244",
+            "he_longitude_deg": "-93.3051",
+            "he_elevation_ft": "1048",
+            "he_heading_degT": "307",
+            "he_displaced_threshold_ft": "237"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69010",
+            "airport_ref": "19845",
+            "airport_ident": "KFBL",
+            "type": "A/D",
+            "description": "MINNEAPOLIS APP/DEP",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "69011",
+            "airport_ref": "19845",
+            "airport_ident": "KFBL",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "111.2"
+        },
+        {
+            "id": "69012",
+            "airport_ref": "19845",
+            "airport_ident": "KFBL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

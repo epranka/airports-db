@@ -1,0 +1,80 @@
+{
+    "id": "20909",
+    "ident": "KRAW",
+    "type": "small_airport",
+    "name": "Warsaw Municipal Airport",
+    "latitude_deg": "38.346900939941406",
+    "longitude_deg": "-93.34539794921875",
+    "elevation_ft": "936",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Warsaw",
+    "scheduled_service": "no",
+    "gps_code": "KRAW",
+    "iata_code": "",
+    "local_code": "RAW",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240139",
+            "airport_ref": "20909",
+            "airport_ident": "KRAW",
+            "length_ft": "3300",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.3516",
+            "le_longitude_deg": "-93.3458",
+            "le_elevation_ft": "",
+            "le_heading_degT": "182.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.3425",
+            "he_longitude_deg": "-93.3464",
+            "he_elevation_ft": "",
+            "he_heading_degT": "2.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59528",
+            "airport_ref": "20909",
+            "airport_ident": "KRAW",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "59529",
+            "airport_ref": "20909",
+            "airport_ident": "KRAW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

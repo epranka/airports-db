@@ -1,0 +1,118 @@
+{
+    "id": "19349",
+    "ident": "KBAM",
+    "type": "small_airport",
+    "name": "Battle Mountain Airport",
+    "latitude_deg": "40.598999023400005",
+    "longitude_deg": "-116.874000549",
+    "elevation_ft": "4532",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Battle Mountain",
+    "scheduled_service": "no",
+    "gps_code": "KBAM",
+    "iata_code": "BAM",
+    "local_code": "BAM",
+    "home_link": "http://www.battlemountainairport.com/default.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Battle_Mountain_Airport",
+    "keywords": "Lander County Airport",
+    "runways": [
+        {
+            "id": "242158",
+            "airport_ref": "19349",
+            "airport_ident": "KBAM",
+            "length_ft": "7299",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "40.5938",
+            "le_longitude_deg": "-116.885",
+            "le_elevation_ft": "4531",
+            "le_heading_degT": "49.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "40.607",
+            "he_longitude_deg": "-116.865",
+            "he_elevation_ft": "4526",
+            "he_heading_degT": "229.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242159",
+            "airport_ref": "19349",
+            "airport_ident": "KBAM",
+            "length_ft": "7300",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "40.6053",
+            "le_longitude_deg": "-116.882",
+            "le_elevation_ft": "4532",
+            "le_heading_degT": "139.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "40.5901",
+            "he_longitude_deg": "-116.865",
+            "he_elevation_ft": "4531",
+            "he_heading_degT": "319.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63333",
+            "airport_ref": "19349",
+            "airport_ident": "KBAM",
+            "type": "AWOS",
+            "description": "AWOS THREE",
+            "frequency_mhz": "119.45"
+        },
+        {
+            "id": "63334",
+            "airport_ref": "19349",
+            "airport_ident": "KBAM",
+            "type": "CNTR",
+            "description": "SALT LAKE CNTR",
+            "frequency_mhz": "132.25"
+        },
+        {
+            "id": "63335",
+            "airport_ref": "19349",
+            "airport_ident": "KBAM",
+            "type": "RDO",
+            "description": "RENO RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "63336",
+            "airport_ref": "19349",
+            "airport_ident": "KBAM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306109",
+        "code": "US-NV",
+        "local_code": "NV",
+        "name": "Nevada",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
+        "keywords": ""
+    }
+}

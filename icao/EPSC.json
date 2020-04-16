@@ -1,0 +1,96 @@
+{
+    "id": "2630",
+    "ident": "EPSC",
+    "type": "medium_airport",
+    "name": "Szczecin-Goleniów \"Solidarność\" Airport",
+    "latitude_deg": "53.584701538100006",
+    "longitude_deg": "14.902199745199999",
+    "elevation_ft": "154",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-ZP",
+    "municipality": "Goleniow",
+    "scheduled_service": "yes",
+    "gps_code": "EPSC",
+    "iata_code": "SZZ",
+    "local_code": "",
+    "home_link": "http://www.airport.com.pl/en/index.php",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Szczecin-Goleni%C3%B3w_%22Solidarno%C5%9B%C4%87%22_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238276",
+            "airport_ref": "2630",
+            "airport_ident": "EPSC",
+            "length_ft": "8202",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "53.5921",
+            "le_longitude_deg": "14.8879",
+            "le_elevation_ft": "118",
+            "le_heading_degT": "131",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "53.5774",
+            "he_longitude_deg": "14.9165",
+            "he_elevation_ft": "154",
+            "he_heading_degT": "311",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56219",
+            "airport_ref": "2630",
+            "airport_ident": "EPSC",
+            "type": "TWR",
+            "description": "SZCZECIN TWR",
+            "frequency_mhz": "121.255"
+        }
+    ],
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305160",
+        "code": "PL-ZP",
+        "local_code": "ZP",
+        "name": "West Pomerania",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Pomeranian_Voivodeship",
+        "keywords": "Zachodniopomorskie"
+    },
+    "navaids": [
+        {
+            "id": "91993",
+            "filename": "Szczecin_NDB_PL",
+            "ident": "OL",
+            "name": "Szczecin",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "53.55500030517578",
+            "longitude_deg": "14.960200309753418",
+            "elevation_ft": "",
+            "iso_country": "PL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.418",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EPSC"
+        }
+    ]
+}

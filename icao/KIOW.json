@@ -1,0 +1,126 @@
+{
+    "id": "20182",
+    "ident": "KIOW",
+    "type": "small_airport",
+    "name": "Iowa City Municipal Airport",
+    "latitude_deg": "41.639198303200004",
+    "longitude_deg": "-91.5465011597",
+    "elevation_ft": "668",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Iowa City",
+    "scheduled_service": "no",
+    "gps_code": "KIOW",
+    "iata_code": "IOW",
+    "local_code": "IOW",
+    "home_link": "http://www.icgov.org/?id=1501",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa_City_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245975",
+            "airport_ref": "20182",
+            "airport_ident": "KIOW",
+            "length_ft": "4355",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "41.6389",
+            "le_longitude_deg": "-91.555",
+            "le_elevation_ft": "668",
+            "le_heading_degT": "70.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "41.6429",
+            "he_longitude_deg": "-91.54",
+            "he_elevation_ft": "650",
+            "he_heading_degT": "250.8",
+            "he_displaced_threshold_ft": "150"
+        },
+        {
+            "id": "245976",
+            "airport_ref": "20182",
+            "airport_ident": "KIOW",
+            "length_ft": "3900",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "41.6419",
+            "le_longitude_deg": "-91.5527",
+            "le_elevation_ft": "662",
+            "le_heading_degT": "124.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "41.6358",
+            "he_longitude_deg": "-91.541",
+            "he_elevation_ft": "649",
+            "he_heading_degT": "304.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71479",
+            "airport_ref": "20182",
+            "airport_ident": "KIOW",
+            "type": "A/D",
+            "description": "CEDAR RAPIDS APP/DEP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "71480",
+            "airport_ref": "20182",
+            "airport_ident": "KIOW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "128.075"
+        },
+        {
+            "id": "71481",
+            "airport_ref": "20182",
+            "airport_ident": "KIOW",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.05"
+        },
+        {
+            "id": "71482",
+            "airport_ref": "20182",
+            "airport_ident": "KIOW",
+            "type": "RDO",
+            "description": "FORT DODGE RDO",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "71483",
+            "airport_ref": "20182",
+            "airport_ident": "KIOW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

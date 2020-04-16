@@ -1,0 +1,96 @@
+{
+    "id": "4443",
+    "ident": "LPCO",
+    "type": "medium_airport",
+    "name": "Aerodromo Municipal de Coimbra",
+    "latitude_deg": "40.158758",
+    "longitude_deg": "-8.470815",
+    "elevation_ft": "587",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-06",
+    "municipality": "Coimbra",
+    "scheduled_service": "no",
+    "gps_code": "LPCO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Coimbra_Airport",
+    "keywords": "Bissaya Barreto Aerodrome, Coimbra Airport",
+    "runways": [
+        {
+            "id": "238324",
+            "airport_ref": "4443",
+            "airport_ident": "LPCO",
+            "length_ft": "3018",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "40.161",
+            "le_longitude_deg": "-8.47211",
+            "le_elevation_ft": "587",
+            "le_heading_degT": "157.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "40.1534",
+            "he_longitude_deg": "-8.46789",
+            "he_elevation_ft": "542",
+            "he_heading_degT": "337.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56290",
+            "airport_ref": "4443",
+            "airport_ident": "LPCO",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302711",
+        "code": "PT",
+        "name": "Portugal",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
+        "keywords": "Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "305172",
+        "code": "PT-06",
+        "local_code": "06",
+        "name": "Coimbra District",
+        "continent": "EU",
+        "iso_country": "PT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Coimbra_District",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86606",
+            "filename": "Coimbra_NDB_PT",
+            "ident": "CB",
+            "name": "Coimbra",
+            "type": "NDB",
+            "frequency_khz": "426",
+            "latitude_deg": "40.16059875488281",
+            "longitude_deg": "-8.471940040588379",
+            "elevation_ft": "",
+            "iso_country": "PT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.512",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LPCO"
+        }
+    ]
+}

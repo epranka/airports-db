@@ -1,0 +1,104 @@
+{
+    "id": "4061",
+    "ident": "LFBE",
+    "type": "medium_airport",
+    "name": "Bergerac-Roumanière Airport",
+    "latitude_deg": "44.82529830932617",
+    "longitude_deg": "0.5186110138893127",
+    "elevation_ft": "171",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Bergerac/Roumanière",
+    "scheduled_service": "yes",
+    "gps_code": "LFBE",
+    "iata_code": "EGC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bergerac-Roumani%C3%A8re_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235830",
+            "airport_ref": "4061",
+            "airport_ident": "LFBE",
+            "length_ft": "7234",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "44.8253",
+            "le_longitude_deg": "0.50495",
+            "le_elevation_ft": "170",
+            "le_heading_degT": "94",
+            "le_displaced_threshold_ft": "687",
+            "he_ident": "28",
+            "he_latitude_deg": "44.8238",
+            "he_longitude_deg": "0.532603",
+            "he_elevation_ft": "161",
+            "he_heading_degT": "274",
+            "he_displaced_threshold_ft": "804"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52220",
+            "airport_ref": "4061",
+            "airport_ident": "LFBE",
+            "type": "APP",
+            "description": "AQUITAINE APP",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "52221",
+            "airport_ref": "4061",
+            "airport_ident": "LFBE",
+            "type": "TWR",
+            "description": "BERGERAC TWR",
+            "frequency_mhz": "119.8"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306352",
+        "code": "FR-NAQ",
+        "local_code": "NAQ",
+        "name": "Nouvelle-Aquitaine",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
+        "keywords": "Limousin, Poitou-Charentes"
+    },
+    "navaids": [
+        {
+            "id": "85982",
+            "filename": "Bergerac_NDB_FR",
+            "ident": "BGC",
+            "name": "Bergerac",
+            "type": "NDB",
+            "frequency_khz": "374",
+            "latitude_deg": "44.81949996948242",
+            "longitude_deg": "0.6192780137062073",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.15",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LFBE"
+        }
+    ]
+}

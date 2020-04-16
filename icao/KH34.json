@@ -1,0 +1,102 @@
+{
+    "id": "20009",
+    "ident": "KH34",
+    "type": "small_airport",
+    "name": "Huntsville Municipal Airport",
+    "latitude_deg": "36.07820129394531",
+    "longitude_deg": "-93.75479888916016",
+    "elevation_ft": "1749",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Huntsville",
+    "scheduled_service": "no",
+    "gps_code": "KH34",
+    "iata_code": "",
+    "local_code": "H34",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244919",
+            "airport_ref": "20009",
+            "airport_ident": "KH34",
+            "length_ft": "1250",
+            "width_ft": "60",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "36.0775",
+            "le_longitude_deg": "-93.755",
+            "le_elevation_ft": "",
+            "le_heading_degT": "36",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "36.0803",
+            "he_longitude_deg": "-93.7525",
+            "he_elevation_ft": "",
+            "he_heading_degT": "216",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244920",
+            "airport_ref": "20009",
+            "airport_ident": "KH34",
+            "length_ft": "3646",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "36.0806",
+            "le_longitude_deg": "-93.7588",
+            "le_elevation_ft": "1744",
+            "le_heading_degT": "126",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "36.0748",
+            "he_longitude_deg": "-93.7488",
+            "he_elevation_ft": "1744",
+            "he_heading_degT": "306",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69179",
+            "airport_ref": "20009",
+            "airport_ident": "KH34",
+            "type": "A/D",
+            "description": "RAZORBACK APP/DEP",
+            "frequency_mhz": "128.15"
+        },
+        {
+            "id": "69180",
+            "airport_ref": "20009",
+            "airport_ident": "KH34",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

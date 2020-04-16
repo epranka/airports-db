@@ -1,0 +1,112 @@
+{
+    "id": "5733",
+    "ident": "X-RPVB",
+    "type": "closed",
+    "name": "Bacolod City Domestic Airport",
+    "latitude_deg": "10.64244",
+    "longitude_deg": "122.9296",
+    "elevation_ft": "26",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-NEC",
+    "municipality": "Bacolod City",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bacolod_City_Domestic_Airport",
+    "keywords": "RPVB, BCD",
+    "runways": [
+        {
+            "id": "238461",
+            "airport_ref": "5733",
+            "airport_ident": "X-RPVB",
+            "length_ft": "6569",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "10.7692",
+            "le_longitude_deg": "123.015",
+            "le_elevation_ft": "86",
+            "le_heading_degT": "30",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "21",
+            "he_latitude_deg": "10.784",
+            "he_longitude_deg": "123.023",
+            "he_elevation_ft": "84",
+            "he_heading_degT": "210",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56529",
+            "airport_ref": "5733",
+            "airport_ident": "X-RPVB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "56530",
+            "airport_ref": "5733",
+            "airport_ident": "X-RPVB",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "520.5"
+        },
+        {
+            "id": "56531",
+            "airport_ref": "5733",
+            "airport_ident": "X-RPVB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305106",
+        "code": "PH-NEC",
+        "local_code": "NEC",
+        "name": "Negroe Occidental Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Negroe_Occidental_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85856",
+            "filename": "Bacolod_VOR_PH",
+            "ident": "BC",
+            "name": "Bacolod",
+            "type": "VOR",
+            "frequency_khz": "114900",
+            "latitude_deg": "10.63759994506836",
+            "longitude_deg": "122.92500305175781",
+            "elevation_ft": "30",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.334",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "X-RPVB"
+        }
+    ]
+}

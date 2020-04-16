@@ -1,0 +1,72 @@
+{
+    "id": "30052",
+    "ident": "LKKY",
+    "type": "small_airport",
+    "name": "Kyjov Airfield",
+    "latitude_deg": "48.98",
+    "longitude_deg": "17.124701",
+    "elevation_ft": "689",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-JM",
+    "municipality": "Kyjov",
+    "scheduled_service": "no",
+    "gps_code": "LKKY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.letistekyjov.cz",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "329790",
+            "airport_ref": "30052",
+            "airport_ident": "LKKY",
+            "length_ft": "3300",
+            "width_ft": "400",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "48.9762",
+            "le_longitude_deg": "17.1283",
+            "le_elevation_ft": "",
+            "le_heading_degT": "146",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "48.9839",
+            "he_longitude_deg": "17.121",
+            "he_elevation_ft": "",
+            "he_heading_degT": "326",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "333243",
+            "airport_ref": "30052",
+            "airport_ident": "LKKY",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "130.61"
+        }
+    ],
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303533",
+        "code": "CZ-JM",
+        "local_code": "JM",
+        "name": "South Moravian Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Moravian_Region",
+        "keywords": "Jihomoravský kraj"
+    }
+}

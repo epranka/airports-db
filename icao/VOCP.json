@@ -1,0 +1,72 @@
+{
+    "id": "26611",
+    "ident": "VOCP",
+    "type": "medium_airport",
+    "name": "Kadapa Airport",
+    "latitude_deg": "14.51",
+    "longitude_deg": "78.772778",
+    "elevation_ft": "430",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-AP",
+    "municipality": "Kadapa",
+    "scheduled_service": "yes",
+    "gps_code": "VOCP",
+    "iata_code": "CDP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kadapa_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236715",
+            "airport_ref": "26611",
+            "airport_ident": "VOCP",
+            "length_ft": "6562",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "14.5115",
+            "le_longitude_deg": "78.7681",
+            "le_elevation_ft": "",
+            "le_heading_degT": "108.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "14.5084",
+            "he_longitude_deg": "78.7775",
+            "he_elevation_ft": "",
+            "he_heading_degT": "288.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53894",
+            "airport_ref": "26611",
+            "airport_ident": "VOCP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304165",
+        "code": "IN-AP",
+        "local_code": "AP",
+        "name": "Andhra Pradesh",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andhra_Pradesh",
+        "keywords": ""
+    }
+}

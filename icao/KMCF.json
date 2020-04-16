@@ -1,0 +1,152 @@
+{
+    "id": "3667",
+    "ident": "KMCF",
+    "type": "large_airport",
+    "name": "Mac Dill Air Force Base",
+    "latitude_deg": "27.84930038",
+    "longitude_deg": "-82.52120209",
+    "elevation_ft": "14",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Tampa",
+    "scheduled_service": "no",
+    "gps_code": "KMCF",
+    "iata_code": "MCF",
+    "local_code": "MCF",
+    "home_link": "http://www.macdill.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/MacDill_Air_Force_Base",
+    "keywords": "Southeast Air Base - Tampa, MacDill Field",
+    "runways": [
+        {
+            "id": "244875",
+            "airport_ref": "3667",
+            "airport_ident": "KMCF",
+            "length_ft": "11421",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "27.8374",
+            "le_longitude_deg": "-82.5327",
+            "le_elevation_ft": "8",
+            "le_heading_degT": "40.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "27.8613",
+            "he_longitude_deg": "-82.5097",
+            "he_elevation_ft": "14",
+            "he_heading_degT": "220.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69065",
+            "airport_ref": "3667",
+            "airport_ident": "KMCF",
+            "type": "APP",
+            "description": "TAMPA APP",
+            "frequency_mhz": "124.95"
+        },
+        {
+            "id": "69066",
+            "airport_ref": "3667",
+            "airport_ident": "KMCF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "133.825"
+        },
+        {
+            "id": "69067",
+            "airport_ref": "3667",
+            "airport_ident": "KMCF",
+            "type": "DEP",
+            "description": "TAMPA DEP",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "69068",
+            "airport_ref": "3667",
+            "airport_ident": "KMCF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.575"
+        },
+        {
+            "id": "69069",
+            "airport_ref": "3667",
+            "airport_ident": "KMCF",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "69070",
+            "airport_ref": "3667",
+            "airport_ident": "KMCF",
+            "type": "POST",
+            "description": "6 AMW COMD POST",
+            "frequency_mhz": "138.95"
+        },
+        {
+            "id": "69071",
+            "airport_ref": "3667",
+            "airport_ident": "KMCF",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "69072",
+            "airport_ref": "3667",
+            "airport_ident": "KMCF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90791",
+            "filename": "Macdill_TACAN_US",
+            "ident": "MCF",
+            "name": "Macdill",
+            "type": "TACAN",
+            "frequency_khz": "111000",
+            "latitude_deg": "27.8612003326416",
+            "longitude_deg": "-82.51349639892578",
+            "elevation_ft": "14",
+            "iso_country": "US",
+            "dme_frequency_khz": "111000",
+            "dme_channel": "047X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.001",
+            "magnetic_variation_deg": "-4.211",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KMCF"
+        }
+    ]
+}

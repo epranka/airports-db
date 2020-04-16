@@ -1,0 +1,80 @@
+{
+    "id": "18837",
+    "ident": "K4M9",
+    "type": "small_airport",
+    "name": "Corning Municipal Airport",
+    "latitude_deg": "36.40420150756836",
+    "longitude_deg": "-90.64790344238281",
+    "elevation_ft": "293",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Corning",
+    "scheduled_service": "no",
+    "gps_code": "K4M9",
+    "iata_code": "",
+    "local_code": "4M9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244860",
+            "airport_ref": "18837",
+            "airport_ident": "K4M9",
+            "length_ft": "4299",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "36.4101",
+            "le_longitude_deg": "-90.6479",
+            "le_elevation_ft": "292",
+            "le_heading_degT": "180.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "36.3983",
+            "he_longitude_deg": "-90.648",
+            "he_elevation_ft": "292",
+            "he_heading_degT": "0.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69038",
+            "airport_ref": "18837",
+            "airport_ident": "K4M9",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "120.075"
+        },
+        {
+            "id": "69039",
+            "airport_ref": "18837",
+            "airport_ident": "K4M9",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

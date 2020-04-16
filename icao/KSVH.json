@@ -1,0 +1,88 @@
+{
+    "id": "21123",
+    "ident": "KSVH",
+    "type": "small_airport",
+    "name": "Statesville Regional Airport",
+    "latitude_deg": "35.765300750732",
+    "longitude_deg": "-80.953903198242",
+    "elevation_ft": "968",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Statesville",
+    "scheduled_service": "no",
+    "gps_code": "KSVH",
+    "iata_code": "SVH",
+    "local_code": "SVH",
+    "home_link": "http://www.statesvillenc.net/Resident/Airport/tabid/82/Default.aspx",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245746",
+            "airport_ref": "21123",
+            "airport_ident": "KSVH",
+            "length_ft": "7006",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "35.7661",
+            "le_longitude_deg": "-80.9656",
+            "le_elevation_ft": "954",
+            "le_heading_degT": "96.8",
+            "le_displaced_threshold_ft": "1000",
+            "he_ident": "28",
+            "he_latitude_deg": "35.7639",
+            "he_longitude_deg": "-80.9422",
+            "he_elevation_ft": "959",
+            "he_heading_degT": "276.8",
+            "he_displaced_threshold_ft": "550"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70979",
+            "airport_ref": "21123",
+            "airport_ident": "KSVH",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.225"
+        },
+        {
+            "id": "70980",
+            "airport_ref": "21123",
+            "airport_ident": "KSVH",
+            "type": "CNTR",
+            "description": "ATLANTA CNTR",
+            "frequency_mhz": "125.15"
+        },
+        {
+            "id": "70981",
+            "airport_ref": "21123",
+            "airport_ident": "KSVH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.075"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

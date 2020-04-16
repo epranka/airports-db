@@ -1,0 +1,72 @@
+{
+    "id": "751",
+    "ident": "CCE3",
+    "type": "small_airport",
+    "name": "Juniper Airport",
+    "latitude_deg": "46.562801361083984",
+    "longitude_deg": "-67.16829681396484",
+    "elevation_ft": "837",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Juniper",
+    "scheduled_service": "no",
+    "gps_code": "CCE3",
+    "iata_code": "",
+    "local_code": "CCE3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Juniper_Airport",
+    "keywords": "CE3",
+    "runways": [
+        {
+            "id": "234529",
+            "airport_ref": "751",
+            "airport_ident": "CCE3",
+            "length_ft": "4021",
+            "width_ft": "53",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "46.5572",
+            "le_longitude_deg": "-67.168",
+            "le_elevation_ft": "836",
+            "le_heading_degT": "357",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "46.5682",
+            "he_longitude_deg": "-67.1688",
+            "he_elevation_ft": "837",
+            "he_heading_degT": "177",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50001",
+            "airport_ref": "751",
+            "airport_ident": "CCE3",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303297",
+        "code": "CA-NB",
+        "local_code": "NB",
+        "name": "New Brunswick",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Brunswick",
+        "keywords": ""
+    }
+}

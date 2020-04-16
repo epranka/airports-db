@@ -1,0 +1,88 @@
+{
+    "id": "27996",
+    "ident": "YTMB",
+    "type": "small_airport",
+    "name": "Tambo Airport",
+    "latitude_deg": "-24.850000381469727",
+    "longitude_deg": "146.2830047607422",
+    "elevation_ft": "457",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YTMB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259423",
+            "airport_ref": "27996",
+            "airport_ident": "YTMB",
+            "length_ft": "4002",
+            "width_ft": "",
+            "surface": "L",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74713",
+            "airport_ref": "27996",
+            "airport_ident": "YTMB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "74714",
+            "airport_ref": "27996",
+            "airport_ident": "YTMB",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "74715",
+            "airport_ref": "27996",
+            "airport_ident": "YTMB",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.8"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

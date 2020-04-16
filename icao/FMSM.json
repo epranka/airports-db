@@ -1,0 +1,104 @@
+{
+    "id": "2931",
+    "ident": "FMSM",
+    "type": "medium_airport",
+    "name": "Mananjary Airport",
+    "latitude_deg": "-21.201799392700195",
+    "longitude_deg": "48.358299255371094",
+    "elevation_ft": "20",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-F",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "FMSM",
+    "iata_code": "MNJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mananjary_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237513",
+            "airport_ref": "2931",
+            "airport_ident": "FMSM",
+            "length_ft": "4921",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "-21.208",
+            "le_longitude_deg": "48.3556",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "22",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "-21.1955",
+            "he_longitude_deg": "48.361",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "202",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55232",
+            "airport_ref": "2931",
+            "airport_ident": "FMSM",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "548.4"
+        },
+        {
+            "id": "55233",
+            "airport_ref": "2931",
+            "airport_ident": "FMSM",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302585",
+        "code": "MG",
+        "name": "Madagascar",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madagascar",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304625",
+        "code": "MG-F",
+        "local_code": "F",
+        "name": "Fianarantsoa",
+        "continent": "AF",
+        "iso_country": "MG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fianarantsoa",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90988",
+            "filename": "Mananjary_NDB_MG",
+            "ident": "MJ",
+            "name": "Mananjary",
+            "type": "NDB",
+            "frequency_khz": "329",
+            "latitude_deg": "-21.201200485229492",
+            "longitude_deg": "48.36650085449219",
+            "elevation_ft": "",
+            "iso_country": "MG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.191",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FMSM"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "id": "20223",
+    "ident": "KJVL",
+    "type": "small_airport",
+    "name": "Southern Wisconsin Regional Airport",
+    "latitude_deg": "42.620300293",
+    "longitude_deg": "-89.0416030884",
+    "elevation_ft": "808",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Janesville",
+    "scheduled_service": "no",
+    "gps_code": "KJVL",
+    "iata_code": "JVL",
+    "local_code": "JVL",
+    "home_link": "http://www.jvlairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Wisconsin_Regional_Airport",
+    "keywords": "Rock County Airport",
+    "runways": [
+        {
+            "id": "243620",
+            "airport_ref": "20223",
+            "airport_ident": "KJVL",
+            "length_ft": "6701",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "42.6118",
+            "le_longitude_deg": "-89.0498",
+            "le_elevation_ft": "804",
+            "le_heading_degT": "41.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "42.6256",
+            "he_longitude_deg": "-89.0333",
+            "he_elevation_ft": "805",
+            "he_heading_degT": "221.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243621",
+            "airport_ref": "20223",
+            "airport_ident": "KJVL",
+            "length_ft": "7300",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "42.6281",
+            "le_longitude_deg": "-89.0552",
+            "le_elevation_ft": "795",
+            "le_heading_degT": "134",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "42.6143",
+            "he_longitude_deg": "-89.0355",
+            "he_elevation_ft": "806",
+            "he_heading_degT": "314",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243622",
+            "airport_ref": "20223",
+            "airport_ident": "KJVL",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "42.6278",
+            "le_longitude_deg": "-89.0362",
+            "le_elevation_ft": "808",
+            "le_heading_degT": "179.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "42.6141",
+            "he_longitude_deg": "-89.036",
+            "he_elevation_ft": "805",
+            "he_heading_degT": "359.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66398",
+            "airport_ref": "20223",
+            "airport_ident": "KJVL",
+            "type": "A/D",
+            "description": "ROCKFORD APP/DEP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "66399",
+            "airport_ref": "20223",
+            "airport_ident": "KJVL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.25"
+        },
+        {
+            "id": "66400",
+            "airport_ref": "20223",
+            "airport_ident": "KJVL",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "66401",
+            "airport_ref": "20223",
+            "airport_ident": "KJVL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "66402",
+            "airport_ref": "20223",
+            "airport_ident": "KJVL",
+            "type": "GND",
+            "description": "JANESVILLE GND",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "66403",
+            "airport_ref": "20223",
+            "airport_ident": "KJVL",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "114.3"
+        },
+        {
+            "id": "66404",
+            "airport_ref": "20223",
+            "airport_ident": "KJVL",
+            "type": "TWR",
+            "description": "JANESVILLE TWR",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "66405",
+            "airport_ref": "20223",
+            "airport_ident": "KJVL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

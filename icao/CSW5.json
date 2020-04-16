@@ -1,0 +1,102 @@
+{
+    "id": "1571",
+    "ident": "CSW5",
+    "type": "heliport",
+    "name": "Montréal (Bell) Heliport",
+    "latitude_deg": "45.685001373291016",
+    "longitude_deg": "-73.93109893798828",
+    "elevation_ft": "221",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal",
+    "scheduled_service": "no",
+    "gps_code": "CSW5",
+    "iata_code": "",
+    "local_code": "CSW5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SW5",
+    "runways": [
+        {
+            "id": "271055",
+            "airport_ref": "1571",
+            "airport_ident": "CSW5",
+            "length_ft": "1000",
+            "width_ft": "100",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06L",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24R",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "271056",
+            "airport_ref": "1571",
+            "airport_ident": "CSW5",
+            "length_ft": "800",
+            "width_ft": "100",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06R",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24L",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75453",
+            "airport_ref": "1571",
+            "airport_ident": "CSW5",
+            "type": "A/G",
+            "description": "Tour de Bell",
+            "frequency_mhz": "130.25"
+        },
+        {
+            "id": "75452",
+            "airport_ref": "1571",
+            "airport_ident": "CSW5",
+            "type": "RADIO",
+            "description": "Mirabel Radio",
+            "frequency_mhz": "119.1"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    }
+}

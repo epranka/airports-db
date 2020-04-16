@@ -1,0 +1,112 @@
+{
+    "id": "1998",
+    "ident": "CYZS",
+    "type": "medium_airport",
+    "name": "Coral Harbour Airport",
+    "latitude_deg": "64.1932983398",
+    "longitude_deg": "-83.3593978882",
+    "elevation_ft": "210",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Coral Harbour",
+    "scheduled_service": "yes",
+    "gps_code": "CYZS",
+    "iata_code": "YZS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Coral_Harbour_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235086",
+            "airport_ref": "1998",
+            "airport_ident": "CYZS",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16T",
+            "le_latitude_deg": "64.1995",
+            "le_longitude_deg": "-83.3661",
+            "le_elevation_ft": "210",
+            "le_heading_degT": "155",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34T",
+            "he_latitude_deg": "64.1871",
+            "he_longitude_deg": "-83.3528",
+            "he_elevation_ft": "184",
+            "he_heading_degT": "335",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51034",
+            "airport_ref": "1998",
+            "airport_ident": "CYZS",
+            "type": "ATF",
+            "description": "MANDATORY FREQ",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51035",
+            "airport_ref": "1998",
+            "airport_ident": "CYZS",
+            "type": "INFO",
+            "description": "EDMONTON CENTRE",
+            "frequency_mhz": "133.7"
+        },
+        {
+            "id": "51036",
+            "airport_ref": "1998",
+            "airport_ident": "CYZS",
+            "type": "RDO",
+            "description": "ARPT RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303301",
+        "code": "CA-NU",
+        "local_code": "NU",
+        "name": "Nunavut",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95943",
+            "filename": "Coral_Harbour_NDB_CA",
+            "ident": "YZS",
+            "name": "Coral Harbour",
+            "type": "NDB",
+            "frequency_khz": "362",
+            "latitude_deg": "64.14859771728516",
+            "longitude_deg": "-83.30470275878906",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.448",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYZS"
+        }
+    ]
+}

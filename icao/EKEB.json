@@ -1,0 +1,104 @@
+{
+    "id": "2543",
+    "ident": "EKEB",
+    "type": "medium_airport",
+    "name": "Esbjerg Airport",
+    "latitude_deg": "55.525902",
+    "longitude_deg": "8.5534",
+    "elevation_ft": "97",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-83",
+    "municipality": "Esbjerg",
+    "scheduled_service": "yes",
+    "gps_code": "EKEB",
+    "iata_code": "EBJ",
+    "local_code": "",
+    "home_link": "http://www.esbjerg-lufthavn.dk/en/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Esbjerg_Airport",
+    "keywords": "offshore, North Sea",
+    "runways": [
+        {
+            "id": "235469",
+            "airport_ref": "2543",
+            "airport_ident": "EKEB",
+            "length_ft": "8527",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "55.5238",
+            "le_longitude_deg": "8.53349",
+            "le_elevation_ft": "78",
+            "le_heading_degT": "79",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "55.5281",
+            "he_longitude_deg": "8.57395",
+            "he_elevation_ft": "97",
+            "he_heading_degT": "259",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51736",
+            "airport_ref": "2543",
+            "airport_ident": "EKEB",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "120.15"
+        },
+        {
+            "id": "51737",
+            "airport_ref": "2543",
+            "airport_ident": "EKEB",
+            "type": "MISC",
+            "description": "HANDLING",
+            "frequency_mhz": "130.575"
+        }
+    ],
+    "country": {
+        "id": "302682",
+        "code": "DK",
+        "name": "Denmark",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
+        "keywords": "Lufthavnene i Danmark"
+    },
+    "region": {
+        "id": "306327",
+        "code": "DK-83",
+        "local_code": "83",
+        "name": "South Denmark",
+        "continent": "EU",
+        "iso_country": "DK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Denmark",
+        "keywords": "Syddanmark"
+    },
+    "navaids": [
+        {
+            "id": "88969",
+            "filename": "Esbjerg_NDB_DK",
+            "ident": "HP",
+            "name": "Esbjerg",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "55.51139831542969",
+            "longitude_deg": "8.4127197265625",
+            "elevation_ft": "",
+            "iso_country": "DK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.268",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EKEB"
+        }
+    ]
+}

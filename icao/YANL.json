@@ -1,0 +1,80 @@
+{
+    "id": "27331",
+    "ident": "YANL",
+    "type": "small_airport",
+    "name": "Anthony Lagoon Airport",
+    "latitude_deg": "-18.018079031",
+    "longitude_deg": "135.535068512",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YANL",
+    "iata_code": "AYL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258223",
+            "airport_ref": "27331",
+            "airport_ident": "YANL",
+            "length_ft": "4297",
+            "width_ft": "",
+            "surface": "X",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72095",
+            "airport_ref": "27331",
+            "airport_ident": "YANL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "134.4"
+        },
+        {
+            "id": "72096",
+            "airport_ref": "27331",
+            "airport_ident": "YANL",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.4"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

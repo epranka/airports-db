@@ -1,0 +1,72 @@
+{
+    "id": "19690",
+    "ident": "KE24",
+    "type": "small_airport",
+    "name": "Whiteriver Airport",
+    "latitude_deg": "33.8125",
+    "longitude_deg": "-109.9869995",
+    "elevation_ft": "5153",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Whiteriver",
+    "scheduled_service": "no",
+    "gps_code": "E24",
+    "iata_code": "WTR",
+    "local_code": "E24",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Whiteriver_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242552",
+            "airport_ref": "19690",
+            "airport_ident": "KE24",
+            "length_ft": "6288",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "33.805",
+            "le_longitude_deg": "-109.992",
+            "le_elevation_ft": "",
+            "le_heading_degT": "28.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "33.82",
+            "he_longitude_deg": "-109.982",
+            "he_elevation_ft": "",
+            "he_heading_degT": "208.3",
+            "he_displaced_threshold_ft": "250"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64173",
+            "airport_ref": "19690",
+            "airport_ident": "KE24",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

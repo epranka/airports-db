@@ -1,0 +1,80 @@
+{
+    "id": "19516",
+    "ident": "KCLW",
+    "type": "small_airport",
+    "name": "Clearwater Air Park",
+    "latitude_deg": "27.9766998291",
+    "longitude_deg": "-82.7586975098",
+    "elevation_ft": "71",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Clearwater",
+    "scheduled_service": "no",
+    "gps_code": "KCLW",
+    "iata_code": "CLW",
+    "local_code": "CLW",
+    "home_link": "http://www.clearwaterairpark.net/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clearwater_Air_Park",
+    "keywords": "Clearwater Executive",
+    "runways": [
+        {
+            "id": "243990",
+            "airport_ref": "19516",
+            "airport_ident": "KCLW",
+            "length_ft": "3300",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "27.9808",
+            "le_longitude_deg": "-82.7609",
+            "le_elevation_ft": "71",
+            "le_heading_degT": "155",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "34",
+            "he_latitude_deg": "27.9726",
+            "he_longitude_deg": "-82.7565",
+            "he_elevation_ft": "71",
+            "he_heading_degT": "335",
+            "he_displaced_threshold_ft": "650"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67170",
+            "airport_ref": "19516",
+            "airport_ident": "KCLW",
+            "type": "A/D",
+            "description": "TAMPA APP/DEP",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "67171",
+            "airport_ref": "19516",
+            "airport_ident": "KCLW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

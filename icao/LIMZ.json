@@ -1,0 +1,96 @@
+{
+    "id": "4350",
+    "ident": "LIMZ",
+    "type": "medium_airport",
+    "name": "Cuneo International Airport",
+    "latitude_deg": "44.547001",
+    "longitude_deg": "7.62322",
+    "elevation_ft": "1267",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "Cuneo",
+    "scheduled_service": "yes",
+    "gps_code": "LIMZ",
+    "iata_code": "CUF",
+    "local_code": "CN03",
+    "home_link": "http://www.aeroporto.cuneo.it/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cuneo_International_Airport",
+    "keywords": "Cuneo Levaldigi Airport, Turin Cuneo Airport",
+    "runways": [
+        {
+            "id": "236982",
+            "airport_ref": "4350",
+            "airport_ident": "LIMZ",
+            "length_ft": "6903",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "44.5396",
+            "le_longitude_deg": "7.61619",
+            "le_elevation_ft": "1267",
+            "le_heading_degT": "32",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "44.5556",
+            "he_longitude_deg": "7.63045",
+            "he_elevation_ft": "1217",
+            "he_heading_degT": "212",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54159",
+            "airport_ref": "4350",
+            "airport_ident": "LIMZ",
+            "type": "AFIS",
+            "description": "CUNEO INFO",
+            "frequency_mhz": "119.55"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306360",
+        "code": "IT-21",
+        "local_code": "21",
+        "name": "Piedmont",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
+        "keywords": "PM"
+    },
+    "navaids": [
+        {
+            "id": "90285",
+            "filename": "Levaldigi_NDB_IT",
+            "ident": "LEV",
+            "name": "Levaldigi",
+            "type": "NDB",
+            "frequency_khz": "371",
+            "latitude_deg": "44.5442008972168",
+            "longitude_deg": "7.615389823913574",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.42",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LIMZ"
+        }
+    ]
+}

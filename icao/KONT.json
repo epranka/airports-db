@@ -1,0 +1,150 @@
+{
+    "id": "3752",
+    "ident": "KONT",
+    "type": "large_airport",
+    "name": "Ontario International Airport",
+    "latitude_deg": "34.055999755859375",
+    "longitude_deg": "-117.60099792480469",
+    "elevation_ft": "944",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Ontario",
+    "scheduled_service": "yes",
+    "gps_code": "KONT",
+    "iata_code": "ONT",
+    "local_code": "ONT",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/LA/Ontario_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244218",
+            "airport_ref": "3752",
+            "airport_ident": "KONT",
+            "length_ft": "12198",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08L",
+            "le_latitude_deg": "34.0569",
+            "le_longitude_deg": "-117.623",
+            "le_elevation_ft": "943",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "998",
+            "he_ident": "26R",
+            "he_latitude_deg": "34.0569",
+            "he_longitude_deg": "-117.583",
+            "he_elevation_ft": "930",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244217",
+            "airport_ref": "3752",
+            "airport_ident": "KONT",
+            "length_ft": "10200",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08R",
+            "le_latitude_deg": "34.055",
+            "le_longitude_deg": "-117.616",
+            "le_elevation_ft": "935",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26L",
+            "he_latitude_deg": "34.055",
+            "he_longitude_deg": "-117.583",
+            "he_elevation_ft": "924",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67636",
+            "airport_ref": "3752",
+            "airport_ident": "KONT",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "67637",
+            "airport_ref": "3752",
+            "airport_ident": "KONT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.25"
+        },
+        {
+            "id": "67638",
+            "airport_ref": "3752",
+            "airport_ident": "KONT",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "67639",
+            "airport_ref": "3752",
+            "airport_ident": "KONT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "67640",
+            "airport_ref": "3752",
+            "airport_ident": "KONT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.6"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93417",
+            "filename": "Petis_NDB_US",
+            "ident": "SB",
+            "name": "Petis",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "34.05649948120117",
+            "longitude_deg": "-117.36599731445312",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.568",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KONT"
+        }
+    ]
+}

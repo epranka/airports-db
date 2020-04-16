@@ -1,0 +1,72 @@
+{
+    "id": "4816",
+    "ident": "MRSV",
+    "type": "medium_airport",
+    "name": "San Vito De Java Airport",
+    "latitude_deg": "8.826109886169434",
+    "longitude_deg": "-82.95890045166016",
+    "elevation_ft": "3228",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-P",
+    "municipality": "Coto Brus",
+    "scheduled_service": "no",
+    "gps_code": "MRSV",
+    "iata_code": "TOO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235373",
+            "airport_ref": "4816",
+            "airport_ident": "MRSV",
+            "length_ft": "3215",
+            "width_ft": "36",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "8.82545",
+            "le_longitude_deg": "-82.9633",
+            "le_elevation_ft": "",
+            "le_heading_degT": "81.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "8.82677",
+            "he_longitude_deg": "-82.9545",
+            "he_elevation_ft": "",
+            "he_heading_degT": "261.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51585",
+            "airport_ref": "4816",
+            "airport_ident": "MRSV",
+            "type": "RDO",
+            "description": "COCO RDO",
+            "frequency_mhz": "126.8"
+        }
+    ],
+    "country": {
+        "id": "302731",
+        "code": "CR",
+        "name": "Costa Rica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
+        "keywords": "Aeropuertos de Costa Rica"
+    },
+    "region": {
+        "id": "303496",
+        "code": "CR-P",
+        "local_code": "P",
+        "name": "Puntarenas",
+        "continent": "NA",
+        "iso_country": "CR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Puntarenas",
+        "keywords": ""
+    }
+}

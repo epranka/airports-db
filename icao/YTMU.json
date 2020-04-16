@@ -1,0 +1,80 @@
+{
+    "id": "27157",
+    "ident": "YTMU",
+    "type": "medium_airport",
+    "name": "Tumut Airport",
+    "latitude_deg": "-35.26279830932617",
+    "longitude_deg": "148.24099731445312",
+    "elevation_ft": "878",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YTMU",
+    "iata_code": "TUM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233548",
+            "airport_ref": "27157",
+            "airport_ident": "YTMU",
+            "length_ft": "3478",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "-35.2634",
+            "le_longitude_deg": "148.241",
+            "le_elevation_ft": "841",
+            "le_heading_degT": "182",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "-35.273",
+            "he_longitude_deg": "148.24",
+            "he_elevation_ft": "858",
+            "he_heading_degT": "2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49205",
+            "airport_ref": "27157",
+            "airport_ident": "YTMU",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49206",
+            "airport_ref": "27157",
+            "airport_ident": "YTMU",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "119.5"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    }
+}

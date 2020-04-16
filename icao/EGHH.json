@@ -1,0 +1,96 @@
+{
+    "id": "2421",
+    "ident": "EGHH",
+    "type": "large_airport",
+    "name": "Bournemouth Airport",
+    "latitude_deg": "50.779998779296875",
+    "longitude_deg": "-1.8424999713897705",
+    "elevation_ft": "38",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Bournemouth",
+    "scheduled_service": "yes",
+    "gps_code": "EGHH",
+    "iata_code": "BOH",
+    "local_code": "",
+    "home_link": "http://www.bournemouthairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bournemouth_Airport",
+    "keywords": "RAF Hurn",
+    "runways": [
+        {
+            "id": "239451",
+            "airport_ref": "2421",
+            "airport_ident": "EGHH",
+            "length_ft": "7451",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "50.7775",
+            "le_longitude_deg": "-1.85793",
+            "le_elevation_ft": "38",
+            "le_heading_degT": "75.3",
+            "le_displaced_threshold_ft": "1383",
+            "he_ident": "26",
+            "he_latitude_deg": "50.7827",
+            "he_longitude_deg": "-1.82679",
+            "he_elevation_ft": "31",
+            "he_heading_degT": "255.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58220",
+            "airport_ref": "2421",
+            "airport_ident": "EGHH",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.475"
+        },
+        {
+            "id": "58221",
+            "airport_ref": "2421",
+            "airport_ident": "EGHH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "58222",
+            "airport_ref": "2421",
+            "airport_ident": "EGHH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "58223",
+            "airport_ref": "2421",
+            "airport_ident": "EGHH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.6"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

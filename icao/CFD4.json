@@ -1,0 +1,72 @@
+{
+    "id": "936",
+    "ident": "CFD4",
+    "type": "small_airport",
+    "name": "Foremost Airport",
+    "latitude_deg": "49.48310089111328",
+    "longitude_deg": "-111.49400329589844",
+    "elevation_ft": "2909",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Foremost",
+    "scheduled_service": "no",
+    "gps_code": "CFD4",
+    "iata_code": "",
+    "local_code": "CFD4",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Foremost_Airport",
+    "keywords": "FD4",
+    "runways": [
+        {
+            "id": "234927",
+            "airport_ref": "936",
+            "airport_ident": "CFD4",
+            "length_ft": "3000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "49.4814",
+            "le_longitude_deg": "-111.5",
+            "le_elevation_ft": "",
+            "le_heading_degT": "66",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "49.4847",
+            "he_longitude_deg": "-111.489",
+            "he_elevation_ft": "",
+            "he_heading_degT": "246",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50747",
+            "airport_ref": "936",
+            "airport_ident": "CFD4",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    }
+}

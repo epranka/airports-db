@@ -1,0 +1,96 @@
+{
+    "id": "5815",
+    "ident": "SAST",
+    "type": "medium_airport",
+    "name": "General Enrique Mosconi Airport",
+    "latitude_deg": "-22.619600296",
+    "longitude_deg": "-63.7937011719",
+    "elevation_ft": "1472",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-A",
+    "municipality": "Tartagal",
+    "scheduled_service": "yes",
+    "gps_code": "SAST",
+    "iata_code": "TTG",
+    "local_code": "TAR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232978",
+            "airport_ref": "5815",
+            "airport_ident": "SAST",
+            "length_ft": "4921",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "1",
+            "le_latitude_deg": "-22.6264",
+            "le_longitude_deg": "-63.7946",
+            "le_elevation_ft": "1457",
+            "le_heading_degT": "7.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-22.613",
+            "he_longitude_deg": "-63.7927",
+            "he_elevation_ft": "1473",
+            "he_heading_degT": "187.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48405",
+            "airport_ref": "5815",
+            "airport_ident": "SAST",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302932",
+        "code": "AR-A",
+        "local_code": "A",
+        "name": "Salta Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Salta_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94199",
+            "filename": "Tartagal_NDB_AR",
+            "ident": "TAR",
+            "name": "Tartagal",
+            "type": "NDB",
+            "frequency_khz": "210",
+            "latitude_deg": "-22.62779998779297",
+            "longitude_deg": "-63.81919860839844",
+            "elevation_ft": "1476",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.317",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "SAST"
+        }
+    ]
+}

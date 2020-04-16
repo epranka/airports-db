@@ -1,0 +1,80 @@
+{
+    "id": "20249",
+    "ident": "KK38",
+    "type": "small_airport",
+    "name": "Washington County Memorial Airport",
+    "latitude_deg": "39.73350143",
+    "longitude_deg": "-97.04769897",
+    "elevation_ft": "1435",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Washington",
+    "scheduled_service": "no",
+    "gps_code": "KK38",
+    "iata_code": "",
+    "local_code": "K38",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243119",
+            "airport_ref": "20249",
+            "airport_ident": "KK38",
+            "length_ft": "3400",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "39.7382",
+            "le_longitude_deg": "-97.0477",
+            "le_elevation_ft": "",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "220",
+            "he_ident": "35",
+            "he_latitude_deg": "39.7288",
+            "he_longitude_deg": "-97.0477",
+            "he_elevation_ft": "",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65305",
+            "airport_ref": "20249",
+            "airport_ident": "KK38",
+            "type": "A/D",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "127.35"
+        },
+        {
+            "id": "65306",
+            "airport_ref": "20249",
+            "airport_ident": "KK38",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

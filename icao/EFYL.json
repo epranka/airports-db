@@ -1,0 +1,72 @@
+{
+    "id": "2353",
+    "ident": "EFYL",
+    "type": "medium_airport",
+    "name": "Ylivieska Airfield",
+    "latitude_deg": "64.0547222",
+    "longitude_deg": "24.7252778",
+    "elevation_ft": "252",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-OL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EFYL",
+    "iata_code": "YLI",
+    "local_code": "",
+    "home_link": "http://www.ylivieska.fi/alltypes.asp?d_type=5&menu_id=17643&menupath=16922,17643",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ylivieska_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235706",
+            "airport_ref": "2353",
+            "airport_ident": "EFYL",
+            "length_ft": "4921",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "64.0605",
+            "le_longitude_deg": "24.716",
+            "le_elevation_ft": "246",
+            "le_heading_degT": "155.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "64.0483",
+            "he_longitude_deg": "24.7289",
+            "he_elevation_ft": "247",
+            "he_heading_degT": "335.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52049",
+            "airport_ref": "2353",
+            "airport_ident": "EFYL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303804",
+        "code": "FI-OL",
+        "local_code": "OL",
+        "name": "Oulu",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oulu",
+        "keywords": "Oulun lääni, Uleåborgs län"
+    }
+}

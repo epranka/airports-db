@@ -1,0 +1,88 @@
+{
+    "id": "19678",
+    "ident": "KDYB",
+    "type": "small_airport",
+    "name": "Summerville Airport",
+    "latitude_deg": "33.0634",
+    "longitude_deg": "-80.279297",
+    "elevation_ft": "56",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Summerville",
+    "scheduled_service": "no",
+    "gps_code": "KDYB",
+    "iata_code": "",
+    "local_code": "DYB",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Summerville_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242858",
+            "airport_ref": "19678",
+            "airport_ident": "KDYB",
+            "length_ft": "3701",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "33.0601",
+            "le_longitude_deg": "-80.2839",
+            "le_elevation_ft": "45",
+            "le_heading_degT": "49.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "33.0668",
+            "he_longitude_deg": "-80.2748",
+            "he_elevation_ft": "54",
+            "he_heading_degT": "229.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64787",
+            "airport_ref": "19678",
+            "airport_ident": "KDYB",
+            "type": "A/D",
+            "description": "CHARLESTON APP/DEP",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "64788",
+            "airport_ref": "19678",
+            "airport_ident": "KDYB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.575"
+        },
+        {
+            "id": "64789",
+            "airport_ref": "19678",
+            "airport_ident": "KDYB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306116",
+        "code": "US-SC",
+        "local_code": "SC",
+        "name": "South Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
+        "keywords": ""
+    }
+}

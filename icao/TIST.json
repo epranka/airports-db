@@ -1,0 +1,160 @@
+{
+    "id": "6369",
+    "ident": "TIST",
+    "type": "medium_airport",
+    "name": "Cyril E. King Airport",
+    "latitude_deg": "18.337299346923828",
+    "longitude_deg": "-64.97339630126953",
+    "elevation_ft": "23",
+    "continent": "NA",
+    "iso_country": "VI",
+    "iso_region": "VI-U-A",
+    "municipality": "Charlotte Amalie, Harry S. Truman Airport",
+    "scheduled_service": "yes",
+    "gps_code": "TIST",
+    "iata_code": "STT",
+    "local_code": "STT",
+    "home_link": "http://www.viport.com/airports.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cyril_E._King_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246189",
+            "airport_ref": "6369",
+            "airport_ident": "TIST",
+            "length_ft": "7000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "18.3369",
+            "le_longitude_deg": "-64.9834",
+            "le_elevation_ft": "23",
+            "le_heading_degT": "87.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "18.3377",
+            "he_longitude_deg": "-64.9633",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "267.5",
+            "he_displaced_threshold_ft": "2300"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71770",
+            "airport_ref": "6369",
+            "airport_ident": "TIST",
+            "type": "A/D",
+            "description": "SAN JUAN CNTR",
+            "frequency_mhz": "128.65"
+        },
+        {
+            "id": "71771",
+            "airport_ref": "6369",
+            "airport_ident": "TIST",
+            "type": "APP",
+            "description": "ST THOMAS APP",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "71772",
+            "airport_ref": "6369",
+            "airport_ident": "TIST",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "71773",
+            "airport_ref": "6369",
+            "airport_ident": "TIST",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "71774",
+            "airport_ref": "6369",
+            "airport_ident": "TIST",
+            "type": "DEP",
+            "description": "ST THOMAS DEP",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "71775",
+            "airport_ref": "6369",
+            "airport_ident": "TIST",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71776",
+            "airport_ref": "6369",
+            "airport_ident": "TIST",
+            "type": "RDO",
+            "description": "SAN JUAN RDO",
+            "frequency_mhz": "108.6"
+        },
+        {
+            "id": "71777",
+            "airport_ref": "6369",
+            "airport_ident": "TIST",
+            "type": "TWR",
+            "description": "ST THOMAS TWR",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "71778",
+            "airport_ref": "6369",
+            "airport_ident": "TIST",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302758",
+        "code": "VI",
+        "name": "U.S. Virgin Islands",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/U.S._Virgin_Islands",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306192",
+        "code": "VI-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "VI",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94013",
+            "filename": "St_Thomas_VOR-DME_VI",
+            "ident": "STT",
+            "name": "St Thomas",
+            "type": "VOR-DME",
+            "frequency_khz": "108600",
+            "latitude_deg": "18.35580062866211",
+            "longitude_deg": "-65.02459716796875",
+            "elevation_ft": "679",
+            "iso_country": "VI",
+            "dme_frequency_khz": "108600",
+            "dme_channel": "023X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.001",
+            "magnetic_variation_deg": "-13.057",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "TIST"
+        }
+    ]
+}

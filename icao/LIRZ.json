@@ -1,0 +1,104 @@
+{
+    "id": "4384",
+    "ident": "LIRZ",
+    "type": "medium_airport",
+    "name": "Perugia San Francesco d'Assisi – Umbria International Airport",
+    "latitude_deg": "43.095901",
+    "longitude_deg": "12.5132",
+    "elevation_ft": "697",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-55",
+    "municipality": "Perugia",
+    "scheduled_service": "yes",
+    "gps_code": "LIRZ",
+    "iata_code": "PEG",
+    "local_code": "PG10",
+    "home_link": "http://www.airport.umbria.it/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/San_Egidio_Airport",
+    "keywords": "Perugia San Francesco d'Assisi, Perugia Sant'Egidio Airport, Umbria International Airport",
+    "runways": [
+        {
+            "id": "237022",
+            "airport_ref": "4384",
+            "airport_ident": "LIRZ",
+            "length_ft": "5564",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "43.0885",
+            "le_longitude_deg": "12.5106",
+            "le_elevation_ft": "667",
+            "le_heading_degT": "14",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "43.1033",
+            "he_longitude_deg": "12.5158",
+            "he_elevation_ft": "693",
+            "he_heading_degT": "194",
+            "he_displaced_threshold_ft": "85"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54255",
+            "airport_ref": "4384",
+            "airport_ident": "LIRZ",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "54256",
+            "airport_ref": "4384",
+            "airport_ident": "LIRZ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306356",
+        "code": "IT-55",
+        "local_code": "55",
+        "name": "Umbria",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Umbria",
+        "keywords": "UM"
+    },
+    "navaids": [
+        {
+            "id": "92702",
+            "filename": "Perugia_VOR-DME_IT",
+            "ident": "PRU",
+            "name": "Perugia",
+            "type": "VOR-DME",
+            "frequency_khz": "109400",
+            "latitude_deg": "43.10169982910156",
+            "longitude_deg": "12.511899948120117",
+            "elevation_ft": "721",
+            "iso_country": "IT",
+            "dme_frequency_khz": "109400",
+            "dme_channel": "031X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.48",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "LIRZ"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "id": "19302",
+    "ident": "KARB",
+    "type": "small_airport",
+    "name": "Ann Arbor Municipal Airport",
+    "latitude_deg": "42.2229995728",
+    "longitude_deg": "-83.74559783939999",
+    "elevation_ft": "839",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Ann Arbor",
+    "scheduled_service": "no",
+    "gps_code": "KARB",
+    "iata_code": "ARB",
+    "local_code": "ARB",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ann_Arbor_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241497",
+            "airport_ref": "19302",
+            "airport_ident": "KARB",
+            "length_ft": "3505",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "42.2202",
+            "le_longitude_deg": "-83.7501",
+            "le_elevation_ft": "831",
+            "le_heading_degT": "55",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "42.2258",
+            "he_longitude_deg": "-83.7396",
+            "he_elevation_ft": "826",
+            "he_heading_degT": "235",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241498",
+            "airport_ref": "19302",
+            "airport_ident": "KARB",
+            "length_ft": "2750",
+            "width_ft": "110",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "12",
+            "le_latitude_deg": "42.225",
+            "le_longitude_deg": "-83.7509",
+            "le_elevation_ft": "839",
+            "le_heading_degT": "122.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "42.2209",
+            "he_longitude_deg": "-83.7422",
+            "he_elevation_ft": "839",
+            "he_heading_degT": "302.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61994",
+            "airport_ref": "19302",
+            "airport_ident": "KARB",
+            "type": "A/D",
+            "description": "DETROIT APP/DEP",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "61995",
+            "airport_ref": "19302",
+            "airport_ident": "KARB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "134.55"
+        },
+        {
+            "id": "61996",
+            "airport_ref": "19302",
+            "airport_ident": "KARB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.55"
+        },
+        {
+            "id": "61997",
+            "airport_ref": "19302",
+            "airport_ident": "KARB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "61998",
+            "airport_ref": "19302",
+            "airport_ident": "KARB",
+            "type": "GCCD",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "61999",
+            "airport_ref": "19302",
+            "airport_ident": "KARB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "62000",
+            "airport_ref": "19302",
+            "airport_ident": "KARB",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

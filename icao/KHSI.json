@@ -1,0 +1,118 @@
+{
+    "id": "20088",
+    "ident": "KHSI",
+    "type": "small_airport",
+    "name": "Hastings Municipal Airport",
+    "latitude_deg": "40.6053009033",
+    "longitude_deg": "-98.42790222170001",
+    "elevation_ft": "1961",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Hastings",
+    "scheduled_service": "no",
+    "gps_code": "KHSI",
+    "iata_code": "HSI",
+    "local_code": "HSI",
+    "home_link": "http://www.cityofhastings.org/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hastings_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239684",
+            "airport_ref": "20088",
+            "airport_ident": "KHSI",
+            "length_ft": "4501",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "40.5989",
+            "le_longitude_deg": "-98.4338",
+            "le_elevation_ft": "1939",
+            "le_heading_degT": "46.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "40.6074",
+            "he_longitude_deg": "-98.422",
+            "he_elevation_ft": "1948",
+            "he_heading_degT": "226.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239685",
+            "airport_ref": "20088",
+            "airport_ident": "KHSI",
+            "length_ft": "6451",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "40.6144",
+            "le_longitude_deg": "-98.4337",
+            "le_elevation_ft": "1961",
+            "le_heading_degT": "150.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "40.599",
+            "he_longitude_deg": "-98.4221",
+            "he_elevation_ft": "1940",
+            "he_heading_degT": "330.4",
+            "he_displaced_threshold_ft": "950"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58736",
+            "airport_ref": "20088",
+            "airport_ident": "KHSI",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.525"
+        },
+        {
+            "id": "58737",
+            "airport_ref": "20088",
+            "airport_ident": "KHSI",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "58738",
+            "airport_ref": "20088",
+            "airport_ident": "KHSI",
+            "type": "RDO",
+            "description": "COLUMBUS RDO",
+            "frequency_mhz": "108.8"
+        },
+        {
+            "id": "58739",
+            "airport_ref": "20088",
+            "airport_ident": "KHSI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

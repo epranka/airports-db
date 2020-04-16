@@ -1,0 +1,102 @@
+{
+    "id": "18400",
+    "ident": "K10C",
+    "type": "small_airport",
+    "name": "Galt Field",
+    "latitude_deg": "42.40290069580078",
+    "longitude_deg": "-88.3750991821289",
+    "elevation_ft": "875",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Greenwood/Wonder Lake",
+    "scheduled_service": "no",
+    "gps_code": "K10C",
+    "iata_code": "",
+    "local_code": "10C",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241286",
+            "airport_ref": "18400",
+            "airport_ident": "K10C",
+            "length_ft": "2802",
+            "width_ft": "36",
+            "surface": "ASPH-F",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "42.4017",
+            "le_longitude_deg": "-88.3814",
+            "le_elevation_ft": "874",
+            "le_heading_degT": "88",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "42.402",
+            "he_longitude_deg": "-88.371",
+            "he_elevation_ft": "848",
+            "he_heading_degT": "268",
+            "he_displaced_threshold_ft": "389"
+        },
+        {
+            "id": "241287",
+            "airport_ref": "18400",
+            "airport_ident": "K10C",
+            "length_ft": "2141",
+            "width_ft": "125",
+            "surface": "TURF-F",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "42.4071",
+            "le_longitude_deg": "-88.3739",
+            "le_elevation_ft": "867",
+            "le_heading_degT": "178",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "36",
+            "he_latitude_deg": "42.4013",
+            "he_longitude_deg": "-88.3736",
+            "he_elevation_ft": "855",
+            "he_heading_degT": "358",
+            "he_displaced_threshold_ft": "270"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61550",
+            "airport_ref": "18400",
+            "airport_ident": "K10C",
+            "type": "A/D",
+            "description": "CHICAGO APP/DEP",
+            "frequency_mhz": "120.55"
+        },
+        {
+            "id": "61551",
+            "airport_ref": "18400",
+            "airport_ident": "K10C",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

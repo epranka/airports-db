@@ -1,0 +1,158 @@
+{
+    "id": "1682",
+    "ident": "CYBW",
+    "type": "medium_airport",
+    "name": "Calgary / Springbank Airport",
+    "latitude_deg": "51.1031",
+    "longitude_deg": "-114.374001",
+    "elevation_ft": "3940",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Calgary",
+    "scheduled_service": "no",
+    "gps_code": "CYBW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.ybw.ca/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Calgary/Springbank_Airport",
+    "keywords": "YBW",
+    "runways": [
+        {
+            "id": "234751",
+            "airport_ref": "1682",
+            "airport_ident": "CYBW",
+            "length_ft": "3423",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "51.1048",
+            "le_longitude_deg": "-114.379",
+            "le_elevation_ft": "3935",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "51.1048",
+            "he_longitude_deg": "-114.364",
+            "he_elevation_ft": "3934",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "234752",
+            "airport_ref": "1682",
+            "airport_ident": "CYBW",
+            "length_ft": "5000",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "51.1122",
+            "le_longitude_deg": "-114.379",
+            "le_elevation_ft": "3930",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "51.0985",
+            "he_longitude_deg": "-114.379",
+            "he_elevation_ft": "3940",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50412",
+            "airport_ref": "1682",
+            "airport_ident": "CYBW",
+            "type": "A/G",
+            "description": "MF CALGARY  RDO",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "50413",
+            "airport_ref": "1682",
+            "airport_ident": "CYBW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "50414",
+            "airport_ref": "1682",
+            "airport_ident": "CYBW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "50415",
+            "airport_ref": "1682",
+            "airport_ident": "CYBW",
+            "type": "RCO",
+            "description": "EDMONTON RDO",
+            "frequency_mhz": "123.375"
+        },
+        {
+            "id": "50416",
+            "airport_ref": "1682",
+            "airport_ident": "CYBW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "75166",
+            "airport_ref": "1682",
+            "airport_ident": "CYBW",
+            "type": "TWR",
+            "description": "Tower Inner",
+            "frequency_mhz": "120.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95634",
+            "filename": "Calgary_Springbank_VOR-DME_CA",
+            "ident": "YBW",
+            "name": "Calgary Springbank",
+            "type": "VOR-DME",
+            "frequency_khz": "108600",
+            "latitude_deg": "51.1067008972168",
+            "longitude_deg": "-114.37300109863281",
+            "elevation_ft": "3971",
+            "iso_country": "CA",
+            "dme_frequency_khz": "108600",
+            "dme_channel": "023X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "20.001",
+            "magnetic_variation_deg": "16.239",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYBW"
+        }
+    ]
+}

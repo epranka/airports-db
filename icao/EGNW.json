@@ -1,0 +1,102 @@
+{
+    "id": "29167",
+    "ident": "EGNW",
+    "type": "small_airport",
+    "name": "Wickenby Aerodrome",
+    "latitude_deg": "53.3166999817",
+    "longitude_deg": "-0.349721997976",
+    "elevation_ft": "63",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Lincoln",
+    "scheduled_service": "no",
+    "gps_code": "EGNW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wickenby_Aerodrome",
+    "keywords": "RAF Wickenby",
+    "runways": [
+        {
+            "id": "249231",
+            "airport_ref": "29167",
+            "airport_ident": "EGNW",
+            "length_ft": "1738",
+            "width_ft": "59",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "83",
+            "le_heading_degT": "27",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "75",
+            "he_heading_degT": "207",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "249232",
+            "airport_ref": "29167",
+            "airport_ident": "EGNW",
+            "length_ft": "1630",
+            "width_ft": "59",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "71",
+            "le_heading_degT": "152",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "79",
+            "he_heading_degT": "332",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72001",
+            "airport_ref": "29167",
+            "airport_ident": "EGNW",
+            "type": "A/G",
+            "description": "Wickenby A/G",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "72002",
+            "airport_ref": "29167",
+            "airport_ident": "EGNW",
+            "type": "A/G",
+            "description": "Wickenby A/G",
+            "frequency_mhz": "122.45"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

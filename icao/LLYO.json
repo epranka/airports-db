@@ -1,0 +1,72 @@
+{
+    "id": "316586",
+    "ident": "LLYO",
+    "type": "small_airport",
+    "name": "Yotvata Airfield",
+    "latitude_deg": "29.901111",
+    "longitude_deg": "35.0675",
+    "elevation_ft": "249",
+    "continent": "AS",
+    "iso_country": "IL",
+    "iso_region": "IL-D",
+    "municipality": "Yotvata",
+    "scheduled_service": "no",
+    "gps_code": "LLYT",
+    "iata_code": "YOT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yotvata_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "316588",
+            "airport_ref": "316586",
+            "airport_ident": "LLYO",
+            "length_ft": "3346",
+            "width_ft": "52",
+            "surface": "ASPHALT",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "29.8979",
+            "le_longitude_deg": "35.0656",
+            "le_elevation_ft": "249",
+            "le_heading_degT": "27",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "29.9063",
+            "he_longitude_deg": "35.0699",
+            "he_elevation_ft": "244",
+            "he_heading_degT": "207",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "316587",
+            "airport_ref": "316586",
+            "airport_ident": "LLYO",
+            "type": "CTAF",
+            "description": "Yotvata Traffic",
+            "frequency_mhz": "126.9"
+        }
+    ],
+    "country": {
+        "id": "302633",
+        "code": "IL",
+        "name": "Israel",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Israel",
+        "keywords": "שדות התעופה של ישראל"
+    },
+    "region": {
+        "id": "304156",
+        "code": "IL-D",
+        "local_code": "D",
+        "name": "Southern District",
+        "continent": "AS",
+        "iso_country": "IL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_District_(Israel)",
+        "keywords": "Mehoz HaDarom"
+    }
+}

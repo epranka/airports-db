@@ -1,0 +1,102 @@
+{
+    "id": "27181",
+    "ident": "YWUD",
+    "type": "small_airport",
+    "name": "Wudinna Airport",
+    "latitude_deg": "-33.04330062866211",
+    "longitude_deg": "135.44700622558594",
+    "elevation_ft": "310",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YWUD",
+    "iata_code": "WUD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233399",
+            "airport_ref": "27181",
+            "airport_ident": "YWUD",
+            "length_ft": "3081",
+            "width_ft": "59",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "-33.0444",
+            "le_longitude_deg": "135.44",
+            "le_elevation_ft": "310",
+            "le_heading_degT": "75",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "-33.0421",
+            "he_longitude_deg": "135.449",
+            "he_elevation_ft": "283",
+            "he_heading_degT": "255",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "233400",
+            "airport_ref": "27181",
+            "airport_ident": "YWUD",
+            "length_ft": "4954",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-33.0344",
+            "le_longitude_deg": "135.441",
+            "le_elevation_ft": "306",
+            "le_heading_degT": "144",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-33.0455",
+            "he_longitude_deg": "135.45",
+            "he_elevation_ft": "277",
+            "he_heading_degT": "324",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48990",
+            "airport_ref": "27181",
+            "airport_ident": "YWUD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48991",
+            "airport_ref": "27181",
+            "airport_ident": "YWUD",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "125.9"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": ""
+    }
+}

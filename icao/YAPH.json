@@ -1,0 +1,80 @@
+{
+    "id": "26890",
+    "ident": "YAPH",
+    "type": "medium_airport",
+    "name": "Alpha Airport",
+    "latitude_deg": "-23.646099",
+    "longitude_deg": "146.584",
+    "elevation_ft": "1255",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Alpha",
+    "scheduled_service": "no",
+    "gps_code": "YAPH",
+    "iata_code": "ABH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Alpha_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233243",
+            "airport_ref": "26890",
+            "airport_ident": "YAPH",
+            "length_ft": "4777",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-23.6465",
+            "le_longitude_deg": "146.584",
+            "le_elevation_ft": "1255",
+            "le_heading_degT": "188",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-23.6596",
+            "he_longitude_deg": "146.582",
+            "he_elevation_ft": "1255",
+            "he_heading_degT": "8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48735",
+            "airport_ref": "26890",
+            "airport_ident": "YAPH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48736",
+            "airport_ref": "26890",
+            "airport_ident": "YAPH",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

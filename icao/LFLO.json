@@ -1,0 +1,112 @@
+{
+    "id": "4140",
+    "ident": "LFLO",
+    "type": "medium_airport",
+    "name": "Roanne-Renaison Airport",
+    "latitude_deg": "46.05830001831055",
+    "longitude_deg": "4.001389980316162",
+    "elevation_ft": "1106",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Roanne/Renaison",
+    "scheduled_service": "no",
+    "gps_code": "LFLO",
+    "iata_code": "RNE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236061",
+            "airport_ref": "4140",
+            "airport_ident": "LFLO",
+            "length_ft": "4790",
+            "width_ft": "98",
+            "surface": "Paved",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "46.0494",
+            "le_longitude_deg": "3.99823",
+            "le_elevation_ft": "1093",
+            "le_heading_degT": "15",
+            "le_displaced_threshold_ft": "985",
+            "he_ident": "20",
+            "he_latitude_deg": "46.0621",
+            "he_longitude_deg": "4.00356",
+            "he_elevation_ft": "1068",
+            "he_heading_degT": "195",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "314549",
+            "airport_ref": "4140",
+            "airport_ident": "LFLO",
+            "type": "AFIS",
+            "description": "ROANNE",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "52644",
+            "airport_ref": "4140",
+            "airport_ident": "LFLO",
+            "type": "APP",
+            "description": "SAINT YAN Approche - (s) - au dessus de 2000 ASFC",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "314548",
+            "airport_ref": "4140",
+            "airport_ident": "LFLO",
+            "type": "APP",
+            "description": "SAINT YAN Approche",
+            "frequency_mhz": "123.4"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306351",
+        "code": "FR-ARA",
+        "local_code": "ARA",
+        "name": "Auvergne-Rhône-Alpes",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93180",
+            "filename": "Roanne_VOR_FR",
+            "ident": "ROA",
+            "name": "Roanne",
+            "type": "VOR",
+            "frequency_khz": "109200",
+            "latitude_deg": "46.059200286865234",
+            "longitude_deg": "3.9992799758911133",
+            "elevation_ft": "1106",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.203",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LFLO"
+        }
+    ]
+}

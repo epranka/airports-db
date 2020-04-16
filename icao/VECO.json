@@ -1,0 +1,96 @@
+{
+    "id": "26497",
+    "ident": "VECO",
+    "type": "small_airport",
+    "name": "Cooch Behar Airport",
+    "latitude_deg": "26.330499649",
+    "longitude_deg": "89.4672012329",
+    "elevation_ft": "138",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-WB",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "VECO",
+    "iata_code": "COH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236608",
+            "airport_ref": "26497",
+            "airport_ident": "VECO",
+            "length_ft": "3500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "26.3271",
+            "le_longitude_deg": "89.4635",
+            "le_elevation_ft": "138",
+            "le_heading_degT": "44.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "26.3339",
+            "he_longitude_deg": "89.4709",
+            "he_elevation_ft": "138",
+            "he_heading_degT": "224.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53800",
+            "airport_ref": "26497",
+            "airport_ident": "VECO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304198",
+        "code": "IN-WB",
+        "local_code": "WB",
+        "name": "West Bengal",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Bengal",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86931",
+            "filename": "Cooch_Behar_NDB_IN",
+            "ident": "CO",
+            "name": "Cooch Behar",
+            "type": "NDB",
+            "frequency_khz": "337",
+            "latitude_deg": "26.330400466918945",
+            "longitude_deg": "89.4823989868164",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.144",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VECO"
+        }
+    ]
+}

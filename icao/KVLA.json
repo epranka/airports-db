@@ -1,0 +1,110 @@
+{
+    "id": "21328",
+    "ident": "KVLA",
+    "type": "small_airport",
+    "name": "Vandalia Municipal Airport",
+    "latitude_deg": "38.991500854492",
+    "longitude_deg": "-89.166198730469",
+    "elevation_ft": "537",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Vandalia",
+    "scheduled_service": "no",
+    "gps_code": "KVLA",
+    "iata_code": "VLA",
+    "local_code": "VLA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241818",
+            "airport_ref": "21328",
+            "airport_ident": "KVLA",
+            "length_ft": "3001",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "38.9902",
+            "le_longitude_deg": "-89.1701",
+            "le_elevation_ft": "532",
+            "le_heading_degT": "89.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "38.9903",
+            "he_longitude_deg": "-89.1596",
+            "he_elevation_ft": "537",
+            "he_heading_degT": "269.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241819",
+            "airport_ref": "21328",
+            "airport_ident": "KVLA",
+            "length_ft": "3752",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.9976",
+            "le_longitude_deg": "-89.1673",
+            "le_elevation_ft": "530",
+            "le_heading_degT": "179.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.9873",
+            "he_longitude_deg": "-89.1672",
+            "he_elevation_ft": "528",
+            "he_heading_degT": "359.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62628",
+            "airport_ref": "21328",
+            "airport_ident": "KVLA",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "62629",
+            "airport_ref": "21328",
+            "airport_ident": "KVLA",
+            "type": "RDO",
+            "description": "ST LOUIS RDO",
+            "frequency_mhz": "114.3"
+        },
+        {
+            "id": "62630",
+            "airport_ref": "21328",
+            "airport_ident": "KVLA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

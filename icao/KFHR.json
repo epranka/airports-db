@@ -1,0 +1,88 @@
+{
+    "id": "19868",
+    "ident": "KFHR",
+    "type": "small_airport",
+    "name": "Friday Harbor Airport",
+    "latitude_deg": "48.5219993591",
+    "longitude_deg": "-123.024002075",
+    "elevation_ft": "113",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Friday Harbor",
+    "scheduled_service": "yes",
+    "gps_code": "KFHR",
+    "iata_code": "FRD",
+    "local_code": "FHR",
+    "home_link": "http://www.portfridayharbor.org/?page_id=49",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Friday_Harbor_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243606",
+            "airport_ref": "19868",
+            "airport_ident": "KFHR",
+            "length_ft": "3402",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "48.5266",
+            "le_longitude_deg": "-123.025",
+            "le_elevation_ft": "113",
+            "le_heading_degT": "177",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "48.5173",
+            "he_longitude_deg": "-123.024",
+            "he_elevation_ft": "84",
+            "he_heading_degT": "357",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66373",
+            "airport_ref": "19868",
+            "airport_ident": "KFHR",
+            "type": "A/D",
+            "description": "WHIDBEY APP/DEP",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "66374",
+            "airport_ref": "19868",
+            "airport_ident": "KFHR",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.675"
+        },
+        {
+            "id": "66375",
+            "airport_ref": "19868",
+            "airport_ident": "KFHR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "128.25"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    }
+}

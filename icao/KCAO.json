@@ -1,0 +1,110 @@
+{
+    "id": "19460",
+    "ident": "KCAO",
+    "type": "small_airport",
+    "name": "Clayton Municipal Airpark",
+    "latitude_deg": "36.4462013245",
+    "longitude_deg": "-103.166999817",
+    "elevation_ft": "4965",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Clayton",
+    "scheduled_service": "no",
+    "gps_code": "KCAO",
+    "iata_code": "CAO",
+    "local_code": "CAO",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clayton_Municipal_Airpark",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244212",
+            "airport_ref": "19460",
+            "airport_ident": "KCAO",
+            "length_ft": "6300",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "36.4388",
+            "le_longitude_deg": "-103.158",
+            "le_elevation_ft": "4963",
+            "le_heading_degT": "30.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "36.4537",
+            "he_longitude_deg": "-103.147",
+            "he_elevation_ft": "4965",
+            "he_heading_degT": "210.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244213",
+            "airport_ref": "19460",
+            "airport_ident": "KCAO",
+            "length_ft": "4100",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "36.4496",
+            "le_longitude_deg": "-103.151",
+            "le_elevation_ft": "4964",
+            "le_heading_degT": "130.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "36.4424",
+            "he_longitude_deg": "-103.141",
+            "he_elevation_ft": "4945",
+            "he_heading_degT": "310.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67626",
+            "airport_ref": "19460",
+            "airport_ident": "KCAO",
+            "type": "ARTC",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "127.85"
+        },
+        {
+            "id": "67627",
+            "airport_ref": "19460",
+            "airport_ident": "KCAO",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.625"
+        },
+        {
+            "id": "67628",
+            "airport_ref": "19460",
+            "airport_ident": "KCAO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    }
+}

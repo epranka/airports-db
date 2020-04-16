@@ -1,0 +1,118 @@
+{
+    "id": "21092",
+    "ident": "KSNK",
+    "type": "small_airport",
+    "name": "Winston Field",
+    "latitude_deg": "32.69340133667",
+    "longitude_deg": "-100.94999694824",
+    "elevation_ft": "2430",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Snyder",
+    "scheduled_service": "no",
+    "gps_code": "KSNK",
+    "iata_code": "SNK",
+    "local_code": "SNK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244923",
+            "airport_ref": "21092",
+            "airport_ident": "KSNK",
+            "length_ft": "4200",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "32.6903",
+            "le_longitude_deg": "-100.959",
+            "le_elevation_ft": "2376",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "32.6903",
+            "he_longitude_deg": "-100.946",
+            "he_elevation_ft": "2430",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244924",
+            "airport_ref": "21092",
+            "airport_ident": "KSNK",
+            "length_ft": "5600",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "32.7034",
+            "le_longitude_deg": "-100.949",
+            "le_elevation_ft": "2418",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "32.688",
+            "he_longitude_deg": "-100.949",
+            "he_elevation_ft": "2426",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69185",
+            "airport_ref": "21092",
+            "airport_ident": "KSNK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "69186",
+            "airport_ref": "21092",
+            "airport_ident": "KSNK",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "127.45"
+        },
+        {
+            "id": "69187",
+            "airport_ref": "21092",
+            "airport_ident": "KSNK",
+            "type": "FSS",
+            "description": "FORT WORTH RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "69188",
+            "airport_ref": "21092",
+            "airport_ident": "KSNK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

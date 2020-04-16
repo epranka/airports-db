@@ -1,0 +1,72 @@
+{
+    "id": "6096",
+    "ident": "SGST",
+    "type": "small_airport",
+    "name": "Santa Teresa Airport",
+    "latitude_deg": "-22.622754",
+    "longitude_deg": "-56.634507",
+    "elevation_ft": "582",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-13",
+    "municipality": "Santa Teresa",
+    "scheduled_service": "no",
+    "gps_code": "SGST",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Teresa_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238119",
+            "airport_ref": "6096",
+            "airport_ident": "SGST",
+            "length_ft": "5895",
+            "width_ft": "65",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-22.6319",
+            "le_longitude_deg": "-56.6356",
+            "le_elevation_ft": "",
+            "le_heading_degT": "7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "-22.6158",
+            "he_longitude_deg": "-56.6335",
+            "he_elevation_ft": "",
+            "he_heading_degT": "187",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56051",
+            "airport_ref": "6096",
+            "airport_ident": "SGST",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "130.4"
+        }
+    ],
+    "country": {
+        "id": "302799",
+        "code": "PY",
+        "name": "Paraguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
+        "keywords": "Aeropuertos de Paraguay"
+    },
+    "region": {
+        "id": "305193",
+        "code": "PY-13",
+        "local_code": "13",
+        "name": "Amambay Department",
+        "continent": "SA",
+        "iso_country": "PY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amambay_Department",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "20387",
+    "ident": "KLVN",
+    "type": "small_airport",
+    "name": "Airlake Airport",
+    "latitude_deg": "44.627899169921875",
+    "longitude_deg": "-93.22810363769531",
+    "elevation_ft": "960",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Minneapolis",
+    "scheduled_service": "no",
+    "gps_code": "KLVN",
+    "iata_code": "",
+    "local_code": "LVN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245924",
+            "airport_ref": "20387",
+            "airport_ident": "KLVN",
+            "length_ft": "4098",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "44.6304",
+            "le_longitude_deg": "-93.2351",
+            "le_elevation_ft": "960",
+            "le_heading_degT": "118",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "44.6253",
+            "he_longitude_deg": "-93.2211",
+            "he_elevation_ft": "952",
+            "he_heading_degT": "298",
+            "he_displaced_threshold_ft": "391"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71364",
+            "airport_ref": "20387",
+            "airport_ident": "KLVN",
+            "type": "A/D",
+            "description": "MINNEAPOLIS APP/DEP",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "71365",
+            "airport_ref": "20387",
+            "airport_ident": "KLVN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "115.7"
+        },
+        {
+            "id": "71366",
+            "airport_ref": "20387",
+            "airport_ident": "KLVN",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "71367",
+            "airport_ref": "20387",
+            "airport_ident": "KLVN",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "115.7"
+        },
+        {
+            "id": "71368",
+            "airport_ref": "20387",
+            "airport_ident": "KLVN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

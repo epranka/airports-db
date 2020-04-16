@@ -1,0 +1,110 @@
+{
+    "id": "1965",
+    "ident": "CYXR",
+    "type": "medium_airport",
+    "name": "Earlton (Timiskaming Regional) Airport",
+    "latitude_deg": "47.697400654599996",
+    "longitude_deg": "-79.8473453522",
+    "elevation_ft": "800",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Earlton",
+    "scheduled_service": "no",
+    "gps_code": "CYXR",
+    "iata_code": "YXR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Earlton_(Timiskaming_Regional)_Airport",
+    "keywords": "yxr",
+    "runways": [
+        {
+            "id": "234679",
+            "airport_ref": "1965",
+            "airport_ident": "CYXR",
+            "length_ft": "5998",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "47.6939",
+            "le_longitude_deg": "-79.858",
+            "le_elevation_ft": "793",
+            "le_heading_degT": "63.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "47.7013",
+            "he_longitude_deg": "-79.8362",
+            "he_elevation_ft": "796",
+            "he_heading_degT": "243.3",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "234680",
+            "airport_ref": "1965",
+            "airport_ident": "CYXR",
+            "length_ft": "3019",
+            "width_ft": "150",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "47.6958",
+            "le_longitude_deg": "-79.8611",
+            "le_elevation_ft": "797",
+            "le_heading_degT": "149.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "47.6889",
+            "he_longitude_deg": "-79.855",
+            "he_elevation_ft": "772",
+            "he_heading_degT": "329.3",
+            "he_displaced_threshold_ft": "300"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75540",
+            "airport_ref": "1965",
+            "airport_ident": "CYXR",
+            "type": "AWOS",
+            "description": "",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "50279",
+            "airport_ref": "1965",
+            "airport_ident": "CYXR",
+            "type": "MF",
+            "description": "Earlton Traffic",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "50280",
+            "airport_ref": "1965",
+            "airport_ident": "CYXR",
+            "type": "RDO",
+            "description": "LONDON RDO",
+            "frequency_mhz": "123.375"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": ""
+    }
+}

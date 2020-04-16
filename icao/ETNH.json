@@ -1,0 +1,142 @@
+{
+    "id": "2737",
+    "ident": "ETNH",
+    "type": "medium_airport",
+    "name": "Hohn Air Base",
+    "latitude_deg": "54.312199",
+    "longitude_deg": "9.53817",
+    "elevation_ft": "39",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-SH",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ETNH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Fliegerhorst_Hohn",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236270",
+            "airport_ref": "2737",
+            "airport_ident": "ETNH",
+            "length_ft": "8005",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "54.3102",
+            "le_longitude_deg": "9.51974",
+            "le_elevation_ft": "26",
+            "le_heading_degT": "79.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "54.3142",
+            "he_longitude_deg": "9.55659",
+            "he_elevation_ft": "38",
+            "he_heading_degT": "259.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53152",
+            "airport_ref": "2737",
+            "airport_ident": "ETNH",
+            "type": "ACC",
+            "description": "BREMEN CON",
+            "frequency_mhz": "136.225"
+        },
+        {
+            "id": "53154",
+            "airport_ref": "2737",
+            "airport_ident": "ETNH",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "38.54"
+        },
+        {
+            "id": "53153",
+            "airport_ref": "2737",
+            "airport_ident": "ETNH",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "53155",
+            "airport_ref": "2737",
+            "airport_ident": "ETNH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303558",
+        "code": "DE-SH",
+        "local_code": "SH",
+        "name": "Schleswig-Holstein",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Schleswig-Holstein",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88924",
+            "filename": "Hohn_NDB_DE",
+            "ident": "HN",
+            "name": "Hohn",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "54.32630157470703",
+            "longitude_deg": "9.670330047607422",
+            "elevation_ft": "105",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.574",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "ETNH"
+        },
+        {
+            "id": "88941",
+            "filename": "Hohn_TACAN_DE",
+            "ident": "HNT",
+            "name": "Hohn",
+            "type": "TACAN",
+            "frequency_khz": "115300",
+            "latitude_deg": "54.31079864501953",
+            "longitude_deg": "9.53866958618164",
+            "elevation_ft": "78",
+            "iso_country": "DE",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.547",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETNH"
+        }
+    ]
+}

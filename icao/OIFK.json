@@ -1,0 +1,72 @@
+{
+    "id": "5155",
+    "ident": "OIFK",
+    "type": "medium_airport",
+    "name": "Kashan Airport",
+    "latitude_deg": "33.895302",
+    "longitude_deg": "51.577",
+    "elevation_ft": "3465",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-04",
+    "municipality": "Kashan",
+    "scheduled_service": "yes",
+    "gps_code": "OIFK",
+    "iata_code": "KKS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kashan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236827",
+            "airport_ref": "5155",
+            "airport_ident": "OIFK",
+            "length_ft": "8845",
+            "width_ft": "145",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "33.8996",
+            "le_longitude_deg": "51.5634",
+            "le_elevation_ft": "3464",
+            "le_heading_degT": "110.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "33.891",
+            "he_longitude_deg": "51.5907",
+            "he_elevation_ft": "3465",
+            "he_heading_degT": "290.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53991",
+            "airport_ref": "5155",
+            "airport_ident": "OIFK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.175"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304222",
+        "code": "IR-04",
+        "local_code": "04",
+        "name": "Esfahan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Esfahan_Province",
+        "keywords": ""
+    }
+}

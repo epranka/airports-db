@@ -1,0 +1,80 @@
+{
+    "id": "19331",
+    "ident": "KAVX",
+    "type": "small_airport",
+    "name": "Catalina Airport",
+    "latitude_deg": "33.4049",
+    "longitude_deg": "-118.416",
+    "elevation_ft": "1602",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Avalon",
+    "scheduled_service": "no",
+    "gps_code": "KAVX",
+    "iata_code": "AVX",
+    "local_code": "AVX",
+    "home_link": "http://www.catalinaconservancy.org/index.php?s=visit&p=pilot_information",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Catalina_Airport",
+    "keywords": "CIB, Airport in the Sky",
+    "runways": [
+        {
+            "id": "241625",
+            "airport_ref": "19331",
+            "airport_ident": "KAVX",
+            "length_ft": "3000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "33.4024",
+            "le_longitude_deg": "-118.42",
+            "le_elevation_ft": "1602",
+            "le_heading_degT": "54",
+            "le_displaced_threshold_ft": "120",
+            "he_ident": "22",
+            "he_latitude_deg": "33.4073",
+            "he_longitude_deg": "-118.412",
+            "he_elevation_ft": "1602",
+            "he_heading_degT": "234",
+            "he_displaced_threshold_ft": "149"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62254",
+            "airport_ref": "19331",
+            "airport_ident": "KAVX",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "62255",
+            "airport_ref": "19331",
+            "airport_ident": "KAVX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "20487",
+    "ident": "KMDF",
+    "type": "small_airport",
+    "name": "Mooreland Municipal Airport",
+    "latitude_deg": "36.484798431396484",
+    "longitude_deg": "-99.19419860839844",
+    "elevation_ft": "1970",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Mooreland",
+    "scheduled_service": "no",
+    "gps_code": "KMDF",
+    "iata_code": "",
+    "local_code": "MDF",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241869",
+            "airport_ref": "20487",
+            "airport_ident": "KMDF",
+            "length_ft": "3500",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "36.4896",
+            "le_longitude_deg": "-99.1942",
+            "le_elevation_ft": "1970",
+            "le_heading_degT": "180.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "36.48",
+            "he_longitude_deg": "-99.1942",
+            "he_elevation_ft": "1966",
+            "he_heading_degT": "0.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62740",
+            "airport_ref": "20487",
+            "airport_ident": "KMDF",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "62741",
+            "airport_ref": "20487",
+            "airport_ident": "KMDF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

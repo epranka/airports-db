@@ -1,0 +1,142 @@
+{
+    "id": "27224",
+    "ident": "ZSQD",
+    "type": "medium_airport",
+    "name": "Liuting Airport",
+    "latitude_deg": "36.2661018372",
+    "longitude_deg": "120.374000549",
+    "elevation_ft": "33",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-37",
+    "municipality": "Qingdao",
+    "scheduled_service": "yes",
+    "gps_code": "ZSQD",
+    "iata_code": "TAO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Qingdao_Liuting_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235198",
+            "airport_ref": "27224",
+            "airport_ident": "ZSQD",
+            "length_ft": "11155",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "36.281",
+            "le_longitude_deg": "120.37",
+            "le_elevation_ft": "33",
+            "le_heading_degT": "166",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "36.2512",
+            "he_longitude_deg": "120.379",
+            "he_elevation_ft": "33",
+            "he_heading_degT": "346",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51273",
+            "airport_ref": "27224",
+            "airport_ident": "ZSQD",
+            "type": "APP",
+            "description": "QINGDAO",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "51274",
+            "airport_ref": "27224",
+            "airport_ident": "ZSQD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "51275",
+            "airport_ref": "27224",
+            "airport_ident": "ZSQD",
+            "type": "GND",
+            "description": "QINGDAO GND",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "51276",
+            "airport_ref": "27224",
+            "airport_ident": "ZSQD",
+            "type": "TWR",
+            "description": "QINGDAO TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303436",
+        "code": "CN-37",
+        "local_code": "37",
+        "name": "Shandong Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shandong",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94193",
+            "filename": "Qingdao_VOR-DME_CN",
+            "ident": "TAO",
+            "name": "Qingdao",
+            "type": "VOR-DME",
+            "frequency_khz": "117500",
+            "latitude_deg": "36.28499984741211",
+            "longitude_deg": "120.37000274658203",
+            "elevation_ft": "60",
+            "iso_country": "CN",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.226",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZSQD"
+        },
+        {
+            "id": "95556",
+            "filename": "Xuejiadao_VOR-DME_CN",
+            "ident": "XJT",
+            "name": "Xuejiadao",
+            "type": "VOR-DME",
+            "frequency_khz": "117000",
+            "latitude_deg": "35.961700439453125",
+            "longitude_deg": "120.23999786376953",
+            "elevation_ft": "70",
+            "iso_country": "CN",
+            "dme_frequency_khz": "117000",
+            "dme_channel": "117X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.17",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZSQD"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "21120",
+    "ident": "KSUW",
+    "type": "small_airport",
+    "name": "Richard I Bong Airport",
+    "latitude_deg": "46.689701080322",
+    "longitude_deg": "-92.094703674316",
+    "elevation_ft": "674",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Superior",
+    "scheduled_service": "no",
+    "gps_code": "KSUW",
+    "iata_code": "SUW",
+    "local_code": "SUW",
+    "home_link": "http://www.ci.superior.wi.us/index.aspx?NID=231",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Richard_I._Bong_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243489",
+            "airport_ref": "21120",
+            "airport_ident": "KSUW",
+            "length_ft": "5100",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "46.6837",
+            "le_longitude_deg": "-92.0998",
+            "le_elevation_ft": "674",
+            "le_heading_degT": "36.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "46.6958",
+            "he_longitude_deg": "-92.0896",
+            "he_elevation_ft": "674",
+            "he_heading_degT": "216.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243490",
+            "airport_ref": "21120",
+            "airport_ident": "KSUW",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "46.6874",
+            "le_longitude_deg": "-92.1003",
+            "le_elevation_ft": "672",
+            "le_heading_degT": "139.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "46.679",
+            "he_longitude_deg": "-92.0901",
+            "he_elevation_ft": "673",
+            "he_heading_degT": "319.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66108",
+            "airport_ref": "21120",
+            "airport_ident": "KSUW",
+            "type": "A/D",
+            "description": "DULUTH APP/DEP",
+            "frequency_mhz": "125.45"
+        },
+        {
+            "id": "66109",
+            "airport_ref": "21120",
+            "airport_ident": "KSUW",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.875"
+        },
+        {
+            "id": "66110",
+            "airport_ref": "21120",
+            "airport_ident": "KSUW",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "66111",
+            "airport_ref": "21120",
+            "airport_ident": "KSUW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "id": "19308",
+    "ident": "KASE",
+    "type": "medium_airport",
+    "name": "Aspen-Pitkin Co/Sardy Field",
+    "latitude_deg": "39.22320175",
+    "longitude_deg": "-106.8690033",
+    "elevation_ft": "7820",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Aspen",
+    "scheduled_service": "yes",
+    "gps_code": "KASE",
+    "iata_code": "ASE",
+    "local_code": "ASE",
+    "home_link": "http://aspenairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Aspen%E2%80%93Pitkin_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242512",
+            "airport_ref": "19308",
+            "airport_ident": "KASE",
+            "length_ft": "8006",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "7680",
+            "le_heading_degT": "160",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "7820",
+            "he_heading_degT": "340",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64078",
+            "airport_ref": "19308",
+            "airport_ident": "KASE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "64079",
+            "airport_ref": "19308",
+            "airport_ident": "KASE",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "123.75"
+        },
+        {
+            "id": "64080",
+            "airport_ref": "19308",
+            "airport_ident": "KASE",
+            "type": "CNTR",
+            "description": "APP/DEP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "64081",
+            "airport_ref": "19308",
+            "airport_ident": "KASE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "64082",
+            "airport_ref": "19308",
+            "airport_ident": "KASE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "64083",
+            "airport_ref": "19308",
+            "airport_ident": "KASE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "64084",
+            "airport_ref": "19308",
+            "airport_ident": "KASE",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87290",
+            "filename": "Red_Table_VOR-DME_US",
+            "ident": "DBL",
+            "name": "Red Table",
+            "type": "VOR-DME",
+            "frequency_khz": "113000",
+            "latitude_deg": "39.439300537109375",
+            "longitude_deg": "-106.8949966430664",
+            "elevation_ft": "11758",
+            "iso_country": "US",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.001",
+            "magnetic_variation_deg": "10.306",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KASE"
+        }
+    ]
+}

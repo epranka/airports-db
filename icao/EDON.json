@@ -1,0 +1,80 @@
+{
+    "id": "2257",
+    "ident": "EDON",
+    "type": "small_airport",
+    "name": "Neuhardenberg Airport",
+    "latitude_deg": "52.61305618286133",
+    "longitude_deg": "14.242777824401855",
+    "elevation_ft": "39",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BR",
+    "municipality": "Neuhardenberg",
+    "scheduled_service": "no",
+    "gps_code": "EDON",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236248",
+            "airport_ref": "2257",
+            "airport_ident": "EDON",
+            "length_ft": "7874",
+            "width_ft": "164",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "52.6115",
+            "le_longitude_deg": "14.2251",
+            "le_elevation_ft": "35",
+            "le_heading_degT": "82",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "52.6145",
+            "he_longitude_deg": "14.2602",
+            "he_elevation_ft": "35",
+            "he_heading_degT": "262",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53079",
+            "airport_ref": "2257",
+            "airport_ident": "EDON",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "53080",
+            "airport_ref": "2257",
+            "airport_ident": "EDON",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "119.125"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303547",
+        "code": "DE-BR",
+        "local_code": "BR",
+        "name": "Brandenburg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
+        "keywords": ""
+    }
+}

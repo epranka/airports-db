@@ -1,0 +1,72 @@
+{
+    "id": "20252",
+    "ident": "KBTA",
+    "type": "small_airport",
+    "name": "Blair Municipal Airport",
+    "latitude_deg": "41.41809844970703",
+    "longitude_deg": "-96.11360168457031",
+    "elevation_ft": "1325",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Blair",
+    "scheduled_service": "no",
+    "gps_code": "KBTA",
+    "iata_code": "",
+    "local_code": "BTA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Formerly K46",
+    "runways": [
+        {
+            "id": "240947",
+            "airport_ref": "20252",
+            "airport_ident": "KBTA",
+            "length_ft": "4200",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "41.419",
+            "le_longitude_deg": "-96.1142",
+            "le_elevation_ft": "1318",
+            "le_heading_degT": "137.2",
+            "le_displaced_threshold_ft": "800",
+            "he_ident": "31",
+            "he_latitude_deg": "41.4106",
+            "he_longitude_deg": "-96.1038",
+            "he_elevation_ft": "1299",
+            "he_heading_degT": "317.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60831",
+            "airport_ref": "20252",
+            "airport_ident": "KBTA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

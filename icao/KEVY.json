@@ -1,0 +1,126 @@
+{
+    "id": "19783",
+    "ident": "KEVY",
+    "type": "small_airport",
+    "name": "Summit Airport",
+    "latitude_deg": "39.52040100097656",
+    "longitude_deg": "-75.72039794921875",
+    "elevation_ft": "70",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Middletown",
+    "scheduled_service": "no",
+    "gps_code": "KEVY",
+    "iata_code": "",
+    "local_code": "EVY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245811",
+            "airport_ref": "19783",
+            "airport_ident": "KEVY",
+            "length_ft": "3600",
+            "width_ft": "200",
+            "surface": "GRE",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "39.5225",
+            "le_longitude_deg": "-75.734",
+            "le_elevation_ft": "70",
+            "le_heading_degT": "98",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "39.5212",
+            "he_longitude_deg": "-75.7214",
+            "he_elevation_ft": "70",
+            "he_heading_degT": "278",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245812",
+            "airport_ref": "19783",
+            "airport_ident": "KEVY",
+            "length_ft": "4487",
+            "width_ft": "65",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "39.5263",
+            "le_longitude_deg": "-75.7225",
+            "le_elevation_ft": "66",
+            "le_heading_degT": "165",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "39.5144",
+            "he_longitude_deg": "-75.7184",
+            "he_elevation_ft": "66",
+            "he_heading_degT": "345",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71104",
+            "airport_ref": "19783",
+            "airport_ident": "KEVY",
+            "type": "A/D",
+            "description": "PHILADELPHIA APP/DEP",
+            "frequency_mhz": "118.35"
+        },
+        {
+            "id": "71105",
+            "airport_ref": "19783",
+            "airport_ident": "KEVY",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "132.325"
+        },
+        {
+            "id": "71106",
+            "airport_ref": "19783",
+            "airport_ident": "KEVY",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "71107",
+            "airport_ref": "19783",
+            "airport_ident": "KEVY",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "114"
+        },
+        {
+            "id": "71108",
+            "airport_ref": "19783",
+            "airport_ident": "KEVY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.725"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306084",
+        "code": "US-DE",
+        "local_code": "DE",
+        "name": "Delaware",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Delaware",
+        "keywords": ""
+    }
+}

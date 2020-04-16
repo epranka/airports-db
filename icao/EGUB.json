@@ -1,0 +1,174 @@
+{
+    "id": "2486",
+    "ident": "EGUB",
+    "type": "medium_airport",
+    "name": "RAF Benson",
+    "latitude_deg": "51.616401672399995",
+    "longitude_deg": "-1.09582996368",
+    "elevation_ft": "226",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Benson",
+    "scheduled_service": "no",
+    "gps_code": "EGUB",
+    "iata_code": "BEX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Benson",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239490",
+            "airport_ref": "2486",
+            "airport_ident": "EGUB",
+            "length_ft": "5981",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "51.6069",
+            "le_longitude_deg": "-1.09765",
+            "le_elevation_ft": "178",
+            "le_heading_degT": "8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "51.6231",
+            "he_longitude_deg": "-1.09407",
+            "he_elevation_ft": "203",
+            "he_heading_degT": "188",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239491",
+            "airport_ref": "2486",
+            "airport_ident": "EGUB",
+            "length_ft": "4782",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "06",
+            "le_latitude_deg": "51.6149",
+            "le_longitude_deg": "-1.10233",
+            "le_elevation_ft": "197",
+            "le_heading_degT": "56",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "51.6222",
+            "he_longitude_deg": "-1.08483",
+            "he_elevation_ft": "226",
+            "he_heading_degT": "236",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58309",
+            "airport_ref": "2486",
+            "airport_ident": "EGUB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "376.65"
+        },
+        {
+            "id": "321433",
+            "airport_ref": "2486",
+            "airport_ident": "EGUB",
+            "type": "APP vhf",
+            "description": "",
+            "frequency_mhz": "136.45"
+        },
+        {
+            "id": "58310",
+            "airport_ref": "2486",
+            "airport_ident": "EGUB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "282.525"
+        },
+        {
+            "id": "321434",
+            "airport_ref": "2486",
+            "airport_ident": "EGUB",
+            "type": "Director",
+            "description": "",
+            "frequency_mhz": "356.125"
+        },
+        {
+            "id": "307863",
+            "airport_ref": "2486",
+            "airport_ident": "EGUB",
+            "type": "GRN",
+            "description": "",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "58313",
+            "airport_ref": "2486",
+            "airport_ident": "EGUB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.15"
+        },
+        {
+            "id": "307864",
+            "airport_ref": "2486",
+            "airport_ident": "EGUB",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "318.1"
+        },
+        {
+            "id": "58311",
+            "airport_ref": "2486",
+            "airport_ident": "EGUB",
+            "type": "Zone / CAC",
+            "description": "",
+            "frequency_mhz": "120.9"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86366",
+            "filename": "Benson_TACAN_GB",
+            "ident": "BSO",
+            "name": "Benson",
+            "type": "TACAN",
+            "frequency_khz": "110000",
+            "latitude_deg": "51.614498138427734",
+            "longitude_deg": "-1.0994399785995483",
+            "elevation_ft": "226",
+            "iso_country": "GB",
+            "dme_frequency_khz": "110000",
+            "dme_channel": "037X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.399",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "EGUB"
+        }
+    ]
+}

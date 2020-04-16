@@ -1,0 +1,96 @@
+{
+    "id": "2935",
+    "ident": "FNBG",
+    "type": "medium_airport",
+    "name": "Benguela Airport",
+    "latitude_deg": "-12.609000206",
+    "longitude_deg": "13.4036998749",
+    "elevation_ft": "118",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-BGU",
+    "municipality": "Benguela",
+    "scheduled_service": "no",
+    "gps_code": "FNBG",
+    "iata_code": "BUG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Benguela_Airport",
+    "keywords": "Aeroporto 17 de Setembro, Gen. V. Deslandes Airport",
+    "runways": [
+        {
+            "id": "232897",
+            "airport_ref": "2935",
+            "airport_ident": "FNBG",
+            "length_ft": "5315",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-12.6044",
+            "le_longitude_deg": "13.3981",
+            "le_elevation_ft": "118",
+            "le_heading_degT": "131",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-12.6137",
+            "he_longitude_deg": "13.4094",
+            "he_elevation_ft": "118",
+            "he_heading_degT": "311",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48340",
+            "airport_ref": "2935",
+            "airport_ident": "FNBG",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302556",
+        "code": "AO",
+        "name": "Angola",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Angola",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302913",
+        "code": "AO-BGU",
+        "local_code": "BGU",
+        "name": "Benguela Province",
+        "continent": "AF",
+        "iso_country": "AO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Benguela_ Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85970",
+            "filename": "Benguela_NDB_AO",
+            "ident": "BG",
+            "name": "Benguela",
+            "type": "NDB",
+            "frequency_khz": "372",
+            "latitude_deg": "-12.608099937438965",
+            "longitude_deg": "13.405400276184082",
+            "elevation_ft": "",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.229",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNBG"
+        }
+    ]
+}

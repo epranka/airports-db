@@ -1,0 +1,158 @@
+{
+    "id": "3555",
+    "ident": "KGGG",
+    "type": "medium_airport",
+    "name": "East Texas Regional Airport",
+    "latitude_deg": "32.38399887084961",
+    "longitude_deg": "-94.71150207519531",
+    "elevation_ft": "365",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Longview",
+    "scheduled_service": "yes",
+    "gps_code": "KGGG",
+    "iata_code": "GGG",
+    "local_code": "GGG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/East_Texas_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240587",
+            "airport_ref": "3555",
+            "airport_ident": "KGGG",
+            "length_ft": "10000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "32.3925",
+            "le_longitude_deg": "-94.7201",
+            "le_elevation_ft": "357",
+            "le_heading_degT": "133.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "32.3735",
+            "he_longitude_deg": "-94.6967",
+            "he_elevation_ft": "354",
+            "he_heading_degT": "313.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "251978",
+            "airport_ref": "3555",
+            "airport_ident": "KGGG",
+            "length_ft": "6109",
+            "width_ft": "150",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "32.394",
+            "le_longitude_deg": "-94.7167",
+            "le_elevation_ft": "354",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "32.3772",
+            "he_longitude_deg": "-94.7163",
+            "he_elevation_ft": "365",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60202",
+            "airport_ref": "3555",
+            "airport_ident": "KGGG",
+            "type": "A/D",
+            "description": "LONGVIEW APP/DEP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "60203",
+            "airport_ref": "3555",
+            "airport_ident": "KGGG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "60204",
+            "airport_ref": "3555",
+            "airport_ident": "KGGG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "60205",
+            "airport_ref": "3555",
+            "airport_ident": "KGGG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "60206",
+            "airport_ref": "3555",
+            "airport_ident": "KGGG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "60207",
+            "airport_ref": "3555",
+            "airport_ident": "KGGG",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88368",
+            "filename": "Veels_NDB_US",
+            "ident": "GG",
+            "name": "Veels",
+            "type": "NDB",
+            "frequency_khz": "410",
+            "latitude_deg": "32.45560073852539",
+            "longitude_deg": "-94.79759979248047",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.26",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KGGG"
+        }
+    ]
+}

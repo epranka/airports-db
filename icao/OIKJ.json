@@ -1,0 +1,96 @@
+{
+    "id": "5173",
+    "ident": "OIKJ",
+    "type": "medium_airport",
+    "name": "Jiroft Airport",
+    "latitude_deg": "28.726900100699996",
+    "longitude_deg": "57.67029953",
+    "elevation_ft": "2663",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-15",
+    "municipality": "Jiroft",
+    "scheduled_service": "no",
+    "gps_code": "OIKJ",
+    "iata_code": "JYR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jiroft_Airport",
+    "keywords": "Sabzevaran",
+    "runways": [
+        {
+            "id": "236865",
+            "airport_ref": "5173",
+            "airport_ident": "OIKJ",
+            "length_ft": "7236",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "28.7332",
+            "le_longitude_deg": "57.6615",
+            "le_elevation_ft": "2663",
+            "le_heading_degT": "128.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "28.7208",
+            "he_longitude_deg": "57.6791",
+            "he_elevation_ft": "2571",
+            "he_heading_degT": "308.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54026",
+            "airport_ref": "5173",
+            "airport_ident": "OIKJ",
+            "type": "AAS",
+            "description": "INFO",
+            "frequency_mhz": "118.65"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304232",
+        "code": "IR-15",
+        "local_code": "15",
+        "name": "Kerman Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kerman_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89494",
+            "filename": "Jiroft_NDB_IR",
+            "ident": "JIR",
+            "name": "Jiroft",
+            "type": "NDB",
+            "frequency_khz": "276",
+            "latitude_deg": "28.731399536132812",
+            "longitude_deg": "57.67210006713867",
+            "elevation_ft": "2663",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.565",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIKJ"
+        }
+    ]
+}

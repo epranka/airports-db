@@ -1,0 +1,120 @@
+{
+    "id": "5239",
+    "ident": "OMSJ",
+    "type": "large_airport",
+    "name": "Sharjah International Airport",
+    "latitude_deg": "25.32859992980957",
+    "longitude_deg": "55.5172004699707",
+    "elevation_ft": "111",
+    "continent": "AS",
+    "iso_country": "AE",
+    "iso_region": "AE-SH",
+    "municipality": "Sharjah",
+    "scheduled_service": "yes",
+    "gps_code": "OMSJ",
+    "iata_code": "SHJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sharjah_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232763",
+            "airport_ref": "5239",
+            "airport_ident": "OMSJ",
+            "length_ft": "13320",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "25.3383",
+            "le_longitude_deg": "55.5003",
+            "le_elevation_ft": "92",
+            "le_heading_degT": "122",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "25.3188",
+            "he_longitude_deg": "55.5342",
+            "he_elevation_ft": "111",
+            "he_heading_degT": "302",
+            "he_displaced_threshold_ft": "984"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48202",
+            "airport_ref": "5239",
+            "airport_ident": "OMSJ",
+            "type": "APP",
+            "description": "DUBAI APP",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "48203",
+            "airport_ref": "5239",
+            "airport_ident": "OMSJ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "332330",
+            "airport_ref": "5239",
+            "airport_ident": "OMSJ",
+            "type": "Ground to Ground",
+            "description": "Ground",
+            "frequency_mhz": "121.875"
+        },
+        {
+            "id": "48205",
+            "airport_ref": "5239",
+            "airport_ident": "OMSJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302618",
+        "code": "AE",
+        "name": "United Arab Emirates",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+        "keywords": "UAE,مطارات في الإمارات العربية المتحدة"
+    },
+    "region": {
+        "id": "302824",
+        "code": "AE-SH",
+        "local_code": "SH",
+        "name": "Sharjah Emirate",
+        "continent": "AS",
+        "iso_country": "AE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sharjah_(emirate)",
+        "keywords": "Ash Shāriqah"
+    },
+    "navaids": [
+        {
+            "id": "93583",
+            "filename": "Sharjah_VOR-DME_AE",
+            "ident": "SHJ",
+            "name": "Sharjah",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "25.330299377441406",
+            "longitude_deg": "55.520599365234375",
+            "elevation_ft": "130",
+            "iso_country": "AE",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.309",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OMSJ"
+        }
+    ]
+}

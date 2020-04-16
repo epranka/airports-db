@@ -1,0 +1,182 @@
+{
+    "id": "3594",
+    "ident": "KHSV",
+    "type": "large_airport",
+    "name": "Huntsville International Carl T Jones Field",
+    "latitude_deg": "34.637199401855",
+    "longitude_deg": "-86.775100708008",
+    "elevation_ft": "629",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Huntsville",
+    "scheduled_service": "yes",
+    "gps_code": "KHSV",
+    "iata_code": "HSV",
+    "local_code": "HSV",
+    "home_link": "http://www.flyhuntsville.com/portal/#.VbaG-_lVhBc",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Huntsville_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245702",
+            "airport_ref": "3594",
+            "airport_ident": "KHSV",
+            "length_ft": "10006",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18L",
+            "le_latitude_deg": "34.6531",
+            "le_longitude_deg": "-86.7655",
+            "le_elevation_ft": "609",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36R",
+            "he_latitude_deg": "34.6256",
+            "he_longitude_deg": "-86.766",
+            "he_elevation_ft": "589",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": "206"
+        },
+        {
+            "id": "245701",
+            "airport_ref": "3594",
+            "airport_ident": "KHSV",
+            "length_ft": "12600",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18R",
+            "le_latitude_deg": "34.6528",
+            "le_longitude_deg": "-86.7821",
+            "le_elevation_ft": "628",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36L",
+            "he_latitude_deg": "34.6182",
+            "he_longitude_deg": "-86.7828",
+            "he_elevation_ft": "611",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70871",
+            "airport_ref": "3594",
+            "airport_ident": "KHSV",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "70872",
+            "airport_ref": "3594",
+            "airport_ident": "KHSV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "121.25"
+        },
+        {
+            "id": "70873",
+            "airport_ref": "3594",
+            "airport_ident": "KHSV",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.35"
+        },
+        {
+            "id": "70874",
+            "airport_ref": "3594",
+            "airport_ident": "KHSV",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "70875",
+            "airport_ref": "3594",
+            "airport_ident": "KHSV",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "70876",
+            "airport_ref": "3594",
+            "airport_ident": "KHSV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "70877",
+            "airport_ref": "3594",
+            "airport_ident": "KHSV",
+            "type": "RDO",
+            "description": "ANNISTON RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "70878",
+            "airport_ref": "3594",
+            "airport_ident": "KHSV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "70879",
+            "airport_ref": "3594",
+            "airport_ident": "KHSV",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87164",
+            "filename": "Capshaw_NDB_US",
+            "ident": "CWH",
+            "name": "Capshaw",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "34.77370071411133",
+            "longitude_deg": "-86.77899932861328",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.287",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KHSV"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "4078",
+    "ident": "LFCC",
+    "type": "medium_airport",
+    "name": "Cahors-Lalbenque Airport",
+    "latitude_deg": "44.35139846801758",
+    "longitude_deg": "1.4752800464630127",
+    "elevation_ft": "912",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Cahors/Lalbenque",
+    "scheduled_service": "no",
+    "gps_code": "LFCC",
+    "iata_code": "ZAO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235963",
+            "airport_ref": "4078",
+            "airport_ident": "LFCC",
+            "length_ft": "4921",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "44.3556",
+            "le_longitude_deg": "1.4675",
+            "le_elevation_ft": "884",
+            "le_heading_degT": "129",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "44.3472",
+            "he_longitude_deg": "1.48194",
+            "he_elevation_ft": "911",
+            "he_heading_degT": "309",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52475",
+            "airport_ref": "4078",
+            "airport_ident": "LFCC",
+            "type": "AFIS",
+            "description": "CAHORS INFO",
+            "frequency_mhz": "119.225"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306341",
+        "code": "FR-OCC",
+        "local_code": "OCC",
+        "name": "Occitanie",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occitanie",
+        "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
+    }
+}

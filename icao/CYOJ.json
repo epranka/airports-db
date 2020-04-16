@@ -1,0 +1,142 @@
+{
+    "id": "1836",
+    "ident": "CYOJ",
+    "type": "medium_airport",
+    "name": "High Level Airport",
+    "latitude_deg": "58.62139892578125",
+    "longitude_deg": "-117.16500091552734",
+    "elevation_ft": "1110",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "High Level",
+    "scheduled_service": "yes",
+    "gps_code": "CYOJ",
+    "iata_code": "YOJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/High_Level_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234678",
+            "airport_ref": "1836",
+            "airport_ident": "CYOJ",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "58.6275",
+            "le_longitude_deg": "-117.171",
+            "le_elevation_ft": "1109",
+            "le_heading_degT": "154",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "58.6153",
+            "he_longitude_deg": "-117.159",
+            "he_elevation_ft": "1098",
+            "he_heading_degT": "334",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50275",
+            "airport_ref": "1836",
+            "airport_ident": "CYOJ",
+            "type": "A/G",
+            "description": "MF HIGH LEVEL RDO",
+            "frequency_mhz": "123.25"
+        },
+        {
+            "id": "50276",
+            "airport_ref": "1836",
+            "airport_ident": "CYOJ",
+            "type": "CNTR",
+            "description": "EDMONTON CNTR",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "50277",
+            "airport_ref": "1836",
+            "airport_ident": "CYOJ",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "123.25"
+        },
+        {
+            "id": "50278",
+            "airport_ref": "1836",
+            "airport_ident": "CYOJ",
+            "type": "RCO",
+            "description": "EDMONTON RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91949",
+            "filename": "High_Level_NDB_CA",
+            "ident": "OJ",
+            "name": "High Level",
+            "type": "NDB",
+            "frequency_khz": "239",
+            "latitude_deg": "58.55329895019531",
+            "longitude_deg": "-117.12100219726562",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "20.319",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYOJ"
+        },
+        {
+            "id": "95779",
+            "filename": "High_Level_VOR-DME_CA",
+            "ident": "YOJ",
+            "name": "High Level",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "58.55440139770508",
+            "longitude_deg": "-117.09300231933594",
+            "elevation_ft": "1129",
+            "iso_country": "CA",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "21.001",
+            "magnetic_variation_deg": "20.311",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYOJ"
+        }
+    ]
+}

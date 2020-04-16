@@ -1,0 +1,96 @@
+{
+    "id": "5935",
+    "ident": "SBMC",
+    "type": "medium_airport",
+    "name": "Minaçu Airport",
+    "latitude_deg": "-13.5491",
+    "longitude_deg": "-48.195301",
+    "elevation_ft": "1401",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Minaçu",
+    "scheduled_service": "no",
+    "gps_code": "SWIQ",
+    "iata_code": "MQH",
+    "local_code": "SWIQ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mina%C3%A7u_Airport",
+    "keywords": "SBMC",
+    "runways": [
+        {
+            "id": "234165",
+            "airport_ref": "5935",
+            "airport_ident": "SBMC",
+            "length_ft": "4183",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "5",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49724",
+            "airport_ref": "5935",
+            "airport_ident": "SBMC",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "130.3"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303207",
+        "code": "BR-GO",
+        "local_code": "GO",
+        "name": "Goiás",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86905",
+            "filename": "Cana_Brava_NDB_BR",
+            "ident": "CNB",
+            "name": "Cana Brava",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-13.543700218200684",
+            "longitude_deg": "-48.194801330566406",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.168",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBMC"
+        }
+    ]
+}

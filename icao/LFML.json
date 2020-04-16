@@ -1,0 +1,158 @@
+{
+    "id": "4155",
+    "ident": "LFML",
+    "type": "large_airport",
+    "name": "Marseille Provence Airport",
+    "latitude_deg": "43.439271922",
+    "longitude_deg": "5.22142410278",
+    "elevation_ft": "74",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-PAC",
+    "municipality": "Marseille",
+    "scheduled_service": "yes",
+    "gps_code": "LFML",
+    "iata_code": "MRS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Marseille_Provence_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235999",
+            "airport_ref": "4155",
+            "airport_ident": "LFML",
+            "length_ft": "11483",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13L",
+            "le_latitude_deg": "43.4491",
+            "le_longitude_deg": "5.19731",
+            "le_elevation_ft": "8",
+            "le_heading_degT": "133.7",
+            "le_displaced_threshold_ft": "1116",
+            "he_ident": "31R",
+            "he_latitude_deg": "43.4273",
+            "he_longitude_deg": "5.22846",
+            "he_elevation_ft": "53",
+            "he_heading_degT": "313.7",
+            "he_displaced_threshold_ft": "2165"
+        },
+        {
+            "id": "235998",
+            "airport_ref": "4155",
+            "airport_ident": "LFML",
+            "length_ft": "7776",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13R",
+            "le_latitude_deg": "43.4413",
+            "le_longitude_deg": "5.20302",
+            "le_elevation_ft": "8",
+            "le_heading_degT": "134.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31L",
+            "he_latitude_deg": "43.4259",
+            "he_longitude_deg": "5.22435",
+            "he_elevation_ft": "61",
+            "he_heading_degT": "314.4",
+            "he_displaced_threshold_ft": "345"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52535",
+            "airport_ref": "4155",
+            "airport_ident": "LFML",
+            "type": "APP",
+            "description": "APP/RADAR",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "52536",
+            "airport_ref": "4155",
+            "airport_ident": "LFML",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "52537",
+            "airport_ref": "4155",
+            "airport_ident": "LFML",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "52538",
+            "airport_ref": "4155",
+            "airport_ident": "LFML",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "52539",
+            "airport_ref": "4155",
+            "airport_ident": "LFML",
+            "type": "PFLT",
+            "description": "PERFLIGHT",
+            "frequency_mhz": "121.725"
+        },
+        {
+            "id": "52540",
+            "airport_ref": "4155",
+            "airport_ident": "LFML",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.375"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306333",
+        "code": "FR-PAC",
+        "local_code": "PAC",
+        "name": "Provence-Alpes-Côte-d'Azur",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91249",
+            "filename": "Marseille_Provence_VOR-DME_FR",
+            "ident": "MRM",
+            "name": "Marseille/Provence",
+            "type": "VOR-DME",
+            "frequency_khz": "108800",
+            "latitude_deg": "43.37730026245117",
+            "longitude_deg": "5.32643985748291",
+            "elevation_ft": "771",
+            "iso_country": "FR",
+            "dme_frequency_khz": "108800",
+            "dme_channel": "025X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.096",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFML"
+        }
+    ]
+}

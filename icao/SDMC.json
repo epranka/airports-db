@@ -1,0 +1,104 @@
+{
+    "id": "185",
+    "ident": "SDMC",
+    "type": "small_airport",
+    "name": "Maricá Airport",
+    "latitude_deg": "-22.9195",
+    "longitude_deg": "-42.830898",
+    "elevation_ft": "13",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Maricá",
+    "scheduled_service": "no",
+    "gps_code": "SBMI",
+    "iata_code": "",
+    "local_code": "SBMI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233946",
+            "airport_ref": "185",
+            "airport_ident": "SDMC",
+            "length_ft": "3904",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "9",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "330582",
+            "airport_ref": "185",
+            "airport_ident": "SDMC",
+            "type": "Radio",
+            "description": "",
+            "frequency_mhz": "131.8"
+        },
+        {
+            "id": "330583",
+            "airport_ref": "185",
+            "airport_ident": "SDMC",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303217",
+        "code": "BR-RJ",
+        "local_code": "RJ",
+        "name": "Rio de Janeiro",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91239",
+            "filename": "Marica_VOR-DME_BR",
+            "ident": "MRC",
+            "name": "Marica",
+            "type": "VOR-DME",
+            "frequency_khz": "114000",
+            "latitude_deg": "-22.96769905090332",
+            "longitude_deg": "-42.891300201416016",
+            "elevation_ft": "4",
+            "iso_country": "BR",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-20.007",
+            "magnetic_variation_deg": "-21.45",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SDMC"
+        }
+    ]
+}

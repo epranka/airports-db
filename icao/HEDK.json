@@ -1,0 +1,104 @@
+{
+    "id": "3185",
+    "ident": "HEDK",
+    "type": "small_airport",
+    "name": "Dakhla Airport",
+    "latitude_deg": "25.41160011291504",
+    "longitude_deg": "29.00309944152832",
+    "elevation_ft": "613",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-WAD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "HEDK",
+    "iata_code": "DAK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235543",
+            "airport_ref": "3185",
+            "airport_ident": "HEDK",
+            "length_ft": "8166",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "25.4212",
+            "le_longitude_deg": "28.9967",
+            "le_elevation_ft": "574",
+            "le_heading_degT": "149.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "25.4019",
+            "he_longitude_deg": "29.0093",
+            "he_elevation_ft": "613",
+            "he_heading_degT": "329.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51840",
+            "airport_ref": "3185",
+            "airport_ident": "HEDK",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "585.9"
+        },
+        {
+            "id": "51841",
+            "airport_ref": "3185",
+            "airport_ident": "HEDK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303717",
+        "code": "EG-WAD",
+        "local_code": "WAD",
+        "name": "New Valley Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Valley_Governorate",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90757",
+            "filename": "Dakhla_NDB_EG",
+            "ident": "MB",
+            "name": "Dakhla",
+            "type": "NDB",
+            "frequency_khz": "387",
+            "latitude_deg": "25.420700073242188",
+            "longitude_deg": "29.001399993896484",
+            "elevation_ft": "590",
+            "iso_country": "EG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.503",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HEDK"
+        }
+    ]
+}

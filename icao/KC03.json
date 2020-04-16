@@ -1,0 +1,88 @@
+{
+    "id": "19433",
+    "ident": "KC03",
+    "type": "small_airport",
+    "name": "Nappanee Municipal Airport",
+    "latitude_deg": "41.44620132446289",
+    "longitude_deg": "-85.93479919433594",
+    "elevation_ft": "860",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Nappanee",
+    "scheduled_service": "no",
+    "gps_code": "KC03",
+    "iata_code": "",
+    "local_code": "C03",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244524",
+            "airport_ref": "19433",
+            "airport_ident": "KC03",
+            "length_ft": "3675",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "41.4461",
+            "le_longitude_deg": "-85.9427",
+            "le_elevation_ft": "858",
+            "le_heading_degT": "89.4",
+            "le_displaced_threshold_ft": "250",
+            "he_ident": "27",
+            "he_latitude_deg": "41.4462",
+            "he_longitude_deg": "-85.9293",
+            "he_elevation_ft": "856",
+            "he_heading_degT": "269.4",
+            "he_displaced_threshold_ft": "185"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68284",
+            "airport_ref": "19433",
+            "airport_ident": "KC03",
+            "type": "A/D",
+            "description": "SOUTH BEND APP/DEP",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "68285",
+            "airport_ref": "19433",
+            "airport_ident": "KC03",
+            "type": "RDO",
+            "description": "TERRE HAUTE RDO",
+            "frequency_mhz": "113.7"
+        },
+        {
+            "id": "68286",
+            "airport_ref": "19433",
+            "airport_ident": "KC03",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

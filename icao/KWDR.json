@@ -1,0 +1,118 @@
+{
+    "id": "21372",
+    "ident": "KWDR",
+    "type": "small_airport",
+    "name": "Barrow County Airport",
+    "latitude_deg": "33.98289871",
+    "longitude_deg": "-83.66739655",
+    "elevation_ft": "943",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Winder",
+    "scheduled_service": "no",
+    "gps_code": "KWDR",
+    "iata_code": "WDR",
+    "local_code": "WDR",
+    "home_link": "http://www.wdrairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Barrow_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243704",
+            "airport_ref": "21372",
+            "airport_ident": "KWDR",
+            "length_ft": "3610",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "33.9778",
+            "le_longitude_deg": "-83.6731",
+            "le_elevation_ft": "934",
+            "le_heading_degT": "46",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "33.9847",
+            "he_longitude_deg": "-83.6646",
+            "he_elevation_ft": "917",
+            "he_heading_degT": "226",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243705",
+            "airport_ref": "21372",
+            "airport_ident": "KWDR",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "33.9887",
+            "le_longitude_deg": "-83.6736",
+            "le_elevation_ft": "934",
+            "le_heading_degT": "129",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "33.9792",
+            "he_longitude_deg": "-83.6594",
+            "he_elevation_ft": "909",
+            "he_heading_degT": "309",
+            "he_displaced_threshold_ft": "340"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66581",
+            "airport_ref": "21372",
+            "airport_ident": "KWDR",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "66582",
+            "airport_ref": "21372",
+            "airport_ident": "KWDR",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.575"
+        },
+        {
+            "id": "66583",
+            "airport_ref": "21372",
+            "airport_ident": "KWDR",
+            "type": "OPS",
+            "description": "ARNG",
+            "frequency_mhz": "44"
+        },
+        {
+            "id": "66584",
+            "airport_ref": "21372",
+            "airport_ident": "KWDR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

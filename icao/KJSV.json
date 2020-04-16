@@ -1,0 +1,88 @@
+{
+    "id": "20222",
+    "ident": "KJSV",
+    "type": "small_airport",
+    "name": "Sallisaw Municipal Airport",
+    "latitude_deg": "35.4382019",
+    "longitude_deg": "-94.80280304",
+    "elevation_ft": "527",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Sallisaw",
+    "scheduled_service": "no",
+    "gps_code": "KJSV",
+    "iata_code": "",
+    "local_code": "JSV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241618",
+            "airport_ref": "20222",
+            "airport_ident": "KJSV",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "35.4437",
+            "le_longitude_deg": "-94.8028",
+            "le_elevation_ft": "527",
+            "le_heading_degT": "180.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "35.4327",
+            "he_longitude_deg": "-94.8029",
+            "he_elevation_ft": "518",
+            "he_heading_degT": "0.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62239",
+            "airport_ref": "20222",
+            "airport_ident": "KJSV",
+            "type": "A/D",
+            "description": "RAZORBACK APP/DEP",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "62240",
+            "airport_ref": "20222",
+            "airport_ident": "KJSV",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.475"
+        },
+        {
+            "id": "62241",
+            "airport_ref": "20222",
+            "airport_ident": "KJSV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

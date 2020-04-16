@@ -1,0 +1,110 @@
+{
+    "id": "20190",
+    "ident": "KISQ",
+    "type": "small_airport",
+    "name": "Schoolcraft County Airport",
+    "latitude_deg": "45.97460175",
+    "longitude_deg": "-86.17179871",
+    "elevation_ft": "684",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Manistique",
+    "scheduled_service": "no",
+    "gps_code": "KISQ",
+    "iata_code": "ISQ",
+    "local_code": "ISQ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "257989",
+            "airport_ref": "20190",
+            "airport_ident": "KISQ",
+            "length_ft": "2501",
+            "width_ft": "50",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "45.9706",
+            "le_longitude_deg": "-86.1706",
+            "le_elevation_ft": "677",
+            "le_heading_degT": "359",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "45.9774",
+            "he_longitude_deg": "-86.1707",
+            "he_elevation_ft": "681",
+            "he_heading_degT": "179",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244870",
+            "airport_ref": "20190",
+            "airport_ident": "KISQ",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "45.975",
+            "le_longitude_deg": "-86.1823",
+            "le_elevation_ft": "685",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "45.9749",
+            "he_longitude_deg": "-86.1626",
+            "he_elevation_ft": "673",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69059",
+            "airport_ref": "20190",
+            "airport_ident": "KISQ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "110.4"
+        },
+        {
+            "id": "69060",
+            "airport_ref": "20190",
+            "airport_ident": "KISQ",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "69061",
+            "airport_ref": "20190",
+            "airport_ident": "KISQ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

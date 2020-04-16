@@ -1,0 +1,96 @@
+{
+    "id": "865",
+    "ident": "CEJ6",
+    "type": "small_airport",
+    "name": "Elk Point Airport",
+    "latitude_deg": "53.89310073852539",
+    "longitude_deg": "-110.77200317382812",
+    "elevation_ft": "1981",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Elk Point",
+    "scheduled_service": "no",
+    "gps_code": "CEJ6",
+    "iata_code": "",
+    "local_code": "CEJ6",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Elk_Point_Airport",
+    "keywords": "EJ6",
+    "runways": [
+        {
+            "id": "234439",
+            "airport_ref": "865",
+            "airport_ident": "CEJ6",
+            "length_ft": "4492",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "53.8931",
+            "le_longitude_deg": "-110.783",
+            "le_elevation_ft": "",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "53.8928",
+            "he_longitude_deg": "-110.762",
+            "he_elevation_ft": "",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49884",
+            "airport_ref": "865",
+            "airport_ident": "CEJ6",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85142",
+            "filename": "Elk_Point_NDB-DME_CA",
+            "ident": "8M",
+            "name": "Elk Point",
+            "type": "NDB-DME",
+            "frequency_khz": "414",
+            "latitude_deg": "53.89030075073242",
+            "longitude_deg": "-110.76799774169922",
+            "elevation_ft": "1999",
+            "iso_country": "CA",
+            "dme_frequency_khz": "111400",
+            "dme_channel": "051X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.234",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CEJ6"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "3195",
+    "ident": "HEOW",
+    "type": "small_airport",
+    "name": "Shark El Oweinat International Airport",
+    "latitude_deg": "22.5856990814209",
+    "longitude_deg": "28.71660041809082",
+    "elevation_ft": "859",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-WAD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "HEOW",
+    "iata_code": "GSQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235595",
+            "airport_ref": "3195",
+            "airport_ident": "HEOW",
+            "length_ft": "11483",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "22.57",
+            "le_longitude_deg": "28.7141",
+            "le_elevation_ft": "859",
+            "le_heading_degT": "8.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "22.6013",
+            "he_longitude_deg": "28.7192",
+            "he_elevation_ft": "856",
+            "he_heading_degT": "188.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51890",
+            "airport_ref": "3195",
+            "airport_ident": "HEOW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51891",
+            "airport_ref": "3195",
+            "airport_ident": "HEOW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303717",
+        "code": "EG-WAD",
+        "local_code": "WAD",
+        "name": "New Valley Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Valley_Governorate",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92178",
+            "filename": "Shark_El_Oweinat_NDB_EG",
+            "ident": "OWT",
+            "name": "Shark El Oweinat",
+            "type": "NDB",
+            "frequency_khz": "301",
+            "latitude_deg": "22.580799102783203",
+            "longitude_deg": "28.732200622558594",
+            "elevation_ft": "870",
+            "iso_country": "EG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.392",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HEOW"
+        }
+    ]
+}

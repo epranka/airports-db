@@ -1,0 +1,104 @@
+{
+    "id": "4707",
+    "ident": "MMDO",
+    "type": "medium_airport",
+    "name": "General Guadalupe Victoria International Airport",
+    "latitude_deg": "24.1242008209",
+    "longitude_deg": "-104.527999878",
+    "elevation_ft": "6104",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-DUR",
+    "municipality": "Durango",
+    "scheduled_service": "yes",
+    "gps_code": "MMDO",
+    "iata_code": "DGO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/General_Guadalupe_Victoria_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237740",
+            "airport_ref": "4707",
+            "airport_ident": "MMDO",
+            "length_ft": "9514",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "24.1139",
+            "le_longitude_deg": "-104.537",
+            "le_elevation_ft": "6104",
+            "le_heading_degT": "38",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "24.1345",
+            "he_longitude_deg": "-104.519",
+            "he_elevation_ft": "6104",
+            "he_heading_degT": "218",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55483",
+            "airport_ref": "4707",
+            "airport_ident": "MMDO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "55484",
+            "airport_ref": "4707",
+            "airport_ident": "MMDO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304799",
+        "code": "MX-DUR",
+        "local_code": "DUR",
+        "name": "Durango",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Durango",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87356",
+            "filename": "Durango_VOR-DME_MX",
+            "ident": "DGO",
+            "name": "Durango",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "24.13800048828125",
+            "longitude_deg": "-104.51599884033203",
+            "elevation_ft": "6104",
+            "iso_country": "MX",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.006",
+            "magnetic_variation_deg": "8.007",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMDO"
+        }
+    ]
+}

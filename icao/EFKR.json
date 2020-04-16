@@ -1,0 +1,80 @@
+{
+    "id": "27261",
+    "ident": "EFKR",
+    "type": "small_airport",
+    "name": "Kärsämäki Airport",
+    "latitude_deg": "63.989200592041016",
+    "longitude_deg": "25.743600845336914",
+    "elevation_ft": "348",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-OL",
+    "municipality": "Kärsämäki",
+    "scheduled_service": "no",
+    "gps_code": "EFKR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310789",
+            "airport_ref": "27261",
+            "airport_ident": "EFKR",
+            "length_ft": "2296",
+            "width_ft": "32",
+            "surface": "GRVL/GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "885"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310788",
+            "airport_ref": "27261",
+            "airport_ident": "EFKR",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "310787",
+            "airport_ref": "27261",
+            "airport_ident": "EFKR",
+            "type": "RDO",
+            "description": "Kärsämäki traffic",
+            "frequency_mhz": "123.55"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303804",
+        "code": "FI-OL",
+        "local_code": "OL",
+        "name": "Oulu",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oulu",
+        "keywords": "Oulun lääni, Uleåborgs län"
+    }
+}

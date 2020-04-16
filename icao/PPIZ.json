@@ -1,0 +1,136 @@
+{
+    "id": "5495",
+    "ident": "PPIZ",
+    "type": "medium_airport",
+    "name": "Point Lay LRRS Airport",
+    "latitude_deg": "69.73290253",
+    "longitude_deg": "-163.0050049",
+    "elevation_ft": "22",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Point Lay",
+    "scheduled_service": "no",
+    "gps_code": "PPIZ",
+    "iata_code": "PIZ",
+    "local_code": "PIZ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Point_Lay_LRRS_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239659",
+            "airport_ref": "5495",
+            "airport_ident": "PPIZ",
+            "length_ft": "3519",
+            "width_ft": "80",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "69.7303",
+            "le_longitude_deg": "-163.024",
+            "le_elevation_ft": "24",
+            "le_heading_degT": "69",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "69.7338",
+            "he_longitude_deg": "-162.998",
+            "he_elevation_ft": "15",
+            "he_heading_degT": "249",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58655",
+            "airport_ref": "5495",
+            "airport_ident": "PPIZ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.65"
+        },
+        {
+            "id": "58656",
+            "airport_ref": "5495",
+            "airport_ident": "PPIZ",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "58657",
+            "airport_ref": "5495",
+            "airport_ident": "PPIZ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "58658",
+            "airport_ref": "5495",
+            "airport_ident": "PPIZ",
+            "type": "FSS",
+            "description": "FAIRBANKS RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "58659",
+            "airport_ref": "5495",
+            "airport_ident": "PPIZ",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "58660",
+            "airport_ref": "5495",
+            "airport_ident": "PPIZ",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92460",
+            "filename": "Point_Lay_NDB_US",
+            "ident": "PIZ",
+            "name": "Point Lay",
+            "type": "NDB",
+            "frequency_khz": "362",
+            "latitude_deg": "69.7343978881836",
+            "longitude_deg": "-163.01300048828125",
+            "elevation_ft": "20",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.164",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PPIZ"
+        }
+    ]
+}

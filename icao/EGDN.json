@@ -1,0 +1,102 @@
+{
+    "id": "29124",
+    "ident": "EGDN",
+    "type": "small_airport",
+    "name": "Netheravon Airfield",
+    "latitude_deg": "51.247200012200004",
+    "longitude_deg": "-1.7542500495900002",
+    "elevation_ft": "456",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Netheravon",
+    "scheduled_service": "no",
+    "gps_code": "EGDN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "253791",
+            "airport_ref": "29124",
+            "airport_ident": "EGDN",
+            "length_ft": "2099",
+            "width_ft": "",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "253792",
+            "airport_ref": "29124",
+            "airport_ident": "EGDN",
+            "length_ft": "3582",
+            "width_ft": "",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "416",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "445",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71956",
+            "airport_ref": "29124",
+            "airport_ident": "EGDN",
+            "type": "A/G",
+            "description": "Netheravon A/G",
+            "frequency_mhz": "128.3"
+        },
+        {
+            "id": "71957",
+            "airport_ref": "29124",
+            "airport_ident": "EGDN",
+            "type": "AFIS",
+            "description": "Netheravon AFIS",
+            "frequency_mhz": "128.3"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

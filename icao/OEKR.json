@@ -1,0 +1,104 @@
+{
+    "id": "5100",
+    "ident": "OEKR",
+    "type": "small_airport",
+    "name": "Old Khurais Airport",
+    "latitude_deg": "25.069599",
+    "longitude_deg": "48.194901",
+    "elevation_ft": "1300",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-04",
+    "municipality": "Khurais oil field",
+    "scheduled_service": "no",
+    "gps_code": "OEKR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Khurais_Airport_(old)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238621",
+            "airport_ref": "5100",
+            "airport_ident": "OEKR",
+            "length_ft": "6250",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "25.0777",
+            "le_longitude_deg": "48.1921",
+            "le_elevation_ft": "1300",
+            "le_heading_degT": "162.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "25.0614",
+            "he_longitude_deg": "48.1978",
+            "he_elevation_ft": "1300",
+            "he_heading_degT": "342.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56867",
+            "airport_ref": "5100",
+            "airport_ident": "OEKR",
+            "type": "A/G",
+            "description": "AG",
+            "frequency_mhz": "138.22"
+        },
+        {
+            "id": "56868",
+            "airport_ref": "5100",
+            "airport_ident": "OEKR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305363",
+        "code": "SA-04",
+        "local_code": "04",
+        "name": "Ash Sharqiyah Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ash_Sharqiyah_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89765",
+            "filename": "Khurais_NDB_SA",
+            "ident": "KHA",
+            "name": "Khurais",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "25.066699981689453",
+            "longitude_deg": "48.19499969482422",
+            "elevation_ft": "",
+            "iso_country": "SA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.181",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OEKR"
+        }
+    ]
+}

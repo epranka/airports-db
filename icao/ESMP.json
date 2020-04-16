@@ -1,0 +1,72 @@
+{
+    "id": "2667",
+    "ident": "ESMP",
+    "type": "small_airport",
+    "name": "Anderstorp Airport",
+    "latitude_deg": "57.264198303222656",
+    "longitude_deg": "13.59939956665039",
+    "elevation_ft": "507",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-F",
+    "municipality": "Anderstorp",
+    "scheduled_service": "no",
+    "gps_code": "ESMP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239056",
+            "airport_ref": "2667",
+            "airport_ident": "ESMP",
+            "length_ft": "3281",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "57.2604",
+            "le_longitude_deg": "13.5951",
+            "le_elevation_ft": "499",
+            "le_heading_degT": "32.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "57.2679",
+            "he_longitude_deg": "13.6038",
+            "he_elevation_ft": "507",
+            "he_heading_degT": "212.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57494",
+            "airport_ref": "2667",
+            "airport_ident": "ESMP",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "123.42"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305417",
+        "code": "SE-F",
+        "local_code": "F",
+        "name": "Jönköpings län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jönköpings_län",
+        "keywords": "Jönköping County"
+    }
+}

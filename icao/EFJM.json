@@ -1,0 +1,102 @@
+{
+    "id": "27254",
+    "ident": "EFJM",
+    "type": "small_airport",
+    "name": "Jämijärvi Airport",
+    "latitude_deg": "61.7785987854",
+    "longitude_deg": "22.716100692699996",
+    "elevation_ft": "505",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-LS",
+    "municipality": "Jämijärvi",
+    "scheduled_service": "no",
+    "gps_code": "EFJM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/J%C3%A4mij%C3%A4rvi_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310730",
+            "airport_ref": "27254",
+            "airport_ident": "EFJM",
+            "length_ft": "2723",
+            "width_ft": "59",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "61.7816",
+            "le_longitude_deg": "22.7019",
+            "le_elevation_ft": "505",
+            "le_heading_degT": "94.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "61.7811",
+            "he_longitude_deg": "22.7184",
+            "he_elevation_ft": "505",
+            "he_heading_degT": "274.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "310731",
+            "airport_ref": "27254",
+            "airport_ident": "EFJM",
+            "length_ft": "2723",
+            "width_ft": "49",
+            "surface": "Oilgravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "61.7778",
+            "le_longitude_deg": "22.7146",
+            "le_elevation_ft": "505",
+            "le_heading_degT": "153.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "61.7711",
+            "he_longitude_deg": "22.7216",
+            "he_elevation_ft": "505",
+            "he_heading_degT": "333.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310733",
+            "airport_ref": "27254",
+            "airport_ident": "EFJM",
+            "type": "ACC Sector",
+            "description": "Tampere radar",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "310732",
+            "airport_ref": "27254",
+            "airport_ident": "EFJM",
+            "type": "RDO",
+            "description": "Jämijärvi traffic",
+            "frequency_mhz": "123.65"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303803",
+        "code": "FI-LS",
+        "local_code": "LS",
+        "name": "Western Finland",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Finland",
+        "keywords": "Länsi-Suomen lääni, Västra Finlands län"
+    }
+}

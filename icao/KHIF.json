@@ -1,0 +1,206 @@
+{
+    "id": "3580",
+    "ident": "KHIF",
+    "type": "medium_airport",
+    "name": "Hill Air Force Base",
+    "latitude_deg": "41.12403",
+    "longitude_deg": "-111.973086",
+    "elevation_ft": "4789",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Ogden",
+    "scheduled_service": "no",
+    "gps_code": "KHIF",
+    "iata_code": "HIF",
+    "local_code": "HIF",
+    "home_link": "http://www.hill.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hill_Air_Force_Base",
+    "keywords": "Hill Field",
+    "runways": [
+        {
+            "id": "242560",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "length_ft": "13508",
+            "width_ft": "200",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "41.1404",
+            "le_longitude_deg": "-111.984",
+            "le_elevation_ft": "4783",
+            "le_heading_degT": "152.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "41.1075",
+            "he_longitude_deg": "-111.962",
+            "he_elevation_ft": "4780",
+            "he_heading_degT": "332.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64193",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "APP",
+            "description": "SALT LAKE CITY APP",
+            "frequency_mhz": "25.787"
+        },
+        {
+            "id": "64194",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "APP",
+            "description": "SALT LAKE CITY APP",
+            "frequency_mhz": "31.925"
+        },
+        {
+            "id": "64192",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "APP",
+            "description": "SALT LAKE CITY APP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "64195",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.925"
+        },
+        {
+            "id": "64196",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "64197",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "DEP",
+            "description": "SALT LAKE CITY DEP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "64198",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "64199",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "OPS",
+            "description": "419 OPS",
+            "frequency_mhz": "25.21"
+        },
+        {
+            "id": "64200",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.23"
+        },
+        {
+            "id": "64201",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "38.13"
+        },
+        {
+            "id": "64202",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "139.3"
+        },
+        {
+            "id": "64203",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.15"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306121",
+        "code": "US-UT",
+        "local_code": "UT",
+        "name": "Utah",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88843",
+            "filename": "Hill_TACAN_US",
+            "ident": "HIF",
+            "name": "Hill",
+            "type": "TACAN",
+            "frequency_khz": "111200",
+            "latitude_deg": "41.12049865722656",
+            "longitude_deg": "-111.96399688720703",
+            "elevation_ft": "4806",
+            "iso_country": "US",
+            "dme_frequency_khz": "111200",
+            "dme_channel": "049X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.001",
+            "magnetic_variation_deg": "12.557",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KHIF"
+        },
+        {
+            "id": "91927",
+            "filename": "Ogden_VORTAC_US",
+            "ident": "OGD",
+            "name": "Ogden",
+            "type": "VORTAC",
+            "frequency_khz": "115700",
+            "latitude_deg": "41.224098205566406",
+            "longitude_deg": "-112.0979995727539",
+            "elevation_ft": "4223",
+            "iso_country": "US",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.001",
+            "magnetic_variation_deg": "13",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KHIF"
+        }
+    ]
+}

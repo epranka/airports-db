@@ -1,0 +1,96 @@
+{
+    "id": "26753",
+    "ident": "WADT",
+    "type": "small_airport",
+    "name": "Tambolaka Airport",
+    "latitude_deg": "-9.40972",
+    "longitude_deg": "119.244003",
+    "elevation_ft": "161",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-NT",
+    "municipality": "Waikabubak-Sumba Island",
+    "scheduled_service": "yes",
+    "gps_code": "WATK",
+    "iata_code": "TMC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tambolaka_Airport",
+    "keywords": "WRRT, WADT",
+    "runways": [
+        {
+            "id": "236521",
+            "airport_ref": "26753",
+            "airport_ident": "WADT",
+            "length_ft": "5905",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-9.40838",
+            "le_longitude_deg": "119.236",
+            "le_elevation_ft": "",
+            "le_heading_degT": "99.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "-9.41105",
+            "he_longitude_deg": "119.253",
+            "he_elevation_ft": "",
+            "he_heading_degT": "279.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53656",
+            "airport_ref": "26753",
+            "airport_ident": "WADT",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304117",
+        "code": "ID-NT",
+        "local_code": "NT",
+        "name": "Nusa Tenggara Timur",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95432",
+            "filename": "Waikabubak_NDB_ID",
+            "ident": "WK",
+            "name": "Waikabubak",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "-9.41353988647461",
+            "longitude_deg": "119.2490005493164",
+            "elevation_ft": "161",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.562",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WADT"
+        }
+    ]
+}

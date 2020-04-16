@@ -1,0 +1,126 @@
+{
+    "id": "20655",
+    "ident": "KNRS",
+    "type": "small_airport",
+    "name": "Naval Outlying Field Imperial Beach (Ream Field)",
+    "latitude_deg": "32.56669998",
+    "longitude_deg": "-117.1169968",
+    "elevation_ft": "24",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Imperial Beach",
+    "scheduled_service": "no",
+    "gps_code": "KNRS",
+    "iata_code": "NRS",
+    "local_code": "NRS",
+    "home_link": "https://www.basedirectory.com/nolf-imperial-beach-directory",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Main_Page",
+    "keywords": "NAAS Imperial Beach, NAS Imperial Beach",
+    "runways": [
+        {
+            "id": "244275",
+            "airport_ref": "20655",
+            "airport_ident": "KNRS",
+            "length_ft": "2241",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "32.567",
+            "le_longitude_deg": "-117.114",
+            "le_elevation_ft": "24",
+            "le_heading_degT": "105.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "32.5654",
+            "he_longitude_deg": "-117.107",
+            "he_elevation_ft": "21",
+            "he_heading_degT": "285.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244276",
+            "airport_ref": "20655",
+            "airport_ident": "KNRS",
+            "length_ft": "4999",
+            "width_ft": "340",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "32.5679",
+            "le_longitude_deg": "-117.123",
+            "le_elevation_ft": "24",
+            "le_heading_degT": "105.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "32.5644",
+            "he_longitude_deg": "-117.107",
+            "he_elevation_ft": "24",
+            "he_heading_degT": "285.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67756",
+            "airport_ref": "20655",
+            "airport_ident": "KNRS",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "125.15"
+        },
+        {
+            "id": "67757",
+            "airport_ref": "20655",
+            "airport_ident": "KNRS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "27.62"
+        },
+        {
+            "id": "67758",
+            "airport_ref": "20655",
+            "airport_ident": "KNRS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "28.557"
+        },
+        {
+            "id": "67759",
+            "airport_ref": "20655",
+            "airport_ident": "KNRS",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "31.88"
+        },
+        {
+            "id": "67760",
+            "airport_ref": "20655",
+            "airport_ident": "KNRS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.65"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

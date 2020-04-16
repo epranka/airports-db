@@ -1,0 +1,102 @@
+{
+    "id": "29500",
+    "ident": "LSGY",
+    "type": "small_airport",
+    "name": "Yverdon-les-Bains Airport",
+    "latitude_deg": "46.7619018555",
+    "longitude_deg": "6.61332988739",
+    "elevation_ft": "1421",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-VD",
+    "municipality": "Yverdon-les-Bains",
+    "scheduled_service": "no",
+    "gps_code": "LSGY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.lsgy.ch",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "251513",
+            "airport_ref": "29500",
+            "airport_ident": "LSGY",
+            "length_ft": "2844",
+            "width_ft": "59",
+            "surface": "ASPH",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "1421",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "1421",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "263458",
+            "airport_ref": "29500",
+            "airport_ident": "LSGY",
+            "length_ft": "2379",
+            "width_ft": "66",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05R",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23L",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75248",
+            "airport_ref": "29500",
+            "airport_ident": "LSGY",
+            "type": "AFIS",
+            "description": "Yverdon aerodrome (fr,en)",
+            "frequency_mhz": "131.125"
+        },
+        {
+            "id": "302421",
+            "airport_ref": "29500",
+            "airport_ident": "LSGY",
+            "type": "FIS",
+            "description": "Geneva Infromation (en,fr)",
+            "frequency_mhz": "126.35"
+        }
+    ],
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303375",
+        "code": "CH-VD",
+        "local_code": "VD",
+        "name": "Canton of Vaud",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vaud",
+        "keywords": ""
+    }
+}

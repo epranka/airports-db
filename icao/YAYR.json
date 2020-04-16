@@ -1,0 +1,102 @@
+{
+    "id": "26896",
+    "ident": "YAYR",
+    "type": "small_airport",
+    "name": "Ayr Airport",
+    "latitude_deg": "-19.584400177001953",
+    "longitude_deg": "147.32899475097656",
+    "elevation_ft": "41",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YAYR",
+    "iata_code": "AYR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233486",
+            "airport_ref": "26896",
+            "airport_ident": "YAYR",
+            "length_ft": "4796",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-19.5981",
+            "le_longitude_deg": "147.324",
+            "le_elevation_ft": "",
+            "le_heading_degT": "22",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-19.5858",
+            "he_longitude_deg": "147.329",
+            "he_elevation_ft": "",
+            "he_heading_degT": "202",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "233487",
+            "airport_ref": "26896",
+            "airport_ident": "YAYR",
+            "length_ft": "3697",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "115.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "295.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49117",
+            "airport_ref": "26896",
+            "airport_ident": "YAYR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49118",
+            "airport_ref": "26896",
+            "airport_ident": "YAYR",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "120.55"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

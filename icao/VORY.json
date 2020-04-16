@@ -1,0 +1,96 @@
+{
+    "id": "26623",
+    "ident": "VORY",
+    "type": "medium_airport",
+    "name": "Rajahmundry Airport",
+    "latitude_deg": "17.1103992462",
+    "longitude_deg": "81.81819915770001",
+    "elevation_ft": "151",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-AP",
+    "municipality": "Rajahmundry",
+    "scheduled_service": "yes",
+    "gps_code": "VORY",
+    "iata_code": "RJA",
+    "local_code": "",
+    "home_link": "http://aai.aero/allAirports/rajahmundry_generalinfo.jsp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rajahmundry_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236720",
+            "airport_ref": "26623",
+            "airport_ident": "VORY",
+            "length_ft": "5710",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "17.1057",
+            "le_longitude_deg": "81.8116",
+            "le_elevation_ft": "146",
+            "le_heading_degT": "53.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "17.115",
+            "he_longitude_deg": "81.8248",
+            "he_elevation_ft": "146",
+            "he_heading_degT": "233.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53898",
+            "airport_ref": "26623",
+            "airport_ident": "VORY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304165",
+        "code": "IN-AP",
+        "local_code": "AP",
+        "name": "Andhra Pradesh",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andhra_Pradesh",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93305",
+            "filename": "Rajahmundry_NDB_IN",
+            "ident": "RY",
+            "name": "Rajahmundry",
+            "type": "NDB",
+            "frequency_khz": "366",
+            "latitude_deg": "17.109699249267578",
+            "longitude_deg": "81.81990051269531",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.115",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VORY"
+        }
+    ]
+}

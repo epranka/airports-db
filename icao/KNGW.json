@@ -1,0 +1,102 @@
+{
+    "id": "20641",
+    "ident": "KNGW",
+    "type": "small_airport",
+    "name": "Cabaniss Field Nolf Airport",
+    "latitude_deg": "27.700300216674805",
+    "longitude_deg": "-97.43440246582031",
+    "elevation_ft": "30",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Corpus Christi",
+    "scheduled_service": "no",
+    "gps_code": "KNGW",
+    "iata_code": "",
+    "local_code": "NGW",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243562",
+            "airport_ref": "20641",
+            "airport_ident": "KNGW",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "27.7061",
+            "le_longitude_deg": "-97.4431",
+            "le_elevation_ft": "29",
+            "le_heading_degT": "133",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "27.6967",
+            "he_longitude_deg": "-97.4317",
+            "he_elevation_ft": "22",
+            "he_heading_degT": "313",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243563",
+            "airport_ref": "20641",
+            "airport_ident": "KNGW",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "27.7106",
+            "le_longitude_deg": "-97.4403",
+            "le_elevation_ft": "",
+            "le_heading_degT": "178.9",
+            "le_displaced_threshold_ft": "500",
+            "he_ident": "35",
+            "he_latitude_deg": "27.6972",
+            "he_longitude_deg": "-97.44",
+            "he_elevation_ft": "23",
+            "he_heading_degT": "358.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66270",
+            "airport_ref": "20641",
+            "airport_ident": "KNGW",
+            "type": "A/D",
+            "description": "CORPUS APP/DEP",
+            "frequency_mhz": "125.4"
+        },
+        {
+            "id": "66271",
+            "airport_ref": "20641",
+            "airport_ident": "KNGW",
+            "type": "TWR",
+            "description": "NAVY CABANISS TWR",
+            "frequency_mhz": "119.65"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

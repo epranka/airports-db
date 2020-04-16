@@ -1,0 +1,80 @@
+{
+    "id": "20835",
+    "ident": "KPJY",
+    "type": "small_airport",
+    "name": "Pinckneyville Du Quoin Airport",
+    "latitude_deg": "37.977901458740234",
+    "longitude_deg": "-89.3604965209961",
+    "elevation_ft": "400",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Pinckneyville",
+    "scheduled_service": "no",
+    "gps_code": "KPJY",
+    "iata_code": "",
+    "local_code": "PJY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243642",
+            "airport_ref": "20835",
+            "airport_ident": "KPJY",
+            "length_ft": "4000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "37.9834",
+            "le_longitude_deg": "-89.3603",
+            "le_elevation_ft": "400",
+            "le_heading_degT": "181.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "37.9724",
+            "he_longitude_deg": "-89.3606",
+            "he_elevation_ft": "394",
+            "he_heading_degT": "1.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66444",
+            "airport_ref": "20835",
+            "airport_ident": "KPJY",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "66445",
+            "airport_ref": "20835",
+            "airport_ident": "KPJY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

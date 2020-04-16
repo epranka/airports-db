@@ -1,0 +1,80 @@
+{
+    "id": "19776",
+    "ident": "KETN",
+    "type": "small_airport",
+    "name": "Eastland Municipal Airport",
+    "latitude_deg": "32.4135017395",
+    "longitude_deg": "-98.80979919430001",
+    "elevation_ft": "1464",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Eastland",
+    "scheduled_service": "no",
+    "gps_code": "KETN",
+    "iata_code": "ETN",
+    "local_code": "ETN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245156",
+            "airport_ref": "19776",
+            "airport_ident": "KETN",
+            "length_ft": "4020",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "32.4191",
+            "le_longitude_deg": "-98.8095",
+            "le_elevation_ft": "1464",
+            "le_heading_degT": "181.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "32.408",
+            "he_longitude_deg": "-98.81",
+            "he_elevation_ft": "1445",
+            "he_heading_degT": "1.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69692",
+            "airport_ref": "19776",
+            "airport_ident": "KETN",
+            "type": "A/D",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "127.15"
+        },
+        {
+            "id": "69693",
+            "airport_ref": "19776",
+            "airport_ident": "KETN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

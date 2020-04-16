@@ -1,0 +1,120 @@
+{
+    "id": "5381",
+    "ident": "PAKP",
+    "type": "medium_airport",
+    "name": "Anaktuvuk Pass Airport",
+    "latitude_deg": "68.13359833",
+    "longitude_deg": "-151.7429962",
+    "elevation_ft": "2102",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Anaktuvuk Pass",
+    "scheduled_service": "no",
+    "gps_code": "PAKP",
+    "iata_code": "AKP",
+    "local_code": "AKP",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Anaktuvuk_Pass_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "257964",
+            "airport_ref": "5381",
+            "airport_ident": "PAKP",
+            "length_ft": "4800",
+            "width_ft": "100",
+            "surface": "GRAVEL-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "68.1285",
+            "le_longitude_deg": "-151.754",
+            "le_elevation_ft": "2048",
+            "le_heading_degT": "38",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "68.1387",
+            "he_longitude_deg": "-151.732",
+            "he_elevation_ft": "2102",
+            "he_heading_degT": "218",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58629",
+            "airport_ref": "5381",
+            "airport_ident": "PAKP",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.75"
+        },
+        {
+            "id": "58630",
+            "airport_ref": "5381",
+            "airport_ident": "PAKP",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "58631",
+            "airport_ref": "5381",
+            "airport_ident": "PAKP",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "58632",
+            "airport_ref": "5381",
+            "airport_ident": "PAKP",
+            "type": "FSS",
+            "description": "DEADHORSE RDO",
+            "frequency_mhz": "122.15"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85373",
+            "filename": "Anaktuvuk_Pass_NDB_US",
+            "ident": "AKP",
+            "name": "Anaktuvuk Pass",
+            "type": "NDB",
+            "frequency_khz": "348",
+            "latitude_deg": "68.1365966796875",
+            "longitude_deg": "-151.74400329589844",
+            "elevation_ft": "2085",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "22.018",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "PAKP"
+        }
+    ]
+}

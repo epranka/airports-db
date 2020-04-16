@@ -1,0 +1,142 @@
+{
+    "id": "26812",
+    "ident": "WBGS",
+    "type": "medium_airport",
+    "name": "Sibu Airport",
+    "latitude_deg": "2.2616000175476074",
+    "longitude_deg": "111.98500061035156",
+    "elevation_ft": "122",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-13",
+    "municipality": "Sibu",
+    "scheduled_service": "yes",
+    "gps_code": "WBGS",
+    "iata_code": "SBW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sibu_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237818",
+            "airport_ref": "26812",
+            "airport_ident": "WBGS",
+            "length_ft": "9036",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "2.26965",
+            "le_longitude_deg": "111.976",
+            "le_elevation_ft": "92",
+            "le_heading_degT": "130.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "2.25356",
+            "he_longitude_deg": "111.995",
+            "he_elevation_ft": "116",
+            "he_heading_degT": "310.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55588",
+            "airport_ref": "26812",
+            "airport_ident": "WBGS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "55589",
+            "airport_ref": "26812",
+            "airport_ident": "WBGS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.65"
+        },
+        {
+            "id": "55590",
+            "airport_ref": "26812",
+            "airport_ident": "WBGS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "55591",
+            "airport_ref": "26812",
+            "airport_ident": "WBGS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.6"
+        }
+    ],
+    "country": {
+        "id": "302653",
+        "code": "MY",
+        "name": "Malaysia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
+        "keywords": "Lapangan Terbang Malaysia"
+    },
+    "region": {
+        "id": "304835",
+        "code": "MY-13",
+        "local_code": "13",
+        "name": "Sarawak",
+        "continent": "AS",
+        "iso_country": "MY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sarawak",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91580",
+            "filename": "Sibu_NDB_MY",
+            "ident": "NIS",
+            "name": "Sibu",
+            "type": "NDB",
+            "frequency_khz": "203",
+            "latitude_deg": "2.2481400966644287",
+            "longitude_deg": "112.00199890136719",
+            "elevation_ft": "",
+            "iso_country": "MY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.447",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WBGS"
+        },
+        {
+            "id": "95280",
+            "filename": "Sibu_VOR-DME_MY",
+            "ident": "VSI",
+            "name": "Sibu",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "2.246809959411621",
+            "longitude_deg": "112.00299835205078",
+            "elevation_ft": "122",
+            "iso_country": "MY",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.447",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WBGS"
+        }
+    ]
+}

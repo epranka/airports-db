@@ -1,0 +1,150 @@
+{
+    "id": "27133",
+    "ident": "YSCN",
+    "type": "medium_airport",
+    "name": "Camden Airport",
+    "latitude_deg": "-34.04029846191406",
+    "longitude_deg": "150.68699645996094",
+    "elevation_ft": "230",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YSCN",
+    "iata_code": "CDU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Camden_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233298",
+            "airport_ref": "27133",
+            "airport_ident": "YSCN",
+            "length_ft": "4804",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-34.0406",
+            "le_longitude_deg": "150.681",
+            "le_elevation_ft": "221",
+            "le_heading_degT": "65",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "-34.035",
+            "he_longitude_deg": "150.695",
+            "he_elevation_ft": "230",
+            "he_heading_degT": "245",
+            "he_displaced_threshold_ft": "1408"
+        },
+        {
+            "id": "233299",
+            "airport_ref": "27133",
+            "airport_ident": "YSCN",
+            "length_ft": "2372",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-34.0415",
+            "le_longitude_deg": "150.682",
+            "le_elevation_ft": "221",
+            "le_heading_degT": "111",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "-34.0438",
+            "he_longitude_deg": "150.689",
+            "he_elevation_ft": "225",
+            "he_heading_degT": "291",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48824",
+            "airport_ref": "27133",
+            "airport_ident": "YSCN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "48825",
+            "airport_ref": "27133",
+            "airport_ident": "YSCN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "48826",
+            "airport_ref": "27133",
+            "airport_ident": "YSCN",
+            "type": "FSS",
+            "description": "SYDNEY RADAR",
+            "frequency_mhz": "124.55"
+        },
+        {
+            "id": "48827",
+            "airport_ref": "27133",
+            "airport_ident": "YSCN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "48828",
+            "airport_ref": "27133",
+            "airport_ident": "YSCN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.1"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86894",
+            "filename": "Camden_NDB_AU",
+            "ident": "CN",
+            "name": "Camden",
+            "type": "NDB",
+            "frequency_khz": "281",
+            "latitude_deg": "-34.03860092163086",
+            "longitude_deg": "150.69200134277344",
+            "elevation_ft": "228",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.304",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YSCN"
+        }
+    ]
+}

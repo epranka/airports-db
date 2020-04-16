@@ -1,0 +1,126 @@
+{
+    "id": "19519",
+    "ident": "KCMY",
+    "type": "small_airport",
+    "name": "Sparta Fort Mc Coy Airport",
+    "latitude_deg": "43.958302",
+    "longitude_deg": "-90.7379",
+    "elevation_ft": "837",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Sparta",
+    "scheduled_service": "no",
+    "gps_code": "KCMY",
+    "iata_code": "CMY",
+    "local_code": "CMY",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sparta/Fort_McCoy_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242960",
+            "airport_ref": "19519",
+            "airport_ident": "KCMY",
+            "length_ft": "4295",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "43.9511",
+            "le_longitude_deg": "-90.7402",
+            "le_elevation_ft": "836",
+            "le_heading_degT": "15",
+            "le_displaced_threshold_ft": "1375",
+            "he_ident": "19",
+            "he_latitude_deg": "43.9625",
+            "he_longitude_deg": "-90.7359",
+            "he_elevation_ft": "837",
+            "he_heading_degT": "195",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242961",
+            "airport_ref": "19519",
+            "airport_ident": "KCMY",
+            "length_ft": "4708",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "43.962",
+            "le_longitude_deg": "-90.7451",
+            "le_elevation_ft": "830",
+            "le_heading_degT": "112",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "43.9573",
+            "he_longitude_deg": "-90.7294",
+            "he_elevation_ft": "832",
+            "he_heading_degT": "292",
+            "he_displaced_threshold_ft": "425"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65011",
+            "airport_ref": "19519",
+            "airport_ident": "KCMY",
+            "type": "A/D",
+            "description": "VOLK APP/DEP",
+            "frequency_mhz": "135.25"
+        },
+        {
+            "id": "65012",
+            "airport_ref": "19519",
+            "airport_ident": "KCMY",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "65013",
+            "airport_ref": "19519",
+            "airport_ident": "KCMY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "65014",
+            "airport_ref": "19519",
+            "airport_ident": "KCMY",
+            "type": "MISC",
+            "description": "RANGE",
+            "frequency_mhz": "41.9"
+        },
+        {
+            "id": "65015",
+            "airport_ref": "19519",
+            "airport_ident": "KCMY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "38.5"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

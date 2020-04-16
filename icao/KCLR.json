@@ -1,0 +1,80 @@
+{
+    "id": "19514",
+    "ident": "KCLR",
+    "type": "small_airport",
+    "name": "Cliff Hatfield Memorial Airport",
+    "latitude_deg": "33.131500244099996",
+    "longitude_deg": "-115.521003723",
+    "elevation_ft": "-182",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Calipatria",
+    "scheduled_service": "no",
+    "gps_code": "KCLR",
+    "iata_code": "CLR",
+    "local_code": "CLR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cliff_Hatfield_Memorial_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245994",
+            "airport_ref": "19514",
+            "airport_ident": "KCLR",
+            "length_ft": "3423",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "33.1314",
+            "le_longitude_deg": "-115.527",
+            "le_elevation_ft": "-184",
+            "le_heading_degT": "90.7",
+            "le_displaced_threshold_ft": "120",
+            "he_ident": "26",
+            "he_latitude_deg": "33.1313",
+            "he_longitude_deg": "-115.516",
+            "he_elevation_ft": "-181",
+            "he_heading_degT": "270.7",
+            "he_displaced_threshold_ft": "229"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71508",
+            "airport_ref": "19514",
+            "airport_ident": "KCLR",
+            "type": "ARTC",
+            "description": "LOS ANGELES CNTR",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "71509",
+            "airport_ref": "19514",
+            "airport_ident": "KCLR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

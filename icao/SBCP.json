@@ -1,0 +1,96 @@
+{
+    "id": "5889",
+    "ident": "SBCP",
+    "type": "medium_airport",
+    "name": "Bartolomeu Lisandro Airport",
+    "latitude_deg": "-21.698299408",
+    "longitude_deg": "-41.301700592",
+    "elevation_ft": "57",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Campos Dos Goytacazes",
+    "scheduled_service": "yes",
+    "gps_code": "SBCP",
+    "iata_code": "CAW",
+    "local_code": "",
+    "home_link": "http://www.infraero.gov.br/index.php/aeroportos/rio-de-janeiro/aeroporto-de-bartolomeu-lisandro.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bartolomeu_Lysandro_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234131",
+            "airport_ref": "5889",
+            "airport_ident": "SBCP",
+            "length_ft": "5066",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "7",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49686",
+            "airport_ref": "5889",
+            "airport_ident": "SBCP",
+            "type": "AFIS",
+            "description": "CAMPOS RDO",
+            "frequency_mhz": "125.7"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303217",
+        "code": "BR-RJ",
+        "local_code": "RJ",
+        "name": "Rio de Janeiro",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86996",
+            "filename": "Campos_NDB_BR",
+            "ident": "CPO",
+            "name": "Campos",
+            "type": "NDB",
+            "frequency_khz": "225",
+            "latitude_deg": "-21.69729995727539",
+            "longitude_deg": "-41.30670166015625",
+            "elevation_ft": "56",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.284",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBCP"
+        }
+    ]
+}

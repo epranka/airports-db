@@ -1,0 +1,80 @@
+{
+    "id": "27247",
+    "ident": "EFAL",
+    "type": "small_airport",
+    "name": "Alavus Airport",
+    "latitude_deg": "62.5546989440918",
+    "longitude_deg": "23.573299407958984",
+    "elevation_ft": "407",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-LS",
+    "municipality": "Alavus",
+    "scheduled_service": "no",
+    "gps_code": "EFAL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310757",
+            "airport_ref": "27247",
+            "airport_ident": "EFAL",
+            "length_ft": "2460",
+            "width_ft": "59",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "62.5541",
+            "le_longitude_deg": "23.5634",
+            "le_elevation_ft": "407",
+            "le_heading_degT": "79.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "62.5553",
+            "he_longitude_deg": "23.5782",
+            "he_elevation_ft": "407",
+            "he_heading_degT": "259.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310755",
+            "airport_ref": "27247",
+            "airport_ident": "EFAL",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "310754",
+            "airport_ref": "27247",
+            "airport_ident": "EFAL",
+            "type": "RDO",
+            "description": "Alavus traffic",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303803",
+        "code": "FI-LS",
+        "local_code": "LS",
+        "name": "Western Finland",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Finland",
+        "keywords": "Länsi-Suomen lääni, Västra Finlands län"
+    }
+}

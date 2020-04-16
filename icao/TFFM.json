@@ -1,0 +1,104 @@
+{
+    "id": "6365",
+    "ident": "TFFM",
+    "type": "medium_airport",
+    "name": "Les Bases Airport",
+    "latitude_deg": "15.86870002746582",
+    "longitude_deg": "-61.27000045776367",
+    "elevation_ft": "16",
+    "continent": "NA",
+    "iso_country": "GP",
+    "iso_region": "GP-U-A",
+    "municipality": "Grand Bourg",
+    "scheduled_service": "yes",
+    "gps_code": "TFFM",
+    "iata_code": "GBJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Marie Galante",
+    "runways": [
+        {
+            "id": "236324",
+            "airport_ref": "6365",
+            "airport_ident": "TFFM",
+            "length_ft": "4068",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "15.8676",
+            "le_longitude_deg": "-61.2758",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "78.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "15.8699",
+            "he_longitude_deg": "-61.2645",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "258.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53284",
+            "airport_ref": "6365",
+            "airport_ident": "TFFM",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "53285",
+            "airport_ref": "6365",
+            "airport_ident": "TFFM",
+            "type": "APP",
+            "description": "RAIZET APP",
+            "frequency_mhz": "121.3"
+        }
+    ],
+    "country": {
+        "id": "302737",
+        "code": "GP",
+        "name": "Guadeloupe",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guadeloupe",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303896",
+        "code": "GP-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "GP",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90902",
+            "filename": "Marie_Galante_NDB_GP",
+            "ident": "MG",
+            "name": "Marie Galante",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "15.869799613952637",
+            "longitude_deg": "-61.27090072631836",
+            "elevation_ft": "16",
+            "iso_country": "GP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.337",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "TFFM"
+        }
+    ]
+}

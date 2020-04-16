@@ -1,0 +1,104 @@
+{
+    "id": "2691",
+    "ident": "ESNX",
+    "type": "medium_airport",
+    "name": "Arvidsjaur Airport",
+    "latitude_deg": "65.59030151367188",
+    "longitude_deg": "19.28190040588379",
+    "elevation_ft": "1245",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-BD",
+    "municipality": "Arvidsjaur",
+    "scheduled_service": "yes",
+    "gps_code": "ESNX",
+    "iata_code": "AJR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Arvidsjaur_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238985",
+            "airport_ref": "2691",
+            "airport_ident": "ESNX",
+            "length_ft": "8201",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "65.5986",
+            "le_longitude_deg": "19.2562",
+            "le_elevation_ft": "1241",
+            "le_heading_degT": "128.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "65.5847",
+            "he_longitude_deg": "19.2988",
+            "he_elevation_ft": "1240",
+            "he_heading_degT": "308.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57400",
+            "airport_ref": "2691",
+            "airport_ident": "ESNX",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "123"
+        },
+        {
+            "id": "57401",
+            "airport_ref": "2691",
+            "airport_ident": "ESNX",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305413",
+        "code": "SE-BD",
+        "local_code": "BD",
+        "name": "Norrbottena län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norrbottena_län",
+        "keywords": "Norrbotten County"
+    },
+    "navaids": [
+        {
+            "id": "85474",
+            "filename": "Arvidsjaur_NDB_SE",
+            "ident": "AN",
+            "name": "Arvidsjaur",
+            "type": "NDB",
+            "frequency_khz": "381",
+            "latitude_deg": "65.63390350341797",
+            "longitude_deg": "19.14299964904785",
+            "elevation_ft": "",
+            "iso_country": "SE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.398",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "ESNX"
+        }
+    ]
+}

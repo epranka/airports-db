@@ -1,0 +1,96 @@
+{
+    "id": "5201",
+    "ident": "OITM",
+    "type": "small_airport",
+    "name": "Sahand Airport",
+    "latitude_deg": "37.347999572753906",
+    "longitude_deg": "46.127899169921875",
+    "elevation_ft": "4396",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-01",
+    "municipality": "Maragheh",
+    "scheduled_service": "no",
+    "gps_code": "OITM",
+    "iata_code": "ACP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sahand_Airport",
+    "keywords": "Maragheh Highway Strip",
+    "runways": [
+        {
+            "id": "236888",
+            "airport_ref": "5201",
+            "airport_ident": "OITM",
+            "length_ft": "9614",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "37.3469",
+            "le_longitude_deg": "46.1114",
+            "le_elevation_ft": "4310",
+            "le_heading_degT": "85",
+            "le_displaced_threshold_ft": "1148",
+            "he_ident": "26",
+            "he_latitude_deg": "37.3492",
+            "he_longitude_deg": "46.1444",
+            "he_elevation_ft": "4310",
+            "he_heading_degT": "265",
+            "he_displaced_threshold_ft": "1509"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54050",
+            "airport_ref": "5201",
+            "airport_ident": "OITM",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "127.45"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304219",
+        "code": "IR-01",
+        "local_code": "01",
+        "name": "East Azarbaijan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/East_Azarbaijan_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93580",
+            "filename": "Sahand_NDB-DME_IR",
+            "ident": "SHD",
+            "name": "Sahand",
+            "type": "NDB-DME",
+            "frequency_khz": "363",
+            "latitude_deg": "37.34600067138672",
+            "longitude_deg": "46.1427001953125",
+            "elevation_ft": "4382",
+            "iso_country": "IR",
+            "dme_frequency_khz": "116000",
+            "dme_channel": "107X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.382",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "OITM"
+        }
+    ]
+}

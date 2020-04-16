@@ -1,0 +1,72 @@
+{
+    "id": "4412",
+    "ident": "LLBS",
+    "type": "small_airport",
+    "name": "Beersheba (Teyman) Airport",
+    "latitude_deg": "31.287000656128",
+    "longitude_deg": "34.722999572754",
+    "elevation_ft": "656",
+    "continent": "AS",
+    "iso_country": "IL",
+    "iso_region": "IL-D",
+    "municipality": "Beersheba",
+    "scheduled_service": "no",
+    "gps_code": "LLBS",
+    "iata_code": "BEV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Be'er_Sheva_(Teyman)_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236939",
+            "airport_ref": "4412",
+            "airport_ident": "LLBS",
+            "length_ft": "3384",
+            "width_ft": "69",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "31.2904",
+            "le_longitude_deg": "34.7192",
+            "le_elevation_ft": "",
+            "le_heading_degT": "136.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "31.2836",
+            "he_longitude_deg": "34.7267",
+            "he_elevation_ft": "",
+            "he_heading_degT": "316.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54113",
+            "airport_ref": "4412",
+            "airport_ident": "LLBS",
+            "type": "APP",
+            "description": "TEL AVIV APP",
+            "frequency_mhz": "120.9"
+        }
+    ],
+    "country": {
+        "id": "302633",
+        "code": "IL",
+        "name": "Israel",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Israel",
+        "keywords": "שדות התעופה של ישראל"
+    },
+    "region": {
+        "id": "304156",
+        "code": "IL-D",
+        "local_code": "D",
+        "name": "Southern District",
+        "continent": "AS",
+        "iso_country": "IL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_District_(Israel)",
+        "keywords": "Mehoz HaDarom"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "2588",
+    "ident": "ENNO",
+    "type": "medium_airport",
+    "name": "Notodden Airport",
+    "latitude_deg": "59.565701",
+    "longitude_deg": "9.21222",
+    "elevation_ft": "63",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-08",
+    "municipality": "Notodden",
+    "scheduled_service": "yes",
+    "gps_code": "ENNO",
+    "iata_code": "NTB",
+    "local_code": "",
+    "home_link": "http://www.notodden-flyplass.no/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Notodden_Airport%2C_Tuven",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237979",
+            "airport_ref": "2588",
+            "airport_ident": "ENNO",
+            "length_ft": "4570",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "59.5695",
+            "le_longitude_deg": "9.20206",
+            "le_elevation_ft": "61",
+            "le_heading_degT": "127",
+            "le_displaced_threshold_ft": "2072",
+            "he_ident": "30",
+            "he_latitude_deg": "59.5619",
+            "he_longitude_deg": "9.22173",
+            "he_elevation_ft": "58",
+            "he_heading_degT": "307",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55859",
+            "airport_ref": "2588",
+            "airport_ident": "ENNO",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "304952",
+        "code": "NO-08",
+        "local_code": "08",
+        "name": "Telemark",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Telemark",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91739",
+            "filename": "Notodden_NDB_NO",
+            "ident": "NTD",
+            "name": "Notodden",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "59.587100982666016",
+            "longitude_deg": "9.144209861755371",
+            "elevation_ft": "65",
+            "iso_country": "NO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.318",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ENNO"
+        }
+    ]
+}

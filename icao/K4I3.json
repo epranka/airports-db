@@ -1,0 +1,104 @@
+{
+    "id": "18822",
+    "ident": "K4I3",
+    "type": "small_airport",
+    "name": "Knox County Airport",
+    "latitude_deg": "40.32870102",
+    "longitude_deg": "-82.52380371",
+    "elevation_ft": "1191",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Mount Vernon",
+    "scheduled_service": "no",
+    "gps_code": "K4I3",
+    "iata_code": "",
+    "local_code": "4I3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240819",
+            "airport_ref": "18822",
+            "airport_ident": "K4I3",
+            "length_ft": "5001",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "40.3296",
+            "le_longitude_deg": "-82.5327",
+            "le_elevation_ft": "1187",
+            "le_heading_degT": "97.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "40.3278",
+            "he_longitude_deg": "-82.5149",
+            "he_elevation_ft": "1183",
+            "he_heading_degT": "277.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60570",
+            "airport_ref": "18822",
+            "airport_ident": "K4I3",
+            "type": "A/D",
+            "description": "COLUMBUS APP/DEP",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "60571",
+            "airport_ref": "18822",
+            "airport_ident": "K4I3",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "60572",
+            "airport_ref": "18822",
+            "airport_ident": "K4I3",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.45"
+        },
+        {
+            "id": "60573",
+            "airport_ref": "18822",
+            "airport_ident": "K4I3",
+            "type": "RDO",
+            "description": "DAYTON RDO",
+            "frequency_mhz": "116.7"
+        },
+        {
+            "id": "60574",
+            "airport_ref": "18822",
+            "airport_ident": "K4I3",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

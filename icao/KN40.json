@@ -1,0 +1,88 @@
+{
+    "id": "20608",
+    "ident": "KN40",
+    "type": "small_airport",
+    "name": "Sky Manor Airport",
+    "latitude_deg": "40.56629943847656",
+    "longitude_deg": "-74.97859954833984",
+    "elevation_ft": "560",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Pittstown",
+    "scheduled_service": "no",
+    "gps_code": "KN40",
+    "iata_code": "",
+    "local_code": "N40",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sky_Manor_Airport_(New_Jersey)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240351",
+            "airport_ref": "20608",
+            "airport_ident": "KN40",
+            "length_ft": "2439",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "40.5643",
+            "le_longitude_deg": "-74.9822",
+            "le_elevation_ft": "551",
+            "le_heading_degT": "54.2",
+            "le_displaced_threshold_ft": "415",
+            "he_ident": "25",
+            "he_latitude_deg": "40.5682",
+            "he_longitude_deg": "-74.9751",
+            "he_elevation_ft": "558",
+            "he_heading_degT": "234.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59812",
+            "airport_ref": "20608",
+            "airport_ident": "KN40",
+            "type": "A/D",
+            "description": "ALLENTOWN APP/DEP",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "59813",
+            "airport_ref": "20608",
+            "airport_ident": "KN40",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "112.9"
+        },
+        {
+            "id": "59814",
+            "airport_ref": "20608",
+            "airport_ident": "KN40",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.975"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    }
+}

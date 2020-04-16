@@ -1,0 +1,198 @@
+{
+    "id": "5443",
+    "ident": "PHHI",
+    "type": "medium_airport",
+    "name": "Wheeler Army Airfield",
+    "latitude_deg": "21.48349953",
+    "longitude_deg": "-158.0399933",
+    "elevation_ft": "837",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Wahiawa",
+    "scheduled_service": "no",
+    "gps_code": "PHHI",
+    "iata_code": "HHI",
+    "local_code": "HHI",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wheeler_Army_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241078",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "length_ft": "5604",
+            "width_ft": "295",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "21.4805",
+            "le_longitude_deg": "-158.047",
+            "le_elevation_ft": "836",
+            "le_heading_degT": "67",
+            "le_displaced_threshold_ft": "584",
+            "he_ident": "24",
+            "he_latitude_deg": "21.4865",
+            "he_longitude_deg": "-158.032",
+            "he_elevation_ft": "836",
+            "he_heading_degT": "247",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61099",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "A/G",
+            "description": "VFR ADVSY SVC",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "61100",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "APP",
+            "description": "HONOLULU APP",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "61101",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.675"
+        },
+        {
+            "id": "61102",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.3"
+        },
+        {
+            "id": "61103",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "61104",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "41.5"
+        },
+        {
+            "id": "61105",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "INFO",
+            "description": "LIGHTNING RDO",
+            "frequency_mhz": "139.2"
+        },
+        {
+            "id": "61106",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "MISC",
+            "description": "PINEAPPLE",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "61107",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "61108",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "RDO",
+            "description": "HONOLULU RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "61109",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.3"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306087",
+        "code": "US-HI",
+        "local_code": "HI",
+        "name": "Hawaii",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88826",
+            "filename": "Wheeler_NDB_US",
+            "ident": "HHI",
+            "name": "Wheeler",
+            "type": "NDB",
+            "frequency_khz": "373",
+            "latitude_deg": "21.4778995513916",
+            "longitude_deg": "-158.03399658203125",
+            "elevation_ft": "812",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.592",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PHHI"
+        },
+        {
+            "id": "88929",
+            "filename": "Ewabe_NDB_US",
+            "ident": "HN",
+            "name": "Ewabe",
+            "type": "NDB",
+            "frequency_khz": "242",
+            "latitude_deg": "21.324899673461914",
+            "longitude_deg": "-158.0489959716797",
+            "elevation_ft": "42",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.579",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "PHHI"
+        }
+    ]
+}

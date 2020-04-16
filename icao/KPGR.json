@@ -1,0 +1,102 @@
+{
+    "id": "20823",
+    "ident": "KPGR",
+    "type": "small_airport",
+    "name": "Kirk Field",
+    "latitude_deg": "36.06290054",
+    "longitude_deg": "-90.50779724",
+    "elevation_ft": "290",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Paragould",
+    "scheduled_service": "no",
+    "gps_code": "KPGR",
+    "iata_code": "PGR",
+    "local_code": "PGR",
+    "home_link": "http://cityofparagould.com/index.php?pageID=11287_2",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kirk_Field",
+    "keywords": "Paragould Municipal",
+    "runways": [
+        {
+            "id": "244381",
+            "airport_ref": "20823",
+            "airport_ident": "KPGR",
+            "length_ft": "4500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "36.0586",
+            "le_longitude_deg": "-90.5133",
+            "le_elevation_ft": "289",
+            "le_heading_degT": "46",
+            "le_displaced_threshold_ft": "500",
+            "he_ident": "22",
+            "he_latitude_deg": "36.0672",
+            "he_longitude_deg": "-90.5023",
+            "he_elevation_ft": "285",
+            "he_heading_degT": "226",
+            "he_displaced_threshold_ft": "135"
+        },
+        {
+            "id": "244382",
+            "airport_ref": "20823",
+            "airport_ident": "KPGR",
+            "length_ft": "2800",
+            "width_ft": "100",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "36.0655",
+            "le_longitude_deg": "-90.5162",
+            "le_elevation_ft": "289",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "36.0653",
+            "he_longitude_deg": "-90.5068",
+            "he_elevation_ft": "289",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67973",
+            "airport_ref": "20823",
+            "airport_ident": "KPGR",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "120.075"
+        },
+        {
+            "id": "67974",
+            "airport_ref": "20823",
+            "airport_ident": "KPGR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "21359",
+    "ident": "KHWY",
+    "type": "small_airport",
+    "name": "Warrenton Fauquier Airport",
+    "latitude_deg": "38.586299896240234",
+    "longitude_deg": "-77.71060180664062",
+    "elevation_ft": "336",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Warrenton",
+    "scheduled_service": "no",
+    "gps_code": "KHWY",
+    "iata_code": "",
+    "local_code": "HWY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Formerly W66",
+    "runways": [
+        {
+            "id": "247268",
+            "airport_ref": "21359",
+            "airport_ident": "KHWY",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "38.5914",
+            "le_longitude_deg": "-77.7164",
+            "le_elevation_ft": "313",
+            "le_heading_degT": "139",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "38.5811",
+            "he_longitude_deg": "-77.7049",
+            "he_elevation_ft": "336",
+            "he_heading_degT": "319",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69968",
+            "airport_ref": "21359",
+            "airport_ident": "KHWY",
+            "type": "A/D",
+            "description": "POTOMAC APP/DEP",
+            "frequency_mhz": "124.65"
+        },
+        {
+            "id": "69969",
+            "airport_ref": "21359",
+            "airport_ident": "KHWY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    }
+}

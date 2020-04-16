@@ -1,0 +1,180 @@
+{
+    "id": "20589",
+    "ident": "KMYF",
+    "type": "small_airport",
+    "name": "Montgomery-Gibbs Executive Airport",
+    "latitude_deg": "32.8157",
+    "longitude_deg": "-117.139999",
+    "elevation_ft": "427",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Diego",
+    "scheduled_service": "no",
+    "gps_code": "KMYF",
+    "iata_code": "MYF",
+    "local_code": "MYF",
+    "home_link": "http://www.sandiego.gov/airports/montgomery/index.shtml",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Montgomery_Field",
+    "keywords": "Montgomery Field",
+    "runways": [
+        {
+            "id": "240187",
+            "airport_ref": "20589",
+            "airport_ident": "KMYF",
+            "length_ft": "3400",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "32.8149",
+            "le_longitude_deg": "-117.146",
+            "le_elevation_ft": "417",
+            "le_heading_degT": "65",
+            "le_displaced_threshold_ft": "389",
+            "he_ident": "23",
+            "he_latitude_deg": "32.8188",
+            "he_longitude_deg": "-117.136",
+            "he_elevation_ft": "425",
+            "he_heading_degT": "245",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240189",
+            "airport_ref": "20589",
+            "airport_ident": "KMYF",
+            "length_ft": "4577",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10L",
+            "le_latitude_deg": "32.8182",
+            "le_longitude_deg": "-117.145",
+            "le_elevation_ft": "414",
+            "le_heading_degT": "115",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28R",
+            "he_latitude_deg": "32.8129",
+            "he_longitude_deg": "-117.131",
+            "he_elevation_ft": "422",
+            "he_heading_degT": "295",
+            "he_displaced_threshold_ft": "1176"
+        },
+        {
+            "id": "240188",
+            "airport_ref": "20589",
+            "airport_ident": "KMYF",
+            "length_ft": "3400",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10R",
+            "le_latitude_deg": "32.8169",
+            "le_longitude_deg": "-117.145",
+            "le_elevation_ft": "414",
+            "le_heading_degT": "115",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28L",
+            "he_latitude_deg": "32.813",
+            "he_longitude_deg": "-117.135",
+            "he_elevation_ft": "421",
+            "he_heading_degT": "295",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59589",
+            "airport_ref": "20589",
+            "airport_ident": "KMYF",
+            "type": "APP",
+            "description": "SOCAL APP",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "59590",
+            "airport_ref": "20589",
+            "airport_ident": "KMYF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "59591",
+            "airport_ref": "20589",
+            "airport_ident": "KMYF",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "123.725"
+        },
+        {
+            "id": "59592",
+            "airport_ref": "20589",
+            "airport_ident": "KMYF",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "59593",
+            "airport_ref": "20589",
+            "airport_ident": "KMYF",
+            "type": "DEP",
+            "description": "SOCAL DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "59594",
+            "airport_ref": "20589",
+            "airport_ident": "KMYF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.22"
+        },
+        {
+            "id": "59595",
+            "airport_ref": "20589",
+            "airport_ident": "KMYF",
+            "type": "RDO",
+            "description": "SAN DIEGO RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "59596",
+            "airport_ref": "20589",
+            "airport_ident": "KMYF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "59597",
+            "airport_ref": "20589",
+            "airport_ident": "KMYF",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

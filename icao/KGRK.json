@@ -1,0 +1,182 @@
+{
+    "id": "3565",
+    "ident": "KGRK",
+    "type": "medium_airport",
+    "name": "Robert Gray  Army Air Field Airport",
+    "latitude_deg": "31.067199707",
+    "longitude_deg": "-97.82890319820001",
+    "elevation_ft": "1015",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Hood/Killeen",
+    "scheduled_service": "yes",
+    "gps_code": "KGRK",
+    "iata_code": "GRK",
+    "local_code": "GRK",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Killeen-Fort_Hood_Regional_Airport",
+    "keywords": "Robert Gray Army Air Field",
+    "runways": [
+        {
+            "id": "244724",
+            "airport_ref": "3565",
+            "airport_ident": "KGRK",
+            "length_ft": "10000",
+            "width_ft": "200",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "31.0799",
+            "le_longitude_deg": "-97.8351",
+            "le_elevation_ft": "1019",
+            "le_heading_degT": "157.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "31.0546",
+            "he_longitude_deg": "-97.8228",
+            "he_elevation_ft": "970",
+            "he_heading_degT": "337.3",
+            "he_displaced_threshold_ft": "194"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68714",
+            "airport_ref": "3565",
+            "airport_ident": "KGRK",
+            "type": "A/D",
+            "description": "GRAY APP/DEP",
+            "frequency_mhz": "120.075"
+        },
+        {
+            "id": "68715",
+            "airport_ref": "3565",
+            "airport_ident": "KGRK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "111.8"
+        },
+        {
+            "id": "68716",
+            "airport_ref": "3565",
+            "airport_ident": "KGRK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "68717",
+            "airport_ref": "3565",
+            "airport_ident": "KGRK",
+            "type": "GND",
+            "description": "GRAY GND",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "68718",
+            "airport_ref": "3565",
+            "airport_ident": "KGRK",
+            "type": "INFO",
+            "description": "RANGE CTL",
+            "frequency_mhz": "30.45"
+        },
+        {
+            "id": "68719",
+            "airport_ref": "3565",
+            "airport_ident": "KGRK",
+            "type": "MISC",
+            "description": "FT HOOD FLT FLW",
+            "frequency_mhz": "38.75"
+        },
+        {
+            "id": "68720",
+            "airport_ref": "3565",
+            "airport_ident": "KGRK",
+            "type": "PMSV",
+            "description": "PMSV GRAY METRO",
+            "frequency_mhz": "41.2"
+        },
+        {
+            "id": "68721",
+            "airport_ref": "3565",
+            "airport_ident": "KGRK",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "38.7"
+        },
+        {
+            "id": "68722",
+            "airport_ref": "3565",
+            "airport_ident": "KGRK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.75"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88537",
+            "filename": "Starn_NDB_US",
+            "ident": "GR",
+            "name": "Starn",
+            "type": "NDB",
+            "frequency_khz": "323",
+            "latitude_deg": "31.167800903320312",
+            "longitude_deg": "-97.8781967163086",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.152",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KGRK"
+        },
+        {
+            "id": "88561",
+            "filename": "Gray_VOR-DME_US",
+            "ident": "GRK",
+            "name": "Gray",
+            "type": "VOR-DME",
+            "frequency_khz": "111800",
+            "latitude_deg": "31.032899856567383",
+            "longitude_deg": "-97.81379699707031",
+            "elevation_ft": "980",
+            "iso_country": "US",
+            "dme_frequency_khz": "111800",
+            "dme_channel": "055X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.012",
+            "magnetic_variation_deg": "5.162",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KGRK"
+        }
+    ]
+}

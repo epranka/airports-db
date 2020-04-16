@@ -1,0 +1,96 @@
+{
+    "id": "5579",
+    "ident": "RJKI",
+    "type": "medium_airport",
+    "name": "Kikai Airport",
+    "latitude_deg": "28.321300506599997",
+    "longitude_deg": "129.927993774",
+    "elevation_ft": "21",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-46",
+    "municipality": "Kikai",
+    "scheduled_service": "yes",
+    "gps_code": "RJKI",
+    "iata_code": "KKX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kikai_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237164",
+            "airport_ref": "5579",
+            "airport_ident": "RJKI",
+            "length_ft": "4307",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "28.3184",
+            "le_longitude_deg": "129.921",
+            "le_elevation_ft": "21",
+            "le_heading_degT": "65.9",
+            "le_displaced_threshold_ft": "185",
+            "he_ident": "25",
+            "he_latitude_deg": "28.3233",
+            "he_longitude_deg": "129.933",
+            "he_elevation_ft": "18",
+            "he_heading_degT": "245.9",
+            "he_displaced_threshold_ft": "185"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54568",
+            "airport_ref": "5579",
+            "airport_ident": "RJKI",
+            "type": "RDO",
+            "description": "REMOTE",
+            "frequency_mhz": "118"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304331",
+        "code": "JP-46",
+        "local_code": "46",
+        "name": "Kagoshima Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kagoshima",
+        "keywords": "Kyushu and Okinawa"
+    },
+    "navaids": [
+        {
+            "id": "89784",
+            "filename": "Kikai_NDB_JP",
+            "ident": "KI",
+            "name": "Kikai",
+            "type": "NDB",
+            "frequency_khz": "382",
+            "latitude_deg": "28.317800521850586",
+            "longitude_deg": "129.9239959716797",
+            "elevation_ft": "",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.062",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "RJKI"
+        }
+    ]
+}

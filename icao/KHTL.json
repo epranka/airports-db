@@ -1,0 +1,118 @@
+{
+    "id": "20092",
+    "ident": "KHTL",
+    "type": "small_airport",
+    "name": "Roscommon County - Blodgett Memorial Airport",
+    "latitude_deg": "44.359798",
+    "longitude_deg": "-84.671095",
+    "elevation_ft": "1150",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Houghton Lake",
+    "scheduled_service": "no",
+    "gps_code": "KHTL",
+    "iata_code": "HTL",
+    "local_code": "HTL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Roscommon_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243349",
+            "airport_ref": "20092",
+            "airport_ident": "KHTL",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "44.3612",
+            "le_longitude_deg": "-84.6762",
+            "le_elevation_ft": "1149",
+            "le_heading_degT": "88.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "44.3614",
+            "he_longitude_deg": "-84.661",
+            "he_elevation_ft": "1145",
+            "he_heading_degT": "268.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243350",
+            "airport_ref": "20092",
+            "airport_ident": "KHTL",
+            "length_ft": "2200",
+            "width_ft": "100",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "44.3603",
+            "le_longitude_deg": "-84.6778",
+            "le_elevation_ft": "1149",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "36",
+            "he_latitude_deg": "44.3542",
+            "he_longitude_deg": "-84.6778",
+            "he_elevation_ft": "1146",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65793",
+            "airport_ref": "20092",
+            "airport_ident": "KHTL",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "111.6"
+        },
+        {
+            "id": "65794",
+            "airport_ref": "20092",
+            "airport_ident": "KHTL",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "132.9"
+        },
+        {
+            "id": "65795",
+            "airport_ref": "20092",
+            "airport_ident": "KHTL",
+            "type": "RDO",
+            "description": "LANSING RDO",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "65796",
+            "airport_ref": "20092",
+            "airport_ident": "KHTL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

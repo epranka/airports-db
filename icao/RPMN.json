@@ -1,0 +1,72 @@
+{
+    "id": "5705",
+    "ident": "RPMN",
+    "type": "medium_airport",
+    "name": "Sanga Sanga Airport",
+    "latitude_deg": "5.046991",
+    "longitude_deg": "119.742996",
+    "elevation_ft": "15",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-TAW",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "RPMN",
+    "iata_code": "TWT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sanga-Sanga_Airport",
+    "keywords": "SGS",
+    "runways": [
+        {
+            "id": "238444",
+            "airport_ref": "5705",
+            "airport_ident": "RPMN",
+            "length_ft": "5100",
+            "width_ft": "98",
+            "surface": "PEM",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "5.04036",
+            "le_longitude_deg": "119.741",
+            "le_elevation_ft": "1",
+            "le_heading_degT": "18.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "5.05363",
+            "he_longitude_deg": "119.745",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "198.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "311189",
+            "airport_ref": "5705",
+            "airport_ident": "RPMN",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305128",
+        "code": "PH-TAW",
+        "local_code": "TAW",
+        "name": "Tawi-Tawi Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tawi-Tawi_Province",
+        "keywords": ""
+    }
+}

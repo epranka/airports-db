@@ -1,0 +1,142 @@
+{
+    "id": "26883",
+    "ident": "WSAG",
+    "type": "medium_airport",
+    "name": "Sembawang Air Base",
+    "latitude_deg": "1.4252599477767944",
+    "longitude_deg": "103.81300354003906",
+    "elevation_ft": "86",
+    "continent": "AS",
+    "iso_country": "SG",
+    "iso_region": "SG-03",
+    "municipality": "Sembawang",
+    "scheduled_service": "no",
+    "gps_code": "WSAG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sembawang_Airbase",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238864",
+            "airport_ref": "26883",
+            "airport_ident": "WSAG",
+            "length_ft": "6255",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "1.41749",
+            "le_longitude_deg": "103.804",
+            "le_elevation_ft": "",
+            "le_heading_degT": "42.8",
+            "le_displaced_threshold_ft": "500",
+            "he_ident": "22",
+            "he_latitude_deg": "1.43014",
+            "he_longitude_deg": "103.815",
+            "he_elevation_ft": "",
+            "he_heading_degT": "222.8",
+            "he_displaced_threshold_ft": "770"
+        },
+        {
+            "id": "238865",
+            "airport_ref": "26883",
+            "airport_ident": "WSAG",
+            "length_ft": "3400",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "1.42334",
+            "le_longitude_deg": "103.813",
+            "le_elevation_ft": "",
+            "le_heading_degT": "47",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "23",
+            "he_latitude_deg": "1.42973",
+            "he_longitude_deg": "103.819",
+            "he_elevation_ft": "",
+            "he_heading_degT": "227",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57184",
+            "airport_ref": "26883",
+            "airport_ident": "WSAG",
+            "type": "A/D",
+            "description": "SINGAPORE APP/DEP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "57185",
+            "airport_ref": "26883",
+            "airport_ident": "WSAG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "149.25"
+        },
+        {
+            "id": "57186",
+            "airport_ref": "26883",
+            "airport_ident": "WSAG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "28.39"
+        },
+        {
+            "id": "57187",
+            "airport_ref": "26883",
+            "airport_ident": "WSAG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "129.7"
+        }
+    ],
+    "country": {
+        "id": "302661",
+        "code": "SG",
+        "name": "Singapore",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Singapore",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306652",
+        "code": "SG-03",
+        "local_code": "03",
+        "name": "North West",
+        "continent": "AS",
+        "iso_country": "SG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_West",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85299",
+            "filename": "Sembawang_NDB_SG",
+            "ident": "AG",
+            "name": "Sembawang",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "1.4233299493789673",
+            "longitude_deg": "103.822998046875",
+            "elevation_ft": "86",
+            "iso_country": "SG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.141",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "WSAG"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "21211",
+    "ident": "KTOC",
+    "type": "small_airport",
+    "name": "Toccoa Airport - R.G. Letourneau Field",
+    "latitude_deg": "34.59379959",
+    "longitude_deg": "-83.29579926",
+    "elevation_ft": "996",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Toccoa",
+    "scheduled_service": "no",
+    "gps_code": "KTOC",
+    "iata_code": "TOC",
+    "local_code": "TOC",
+    "home_link": "http://www.stephenscountyga.com/airport.cfm?lid=249",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Toccoa_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242083",
+            "airport_ref": "21211",
+            "airport_ident": "KTOC",
+            "length_ft": "4003",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "34.5874",
+            "le_longitude_deg": "-83.2998",
+            "le_elevation_ft": "994",
+            "le_heading_degT": "21",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "34.5977",
+            "he_longitude_deg": "-83.2951",
+            "he_elevation_ft": "968",
+            "he_heading_degT": "201",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242084",
+            "airport_ref": "21211",
+            "airport_ident": "KTOC",
+            "length_ft": "2951",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "34.5952",
+            "le_longitude_deg": "-83.2985",
+            "le_elevation_ft": "972",
+            "le_heading_degT": "88",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "34.5955",
+            "he_longitude_deg": "-83.2887",
+            "he_elevation_ft": "948",
+            "he_heading_degT": "268",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63174",
+            "airport_ref": "21211",
+            "airport_ident": "KTOC",
+            "type": "CNTR",
+            "description": "ATLANTA CNTR",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "63175",
+            "airport_ref": "21211",
+            "airport_ident": "KTOC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

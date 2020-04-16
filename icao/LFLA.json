@@ -1,0 +1,72 @@
+{
+    "id": "4130",
+    "ident": "LFLA",
+    "type": "medium_airport",
+    "name": "Auxerre-Branches Airport",
+    "latitude_deg": "47.85020065307617",
+    "longitude_deg": "3.497109889984131",
+    "elevation_ft": "523",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-BFC",
+    "municipality": "Auxerre/Branches",
+    "scheduled_service": "no",
+    "gps_code": "LFLA",
+    "iata_code": "AUF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235902",
+            "airport_ref": "4130",
+            "airport_ident": "LFLA",
+            "length_ft": "5413",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "47.8577",
+            "le_longitude_deg": "3.49821",
+            "le_elevation_ft": "509",
+            "le_heading_degT": "184",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "47.843",
+            "he_longitude_deg": "3.4961",
+            "he_elevation_ft": "522",
+            "he_heading_degT": "4",
+            "he_displaced_threshold_ft": "393"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52340",
+            "airport_ref": "4130",
+            "airport_ident": "LFLA",
+            "type": "INFO",
+            "description": "AUXERRE INFO",
+            "frequency_mhz": "129.8"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306350",
+        "code": "FR-BFC",
+        "local_code": "BFC",
+        "name": "Bourgogne-Franche-Comté",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bourgogne-Franche-Comt%C3%A9",
+        "keywords": "Bourgogne"
+    }
+}

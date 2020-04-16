@@ -1,0 +1,172 @@
+{
+    "id": "20578",
+    "ident": "KMVY",
+    "type": "small_airport",
+    "name": "Martha's Vineyard Airport",
+    "latitude_deg": "41.3931007385",
+    "longitude_deg": "-70.6143035889",
+    "elevation_ft": "67",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Martha's Vineyard",
+    "scheduled_service": "yes",
+    "gps_code": "KMVY",
+    "iata_code": "MVY",
+    "local_code": "MVY",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Martha's_Vineyard_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245076",
+            "airport_ref": "20578",
+            "airport_ident": "KMVY",
+            "length_ft": "3177",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "01",
+            "le_latitude_deg": "41.3876",
+            "le_longitude_deg": "-70.6179",
+            "le_elevation_ft": "55",
+            "le_heading_degT": "355.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "41.3963",
+            "he_longitude_deg": "-70.6188",
+            "he_elevation_ft": "65",
+            "he_heading_degT": "175.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245077",
+            "airport_ref": "20578",
+            "airport_ident": "KMVY",
+            "length_ft": "5504",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "41.386",
+            "le_longitude_deg": "-70.6201",
+            "le_elevation_ft": "56",
+            "le_heading_degT": "41",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "41.3975",
+            "he_longitude_deg": "-70.607",
+            "he_elevation_ft": "62",
+            "he_heading_degT": "221",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245078",
+            "airport_ref": "20578",
+            "airport_ident": "KMVY",
+            "length_ft": "3297",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "41.3981",
+            "le_longitude_deg": "-70.6202",
+            "le_elevation_ft": "67",
+            "le_heading_degT": "131",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "41.3922",
+            "he_longitude_deg": "-70.6111",
+            "he_elevation_ft": "56",
+            "he_heading_degT": "311",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69543",
+            "airport_ref": "20578",
+            "airport_ident": "KMVY",
+            "type": "A/D",
+            "description": "CAPE APP/DEP",
+            "frequency_mhz": "133.75"
+        },
+        {
+            "id": "69544",
+            "airport_ref": "20578",
+            "airport_ident": "KMVY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.25"
+        },
+        {
+            "id": "69545",
+            "airport_ref": "20578",
+            "airport_ident": "KMVY",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "134.65"
+        },
+        {
+            "id": "69546",
+            "airport_ref": "20578",
+            "airport_ident": "KMVY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "69547",
+            "airport_ref": "20578",
+            "airport_ident": "KMVY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "69548",
+            "airport_ref": "20578",
+            "airport_ident": "KMVY",
+            "type": "RDO",
+            "description": "BRIDGEPORT RDO",
+            "frequency_mhz": "114.5"
+        },
+        {
+            "id": "69549",
+            "airport_ref": "20578",
+            "airport_ident": "KMVY",
+            "type": "TWR",
+            "description": "VINEYARD TWR",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "69550",
+            "airport_ref": "20578",
+            "airport_ident": "KMVY",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306095",
+        "code": "US-MA",
+        "local_code": "MA",
+        "name": "Massachusetts",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
+        "keywords": ""
+    }
+}

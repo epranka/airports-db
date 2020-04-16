@@ -1,0 +1,96 @@
+{
+    "id": "19629",
+    "ident": "KDIJ",
+    "type": "small_airport",
+    "name": "Driggs Reed Memorial Airport",
+    "latitude_deg": "43.742401",
+    "longitude_deg": "-111.098",
+    "elevation_ft": "6229",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Driggs",
+    "scheduled_service": "no",
+    "gps_code": "KDIJ",
+    "iata_code": "",
+    "local_code": "DIJ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "U59",
+    "runways": [
+        {
+            "id": "245299",
+            "airport_ref": "19629",
+            "airport_ident": "KDIJ",
+            "length_ft": "7302",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "43.7358",
+            "le_longitude_deg": "-111.108",
+            "le_elevation_ft": "6141",
+            "le_heading_degT": "48",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "43.7491",
+            "he_longitude_deg": "-111.087",
+            "he_elevation_ft": "6229",
+            "he_heading_degT": "228",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69996",
+            "airport_ref": "19629",
+            "airport_ident": "KDIJ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.775"
+        },
+        {
+            "id": "69997",
+            "airport_ref": "19629",
+            "airport_ident": "KDIJ",
+            "type": "CNTR",
+            "description": "SALT LAKE CITY",
+            "frequency_mhz": "132.4"
+        },
+        {
+            "id": "69998",
+            "airport_ref": "19629",
+            "airport_ident": "KDIJ",
+            "type": "RDO",
+            "description": "CASPER",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "69999",
+            "airport_ref": "19629",
+            "airport_ident": "KDIJ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": ""
+    }
+}

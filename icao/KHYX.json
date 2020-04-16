@@ -1,0 +1,118 @@
+{
+    "id": "20111",
+    "ident": "KHYX",
+    "type": "small_airport",
+    "name": "Saginaw County H.W. Browne Airport",
+    "latitude_deg": "43.4333992",
+    "longitude_deg": "-83.86229706",
+    "elevation_ft": "601",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Saginaw",
+    "scheduled_service": "no",
+    "gps_code": "KHYX",
+    "iata_code": "",
+    "local_code": "HYX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243711",
+            "airport_ref": "20111",
+            "airport_ident": "KHYX",
+            "length_ft": "2951",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "43.4296",
+            "le_longitude_deg": "-83.8659",
+            "le_elevation_ft": "599",
+            "le_heading_degT": "44",
+            "le_displaced_threshold_ft": "120",
+            "he_ident": "23",
+            "he_latitude_deg": "43.4353",
+            "he_longitude_deg": "-83.8583",
+            "he_elevation_ft": "597",
+            "he_heading_degT": "224",
+            "he_displaced_threshold_ft": "130"
+        },
+        {
+            "id": "243712",
+            "airport_ref": "20111",
+            "airport_ident": "KHYX",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "43.4339",
+            "le_longitude_deg": "-83.8719",
+            "le_elevation_ft": "599",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "43.4339",
+            "he_longitude_deg": "-83.8531",
+            "he_elevation_ft": "598",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66600",
+            "airport_ref": "20111",
+            "airport_ident": "KHYX",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "120.95"
+        },
+        {
+            "id": "66601",
+            "airport_ref": "20111",
+            "airport_ident": "KHYX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "66602",
+            "airport_ref": "20111",
+            "airport_ident": "KHYX",
+            "type": "RDO",
+            "description": "LANSING RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "66603",
+            "airport_ref": "20111",
+            "airport_ident": "KHYX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

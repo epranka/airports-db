@@ -1,0 +1,142 @@
+{
+    "id": "6018",
+    "ident": "SCFA",
+    "type": "medium_airport",
+    "name": "Andrés Sabella Gálvez International Airport",
+    "latitude_deg": "-23.444501",
+    "longitude_deg": "-70.445099",
+    "elevation_ft": "455",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-AN",
+    "municipality": "Antofagasta",
+    "scheduled_service": "yes",
+    "gps_code": "SCFA",
+    "iata_code": "ANF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Sabella_G%C3%A1lvez_International_Airport",
+    "keywords": "Cerro Moreno Airport",
+    "runways": [
+        {
+            "id": "235233",
+            "airport_ref": "6018",
+            "airport_ident": "SCFA",
+            "length_ft": "8527",
+            "width_ft": "164",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-23.4561",
+            "le_longitude_deg": "-70.4466",
+            "le_elevation_ft": "352",
+            "le_heading_degT": "6.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-23.4328",
+            "he_longitude_deg": "-70.4436",
+            "he_elevation_ft": "455",
+            "he_heading_degT": "186.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51341",
+            "airport_ref": "6018",
+            "airport_ident": "SCFA",
+            "type": "APP",
+            "description": "ANTOFAGASTA APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "51342",
+            "airport_ref": "6018",
+            "airport_ident": "SCFA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51343",
+            "airport_ref": "6018",
+            "airport_ident": "SCFA",
+            "type": "RDO",
+            "description": "ANTOFAGASTA RDO",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "51344",
+            "airport_ref": "6018",
+            "airport_ident": "SCFA",
+            "type": "TWR",
+            "description": "ANTOFAGASTA TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303398",
+        "code": "CL-AN",
+        "local_code": "AN",
+        "name": "Antofagasta Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antofagasta_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87925",
+            "filename": "Antofagasta_VOR-DME_CL",
+            "ident": "FAG",
+            "name": "Antofagasta",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "-23.466899871826172",
+            "longitude_deg": "-70.44779968261719",
+            "elevation_ft": "305",
+            "iso_country": "CL",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-1.2",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SCFA"
+        },
+        {
+            "id": "92937",
+            "filename": "Antofagasta_NDB_CL",
+            "ident": "R",
+            "name": "Antofagasta",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-23.470199584960938",
+            "longitude_deg": "-70.44850158691406",
+            "elevation_ft": "",
+            "iso_country": "CL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.199",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "SCFA"
+        }
+    ]
+}

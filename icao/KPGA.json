@@ -1,0 +1,118 @@
+{
+    "id": "20821",
+    "ident": "KPGA",
+    "type": "medium_airport",
+    "name": "Page Municipal Airport",
+    "latitude_deg": "36.92610168",
+    "longitude_deg": "-111.447998",
+    "elevation_ft": "4316",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Page",
+    "scheduled_service": "no",
+    "gps_code": "KPGA",
+    "iata_code": "PGA",
+    "local_code": "PGA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Page_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245890",
+            "airport_ref": "20821",
+            "airport_ident": "KPGA",
+            "length_ft": "2201",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "36.9292",
+            "le_longitude_deg": "-111.454",
+            "le_elevation_ft": "4242",
+            "le_heading_degT": "81.9",
+            "le_displaced_threshold_ft": "588",
+            "he_ident": "25",
+            "he_latitude_deg": "36.93",
+            "he_longitude_deg": "-111.446",
+            "he_elevation_ft": "4247",
+            "he_heading_degT": "261.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245891",
+            "airport_ref": "20821",
+            "airport_ident": "KPGA",
+            "length_ft": "5950",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "36.9328",
+            "le_longitude_deg": "-111.45",
+            "le_elevation_ft": "4245",
+            "le_heading_degT": "170.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "36.9167",
+            "he_longitude_deg": "-111.446",
+            "he_elevation_ft": "4316",
+            "he_heading_degT": "350.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71288",
+            "airport_ref": "20821",
+            "airport_ident": "KPGA",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.625"
+        },
+        {
+            "id": "71289",
+            "airport_ref": "20821",
+            "airport_ident": "KPGA",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "127.55"
+        },
+        {
+            "id": "71290",
+            "airport_ref": "20821",
+            "airport_ident": "KPGA",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "71291",
+            "airport_ref": "20821",
+            "airport_ident": "KPGA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

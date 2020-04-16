@@ -1,0 +1,88 @@
+{
+    "id": "32738",
+    "ident": "YWAC",
+    "type": "small_airport",
+    "name": "Wauchope Airport",
+    "latitude_deg": "-20.640614",
+    "longitude_deg": "134.215276",
+    "elevation_ft": "1186",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Wauchope",
+    "scheduled_service": "no",
+    "gps_code": "YWAC",
+    "iata_code": "WAU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259481",
+            "airport_ref": "32738",
+            "airport_ident": "YWAC",
+            "length_ft": "2624",
+            "width_ft": "",
+            "surface": "X",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74853",
+            "airport_ref": "32738",
+            "airport_ident": "YWAC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "74854",
+            "airport_ref": "32738",
+            "airport_ident": "YWAC",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "74855",
+            "airport_ref": "32738",
+            "airport_ident": "YWAC",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.3"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

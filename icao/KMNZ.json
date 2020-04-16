@@ -1,0 +1,80 @@
+{
+    "id": "20538",
+    "ident": "KMNZ",
+    "type": "small_airport",
+    "name": "Hamilton Municipal Airport",
+    "latitude_deg": "31.6658992767334",
+    "longitude_deg": "-98.14859771728516",
+    "elevation_ft": "1299",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Hamilton",
+    "scheduled_service": "no",
+    "gps_code": "KMNZ",
+    "iata_code": "",
+    "local_code": "MNZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242233",
+            "airport_ref": "20538",
+            "airport_ident": "KMNZ",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "31.6727",
+            "le_longitude_deg": "-98.1474",
+            "le_elevation_ft": "1299",
+            "le_heading_degT": "189",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "31.6591",
+            "he_longitude_deg": "-98.1499",
+            "he_elevation_ft": "1299",
+            "he_heading_degT": "9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63487",
+            "airport_ref": "20538",
+            "airport_ident": "KMNZ",
+            "type": "A/D",
+            "description": "GRAY APP/DEP",
+            "frequency_mhz": "120.075"
+        },
+        {
+            "id": "63488",
+            "airport_ref": "20538",
+            "airport_ident": "KMNZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

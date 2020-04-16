@@ -1,0 +1,96 @@
+{
+    "id": "2954",
+    "ident": "FNUG",
+    "type": "medium_airport",
+    "name": "Uige Airport",
+    "latitude_deg": "-7.60306978225708",
+    "longitude_deg": "15.027799606323242",
+    "elevation_ft": "2720",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-UIG",
+    "municipality": "Uige",
+    "scheduled_service": "no",
+    "gps_code": "FNUG",
+    "iata_code": "UGO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232885",
+            "airport_ref": "2954",
+            "airport_ident": "FNUG",
+            "length_ft": "6562",
+            "width_ft": "55",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-7.612",
+            "le_longitude_deg": "15.027",
+            "le_elevation_ft": "2723",
+            "le_heading_degT": "6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-7.59413",
+            "he_longitude_deg": "15.0286",
+            "he_elevation_ft": "2743",
+            "he_heading_degT": "186",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48328",
+            "airport_ref": "2954",
+            "airport_ident": "FNUG",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302556",
+        "code": "AO",
+        "name": "Angola",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Angola",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302929",
+        "code": "AO-UIG",
+        "local_code": "UIG",
+        "name": "Uíge Province",
+        "continent": "AF",
+        "iso_country": "AO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/U%C3%ADge_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94839",
+            "filename": "Uige_NDB_AO",
+            "ident": "UG",
+            "name": "Uige",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "-7.566669940948486",
+            "longitude_deg": "15.033300399780273",
+            "elevation_ft": "",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.25",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNUG"
+        }
+    ]
+}

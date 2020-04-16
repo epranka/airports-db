@@ -1,0 +1,96 @@
+{
+    "id": "2941",
+    "ident": "FNLB",
+    "type": "small_airport",
+    "name": "Lobito Airport",
+    "latitude_deg": "-12.371199607849121",
+    "longitude_deg": "13.536600112915039",
+    "elevation_ft": "10",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-BGU",
+    "municipality": "Lobito",
+    "scheduled_service": "no",
+    "gps_code": "FNLB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232895",
+            "airport_ref": "2941",
+            "airport_ident": "FNLB",
+            "length_ft": "4920",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-12.3653",
+            "le_longitude_deg": "13.5331",
+            "le_elevation_ft": "",
+            "le_heading_degT": "151",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-12.3772",
+            "he_longitude_deg": "13.5401",
+            "he_elevation_ft": "",
+            "he_heading_degT": "331",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48338",
+            "airport_ref": "2941",
+            "airport_ident": "FNLB",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302556",
+        "code": "AO",
+        "name": "Angola",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Angola",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302913",
+        "code": "AO-BGU",
+        "local_code": "BGU",
+        "name": "Benguela Province",
+        "continent": "AF",
+        "iso_country": "AO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Benguela_ Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90189",
+            "filename": "Lobito_NDB_AO",
+            "ident": "LB",
+            "name": "Lobito",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "-12.366700172424316",
+            "longitude_deg": "13.533300399780273",
+            "elevation_ft": "10",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.118",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNLB"
+        }
+    ]
+}

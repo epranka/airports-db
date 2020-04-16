@@ -1,0 +1,96 @@
+{
+    "id": "4761",
+    "ident": "MMTP",
+    "type": "medium_airport",
+    "name": "Tapachula International Airport",
+    "latitude_deg": "14.7943000793",
+    "longitude_deg": "-92.3700027466",
+    "elevation_ft": "97",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-CHP",
+    "municipality": "Tapachula",
+    "scheduled_service": "yes",
+    "gps_code": "MMTP",
+    "iata_code": "TAP",
+    "local_code": "",
+    "home_link": "http://www.asur.com.mx/asur/Ingles/aeropuertos/tapachula/tapachula.asp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tapachula_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237784",
+            "airport_ref": "4761",
+            "airport_ident": "MMTP",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "14.7892",
+            "le_longitude_deg": "-92.3777",
+            "le_elevation_ft": "97",
+            "le_heading_degT": "55.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "14.7995",
+            "he_longitude_deg": "-92.3624",
+            "he_elevation_ft": "97",
+            "he_heading_degT": "235.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55522",
+            "airport_ref": "4761",
+            "airport_ident": "MMTP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304795",
+        "code": "MX-CHP",
+        "local_code": "CHP",
+        "name": "Chiapas",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chiapas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94194",
+            "filename": "Tapachula_VOR-DME_MX",
+            "ident": "TAP",
+            "name": "Tapachula",
+            "type": "VOR-DME",
+            "frequency_khz": "115300",
+            "latitude_deg": "14.792200088500977",
+            "longitude_deg": "-92.37570190429688",
+            "elevation_ft": "97",
+            "iso_country": "MX",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.002",
+            "magnetic_variation_deg": "3.29",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMTP"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "27252",
+    "ident": "EFHL",
+    "type": "small_airport",
+    "name": "Hailuoto Airport",
+    "latitude_deg": "64.96690368652344",
+    "longitude_deg": "24.70439910888672",
+    "elevation_ft": "7",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-OL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EFHL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310766",
+            "airport_ref": "27252",
+            "airport_ident": "EFHL",
+            "length_ft": "1640",
+            "width_ft": "49",
+            "surface": "sand/grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "328",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "328"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310765",
+            "airport_ref": "27252",
+            "airport_ident": "EFHL",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "310764",
+            "airport_ref": "27252",
+            "airport_ident": "EFHL",
+            "type": "RDO",
+            "description": "Hailuoto traffic",
+            "frequency_mhz": "123.4"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303804",
+        "code": "FI-OL",
+        "local_code": "OL",
+        "name": "Oulu",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oulu",
+        "keywords": "Oulun lääni, Uleåborgs län"
+    }
+}

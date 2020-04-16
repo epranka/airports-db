@@ -1,0 +1,110 @@
+{
+    "id": "20873",
+    "ident": "KPSN",
+    "type": "small_airport",
+    "name": "Palestine Municipal Airport",
+    "latitude_deg": "31.779699325562",
+    "longitude_deg": "-95.706298828125",
+    "elevation_ft": "423",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Palestine",
+    "scheduled_service": "no",
+    "gps_code": "KPSN",
+    "iata_code": "PSN",
+    "local_code": "PSN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245847",
+            "airport_ref": "20873",
+            "airport_ident": "KPSN",
+            "length_ft": "4003",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "31.7771",
+            "le_longitude_deg": "-95.7127",
+            "le_elevation_ft": "423",
+            "le_heading_degT": "90.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "31.777",
+            "he_longitude_deg": "-95.6998",
+            "he_elevation_ft": "388",
+            "he_heading_degT": "270.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245848",
+            "airport_ref": "20873",
+            "airport_ident": "KPSN",
+            "length_ft": "5005",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "31.7887",
+            "le_longitude_deg": "-95.7063",
+            "le_elevation_ft": "413",
+            "le_heading_degT": "180.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "31.775",
+            "he_longitude_deg": "-95.7064",
+            "he_elevation_ft": "410",
+            "he_heading_degT": "0.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71188",
+            "airport_ref": "20873",
+            "airport_ident": "KPSN",
+            "type": "A/D",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "135.25"
+        },
+        {
+            "id": "71189",
+            "airport_ref": "20873",
+            "airport_ident": "KPSN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.025"
+        },
+        {
+            "id": "71190",
+            "airport_ref": "20873",
+            "airport_ident": "KPSN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

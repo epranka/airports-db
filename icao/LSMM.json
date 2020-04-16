@@ -1,0 +1,96 @@
+{
+    "id": "4497",
+    "ident": "LSMM",
+    "type": "small_airport",
+    "name": "Meiringen Airport",
+    "latitude_deg": "46.74330139160156",
+    "longitude_deg": "8.109999656677246",
+    "elevation_ft": "1895",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-BE",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LSMM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239129",
+            "airport_ref": "4497",
+            "airport_ident": "LSMM",
+            "length_ft": "6571",
+            "width_ft": "130",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "46.7434",
+            "le_longitude_deg": "8.09558",
+            "le_elevation_ft": "1885",
+            "le_heading_degT": "95.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "46.7413",
+            "he_longitude_deg": "8.12192",
+            "he_elevation_ft": "1895",
+            "he_heading_degT": "275.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57595",
+            "airport_ref": "4497",
+            "airport_ident": "LSMM",
+            "type": "ARR",
+            "description": "ARR/DEP",
+            "frequency_mhz": "37.012"
+        },
+        {
+            "id": "57594",
+            "airport_ref": "4497",
+            "airport_ident": "LSMM",
+            "type": "ARR",
+            "description": "ARR/DEP",
+            "frequency_mhz": "138.275"
+        },
+        {
+            "id": "57596",
+            "airport_ref": "4497",
+            "airport_ident": "LSMM",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "138.05"
+        },
+        {
+            "id": "57597",
+            "airport_ref": "4497",
+            "airport_ident": "LSMM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "130.15"
+        }
+    ],
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303355",
+        "code": "CH-BE",
+        "local_code": "BE",
+        "name": "Canton of Berne",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Berne",
+        "keywords": "Bern"
+    }
+}

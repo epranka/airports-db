@@ -1,0 +1,136 @@
+{
+    "id": "2244",
+    "ident": "EDLP",
+    "type": "medium_airport",
+    "name": "Paderborn Lippstadt Airport",
+    "latitude_deg": "51.614101409899995",
+    "longitude_deg": "8.616319656369999",
+    "elevation_ft": "699",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Paderborn",
+    "scheduled_service": "yes",
+    "gps_code": "EDLP",
+    "iata_code": "PAD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Paderborn_Lippstadt_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236196",
+            "airport_ref": "2244",
+            "airport_ident": "EDLP",
+            "length_ft": "7152",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "51.6087",
+            "le_longitude_deg": "8.60318",
+            "le_elevation_ft": "699",
+            "le_heading_degT": "57",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "51.6194",
+            "he_longitude_deg": "8.62959",
+            "he_elevation_ft": "674",
+            "he_heading_degT": "237",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52934",
+            "airport_ref": "2244",
+            "airport_ident": "EDLP",
+            "type": "AFIS",
+            "description": "LANGEN INFORMATION",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "52932",
+            "airport_ref": "2244",
+            "airport_ident": "EDLP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.725"
+        },
+        {
+            "id": "52933",
+            "airport_ref": "2244",
+            "airport_ident": "EDLP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.925"
+        },
+        {
+            "id": "52935",
+            "airport_ref": "2244",
+            "airport_ident": "EDLP",
+            "type": "OPS",
+            "description": "DISPATCH",
+            "frequency_mhz": "130.425"
+        },
+        {
+            "id": "52936",
+            "airport_ref": "2244",
+            "airport_ident": "EDLP",
+            "type": "RDR",
+            "description": "LANGEN RADAR",
+            "frequency_mhz": "125.225"
+        },
+        {
+            "id": "52937",
+            "airport_ref": "2244",
+            "airport_ident": "EDLP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "133.375"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303556",
+        "code": "DE-NW",
+        "local_code": "NW",
+        "name": "North Rhine-Westphalia",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
+        "keywords": "Nordrhein-Westfalen"
+    },
+    "navaids": [
+        {
+            "id": "92246",
+            "filename": "Paderborn_Lippstadt_NDB-DME_DE",
+            "ident": "PAD",
+            "name": "Paderborn/Lippstadt",
+            "type": "NDB-DME",
+            "frequency_khz": "354",
+            "latitude_deg": "51.623600006103516",
+            "longitude_deg": "8.639439582824707",
+            "elevation_ft": "673",
+            "iso_country": "DE",
+            "dme_frequency_khz": "108500",
+            "dme_channel": "022X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.435",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EDLP"
+        }
+    ]
+}

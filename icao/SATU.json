@@ -1,0 +1,72 @@
+{
+    "id": "5820",
+    "ident": "SATU",
+    "type": "medium_airport",
+    "name": "Curuzu Cuatia Airport",
+    "latitude_deg": "-29.7706",
+    "longitude_deg": "-57.9789",
+    "elevation_ft": "229",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-W",
+    "municipality": "Curuzu Cuatia",
+    "scheduled_service": "no",
+    "gps_code": "SATU",
+    "iata_code": "UZU",
+    "local_code": "CCA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232915",
+            "airport_ref": "5820",
+            "airport_ident": "SATU",
+            "length_ft": "7054",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "1",
+            "le_latitude_deg": "-29.7801",
+            "le_longitude_deg": "-57.979",
+            "le_elevation_ft": "",
+            "le_heading_degT": "1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-29.7607",
+            "he_longitude_deg": "-57.9786",
+            "he_elevation_ft": "",
+            "he_heading_degT": "181",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48356",
+            "airport_ref": "5820",
+            "airport_ident": "SATU",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302952",
+        "code": "AR-W",
+        "local_code": "W",
+        "name": "Corrientes Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Corrientes_Province",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "4683",
+    "ident": "MKTP",
+    "type": "medium_airport",
+    "name": "Tinson Pen Airport",
+    "latitude_deg": "17.98859977722168",
+    "longitude_deg": "-76.82379913330078",
+    "elevation_ft": "16",
+    "continent": "NA",
+    "iso_country": "JM",
+    "iso_region": "JM-02",
+    "municipality": "Tinson Pen",
+    "scheduled_service": "yes",
+    "gps_code": "MKTP",
+    "iata_code": "KTP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tinson_Pen_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237249",
+            "airport_ref": "4683",
+            "airport_ident": "MKTP",
+            "length_ft": "4300",
+            "width_ft": "110",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "17.9924",
+            "le_longitude_deg": "-76.8284",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "131.1",
+            "le_displaced_threshold_ft": "800",
+            "he_ident": "32",
+            "he_latitude_deg": "17.9847",
+            "he_longitude_deg": "-76.8191",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "311.1",
+            "he_displaced_threshold_ft": "700"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54818",
+            "airport_ref": "4683",
+            "airport_ident": "MKTP",
+            "type": "FSS",
+            "description": "FIS",
+            "frequency_mhz": "121.6"
+        }
+    ],
+    "country": {
+        "id": "302741",
+        "code": "JM",
+        "name": "Jamaica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jamaica",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304259",
+        "code": "JM-02",
+        "local_code": "02",
+        "name": "Saint Andrew",
+        "continent": "NA",
+        "iso_country": "JM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Andrew",
+        "keywords": ""
+    }
+}

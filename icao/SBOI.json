@@ -1,0 +1,96 @@
+{
+    "id": "5950",
+    "ident": "SBOI",
+    "type": "medium_airport",
+    "name": "Oiapoque Airport",
+    "latitude_deg": "3.85548996925354",
+    "longitude_deg": "-51.79690170288086",
+    "elevation_ft": "63",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AP",
+    "municipality": "Oiapoque",
+    "scheduled_service": "no",
+    "gps_code": "SBOI",
+    "iata_code": "OYK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234111",
+            "airport_ref": "5950",
+            "airport_ident": "SBOI",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "3",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49675",
+            "airport_ref": "5950",
+            "airport_ident": "SBOI",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "125.9"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303202",
+        "code": "BR-AP",
+        "local_code": "AP",
+        "name": "Amapá",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amapá",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91944",
+            "filename": "Oiapoque_NDB_BR",
+            "ident": "OIA",
+            "name": "Oiapoque",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "3.859829902648926",
+            "longitude_deg": "-51.79779815673828",
+            "elevation_ft": "63",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.156",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBOI"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "id": "5771",
+    "ident": "SABE",
+    "type": "medium_airport",
+    "name": "Jorge Newbery Airpark",
+    "latitude_deg": "-34.5592",
+    "longitude_deg": "-58.4156",
+    "elevation_ft": "18",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-C",
+    "municipality": "Buenos Aires",
+    "scheduled_service": "yes",
+    "gps_code": "SABE",
+    "iata_code": "AEP",
+    "local_code": "AER",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Aeroparque_Jorge_Newbery",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233011",
+            "airport_ref": "5771",
+            "airport_ident": "SABE",
+            "length_ft": "6890",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "-34.5539",
+            "le_longitude_deg": "-58.4251",
+            "le_elevation_ft": "18",
+            "le_heading_degT": "124",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "-34.5645",
+            "he_longitude_deg": "-58.4061",
+            "he_elevation_ft": "15",
+            "he_heading_degT": "304",
+            "he_displaced_threshold_ft": "417"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48432",
+            "airport_ref": "5771",
+            "airport_ident": "SABE",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "48433",
+            "airport_ref": "5771",
+            "airport_ident": "SABE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "48434",
+            "airport_ref": "5771",
+            "airport_ident": "SABE",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "129.3"
+        },
+        {
+            "id": "48435",
+            "airport_ref": "5771",
+            "airport_ident": "SABE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "48436",
+            "airport_ref": "5771",
+            "airport_ident": "SABE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.85"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302934",
+        "code": "AR-C",
+        "local_code": "C",
+        "name": "Capital federal",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92049",
+            "filename": "Aeroparque_Jorge_Newbery_NDB_AR",
+            "ident": "OP",
+            "name": "Aeroparque Jorge Newbery",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "-34.51789855957031",
+            "longitude_deg": "-58.48649978637695",
+            "elevation_ft": "",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.025",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SABE"
+        }
+    ]
+}

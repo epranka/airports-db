@@ -1,0 +1,80 @@
+{
+    "id": "26988",
+    "ident": "YGDA",
+    "type": "small_airport",
+    "name": "Goodooga Airport",
+    "latitude_deg": "-29.073299407958984",
+    "longitude_deg": "147.37600708007812",
+    "elevation_ft": "459",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YGDA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233539",
+            "airport_ref": "26988",
+            "airport_ident": "YGDA",
+            "length_ft": "3530",
+            "width_ft": "60",
+            "surface": "PER",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-29.0698",
+            "le_longitude_deg": "147.381",
+            "le_elevation_ft": "459",
+            "le_heading_degT": "131",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-29.0758",
+            "he_longitude_deg": "147.389",
+            "he_elevation_ft": "459",
+            "he_heading_degT": "311",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49195",
+            "airport_ref": "26988",
+            "airport_ident": "YGDA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49196",
+            "airport_ref": "26988",
+            "airport_ident": "YGDA",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "124.8"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    }
+}

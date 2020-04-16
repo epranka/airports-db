@@ -1,0 +1,72 @@
+{
+    "id": "4240",
+    "ident": "LFTF",
+    "type": "small_airport",
+    "name": "Cuers-Pierrefeu Airport",
+    "latitude_deg": "43.247798919677734",
+    "longitude_deg": "6.126699924468994",
+    "elevation_ft": "266",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-PAC",
+    "municipality": "Cuers/Pierrefeu",
+    "scheduled_service": "no",
+    "gps_code": "LFTF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236031",
+            "airport_ref": "4240",
+            "airport_ident": "LFTF",
+            "length_ft": "6471",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "43.2509",
+            "le_longitude_deg": "6.1153",
+            "le_elevation_ft": "266",
+            "le_heading_degT": "110",
+            "le_displaced_threshold_ft": "1050",
+            "he_ident": "29",
+            "he_latitude_deg": "43.2447",
+            "he_longitude_deg": "6.13809",
+            "he_elevation_ft": "213",
+            "he_heading_degT": "290",
+            "he_displaced_threshold_ft": "1050"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52589",
+            "airport_ref": "4240",
+            "airport_ident": "LFTF",
+            "type": "TWR",
+            "description": "CUERS TWR",
+            "frequency_mhz": "118.275"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306333",
+        "code": "FR-PAC",
+        "local_code": "PAC",
+        "name": "Provence-Alpes-Côte-d'Azur",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur",
+        "keywords": ""
+    }
+}

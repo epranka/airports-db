@@ -1,0 +1,80 @@
+{
+    "id": "27029",
+    "ident": "YKUB",
+    "type": "small_airport",
+    "name": "Kubin Airport",
+    "latitude_deg": "-10.225000381500001",
+    "longitude_deg": "142.218002319",
+    "elevation_ft": "15",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Moa Island",
+    "scheduled_service": "yes",
+    "gps_code": "YKUB",
+    "iata_code": "KUG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kubin_Island_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233087",
+            "airport_ref": "27029",
+            "airport_ident": "YKUB",
+            "length_ft": "3281",
+            "width_ft": "60",
+            "surface": "PER",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-10.215",
+            "le_longitude_deg": "142.214",
+            "le_elevation_ft": "",
+            "le_heading_degT": "112.7",
+            "le_displaced_threshold_ft": "134",
+            "he_ident": "29",
+            "he_latitude_deg": "-10.2185",
+            "he_longitude_deg": "142.223",
+            "he_elevation_ft": "",
+            "he_heading_degT": "292.7",
+            "he_displaced_threshold_ft": "134"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48507",
+            "airport_ref": "27029",
+            "airport_ident": "YKUB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "48508",
+            "airport_ref": "27029",
+            "airport_ident": "YKUB",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "120.3"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

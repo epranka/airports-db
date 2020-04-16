@@ -1,0 +1,96 @@
+{
+    "id": "5999",
+    "ident": "SBYA",
+    "type": "small_airport",
+    "name": "Iauaretê Airport",
+    "latitude_deg": "0.6075000166893",
+    "longitude_deg": "-69.18579864502",
+    "elevation_ft": "345",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "São Gabriel Da Cachoeira",
+    "scheduled_service": "no",
+    "gps_code": "SBYA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://pt.wikipedia.org/wiki/Aeroporto_de_Iauaret%C3%AA",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234222",
+            "airport_ref": "5999",
+            "airport_ident": "SBYA",
+            "length_ft": "5249",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "6",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49750",
+            "airport_ref": "5999",
+            "airport_ident": "SBYA",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "125.9"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303201",
+        "code": "BR-AM",
+        "local_code": "AM",
+        "name": "Amazonas",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95619",
+            "filename": "Iauarete_NDB_BR",
+            "ident": "YAU",
+            "name": "Iauarete",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "0.5996670126914978",
+            "longitude_deg": "-69.18379974365234",
+            "elevation_ft": "345",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.252",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBYA"
+        }
+    ]
+}

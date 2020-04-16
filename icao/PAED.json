@@ -1,0 +1,190 @@
+{
+    "id": "5355",
+    "ident": "PAED",
+    "type": "medium_airport",
+    "name": "Elmendorf Air Force Base",
+    "latitude_deg": "61.250999450683594",
+    "longitude_deg": "-149.8070068359375",
+    "elevation_ft": "212",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Anchorage",
+    "scheduled_service": "no",
+    "gps_code": "PAED",
+    "iata_code": "EDF",
+    "local_code": "EDF",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Elmendorf_Air_Force_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243629",
+            "airport_ref": "5355",
+            "airport_ident": "PAED",
+            "length_ft": "10000",
+            "width_ft": "200",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "61.2486",
+            "le_longitude_deg": "-149.844",
+            "le_elevation_ft": "174",
+            "le_heading_degT": "80",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "61.2534",
+            "he_longitude_deg": "-149.788",
+            "he_elevation_ft": "201",
+            "he_heading_degT": "260",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243630",
+            "airport_ref": "5355",
+            "airport_ident": "PAED",
+            "length_ft": "7500",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "61.2621",
+            "le_longitude_deg": "-149.793",
+            "le_elevation_ft": "212",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "61.2415",
+            "he_longitude_deg": "-149.793",
+            "he_elevation_ft": "185",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66416",
+            "airport_ref": "5355",
+            "airport_ident": "PAED",
+            "type": "A/D",
+            "description": "ANCHORAGE APP/DEP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "66417",
+            "airport_ref": "5355",
+            "airport_ident": "PAED",
+            "type": "ACP",
+            "description": "DENALI",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "66418",
+            "airport_ref": "5355",
+            "airport_ident": "PAED",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "66419",
+            "airport_ref": "5355",
+            "airport_ident": "PAED",
+            "type": "EMR",
+            "description": "RESCUE COORD CNTR",
+            "frequency_mhz": "123.1"
+        },
+        {
+            "id": "66420",
+            "airport_ref": "5355",
+            "airport_ident": "PAED",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "66421",
+            "airport_ref": "5355",
+            "airport_ident": "PAED",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "38.1"
+        },
+        {
+            "id": "66422",
+            "airport_ref": "5355",
+            "airport_ident": "PAED",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.66"
+        },
+        {
+            "id": "66423",
+            "airport_ref": "5355",
+            "airport_ident": "PAED",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "66424",
+            "airport_ref": "5355",
+            "airport_ident": "PAED",
+            "type": "SFA",
+            "description": "SFA",
+            "frequency_mhz": "32.71"
+        },
+        {
+            "id": "66425",
+            "airport_ref": "5355",
+            "airport_ident": "PAED",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87657",
+            "filename": "Elmendorf_TACAN_US",
+            "ident": "EDF",
+            "name": "Elmendorf",
+            "type": "TACAN",
+            "frequency_khz": "113400",
+            "latitude_deg": "61.255001068115234",
+            "longitude_deg": "-149.7689971923828",
+            "elevation_ft": "360",
+            "iso_country": "US",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "21.001",
+            "magnetic_variation_deg": "20.229",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PAED"
+        }
+    ]
+}

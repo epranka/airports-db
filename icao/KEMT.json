@@ -1,0 +1,112 @@
+{
+    "id": "19757",
+    "ident": "KEMT",
+    "type": "small_airport",
+    "name": "San Gabriel Valley Airport",
+    "latitude_deg": "34.086102",
+    "longitude_deg": "-118.035004",
+    "elevation_ft": "296",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "El Monte",
+    "scheduled_service": "no",
+    "gps_code": "KEMT",
+    "iata_code": "EMT",
+    "local_code": "EMT",
+    "home_link": "http://www.americanairports.com/Locations/EMTElMonteAirportCA.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/El_Monte_Airport",
+    "keywords": "El Monte Airport",
+    "runways": [
+        {
+            "id": "241994",
+            "airport_ref": "19757",
+            "airport_ident": "KEMT",
+            "length_ft": "3995",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "34.081",
+            "le_longitude_deg": "-118.038",
+            "le_elevation_ft": "283",
+            "le_heading_degT": "25",
+            "le_displaced_threshold_ft": "290",
+            "he_ident": "19",
+            "he_latitude_deg": "34.091",
+            "he_longitude_deg": "-118.032",
+            "he_elevation_ft": "294",
+            "he_heading_degT": "205",
+            "he_displaced_threshold_ft": "641"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62961",
+            "airport_ref": "19757",
+            "airport_ident": "KEMT",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "62962",
+            "airport_ref": "19757",
+            "airport_ident": "KEMT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.75"
+        },
+        {
+            "id": "62963",
+            "airport_ref": "19757",
+            "airport_ident": "KEMT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "121.2"
+        },
+        {
+            "id": "62964",
+            "airport_ref": "19757",
+            "airport_ident": "KEMT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "62965",
+            "airport_ref": "19757",
+            "airport_ident": "KEMT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.2"
+        },
+        {
+            "id": "62966",
+            "airport_ref": "19757",
+            "airport_ident": "KEMT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

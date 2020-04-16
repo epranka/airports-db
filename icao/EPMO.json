@@ -1,0 +1,72 @@
+{
+    "id": "2622",
+    "ident": "EPMO",
+    "type": "large_airport",
+    "name": "Modlin Airport",
+    "latitude_deg": "52.451099",
+    "longitude_deg": "20.6518",
+    "elevation_ft": "341",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-MZ",
+    "municipality": "Warsaw",
+    "scheduled_service": "yes",
+    "gps_code": "EPMO",
+    "iata_code": "WMI",
+    "local_code": "",
+    "home_link": "http://modlinairport.pl/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Warsaw_Modlin_Airport",
+    "keywords": "Nowy Dwor Mazowiecki",
+    "runways": [
+        {
+            "id": "238269",
+            "airport_ref": "2622",
+            "airport_ident": "EPMO",
+            "length_ft": "8202",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "52.4495",
+            "le_longitude_deg": "20.6336",
+            "le_elevation_ft": "338",
+            "le_heading_degT": "82",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "52.4527",
+            "he_longitude_deg": "20.67",
+            "he_elevation_ft": "341",
+            "he_heading_degT": "262",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56210",
+            "airport_ref": "2622",
+            "airport_ident": "EPMO",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "124.5"
+        }
+    ],
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305150",
+        "code": "PL-MZ",
+        "local_code": "MZ",
+        "name": "Masovia",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Masovian_Voivodeship",
+        "keywords": "Mazowieckie"
+    }
+}

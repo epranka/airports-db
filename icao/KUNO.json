@@ -1,0 +1,96 @@
+{
+    "id": "21298",
+    "ident": "KUNO",
+    "type": "small_airport",
+    "name": "West Plains Municipal Airport",
+    "latitude_deg": "36.87839889526367",
+    "longitude_deg": "-91.90270233154297",
+    "elevation_ft": "1228",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "West Plains",
+    "scheduled_service": "no",
+    "gps_code": "KUNO",
+    "iata_code": "",
+    "local_code": "UNO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245971",
+            "airport_ref": "21298",
+            "airport_ident": "KUNO",
+            "length_ft": "5102",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "36.8854",
+            "le_longitude_deg": "-91.9025",
+            "le_elevation_ft": "1225",
+            "le_heading_degT": "180.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "36.8714",
+            "he_longitude_deg": "-91.9028",
+            "he_elevation_ft": "1228",
+            "he_heading_degT": "0.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71469",
+            "airport_ref": "21298",
+            "airport_ident": "KUNO",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "123.825"
+        },
+        {
+            "id": "71470",
+            "airport_ref": "21298",
+            "airport_ident": "KUNO",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "120.075"
+        },
+        {
+            "id": "71471",
+            "airport_ref": "21298",
+            "airport_ident": "KUNO",
+            "type": "RDO",
+            "description": "COLUMBIA RDO",
+            "frequency_mhz": "122.15"
+        },
+        {
+            "id": "71472",
+            "airport_ref": "21298",
+            "airport_ident": "KUNO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

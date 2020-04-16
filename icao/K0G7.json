@@ -1,0 +1,126 @@
+{
+    "id": "18365",
+    "ident": "K0G7",
+    "type": "small_airport",
+    "name": "Finger Lakes Regional Airport",
+    "latitude_deg": "42.88359832763672",
+    "longitude_deg": "-76.78109741210938",
+    "elevation_ft": "492",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Seneca Falls",
+    "scheduled_service": "no",
+    "gps_code": "K0G7",
+    "iata_code": "",
+    "local_code": "0G7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245241",
+            "airport_ref": "18365",
+            "airport_ident": "K0G7",
+            "length_ft": "3786",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "42.8779",
+            "le_longitude_deg": "-76.7816",
+            "le_elevation_ft": "491",
+            "le_heading_degT": "355",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "42.8883",
+            "he_longitude_deg": "-76.7827",
+            "he_elevation_ft": "484",
+            "he_heading_degT": "175",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245242",
+            "airport_ref": "18365",
+            "airport_ident": "K0G7",
+            "length_ft": "1850",
+            "width_ft": "60",
+            "surface": "TURF-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "42.8845",
+            "le_longitude_deg": "-76.7823",
+            "le_elevation_ft": "491",
+            "le_heading_degT": "94",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "42.8841",
+            "he_longitude_deg": "-76.7754",
+            "he_elevation_ft": "468",
+            "he_heading_degT": "274",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69880",
+            "airport_ref": "18365",
+            "airport_ident": "K0G7",
+            "type": "A/D",
+            "description": "SYRACUSE APP DEP",
+            "frequency_mhz": "126.125"
+        },
+        {
+            "id": "69881",
+            "airport_ref": "18365",
+            "airport_ident": "K0G7",
+            "type": "APP",
+            "description": "ROCHESTER APP",
+            "frequency_mhz": "119.55"
+        },
+        {
+            "id": "69882",
+            "airport_ref": "18365",
+            "airport_ident": "K0G7",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "69883",
+            "airport_ref": "18365",
+            "airport_ident": "K0G7",
+            "type": "MISC",
+            "description": "ELMIRA APP",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "69884",
+            "airport_ref": "18365",
+            "airport_ident": "K0G7",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "27035",
+    "ident": "YLIS",
+    "type": "medium_airport",
+    "name": "Lismore Airport",
+    "latitude_deg": "-28.8302993774",
+    "longitude_deg": "153.259994507",
+    "elevation_ft": "35",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Lismore",
+    "scheduled_service": "yes",
+    "gps_code": "YLIS",
+    "iata_code": "LSY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lismore_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233336",
+            "airport_ref": "27035",
+            "airport_ident": "YLIS",
+            "length_ft": "5404",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "-28.8239",
+            "le_longitude_deg": "153.255",
+            "le_elevation_ft": "35",
+            "le_heading_degT": "157",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "-28.8377",
+            "he_longitude_deg": "153.262",
+            "he_elevation_ft": "31",
+            "he_heading_degT": "337",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48895",
+            "airport_ref": "27035",
+            "airport_ident": "YLIS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "48896",
+            "airport_ref": "27035",
+            "airport_ident": "YLIS",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "120.3"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90356",
+            "filename": "Lismore_NDB_AU",
+            "ident": "LIS",
+            "name": "Lismore",
+            "type": "NDB",
+            "frequency_khz": "239",
+            "latitude_deg": "-28.82309913635254",
+            "longitude_deg": "153.25799560546875",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.346",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YLIS"
+        }
+    ]
+}

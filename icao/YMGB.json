@@ -1,0 +1,80 @@
+{
+    "id": "27054",
+    "ident": "YMGB",
+    "type": "small_airport",
+    "name": "Milingimbi Airport",
+    "latitude_deg": "-12.0944004059",
+    "longitude_deg": "134.893997192",
+    "elevation_ft": "53",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Milingimbi Island",
+    "scheduled_service": "yes",
+    "gps_code": "YMGB",
+    "iata_code": "MGT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Milingimbi_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233517",
+            "airport_ref": "27054",
+            "airport_ident": "YMGB",
+            "length_ft": "4626",
+            "width_ft": "60",
+            "surface": "PER",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-12.0921",
+            "le_longitude_deg": "134.887",
+            "le_elevation_ft": "53",
+            "le_heading_degT": "116",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "-12.0978",
+            "he_longitude_deg": "134.899",
+            "he_elevation_ft": "32",
+            "he_heading_degT": "296",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49162",
+            "airport_ref": "27054",
+            "airport_ident": "YMGB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "49163",
+            "airport_ref": "27054",
+            "airport_ident": "YMGB",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "123.4"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

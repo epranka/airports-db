@@ -1,0 +1,88 @@
+{
+    "id": "19311",
+    "ident": "KASJ",
+    "type": "small_airport",
+    "name": "Tri County Airport",
+    "latitude_deg": "36.29750061035156",
+    "longitude_deg": "-77.1708984375",
+    "elevation_ft": "68",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Ahoskie",
+    "scheduled_service": "no",
+    "gps_code": "KASJ",
+    "iata_code": "",
+    "local_code": "ASJ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tri-County_Airport_(North_Carolina)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240469",
+            "airport_ref": "19311",
+            "airport_ident": "KASJ",
+            "length_ft": "4502",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "36.2913",
+            "le_longitude_deg": "-77.1709",
+            "le_elevation_ft": "68",
+            "le_heading_degT": "1.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "36.3037",
+            "he_longitude_deg": "-77.1706",
+            "he_elevation_ft": "68",
+            "he_heading_degT": "181.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60033",
+            "airport_ref": "19311",
+            "airport_ident": "KASJ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.075"
+        },
+        {
+            "id": "60034",
+            "airport_ref": "19311",
+            "airport_ident": "KASJ",
+            "type": "CNTR",
+            "description": "WASHINGTON CNTR",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "60035",
+            "airport_ref": "19311",
+            "airport_ident": "KASJ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

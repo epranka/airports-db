@@ -1,0 +1,112 @@
+{
+    "id": "5804",
+    "ident": "SARE",
+    "type": "medium_airport",
+    "name": "Resistencia International Airport",
+    "latitude_deg": "-27.45",
+    "longitude_deg": "-59.0561",
+    "elevation_ft": "173",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-H",
+    "municipality": "Resistencia",
+    "scheduled_service": "yes",
+    "gps_code": "SARE",
+    "iata_code": "RES",
+    "local_code": "SIS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Resistencia_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233046",
+            "airport_ref": "5804",
+            "airport_ident": "SARE",
+            "length_ft": "9088",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "3",
+            "le_latitude_deg": "-27.4617",
+            "le_longitude_deg": "-59.0611",
+            "le_elevation_ft": "171",
+            "le_heading_degT": "20.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "-27.4383",
+            "he_longitude_deg": "-59.0511",
+            "he_elevation_ft": "174",
+            "he_heading_degT": "200.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48460",
+            "airport_ref": "5804",
+            "airport_ident": "SARE",
+            "type": "ACC",
+            "description": "RESISTENCIA",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "48461",
+            "airport_ref": "5804",
+            "airport_ident": "SARE",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "48462",
+            "airport_ref": "5804",
+            "airport_ident": "SARE",
+            "type": "TWR",
+            "description": "TWR/APP",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302938",
+        "code": "AR-H",
+        "local_code": "H",
+        "name": "Chaco Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chaco_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93632",
+            "filename": "Resistencia_VOR-DME_AR",
+            "ident": "SIS",
+            "name": "Resistencia",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "-27.4468994140625",
+            "longitude_deg": "-59.05720138549805",
+            "elevation_ft": "194",
+            "iso_country": "AR",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.541",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SARE"
+        }
+    ]
+}

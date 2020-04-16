@@ -1,0 +1,182 @@
+{
+    "id": "3770",
+    "ident": "KPHF",
+    "type": "large_airport",
+    "name": "Newport News Williamsburg International Airport",
+    "latitude_deg": "37.13190079",
+    "longitude_deg": "-76.49299622",
+    "elevation_ft": "42",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Newport News",
+    "scheduled_service": "yes",
+    "gps_code": "KPHF",
+    "iata_code": "PHF",
+    "local_code": "PHF",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Newport_News/Williamsburg_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242823",
+            "airport_ref": "3770",
+            "airport_ident": "KPHF",
+            "length_ft": "6526",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "37.1244",
+            "le_longitude_deg": "-76.4994",
+            "le_elevation_ft": "37",
+            "le_heading_degT": "12.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "37.1419",
+            "he_longitude_deg": "-76.4945",
+            "he_elevation_ft": "43",
+            "he_heading_degT": "192.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242824",
+            "airport_ref": "3770",
+            "airport_ident": "KPHF",
+            "length_ft": "8003",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "37.125",
+            "le_longitude_deg": "-76.5014",
+            "le_elevation_ft": "37",
+            "le_heading_degT": "57.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "37.1367",
+            "he_longitude_deg": "-76.4782",
+            "he_elevation_ft": "39",
+            "he_heading_degT": "237.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64714",
+            "airport_ref": "3770",
+            "airport_ident": "KPHF",
+            "type": "APP",
+            "description": "NORFOLK APP",
+            "frequency_mhz": "125.7"
+        },
+        {
+            "id": "64715",
+            "airport_ref": "3770",
+            "airport_ident": "KPHF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.65"
+        },
+        {
+            "id": "64716",
+            "airport_ref": "3770",
+            "airport_ident": "KPHF",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "64717",
+            "airport_ref": "3770",
+            "airport_ident": "KPHF",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "64718",
+            "airport_ref": "3770",
+            "airport_ident": "KPHF",
+            "type": "DEP",
+            "description": "NORFOLK DEP",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "64719",
+            "airport_ref": "3770",
+            "airport_ident": "KPHF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "64720",
+            "airport_ref": "3770",
+            "airport_ident": "KPHF",
+            "type": "RDO",
+            "description": "LEESBURG RDO",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "64721",
+            "airport_ref": "3770",
+            "airport_ident": "KPHF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "64722",
+            "airport_ref": "3770",
+            "airport_ident": "KPHF",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92470",
+            "filename": "Henry_NDB_US",
+            "ident": "PJS",
+            "name": "Henry",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "37.1328010559082",
+            "longitude_deg": "-76.49320220947266",
+            "elevation_ft": "42",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.331",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KPHF"
+        }
+    ]
+}

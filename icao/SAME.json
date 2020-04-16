@@ -1,0 +1,120 @@
+{
+    "id": "5786",
+    "ident": "SAME",
+    "type": "medium_airport",
+    "name": "El Plumerillo Airport",
+    "latitude_deg": "-32.8316993713",
+    "longitude_deg": "-68.7929000854",
+    "elevation_ft": "2310",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-M",
+    "municipality": "Mendoza",
+    "scheduled_service": "yes",
+    "gps_code": "SAME",
+    "iata_code": "MDZ",
+    "local_code": "DOZ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Governor_Francisco_Gabrielli_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232947",
+            "airport_ref": "5786",
+            "airport_ident": "SAME",
+            "length_ft": "9301",
+            "width_ft": "177",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-32.8192",
+            "le_longitude_deg": "-68.7927",
+            "le_elevation_ft": "2290",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-32.8443",
+            "he_longitude_deg": "-68.7931",
+            "he_elevation_ft": "2310",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48370",
+            "airport_ref": "5786",
+            "airport_ident": "SAME",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "114.9"
+        },
+        {
+            "id": "48371",
+            "airport_ref": "5786",
+            "airport_ident": "SAME",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "48372",
+            "airport_ref": "5786",
+            "airport_ident": "SAME",
+            "type": "TCA",
+            "description": "MENDOZA CON",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "48373",
+            "airport_ref": "5786",
+            "airport_ident": "SAME",
+            "type": "TWR",
+            "description": "MENDOZA APP/TWR",
+            "frequency_mhz": "119.9"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302942",
+        "code": "AR-M",
+        "local_code": "M",
+        "name": "Mendoza Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mendoza_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87496",
+            "filename": "Mendoza_VOR-DME_AR",
+            "ident": "DOZ",
+            "name": "Mendoza",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "-32.83190155029297",
+            "longitude_deg": "-68.79080200195312",
+            "elevation_ft": "2306",
+            "iso_country": "AR",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "1.304",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAME"
+        }
+    ]
+}

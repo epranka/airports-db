@@ -1,0 +1,72 @@
+{
+    "id": "6114",
+    "ident": "SKCV",
+    "type": "medium_airport",
+    "name": "Coveñas Airport",
+    "latitude_deg": "9.40092",
+    "longitude_deg": "-75.6913",
+    "elevation_ft": "31",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-SUC",
+    "municipality": "Coveñas",
+    "scheduled_service": "no",
+    "gps_code": "SKCV",
+    "iata_code": "CVE",
+    "local_code": "CVE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235357",
+            "airport_ref": "6114",
+            "airport_ident": "SKCV",
+            "length_ft": "4396",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "9.39703",
+            "le_longitude_deg": "-75.696",
+            "le_elevation_ft": "",
+            "le_heading_degT": "50.2",
+            "le_displaced_threshold_ft": "175",
+            "he_ident": "23",
+            "he_latitude_deg": "9.40482",
+            "he_longitude_deg": "-75.6866",
+            "he_elevation_ft": "",
+            "he_heading_degT": "230.2",
+            "he_displaced_threshold_ft": "190"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51556",
+            "airport_ref": "6114",
+            "airport_ident": "SKCV",
+            "type": "TWR",
+            "description": "BASE COVENAS TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303485",
+        "code": "CO-SUC",
+        "local_code": "SUC",
+        "name": "Sucre Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sucre_Department",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "27721",
+    "ident": "YLHI",
+    "type": "small_airport",
+    "name": "Lord Howe Island Airport",
+    "latitude_deg": "-31.5382995605",
+    "longitude_deg": "159.07699585",
+    "elevation_ft": "5",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Lord Howe Island",
+    "scheduled_service": "yes",
+    "gps_code": "YLHI",
+    "iata_code": "LDH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lord_Howe_Island_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258881",
+            "airport_ref": "27721",
+            "airport_ident": "YLHI",
+            "length_ft": "2906",
+            "width_ft": "",
+            "surface": "B",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "15",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "17",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "73571",
+            "airport_ref": "27721",
+            "airport_ident": "YLHI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "73572",
+            "airport_ref": "27721",
+            "airport_ident": "YLHI",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "121.6"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90322",
+            "filename": "Lord_Howe_Island_NDB-DME_AU",
+            "ident": "LHI",
+            "name": "Lord Howe Island",
+            "type": "NDB-DME",
+            "frequency_khz": "272",
+            "latitude_deg": "-31.52120018005371",
+            "longitude_deg": "159.0659942626953",
+            "elevation_ft": "43",
+            "iso_country": "AU",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.005",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YLHI"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "30296",
+    "ident": "LKPJ",
+    "type": "small_airport",
+    "name": "Prostejov Airport",
+    "latitude_deg": "49.44779968261719",
+    "longitude_deg": "17.133899688720703",
+    "elevation_ft": "699",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-OL",
+    "municipality": "Prostejov",
+    "scheduled_service": "no",
+    "gps_code": "LKPJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259708",
+            "airport_ref": "30296",
+            "airport_ident": "LKPJ",
+            "length_ft": "3281",
+            "width_ft": "196",
+            "surface": "UNK",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "49.4447",
+            "le_longitude_deg": "17.1412",
+            "le_elevation_ft": "702",
+            "le_heading_degT": "122",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "49.4505",
+            "he_longitude_deg": "17.1276",
+            "he_elevation_ft": "702",
+            "he_heading_degT": "302",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "333263",
+            "airport_ref": "30296",
+            "airport_ident": "LKPJ",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "126.905"
+        }
+    ],
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303538",
+        "code": "CZ-OL",
+        "local_code": "OL",
+        "name": "Olomouc Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Olomouc_Region",
+        "keywords": "Olomoucký kraj, Moravia"
+    }
+}

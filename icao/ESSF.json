@@ -1,0 +1,72 @@
+{
+    "id": "2704",
+    "ident": "ESSF",
+    "type": "small_airport",
+    "name": "Hultsfred Airport",
+    "latitude_deg": "57.525799",
+    "longitude_deg": "15.8233",
+    "elevation_ft": "366",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-H",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "ESSF",
+    "iata_code": "HLF",
+    "local_code": "",
+    "home_link": "http://www.hultsfredairport.se/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hultsfred_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239034",
+            "airport_ref": "2704",
+            "airport_ident": "ESSF",
+            "length_ft": "6383",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "57.5296",
+            "le_longitude_deg": "15.8094",
+            "le_elevation_ft": "366",
+            "le_heading_degT": "116",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "57.5219",
+            "he_longitude_deg": "15.8385",
+            "he_elevation_ft": "358",
+            "he_heading_degT": "296",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "314930",
+            "airport_ref": "2704",
+            "airport_ident": "ESSF",
+            "type": "INF",
+            "description": "Hultsfred airport",
+            "frequency_mhz": "123.55"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305419",
+        "code": "SE-H",
+        "local_code": "H",
+        "name": "Kalmar län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kalmar_län",
+        "keywords": "Kalmar County"
+    }
+}

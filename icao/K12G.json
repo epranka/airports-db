@@ -1,0 +1,102 @@
+{
+    "id": "18408",
+    "ident": "K12G",
+    "type": "small_airport",
+    "name": "Shelby Community Airport",
+    "latitude_deg": "40.87289810180664",
+    "longitude_deg": "-82.69740295410156",
+    "elevation_ft": "1120",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Shelby",
+    "scheduled_service": "no",
+    "gps_code": "K12G",
+    "iata_code": "",
+    "local_code": "12G",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239740",
+            "airport_ref": "18408",
+            "airport_ident": "K12G",
+            "length_ft": "1890",
+            "width_ft": "125",
+            "surface": "TURF-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "40.8722",
+            "le_longitude_deg": "-82.6998",
+            "le_elevation_ft": "1120",
+            "le_heading_degT": "25",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "40.8769",
+            "he_longitude_deg": "-82.6969",
+            "he_elevation_ft": "1118",
+            "he_heading_degT": "205",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239741",
+            "airport_ref": "18408",
+            "airport_ident": "K12G",
+            "length_ft": "3174",
+            "width_ft": "50",
+            "surface": "ASPH-F",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.8762",
+            "le_longitude_deg": "-82.6969",
+            "le_elevation_ft": "1118",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "40.8675",
+            "he_longitude_deg": "-82.6967",
+            "he_elevation_ft": "1119",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58883",
+            "airport_ref": "18408",
+            "airport_ident": "K12G",
+            "type": "A/D",
+            "description": "MANSFIELD APP/DEP",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "58884",
+            "airport_ref": "18408",
+            "airport_ident": "K12G",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

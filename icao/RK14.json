@@ -1,0 +1,80 @@
+{
+    "id": "3799",
+    "ident": "RK14",
+    "type": "small_airport",
+    "name": "Idong Airport (G-231)",
+    "latitude_deg": "38.0266",
+    "longitude_deg": "127.366997",
+    "elevation_ft": "464",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-41",
+    "municipality": "Idong-myeon",
+    "scheduled_service": "no",
+    "gps_code": "RKRI",
+    "iata_code": "",
+    "local_code": "RK14",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237337",
+            "airport_ref": "3799",
+            "airport_ident": "RK14",
+            "length_ft": "2345",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.0298",
+            "le_longitude_deg": "127.366",
+            "le_elevation_ft": "",
+            "le_heading_degT": "174.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.0234",
+            "he_longitude_deg": "127.367",
+            "he_elevation_ft": "",
+            "he_heading_degT": "354.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55056",
+            "airport_ref": "3799",
+            "airport_ident": "RK14",
+            "type": "FCC",
+            "description": "FCC NORTH",
+            "frequency_mhz": "35"
+        },
+        {
+            "id": "55057",
+            "airport_ref": "3799",
+            "airport_ident": "RK14",
+            "type": "TWR",
+            "description": "SEUNG JIN TWR",
+            "frequency_mhz": "38"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304407",
+        "code": "KR-41",
+        "local_code": "41",
+        "name": "Gyeonggido",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeonggido",
+        "keywords": ""
+    }
+}

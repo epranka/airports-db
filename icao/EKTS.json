@@ -1,0 +1,96 @@
+{
+    "id": "2557",
+    "ident": "EKTS",
+    "type": "medium_airport",
+    "name": "Thisted Airport",
+    "latitude_deg": "57.06880187988281",
+    "longitude_deg": "8.705220222473145",
+    "elevation_ft": "23",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-81",
+    "municipality": "Thisted",
+    "scheduled_service": "no",
+    "gps_code": "EKTS",
+    "iata_code": "TED",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Thisted_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235445",
+            "airport_ref": "2557",
+            "airport_ident": "EKTS",
+            "length_ft": "5249",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "57.0701",
+            "le_longitude_deg": "8.69224",
+            "le_elevation_ft": "21",
+            "le_heading_degT": "100.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "57.0675",
+            "he_longitude_deg": "8.71821",
+            "he_elevation_ft": "23",
+            "he_heading_degT": "280.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51699",
+            "airport_ref": "2557",
+            "airport_ident": "EKTS",
+            "type": "RADIO",
+            "description": "Thisted Radio",
+            "frequency_mhz": "118.125"
+        }
+    ],
+    "country": {
+        "id": "302682",
+        "code": "DK",
+        "name": "Denmark",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
+        "keywords": "Lufthavnene i Danmark"
+    },
+    "region": {
+        "id": "306329",
+        "code": "DK-81",
+        "local_code": "81",
+        "name": "North Jutland",
+        "continent": "EU",
+        "iso_country": "DK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Jutland",
+        "keywords": "Nordjylland"
+    },
+    "navaids": [
+        {
+            "id": "94278",
+            "filename": "Thisted_NDB_DK",
+            "ident": "TE",
+            "name": "Thisted",
+            "type": "NDB",
+            "frequency_khz": "331",
+            "latitude_deg": "57.05350112915039",
+            "longitude_deg": "8.864419937133789",
+            "elevation_ft": "",
+            "iso_country": "DK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.322",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "EKTS"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "27207",
+    "ident": "ZMBU",
+    "type": "medium_airport",
+    "name": "Baruun Urt Airport",
+    "latitude_deg": "46.660301208496094",
+    "longitude_deg": "113.28500366210938",
+    "elevation_ft": "3205",
+    "continent": "AS",
+    "iso_country": "MN",
+    "iso_region": "MN-051",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ZMBU",
+    "iata_code": "UUN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Baruun-Urt_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237554",
+            "airport_ref": "27207",
+            "airport_ident": "ZMBU",
+            "length_ft": "7217",
+            "width_ft": "164",
+            "surface": "BIT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "46.67",
+            "le_longitude_deg": "113.283",
+            "le_elevation_ft": "3159",
+            "le_heading_degT": "172.1",
+            "le_displaced_threshold_ft": "983",
+            "he_ident": "36",
+            "he_latitude_deg": "46.6507",
+            "he_longitude_deg": "113.287",
+            "he_elevation_ft": "3094",
+            "he_heading_degT": "352.1",
+            "he_displaced_threshold_ft": "983"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55290",
+            "airport_ref": "27207",
+            "airport_ident": "ZMBU",
+            "type": "INFO",
+            "description": "SHARGA",
+            "frequency_mhz": "130"
+        },
+        {
+            "id": "55291",
+            "airport_ref": "27207",
+            "airport_ident": "ZMBU",
+            "type": "RDO",
+            "description": "SHARGA",
+            "frequency_mhz": "550.5"
+        }
+    ],
+    "country": {
+        "id": "302650",
+        "code": "MN",
+        "name": "Mongolia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongolia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304689",
+        "code": "MN-051",
+        "local_code": "051",
+        "name": "Shbaatar",
+        "continent": "AS",
+        "iso_country": "MN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shbaatar",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93414",
+            "filename": "Baruun-Urt_NDB_MN",
+            "ident": "SB",
+            "name": "Baruun-Urt",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "46.67190170288086",
+            "longitude_deg": "113.28500366210938",
+            "elevation_ft": "",
+            "iso_country": "MN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.413",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ZMBU"
+        }
+    ]
+}

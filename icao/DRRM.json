@@ -1,0 +1,96 @@
+{
+    "id": "2124",
+    "ident": "DRRM",
+    "type": "medium_airport",
+    "name": "Maradi Airport",
+    "latitude_deg": "13.5024995803833",
+    "longitude_deg": "7.1267499923706055",
+    "elevation_ft": "1240",
+    "continent": "AF",
+    "iso_country": "NE",
+    "iso_region": "NE-4",
+    "municipality": "Maradi",
+    "scheduled_service": "no",
+    "gps_code": "DRRM",
+    "iata_code": "MFQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237878",
+            "airport_ref": "2124",
+            "airport_ident": "DRRM",
+            "length_ft": "6070",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "13.5016",
+            "le_longitude_deg": "7.11824",
+            "le_elevation_ft": "1214",
+            "le_heading_degT": "83.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "13.5034",
+            "he_longitude_deg": "7.13527",
+            "he_elevation_ft": "1240",
+            "he_heading_degT": "263.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55689",
+            "airport_ref": "2124",
+            "airport_ident": "DRRM",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302592",
+        "code": "NE",
+        "name": "Niger",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Niger",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304869",
+        "code": "NE-4",
+        "local_code": "4",
+        "name": "Maradi Region",
+        "continent": "AF",
+        "iso_country": "NE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maradi_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91403",
+            "filename": "Maradi_NDB_NE",
+            "ident": "MY",
+            "name": "Maradi",
+            "type": "NDB",
+            "frequency_khz": "284",
+            "latitude_deg": "13.500699996948242",
+            "longitude_deg": "7.109000205993652",
+            "elevation_ft": "1299",
+            "iso_country": "NE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.183",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DRRM"
+        }
+    ]
+}

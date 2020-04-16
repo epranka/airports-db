@@ -1,0 +1,166 @@
+{
+    "id": "1808",
+    "ident": "CYLW",
+    "type": "medium_airport",
+    "name": "Kelowna International Airport",
+    "latitude_deg": "49.9561004639",
+    "longitude_deg": "-119.377998352",
+    "elevation_ft": "1421",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Kelowna",
+    "scheduled_service": "yes",
+    "gps_code": "CYLW",
+    "iata_code": "YLW",
+    "local_code": "",
+    "home_link": "http://www.kelowna.ca/CM/Page68.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kelowna_International_Airport",
+    "keywords": "Kelowna, Okanagan",
+    "runways": [
+        {
+            "id": "235026",
+            "airport_ref": "1808",
+            "airport_ident": "CYLW",
+            "length_ft": "8900",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "49.9661",
+            "le_longitude_deg": "-119.379",
+            "le_elevation_ft": "1421",
+            "le_heading_degT": "175",
+            "le_displaced_threshold_ft": "1200",
+            "he_ident": "34",
+            "he_latitude_deg": "49.9462",
+            "he_longitude_deg": "-119.376",
+            "he_elevation_ft": "1370",
+            "he_heading_degT": "355",
+            "he_displaced_threshold_ft": "400"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50910",
+            "airport_ref": "1808",
+            "airport_ident": "CYLW",
+            "type": "A/G",
+            "description": "PACIFIC RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "50911",
+            "airport_ref": "1808",
+            "airport_ident": "CYLW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "50912",
+            "airport_ref": "1808",
+            "airport_ident": "CYLW",
+            "type": "EMR",
+            "description": "EMR",
+            "frequency_mhz": "122.675"
+        },
+        {
+            "id": "50913",
+            "airport_ref": "1808",
+            "airport_ident": "CYLW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "50915",
+            "airport_ref": "1808",
+            "airport_ident": "CYLW",
+            "type": "RCO",
+            "description": "PENTICTON RDO",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "50916",
+            "airport_ref": "1808",
+            "airport_ident": "CYLW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "50914",
+            "airport_ref": "1808",
+            "airport_ident": "CYLW",
+            "type": "VDF",
+            "description": "",
+            "frequency_mhz": "119.6"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87885",
+            "filename": "Rutland_NDB_CA",
+            "ident": "EX",
+            "name": "Rutland",
+            "type": "NDB",
+            "frequency_khz": "374",
+            "latitude_deg": "49.939701080322266",
+            "longitude_deg": "-119.3759994506836",
+            "elevation_ft": "1409",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.468",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYLW"
+        },
+        {
+            "id": "90629",
+            "filename": "Kelowna_NDB_CA",
+            "ident": "LW",
+            "name": "Kelowna",
+            "type": "NDB",
+            "frequency_khz": "257",
+            "latitude_deg": "50.06079864501953",
+            "longitude_deg": "-119.41600036621094",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.502",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYLW"
+        }
+    ]
+}

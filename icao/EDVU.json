@@ -1,0 +1,72 @@
+{
+    "id": "28741",
+    "ident": "EDVU",
+    "type": "small_airport",
+    "name": "Uelzen Airport",
+    "latitude_deg": "52.9838905334",
+    "longitude_deg": "10.4650001526",
+    "elevation_ft": "246",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Uelzen",
+    "scheduled_service": "no",
+    "gps_code": "EDVU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.flugplatz-uelzen.de",
+    "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_Uelzen",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259839",
+            "airport_ref": "28741",
+            "airport_ident": "EDVU",
+            "length_ft": "2625",
+            "width_ft": "65",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "246",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "246",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "314142",
+            "airport_ref": "28741",
+            "airport_ident": "EDVU",
+            "type": "TWR",
+            "description": "Uelzen INFO",
+            "frequency_mhz": "130.9"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303555",
+        "code": "DE-NI",
+        "local_code": "NI",
+        "name": "Lower Saxony",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
+        "keywords": "Niedersachsen"
+    }
+}

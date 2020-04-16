@@ -1,0 +1,88 @@
+{
+    "id": "19871",
+    "ident": "KFKA",
+    "type": "small_airport",
+    "name": "Fillmore County Airport",
+    "latitude_deg": "43.67679977",
+    "longitude_deg": "-92.17970276",
+    "elevation_ft": "1277",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Preston",
+    "scheduled_service": "no",
+    "gps_code": "KFKA",
+    "iata_code": "",
+    "local_code": "FKA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242098",
+            "airport_ref": "19871",
+            "airport_ident": "KFKA",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "43.6783",
+            "le_longitude_deg": "-92.1871",
+            "le_elevation_ft": "1276",
+            "le_heading_degT": "108",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "43.675",
+            "he_longitude_deg": "-92.1727",
+            "he_elevation_ft": "1276",
+            "he_heading_degT": "288",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63197",
+            "airport_ref": "19871",
+            "airport_ident": "KFKA",
+            "type": "A/D",
+            "description": "ROCHESTER APP/DEP",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "63198",
+            "airport_ref": "19871",
+            "airport_ident": "KFKA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.925"
+        },
+        {
+            "id": "63199",
+            "airport_ref": "19871",
+            "airport_ident": "KFKA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

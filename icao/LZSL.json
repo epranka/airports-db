@@ -1,0 +1,104 @@
+{
+    "id": "4621",
+    "ident": "LZSL",
+    "type": "medium_airport",
+    "name": "Sliač Airport",
+    "latitude_deg": "48.63779830932617",
+    "longitude_deg": "19.13409996032715",
+    "elevation_ft": "1043",
+    "continent": "EU",
+    "iso_country": "SK",
+    "iso_region": "SK-BC",
+    "municipality": "Sliač",
+    "scheduled_service": "yes",
+    "gps_code": "LZSL",
+    "iata_code": "SLD",
+    "local_code": "",
+    "home_link": "http://www.airportsliac.sk/home-engle.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Slia%C4%8D_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237440",
+            "airport_ref": "4621",
+            "airport_ident": "LZSL",
+            "length_ft": "7874",
+            "width_ft": "187",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "48.6273",
+            "le_longitude_deg": "19.1336",
+            "le_elevation_ft": "1044",
+            "le_heading_degT": "182",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "48.6489",
+            "he_longitude_deg": "19.1347",
+            "he_elevation_ft": "1014",
+            "he_heading_degT": "2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55192",
+            "airport_ref": "4621",
+            "airport_ident": "LZSL",
+            "type": "APP",
+            "description": "SLIAČ APPROACH",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "55193",
+            "airport_ref": "4621",
+            "airport_ident": "LZSL",
+            "type": "TWR",
+            "description": "SLIAČ TOWER",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302717",
+        "code": "SK",
+        "name": "Slovakia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovakia",
+        "keywords": "letisko Slovenska"
+    },
+    "region": {
+        "id": "305591",
+        "code": "SK-BC",
+        "local_code": "BC",
+        "name": "Banská Bystrica",
+        "continent": "EU",
+        "iso_country": "SK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Banská_Bystrica",
+        "keywords": "Banskobystrický kraj"
+    },
+    "navaids": [
+        {
+            "id": "93722",
+            "filename": "Sliac_VOR-DME_SK",
+            "ident": "SLC",
+            "name": "Sliac",
+            "type": "VOR-DME",
+            "frequency_khz": "114000",
+            "latitude_deg": "48.45320129394531",
+            "longitude_deg": "19.11590003967285",
+            "elevation_ft": "1670",
+            "iso_country": "SK",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.272",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LZSL"
+        }
+    ]
+}

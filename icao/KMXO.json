@@ -1,0 +1,110 @@
+{
+    "id": "20587",
+    "ident": "KMXO",
+    "type": "small_airport",
+    "name": "Monticello Regional Airport",
+    "latitude_deg": "42.22040176",
+    "longitude_deg": "-91.16329956",
+    "elevation_ft": "832",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Monticello",
+    "scheduled_service": "no",
+    "gps_code": "KMXO",
+    "iata_code": "",
+    "local_code": "MXO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241737",
+            "airport_ref": "20587",
+            "airport_ident": "KMXO",
+            "length_ft": "2275",
+            "width_ft": "90",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "42.2189",
+            "le_longitude_deg": "-91.1659",
+            "le_elevation_ft": "822",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "42.2189",
+            "he_longitude_deg": "-91.1575",
+            "he_elevation_ft": "833",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241738",
+            "airport_ref": "20587",
+            "airport_ident": "KMXO",
+            "length_ft": "4400",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "42.2265",
+            "le_longitude_deg": "-91.1677",
+            "le_elevation_ft": "825",
+            "le_heading_degT": "153.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "42.2157",
+            "he_longitude_deg": "-91.1606",
+            "he_elevation_ft": "829",
+            "he_heading_degT": "333.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62462",
+            "airport_ref": "20587",
+            "airport_ident": "KMXO",
+            "type": "A/D",
+            "description": "CEDAR RAPIDS APP/DEP",
+            "frequency_mhz": "134.05"
+        },
+        {
+            "id": "62463",
+            "airport_ref": "20587",
+            "airport_ident": "KMXO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "62464",
+            "airport_ref": "20587",
+            "airport_ident": "KMXO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "id": "3723",
+    "ident": "KNEW",
+    "type": "medium_airport",
+    "name": "Lakefront Airport",
+    "latitude_deg": "30.042400360107",
+    "longitude_deg": "-90.028297424316",
+    "elevation_ft": "8",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "New Orleans",
+    "scheduled_service": "no",
+    "gps_code": "KNEW",
+    "iata_code": "NEW",
+    "local_code": "NEW",
+    "home_link": "http://www.lakefrontairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_Orleans_Lakefront_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243365",
+            "airport_ref": "3723",
+            "airport_ident": "KNEW",
+            "length_ft": "3113",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "30.0371",
+            "le_longitude_deg": "-90.0306",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "89",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "30.0372",
+            "he_longitude_deg": "-90.0208",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "269",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243367",
+            "airport_ref": "3723",
+            "airport_ident": "KNEW",
+            "length_ft": "3697",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18L",
+            "le_latitude_deg": "30.0502",
+            "le_longitude_deg": "-90.0277",
+            "le_elevation_ft": "6",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36R",
+            "he_latitude_deg": "30.04",
+            "he_longitude_deg": "-90.0275",
+            "he_elevation_ft": "7",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243366",
+            "airport_ref": "3723",
+            "airport_ident": "KNEW",
+            "length_ft": "6880",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18R",
+            "le_latitude_deg": "30.0528",
+            "le_longitude_deg": "-90.0299",
+            "le_elevation_ft": "6",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "240",
+            "he_ident": "36L",
+            "he_latitude_deg": "30.0339",
+            "he_longitude_deg": "-90.0296",
+            "he_elevation_ft": "7",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": "820"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65819",
+            "airport_ref": "3723",
+            "airport_ident": "KNEW",
+            "type": "A/D",
+            "description": "NEW ORLEANS APP/DEP",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "65820",
+            "airport_ref": "3723",
+            "airport_ident": "KNEW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "65821",
+            "airport_ref": "3723",
+            "airport_ident": "KNEW",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "65822",
+            "airport_ref": "3723",
+            "airport_ident": "KNEW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "65823",
+            "airport_ref": "3723",
+            "airport_ident": "KNEW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "65824",
+            "airport_ref": "3723",
+            "airport_ident": "KNEW",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "141.35"
+        },
+        {
+            "id": "65825",
+            "airport_ref": "3723",
+            "airport_ident": "KNEW",
+            "type": "RDO",
+            "description": "DE RIDDER RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "65826",
+            "airport_ref": "3723",
+            "airport_ident": "KNEW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "65827",
+            "airport_ref": "3723",
+            "airport_ident": "KNEW",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

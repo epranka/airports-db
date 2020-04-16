@@ -1,0 +1,104 @@
+{
+    "id": "21374",
+    "ident": "KWHP",
+    "type": "small_airport",
+    "name": "Whiteman Airport",
+    "latitude_deg": "34.2593002319",
+    "longitude_deg": "-118.413002014",
+    "elevation_ft": "1003",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Los Angeles",
+    "scheduled_service": "no",
+    "gps_code": "KWHP",
+    "iata_code": "WHP",
+    "local_code": "WHP",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Whiteman_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244504",
+            "airport_ref": "21374",
+            "airport_ident": "KWHP",
+            "length_ft": "4120",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "34.2635",
+            "le_longitude_deg": "-118.418",
+            "le_elevation_ft": "998",
+            "le_heading_degT": "139",
+            "le_displaced_threshold_ft": "939",
+            "he_ident": "30",
+            "he_latitude_deg": "34.255",
+            "he_longitude_deg": "-118.409",
+            "he_elevation_ft": "965",
+            "he_heading_degT": "319",
+            "he_displaced_threshold_ft": "478"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68237",
+            "airport_ref": "21374",
+            "airport_ident": "KWHP",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "314902",
+            "airport_ref": "21374",
+            "airport_ident": "KWHP",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "68238",
+            "airport_ref": "21374",
+            "airport_ident": "KWHP",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.95"
+        },
+        {
+            "id": "68239",
+            "airport_ref": "21374",
+            "airport_ident": "KWHP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "68240",
+            "airport_ref": "21374",
+            "airport_ident": "KWHP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "135"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

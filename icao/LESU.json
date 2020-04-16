@@ -1,0 +1,96 @@
+{
+    "id": "4039",
+    "ident": "LESU",
+    "type": "small_airport",
+    "name": "Pirineus - la Seu d'Urgel Airport",
+    "latitude_deg": "42.3386",
+    "longitude_deg": "1.40917",
+    "elevation_ft": "2625",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "La Seu d'Urgell Pyrenees and Andorra",
+    "scheduled_service": "yes",
+    "gps_code": "LESU",
+    "iata_code": "LEU",
+    "local_code": "",
+    "home_link": "http://www10.gencat.net/ptop/AppJava/cat/aerotrans/aerodroms/aerodroms/pirineus.jsp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/La_Seu_d'Urgell_Airport",
+    "keywords": "Montferrer, Castellbò",
+    "runways": [
+        {
+            "id": "238943",
+            "airport_ref": "4039",
+            "airport_ident": "LESU",
+            "length_ft": "4396",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "42.3371",
+            "le_longitude_deg": "1.40709",
+            "le_elevation_ft": "",
+            "le_heading_degT": "39",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "42.3465",
+            "he_longitude_deg": "1.41726",
+            "he_elevation_ft": "",
+            "he_heading_degT": "219",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "327247",
+            "airport_ref": "4039",
+            "airport_ident": "LESU",
+            "type": "A/A",
+            "description": "Visual approach chart.",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303745",
+        "code": "ES-CT",
+        "local_code": "CT",
+        "name": "Catalonia",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Catalonia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93501",
+            "filename": "Seo_De_Urgel_NDB_ES",
+            "ident": "SEO",
+            "name": "Seo De Urgel",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "42.232200622558594",
+            "longitude_deg": "1.4035199880599976",
+            "elevation_ft": "",
+            "iso_country": "ES",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.506",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LESU"
+        }
+    ]
+}

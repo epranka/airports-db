@@ -1,0 +1,110 @@
+{
+    "id": "19802",
+    "ident": "KF17",
+    "type": "small_airport",
+    "name": "Center Municipal Airport",
+    "latitude_deg": "31.8316",
+    "longitude_deg": "-94.156403",
+    "elevation_ft": "319",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Center",
+    "scheduled_service": "no",
+    "gps_code": "KF17",
+    "iata_code": "",
+    "local_code": "F17",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242755",
+            "airport_ref": "19802",
+            "airport_ident": "KF17",
+            "length_ft": "2400",
+            "width_ft": "40",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "14",
+            "le_latitude_deg": "31.8328",
+            "le_longitude_deg": "-94.1561",
+            "le_elevation_ft": "",
+            "le_heading_degT": "143",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "31.8275",
+            "he_longitude_deg": "-94.1514",
+            "he_elevation_ft": "",
+            "he_heading_degT": "323",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242756",
+            "airport_ref": "19802",
+            "airport_ident": "KF17",
+            "length_ft": "5501",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "31.8391",
+            "le_longitude_deg": "-94.1579",
+            "le_elevation_ft": "319",
+            "le_heading_degT": "170.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "31.8241",
+            "he_longitude_deg": "-94.155",
+            "he_elevation_ft": "291",
+            "he_heading_degT": "350.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64574",
+            "airport_ref": "19802",
+            "airport_ident": "KF17",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "126.325"
+        },
+        {
+            "id": "64575",
+            "airport_ref": "19802",
+            "airport_ident": "KF17",
+            "type": "RDO",
+            "description": "MONTGOMERY CO RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "64576",
+            "airport_ref": "19802",
+            "airport_ident": "KF17",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

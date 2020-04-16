@@ -1,0 +1,80 @@
+{
+    "id": "20633",
+    "ident": "KNDY",
+    "type": "small_airport",
+    "name": "Dahlgren Naval Surface Warfare Center Airport",
+    "latitude_deg": "38.33250046",
+    "longitude_deg": "-77.03720093",
+    "elevation_ft": "18",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Dahlgren",
+    "scheduled_service": "no",
+    "gps_code": "KNDY",
+    "iata_code": "DGN",
+    "local_code": "NDY",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Naval_Surface_Warfare_Center_Dahlgren_Division",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244590",
+            "airport_ref": "20633",
+            "airport_ident": "KNDY",
+            "length_ft": "4191",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "38.3364",
+            "le_longitude_deg": "-77.0397",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "159",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "38.3256",
+            "he_longitude_deg": "-77.0344",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "339",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68449",
+            "airport_ref": "20633",
+            "airport_ident": "KNDY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.15"
+        },
+        {
+            "id": "68450",
+            "airport_ref": "20633",
+            "airport_ident": "KNDY",
+            "type": "OPS",
+            "description": "NAVY DAHLGREN OPS",
+            "frequency_mhz": "120.15"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    }
+}

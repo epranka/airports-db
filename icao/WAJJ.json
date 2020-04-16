@@ -1,0 +1,142 @@
+{
+    "id": "26755",
+    "ident": "WAJJ",
+    "type": "large_airport",
+    "name": "Sentani International Airport",
+    "latitude_deg": "-2.5769500733",
+    "longitude_deg": "140.5160064698",
+    "elevation_ft": "289",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PA",
+    "municipality": "Jayapura-Papua Island",
+    "scheduled_service": "yes",
+    "gps_code": "WAJJ",
+    "iata_code": "DJJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sentani_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236534",
+            "airport_ref": "26755",
+            "airport_ident": "WAJJ",
+            "length_ft": "7161",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-2.57111",
+            "le_longitude_deg": "140.509",
+            "le_elevation_ft": "292",
+            "le_heading_degT": "126.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-2.58286",
+            "he_longitude_deg": "140.524",
+            "he_elevation_ft": "289",
+            "he_heading_degT": "306.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53680",
+            "airport_ref": "26755",
+            "airport_ident": "WAJJ",
+            "type": "APP",
+            "description": "JAYAPURA APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "53681",
+            "airport_ref": "26755",
+            "airport_ident": "WAJJ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.8"
+        },
+        {
+            "id": "53682",
+            "airport_ref": "26755",
+            "airport_ident": "WAJJ",
+            "type": "INFO",
+            "description": "JAYAPURA INFO",
+            "frequency_mhz": "295.6"
+        },
+        {
+            "id": "53683",
+            "airport_ref": "26755",
+            "airport_ident": "WAJJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304118",
+        "code": "ID-PA",
+        "local_code": "PA",
+        "name": "Papua",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89537",
+            "filename": "Jayapura_VOR-DME_ID",
+            "ident": "JPA",
+            "name": "Jayapura",
+            "type": "VOR-DME",
+            "frequency_khz": "116200",
+            "latitude_deg": "-2.5876901149749756",
+            "longitude_deg": "140.531005859375",
+            "elevation_ft": "289",
+            "iso_country": "ID",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.011",
+            "magnetic_variation_deg": "3.588",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WAJJ"
+        },
+        {
+            "id": "96072",
+            "filename": "Jayapura_NDB_ID",
+            "ident": "ZN",
+            "name": "Jayapura",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "-2.56823992729187",
+            "longitude_deg": "140.5070037841797",
+            "elevation_ft": "289",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.584",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAJJ"
+        }
+    ]
+}

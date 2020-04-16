@@ -1,0 +1,104 @@
+{
+    "id": "4717",
+    "ident": "MMIT",
+    "type": "medium_airport",
+    "name": "Ixtepec Airport",
+    "latitude_deg": "16.449301",
+    "longitude_deg": "-95.093697",
+    "elevation_ft": "164",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-OAX",
+    "municipality": "Ixtepec",
+    "scheduled_service": "yes",
+    "gps_code": "MMIT",
+    "iata_code": "IZT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ixtepec_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237746",
+            "airport_ref": "4717",
+            "airport_ident": "MMIT",
+            "length_ft": "7640",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "16.4599",
+            "le_longitude_deg": "-95.0937",
+            "le_elevation_ft": "",
+            "le_heading_degT": "179.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "16.4388",
+            "he_longitude_deg": "-95.0937",
+            "he_elevation_ft": "",
+            "he_heading_degT": "359.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55495",
+            "airport_ref": "4717",
+            "airport_ident": "MMIT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "55496",
+            "airport_ref": "4717",
+            "airport_ident": "MMIT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.45"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304809",
+        "code": "MX-OAX",
+        "local_code": "OAX",
+        "name": "Oaxaca",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oaxaca",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89411",
+            "filename": "Ixtepec_VOR-DME_MX",
+            "ident": "IZT",
+            "name": "Ixtepec",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "16.463899612426758",
+            "longitude_deg": "-95.09510040283203",
+            "elevation_ft": "164",
+            "iso_country": "MX",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.007",
+            "magnetic_variation_deg": "4.321",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMIT"
+        }
+    ]
+}

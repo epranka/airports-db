@@ -1,0 +1,80 @@
+{
+    "id": "1932",
+    "ident": "CYVB",
+    "type": "medium_airport",
+    "name": "Bonaventure Airport",
+    "latitude_deg": "48.07109832763672",
+    "longitude_deg": "-65.46029663085938",
+    "elevation_ft": "123",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Bonaventure",
+    "scheduled_service": "no",
+    "gps_code": "CYVB",
+    "iata_code": "YVB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bonaventure_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234891",
+            "airport_ref": "1932",
+            "airport_ident": "CYVB",
+            "length_ft": "5985",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "48.0745",
+            "le_longitude_deg": "-65.4713",
+            "le_elevation_ft": "123",
+            "le_heading_degT": "115",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "48.0676",
+            "he_longitude_deg": "-65.4491",
+            "he_elevation_ft": "98",
+            "he_heading_degT": "295",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50676",
+            "airport_ref": "1932",
+            "airport_ident": "CYVB",
+            "type": "ATF",
+            "description": "MF/UNICOM",
+            "frequency_mhz": "123"
+        },
+        {
+            "id": "50677",
+            "airport_ref": "1932",
+            "airport_ident": "CYVB",
+            "type": "RCO",
+            "description": "QUEBEC RDO",
+            "frequency_mhz": "123.55"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    }
+}

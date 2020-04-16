@@ -1,0 +1,118 @@
+{
+    "id": "21441",
+    "ident": "KZER",
+    "type": "small_airport",
+    "name": "Schuylkill County /Joe Zerbey/ Airport",
+    "latitude_deg": "40.70650101",
+    "longitude_deg": "-76.37310028",
+    "elevation_ft": "1729",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Pottsville",
+    "scheduled_service": "no",
+    "gps_code": "KZER",
+    "iata_code": "",
+    "local_code": "ZER",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Schuylkill_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244327",
+            "airport_ref": "21441",
+            "airport_ident": "KZER",
+            "length_ft": "2270",
+            "width_ft": "140",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "40.7056",
+            "le_longitude_deg": "-76.3705",
+            "le_elevation_ft": "",
+            "le_heading_degT": "31",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "40.711",
+            "he_longitude_deg": "-76.3663",
+            "he_elevation_ft": "",
+            "he_heading_degT": "211",
+            "he_displaced_threshold_ft": "200"
+        },
+        {
+            "id": "244328",
+            "airport_ref": "21441",
+            "airport_ident": "KZER",
+            "length_ft": "4594",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "40.7064",
+            "le_longitude_deg": "-76.3837",
+            "le_elevation_ft": "1734",
+            "le_heading_degT": "97.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "40.7047",
+            "he_longitude_deg": "-76.3673",
+            "he_elevation_ft": "1708",
+            "he_heading_degT": "277.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67847",
+            "airport_ref": "21441",
+            "airport_ident": "KZER",
+            "type": "A/D",
+            "description": "HARRISBURG APP/DEP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "67848",
+            "airport_ref": "21441",
+            "airport_ident": "KZER",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "127.57"
+        },
+        {
+            "id": "67849",
+            "airport_ref": "21441",
+            "airport_ident": "KZER",
+            "type": "RDO",
+            "description": "WILLIAMSPORT RDO",
+            "frequency_mhz": "114.6"
+        },
+        {
+            "id": "67850",
+            "airport_ref": "21441",
+            "airport_ident": "KZER",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

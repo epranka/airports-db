@@ -1,0 +1,104 @@
+{
+    "id": "4294",
+    "ident": "LGTT",
+    "type": "small_airport",
+    "name": "Tatoi Airport",
+    "latitude_deg": "38.1088981628418",
+    "longitude_deg": "23.78380012512207",
+    "elevation_ft": "785",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-A1",
+    "municipality": "Tatoi",
+    "scheduled_service": "no",
+    "gps_code": "LGTT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236353",
+            "airport_ref": "4294",
+            "airport_ident": "LGTT",
+            "length_ft": "5789",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "38.1021",
+            "le_longitude_deg": "23.7786",
+            "le_elevation_ft": "",
+            "le_heading_degT": "31",
+            "le_displaced_threshold_ft": "504",
+            "he_ident": "21",
+            "he_latitude_deg": "38.1157",
+            "he_longitude_deg": "23.789",
+            "he_elevation_ft": "",
+            "he_heading_degT": "211",
+            "he_displaced_threshold_ft": "702"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53362",
+            "airport_ref": "4294",
+            "airport_ident": "LGTT",
+            "type": "APP",
+            "description": "ATHINAI APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "53363",
+            "airport_ref": "4294",
+            "airport_ident": "LGTT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "303957",
+        "code": "GR-A1",
+        "local_code": "A1",
+        "name": "Attica",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Attica",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87333",
+            "filename": "Dekelia_NDB_GR",
+            "ident": "DEK",
+            "name": "Dekelia",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "38.10329818725586",
+            "longitude_deg": "23.772199630737305",
+            "elevation_ft": "",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.182",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LGTT"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "id": "1895",
+    "ident": "CYRT",
+    "type": "medium_airport",
+    "name": "Rankin Inlet Airport",
+    "latitude_deg": "62.8114013672",
+    "longitude_deg": "-92.1157989502",
+    "elevation_ft": "94",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Rankin Inlet",
+    "scheduled_service": "yes",
+    "gps_code": "CYRT",
+    "iata_code": "YRT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rankin_Inlet_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234505",
+            "airport_ref": "1895",
+            "airport_ident": "CYRT",
+            "length_ft": "6000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13T",
+            "le_latitude_deg": "62.8166",
+            "le_longitude_deg": "-92.1298",
+            "le_elevation_ft": "85",
+            "le_heading_degT": "129",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31T",
+            "he_latitude_deg": "62.8062",
+            "he_longitude_deg": "-92.1019",
+            "he_elevation_ft": "94",
+            "he_heading_degT": "309",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49957",
+            "airport_ref": "1895",
+            "airport_ident": "CYRT",
+            "type": "MF",
+            "description": "Rankin Radio, 5nm below 3100ASL",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "311310",
+            "airport_ref": "1895",
+            "airport_ident": "CYRT",
+            "type": "PAL",
+            "description": "Edmonton Control",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "49959",
+            "airport_ref": "1895",
+            "airport_ident": "CYRT",
+            "type": "RCO",
+            "description": "Artic Radio (FISE)",
+            "frequency_mhz": "123.55"
+        },
+        {
+            "id": "49960",
+            "airport_ref": "1895",
+            "airport_ident": "CYRT",
+            "type": "RDO",
+            "description": "Rankin Radio",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "49958",
+            "airport_ref": "1895",
+            "airport_ident": "CYRT",
+            "type": "VDF",
+            "description": "VHF Direction Finding",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303301",
+        "code": "CA-NU",
+        "local_code": "NU",
+        "name": "Nunavut",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93260",
+            "filename": "Rankin_Inlet_NDB_CA",
+            "ident": "RT",
+            "name": "Rankin Inlet",
+            "type": "NDB",
+            "frequency_khz": "284",
+            "latitude_deg": "62.82529830932617",
+            "longitude_deg": "-92.1093978881836",
+            "elevation_ft": "102",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.392",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYRT"
+        },
+        {
+            "id": "95829",
+            "filename": "Rankin_Inlet_VOR-DME_CA",
+            "ident": "YRT",
+            "name": "Rankin Inlet",
+            "type": "VOR-DME",
+            "frequency_khz": "112400",
+            "latitude_deg": "62.813899993896484",
+            "longitude_deg": "-92.11720275878906",
+            "elevation_ft": "140",
+            "iso_country": "CA",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.005",
+            "magnetic_variation_deg": "-7.377",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYRT"
+        }
+    ]
+}

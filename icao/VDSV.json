@@ -1,0 +1,80 @@
+{
+    "id": "26478",
+    "ident": "VDSV",
+    "type": "small_airport",
+    "name": "Sihanoukville International Airport",
+    "latitude_deg": "10.57970047",
+    "longitude_deg": "103.637001038",
+    "elevation_ft": "33",
+    "continent": "AS",
+    "iso_country": "KH",
+    "iso_region": "KH-18",
+    "municipality": "Sihanukville",
+    "scheduled_service": "yes",
+    "gps_code": "VDSV",
+    "iata_code": "KOS",
+    "local_code": "",
+    "home_link": "http://www.sihanoukville-cambodia.com/about-sihanoukville/airport.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sihanoukville_International_Airport",
+    "keywords": "Kompong Som",
+    "runways": [
+        {
+            "id": "235106",
+            "airport_ref": "26478",
+            "airport_ident": "VDSV",
+            "length_ft": "8202",
+            "width_ft": "112",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "10.574",
+            "le_longitude_deg": "103.634",
+            "le_elevation_ft": "",
+            "le_heading_degT": "27.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "10.5844",
+            "he_longitude_deg": "103.64",
+            "he_elevation_ft": "",
+            "he_heading_degT": "207.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "301397",
+            "airport_ref": "26478",
+            "airport_ident": "VDSV",
+            "type": "KOS VOR-DME",
+            "description": "KOS vortac station (top of rwy 21)",
+            "frequency_mhz": "116"
+        },
+        {
+            "id": "301395",
+            "airport_ref": "26478",
+            "airport_ident": "VDSV",
+            "type": "TWR",
+            "description": "VDSV Tower",
+            "frequency_mhz": "124"
+        }
+    ],
+    "country": {
+        "id": "302641",
+        "code": "KH",
+        "name": "Cambodia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cambodia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304361",
+        "code": "KH-18",
+        "local_code": "18",
+        "name": "Xrong Preah Sihanouk",
+        "continent": "AS",
+        "iso_country": "KH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Xrong_Preah_Sihanouk",
+        "keywords": ""
+    }
+}

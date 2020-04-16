@@ -1,0 +1,88 @@
+{
+    "id": "19403",
+    "ident": "KBPP",
+    "type": "closed",
+    "name": "Bowman Municipal Airport",
+    "latitude_deg": "46.187",
+    "longitude_deg": "-103.428001",
+    "elevation_ft": "2958",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Bowman",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bowman_Municipal_Airport",
+    "keywords": "KBPP, BWM, BPP",
+    "runways": [
+        {
+            "id": "243179",
+            "airport_ref": "19403",
+            "airport_ident": "KBPP",
+            "length_ft": "4800",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "46.1908",
+            "le_longitude_deg": "-103.436",
+            "le_elevation_ft": "2954",
+            "le_heading_degT": "125.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "46.1832",
+            "he_longitude_deg": "-103.42",
+            "he_elevation_ft": "2956",
+            "he_heading_degT": "305.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65425",
+            "airport_ref": "19403",
+            "airport_ident": "KBPP",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "37.4"
+        },
+        {
+            "id": "65426",
+            "airport_ref": "19403",
+            "airport_ident": "KBPP",
+            "type": "RDO",
+            "description": "GRAND FORKS RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "65427",
+            "airport_ref": "19403",
+            "airport_ident": "KBPP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306104",
+        "code": "US-ND",
+        "local_code": "ND",
+        "name": "North Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
+        "keywords": ""
+    }
+}

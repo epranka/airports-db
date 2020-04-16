@@ -1,0 +1,80 @@
+{
+    "id": "2188",
+    "ident": "EDAK",
+    "type": "small_airport",
+    "name": "Großenhain Airport",
+    "latitude_deg": "51.30805587768555",
+    "longitude_deg": "13.555556297302246",
+    "elevation_ft": "417",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-SN",
+    "municipality": "Großenhain",
+    "scheduled_service": "no",
+    "gps_code": "EDAK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Grossenhain",
+    "runways": [
+        {
+            "id": "236222",
+            "airport_ref": "2188",
+            "airport_ident": "EDAK",
+            "length_ft": "7874",
+            "width_ft": "157",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "51.3126",
+            "le_longitude_deg": "13.5397",
+            "le_elevation_ft": "417",
+            "le_heading_degT": "115",
+            "le_displaced_threshold_ft": "689",
+            "he_ident": "30",
+            "he_latitude_deg": "51.3036",
+            "he_longitude_deg": "13.5702",
+            "he_elevation_ft": "417",
+            "he_heading_degT": "295",
+            "he_displaced_threshold_ft": "2493"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52999",
+            "airport_ref": "2188",
+            "airport_ident": "EDAK",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "53000",
+            "airport_ref": "2188",
+            "airport_ident": "EDAK",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303560",
+        "code": "DE-SN",
+        "local_code": "SN",
+        "name": "Saxony",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony",
+        "keywords": "Sachsen"
+    }
+}

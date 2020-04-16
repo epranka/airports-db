@@ -1,0 +1,180 @@
+{
+    "id": "19731",
+    "ident": "KEFD",
+    "type": "medium_airport",
+    "name": "Ellington Airport",
+    "latitude_deg": "29.607299804700002",
+    "longitude_deg": "-95.1587982178",
+    "elevation_ft": "32",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston",
+    "scheduled_service": "no",
+    "gps_code": "KEFD",
+    "iata_code": "EFD",
+    "local_code": "EFD",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ellington_Airport_(Texas)",
+    "keywords": "Ellington Field",
+    "runways": [
+        {
+            "id": "242088",
+            "airport_ref": "19731",
+            "airport_ident": "KEFD",
+            "length_ft": "8001",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "1",
+            "le_ident": "04",
+            "le_latitude_deg": "29.5982",
+            "le_longitude_deg": "-95.163",
+            "le_elevation_ft": "26",
+            "le_heading_degT": "43.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "29.614",
+            "he_longitude_deg": "-95.1455",
+            "he_elevation_ft": "30",
+            "he_heading_degT": "223.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242090",
+            "airport_ref": "19731",
+            "airport_ident": "KEFD",
+            "length_ft": "4609",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17L",
+            "le_latitude_deg": "29.6185",
+            "le_longitude_deg": "-95.1562",
+            "le_elevation_ft": "31",
+            "le_heading_degT": "178.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35R",
+            "he_latitude_deg": "29.6058",
+            "he_longitude_deg": "-95.1559",
+            "he_elevation_ft": "30",
+            "he_heading_degT": "358.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242089",
+            "airport_ref": "19731",
+            "airport_ident": "KEFD",
+            "length_ft": "9001",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17R",
+            "le_latitude_deg": "29.6183",
+            "le_longitude_deg": "-95.1644",
+            "le_elevation_ft": "31",
+            "le_heading_degT": "178.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35L",
+            "he_latitude_deg": "29.5936",
+            "he_longitude_deg": "-95.1638",
+            "he_elevation_ft": "27",
+            "he_heading_degT": "358.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63182",
+            "airport_ref": "19731",
+            "airport_ident": "KEFD",
+            "type": "A/D",
+            "description": "HOUSTON APP DEP",
+            "frequency_mhz": "134.45"
+        },
+        {
+            "id": "63183",
+            "airport_ref": "19731",
+            "airport_ident": "KEFD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135.575"
+        },
+        {
+            "id": "63184",
+            "airport_ref": "19731",
+            "airport_ident": "KEFD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "63185",
+            "airport_ref": "19731",
+            "airport_ident": "KEFD",
+            "type": "MISC",
+            "description": "HOUSTON AIR",
+            "frequency_mhz": "38.18"
+        },
+        {
+            "id": "63186",
+            "airport_ref": "19731",
+            "airport_ident": "KEFD",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "41"
+        },
+        {
+            "id": "63187",
+            "airport_ref": "19731",
+            "airport_ident": "KEFD",
+            "type": "OPS",
+            "description": "ANG OPS",
+            "frequency_mhz": "142.2"
+        },
+        {
+            "id": "63188",
+            "airport_ref": "19731",
+            "airport_ident": "KEFD",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "142.2"
+        },
+        {
+            "id": "63189",
+            "airport_ref": "19731",
+            "airport_ident": "KEFD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.05"
+        },
+        {
+            "id": "63190",
+            "airport_ref": "19731",
+            "airport_ident": "KEFD",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

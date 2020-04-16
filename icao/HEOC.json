@@ -1,0 +1,104 @@
+{
+    "id": "3194",
+    "ident": "HEOC",
+    "type": "small_airport",
+    "name": "October Airport",
+    "latitude_deg": "29.8120994568",
+    "longitude_deg": "30.8234004974",
+    "elevation_ft": "807",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-C",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "HEOC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235542",
+            "airport_ref": "3194",
+            "airport_ident": "HEOC",
+            "length_ft": "6562",
+            "width_ft": "115",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "29.8032",
+            "le_longitude_deg": "30.8216",
+            "le_elevation_ft": "807",
+            "le_heading_degT": "9.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "29.821",
+            "he_longitude_deg": "30.8251",
+            "he_elevation_ft": "755",
+            "he_heading_degT": "189.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51838",
+            "airport_ref": "3194",
+            "airport_ident": "HEOC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51839",
+            "airport_ref": "3194",
+            "airport_ident": "HEOC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303697",
+        "code": "EG-C",
+        "local_code": "C",
+        "name": "Cairo Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cairo_Governorate",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91883",
+            "filename": "October_NDB_EG",
+            "ident": "OCT",
+            "name": "October",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "29.811199188232422",
+            "longitude_deg": "30.830299377441406",
+            "elevation_ft": "840",
+            "iso_country": "EG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.17",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "HEOC"
+        }
+    ]
+}

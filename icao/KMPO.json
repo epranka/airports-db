@@ -1,0 +1,118 @@
+{
+    "id": "20549",
+    "ident": "KMPO",
+    "type": "small_airport",
+    "name": "Pocono Mountains Municipal Airport",
+    "latitude_deg": "41.137503",
+    "longitude_deg": "-75.378897",
+    "elevation_ft": "1915",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Mount Pocono",
+    "scheduled_service": "no",
+    "gps_code": "KMPO",
+    "iata_code": "MPO",
+    "local_code": "MPO",
+    "home_link": "https://www.mpoairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pocono_Mountains_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242993",
+            "airport_ref": "20549",
+            "airport_ident": "KMPO",
+            "length_ft": "4000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "41.134",
+            "le_longitude_deg": "-75.3815",
+            "le_elevation_ft": "1876",
+            "le_heading_degT": "36.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "41.1428",
+            "he_longitude_deg": "-75.3729",
+            "he_elevation_ft": "1916",
+            "he_heading_degT": "216.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242994",
+            "airport_ref": "20549",
+            "airport_ident": "KMPO",
+            "length_ft": "3948",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "41.1388",
+            "le_longitude_deg": "-75.3871",
+            "le_elevation_ft": "1884",
+            "le_heading_degT": "115.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "41.1342",
+            "he_longitude_deg": "-75.3741",
+            "he_elevation_ft": "1879",
+            "he_heading_degT": "295.3",
+            "he_displaced_threshold_ft": "180"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65075",
+            "airport_ref": "20549",
+            "airport_ident": "KMPO",
+            "type": "A/D",
+            "description": "WILKES BARRE APP/DEP",
+            "frequency_mhz": "126.3"
+        },
+        {
+            "id": "65076",
+            "airport_ref": "20549",
+            "airport_ident": "KMPO",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.275"
+        },
+        {
+            "id": "65077",
+            "airport_ref": "20549",
+            "airport_ident": "KMPO",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "65078",
+            "airport_ref": "20549",
+            "airport_ident": "KMPO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

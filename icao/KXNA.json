@@ -1,0 +1,120 @@
+{
+    "id": "21410",
+    "ident": "KXNA",
+    "type": "medium_airport",
+    "name": "Northwest Arkansas Regional Airport",
+    "latitude_deg": "36.281898",
+    "longitude_deg": "-94.306801",
+    "elevation_ft": "1287",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Fayetteville/Springdale/Rogers",
+    "scheduled_service": "yes",
+    "gps_code": "KXNA",
+    "iata_code": "XNA",
+    "local_code": "XNA",
+    "home_link": "http://www.flyxna.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Arkansas_Regional_Airport",
+    "keywords": "Bentonville, Rogers",
+    "runways": [
+        {
+            "id": "239804",
+            "airport_ref": "21410",
+            "airport_ident": "KXNA",
+            "length_ft": "8800",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "36.2932",
+            "le_longitude_deg": "-94.312",
+            "le_elevation_ft": "1287",
+            "le_heading_degT": "159.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "36.2705",
+            "he_longitude_deg": "-94.3016",
+            "he_elevation_ft": "1265",
+            "he_heading_degT": "339.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58982",
+            "airport_ref": "21410",
+            "airport_ident": "KXNA",
+            "type": "A/D",
+            "description": "RAZORBACK APP/DEP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "58983",
+            "airport_ref": "21410",
+            "airport_ident": "KXNA",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.425"
+        },
+        {
+            "id": "58984",
+            "airport_ref": "21410",
+            "airport_ident": "KXNA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "58985",
+            "airport_ref": "21410",
+            "airport_ident": "KXNA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "58986",
+            "airport_ref": "21410",
+            "airport_ident": "KXNA",
+            "type": "RDO",
+            "description": "JONESBORO RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "58987",
+            "airport_ref": "21410",
+            "airport_ident": "KXNA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "58988",
+            "airport_ref": "21410",
+            "airport_ident": "KXNA",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

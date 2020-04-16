@@ -1,0 +1,72 @@
+{
+    "id": "310582",
+    "ident": "ZA-0113",
+    "type": "small_airport",
+    "name": "Sunset Shores Airfield",
+    "latitude_deg": "-26.8512013063",
+    "longitude_deg": "28.198428154",
+    "elevation_ft": "4955",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-GT",
+    "municipality": "Sunset Shores",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310584",
+            "airport_ref": "310582",
+            "airport_ident": "ZA-0113",
+            "length_ft": "3100",
+            "width_ft": "30",
+            "surface": "Gravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "-26.8536",
+            "le_longitude_deg": "28.1942",
+            "le_elevation_ft": "4944",
+            "le_heading_degT": "56",
+            "le_displaced_threshold_ft": "100",
+            "he_ident": "26",
+            "he_latitude_deg": "-26.8491",
+            "he_longitude_deg": "28.202",
+            "he_elevation_ft": "4996",
+            "he_heading_degT": "236",
+            "he_displaced_threshold_ft": "100"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310583",
+            "airport_ref": "310582",
+            "airport_ident": "ZA-0113",
+            "type": "TIBA",
+            "description": "Vaal Traffic",
+            "frequency_mhz": "124.8"
+        }
+    ],
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306297",
+        "code": "ZA-GT",
+        "local_code": "GT",
+        "name": "Gauteng",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gauteng",
+        "keywords": ""
+    }
+}

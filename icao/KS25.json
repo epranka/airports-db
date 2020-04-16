@@ -1,0 +1,102 @@
+{
+    "id": "20997",
+    "ident": "KS25",
+    "type": "small_airport",
+    "name": "Watford City Municipal Airport",
+    "latitude_deg": "47.79570007",
+    "longitude_deg": "-103.2539978",
+    "elevation_ft": "2111",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Watford City",
+    "scheduled_service": "no",
+    "gps_code": "KS25",
+    "iata_code": "",
+    "local_code": "S25",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243955",
+            "airport_ref": "20997",
+            "airport_ident": "KS25",
+            "length_ft": "4401",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "47.8",
+            "le_longitude_deg": "-103.26",
+            "le_elevation_ft": "2056",
+            "le_heading_degT": "134.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "47.7917",
+            "he_longitude_deg": "-103.247",
+            "he_elevation_ft": "2109",
+            "he_heading_degT": "314.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243956",
+            "airport_ref": "20997",
+            "airport_ident": "KS25",
+            "length_ft": "2320",
+            "width_ft": "150",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67100",
+            "airport_ref": "20997",
+            "airport_ident": "KS25",
+            "type": "CNTR",
+            "description": "SALT LAKE CITY CNTR",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "67101",
+            "airport_ref": "20997",
+            "airport_ident": "KS25",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306104",
+        "code": "US-ND",
+        "local_code": "ND",
+        "name": "North Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
+        "keywords": ""
+    }
+}

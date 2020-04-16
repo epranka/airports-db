@@ -1,0 +1,112 @@
+{
+    "id": "5874",
+    "ident": "SBBU",
+    "type": "medium_airport",
+    "name": "Bauru Airport",
+    "latitude_deg": "-22.3449993134",
+    "longitude_deg": "-49.0537986755",
+    "elevation_ft": "2025",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Bauru",
+    "scheduled_service": "yes",
+    "gps_code": "SBBU",
+    "iata_code": "BAU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bauru_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234223",
+            "airport_ref": "5874",
+            "airport_ident": "SBBU",
+            "length_ft": "4925",
+            "width_ft": "115",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49751",
+            "airport_ref": "5874",
+            "airport_ident": "SBBU",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "49752",
+            "airport_ref": "5874",
+            "airport_ident": "SBBU",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "49753",
+            "airport_ref": "5874",
+            "airport_ident": "SBBU",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.875"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303224",
+        "code": "BR-SP",
+        "local_code": "SP",
+        "name": "São Paulo",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/São_Paulo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86339",
+            "filename": "Bauru_NDB_BR",
+            "ident": "BRU",
+            "name": "Bauru",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "-22.31399917602539",
+            "longitude_deg": "-49.107200622558594",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.473",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBBU"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "4083",
+    "ident": "LFCL",
+    "type": "small_airport",
+    "name": "Toulouse-Lasbordes Airport",
+    "latitude_deg": "43.587832",
+    "longitude_deg": "1.498507",
+    "elevation_ft": "460",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Toulouse/Lasbordes",
+    "scheduled_service": "no",
+    "gps_code": "LFCL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.toulouse-metropole.fr/missions/deplacements/aerodrome-toulouse-lasbordes",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Toulouse_-_Lasbordes_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235983",
+            "airport_ref": "4083",
+            "airport_ident": "LFCL",
+            "length_ft": "3117",
+            "width_ft": "76",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "43.5911",
+            "le_longitude_deg": "1.49645",
+            "le_elevation_ft": "460",
+            "le_heading_degT": "155",
+            "le_displaced_threshold_ft": "460",
+            "he_ident": "33",
+            "he_latitude_deg": "43.5834",
+            "he_longitude_deg": "1.50136",
+            "he_elevation_ft": "460",
+            "he_heading_degT": "335",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52508",
+            "airport_ref": "4083",
+            "airport_ident": "LFCL",
+            "type": "APP",
+            "description": "TOULOUSE APP",
+            "frequency_mhz": "125.175"
+        },
+        {
+            "id": "52509",
+            "airport_ref": "4083",
+            "airport_ident": "LFCL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.1"
+        },
+        {
+            "id": "52510",
+            "airport_ref": "4083",
+            "airport_ident": "LFCL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306341",
+        "code": "FR-OCC",
+        "local_code": "OCC",
+        "name": "Occitanie",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occitanie",
+        "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
+    }
+}

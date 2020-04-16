@@ -1,0 +1,110 @@
+{
+    "id": "19458",
+    "ident": "KCAD",
+    "type": "small_airport",
+    "name": "Wexford County Airport",
+    "latitude_deg": "44.2752990723",
+    "longitude_deg": "-85.4188995361",
+    "elevation_ft": "1307",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Cadillac",
+    "scheduled_service": "no",
+    "gps_code": "KCAD",
+    "iata_code": "CAD",
+    "local_code": "CAD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242926",
+            "airport_ref": "19458",
+            "airport_ident": "KCAD",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "44.2729",
+            "le_longitude_deg": "-85.4308",
+            "le_elevation_ft": "1307",
+            "le_heading_degT": "66",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "44.2784",
+            "he_longitude_deg": "-85.4134",
+            "he_elevation_ft": "1298",
+            "he_heading_degT": "246",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242927",
+            "airport_ref": "19458",
+            "airport_ident": "KCAD",
+            "length_ft": "2005",
+            "width_ft": "150",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "44.2774",
+            "le_longitude_deg": "-85.411",
+            "le_elevation_ft": "1295",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "44.2719",
+            "he_longitude_deg": "-85.411",
+            "he_elevation_ft": "1295",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64923",
+            "airport_ref": "19458",
+            "airport_ident": "KCAD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "128.325"
+        },
+        {
+            "id": "64924",
+            "airport_ref": "19458",
+            "airport_ident": "KCAD",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "132.9"
+        },
+        {
+            "id": "64925",
+            "airport_ref": "19458",
+            "airport_ident": "KCAD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

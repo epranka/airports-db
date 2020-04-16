@@ -1,0 +1,96 @@
+{
+    "id": "21304",
+    "ident": "KUTS",
+    "type": "medium_airport",
+    "name": "Huntsville Regional Airport",
+    "latitude_deg": "30.7469005585",
+    "longitude_deg": "-95.5871963501",
+    "elevation_ft": "363",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Huntsville",
+    "scheduled_service": "no",
+    "gps_code": "KUTS",
+    "iata_code": "HTV",
+    "local_code": "UTS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Huntsville_Regional_Airport",
+    "keywords": "T39, Bruce Brothers Huntsville Regional Airport, Huntsville Municipal Airport",
+    "runways": [
+        {
+            "id": "246015",
+            "airport_ref": "21304",
+            "airport_ident": "KUTS",
+            "length_ft": "5006",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "30.7537",
+            "le_longitude_deg": "-95.5863",
+            "le_elevation_ft": "300",
+            "le_heading_degT": "185.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "30.74",
+            "he_longitude_deg": "-95.588",
+            "he_elevation_ft": "363",
+            "he_heading_degT": "5.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71562",
+            "airport_ref": "21304",
+            "airport_ident": "KUTS",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.425"
+        },
+        {
+            "id": "71563",
+            "airport_ref": "21304",
+            "airport_ident": "KUTS",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "71564",
+            "airport_ref": "21304",
+            "airport_ident": "KUTS",
+            "type": "RDO",
+            "description": "MONTGOMERY CO RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "71565",
+            "airport_ref": "21304",
+            "airport_ident": "KUTS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

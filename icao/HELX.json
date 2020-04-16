@@ -1,0 +1,142 @@
+{
+    "id": "3191",
+    "ident": "HELX",
+    "type": "large_airport",
+    "name": "Luxor International Airport",
+    "latitude_deg": "25.671",
+    "longitude_deg": "32.7066",
+    "elevation_ft": "294",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-KN",
+    "municipality": "Luxor",
+    "scheduled_service": "yes",
+    "gps_code": "HELX",
+    "iata_code": "LXR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Luxor_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235625",
+            "airport_ref": "3191",
+            "airport_ident": "HELX",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "25.6586",
+            "le_longitude_deg": "32.7007",
+            "le_elevation_ft": "294",
+            "le_heading_degT": "22.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "25.6836",
+            "he_longitude_deg": "32.7121",
+            "he_elevation_ft": "272",
+            "he_heading_degT": "202.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51912",
+            "airport_ref": "3191",
+            "airport_ident": "HELX",
+            "type": "APP",
+            "description": "RADAR",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "51913",
+            "airport_ref": "3191",
+            "airport_ident": "HELX",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51914",
+            "airport_ref": "3191",
+            "airport_ident": "HELX",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "585.9"
+        },
+        {
+            "id": "51915",
+            "airport_ref": "3191",
+            "airport_ident": "HELX",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.9"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303707",
+        "code": "EG-KN",
+        "local_code": "KN",
+        "name": "Qena Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Qena_Governorate",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90460",
+            "filename": "Luxor_NDB_EG",
+            "ident": "LO",
+            "name": "Luxor",
+            "type": "NDB",
+            "frequency_khz": "364",
+            "latitude_deg": "25.737899780273438",
+            "longitude_deg": "32.73759841918945",
+            "elevation_ft": "284",
+            "iso_country": "EG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.049",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HELX"
+        },
+        {
+            "id": "90654",
+            "filename": "Luxor_VOR-DME_EG",
+            "ident": "LXR",
+            "name": "Luxor",
+            "type": "VOR-DME",
+            "frequency_khz": "114400",
+            "latitude_deg": "25.749399185180664",
+            "longitude_deg": "32.76860046386719",
+            "elevation_ft": "332",
+            "iso_country": "EG",
+            "dme_frequency_khz": "114400",
+            "dme_channel": "091X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.005",
+            "magnetic_variation_deg": "3.05",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HELX"
+        }
+    ]
+}

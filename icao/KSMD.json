@@ -1,0 +1,102 @@
+{
+    "id": "21084",
+    "ident": "KSMD",
+    "type": "small_airport",
+    "name": "Smith Field",
+    "latitude_deg": "41.14339828",
+    "longitude_deg": "-85.15280151",
+    "elevation_ft": "835",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Fort Wayne",
+    "scheduled_service": "no",
+    "gps_code": "KSMD",
+    "iata_code": "SMD",
+    "local_code": "SMD",
+    "home_link": "https://fwairport.com/smith-field/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Smith_Field_(Indiana)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243951",
+            "airport_ref": "21084",
+            "airport_ident": "KSMD",
+            "length_ft": "3110",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "41.1409",
+            "le_longitude_deg": "-85.1571",
+            "le_elevation_ft": "834",
+            "le_heading_degT": "51",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "23",
+            "he_latitude_deg": "41.1463",
+            "he_longitude_deg": "-85.1484",
+            "he_elevation_ft": "826",
+            "he_heading_degT": "231",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243952",
+            "airport_ref": "21084",
+            "airport_ident": "KSMD",
+            "length_ft": "2910",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "41.1456",
+            "le_longitude_deg": "-85.157",
+            "le_elevation_ft": "834",
+            "le_heading_degT": "128",
+            "le_displaced_threshold_ft": "720",
+            "he_ident": "31",
+            "he_latitude_deg": "41.1406",
+            "he_longitude_deg": "-85.1487",
+            "he_elevation_ft": "826",
+            "he_heading_degT": "308",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67096",
+            "airport_ref": "21084",
+            "airport_ident": "KSMD",
+            "type": "A/D",
+            "description": "FORT WAYNE APP/DEP",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "67097",
+            "airport_ref": "21084",
+            "airport_ident": "KSMD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

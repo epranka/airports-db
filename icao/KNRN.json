@@ -1,0 +1,110 @@
+{
+    "id": "20653",
+    "ident": "KNRN",
+    "type": "small_airport",
+    "name": "Norton Municipal Airport",
+    "latitude_deg": "39.850399017333984",
+    "longitude_deg": "-99.89469909667969",
+    "elevation_ft": "2383",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Norton",
+    "scheduled_service": "no",
+    "gps_code": "KNRN",
+    "iata_code": "",
+    "local_code": "NRN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245157",
+            "airport_ref": "20653",
+            "airport_ident": "KNRN",
+            "length_ft": "2117",
+            "width_ft": "250",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "08",
+            "le_latitude_deg": "39.8458",
+            "le_longitude_deg": "-99.8979",
+            "le_elevation_ft": "2348",
+            "le_heading_degT": "92",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "39.8457",
+            "he_longitude_deg": "-99.8904",
+            "he_elevation_ft": "2351",
+            "he_heading_degT": "272",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245158",
+            "airport_ref": "20653",
+            "airport_ident": "KNRN",
+            "length_ft": "4700",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "39.8587",
+            "le_longitude_deg": "-99.8971",
+            "le_elevation_ft": "2382",
+            "le_heading_degT": "164.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "39.8463",
+            "he_longitude_deg": "-99.8927",
+            "he_elevation_ft": "2361",
+            "he_heading_degT": "344.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69694",
+            "airport_ref": "20653",
+            "airport_ident": "KNRN",
+            "type": "A/D",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "132.5"
+        },
+        {
+            "id": "69695",
+            "airport_ref": "20653",
+            "airport_ident": "KNRN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.275"
+        },
+        {
+            "id": "69696",
+            "airport_ref": "20653",
+            "airport_ident": "KNRN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

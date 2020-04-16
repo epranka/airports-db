@@ -1,0 +1,72 @@
+{
+    "id": "2119",
+    "ident": "DNMN",
+    "type": "medium_airport",
+    "name": "Minna Airport",
+    "latitude_deg": "9.652170181274414",
+    "longitude_deg": "6.462259769439697",
+    "elevation_ft": "834",
+    "continent": "AF",
+    "iso_country": "NG",
+    "iso_region": "NG-NI",
+    "municipality": "Minna",
+    "scheduled_service": "no",
+    "gps_code": "DNMN",
+    "iata_code": "MXJ",
+    "local_code": "",
+    "home_link": "http://www.faannigeria.org/nigeria-airport.php?airport=19",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Minna_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237907",
+            "airport_ref": "2119",
+            "airport_ident": "DNMN",
+            "length_ft": "11153",
+            "width_ft": "145",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "9.64154",
+            "le_longitude_deg": "6.45134",
+            "le_elevation_ft": "728",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "9.66314",
+            "he_longitude_deg": "6.47336",
+            "he_elevation_ft": "834",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55722",
+            "airport_ref": "2119",
+            "airport_ident": "DNMN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302593",
+        "code": "NG",
+        "name": "Nigeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nigeria",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304902",
+        "code": "NG-NI",
+        "local_code": "NI",
+        "name": "Niger",
+        "continent": "AF",
+        "iso_country": "NG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Niger",
+        "keywords": ""
+    }
+}

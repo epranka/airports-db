@@ -1,0 +1,96 @@
+{
+    "id": "5730",
+    "ident": "RPUY",
+    "type": "medium_airport",
+    "name": "Cauayan Airport",
+    "latitude_deg": "16.9298992157",
+    "longitude_deg": "121.752998352",
+    "elevation_ft": "200",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-ISA",
+    "municipality": "Cauayan City",
+    "scheduled_service": "yes",
+    "gps_code": "RPUY",
+    "iata_code": "CYZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cauayan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238465",
+            "airport_ref": "5730",
+            "airport_ident": "RPUY",
+            "length_ft": "6890",
+            "width_ft": "118",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "16.9337",
+            "le_longitude_deg": "121.747",
+            "le_elevation_ft": "",
+            "le_heading_degT": "126",
+            "le_displaced_threshold_ft": "1110",
+            "he_ident": "30",
+            "he_latitude_deg": "16.9229",
+            "he_longitude_deg": "121.763",
+            "he_elevation_ft": "",
+            "he_heading_degT": "306",
+            "he_displaced_threshold_ft": "1180"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56534",
+            "airport_ref": "5730",
+            "airport_ident": "RPUY",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305090",
+        "code": "PH-ISA",
+        "local_code": "ISA",
+        "name": "Isabela Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Isabela_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87125",
+            "filename": "Cauayan_VOR-DME_PH",
+            "ident": "CUY",
+            "name": "Cauayan",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "16.93160057067871",
+            "longitude_deg": "121.74800109863281",
+            "elevation_ft": "200",
+            "iso_country": "PH",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.011",
+            "magnetic_variation_deg": "-1.507",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPUY"
+        }
+    ]
+}

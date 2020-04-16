@@ -1,0 +1,80 @@
+{
+    "id": "27093",
+    "ident": "YOLD",
+    "type": "small_airport",
+    "name": "Olympic Dam Airport",
+    "latitude_deg": "-30.485000610399997",
+    "longitude_deg": "136.876998901",
+    "elevation_ft": "343",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Olympic Dam",
+    "scheduled_service": "yes",
+    "gps_code": "YOLD",
+    "iata_code": "OLP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Olympic_Dam_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233288",
+            "airport_ref": "27093",
+            "airport_ident": "YOLD",
+            "length_ft": "5220",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-30.4874",
+            "le_longitude_deg": "136.868",
+            "le_elevation_ft": "343",
+            "le_heading_degT": "71",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "-30.4826",
+            "he_longitude_deg": "136.884",
+            "he_elevation_ft": "318",
+            "he_heading_degT": "251",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48809",
+            "airport_ref": "27093",
+            "airport_ident": "YOLD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48810",
+            "airport_ref": "27093",
+            "airport_ident": "YOLD",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "122"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": ""
+    }
+}

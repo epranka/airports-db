@@ -1,0 +1,96 @@
+{
+    "id": "4647",
+    "ident": "MGRT",
+    "type": "medium_airport",
+    "name": "Retalhuleu Airport",
+    "latitude_deg": "14.520999908447266",
+    "longitude_deg": "-91.69730377197266",
+    "elevation_ft": "656",
+    "continent": "NA",
+    "iso_country": "GT",
+    "iso_region": "GT-RE",
+    "municipality": "Retalhuleu",
+    "scheduled_service": "no",
+    "gps_code": "MGRT",
+    "iata_code": "RER",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236394",
+            "airport_ref": "4647",
+            "airport_ident": "MGRT",
+            "length_ft": "5065",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "14.5165",
+            "le_longitude_deg": "-91.7027",
+            "le_elevation_ft": "",
+            "le_heading_degT": "49.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "14.5255",
+            "he_longitude_deg": "-91.6918",
+            "he_elevation_ft": "",
+            "he_heading_degT": "229.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53449",
+            "airport_ref": "4647",
+            "airport_ident": "MGRT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302738",
+        "code": "GT",
+        "name": "Guatemala",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guatemala",
+        "keywords": "Aeropuertos de Guatemala"
+    },
+    "region": {
+        "id": "303974",
+        "code": "GT-RE",
+        "local_code": "RE",
+        "name": "Reta.thuleu",
+        "continent": "NA",
+        "iso_country": "GT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Reta.thuleu",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93048",
+            "filename": "Retalhuleu_NDB_GT",
+            "ident": "REU",
+            "name": "Retalhuleu",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "14.521699905395508",
+            "longitude_deg": "-91.69670104980469",
+            "elevation_ft": "656",
+            "iso_country": "GT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.117",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "MGRT"
+        }
+    ]
+}

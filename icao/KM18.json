@@ -1,0 +1,102 @@
+{
+    "id": "20414",
+    "ident": "KM18",
+    "type": "small_airport",
+    "name": "Hope Municipal Airport",
+    "latitude_deg": "33.72010040283203",
+    "longitude_deg": "-93.65879821777344",
+    "elevation_ft": "359",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Hope",
+    "scheduled_service": "no",
+    "gps_code": "KM18",
+    "iata_code": "",
+    "local_code": "M18",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244156",
+            "airport_ref": "20414",
+            "airport_ident": "KM18",
+            "length_ft": "5559",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "04",
+            "le_latitude_deg": "33.7148",
+            "le_longitude_deg": "-93.6695",
+            "le_elevation_ft": "330",
+            "le_heading_degT": "48",
+            "le_displaced_threshold_ft": "1190",
+            "he_ident": "22",
+            "he_latitude_deg": "33.7251",
+            "he_longitude_deg": "-93.656",
+            "he_elevation_ft": "351",
+            "he_heading_degT": "228",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244157",
+            "airport_ref": "20414",
+            "airport_ident": "KM18",
+            "length_ft": "5500",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "33.7277",
+            "le_longitude_deg": "-93.6569",
+            "le_elevation_ft": "359",
+            "le_heading_degT": "167.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "33.7129",
+            "he_longitude_deg": "-93.6529",
+            "he_elevation_ft": "340",
+            "he_heading_degT": "347.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67493",
+            "airport_ref": "20414",
+            "airport_ident": "KM18",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "123.925"
+        },
+        {
+            "id": "67494",
+            "airport_ref": "20414",
+            "airport_ident": "KM18",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

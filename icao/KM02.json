@@ -1,0 +1,88 @@
+{
+    "id": "20404",
+    "ident": "KM02",
+    "type": "small_airport",
+    "name": "Dickson Municipal Airport",
+    "latitude_deg": "36.12799835205078",
+    "longitude_deg": "-87.42980194091797",
+    "elevation_ft": "892",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Dickson",
+    "scheduled_service": "no",
+    "gps_code": "KM02",
+    "iata_code": "",
+    "local_code": "M02",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242148",
+            "airport_ref": "20404",
+            "airport_ident": "KM02",
+            "length_ft": "5001",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "36.1348",
+            "le_longitude_deg": "-87.431",
+            "le_elevation_ft": "892",
+            "le_heading_degT": "172.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "36.1211",
+            "he_longitude_deg": "-87.4287",
+            "he_elevation_ft": "868",
+            "he_heading_degT": "352.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63313",
+            "airport_ref": "20404",
+            "airport_ident": "KM02",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "123.875"
+        },
+        {
+            "id": "63314",
+            "airport_ref": "20404",
+            "airport_ident": "KM02",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "125.85"
+        },
+        {
+            "id": "63315",
+            "airport_ref": "20404",
+            "airport_ident": "KM02",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

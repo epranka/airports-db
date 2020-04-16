@@ -1,0 +1,102 @@
+{
+    "id": "26911",
+    "ident": "YBIR",
+    "type": "small_airport",
+    "name": "Birchip Airport",
+    "latitude_deg": "-35.999698638916016",
+    "longitude_deg": "142.91700744628906",
+    "elevation_ft": "340",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBIR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233102",
+            "airport_ref": "26911",
+            "airport_ident": "YBIR",
+            "length_ft": "3422",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "-36.0004",
+            "le_longitude_deg": "142.914",
+            "le_elevation_ft": "340",
+            "le_heading_degT": "52",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "-35.9946",
+            "he_longitude_deg": "142.923",
+            "he_elevation_ft": "340",
+            "he_heading_degT": "232",
+            "he_displaced_threshold_ft": "217"
+        },
+        {
+            "id": "233103",
+            "airport_ref": "26911",
+            "airport_ident": "YBIR",
+            "length_ft": "1719",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "-36.0006",
+            "le_longitude_deg": "142.915",
+            "le_elevation_ft": "",
+            "le_heading_degT": "98",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "-36.0012",
+            "he_longitude_deg": "142.921",
+            "he_elevation_ft": "",
+            "he_heading_degT": "278",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48532",
+            "airport_ref": "26911",
+            "airport_ident": "YBIR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48533",
+            "airport_ref": "26911",
+            "airport_ident": "YBIR",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "125.8"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302975",
+        "code": "AU-VIC",
+        "local_code": "VIC",
+        "name": "Victoria",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "2597",
+    "ident": "ENSS",
+    "type": "medium_airport",
+    "name": "Vardø Airport, Svartnes",
+    "latitude_deg": "70.355400085449",
+    "longitude_deg": "31.044900894165",
+    "elevation_ft": "42",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-20",
+    "municipality": "Vardø",
+    "scheduled_service": "yes",
+    "gps_code": "ENSS",
+    "iata_code": "VAW",
+    "local_code": "",
+    "home_link": "https://avinor.no/en/airport/vardo-airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vard%C3%B8_Airport%2C_Svartnes",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237951",
+            "airport_ref": "2597",
+            "airport_ident": "ENSS",
+            "length_ft": "3707",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "70.36",
+            "le_longitude_deg": "31.0408",
+            "le_elevation_ft": "42",
+            "le_heading_degT": "163.3",
+            "le_displaced_threshold_ft": "197",
+            "he_ident": "33",
+            "he_latitude_deg": "70.3503",
+            "he_longitude_deg": "31.0494",
+            "he_elevation_ft": "24",
+            "he_heading_degT": "343.3",
+            "he_displaced_threshold_ft": "148"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55800",
+            "airport_ref": "2597",
+            "airport_ident": "ENSS",
+            "type": "AFIS",
+            "description": "VARDO INFO",
+            "frequency_mhz": "122.15"
+        }
+    ],
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "304963",
+        "code": "NO-20",
+        "local_code": "20",
+        "name": "Finnmark",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finnmark",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95267",
+            "filename": "Vardo_VOR-DME_NO",
+            "ident": "VRD",
+            "name": "Vardo",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "70.35759735107422",
+            "longitude_deg": "31.047199249267578",
+            "elevation_ft": "58",
+            "iso_country": "NO",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.001",
+            "magnetic_variation_deg": "13.294",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ENSS"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "id": "6259",
+    "ident": "SVBM",
+    "type": "medium_airport",
+    "name": "Barquisimeto International Airport",
+    "latitude_deg": "10.042746543884277",
+    "longitude_deg": "-69.3586196899414",
+    "elevation_ft": "2042",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-K",
+    "municipality": "Barquisimeto",
+    "scheduled_service": "yes",
+    "gps_code": "SVBM",
+    "iata_code": "BRM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246112",
+            "airport_ref": "6259",
+            "airport_ident": "SVBM",
+            "length_ft": "9350",
+            "width_ft": "147",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "10.0403",
+            "le_longitude_deg": "-69.3718",
+            "le_elevation_ft": "2042",
+            "le_heading_degT": "81",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "10.0444",
+            "he_longitude_deg": "-69.3459",
+            "he_elevation_ft": "2001",
+            "he_heading_degT": "261",
+            "he_displaced_threshold_ft": "1541"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71690",
+            "airport_ref": "6259",
+            "airport_ident": "SVBM",
+            "type": "A/G",
+            "description": "LANDAETA RDO",
+            "frequency_mhz": "569.65"
+        },
+        {
+            "id": "71691",
+            "airport_ref": "6259",
+            "airport_ident": "SVBM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "71692",
+            "airport_ref": "6259",
+            "airport_ident": "SVBM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "112.2"
+        },
+        {
+            "id": "71693",
+            "airport_ref": "6259",
+            "airport_ident": "SVBM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71695",
+            "airport_ref": "6259",
+            "airport_ident": "SVBM",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "123.1"
+        },
+        {
+            "id": "71694",
+            "airport_ref": "6259",
+            "airport_ident": "SVBM",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "132"
+        },
+        {
+            "id": "71696",
+            "airport_ref": "6259",
+            "airport_ident": "SVBM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306175",
+        "code": "VE-K",
+        "local_code": "K",
+        "name": "Lara",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lara",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86323",
+            "filename": "Barquisimeto_VOR-DME_VE",
+            "ident": "BRM",
+            "name": "Barquisimeto",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "10.047499656677246",
+            "longitude_deg": "-69.35179901123047",
+            "elevation_ft": "2042",
+            "iso_country": "VE",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.007",
+            "magnetic_variation_deg": "-9.39",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVBM"
+        }
+    ]
+}

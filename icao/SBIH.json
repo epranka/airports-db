@@ -1,0 +1,96 @@
+{
+    "id": "5916",
+    "ident": "SBIH",
+    "type": "medium_airport",
+    "name": "Itaituba Airport",
+    "latitude_deg": "-4.2423400878906",
+    "longitude_deg": "-56.000701904297",
+    "elevation_ft": "110",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Itaituba",
+    "scheduled_service": "yes",
+    "gps_code": "SBIH",
+    "iata_code": "ITB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Itaituba_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234292",
+            "airport_ref": "5916",
+            "airport_ident": "SBIH",
+            "length_ft": "5266",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "-4.24803",
+            "le_longitude_deg": "-56.0051",
+            "le_elevation_ft": "110",
+            "le_heading_degT": "33",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "-4.23588",
+            "he_longitude_deg": "-55.9958",
+            "he_elevation_ft": "110",
+            "he_heading_degT": "213",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49790",
+            "airport_ref": "5916",
+            "airport_ident": "SBIH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303212",
+        "code": "BR-PA",
+        "local_code": "PA",
+        "name": "Pará",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95871",
+            "filename": "Itaituba_NDB_BR",
+            "ident": "YUB",
+            "name": "Itaituba",
+            "type": "NDB",
+            "frequency_khz": "250",
+            "latitude_deg": "-4.240499973297119",
+            "longitude_deg": "-56.00469970703125",
+            "elevation_ft": "110",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.36",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBIH"
+        }
+    ]
+}

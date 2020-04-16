@@ -1,0 +1,88 @@
+{
+    "id": "5434",
+    "ident": "PGWT",
+    "type": "medium_airport",
+    "name": "Tinian International Airport",
+    "latitude_deg": "14.999199867248535",
+    "longitude_deg": "145.61900329589844",
+    "elevation_ft": "271",
+    "continent": "OC",
+    "iso_country": "MP",
+    "iso_region": "MP-U-A",
+    "municipality": "Tinian Island",
+    "scheduled_service": "no",
+    "gps_code": "PGWT",
+    "iata_code": "TIQ",
+    "local_code": "TNI",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tinian_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235364",
+            "airport_ref": "5434",
+            "airport_ident": "PGWT",
+            "length_ft": "8600",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "14.997",
+            "le_longitude_deg": "145.607",
+            "le_elevation_ft": "237",
+            "le_heading_degT": "79",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "15.0014",
+            "he_longitude_deg": "145.631",
+            "he_elevation_ft": "270",
+            "he_heading_degT": "259",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51568",
+            "airport_ref": "5434",
+            "airport_ident": "PGWT",
+            "type": "CNTR",
+            "description": "GUAM CNTR",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "51569",
+            "airport_ref": "5434",
+            "airport_ident": "PGWT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "51570",
+            "airport_ref": "5434",
+            "airport_ident": "PGWT",
+            "type": "RDO",
+            "description": "SAIPAN RDO",
+            "frequency_mhz": "123.6"
+        }
+    ],
+    "country": {
+        "id": "302771",
+        "code": "MP",
+        "name": "Northern Mariana Islands",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Mariana_Islands",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304705",
+        "code": "MP-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "MP",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

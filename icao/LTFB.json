@@ -1,0 +1,96 @@
+{
+    "id": "4564",
+    "ident": "LTFB",
+    "type": "small_airport",
+    "name": "Selçuk Efes Airport",
+    "latitude_deg": "37.95069885253906",
+    "longitude_deg": "27.32900047302246",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-35",
+    "municipality": "Selçuk",
+    "scheduled_service": "no",
+    "gps_code": "LTFB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239253",
+            "airport_ref": "4564",
+            "airport_ident": "LTFB",
+            "length_ft": "5709",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "37.9506",
+            "le_longitude_deg": "27.3191",
+            "le_elevation_ft": "",
+            "le_heading_degT": "88.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "37.9509",
+            "he_longitude_deg": "27.3389",
+            "he_elevation_ft": "",
+            "he_heading_degT": "268.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57866",
+            "airport_ref": "4564",
+            "airport_ident": "LTFB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "133.05"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305870",
+        "code": "TR-35",
+        "local_code": "35",
+        "name": "İzmir Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/İzmir_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93500",
+            "filename": "Efes_NDB_TR",
+            "ident": "SEL",
+            "name": "Efes",
+            "type": "NDB",
+            "frequency_khz": "424",
+            "latitude_deg": "37.94940185546875",
+            "longitude_deg": "27.33919906616211",
+            "elevation_ft": "10",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.429",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LTFB"
+        }
+    ]
+}

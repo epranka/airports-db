@@ -1,0 +1,112 @@
+{
+    "id": "20220",
+    "ident": "KJQF",
+    "type": "small_airport",
+    "name": "Concord-Padgett Regional Airport",
+    "latitude_deg": "35.387798",
+    "longitude_deg": "-80.709099",
+    "elevation_ft": "705",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Concord",
+    "scheduled_service": "no",
+    "gps_code": "KJQF",
+    "iata_code": "USA",
+    "local_code": "JQF",
+    "home_link": "http://www.concordnc.gov/Departments/Concord-Regional-Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Concord_Regional_Airport",
+    "keywords": "3N8, \"NASCAR's Airport\"",
+    "runways": [
+        {
+            "id": "239730",
+            "airport_ref": "20220",
+            "airport_ident": "KJQF",
+            "length_ft": "7403",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "35.3778",
+            "le_longitude_deg": "-80.7114",
+            "le_elevation_ft": "640",
+            "le_heading_degT": "10.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "35.3978",
+            "he_longitude_deg": "-80.7069",
+            "he_elevation_ft": "700",
+            "he_heading_degT": "190.5",
+            "he_displaced_threshold_ft": "652"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58861",
+            "airport_ref": "20220",
+            "airport_ident": "KJQF",
+            "type": "A/D",
+            "description": "CHARLOTTE APP/DEP",
+            "frequency_mhz": "128.32"
+        },
+        {
+            "id": "58862",
+            "airport_ref": "20220",
+            "airport_ident": "KJQF",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.675"
+        },
+        {
+            "id": "58863",
+            "airport_ref": "20220",
+            "airport_ident": "KJQF",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "58864",
+            "airport_ref": "20220",
+            "airport_ident": "KJQF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "58865",
+            "airport_ref": "20220",
+            "airport_ident": "KJQF",
+            "type": "TWR",
+            "description": "FAA CONTRACT TWR",
+            "frequency_mhz": "134.65"
+        },
+        {
+            "id": "58866",
+            "airport_ref": "20220",
+            "airport_ident": "KJQF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

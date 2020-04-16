@@ -1,0 +1,96 @@
+{
+    "id": "5917",
+    "ident": "SBIL",
+    "type": "medium_airport",
+    "name": "Bahia - Jorge Amado Airport",
+    "latitude_deg": "-14.815999984741",
+    "longitude_deg": "-39.033199310303",
+    "elevation_ft": "15",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Ilhéus",
+    "scheduled_service": "yes",
+    "gps_code": "SBIL",
+    "iata_code": "IOS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ilh%C3%A9us_Jorge_Amado_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234018",
+            "airport_ref": "5917",
+            "airport_ident": "SBIL",
+            "length_ft": "5174",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49596",
+            "airport_ref": "5917",
+            "airport_ident": "SBIL",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.1"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303203",
+        "code": "BR-BA",
+        "local_code": "BA",
+        "name": "Bahia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95735",
+            "filename": "Ilheus_NDB_BR",
+            "ident": "YLH",
+            "name": "Ilheus",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-14.812199592590332",
+            "longitude_deg": "-39.03670120239258",
+            "elevation_ft": "15",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-23.118",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBIL"
+        }
+    ]
+}

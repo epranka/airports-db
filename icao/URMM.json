@@ -1,0 +1,150 @@
+{
+    "id": "6514",
+    "ident": "URMM",
+    "type": "medium_airport",
+    "name": "Mineralnyye Vody Airport",
+    "latitude_deg": "44.225101470947266",
+    "longitude_deg": "43.08190155029297",
+    "elevation_ft": "1054",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-STA",
+    "municipality": "Mineralnyye Vody",
+    "scheduled_service": "yes",
+    "gps_code": "URMM",
+    "iata_code": "MRV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mineralnye_Vody_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238566",
+            "airport_ref": "6514",
+            "airport_ident": "URMM",
+            "length_ft": "12795",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "44.2344",
+            "le_longitude_deg": "43.0613",
+            "le_elevation_ft": "1043",
+            "le_heading_degT": "122.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "44.2157",
+            "he_longitude_deg": "43.1025",
+            "he_elevation_ft": "1046",
+            "he_heading_degT": "302.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56744",
+            "airport_ref": "6514",
+            "airport_ident": "URMM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "56745",
+            "airport_ref": "6514",
+            "airport_ident": "URMM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "56746",
+            "airport_ref": "6514",
+            "airport_ident": "URMM",
+            "type": "GND",
+            "description": "TAXIING",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "56747",
+            "airport_ref": "6514",
+            "airport_ident": "URMM",
+            "type": "RDR",
+            "description": "KRUG",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "56748",
+            "airport_ref": "6514",
+            "airport_ident": "URMM",
+            "type": "TWR",
+            "description": "START",
+            "frequency_mhz": "128"
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305327",
+        "code": "RU-STA",
+        "local_code": "STA",
+        "name": "Stavropol Krai",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Stavropol_Krai",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90825",
+            "filename": "Mineralnyye_Vody_NDB_RU",
+            "ident": "MD",
+            "name": "Mineralnyye Vody",
+            "type": "NDB",
+            "frequency_khz": "583",
+            "latitude_deg": "44.25830078125",
+            "longitude_deg": "43.00830078125",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.22",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "URMM"
+        },
+        {
+            "id": "91375",
+            "filename": "Mineralnyye_Vody_NDB_RU",
+            "ident": "MW",
+            "name": "Mineralnyye Vody",
+            "type": "NDB",
+            "frequency_khz": "583",
+            "latitude_deg": "44.19499969482422",
+            "longitude_deg": "43.15169906616211",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.215",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "URMM"
+        }
+    ]
+}

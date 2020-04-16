@@ -1,0 +1,142 @@
+{
+    "id": "4512",
+    "ident": "LTAF",
+    "type": "large_airport",
+    "name": "Adana Airport",
+    "latitude_deg": "36.9822006226",
+    "longitude_deg": "35.280399322499996",
+    "elevation_ft": "65",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-01",
+    "municipality": "Adana",
+    "scheduled_service": "yes",
+    "gps_code": "LTAF",
+    "iata_code": "ADA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Adana_%C5%9Eakirpa%C5%9Fa_Airport",
+    "keywords": "Şakirpaşa, Sakirpasa",
+    "runways": [
+        {
+            "id": "239257",
+            "airport_ref": "4512",
+            "airport_ident": "LTAF",
+            "length_ft": "9022",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "36.9748",
+            "le_longitude_deg": "35.268",
+            "le_elevation_ft": "54",
+            "le_heading_degT": "54",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "36.9895",
+            "he_longitude_deg": "35.2928",
+            "he_elevation_ft": "65",
+            "he_heading_degT": "234",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57874",
+            "airport_ref": "4512",
+            "airport_ident": "LTAF",
+            "type": "APP",
+            "description": "INCIRLIK APP",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "75483",
+            "airport_ref": "4512",
+            "airport_ident": "LTAF",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "119.225"
+        },
+        {
+            "id": "75482",
+            "airport_ref": "4512",
+            "airport_ident": "LTAF",
+            "type": "GND",
+            "description": "",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "57875",
+            "airport_ref": "4512",
+            "airport_ident": "LTAF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.1"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305836",
+        "code": "TR-01",
+        "local_code": "01",
+        "name": "Adana Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Adana_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85257",
+            "filename": "Adana_VOR-DME_TR",
+            "ident": "ADA",
+            "name": "Adana",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "36.94060134887695",
+            "longitude_deg": "35.21030044555664",
+            "elevation_ft": "49",
+            "iso_country": "TR",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "4.175",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTAF"
+        },
+        {
+            "id": "85259",
+            "filename": "Adana_NDB_TR",
+            "ident": "ADA",
+            "name": "Adana",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "36.97079849243164",
+            "longitude_deg": "35.26169967651367",
+            "elevation_ft": "",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.179",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTAF"
+        }
+    ]
+}

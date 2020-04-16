@@ -1,0 +1,118 @@
+{
+    "id": "19394",
+    "ident": "KBMT",
+    "type": "small_airport",
+    "name": "Beaumont Municipal Airport",
+    "latitude_deg": "30.0706996918",
+    "longitude_deg": "-94.21579742430002",
+    "elevation_ft": "32",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Beaumont",
+    "scheduled_service": "no",
+    "gps_code": "KBMT",
+    "iata_code": "BMT",
+    "local_code": "BMT",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Beaumont_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242259",
+            "airport_ref": "19394",
+            "airport_ident": "KBMT",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "30.0744",
+            "le_longitude_deg": "-94.2205",
+            "le_elevation_ft": "29",
+            "le_heading_degT": "132",
+            "le_displaced_threshold_ft": "332",
+            "he_ident": "31",
+            "he_latitude_deg": "30.0671",
+            "he_longitude_deg": "-94.2112",
+            "he_elevation_ft": "32",
+            "he_heading_degT": "312",
+            "he_displaced_threshold_ft": "67"
+        },
+        {
+            "id": "242260",
+            "airport_ref": "19394",
+            "airport_ident": "KBMT",
+            "length_ft": "2300",
+            "width_ft": "100",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "30.0736",
+            "le_longitude_deg": "-94.2146",
+            "le_elevation_ft": "31",
+            "le_heading_degT": "169",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "30.0664",
+            "he_longitude_deg": "-94.213",
+            "he_elevation_ft": "30",
+            "he_heading_degT": "349",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63545",
+            "airport_ref": "19394",
+            "airport_ident": "KBMT",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "63546",
+            "airport_ref": "19394",
+            "airport_ident": "KBMT",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "63547",
+            "airport_ref": "19394",
+            "airport_ident": "KBMT",
+            "type": "RDO",
+            "description": "MONTGOMERY CO RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "63548",
+            "airport_ref": "19394",
+            "airport_ident": "KBMT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

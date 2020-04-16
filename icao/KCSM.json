@@ -1,0 +1,134 @@
+{
+    "id": "19558",
+    "ident": "KCSM",
+    "type": "small_airport",
+    "name": "Clinton Sherman Airport",
+    "latitude_deg": "35.3398017883",
+    "longitude_deg": "-99.20050048830001",
+    "elevation_ft": "1922",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Clinton",
+    "scheduled_service": "no",
+    "gps_code": "KCSM",
+    "iata_code": "CSM",
+    "local_code": "CSM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clinton-Sherman_Industrial_Airpark",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242464",
+            "airport_ref": "19558",
+            "airport_ident": "KCSM",
+            "length_ft": "5193",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17L",
+            "le_latitude_deg": "35.3437",
+            "le_longitude_deg": "-99.198",
+            "le_elevation_ft": "1906",
+            "le_heading_degT": "180.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35R",
+            "he_latitude_deg": "35.3294",
+            "he_longitude_deg": "-99.198",
+            "he_elevation_ft": "1907",
+            "he_heading_degT": "0.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242463",
+            "airport_ref": "19558",
+            "airport_ident": "KCSM",
+            "length_ft": "13503",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17R",
+            "le_latitude_deg": "35.3597",
+            "le_longitude_deg": "-99.2014",
+            "le_elevation_ft": "1922",
+            "le_heading_degT": "180.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35L",
+            "he_latitude_deg": "35.3226",
+            "he_longitude_deg": "-99.2015",
+            "he_elevation_ft": "1912",
+            "he_heading_degT": "0.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63970",
+            "airport_ref": "19558",
+            "airport_ident": "KCSM",
+            "type": "A/D",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "63971",
+            "airport_ref": "19558",
+            "airport_ident": "KCSM",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.225"
+        },
+        {
+            "id": "63972",
+            "airport_ref": "19558",
+            "airport_ident": "KCSM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "63973",
+            "airport_ref": "19558",
+            "airport_ident": "KCSM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "63974",
+            "airport_ref": "19558",
+            "airport_ident": "KCSM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "63975",
+            "airport_ref": "19558",
+            "airport_ident": "KCSM",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

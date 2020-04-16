@@ -1,0 +1,198 @@
+{
+    "id": "2505",
+    "ident": "EGXU",
+    "type": "medium_airport",
+    "name": "RAF Linton-On-Ouse",
+    "latitude_deg": "54.0489006042",
+    "longitude_deg": "-1.2527500391",
+    "elevation_ft": "53",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Linton-On-Ouse",
+    "scheduled_service": "no",
+    "gps_code": "EGXU",
+    "iata_code": "HRT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Linton-on-Ouse",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239403",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "length_ft": "6020",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "54.0424",
+            "le_longitude_deg": "-1.26042",
+            "le_elevation_ft": "49",
+            "le_heading_degT": "32",
+            "le_displaced_threshold_ft": "499",
+            "he_ident": "21",
+            "he_latitude_deg": "54.0564",
+            "he_longitude_deg": "-1.24576",
+            "he_elevation_ft": "50",
+            "he_heading_degT": "212",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239404",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "length_ft": "4394",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "54.0495",
+            "le_longitude_deg": "-1.26264",
+            "le_elevation_ft": "48",
+            "le_heading_degT": "96",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "54.0482",
+            "he_longitude_deg": "-1.24231",
+            "he_elevation_ft": "46",
+            "he_heading_degT": "276",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58119",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "type": "A/D",
+            "description": "ZONE",
+            "frequency_mhz": "235.2"
+        },
+        {
+            "id": "58120",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "type": "A/G",
+            "description": "INFO",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "58121",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "307780",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "372.12"
+        },
+        {
+            "id": "58122",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "283.725"
+        },
+        {
+            "id": "58123",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "58124",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "type": "DIR",
+            "description": "DIR",
+            "frequency_mhz": "275.85"
+        },
+        {
+            "id": "58125",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "307781",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "type": "GRN",
+            "description": "",
+            "frequency_mhz": "278.32"
+        },
+        {
+            "id": "58126",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "307782",
+            "airport_ref": "2505",
+            "airport_ident": "EGXU",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "240.82"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90476",
+            "filename": "Linton_On_Ouse_TACAN_GB",
+            "ident": "LOO",
+            "name": "Linton On Ouse",
+            "type": "TACAN",
+            "frequency_khz": "109000",
+            "latitude_deg": "54.050498962402344",
+            "longitude_deg": "-1.2490400075912476",
+            "elevation_ft": "53",
+            "iso_country": "GB",
+            "dme_frequency_khz": "109000",
+            "dme_channel": "027X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.087",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGXU"
+        }
+    ]
+}

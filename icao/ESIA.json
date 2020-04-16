@@ -1,0 +1,104 @@
+{
+    "id": "2655",
+    "ident": "ESIA",
+    "type": "small_airport",
+    "name": "Karlsborg Air Base",
+    "latitude_deg": "58.51380157470703",
+    "longitude_deg": "14.507100105285645",
+    "elevation_ft": "308",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Karlsborg",
+    "scheduled_service": "no",
+    "gps_code": "ESIA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239053",
+            "airport_ref": "2655",
+            "airport_ident": "ESIA",
+            "length_ft": "7472",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "58.5092",
+            "le_longitude_deg": "14.4897",
+            "le_elevation_ft": "307",
+            "le_heading_degT": "62.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "58.5185",
+            "he_longitude_deg": "14.5245",
+            "he_elevation_ft": "308",
+            "he_heading_degT": "242.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57489",
+            "airport_ref": "2655",
+            "airport_ident": "ESIA",
+            "type": "AFIS",
+            "description": "MIL INFO",
+            "frequency_mhz": "130"
+        },
+        {
+            "id": "57490",
+            "airport_ref": "2655",
+            "airport_ident": "ESIA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "130"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305424",
+        "code": "SE-Q",
+        "local_code": "Q",
+        "name": "Västra Götalands län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västra_Götalands_län",
+        "keywords": "Västra Götaland County"
+    },
+    "navaids": [
+        {
+            "id": "89683",
+            "filename": "Karlsborg_NDB_SE",
+            "ident": "KBG",
+            "name": "Karlsborg",
+            "type": "NDB",
+            "frequency_khz": "312",
+            "latitude_deg": "58.483299255371094",
+            "longitude_deg": "14.380599975585938",
+            "elevation_ft": "308",
+            "iso_country": "SE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.431",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "ESIA"
+        }
+    ]
+}

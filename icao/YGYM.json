@@ -1,0 +1,102 @@
+{
+    "id": "27001",
+    "ident": "YGYM",
+    "type": "small_airport",
+    "name": "Gympie Airport",
+    "latitude_deg": "-26.282800674438477",
+    "longitude_deg": "152.70199584960938",
+    "elevation_ft": "260",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YGYM",
+    "iata_code": "GYP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233466",
+            "airport_ref": "27001",
+            "airport_ident": "YGYM",
+            "length_ft": "1955",
+            "width_ft": "98",
+            "surface": "CLA",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "36",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "216",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "233467",
+            "airport_ref": "27001",
+            "airport_ident": "YGYM",
+            "length_ft": "4600",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-26.2783",
+            "le_longitude_deg": "152.695",
+            "le_elevation_ft": "",
+            "le_heading_degT": "148.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-26.2889",
+            "he_longitude_deg": "152.702",
+            "he_elevation_ft": "",
+            "he_heading_degT": "328.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49091",
+            "airport_ref": "27001",
+            "airport_ident": "YGYM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49092",
+            "airport_ref": "27001",
+            "airport_ident": "YGYM",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "129"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

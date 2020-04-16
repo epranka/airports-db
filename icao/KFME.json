@@ -1,0 +1,112 @@
+{
+    "id": "3534",
+    "ident": "KFME",
+    "type": "medium_airport",
+    "name": "Tipton Airport",
+    "latitude_deg": "39.08539962769999",
+    "longitude_deg": "-76.7593994141",
+    "elevation_ft": "150",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Fort Meade(Odenton)",
+    "scheduled_service": "no",
+    "gps_code": "KFME",
+    "iata_code": "FME",
+    "local_code": "FME",
+    "home_link": "http://tiptonairport.org/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tipton_Airport",
+    "keywords": "Fort George G. Meade Army Airfield",
+    "runways": [
+        {
+            "id": "240946",
+            "airport_ref": "3534",
+            "airport_ident": "KFME",
+            "length_ft": "3000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "39.0855",
+            "le_longitude_deg": "-76.7648",
+            "le_elevation_ft": "115",
+            "le_heading_degT": "93.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "39.085",
+            "he_longitude_deg": "-76.7543",
+            "he_elevation_ft": "150",
+            "he_heading_degT": "273.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60828",
+            "airport_ref": "3534",
+            "airport_ident": "KFME",
+            "type": "A/D",
+            "description": "POTOMAC APP DEP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "60829",
+            "airport_ref": "3534",
+            "airport_ident": "KFME",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "123.925"
+        },
+        {
+            "id": "60830",
+            "airport_ref": "3534",
+            "airport_ident": "KFME",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306096",
+        "code": "US-MD",
+        "local_code": "MD",
+        "name": "Maryland",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86430",
+            "filename": "Anne_Arundel_NDB_US",
+            "ident": "BUH",
+            "name": "Anne Arundel",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "39.08409881591797",
+            "longitude_deg": "-76.76000213623047",
+            "elevation_ft": "128",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.555",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KFME"
+        }
+    ]
+}

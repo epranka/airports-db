@@ -1,0 +1,80 @@
+{
+    "id": "1111",
+    "ident": "CJQ6",
+    "type": "small_airport",
+    "name": "Tanquary Fiord Airport",
+    "latitude_deg": "81.40940093990001",
+    "longitude_deg": "-76.8816986084",
+    "elevation_ft": "50",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Tanquary Fiord",
+    "scheduled_service": "no",
+    "gps_code": "CJQ6",
+    "iata_code": "",
+    "local_code": "CJQ6",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tanquary_Fiord_Airport",
+    "keywords": "JQ6",
+    "runways": [
+        {
+            "id": "235063",
+            "airport_ref": "1111",
+            "airport_ident": "CJQ6",
+            "length_ft": "3700",
+            "width_ft": "120",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "81.4049",
+            "le_longitude_deg": "-76.8959",
+            "le_elevation_ft": "",
+            "le_heading_degT": "25",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "81.414",
+            "he_longitude_deg": "-76.8674",
+            "he_elevation_ft": "",
+            "he_heading_degT": "205",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50981",
+            "airport_ref": "1111",
+            "airport_ident": "CJQ6",
+            "type": "A/G",
+            "description": "AIR GND",
+            "frequency_mhz": "444.1"
+        },
+        {
+            "id": "50982",
+            "airport_ref": "1111",
+            "airport_ident": "CJQ6",
+            "type": "ATF",
+            "description": "Tanquary Traffic, 5nm below 3100ASL",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303301",
+        "code": "CA-NU",
+        "local_code": "NU",
+        "name": "Nunavut",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "2724",
+    "ident": "ETHF",
+    "type": "medium_airport",
+    "name": "Fritzlar Airport",
+    "latitude_deg": "51.1146",
+    "longitude_deg": "9.286",
+    "elevation_ft": "1345",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Fritzlar",
+    "scheduled_service": "no",
+    "gps_code": "ETHF",
+    "iata_code": "FRZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236200",
+            "airport_ref": "2724",
+            "airport_ident": "ETHF",
+            "length_ft": "3413",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "51.1168",
+            "le_longitude_deg": "9.27942",
+            "le_elevation_ft": "566",
+            "le_heading_degT": "119",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "51.1122",
+            "he_longitude_deg": "9.2925",
+            "he_elevation_ft": "558",
+            "he_heading_degT": "299",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52951",
+            "airport_ref": "2724",
+            "airport_ident": "ETHF",
+            "type": "A/D",
+            "description": "LANGEN CON",
+            "frequency_mhz": "124.425"
+        },
+        {
+            "id": "52952",
+            "airport_ref": "2724",
+            "airport_ident": "ETHF",
+            "type": "A/G",
+            "description": "A/G RDO",
+            "frequency_mhz": "40.6"
+        },
+        {
+            "id": "52954",
+            "airport_ref": "2724",
+            "airport_ident": "ETHF",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "38.735"
+        },
+        {
+            "id": "52953",
+            "airport_ref": "2724",
+            "airport_ident": "ETHF",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "52955",
+            "airport_ref": "2724",
+            "airport_ident": "ETHF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "40.6"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303552",
+        "code": "DE-HE",
+        "local_code": "HE",
+        "name": "Hesse",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hesse",
+        "keywords": "Hessen"
+    },
+    "navaids": [
+        {
+            "id": "88186",
+            "filename": "Fritzlar_NDB_DE",
+            "ident": "FTZ",
+            "name": "Fritzlar",
+            "type": "NDB",
+            "frequency_khz": "468",
+            "latitude_deg": "51.08430099487305",
+            "longitude_deg": "9.415240287780762",
+            "elevation_ft": "1096",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.592",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "ETHF"
+        }
+    ]
+}

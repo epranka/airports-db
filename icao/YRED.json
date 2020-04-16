@@ -1,0 +1,88 @@
+{
+    "id": "27919",
+    "ident": "YRED",
+    "type": "small_airport",
+    "name": "Redcliffe Airport",
+    "latitude_deg": "-27.20669937133789",
+    "longitude_deg": "153.0679931640625",
+    "elevation_ft": "2",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Redcliffe",
+    "scheduled_service": "no",
+    "gps_code": "YRED",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Redcliffe_Airport_(Australia)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259284",
+            "airport_ref": "27919",
+            "airport_ident": "YRED",
+            "length_ft": "2798",
+            "width_ft": "",
+            "surface": "B",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "7",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "7",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74401",
+            "airport_ref": "27919",
+            "airport_ident": "YRED",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "127.15"
+        },
+        {
+            "id": "74402",
+            "airport_ref": "27919",
+            "airport_ident": "YRED",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "74403",
+            "airport_ref": "27919",
+            "airport_ident": "YRED",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.7"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

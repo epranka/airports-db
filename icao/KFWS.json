@@ -1,0 +1,142 @@
+{
+    "id": "19911",
+    "ident": "KFWS",
+    "type": "small_airport",
+    "name": "Fort Worth Spinks Airport",
+    "latitude_deg": "32.56520080566406",
+    "longitude_deg": "-97.30809783935547",
+    "elevation_ft": "700",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth",
+    "scheduled_service": "no",
+    "gps_code": "KFWS",
+    "iata_code": "",
+    "local_code": "FWS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242868",
+            "airport_ref": "19911",
+            "airport_ident": "KFWS",
+            "length_ft": "4000",
+            "width_ft": "60",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17L",
+            "le_latitude_deg": "32.5725",
+            "le_longitude_deg": "-97.3064",
+            "le_elevation_ft": "694",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35R",
+            "he_latitude_deg": "32.5615",
+            "he_longitude_deg": "-97.3064",
+            "he_elevation_ft": "695",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242867",
+            "airport_ref": "19911",
+            "airport_ident": "KFWS",
+            "length_ft": "6002",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17R",
+            "le_latitude_deg": "32.5725",
+            "le_longitude_deg": "-97.3097",
+            "le_elevation_ft": "700",
+            "le_heading_degT": "180.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35L",
+            "he_latitude_deg": "32.556",
+            "he_longitude_deg": "-97.3097",
+            "he_elevation_ft": "689",
+            "he_heading_degT": "0.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64807",
+            "airport_ref": "19911",
+            "airport_ident": "KFWS",
+            "type": "A/D",
+            "description": "REGIONAL APP/DEP",
+            "frequency_mhz": "135.975"
+        },
+        {
+            "id": "64808",
+            "airport_ref": "19911",
+            "airport_ident": "KFWS",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.025"
+        },
+        {
+            "id": "64809",
+            "airport_ref": "19911",
+            "airport_ident": "KFWS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.625"
+        },
+        {
+            "id": "64810",
+            "airport_ref": "19911",
+            "airport_ident": "KFWS",
+            "type": "FSS",
+            "description": "FORT WORTH RDO",
+            "frequency_mhz": "121.725"
+        },
+        {
+            "id": "64811",
+            "airport_ref": "19911",
+            "airport_ident": "KFWS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "119.475"
+        },
+        {
+            "id": "64812",
+            "airport_ref": "19911",
+            "airport_ident": "KFWS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.625"
+        },
+        {
+            "id": "64813",
+            "airport_ref": "19911",
+            "airport_ident": "KFWS",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

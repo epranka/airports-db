@@ -1,0 +1,104 @@
+{
+    "id": "26929",
+    "ident": "YBRW",
+    "type": "medium_airport",
+    "name": "Brewarrina Airport",
+    "latitude_deg": "-29.973899841308594",
+    "longitude_deg": "146.81700134277344",
+    "elevation_ft": "414",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBRW",
+    "iata_code": "BWQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233263",
+            "airport_ref": "26929",
+            "airport_ident": "YBRW",
+            "length_ft": "4547",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "-29.9809",
+            "le_longitude_deg": "146.81",
+            "le_elevation_ft": "414",
+            "le_heading_degT": "36",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "-29.9707",
+            "he_longitude_deg": "146.819",
+            "he_elevation_ft": "369",
+            "he_heading_degT": "216",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48762",
+            "airport_ref": "26929",
+            "airport_ident": "YBRW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48763",
+            "airport_ref": "26929",
+            "airport_ident": "YBRW",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "120"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86344",
+            "filename": "Brewarrina_NDB_AU",
+            "ident": "BRW",
+            "name": "Brewarrina",
+            "type": "NDB",
+            "frequency_khz": "281",
+            "latitude_deg": "-29.974700927734375",
+            "longitude_deg": "146.81199645996094",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.006",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YBRW"
+        }
+    ]
+}

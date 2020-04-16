@@ -1,0 +1,128 @@
+{
+    "id": "26629",
+    "ident": "VOTV",
+    "type": "large_airport",
+    "name": "Trivandrum International Airport",
+    "latitude_deg": "8.48211956024",
+    "longitude_deg": "76.9200973511",
+    "elevation_ft": "15",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-KL",
+    "municipality": "Thiruvananthapuram",
+    "scheduled_service": "yes",
+    "gps_code": "VOTV",
+    "iata_code": "TRV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Trivandrum_International_Airport",
+    "keywords": "Thiruvananthapuram International Airport, Trivandrum Air Force Station",
+    "runways": [
+        {
+            "id": "236767",
+            "airport_ref": "26629",
+            "airport_ident": "VOTV",
+            "length_ft": "11148",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "8.49315",
+            "le_longitude_deg": "76.9094",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "136",
+            "le_displaced_threshold_ft": "1332",
+            "he_ident": "32",
+            "he_latitude_deg": "8.47109",
+            "he_longitude_deg": "76.9309",
+            "he_elevation_ft": "14",
+            "he_heading_degT": "316",
+            "he_displaced_threshold_ft": "522"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53950",
+            "airport_ref": "26629",
+            "airport_ident": "VOTV",
+            "type": "ACC",
+            "description": "CON",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "53951",
+            "airport_ref": "26629",
+            "airport_ident": "VOTV",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "53952",
+            "airport_ref": "26629",
+            "airport_ident": "VOTV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.6"
+        },
+        {
+            "id": "53953",
+            "airport_ref": "26629",
+            "airport_ident": "VOTV",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "1128.5"
+        },
+        {
+            "id": "53954",
+            "airport_ref": "26629",
+            "airport_ident": "VOTV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304180",
+        "code": "IN-KL",
+        "local_code": "KL",
+        "name": "Kerala",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kerala",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94700",
+            "filename": "Trivandrum_VOR-DME_IN",
+            "ident": "TVM",
+            "name": "Trivandrum",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "8.474809646606445",
+            "longitude_deg": "76.92469787597656",
+            "elevation_ft": "15",
+            "iso_country": "IN",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.011",
+            "magnetic_variation_deg": "-2.359",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOTV"
+        }
+    ]
+}

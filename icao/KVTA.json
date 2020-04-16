@@ -1,0 +1,104 @@
+{
+    "id": "21337",
+    "ident": "KVTA",
+    "type": "small_airport",
+    "name": "Newark Heath Airport",
+    "latitude_deg": "40.024700164799995",
+    "longitude_deg": "-82.46179962160001",
+    "elevation_ft": "884",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Newark",
+    "scheduled_service": "no",
+    "gps_code": "KVTA",
+    "iata_code": "",
+    "local_code": "VTA",
+    "home_link": "http://www.newarkheathairport.com/default.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Newark-Heath_Airport",
+    "keywords": "2I8",
+    "runways": [
+        {
+            "id": "242082",
+            "airport_ref": "21337",
+            "airport_ident": "KVTA",
+            "length_ft": "4649",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "40.0243",
+            "le_longitude_deg": "-82.4701",
+            "le_elevation_ft": "883",
+            "le_heading_degT": "86.9",
+            "le_displaced_threshold_ft": "457",
+            "he_ident": "27",
+            "he_latitude_deg": "40.025",
+            "he_longitude_deg": "-82.4535",
+            "he_elevation_ft": "870",
+            "he_heading_degT": "266.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63169",
+            "airport_ref": "21337",
+            "airport_ident": "KVTA",
+            "type": "A/D",
+            "description": "COLUMBUS APP/DEP",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "63170",
+            "airport_ref": "21337",
+            "airport_ident": "KVTA",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "63171",
+            "airport_ref": "21337",
+            "airport_ident": "KVTA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.85"
+        },
+        {
+            "id": "63172",
+            "airport_ref": "21337",
+            "airport_ident": "KVTA",
+            "type": "RDO",
+            "description": "DAYTON RDO",
+            "frequency_mhz": "116.7"
+        },
+        {
+            "id": "63173",
+            "airport_ref": "21337",
+            "airport_ident": "KVTA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

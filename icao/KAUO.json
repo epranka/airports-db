@@ -1,0 +1,142 @@
+{
+    "id": "19325",
+    "ident": "KAUO",
+    "type": "small_airport",
+    "name": "Auburn University Regional Airport",
+    "latitude_deg": "32.615101",
+    "longitude_deg": "-85.433998",
+    "elevation_ft": "777",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Auburn",
+    "scheduled_service": "no",
+    "gps_code": "KAUO",
+    "iata_code": "AUO",
+    "local_code": "AUO",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Auburn-Opelika_Robert_G._Pitts_Airport",
+    "keywords": "Auburn–Opelika Robert G. Pitts Field",
+    "runways": [
+        {
+            "id": "245566",
+            "airport_ref": "19325",
+            "airport_ident": "KAUO",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "32.6196",
+            "le_longitude_deg": "-85.4373",
+            "le_elevation_ft": "775",
+            "le_heading_degT": "107",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "32.6163",
+            "he_longitude_deg": "-85.4249",
+            "he_elevation_ft": "764",
+            "he_heading_degT": "287",
+            "he_displaced_threshold_ft": "297"
+        },
+        {
+            "id": "245567",
+            "airport_ref": "19325",
+            "airport_ident": "KAUO",
+            "length_ft": "5264",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "32.6202",
+            "le_longitude_deg": "-85.436",
+            "le_elevation_ft": "776",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "32.6057",
+            "he_longitude_deg": "-85.4363",
+            "he_elevation_ft": "731",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70608",
+            "airport_ref": "19325",
+            "airport_ident": "KAUO",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "70609",
+            "airport_ref": "19325",
+            "airport_ident": "KAUO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "132.575"
+        },
+        {
+            "id": "70610",
+            "airport_ref": "19325",
+            "airport_ident": "KAUO",
+            "type": "CLD",
+            "description": "ATLANTA CLNC DEL",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "70611",
+            "airport_ref": "19325",
+            "airport_ident": "KAUO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85681",
+            "filename": "Opole_NDB_US",
+            "ident": "AU",
+            "name": "Opole",
+            "type": "NDB",
+            "frequency_khz": "423",
+            "latitude_deg": "32.509300231933594",
+            "longitude_deg": "-85.43720245361328",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.081",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KAUO"
+        }
+    ]
+}

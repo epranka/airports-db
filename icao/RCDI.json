@@ -1,0 +1,96 @@
+{
+    "id": "5512",
+    "ident": "RCDI",
+    "type": "medium_airport",
+    "name": "Longtan Air Base",
+    "latitude_deg": "24.855100631713867",
+    "longitude_deg": "121.23799896240234",
+    "elevation_ft": "790",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-TAO",
+    "municipality": "Longtan Township",
+    "scheduled_service": "no",
+    "gps_code": "RCDI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239318",
+            "airport_ref": "5512",
+            "airport_ident": "RCDI",
+            "length_ft": "3260",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "24.8514",
+            "le_longitude_deg": "121.235",
+            "le_elevation_ft": "792",
+            "le_heading_degT": "34.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "24.8588",
+            "he_longitude_deg": "121.24",
+            "he_elevation_ft": "792",
+            "he_heading_degT": "214.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58008",
+            "airport_ref": "5512",
+            "airport_ident": "RCDI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "135.1"
+        }
+    ],
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305947",
+        "code": "TW-TAO",
+        "local_code": "TAO",
+        "name": "Taoyuan County",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taoyuan_County",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92954",
+            "filename": "Lungtang_NDB_TW",
+            "ident": "RA",
+            "name": "Lungtang",
+            "type": "NDB",
+            "frequency_khz": "202",
+            "latitude_deg": "24.8617000579834",
+            "longitude_deg": "121.25299835205078",
+            "elevation_ft": "",
+            "iso_country": "TW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.382",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "RCDI"
+        }
+    ]
+}

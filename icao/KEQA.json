@@ -1,0 +1,102 @@
+{
+    "id": "19766",
+    "ident": "KEQA",
+    "type": "small_airport",
+    "name": "Captain Jack Thomas El Dorado Airport",
+    "latitude_deg": "37.7741012573",
+    "longitude_deg": "-96.81759643550001",
+    "elevation_ft": "1378",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "El Dorado",
+    "scheduled_service": "no",
+    "gps_code": "KEQA",
+    "iata_code": "EDK",
+    "local_code": "EQA",
+    "home_link": "http://www.eldoks.com/Airport%20Cover.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Captain_Jack_Thomas/El_Dorado_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241904",
+            "airport_ref": "19766",
+            "airport_ident": "KEQA",
+            "length_ft": "4205",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "37.7702",
+            "le_longitude_deg": "-96.8231",
+            "le_elevation_ft": "1376",
+            "le_heading_degT": "43",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "37.7786",
+            "he_longitude_deg": "-96.8131",
+            "he_elevation_ft": "1378",
+            "he_heading_degT": "223",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241905",
+            "airport_ref": "19766",
+            "airport_ident": "KEQA",
+            "length_ft": "4200",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "37.7792",
+            "le_longitude_deg": "-96.8198",
+            "le_elevation_ft": "1378",
+            "le_heading_degT": "159",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "37.7684",
+            "he_longitude_deg": "-96.8145",
+            "he_elevation_ft": "1378",
+            "he_heading_degT": "339",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62791",
+            "airport_ref": "19766",
+            "airport_ident": "KEQA",
+            "type": "A/D",
+            "description": "WICHITA APP/DEP",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "62792",
+            "airport_ref": "19766",
+            "airport_ident": "KEQA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

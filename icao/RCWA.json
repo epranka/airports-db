@@ -1,0 +1,72 @@
+{
+    "id": "5529",
+    "ident": "RCWA",
+    "type": "small_airport",
+    "name": "Wang-an Airport",
+    "latitude_deg": "23.367372512817383",
+    "longitude_deg": "119.50277709960938",
+    "elevation_ft": "115",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-PEN",
+    "municipality": "Wang-an",
+    "scheduled_service": "no",
+    "gps_code": "RCWA",
+    "iata_code": "WOT",
+    "local_code": "",
+    "home_link": "http://www.mkport.gov.tw/English/index.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wangan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239329",
+            "airport_ref": "5529",
+            "airport_ident": "RCWA",
+            "length_ft": "3051",
+            "width_ft": "76",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "23.3653",
+            "le_longitude_deg": "119.502",
+            "le_elevation_ft": "",
+            "le_heading_degT": "20.9",
+            "le_displaced_threshold_ft": "181",
+            "he_ident": "20",
+            "he_latitude_deg": "23.3731",
+            "he_longitude_deg": "119.505",
+            "he_elevation_ft": "",
+            "he_heading_degT": "200.9",
+            "he_displaced_threshold_ft": "181"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58035",
+            "airport_ref": "5529",
+            "airport_ident": "RCWA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305945",
+        "code": "TW-PEN",
+        "local_code": "PEN",
+        "name": "Penghu County",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Penghu_County",
+        "keywords": "Pescadores"
+    }
+}

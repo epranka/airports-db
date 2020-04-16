@@ -1,0 +1,80 @@
+{
+    "id": "20321",
+    "ident": "KLBR",
+    "type": "small_airport",
+    "name": "Clarksville Red River City-J D Trissell Field",
+    "latitude_deg": "33.59320068",
+    "longitude_deg": "-95.06359863",
+    "elevation_ft": "440",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Clarksville",
+    "scheduled_service": "no",
+    "gps_code": "KLBR",
+    "iata_code": "",
+    "local_code": "LBR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241955",
+            "airport_ref": "20321",
+            "airport_ident": "KLBR",
+            "length_ft": "3000",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "33.5973",
+            "le_longitude_deg": "-95.0641",
+            "le_elevation_ft": "",
+            "le_heading_degT": "173.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "33.5891",
+            "he_longitude_deg": "-95.063",
+            "he_elevation_ft": "",
+            "he_heading_degT": "353.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62894",
+            "airport_ref": "20321",
+            "airport_ident": "KLBR",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.925"
+        },
+        {
+            "id": "62895",
+            "airport_ref": "20321",
+            "airport_ident": "KLBR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

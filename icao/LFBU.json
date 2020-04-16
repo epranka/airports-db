@@ -1,0 +1,80 @@
+{
+    "id": "4074",
+    "ident": "LFBU",
+    "type": "medium_airport",
+    "name": "Angoulême-Brie-Champniers Airport",
+    "latitude_deg": "45.72919845581055",
+    "longitude_deg": "0.22145600616931915",
+    "elevation_ft": "436",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Angoulême/Brie/Champniers",
+    "scheduled_service": "yes",
+    "gps_code": "LFBU",
+    "iata_code": "ANG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Angoul%C3%AAme_-_Brie_-_Champniers_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236012",
+            "airport_ref": "4074",
+            "airport_ident": "LFBU",
+            "length_ft": "5938",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "45.7305",
+            "le_longitude_deg": "0.207131",
+            "le_elevation_ft": "432",
+            "le_heading_degT": "97",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "45.7285",
+            "he_longitude_deg": "0.230214",
+            "he_elevation_ft": "414",
+            "he_heading_degT": "277",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52564",
+            "airport_ref": "4074",
+            "airport_ident": "LFBU",
+            "type": "AFIS",
+            "description": "ANGOULEME INFO",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "313583",
+            "airport_ref": "4074",
+            "airport_ident": "LFBU",
+            "type": "APPROACH",
+            "description": "LIMOGES APPROACH",
+            "frequency_mhz": "118.07"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306352",
+        "code": "FR-NAQ",
+        "local_code": "NAQ",
+        "name": "Nouvelle-Aquitaine",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
+        "keywords": "Limousin, Poitou-Charentes"
+    }
+}

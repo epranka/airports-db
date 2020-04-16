@@ -1,0 +1,150 @@
+{
+    "id": "3635",
+    "ident": "KLBF",
+    "type": "medium_airport",
+    "name": "North Platte Regional Airport Lee Bird Field",
+    "latitude_deg": "41.12620163",
+    "longitude_deg": "-100.6839981",
+    "elevation_ft": "2777",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "North Platte",
+    "scheduled_service": "yes",
+    "gps_code": "KLBF",
+    "iata_code": "LBF",
+    "local_code": "LBF",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/North_Platte_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241259",
+            "airport_ref": "3635",
+            "airport_ident": "KLBF",
+            "length_ft": "8000",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "41.1322",
+            "le_longitude_deg": "-100.69",
+            "le_elevation_ft": "2776",
+            "le_heading_degT": "126",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "41.1194",
+            "he_longitude_deg": "-100.667",
+            "he_elevation_ft": "2768",
+            "he_heading_degT": "306",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241260",
+            "airport_ref": "3635",
+            "airport_ident": "KLBF",
+            "length_ft": "4436",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "41.133",
+            "le_longitude_deg": "-100.693",
+            "le_elevation_ft": "2774",
+            "le_heading_degT": "181.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "41.1209",
+            "he_longitude_deg": "-100.693",
+            "he_elevation_ft": "2773",
+            "he_heading_degT": "1.1",
+            "he_displaced_threshold_ft": "301"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61483",
+            "airport_ref": "3635",
+            "airport_ident": "KLBF",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "61484",
+            "airport_ref": "3635",
+            "airport_ident": "KLBF",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "132.7"
+        },
+        {
+            "id": "61485",
+            "airport_ref": "3635",
+            "airport_ident": "KLBF",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "132.7"
+        },
+        {
+            "id": "61486",
+            "airport_ref": "3635",
+            "airport_ident": "KLBF",
+            "type": "RDO",
+            "description": "COLUMBUS RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "61487",
+            "airport_ref": "3635",
+            "airport_ident": "KLBF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90206",
+            "filename": "North_Platte_VORTAC_US",
+            "ident": "LBF",
+            "name": "North Platte",
+            "type": "VORTAC",
+            "frequency_khz": "117400",
+            "latitude_deg": "41.04859924316406",
+            "longitude_deg": "-100.74700164794922",
+            "elevation_ft": "3050",
+            "iso_country": "US",
+            "dme_frequency_khz": "117400",
+            "dme_channel": "121X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.001",
+            "magnetic_variation_deg": "7.13",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KLBF"
+        }
+    ]
+}

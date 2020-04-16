@@ -1,0 +1,72 @@
+{
+    "id": "1395",
+    "ident": "CPE4",
+    "type": "small_airport",
+    "name": "Cambridge / Reid's Field",
+    "latitude_deg": "43.442730692299996",
+    "longitude_deg": "-80.23251056670001",
+    "elevation_ft": "1050",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Cambridge",
+    "scheduled_service": "no",
+    "gps_code": "CPE4",
+    "iata_code": "",
+    "local_code": "CPE4",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cambridge/Reid's_Field_Airport",
+    "keywords": "PE4",
+    "runways": [
+        {
+            "id": "234900",
+            "airport_ref": "1395",
+            "airport_ident": "CPE4",
+            "length_ft": "3745",
+            "width_ft": "45",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "43.4475",
+            "le_longitude_deg": "-80.2344",
+            "le_elevation_ft": "",
+            "le_heading_degT": "160.5",
+            "le_displaced_threshold_ft": "700",
+            "he_ident": "35",
+            "he_latitude_deg": "43.4378",
+            "he_longitude_deg": "-80.2297",
+            "he_elevation_ft": "",
+            "he_heading_degT": "340.5",
+            "he_displaced_threshold_ft": "565"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50691",
+            "airport_ref": "1395",
+            "airport_ident": "CPE4",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": ""
+    }
+}

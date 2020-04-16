@@ -1,0 +1,150 @@
+{
+    "id": "20579",
+    "ident": "KMWA",
+    "type": "small_airport",
+    "name": "Williamson County Regional Airport",
+    "latitude_deg": "37.75500107",
+    "longitude_deg": "-89.01110077",
+    "elevation_ft": "472",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Marion",
+    "scheduled_service": "no",
+    "gps_code": "KMWA",
+    "iata_code": "MWA",
+    "local_code": "MWA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Williamson_County_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240378",
+            "airport_ref": "20579",
+            "airport_ident": "KMWA",
+            "length_ft": "8012",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "37.7484",
+            "le_longitude_deg": "-89.018",
+            "le_elevation_ft": "453",
+            "le_heading_degT": "22.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "37.7687",
+            "he_longitude_deg": "-89.0074",
+            "he_elevation_ft": "466",
+            "he_heading_degT": "202.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240379",
+            "airport_ref": "20579",
+            "airport_ident": "KMWA",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "37.7513",
+            "le_longitude_deg": "-89.0168",
+            "le_elevation_ft": "454",
+            "le_heading_degT": "107.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "37.7471",
+            "he_longitude_deg": "-89.0003",
+            "he_elevation_ft": "468",
+            "he_heading_degT": "287.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59856",
+            "airport_ref": "20579",
+            "airport_ident": "KMWA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.675"
+        },
+        {
+            "id": "59857",
+            "airport_ref": "20579",
+            "airport_ident": "KMWA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "59858",
+            "airport_ref": "20579",
+            "airport_ident": "KMWA",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "59859",
+            "airport_ref": "20579",
+            "airport_ident": "KMWA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "59860",
+            "airport_ref": "20579",
+            "airport_ident": "KMWA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "59861",
+            "airport_ref": "20579",
+            "airport_ident": "KMWA",
+            "type": "RDO",
+            "description": "ST LOUIS RDO",
+            "frequency_mhz": "110.4"
+        },
+        {
+            "id": "59862",
+            "airport_ref": "20579",
+            "airport_ident": "KMWA",
+            "type": "TWR",
+            "description": "MARION TWR",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "59863",
+            "airport_ref": "20579",
+            "airport_ident": "KMWA",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

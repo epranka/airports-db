@@ -1,0 +1,166 @@
+{
+    "id": "333692",
+    "ident": "OPIS",
+    "type": "large_airport",
+    "name": "Islamabad International Airport",
+    "latitude_deg": "33.549",
+    "longitude_deg": "72.82566",
+    "elevation_ft": "1761",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-PB",
+    "municipality": "Islamabad",
+    "scheduled_service": "yes",
+    "gps_code": "OPIS",
+    "iata_code": "ISB",
+    "local_code": "",
+    "home_link": "http://www.islamabadairport.com.pk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Islamabad_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "333693",
+            "airport_ref": "333692",
+            "airport_ident": "OPIS",
+            "length_ft": "12001",
+            "width_ft": "147",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10L",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "100",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28R",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "280",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "333694",
+            "airport_ref": "333692",
+            "airport_ident": "OPIS",
+            "length_ft": "12001",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10R",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "100",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28L",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "280",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "333704",
+            "airport_ref": "333692",
+            "airport_ident": "OPIS",
+            "type": "APP",
+            "description": "Islamabad Approach",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "333703",
+            "airport_ref": "333692",
+            "airport_ident": "OPIS",
+            "type": "APP",
+            "description": "Islamabad Approach",
+            "frequency_mhz": "124.65"
+        },
+        {
+            "id": "333699",
+            "airport_ref": "333692",
+            "airport_ident": "OPIS",
+            "type": "DEP",
+            "description": "Islamabad Departure",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "333700",
+            "airport_ref": "333692",
+            "airport_ident": "OPIS",
+            "type": "DEP",
+            "description": "Islamabad Departure",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "333701",
+            "airport_ref": "333692",
+            "airport_ident": "OPIS",
+            "type": "GMC",
+            "description": "",
+            "frequency_mhz": "123.05"
+        },
+        {
+            "id": "333702",
+            "airport_ref": "333692",
+            "airport_ident": "OPIS",
+            "type": "GMC",
+            "description": "",
+            "frequency_mhz": "125.15"
+        },
+        {
+            "id": "333698",
+            "airport_ref": "333692",
+            "airport_ident": "OPIS",
+            "type": "Ground",
+            "description": "Islamabad Ground",
+            "frequency_mhz": "122.95"
+        },
+        {
+            "id": "333697",
+            "airport_ref": "333692",
+            "airport_ident": "OPIS",
+            "type": "Ground",
+            "description": "Islamabad ZGround",
+            "frequency_mhz": "130.6"
+        },
+        {
+            "id": "333695",
+            "airport_ref": "333692",
+            "airport_ident": "OPIS",
+            "type": "Tower",
+            "description": "Islamabad Tower",
+            "frequency_mhz": "122.15"
+        },
+        {
+            "id": "333696",
+            "airport_ref": "333692",
+            "airport_ident": "OPIS",
+            "type": "Tower",
+            "description": "Islamabad Tower",
+            "frequency_mhz": "123.255"
+        }
+    ],
+    "country": {
+        "id": "302657",
+        "code": "PK",
+        "name": "Pakistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pakistan",
+        "keywords": "پاکستان کے ہوائی اڈوں"
+    },
+    "region": {
+        "id": "305140",
+        "code": "PK-PB",
+        "local_code": "PB",
+        "name": "Punjab",
+        "continent": "AS",
+        "iso_country": "PK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
+        "keywords": ""
+    }
+}

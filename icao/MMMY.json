@@ -1,0 +1,142 @@
+{
+    "id": "4732",
+    "ident": "MMMY",
+    "type": "large_airport",
+    "name": "General Mariano Escobedo International Airport",
+    "latitude_deg": "25.7784996033",
+    "longitude_deg": "-100.107002258",
+    "elevation_ft": "1278",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-NLE",
+    "municipality": "Monterrey",
+    "scheduled_service": "yes",
+    "gps_code": "MMMY",
+    "iata_code": "MTY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/General_Mariano_Escobedo_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237724",
+            "airport_ref": "4732",
+            "airport_ident": "MMMY",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "25.7841",
+            "le_longitude_deg": "-100.117",
+            "le_elevation_ft": "1277",
+            "le_heading_degT": "121",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "25.77",
+            "he_longitude_deg": "-100.091",
+            "he_elevation_ft": "1234",
+            "he_heading_degT": "301",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "237725",
+            "airport_ref": "4732",
+            "airport_ident": "MMMY",
+            "length_ft": "5909",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "25.7881",
+            "le_longitude_deg": "-100.11",
+            "le_elevation_ft": "1271",
+            "le_heading_degT": "165",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "25.7724",
+            "he_longitude_deg": "-100.105",
+            "he_elevation_ft": "1254",
+            "he_heading_degT": "345",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55462",
+            "airport_ref": "4732",
+            "airport_ident": "MMMY",
+            "type": "APP",
+            "description": "MONTERREY APP",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "55463",
+            "airport_ref": "4732",
+            "airport_ident": "MMMY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "55464",
+            "airport_ref": "4732",
+            "airport_ident": "MMMY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "55465",
+            "airport_ref": "4732",
+            "airport_ident": "MMMY",
+            "type": "TWR",
+            "description": "MONTERREY TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304808",
+        "code": "MX-NLE",
+        "local_code": "NLE",
+        "name": "Nuevo León",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nuevo_Le%C3%B3n",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91345",
+            "filename": "Monterrey_VOR-DME_MX",
+            "ident": "MTY",
+            "name": "Monterrey",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "25.772899627685547",
+            "longitude_deg": "-100.10399627685547",
+            "elevation_ft": "1278",
+            "iso_country": "MX",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.004",
+            "magnetic_variation_deg": "6.222",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMMY"
+        }
+    ]
+}

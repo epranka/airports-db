@@ -1,0 +1,96 @@
+{
+    "id": "5190",
+    "ident": "OINN",
+    "type": "medium_airport",
+    "name": "Noshahr Airport",
+    "latitude_deg": "36.663299560546875",
+    "longitude_deg": "51.464698791503906",
+    "elevation_ft": "-61",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-21",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "OINN",
+    "iata_code": "NSH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Noshahr_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236864",
+            "airport_ref": "5190",
+            "airport_ident": "OINN",
+            "length_ft": "6182",
+            "width_ft": "115",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "36.6666",
+            "le_longitude_deg": "51.4544",
+            "le_elevation_ft": "-61",
+            "le_heading_degT": "108.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "36.6611",
+            "he_longitude_deg": "51.4744",
+            "he_elevation_ft": "-71",
+            "he_heading_degT": "288.6",
+            "he_displaced_threshold_ft": "492"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54025",
+            "airport_ref": "5190",
+            "airport_ident": "OINN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.6"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304238",
+        "code": "IR-21",
+        "local_code": "21",
+        "name": "Mazandaran Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mazandaran_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91727",
+            "filename": "Noshahr_NDB-DME_IR",
+            "ident": "NSR",
+            "name": "Noshahr",
+            "type": "NDB-DME",
+            "frequency_khz": "260",
+            "latitude_deg": "36.65330123901367",
+            "longitude_deg": "51.50469970703125",
+            "elevation_ft": "-64",
+            "iso_country": "IR",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.175",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OINN"
+        }
+    ]
+}

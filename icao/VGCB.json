@@ -1,0 +1,96 @@
+{
+    "id": "26526",
+    "ident": "VGCB",
+    "type": "medium_airport",
+    "name": "Cox's Bazar Airport",
+    "latitude_deg": "21.452199935913086",
+    "longitude_deg": "91.96389770507812",
+    "elevation_ft": "12",
+    "continent": "AS",
+    "iso_country": "BD",
+    "iso_region": "BD-2",
+    "municipality": "Cox's Bazar",
+    "scheduled_service": "yes",
+    "gps_code": "VGCB",
+    "iata_code": "CXB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cox's_Bazar_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233679",
+            "airport_ref": "26526",
+            "airport_ident": "VGCB",
+            "length_ft": "6790",
+            "width_ft": "125",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "21.4613",
+            "le_longitude_deg": "91.962",
+            "le_elevation_ft": "12",
+            "le_heading_degT": "169",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "21.4431",
+            "he_longitude_deg": "91.9657",
+            "he_elevation_ft": "12",
+            "he_heading_degT": "349",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49421",
+            "airport_ref": "26526",
+            "airport_ident": "VGCB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302622",
+        "code": "BD",
+        "name": "Bangladesh",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bangladesh",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306744",
+        "code": "BD-2",
+        "local_code": "2",
+        "name": "Chittagong Division",
+        "continent": "AS",
+        "iso_country": "BD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chittagong_Division",
+        "keywords": "Chittagong bibhag"
+    },
+    "navaids": [
+        {
+            "id": "86602",
+            "filename": "Coxs_Bazar_NDB_BD",
+            "ident": "CB",
+            "name": "Coxs Bazar",
+            "type": "NDB",
+            "frequency_khz": "396",
+            "latitude_deg": "21.452899932861328",
+            "longitude_deg": "91.9657974243164",
+            "elevation_ft": "",
+            "iso_country": "BD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.401",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VGCB"
+        }
+    ]
+}

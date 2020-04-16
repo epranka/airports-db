@@ -1,0 +1,72 @@
+{
+    "id": "7019",
+    "ident": "09CL",
+    "type": "small_airport",
+    "name": "Alta Sierra Airport",
+    "latitude_deg": "39.113800048828125",
+    "longitude_deg": "-121.05699920654297",
+    "elevation_ft": "2275",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Grass Valley",
+    "scheduled_service": "no",
+    "gps_code": "09CL",
+    "iata_code": "",
+    "local_code": "09CL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241029",
+            "airport_ref": "7019",
+            "airport_ident": "09CL",
+            "length_ft": "3000",
+            "width_ft": "50",
+            "surface": "ASPH-F",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "39.11",
+            "le_longitude_deg": "-121.059",
+            "le_elevation_ft": "2240",
+            "le_heading_degT": "26",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "39.1175",
+            "he_longitude_deg": "-121.054",
+            "he_elevation_ft": "2310",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61013",
+            "airport_ref": "7019",
+            "airport_ident": "09CL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

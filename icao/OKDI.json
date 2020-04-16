@@ -1,0 +1,136 @@
+{
+    "id": "5221",
+    "ident": "OKDI",
+    "type": "small_airport",
+    "name": "Udairi Army Air Field",
+    "latitude_deg": "29.697599411010742",
+    "longitude_deg": "47.43600082397461",
+    "elevation_ft": "430",
+    "continent": "AS",
+    "iso_country": "KW",
+    "iso_region": "KW-JA",
+    "municipality": "Camp Buehring",
+    "scheduled_service": "no",
+    "gps_code": "OKDI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Camp_Buehring",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237382",
+            "airport_ref": "5221",
+            "airport_ident": "OKDI",
+            "length_ft": "5215",
+            "width_ft": "80",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "29.7048",
+            "le_longitude_deg": "47.4362",
+            "le_elevation_ft": "425",
+            "le_heading_degT": "181.4",
+            "le_displaced_threshold_ft": "474",
+            "he_ident": "36",
+            "he_latitude_deg": "29.6905",
+            "he_longitude_deg": "47.4358",
+            "he_elevation_ft": "430",
+            "he_heading_degT": "1.4",
+            "he_displaced_threshold_ft": "462"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55100",
+            "airport_ref": "5221",
+            "airport_ident": "OKDI",
+            "type": "APP",
+            "description": "MOHALAB APP",
+            "frequency_mhz": "128.3"
+        },
+        {
+            "id": "55101",
+            "airport_ref": "5221",
+            "airport_ident": "OKDI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "145.25"
+        },
+        {
+            "id": "55102",
+            "airport_ref": "5221",
+            "airport_ident": "OKDI",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "44.125"
+        },
+        {
+            "id": "55103",
+            "airport_ref": "5221",
+            "airport_ident": "OKDI",
+            "type": "PMSV",
+            "description": "METRO",
+            "frequency_mhz": "74.1"
+        },
+        {
+            "id": "55104",
+            "airport_ref": "5221",
+            "airport_ident": "OKDI",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "137.775"
+        },
+        {
+            "id": "55105",
+            "airport_ref": "5221",
+            "airport_ident": "OKDI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "130"
+        }
+    ],
+    "country": {
+        "id": "302644",
+        "code": "KW",
+        "name": "Kuwait",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kuwait",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304420",
+        "code": "KW-JA",
+        "local_code": "JA",
+        "name": "Al Jahra Governorate",
+        "continent": "AS",
+        "iso_country": "KW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Jahra_Governorate",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94827",
+            "filename": "Udairi_NDB_KW",
+            "ident": "UDI",
+            "name": "Udairi",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "29.68670082092285",
+            "longitude_deg": "47.433799743652344",
+            "elevation_ft": "428",
+            "iso_country": "KW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.036",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OKDI"
+        }
+    ]
+}

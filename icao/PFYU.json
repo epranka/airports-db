@@ -1,0 +1,158 @@
+{
+    "id": "5429",
+    "ident": "PFYU",
+    "type": "medium_airport",
+    "name": "Fort Yukon Airport",
+    "latitude_deg": "66.57150268554688",
+    "longitude_deg": "-145.25",
+    "elevation_ft": "433",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Fort Yukon",
+    "scheduled_service": "no",
+    "gps_code": "PFYU",
+    "iata_code": "FYU",
+    "local_code": "FYU",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fort_Yukon_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "251064",
+            "airport_ref": "5429",
+            "airport_ident": "PFYU",
+            "length_ft": "5810",
+            "width_ft": "150",
+            "surface": "GRVL-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "66.5676",
+            "le_longitude_deg": "-145.268",
+            "le_elevation_ft": "431",
+            "le_heading_degT": "60",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "66.5754",
+            "he_longitude_deg": "-145.233",
+            "he_elevation_ft": "433",
+            "he_heading_degT": "240",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58719",
+            "airport_ref": "5429",
+            "airport_ident": "PFYU",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "58720",
+            "airport_ref": "5429",
+            "airport_ident": "PFYU",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "135"
+        },
+        {
+            "id": "58721",
+            "airport_ref": "5429",
+            "airport_ident": "PFYU",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "58722",
+            "airport_ref": "5429",
+            "airport_ident": "PFYU",
+            "type": "FSS",
+            "description": "FAIRBANKS RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "58723",
+            "airport_ref": "5429",
+            "airport_ident": "PFYU",
+            "type": "INFO",
+            "description": "EIELSON RANGE CON",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "58724",
+            "airport_ref": "5429",
+            "airport_ident": "PFYU",
+            "type": "MISC",
+            "description": "TWEB",
+            "frequency_mhz": "114.4"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88178",
+            "filename": "Yukon_River_NDB_US",
+            "ident": "FTO",
+            "name": "Yukon River",
+            "type": "NDB",
+            "frequency_khz": "242",
+            "latitude_deg": "66.58000183105469",
+            "longitude_deg": "-145.21299743652344",
+            "elevation_ft": "433",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "24.159",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PFYU"
+        },
+        {
+            "id": "88220",
+            "filename": "Fort_Yukon_VORTAC_US",
+            "ident": "FYU",
+            "name": "Fort Yukon",
+            "type": "VORTAC",
+            "frequency_khz": "114400",
+            "latitude_deg": "66.57430267333984",
+            "longitude_deg": "-145.27699279785156",
+            "elevation_ft": "425",
+            "iso_country": "US",
+            "dme_frequency_khz": "114400",
+            "dme_channel": "091X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "31.001",
+            "magnetic_variation_deg": "24.143",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PFYU"
+        }
+    ]
+}

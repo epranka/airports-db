@@ -1,0 +1,112 @@
+{
+    "id": "28030",
+    "ident": "YWAV",
+    "type": "small_airport",
+    "name": "Wave Hill Airport",
+    "latitude_deg": "-17.393299102783203",
+    "longitude_deg": "131.1179962158203",
+    "elevation_ft": "201",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YWAV",
+    "iata_code": "WAV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259487",
+            "airport_ref": "28030",
+            "airport_ident": "YWAV",
+            "length_ft": "3805",
+            "width_ft": "",
+            "surface": "C",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74865",
+            "airport_ref": "28030",
+            "airport_ident": "YWAV",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "134.2"
+        },
+        {
+            "id": "74866",
+            "airport_ref": "28030",
+            "airport_ident": "YWAV",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "74867",
+            "airport_ref": "28030",
+            "airport_ident": "YWAV",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.3"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95373",
+            "filename": "Wave_Hill_NDB_AU",
+            "ident": "WAV",
+            "name": "Wave Hill",
+            "type": "NDB",
+            "frequency_khz": "203",
+            "latitude_deg": "-17.392499923706055",
+            "longitude_deg": "131.12100219726562",
+            "elevation_ft": "658",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.57",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YWAV"
+        }
+    ]
+}

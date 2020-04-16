@@ -1,0 +1,102 @@
+{
+    "id": "20856",
+    "ident": "KPOH",
+    "type": "small_airport",
+    "name": "Pocahontas Municipal Airport",
+    "latitude_deg": "42.74280167",
+    "longitude_deg": "-94.64730072",
+    "elevation_ft": "1226",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Pocahontas",
+    "scheduled_service": "no",
+    "gps_code": "KPOH",
+    "iata_code": "",
+    "local_code": "POH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241118",
+            "airport_ref": "20856",
+            "airport_ident": "KPOH",
+            "length_ft": "4100",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "42.7457",
+            "le_longitude_deg": "-94.6546",
+            "le_elevation_ft": "1224",
+            "le_heading_degT": "121.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "42.7398",
+            "he_longitude_deg": "-94.6415",
+            "he_elevation_ft": "1221",
+            "he_heading_degT": "301.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241119",
+            "airport_ref": "20856",
+            "airport_ident": "KPOH",
+            "length_ft": "1950",
+            "width_ft": "135",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "42.745",
+            "le_longitude_deg": "-94.6458",
+            "le_elevation_ft": "",
+            "le_heading_degT": "185",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "42.7397",
+            "he_longitude_deg": "-94.6464",
+            "he_elevation_ft": "",
+            "he_heading_degT": "5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61189",
+            "airport_ref": "20856",
+            "airport_ident": "KPOH",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "61190",
+            "airport_ref": "20856",
+            "airport_ident": "KPOH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

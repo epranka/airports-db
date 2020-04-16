@@ -1,0 +1,136 @@
+{
+    "id": "6416",
+    "ident": "TXKF",
+    "type": "medium_airport",
+    "name": "L.F. Wade International International Airport",
+    "latitude_deg": "32.36399841308594",
+    "longitude_deg": "-64.67870330810547",
+    "elevation_ft": "12",
+    "continent": "NA",
+    "iso_country": "BM",
+    "iso_region": "BM-U-A",
+    "municipality": "Hamilton",
+    "scheduled_service": "yes",
+    "gps_code": "TXKF",
+    "iata_code": "BDA",
+    "local_code": "",
+    "home_link": "http://www.bermudaairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bermuda_International_Airport",
+    "keywords": "Kindley Air Force Base, Fort Bell Army Airfield, NAS Bermuda, Naval Air Station Bermuda",
+    "runways": [
+        {
+            "id": "233616",
+            "airport_ref": "6416",
+            "airport_ident": "TXKF",
+            "length_ft": "9705",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "32.3667",
+            "le_longitude_deg": "-64.6941",
+            "le_elevation_ft": "18",
+            "le_heading_degT": "102",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "32.3614",
+            "he_longitude_deg": "-64.6633",
+            "he_elevation_ft": "18",
+            "he_heading_degT": "282",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49311",
+            "airport_ref": "6416",
+            "airport_ident": "TXKF",
+            "type": "APP",
+            "description": "NEW YORK APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "49312",
+            "airport_ref": "6416",
+            "airport_ident": "TXKF",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "49313",
+            "airport_ref": "6416",
+            "airport_ident": "TXKF",
+            "type": "CNTR",
+            "description": "NEW YORK CNTR",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "49314",
+            "airport_ref": "6416",
+            "airport_ident": "TXKF",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "49315",
+            "airport_ref": "6416",
+            "airport_ident": "TXKF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "49316",
+            "airport_ref": "6416",
+            "airport_ident": "TXKF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302727",
+        "code": "BM",
+        "name": "Bermuda",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bermuda",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303183",
+        "code": "BM-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "BM",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85894",
+            "filename": "Bermuda_VOR-DME_BM",
+            "ident": "BDA",
+            "name": "Bermuda",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "32.36439895629883",
+            "longitude_deg": "-64.6895980834961",
+            "elevation_ft": "11",
+            "iso_country": "BM",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-15.003",
+            "magnetic_variation_deg": "-15.154",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "TXKF"
+        }
+    ]
+}

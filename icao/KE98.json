@@ -1,0 +1,72 @@
+{
+    "id": "19713",
+    "ident": "KE98",
+    "type": "small_airport",
+    "name": "Mid Valley Airpark",
+    "latitude_deg": "34.759799957275",
+    "longitude_deg": "-106.74500274658",
+    "elevation_ft": "4830",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Los Lunas",
+    "scheduled_service": "no",
+    "gps_code": "E98",
+    "iata_code": "",
+    "local_code": "E98",
+    "home_link": "http://www.midvalleyairpark.com/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240992",
+            "airport_ref": "19713",
+            "airport_ident": "KE98",
+            "length_ft": "4340",
+            "width_ft": "37",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "34.7656",
+            "le_longitude_deg": "-106.744",
+            "le_elevation_ft": "4830",
+            "le_heading_degT": "185",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "36",
+            "he_latitude_deg": "34.7536",
+            "he_longitude_deg": "-106.746",
+            "he_elevation_ft": "",
+            "he_heading_degT": "5",
+            "he_displaced_threshold_ft": "535"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60924",
+            "airport_ref": "19713",
+            "airport_ident": "KE98",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    }
+}

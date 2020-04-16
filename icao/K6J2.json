@@ -1,0 +1,80 @@
+{
+    "id": "18993",
+    "ident": "K6J2",
+    "type": "small_airport",
+    "name": "St George Airport",
+    "latitude_deg": "33.19549942",
+    "longitude_deg": "-80.50849915",
+    "elevation_ft": "85",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "St George",
+    "scheduled_service": "no",
+    "gps_code": "K6J2",
+    "iata_code": "",
+    "local_code": "6J2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243515",
+            "airport_ref": "18993",
+            "airport_ident": "K6J2",
+            "length_ft": "3200",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "33.1924",
+            "le_longitude_deg": "-80.5122",
+            "le_elevation_ft": "82",
+            "le_heading_degT": "45.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "33.1986",
+            "he_longitude_deg": "-80.5047",
+            "he_elevation_ft": "82",
+            "he_heading_degT": "225.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66161",
+            "airport_ref": "18993",
+            "airport_ident": "K6J2",
+            "type": "A/D",
+            "description": "CHARLESTON APP/DEP",
+            "frequency_mhz": "30.692"
+        },
+        {
+            "id": "66162",
+            "airport_ref": "18993",
+            "airport_ident": "K6J2",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306116",
+        "code": "US-SC",
+        "local_code": "SC",
+        "name": "South Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
+        "keywords": ""
+    }
+}

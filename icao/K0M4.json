@@ -1,0 +1,80 @@
+{
+    "id": "18378",
+    "ident": "K0M4",
+    "type": "small_airport",
+    "name": "Benton County Airport",
+    "latitude_deg": "36.01110076904297",
+    "longitude_deg": "-88.12329864501953",
+    "elevation_ft": "468",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Camden",
+    "scheduled_service": "no",
+    "gps_code": "K0M4",
+    "iata_code": "",
+    "local_code": "0M4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245903",
+            "airport_ref": "18378",
+            "airport_ident": "K0M4",
+            "length_ft": "5001",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "36.0039",
+            "le_longitude_deg": "-88.1296",
+            "le_elevation_ft": "468",
+            "le_heading_degT": "35",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "36.0152",
+            "he_longitude_deg": "-88.1199",
+            "he_elevation_ft": "465",
+            "he_heading_degT": "215",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71315",
+            "airport_ref": "18378",
+            "airport_ident": "K0M4",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "125.85"
+        },
+        {
+            "id": "71316",
+            "airport_ref": "18378",
+            "airport_ident": "K0M4",
+            "type": "CTAF",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

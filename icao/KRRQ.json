@@ -1,0 +1,80 @@
+{
+    "id": "20960",
+    "ident": "KRRQ",
+    "type": "small_airport",
+    "name": "Rock Rapids Municipal Airport",
+    "latitude_deg": "43.45220184326172",
+    "longitude_deg": "-96.17980194091797",
+    "elevation_ft": "1363",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Rock Rapids",
+    "scheduled_service": "no",
+    "gps_code": "KRRQ",
+    "iata_code": "",
+    "local_code": "RRQ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240036",
+            "airport_ref": "20960",
+            "airport_ident": "KRRQ",
+            "length_ft": "3097",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "43.4564",
+            "le_longitude_deg": "-96.1806",
+            "le_elevation_ft": "1359",
+            "le_heading_degT": "172",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "34",
+            "he_latitude_deg": "43.448",
+            "he_longitude_deg": "-96.1789",
+            "he_elevation_ft": "1357",
+            "he_heading_degT": "352",
+            "he_displaced_threshold_ft": "300"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59371",
+            "airport_ref": "20960",
+            "airport_ident": "KRRQ",
+            "type": "A/D",
+            "description": "SIOUX FALLS APP/DEP",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "59372",
+            "airport_ref": "20960",
+            "airport_ident": "KRRQ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

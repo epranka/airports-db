@@ -1,0 +1,142 @@
+{
+    "id": "19498",
+    "ident": "KCIC",
+    "type": "small_airport",
+    "name": "Chico Municipal Airport",
+    "latitude_deg": "39.79539871",
+    "longitude_deg": "-121.8580017",
+    "elevation_ft": "240",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Chico",
+    "scheduled_service": "no",
+    "gps_code": "KCIC",
+    "iata_code": "CIC",
+    "local_code": "CIC",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chico_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243894",
+            "airport_ref": "19498",
+            "airport_ident": "KCIC",
+            "length_ft": "6724",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13L",
+            "le_latitude_deg": "39.8034",
+            "le_longitude_deg": "-121.864",
+            "le_elevation_ft": "238",
+            "le_heading_degT": "147.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31R",
+            "he_latitude_deg": "39.7878",
+            "he_longitude_deg": "-121.851",
+            "he_elevation_ft": "205",
+            "he_heading_degT": "327.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243893",
+            "airport_ref": "19498",
+            "airport_ident": "KCIC",
+            "length_ft": "3005",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13R",
+            "le_latitude_deg": "39.7984",
+            "le_longitude_deg": "-121.863",
+            "le_elevation_ft": "225",
+            "le_heading_degT": "147.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31L",
+            "he_latitude_deg": "39.7914",
+            "he_longitude_deg": "-121.857",
+            "he_elevation_ft": "212",
+            "he_heading_degT": "327.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66974",
+            "airport_ref": "19498",
+            "airport_ident": "KCIC",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.675"
+        },
+        {
+            "id": "66975",
+            "airport_ref": "19498",
+            "airport_ident": "KCIC",
+            "type": "CNTR",
+            "description": "OAKLAND CNTR",
+            "frequency_mhz": "132.2"
+        },
+        {
+            "id": "66976",
+            "airport_ref": "19498",
+            "airport_ident": "KCIC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "66977",
+            "airport_ref": "19498",
+            "airport_ident": "KCIC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "66978",
+            "airport_ref": "19498",
+            "airport_ident": "KCIC",
+            "type": "RDO",
+            "description": "RANCHO RDO",
+            "frequency_mhz": "109.8"
+        },
+        {
+            "id": "66979",
+            "airport_ref": "19498",
+            "airport_ident": "KCIC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "66980",
+            "airport_ref": "19498",
+            "airport_ident": "KCIC",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

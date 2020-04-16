@@ -1,0 +1,96 @@
+{
+    "id": "19323",
+    "ident": "KAUM",
+    "type": "small_airport",
+    "name": "Austin Municipal Airport",
+    "latitude_deg": "43.66500092",
+    "longitude_deg": "-92.93340302",
+    "elevation_ft": "1234",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Austin",
+    "scheduled_service": "no",
+    "gps_code": "KAUM",
+    "iata_code": "AUM",
+    "local_code": "AUM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Austin_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "251421",
+            "airport_ref": "19323",
+            "airport_ident": "KAUM",
+            "length_ft": "5800",
+            "width_ft": "100",
+            "surface": "CONC-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "43.6705",
+            "le_longitude_deg": "-92.9344",
+            "le_elevation_ft": "1231",
+            "le_heading_degT": "172",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "43.6548",
+            "he_longitude_deg": "-92.9314",
+            "he_elevation_ft": "1231",
+            "he_heading_degT": "352",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69135",
+            "airport_ref": "19323",
+            "airport_ident": "KAUM",
+            "type": "A/D",
+            "description": "ROCHESTER APP/DEP",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "69136",
+            "airport_ref": "19323",
+            "airport_ident": "KAUM",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "69137",
+            "airport_ref": "19323",
+            "airport_ident": "KAUM",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "69138",
+            "airport_ref": "19323",
+            "airport_ident": "KAUM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

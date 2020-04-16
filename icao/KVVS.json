@@ -1,0 +1,110 @@
+{
+    "id": "21342",
+    "ident": "KVVS",
+    "type": "small_airport",
+    "name": "Joseph A. Hardy Connellsville Airport",
+    "latitude_deg": "39.95920181",
+    "longitude_deg": "-79.65709686",
+    "elevation_ft": "1267",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Connellsville",
+    "scheduled_service": "no",
+    "gps_code": "KVVS",
+    "iata_code": "",
+    "local_code": "VVS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245399",
+            "airport_ref": "21342",
+            "airport_ident": "KVVS",
+            "length_ft": "3458",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "39.9575",
+            "le_longitude_deg": "-79.6615",
+            "le_elevation_ft": "1223",
+            "le_heading_degT": "40.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "39.9647",
+            "he_longitude_deg": "-79.6534",
+            "he_elevation_ft": "1265",
+            "he_heading_degT": "220.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245400",
+            "airport_ref": "21342",
+            "airport_ident": "KVVS",
+            "length_ft": "2404",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "39.9585",
+            "le_longitude_deg": "-79.66",
+            "le_elevation_ft": "1227",
+            "le_heading_degT": "129",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "39.9542",
+            "he_longitude_deg": "-79.6535",
+            "he_elevation_ft": "1238",
+            "he_heading_degT": "309",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70219",
+            "airport_ref": "21342",
+            "airport_ident": "KVVS",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.32"
+        },
+        {
+            "id": "70220",
+            "airport_ref": "21342",
+            "airport_ident": "KVVS",
+            "type": "CNTR",
+            "description": "CLEVELAND CNTR",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "70221",
+            "airport_ref": "21342",
+            "airport_ident": "KVVS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

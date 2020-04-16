@@ -1,0 +1,150 @@
+{
+    "id": "19429",
+    "ident": "KBYI",
+    "type": "medium_airport",
+    "name": "Burley Municipal Airport",
+    "latitude_deg": "42.542598724399994",
+    "longitude_deg": "-113.772003174",
+    "elevation_ft": "4150",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Burley",
+    "scheduled_service": "no",
+    "gps_code": "KBYI",
+    "iata_code": "BYI",
+    "local_code": "BYI",
+    "home_link": "http://burleyidaho.org/city-of-burley/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Burley_Municipal_Airport",
+    "keywords": "J R Jack Simplot Airport",
+    "runways": [
+        {
+            "id": "242145",
+            "airport_ref": "19429",
+            "airport_ident": "KBYI",
+            "length_ft": "4094",
+            "width_ft": "80",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "42.5377",
+            "le_longitude_deg": "-113.774",
+            "le_elevation_ft": "4149",
+            "le_heading_degT": "37",
+            "le_displaced_threshold_ft": "620",
+            "he_ident": "20",
+            "he_latitude_deg": "42.5466",
+            "he_longitude_deg": "-113.765",
+            "he_elevation_ft": "4138",
+            "he_heading_degT": "217",
+            "he_displaced_threshold_ft": "300"
+        },
+        {
+            "id": "242146",
+            "airport_ref": "19429",
+            "airport_ident": "KBYI",
+            "length_ft": "4067",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "42.542",
+            "le_longitude_deg": "-113.781",
+            "le_elevation_ft": "4149",
+            "le_heading_degT": "79",
+            "le_displaced_threshold_ft": "800",
+            "he_ident": "24",
+            "he_latitude_deg": "42.5442",
+            "he_longitude_deg": "-113.766",
+            "he_elevation_ft": "4140",
+            "he_heading_degT": "259",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63305",
+            "airport_ref": "19429",
+            "airport_ident": "KBYI",
+            "type": "A/D",
+            "description": "TWIN FALLS APP/DEP",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "63306",
+            "airport_ref": "19429",
+            "airport_ident": "KBYI",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.575"
+        },
+        {
+            "id": "63307",
+            "airport_ref": "19429",
+            "airport_ident": "KBYI",
+            "type": "CNTR",
+            "description": "SALT LAKE CITY CNTR",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "63308",
+            "airport_ref": "19429",
+            "airport_ident": "KBYI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "63309",
+            "airport_ref": "19429",
+            "airport_ident": "KBYI",
+            "type": "RDO",
+            "description": "BOISE RDO",
+            "frequency_mhz": "122.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86504",
+            "filename": "Burley_VOR-DME_US",
+            "ident": "BYI",
+            "name": "Burley",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "42.5802001953125",
+            "longitude_deg": "-113.86599731445312",
+            "elevation_ft": "4230",
+            "iso_country": "US",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "18.001",
+            "magnetic_variation_deg": "13.555",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KBYI"
+        }
+    ]
+}

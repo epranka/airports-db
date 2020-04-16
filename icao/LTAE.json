@@ -1,0 +1,112 @@
+{
+    "id": "4511",
+    "ident": "LTAE",
+    "type": "medium_airport",
+    "name": "Akıncı Air Base",
+    "latitude_deg": "40.078899383499994",
+    "longitude_deg": "32.5656013489",
+    "elevation_ft": "2767",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-06",
+    "municipality": "Ankara",
+    "scheduled_service": "no",
+    "gps_code": "LTAE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ak%C4%B1nc%C4%B1_Air_Base",
+    "keywords": "Akinci, Mürted, Murted",
+    "runways": [
+        {
+            "id": "239271",
+            "airport_ref": "4511",
+            "airport_ident": "LTAE",
+            "length_ft": "10991",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "40.0662",
+            "le_longitude_deg": "32.555",
+            "le_elevation_ft": "2729",
+            "le_heading_degT": "32.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "40.0916",
+            "he_longitude_deg": "32.5763",
+            "he_elevation_ft": "2767",
+            "he_heading_degT": "212.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57904",
+            "airport_ref": "4511",
+            "airport_ident": "LTAE",
+            "type": "APP",
+            "description": "ESENBOGA APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "57905",
+            "airport_ref": "4511",
+            "airport_ident": "LTAE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "264.15"
+        },
+        {
+            "id": "57906",
+            "airport_ref": "4511",
+            "airport_ident": "LTAE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305841",
+        "code": "TR-06",
+        "local_code": "06",
+        "name": "Ankara Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ankara_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "96037",
+            "filename": "Akinci_TACAN_TR",
+            "ident": "ZIR",
+            "name": "Akinci",
+            "type": "TACAN",
+            "frequency_khz": "114500",
+            "latitude_deg": "40.08620071411133",
+            "longitude_deg": "32.57600021362305",
+            "elevation_ft": "2812",
+            "iso_country": "TR",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.32",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTAE"
+        }
+    ]
+}

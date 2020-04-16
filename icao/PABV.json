@@ -1,0 +1,110 @@
+{
+    "id": "5344",
+    "ident": "PABV",
+    "type": "medium_airport",
+    "name": "Birchwood Airport",
+    "latitude_deg": "61.41650009",
+    "longitude_deg": "-149.5070038",
+    "elevation_ft": "83",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Birchwood",
+    "scheduled_service": "no",
+    "gps_code": "PABV",
+    "iata_code": "",
+    "local_code": "BCV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244621",
+            "airport_ref": "5344",
+            "airport_ident": "PABV",
+            "length_ft": "3931",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01L",
+            "le_latitude_deg": "61.4118",
+            "le_longitude_deg": "-149.516",
+            "le_elevation_ft": "96",
+            "le_heading_degT": "39",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19R",
+            "he_latitude_deg": "61.4202",
+            "he_longitude_deg": "-149.502",
+            "he_elevation_ft": "81",
+            "he_heading_degT": "219",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244620",
+            "airport_ref": "5344",
+            "airport_ident": "PABV",
+            "length_ft": "2200",
+            "width_ft": "50",
+            "surface": "COM",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01R",
+            "le_latitude_deg": "61.4109",
+            "le_longitude_deg": "-149.512",
+            "le_elevation_ft": "",
+            "le_heading_degT": "24",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19L",
+            "he_latitude_deg": "61.4164",
+            "he_longitude_deg": "-149.507",
+            "he_elevation_ft": "",
+            "he_heading_degT": "204",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68523",
+            "airport_ref": "5344",
+            "airport_ident": "PABV",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.55"
+        },
+        {
+            "id": "68524",
+            "airport_ref": "5344",
+            "airport_ident": "PABV",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "132.3"
+        },
+        {
+            "id": "68525",
+            "airport_ref": "5344",
+            "airport_ident": "PABV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    }
+}

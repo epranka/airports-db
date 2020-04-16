@@ -1,0 +1,104 @@
+{
+    "id": "4382",
+    "ident": "LIRU",
+    "type": "medium_airport",
+    "name": "Urbe Airport",
+    "latitude_deg": "41.9519",
+    "longitude_deg": "12.4989",
+    "elevation_ft": "55",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-62",
+    "municipality": "Roma",
+    "scheduled_service": "no",
+    "gps_code": "LIRU",
+    "iata_code": "",
+    "local_code": "RM10",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ROM",
+    "runways": [
+        {
+            "id": "237062",
+            "airport_ref": "4382",
+            "airport_ident": "LIRU",
+            "length_ft": "3543",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "41.957",
+            "le_longitude_deg": "12.5",
+            "le_elevation_ft": "55",
+            "le_heading_degT": "160",
+            "le_displaced_threshold_ft": "361",
+            "he_ident": "34",
+            "he_latitude_deg": "41.9478",
+            "he_longitude_deg": "12.5044",
+            "he_elevation_ft": "55",
+            "he_heading_degT": "340",
+            "he_displaced_threshold_ft": "820"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54334",
+            "airport_ref": "4382",
+            "airport_ident": "LIRU",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "122.7"
+        },
+        {
+            "id": "54335",
+            "airport_ref": "4382",
+            "airport_ident": "LIRU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.8"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306365",
+        "code": "IT-62",
+        "local_code": "62",
+        "name": "Lazio",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lazio",
+        "keywords": "LZ"
+    },
+    "navaids": [
+        {
+            "id": "94945",
+            "filename": "Urbe_NDB_IT",
+            "ident": "URB",
+            "name": "Urbe",
+            "type": "NDB",
+            "frequency_khz": "285",
+            "latitude_deg": "41.945098876953125",
+            "longitude_deg": "12.490099906921387",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.462",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "LIRU"
+        }
+    ]
+}

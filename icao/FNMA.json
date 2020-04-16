@@ -1,0 +1,96 @@
+{
+    "id": "2944",
+    "ident": "FNMA",
+    "type": "medium_airport",
+    "name": "Malanje Airport",
+    "latitude_deg": "-9.525090217590332",
+    "longitude_deg": "16.312400817871094",
+    "elevation_ft": "3868",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-MAL",
+    "municipality": "Malanje",
+    "scheduled_service": "yes",
+    "gps_code": "FNMA",
+    "iata_code": "MEG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Malanje_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232896",
+            "airport_ref": "2944",
+            "airport_ident": "FNMA",
+            "length_ft": "7283",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "-9.51962",
+            "le_longitude_deg": "16.304",
+            "le_elevation_ft": "",
+            "le_heading_degT": "123",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "-9.53055",
+            "he_longitude_deg": "16.3208",
+            "he_elevation_ft": "",
+            "he_heading_degT": "303",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48339",
+            "airport_ref": "2944",
+            "airport_ident": "FNMA",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302556",
+        "code": "AO",
+        "name": "Angola",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Angola",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302925",
+        "code": "AO-MAL",
+        "local_code": "MAL",
+        "name": "Malanje Province",
+        "continent": "AF",
+        "iso_country": "AO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malanje_Province",
+        "keywords": "Malange Province"
+    },
+    "navaids": [
+        {
+            "id": "90692",
+            "filename": "Malanje_NDB_AO",
+            "ident": "MA",
+            "name": "Malanje",
+            "type": "NDB",
+            "frequency_khz": "293",
+            "latitude_deg": "-9.550000190734863",
+            "longitude_deg": "16.36669921875",
+            "elevation_ft": "",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.461",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNMA"
+        }
+    ]
+}

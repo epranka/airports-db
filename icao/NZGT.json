@@ -1,0 +1,80 @@
+{
+    "id": "5031",
+    "ident": "NZGT",
+    "type": "medium_airport",
+    "name": "Glentanner Airport",
+    "latitude_deg": "-43.906700134277344",
+    "longitude_deg": "170.1280059814453",
+    "elevation_ft": "1824",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Glentanner Station",
+    "scheduled_service": "no",
+    "gps_code": "NZGT",
+    "iata_code": "GTN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Glentanner_Aerodrome",
+    "keywords": "Lake Pukaki",
+    "runways": [
+        {
+            "id": "238109",
+            "airport_ref": "5031",
+            "airport_ident": "NZGT",
+            "length_ft": "3166",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "-43.9061",
+            "le_longitude_deg": "170.127",
+            "le_elevation_ft": "1754",
+            "le_heading_degT": "171",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "-43.9147",
+            "he_longitude_deg": "170.129",
+            "he_elevation_ft": "1778",
+            "he_heading_degT": "351",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56036",
+            "airport_ref": "5031",
+            "airport_ident": "NZGT",
+            "type": "AFIS",
+            "description": "CHRISTCHURCH FIS",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "56037",
+            "airport_ref": "5031",
+            "airport_ident": "NZGT",
+            "type": "CTAF",
+            "description": "ALPS TRAFFIC",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302776",
+        "code": "NZ",
+        "name": "New Zealand",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Zealand",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304972",
+        "code": "NZ-CAN",
+        "local_code": "CAN",
+        "name": "Canterbury Region",
+        "continent": "OC",
+        "iso_country": "NZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canterbury,_New_Zealand",
+        "keywords": ""
+    }
+}

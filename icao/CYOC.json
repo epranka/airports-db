@@ -1,0 +1,104 @@
+{
+    "id": "1833",
+    "ident": "CYOC",
+    "type": "medium_airport",
+    "name": "Old Crow Airport",
+    "latitude_deg": "67.57060241699219",
+    "longitude_deg": "-139.83900451660156",
+    "elevation_ft": "824",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-YT",
+    "municipality": "Old Crow",
+    "scheduled_service": "yes",
+    "gps_code": "CYOC",
+    "iata_code": "YOC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Old_Crow_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235081",
+            "airport_ref": "1833",
+            "airport_ident": "CYOC",
+            "length_ft": "4900",
+            "width_ft": "100",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "67.5661",
+            "le_longitude_deg": "-139.855",
+            "le_elevation_ft": "813",
+            "le_heading_degT": "61.1",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "22",
+            "he_latitude_deg": "67.5728",
+            "he_longitude_deg": "-139.824",
+            "he_elevation_ft": "821",
+            "he_heading_degT": "241.1",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51023",
+            "airport_ref": "1833",
+            "airport_ident": "CYOC",
+            "type": "ATF",
+            "description": "MANDATORY FREQ",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51024",
+            "airport_ref": "1833",
+            "airport_ident": "CYOC",
+            "type": "RDO",
+            "description": "ARPT RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303307",
+        "code": "CA-YT",
+        "local_code": "YT",
+        "name": "Yukon Territory",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yukon_Territory",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95775",
+            "filename": "Old_Crow_NDB_CA",
+            "ident": "YOC",
+            "name": "Old Crow",
+            "type": "NDB",
+            "frequency_khz": "284",
+            "latitude_deg": "67.57109832763672",
+            "longitude_deg": "-139.8459930419922",
+            "elevation_ft": "824",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "26.393",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYOC"
+        }
+    ]
+}

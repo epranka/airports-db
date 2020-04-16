@@ -1,0 +1,80 @@
+{
+    "id": "20298",
+    "ident": "KL39",
+    "type": "small_airport",
+    "name": "Leesville Airport",
+    "latitude_deg": "31.16860008",
+    "longitude_deg": "-93.34249878",
+    "elevation_ft": "282",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Leesville",
+    "scheduled_service": "no",
+    "gps_code": "L39",
+    "iata_code": "",
+    "local_code": "L39",
+    "home_link": "http://www.leesvilleairport.com/default.htm",
+    "wikipedia_link": "",
+    "keywords": "LA24",
+    "runways": [
+        {
+            "id": "243694",
+            "airport_ref": "20298",
+            "airport_ident": "KL39",
+            "length_ft": "3800",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "31.1734",
+            "le_longitude_deg": "-93.3424",
+            "le_elevation_ft": "280",
+            "le_heading_degT": "180.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "31.163",
+            "he_longitude_deg": "-93.3425",
+            "he_elevation_ft": "266",
+            "he_heading_degT": "0.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66561",
+            "airport_ref": "20298",
+            "airport_ident": "KL39",
+            "type": "A/D",
+            "description": "POLK APP/DEP",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "66562",
+            "airport_ref": "20298",
+            "airport_ident": "KL39",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

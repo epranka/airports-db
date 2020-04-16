@@ -1,0 +1,88 @@
+{
+    "id": "19337",
+    "ident": "KAXQ",
+    "type": "small_airport",
+    "name": "Clarion County Airport",
+    "latitude_deg": "41.225799560546875",
+    "longitude_deg": "-79.44100189208984",
+    "elevation_ft": "1458",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Clarion",
+    "scheduled_service": "no",
+    "gps_code": "KAXQ",
+    "iata_code": "",
+    "local_code": "AXQ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239727",
+            "airport_ref": "19337",
+            "airport_ident": "KAXQ",
+            "length_ft": "4100",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "41.2218",
+            "le_longitude_deg": "-79.4463",
+            "le_elevation_ft": "1441",
+            "le_heading_degT": "44.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "41.2298",
+            "he_longitude_deg": "-79.4358",
+            "he_elevation_ft": "1457",
+            "he_heading_degT": "224.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58856",
+            "airport_ref": "19337",
+            "airport_ident": "KAXQ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.275"
+        },
+        {
+            "id": "58857",
+            "airport_ref": "19337",
+            "airport_ident": "KAXQ",
+            "type": "CNTR",
+            "description": "CLEVELAND CNTR APP",
+            "frequency_mhz": "126.72"
+        },
+        {
+            "id": "58858",
+            "airport_ref": "19337",
+            "airport_ident": "KAXQ",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

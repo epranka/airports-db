@@ -1,0 +1,96 @@
+{
+    "id": "5806",
+    "ident": "SARI",
+    "type": "medium_airport",
+    "name": "Cataratas Del Iguazú International Airport",
+    "latitude_deg": "-25.737301",
+    "longitude_deg": "-54.4734",
+    "elevation_ft": "916",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-N",
+    "municipality": "Puerto Iguazu",
+    "scheduled_service": "yes",
+    "gps_code": "SARI",
+    "iata_code": "IGR",
+    "local_code": "IGU",
+    "home_link": "http://www.aa2000.com.ar/iguazu",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cataratas_del_Iguaz%C3%BA_International_Airport",
+    "keywords": "Iguaçu",
+    "runways": [
+        {
+            "id": "233034",
+            "airport_ref": "5806",
+            "airport_ident": "SARI",
+            "length_ft": "10827",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "-25.731",
+            "le_longitude_deg": "-54.4884",
+            "le_elevation_ft": "908",
+            "le_heading_degT": "114.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "-25.7435",
+            "he_longitude_deg": "-54.4585",
+            "he_elevation_ft": "916",
+            "he_heading_degT": "294.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48449",
+            "airport_ref": "5806",
+            "airport_ident": "SARI",
+            "type": "TWR",
+            "description": "TWR/APP",
+            "frequency_mhz": "120.7"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302943",
+        "code": "AR-N",
+        "local_code": "N",
+        "name": "Misiones Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Misiones_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89183",
+            "filename": "Cataratas_Del_Iguazu_VOR-DME_AR",
+            "ident": "IGU",
+            "name": "Cataratas Del Iguazu",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "-25.734500885009766",
+            "longitude_deg": "-54.48569869995117",
+            "elevation_ft": "935",
+            "iso_country": "AR",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-12.007",
+            "magnetic_variation_deg": "-14.157",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SARI"
+        }
+    ]
+}

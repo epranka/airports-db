@@ -1,0 +1,80 @@
+{
+    "id": "6298",
+    "ident": "SVMD",
+    "type": "medium_airport",
+    "name": "Alberto Carnevalli Airport",
+    "latitude_deg": "8.582078",
+    "longitude_deg": "-71.161041",
+    "elevation_ft": "5007",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-L",
+    "municipality": "Mérida",
+    "scheduled_service": "yes",
+    "gps_code": "SVMD",
+    "iata_code": "MRD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Alberto_Carnevalli_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246090",
+            "airport_ref": "6298",
+            "airport_ident": "SVMD",
+            "length_ft": "5348",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "8.57829",
+            "le_longitude_deg": "-71.1675",
+            "le_elevation_ft": "",
+            "le_heading_degT": "59",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "8.58565",
+            "he_longitude_deg": "-71.1553",
+            "he_elevation_ft": "",
+            "he_heading_degT": "239",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71668",
+            "airport_ref": "6298",
+            "airport_ident": "SVMD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71669",
+            "airport_ref": "6298",
+            "airport_ident": "SVMD",
+            "type": "TWR",
+            "description": "MERIDA TWR",
+            "frequency_mhz": "118.05"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306176",
+        "code": "VE-L",
+        "local_code": "L",
+        "name": "Merida",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Merida",
+        "keywords": ""
+    }
+}

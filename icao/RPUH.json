@@ -1,0 +1,96 @@
+{
+    "id": "5719",
+    "ident": "RPUH",
+    "type": "medium_airport",
+    "name": "San Jose Airport",
+    "latitude_deg": "12.361499786399998",
+    "longitude_deg": "121.04699707",
+    "elevation_ft": "14",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-MDC",
+    "municipality": "San Jose",
+    "scheduled_service": "yes",
+    "gps_code": "RPUH",
+    "iata_code": "SJI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/McGuire_Field",
+    "keywords": "McGuire Field",
+    "runways": [
+        {
+            "id": "238453",
+            "airport_ref": "5719",
+            "airport_ident": "RPUH",
+            "length_ft": "6024",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "12.3637",
+            "le_longitude_deg": "121.038",
+            "le_elevation_ft": "",
+            "le_heading_degT": "105",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "12.3594",
+            "he_longitude_deg": "121.055",
+            "he_elevation_ft": "",
+            "he_heading_degT": "285",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56522",
+            "airport_ref": "5719",
+            "airport_ident": "RPUH",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305100",
+        "code": "PH-MDC",
+        "local_code": "MDC",
+        "name": "Mindoro Occidental Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mindoro_Occidental_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93365",
+            "filename": "San_Jose_VOR-DME_PH",
+            "ident": "SAJ",
+            "name": "San Jose",
+            "type": "VOR-DME",
+            "frequency_khz": "117100",
+            "latitude_deg": "12.360300064086914",
+            "longitude_deg": "121.04299926757812",
+            "elevation_ft": "10",
+            "iso_country": "PH",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.526",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPUH"
+        }
+    ]
+}

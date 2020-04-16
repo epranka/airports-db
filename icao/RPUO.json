@@ -1,0 +1,104 @@
+{
+    "id": "5723",
+    "ident": "RPUO",
+    "type": "medium_airport",
+    "name": "Basco Airport",
+    "latitude_deg": "20.4513",
+    "longitude_deg": "121.980003",
+    "elevation_ft": "291",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-BTN",
+    "municipality": "Basco",
+    "scheduled_service": "yes",
+    "gps_code": "RPUO",
+    "iata_code": "BSO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Basco_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238460",
+            "airport_ref": "5723",
+            "airport_ident": "RPUO",
+            "length_ft": "4101",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "20.4483",
+            "le_longitude_deg": "121.975",
+            "le_elevation_ft": "",
+            "le_heading_degT": "55",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "20.4544",
+            "he_longitude_deg": "121.984",
+            "he_elevation_ft": "",
+            "he_heading_degT": "235",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56527",
+            "airport_ref": "5723",
+            "airport_ident": "RPUO",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "56528",
+            "airport_ref": "5723",
+            "airport_ident": "RPUO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305069",
+        "code": "PH-BTN",
+        "local_code": "BTN",
+        "name": "Batanes Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Batanes_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86353",
+            "filename": "Basco_NDB_PH",
+            "ident": "BS",
+            "name": "Basco",
+            "type": "NDB",
+            "frequency_khz": "276",
+            "latitude_deg": "20.451499938964844",
+            "longitude_deg": "121.9749984741211",
+            "elevation_ft": "296",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.39",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RPUO"
+        }
+    ]
+}

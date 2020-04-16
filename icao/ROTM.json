@@ -1,0 +1,150 @@
+{
+    "id": "5683",
+    "ident": "ROTM",
+    "type": "medium_airport",
+    "name": "Futenma Marine Corps Air Station",
+    "latitude_deg": "26.27429962158203",
+    "longitude_deg": "127.75599670410156",
+    "elevation_ft": "247",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-47",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ROTM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Futenma MCAS",
+    "runways": [
+        {
+            "id": "237204",
+            "airport_ref": "5683",
+            "airport_ident": "ROTM",
+            "length_ft": "9000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "26.2669",
+            "le_longitude_deg": "127.745",
+            "le_elevation_ft": "235",
+            "le_heading_degT": "55",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "26.2814",
+            "he_longitude_deg": "127.768",
+            "he_elevation_ft": "246",
+            "he_heading_degT": "235",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54690",
+            "airport_ref": "5683",
+            "airport_ident": "ROTM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "23.03"
+        },
+        {
+            "id": "54691",
+            "airport_ref": "5683",
+            "airport_ident": "ROTM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "54692",
+            "airport_ref": "5683",
+            "airport_ident": "ROTM",
+            "type": "PMSV",
+            "description": "METRO",
+            "frequency_mhz": "29.06"
+        },
+        {
+            "id": "54693",
+            "airport_ref": "5683",
+            "airport_ident": "ROTM",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "30.74"
+        },
+        {
+            "id": "54694",
+            "airport_ref": "5683",
+            "airport_ident": "ROTM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.6"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304332",
+        "code": "JP-47",
+        "local_code": "47",
+        "name": "Okinawa Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Okinawa",
+        "keywords": "Kyushu and Okinawa"
+    },
+    "navaids": [
+        {
+            "id": "91527",
+            "filename": "Futenma_TACAN_JP",
+            "ident": "NFO",
+            "name": "Futenma",
+            "type": "TACAN",
+            "frequency_khz": "110500",
+            "latitude_deg": "26.267099380493164",
+            "longitude_deg": "127.74400329589844",
+            "elevation_ft": "246",
+            "iso_country": "JP",
+            "dme_frequency_khz": "110500",
+            "dme_channel": "042X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.011",
+            "magnetic_variation_deg": "-4.272",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ROTM"
+        },
+        {
+            "id": "94361",
+            "filename": "Chinen_VORTAC_JP",
+            "ident": "TIC",
+            "name": "Chinen",
+            "type": "VORTAC",
+            "frequency_khz": "114200",
+            "latitude_deg": "26.160900115966797",
+            "longitude_deg": "127.8010025024414",
+            "elevation_ft": "543",
+            "iso_country": "JP",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "26.1608",
+            "dme_longitude_deg": "127.8",
+            "dme_elevation_ft": "543",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-4.254",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ROTM"
+        }
+    ]
+}

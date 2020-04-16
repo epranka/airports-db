@@ -1,0 +1,102 @@
+{
+    "id": "19719",
+    "ident": "KEBG",
+    "type": "small_airport",
+    "name": "South Texas International At Edinburg Airport",
+    "latitude_deg": "26.44169998",
+    "longitude_deg": "-98.12220001",
+    "elevation_ft": "75",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Edinburg",
+    "scheduled_service": "no",
+    "gps_code": "KEBG",
+    "iata_code": "",
+    "local_code": "EBG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243019",
+            "airport_ref": "19719",
+            "airport_ident": "KEBG",
+            "length_ft": "3200",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "13",
+            "le_latitude_deg": "26.4458",
+            "le_longitude_deg": "-98.1358",
+            "le_elevation_ft": "",
+            "le_heading_degT": "145",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "26.4389",
+            "he_longitude_deg": "-98.1303",
+            "he_elevation_ft": "",
+            "he_heading_degT": "325",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243020",
+            "airport_ref": "19719",
+            "airport_ident": "KEBG",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "26.4472",
+            "le_longitude_deg": "-98.1267",
+            "le_elevation_ft": "75",
+            "le_heading_degT": "143.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "26.4361",
+            "he_longitude_deg": "-98.1177",
+            "he_elevation_ft": "73",
+            "he_heading_degT": "323.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65133",
+            "airport_ref": "19719",
+            "airport_ident": "KEBG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.025"
+        },
+        {
+            "id": "65134",
+            "airport_ref": "19719",
+            "airport_ident": "KEBG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

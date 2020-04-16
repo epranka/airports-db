@@ -1,0 +1,96 @@
+{
+    "id": "26766",
+    "ident": "WALX",
+    "type": "small_airport",
+    "name": "Mangkajang Airport",
+    "latitude_deg": "2.00750994682",
+    "longitude_deg": "117.749000549",
+    "elevation_ft": "47",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-KI",
+    "municipality": "Mangkajang-Borneo Island",
+    "scheduled_service": "no",
+    "gps_code": "WALX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236481",
+            "airport_ref": "26766",
+            "airport_ident": "WALX",
+            "length_ft": "5690",
+            "width_ft": "145",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "2.00475",
+            "le_longitude_deg": "117.742",
+            "le_elevation_ft": "47",
+            "le_heading_degT": "69.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "2.01027",
+            "he_longitude_deg": "117.756",
+            "he_elevation_ft": "47",
+            "he_heading_degT": "249.4",
+            "he_displaced_threshold_ft": "148"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53599",
+            "airport_ref": "26766",
+            "airport_ident": "WALX",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "306379",
+        "code": "ID-KI",
+        "local_code": "KI",
+        "name": "East Kalimantan",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kalimantan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85925",
+            "filename": "Mangkajang_NDB_ID",
+            "ident": "BE",
+            "name": "Mangkajang",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "2.005000114440918",
+            "longitude_deg": "117.74199676513672",
+            "elevation_ft": "47",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.501",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WALX"
+        }
+    ]
+}

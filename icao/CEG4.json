@@ -1,0 +1,96 @@
+{
+    "id": "852",
+    "ident": "CEG4",
+    "type": "small_airport",
+    "name": "Drumheller Municipal Airport",
+    "latitude_deg": "51.49639892578125",
+    "longitude_deg": "-112.7490005493164",
+    "elevation_ft": "2597",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Drumheller",
+    "scheduled_service": "no",
+    "gps_code": "CEG4",
+    "iata_code": "",
+    "local_code": "CEG4",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Drumheller_Municipal_Airport",
+    "keywords": "EG4",
+    "runways": [
+        {
+            "id": "234849",
+            "airport_ref": "852",
+            "airport_ident": "CEG4",
+            "length_ft": "3500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "51.5014",
+            "le_longitude_deg": "-112.749",
+            "le_elevation_ft": "2597",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "51.4919",
+            "he_longitude_deg": "-112.749",
+            "he_elevation_ft": "2597",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50589",
+            "airport_ref": "852",
+            "airport_ident": "CEG4",
+            "type": "ATF",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85114",
+            "filename": "Drumheller_NDB-DME_CA",
+            "ident": "5V",
+            "name": "Drumheller",
+            "type": "NDB-DME",
+            "frequency_khz": "395",
+            "latitude_deg": "51.502498626708984",
+            "longitude_deg": "-112.7509994506836",
+            "elevation_ft": "2625",
+            "iso_country": "CA",
+            "dme_frequency_khz": "110000",
+            "dme_channel": "037X",
+            "dme_latitude_deg": "51.5017",
+            "dme_longitude_deg": "-112.751",
+            "dme_elevation_ft": "2625",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.463",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CEG4"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "6208",
+    "ident": "SPEO",
+    "type": "medium_airport",
+    "name": "Teniente FAP Jaime A De Montreuil Morales Airport",
+    "latitude_deg": "-9.149609565734863",
+    "longitude_deg": "-78.5238037109375",
+    "elevation_ft": "69",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-ANC",
+    "municipality": "Chimbote",
+    "scheduled_service": "yes",
+    "gps_code": "SPEO",
+    "iata_code": "CHM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tnte._FAP_Jaime_Montreuil_Morales_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238145",
+            "airport_ref": "6208",
+            "airport_ident": "SPEO",
+            "length_ft": "5905",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-9.15769",
+            "le_longitude_deg": "-78.5249",
+            "le_elevation_ft": "69",
+            "le_heading_degT": "7.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-9.14154",
+            "he_longitude_deg": "-78.5228",
+            "he_elevation_ft": "69",
+            "he_heading_degT": "187.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56091",
+            "airport_ref": "6208",
+            "airport_ident": "SPEO",
+            "type": "RDO",
+            "description": "CHIMBOTE RDO",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Perú",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305008",
+        "code": "PE-ANC",
+        "local_code": "ANC",
+        "name": "Ancash Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ancash_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86386",
+            "filename": "Chimbote_VOR_PE",
+            "ident": "BTE",
+            "name": "Chimbote",
+            "type": "VOR",
+            "frequency_khz": "112500",
+            "latitude_deg": "-9.147500038146973",
+            "longitude_deg": "-78.52189636230469",
+            "elevation_ft": "70",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "0.194",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPEO"
+        }
+    ]
+}

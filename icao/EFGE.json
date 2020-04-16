@@ -1,0 +1,80 @@
+{
+    "id": "27249",
+    "ident": "EFGE",
+    "type": "small_airport",
+    "name": "Genböle Airport",
+    "latitude_deg": "60.08689880371094",
+    "longitude_deg": "22.521900177001953",
+    "elevation_ft": "46",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-LS",
+    "municipality": "Genböle",
+    "scheduled_service": "no",
+    "gps_code": "EFGE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310760",
+            "airport_ref": "27249",
+            "airport_ident": "EFGE",
+            "length_ft": "2066",
+            "width_ft": "39",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "46",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "984",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "46",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "984"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310759",
+            "airport_ref": "27249",
+            "airport_ident": "EFGE",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "132.675"
+        },
+        {
+            "id": "310758",
+            "airport_ref": "27249",
+            "airport_ident": "EFGE",
+            "type": "RDO",
+            "description": "Genböle traffic",
+            "frequency_mhz": "123.6"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303803",
+        "code": "FI-LS",
+        "local_code": "LS",
+        "name": "Western Finland",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Finland",
+        "keywords": "Länsi-Suomen lääni, Västra Finlands län"
+    }
+}

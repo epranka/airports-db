@@ -1,0 +1,96 @@
+{
+    "id": "26754",
+    "ident": "WADW",
+    "type": "small_airport",
+    "name": "Umbu Mehang Kunda Airport",
+    "latitude_deg": "-9.66922",
+    "longitude_deg": "120.302002",
+    "elevation_ft": "33",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-NT",
+    "municipality": "Waingapu-Sumba Island",
+    "scheduled_service": "yes",
+    "gps_code": "WATU",
+    "iata_code": "WGP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mau_Hau_Airport",
+    "keywords": "WRRW, WADW, WATU, Mau Hau Airport, Waingapu Airport",
+    "runways": [
+        {
+            "id": "236536",
+            "airport_ref": "26754",
+            "airport_ident": "WADW",
+            "length_ft": "5415",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "-9.66266",
+            "le_longitude_deg": "120.298",
+            "le_elevation_ft": "33",
+            "le_heading_degT": "151.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "-9.67577",
+            "he_longitude_deg": "120.306",
+            "he_elevation_ft": "33",
+            "he_heading_degT": "331.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53686",
+            "airport_ref": "26754",
+            "airport_ident": "WADW",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304117",
+        "code": "ID-NT",
+        "local_code": "NT",
+        "name": "Nusa Tenggara Timur",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91688",
+            "filename": "Waingapu_NDB_ID",
+            "ident": "NR",
+            "name": "Waingapu",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "-9.670490264892578",
+            "longitude_deg": "120.29900360107422",
+            "elevation_ft": "33",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.017",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WADW"
+        }
+    ]
+}

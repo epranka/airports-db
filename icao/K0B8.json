@@ -1,0 +1,110 @@
+{
+    "id": "18351",
+    "ident": "K0B8",
+    "type": "small_airport",
+    "name": "Elizabeth Field",
+    "latitude_deg": "41.25130081179999",
+    "longitude_deg": "-72.0316009521",
+    "elevation_ft": "9",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Fishers Island",
+    "scheduled_service": "no",
+    "gps_code": "0B8",
+    "iata_code": "FID",
+    "local_code": "0B8",
+    "home_link": "https://www.dot.ny.gov/divisions/operating/opdm/aviation/repository/air_dir2/Elizabeth-revised.pdf",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Elizabeth_Field",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240388",
+            "airport_ref": "18351",
+            "airport_ident": "K0B8",
+            "length_ft": "1792",
+            "width_ft": "75",
+            "surface": "ASPH-E",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "41.2513",
+            "le_longitude_deg": "-72.0347",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "61",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "41.2532",
+            "he_longitude_deg": "-72.0287",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "241",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240389",
+            "airport_ref": "18351",
+            "airport_ident": "K0B8",
+            "length_ft": "2328",
+            "width_ft": "100",
+            "surface": "ASPH-E",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "41.2532",
+            "le_longitude_deg": "-72.0357",
+            "le_elevation_ft": "7",
+            "le_heading_degT": "101",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "41.2512",
+            "he_longitude_deg": "-72.0276",
+            "he_elevation_ft": "4",
+            "he_heading_degT": "281",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59875",
+            "airport_ref": "18351",
+            "airport_ident": "K0B8",
+            "type": "A/D",
+            "description": "PROVIDENCE APP/DEP",
+            "frequency_mhz": "125.75"
+        },
+        {
+            "id": "59876",
+            "airport_ref": "18351",
+            "airport_ident": "K0B8",
+            "type": "RDO",
+            "description": "BRIDGEPORT RDO",
+            "frequency_mhz": "110.85"
+        },
+        {
+            "id": "59877",
+            "airport_ref": "18351",
+            "airport_ident": "K0B8",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "20707",
+    "ident": "KO88",
+    "type": "small_airport",
+    "name": "Rio Vista Municipal Airport",
+    "latitude_deg": "38.19340133666992",
+    "longitude_deg": "-121.7040023803711",
+    "elevation_ft": "20",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Rio Vista",
+    "scheduled_service": "no",
+    "gps_code": "KO88",
+    "iata_code": "",
+    "local_code": "O88",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Vista_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245147",
+            "airport_ref": "20707",
+            "airport_ident": "KO88",
+            "length_ft": "4200",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "38.1934",
+            "le_longitude_deg": "-121.71",
+            "le_elevation_ft": "21",
+            "le_heading_degT": "86",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "38.1943",
+            "he_longitude_deg": "-121.695",
+            "he_elevation_ft": "21",
+            "he_heading_degT": "266",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245148",
+            "airport_ref": "20707",
+            "airport_ident": "KO88",
+            "length_ft": "2199",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "38.1953",
+            "le_longitude_deg": "-121.708",
+            "le_elevation_ft": "22",
+            "le_heading_degT": "160",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "38.1896",
+            "he_longitude_deg": "-121.705",
+            "he_elevation_ft": "21",
+            "he_heading_degT": "340",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69676",
+            "airport_ref": "20707",
+            "airport_ident": "KO88",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "125.25"
+        },
+        {
+            "id": "69677",
+            "airport_ref": "20707",
+            "airport_ident": "KO88",
+            "type": "DEP",
+            "description": "TRAVIS DEP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "69678",
+            "airport_ref": "20707",
+            "airport_ident": "KO88",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.725"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

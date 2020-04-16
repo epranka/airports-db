@@ -1,0 +1,96 @@
+{
+    "id": "878",
+    "ident": "CEN3",
+    "type": "small_airport",
+    "name": "Three Hills Airport",
+    "latitude_deg": "51.69670104980469",
+    "longitude_deg": "-113.20899963378906",
+    "elevation_ft": "2975",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Three Hills",
+    "scheduled_service": "no",
+    "gps_code": "CEN3",
+    "iata_code": "",
+    "local_code": "CEN3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Three_Hills_Airport",
+    "keywords": "EN3",
+    "runways": [
+        {
+            "id": "235059",
+            "airport_ref": "878",
+            "airport_ident": "CEN3",
+            "length_ft": "3000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "51.6992",
+            "le_longitude_deg": "-113.214",
+            "le_elevation_ft": "",
+            "le_heading_degT": "130",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "51.6939",
+            "he_longitude_deg": "-113.204",
+            "he_elevation_ft": "",
+            "he_heading_degT": "310",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50976",
+            "airport_ref": "878",
+            "airport_ident": "CEN3",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95955",
+            "filename": "Three_Hills_NDB_CA",
+            "ident": "Z1",
+            "name": "Three Hills",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "51.697200775146484",
+            "longitude_deg": "-113.21700286865234",
+            "elevation_ft": "2975",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.033",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CEN3"
+        }
+    ]
+}

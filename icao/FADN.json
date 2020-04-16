@@ -1,0 +1,120 @@
+{
+    "id": "2778",
+    "ident": "FADN",
+    "type": "small_airport",
+    "name": "Air Force Base Durban",
+    "latitude_deg": "-29.9701",
+    "longitude_deg": "30.9505",
+    "elevation_ft": "33",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Durban",
+    "scheduled_service": "no",
+    "gps_code": "FADN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Durban_International_Airport",
+    "keywords": "Louis Botha International Airport, DUR, Durban International Airport",
+    "runways": [
+        {
+            "id": "238820",
+            "airport_ref": "2778",
+            "airport_ident": "FADN",
+            "length_ft": "8005",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-29.9791",
+            "le_longitude_deg": "30.9432",
+            "le_elevation_ft": "33",
+            "le_heading_degT": "36",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "-29.9611",
+            "he_longitude_deg": "30.9579",
+            "he_elevation_ft": "31",
+            "he_heading_degT": "216",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57126",
+            "airport_ref": "2778",
+            "airport_ident": "FADN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "57127",
+            "airport_ref": "2778",
+            "airport_ident": "FADN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "57128",
+            "airport_ref": "2778",
+            "airport_ident": "FADN",
+            "type": "GTE",
+            "description": "APRON",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "57129",
+            "airport_ref": "2778",
+            "airport_ident": "FADN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306300",
+        "code": "ZA-NL",
+        "local_code": "NL",
+        "name": "Kwazulu-Natal",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwazulu-Natal",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87463",
+            "filename": "Durban_VORTAC_ZA",
+            "ident": "DNV",
+            "name": "Durban",
+            "type": "VORTAC",
+            "frequency_khz": "112500",
+            "latitude_deg": "-29.972200393676758",
+            "longitude_deg": "30.951200485229492",
+            "elevation_ft": "21",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-22.007",
+            "magnetic_variation_deg": "-24.024",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FADN"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "id": "3943",
+    "ident": "KVAD",
+    "type": "medium_airport",
+    "name": "Moody Air Force Base",
+    "latitude_deg": "30.9678001404",
+    "longitude_deg": "-83.1930007935",
+    "elevation_ft": "233",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Valdosta",
+    "scheduled_service": "no",
+    "gps_code": "KVAD",
+    "iata_code": "VAD",
+    "local_code": "VAD",
+    "home_link": "http://www.moody.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Moody_Air_Force_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242109",
+            "airport_ref": "3943",
+            "airport_ident": "KVAD",
+            "length_ft": "9300",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18L",
+            "le_latitude_deg": "30.9818",
+            "le_longitude_deg": "-83.1908",
+            "le_elevation_ft": "233",
+            "le_heading_degT": "180.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36R",
+            "he_latitude_deg": "30.9563",
+            "he_longitude_deg": "-83.1911",
+            "he_elevation_ft": "209",
+            "he_heading_degT": "0.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242108",
+            "airport_ref": "3943",
+            "airport_ident": "KVAD",
+            "length_ft": "8000",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18R",
+            "le_latitude_deg": "30.9793",
+            "le_longitude_deg": "-83.1952",
+            "le_elevation_ft": "231",
+            "le_heading_degT": "180.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36L",
+            "he_latitude_deg": "30.9573",
+            "he_longitude_deg": "-83.1954",
+            "he_elevation_ft": "223",
+            "he_heading_degT": "0.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63225",
+            "airport_ref": "3943",
+            "airport_ident": "KVAD",
+            "type": "APP",
+            "description": "VALDOSTA APP",
+            "frequency_mhz": "119.525"
+        },
+        {
+            "id": "63226",
+            "airport_ref": "3943",
+            "airport_ident": "KVAD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "27.35"
+        },
+        {
+            "id": "63227",
+            "airport_ref": "3943",
+            "airport_ident": "KVAD",
+            "type": "DEP",
+            "description": "VALDOSTA DEP",
+            "frequency_mhz": "126.6"
+        },
+        {
+            "id": "63228",
+            "airport_ref": "3943",
+            "airport_ident": "KVAD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "120.625"
+        },
+        {
+            "id": "63229",
+            "airport_ref": "3943",
+            "airport_ident": "KVAD",
+            "type": "INFO",
+            "description": "SOF",
+            "frequency_mhz": "143.825"
+        },
+        {
+            "id": "63230",
+            "airport_ref": "3943",
+            "airport_ident": "KVAD",
+            "type": "MISC",
+            "description": "AFSOC COMD POST",
+            "frequency_mhz": "22.822"
+        },
+        {
+            "id": "63231",
+            "airport_ref": "3943",
+            "airport_ident": "KVAD",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "26.345"
+        },
+        {
+            "id": "63232",
+            "airport_ref": "3943",
+            "airport_ident": "KVAD",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "139.3"
+        },
+        {
+            "id": "63233",
+            "airport_ref": "3943",
+            "airport_ident": "KVAD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.45"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95035",
+            "filename": "Moody_VORTAC_US",
+            "ident": "VAD",
+            "name": "Moody",
+            "type": "VORTAC",
+            "frequency_khz": "113300",
+            "latitude_deg": "30.960100173950195",
+            "longitude_deg": "-83.19339752197266",
+            "elevation_ft": "213",
+            "iso_country": "US",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.001",
+            "magnetic_variation_deg": "-4.267",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "KVAD"
+        }
+    ]
+}

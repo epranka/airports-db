@@ -1,0 +1,118 @@
+{
+    "id": "20343",
+    "ident": "KLHX",
+    "type": "small_airport",
+    "name": "La Junta Municipal Airport",
+    "latitude_deg": "38.04970169",
+    "longitude_deg": "-103.5090027",
+    "elevation_ft": "4229",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "La Junta",
+    "scheduled_service": "no",
+    "gps_code": "KLHX",
+    "iata_code": "",
+    "local_code": "LHX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243120",
+            "airport_ref": "20343",
+            "airport_ident": "KLHX",
+            "length_ft": "6848",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "38.0481",
+            "le_longitude_deg": "-103.523",
+            "le_elevation_ft": "4225",
+            "le_heading_degT": "89.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "38.0482",
+            "he_longitude_deg": "-103.5",
+            "he_elevation_ft": "4151",
+            "he_heading_degT": "269.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243121",
+            "airport_ref": "20343",
+            "airport_ident": "KLHX",
+            "length_ft": "5800",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "38.0572",
+            "le_longitude_deg": "-103.514",
+            "le_elevation_ft": "4238",
+            "le_heading_degT": "135.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "38.0459",
+            "he_longitude_deg": "-103.5",
+            "he_elevation_ft": "4155",
+            "he_heading_degT": "315.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65307",
+            "airport_ref": "20343",
+            "airport_ident": "KLHX",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.525"
+        },
+        {
+            "id": "65308",
+            "airport_ref": "20343",
+            "airport_ident": "KLHX",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "133.4"
+        },
+        {
+            "id": "65309",
+            "airport_ref": "20343",
+            "airport_ident": "KLHX",
+            "type": "RDO",
+            "description": "DENVER RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "65310",
+            "airport_ref": "20343",
+            "airport_ident": "KLHX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

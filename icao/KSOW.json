@@ -1,0 +1,110 @@
+{
+    "id": "21097",
+    "ident": "KSOW",
+    "type": "small_airport",
+    "name": "Show Low Regional Airport",
+    "latitude_deg": "34.265499115",
+    "longitude_deg": "-110.005996704",
+    "elevation_ft": "6415",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Show Low",
+    "scheduled_service": "no",
+    "gps_code": "KSOW",
+    "iata_code": "SOW",
+    "local_code": "SOW",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Show_Low_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244522",
+            "airport_ref": "21097",
+            "airport_ident": "KSOW",
+            "length_ft": "3937",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "34.2606",
+            "le_longitude_deg": "-110.007",
+            "le_elevation_ft": "6413",
+            "le_heading_degT": "47.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "34.2678",
+            "he_longitude_deg": "-109.998",
+            "he_elevation_ft": "6401",
+            "he_heading_degT": "227.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244523",
+            "airport_ref": "21097",
+            "airport_ident": "KSOW",
+            "length_ft": "7200",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "34.2638",
+            "le_longitude_deg": "-110.019",
+            "le_elevation_ft": "6400",
+            "le_heading_degT": "75.9",
+            "le_displaced_threshold_ft": "700",
+            "he_ident": "24",
+            "he_latitude_deg": "34.2686",
+            "he_longitude_deg": "-109.996",
+            "he_elevation_ft": "6402",
+            "he_heading_degT": "255.9",
+            "he_displaced_threshold_ft": "750"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68281",
+            "airport_ref": "21097",
+            "airport_ident": "KSOW",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.075"
+        },
+        {
+            "id": "68282",
+            "airport_ref": "21097",
+            "airport_ident": "KSOW",
+            "type": "CNTR",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "132.9"
+        },
+        {
+            "id": "68283",
+            "airport_ref": "21097",
+            "airport_ident": "KSOW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

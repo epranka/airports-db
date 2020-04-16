@@ -1,0 +1,102 @@
+{
+    "id": "2283",
+    "ident": "EDUW",
+    "type": "small_airport",
+    "name": "Tutow Airport",
+    "latitude_deg": "53.92194366455078",
+    "longitude_deg": "13.218889236450195",
+    "elevation_ft": "26",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-MV",
+    "municipality": "Demmin",
+    "scheduled_service": "no",
+    "gps_code": "EDUW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236224",
+            "airport_ref": "2283",
+            "airport_ident": "EDUW",
+            "length_ft": "7218",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "53.932",
+            "le_longitude_deg": "13.2161",
+            "le_elevation_ft": "23",
+            "le_heading_degT": "171",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "53.9125",
+            "he_longitude_deg": "13.2214",
+            "he_elevation_ft": "23",
+            "he_heading_degT": "351",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "236225",
+            "airport_ref": "2283",
+            "airport_ident": "EDUW",
+            "length_ft": "1640",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17L",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "170",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35R",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "350",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53003",
+            "airport_ref": "2283",
+            "airport_ident": "EDUW",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "53004",
+            "airport_ref": "2283",
+            "airport_ident": "EDUW",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "130.125"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303554",
+        "code": "DE-MV",
+        "local_code": "MV",
+        "name": "Mecklenburg-Vorpommern",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mecklenburg-Vorpommern",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "18991",
+    "ident": "K6I6",
+    "type": "small_airport",
+    "name": "Darby Dan Airport",
+    "latitude_deg": "39.94200134277344",
+    "longitude_deg": "-83.20490264892578",
+    "elevation_ft": "928",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Columbus",
+    "scheduled_service": "no",
+    "gps_code": "K6I6",
+    "iata_code": "",
+    "local_code": "6I6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241739",
+            "airport_ref": "18991",
+            "airport_ident": "K6I6",
+            "length_ft": "5892",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "39.9416",
+            "le_longitude_deg": "-83.2154",
+            "le_elevation_ft": "928",
+            "le_heading_degT": "83.8",
+            "le_displaced_threshold_ft": "1343",
+            "he_ident": "27",
+            "he_latitude_deg": "39.9433",
+            "he_longitude_deg": "-83.1945",
+            "he_elevation_ft": "",
+            "he_heading_degT": "263.8",
+            "he_displaced_threshold_ft": "543"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62465",
+            "airport_ref": "18991",
+            "airport_ident": "K6I6",
+            "type": "A/D",
+            "description": "COLUMBUS APP DEP",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "62466",
+            "airport_ref": "18991",
+            "airport_ident": "K6I6",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

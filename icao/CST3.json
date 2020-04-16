@@ -1,0 +1,102 @@
+{
+    "id": "1560",
+    "ident": "CST3",
+    "type": "small_airport",
+    "name": "Montreal / St-Lazare Airport",
+    "latitude_deg": "45.3903282887",
+    "longitude_deg": "-74.1340041161",
+    "elevation_ft": "175",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal",
+    "scheduled_service": "no",
+    "gps_code": "CST3",
+    "iata_code": "",
+    "local_code": "CST3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Montr%C3%A9al/St-Lazare_Airport",
+    "keywords": "ST3",
+    "runways": [
+        {
+            "id": "252315",
+            "airport_ref": "1560",
+            "airport_ident": "CST3",
+            "length_ft": "2825",
+            "width_ft": "50",
+            "surface": "ASPHALT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "252316",
+            "airport_ref": "1560",
+            "airport_ident": "CST3",
+            "length_ft": "2275",
+            "width_ft": "65",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "332423",
+            "airport_ref": "1560",
+            "airport_ident": "CST3",
+            "type": "ATF",
+            "description": "St-Lazare traffic",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "332424",
+            "airport_ref": "1560",
+            "airport_ident": "CST3",
+            "type": "UNICOM",
+            "description": "St-Lazare UNICOM",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    }
+}

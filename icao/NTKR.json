@@ -1,0 +1,72 @@
+{
+    "id": "5000",
+    "ident": "NTKR",
+    "type": "medium_airport",
+    "name": "Takaroa Airport",
+    "latitude_deg": "-14.45580005645752",
+    "longitude_deg": "-145.02499389648438",
+    "elevation_ft": "13",
+    "continent": "OC",
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "NTKR",
+    "iata_code": "TKX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Takaroa_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235810",
+            "airport_ref": "5000",
+            "airport_ident": "NTKR",
+            "length_ft": "3452",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "-14.4561",
+            "le_longitude_deg": "-145.029",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "86.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "-14.4555",
+            "he_longitude_deg": "-145.02",
+            "he_elevation_ft": "13",
+            "he_heading_degT": "266.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52198",
+            "airport_ref": "5000",
+            "airport_ident": "NTKR",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302777",
+        "code": "PF",
+        "name": "French Polynesia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/French_Polynesia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305033",
+        "code": "PF-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "PF",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

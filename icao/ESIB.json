@@ -1,0 +1,110 @@
+{
+    "id": "2656",
+    "ident": "ESIB",
+    "type": "medium_airport",
+    "name": "Såtenäs Air Base",
+    "latitude_deg": "58.42639923095703",
+    "longitude_deg": "12.714400291442871",
+    "elevation_ft": "181",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Såtenäs",
+    "scheduled_service": "no",
+    "gps_code": "ESIB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239054",
+            "airport_ref": "2656",
+            "airport_ident": "ESIB",
+            "length_ft": "7428",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "58.4182",
+            "le_longitude_deg": "12.7097",
+            "le_elevation_ft": "169",
+            "le_heading_degT": "5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "58.4384",
+            "he_longitude_deg": "12.7128",
+            "he_elevation_ft": "175",
+            "he_heading_degT": "185",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239055",
+            "airport_ref": "2656",
+            "airport_ident": "ESIB",
+            "length_ft": "6342",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "58.4331",
+            "le_longitude_deg": "12.6947",
+            "le_elevation_ft": "165",
+            "le_heading_degT": "112",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "58.4266",
+            "he_longitude_deg": "12.7254",
+            "he_elevation_ft": "181",
+            "he_heading_degT": "292",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57491",
+            "airport_ref": "2656",
+            "airport_ident": "ESIB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "134.3"
+        },
+        {
+            "id": "57492",
+            "airport_ref": "2656",
+            "airport_ident": "ESIB",
+            "type": "TCA",
+            "description": "CON",
+            "frequency_mhz": "134.55"
+        },
+        {
+            "id": "57493",
+            "airport_ref": "2656",
+            "airport_ident": "ESIB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.2"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305424",
+        "code": "SE-Q",
+        "local_code": "Q",
+        "name": "Västra Götalands län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västra_Götalands_län",
+        "keywords": "Västra Götaland County"
+    }
+}

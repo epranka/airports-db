@@ -1,0 +1,88 @@
+{
+    "id": "20730",
+    "ident": "KOJA",
+    "type": "small_airport",
+    "name": "Thomas P Stafford Airport",
+    "latitude_deg": "35.5447998046875",
+    "longitude_deg": "-98.66850280761719",
+    "elevation_ft": "1605",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Weatherford",
+    "scheduled_service": "no",
+    "gps_code": "KOJA",
+    "iata_code": "",
+    "local_code": "OJA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243702",
+            "airport_ref": "20730",
+            "airport_ident": "KOJA",
+            "length_ft": "4399",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "35.5509",
+            "le_longitude_deg": "-98.6685",
+            "le_elevation_ft": "1601",
+            "le_heading_degT": "179.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "35.5388",
+            "he_longitude_deg": "-98.6685",
+            "he_elevation_ft": "1598",
+            "he_heading_degT": "359.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66577",
+            "airport_ref": "20730",
+            "airport_ident": "KOJA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.575"
+        },
+        {
+            "id": "66578",
+            "airport_ref": "20730",
+            "airport_ident": "KOJA",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "66579",
+            "airport_ref": "20730",
+            "airport_ident": "KOJA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

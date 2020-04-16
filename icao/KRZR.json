@@ -1,0 +1,80 @@
+{
+    "id": "308893",
+    "ident": "KRZR",
+    "type": "small_airport",
+    "name": "Cleveland Regional Jetport",
+    "latitude_deg": "35.2114972",
+    "longitude_deg": "-84.7997694",
+    "elevation_ft": "860",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Cleveland",
+    "scheduled_service": "no",
+    "gps_code": "KRZR",
+    "iata_code": "",
+    "local_code": "RZR",
+    "home_link": "http://www.clevelandregionaljetport.com/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "308896",
+            "airport_ref": "308893",
+            "airport_ident": "KRZR",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "308895",
+            "airport_ref": "308893",
+            "airport_ident": "KRZR",
+            "type": "AWOS-3",
+            "description": "",
+            "frequency_mhz": "120.475"
+        },
+        {
+            "id": "308894",
+            "airport_ref": "308893",
+            "airport_ident": "KRZR",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

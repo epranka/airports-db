@@ -1,0 +1,142 @@
+{
+    "id": "19735",
+    "ident": "KEGI",
+    "type": "medium_airport",
+    "name": "Duke Field",
+    "latitude_deg": "30.65040016",
+    "longitude_deg": "-86.52290344",
+    "elevation_ft": "191",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Crestview",
+    "scheduled_service": "no",
+    "gps_code": "KEGI",
+    "iata_code": "EGI",
+    "local_code": "EGI",
+    "home_link": "http://www.919sow.afrc.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Duke_Field",
+    "keywords": "Eglin AF Auxiliary Number 3",
+    "runways": [
+        {
+            "id": "240791",
+            "airport_ref": "19735",
+            "airport_ident": "KEGI",
+            "length_ft": "8000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "30.6613",
+            "le_longitude_deg": "-86.5227",
+            "le_elevation_ft": "190",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "30.6394",
+            "he_longitude_deg": "-86.5231",
+            "he_elevation_ft": "191",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "247068",
+            "airport_ref": "19735",
+            "airport_ident": "KEGI",
+            "length_ft": "3500",
+            "width_ft": "60",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "180",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "360",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60514",
+            "airport_ref": "19735",
+            "airport_ident": "KEGI",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "37.915"
+        },
+        {
+            "id": "60513",
+            "airport_ref": "19735",
+            "airport_ident": "KEGI",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "60515",
+            "airport_ref": "19735",
+            "airport_ident": "KEGI",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "60516",
+            "airport_ref": "19735",
+            "airport_ident": "KEGI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "25.112"
+        },
+        {
+            "id": "60517",
+            "airport_ref": "19735",
+            "airport_ident": "KEGI",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "150.6"
+        },
+        {
+            "id": "60518",
+            "airport_ref": "19735",
+            "airport_ident": "KEGI",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "139.3"
+        },
+        {
+            "id": "60519",
+            "airport_ref": "19735",
+            "airport_ident": "KEGI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "133.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

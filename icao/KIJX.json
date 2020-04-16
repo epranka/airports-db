@@ -1,0 +1,118 @@
+{
+    "id": "20167",
+    "ident": "KIJX",
+    "type": "small_airport",
+    "name": "Jacksonville Municipal Airport",
+    "latitude_deg": "39.774600982666016",
+    "longitude_deg": "-90.23829650878906",
+    "elevation_ft": "624",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Jacksonville",
+    "scheduled_service": "no",
+    "gps_code": "KIJX",
+    "iata_code": "",
+    "local_code": "IJX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241567",
+            "airport_ref": "20167",
+            "airport_ident": "KIJX",
+            "length_ft": "4001",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "39.7709",
+            "le_longitude_deg": "-90.2431",
+            "le_elevation_ft": "617",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "39.7787",
+            "he_longitude_deg": "-90.233",
+            "he_elevation_ft": "618",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241568",
+            "airport_ref": "20167",
+            "airport_ident": "KIJX",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "39.7793",
+            "le_longitude_deg": "-90.2447",
+            "le_elevation_ft": "617",
+            "le_heading_degT": "135.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "39.7696",
+            "he_longitude_deg": "-90.2322",
+            "he_elevation_ft": "621",
+            "he_heading_degT": "315.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62132",
+            "airport_ref": "20167",
+            "airport_ident": "KIJX",
+            "type": "A/D",
+            "description": "SPRINGFIELD APP/DEP",
+            "frequency_mhz": "118.45"
+        },
+        {
+            "id": "62133",
+            "airport_ref": "20167",
+            "airport_ident": "KIJX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "108.6"
+        },
+        {
+            "id": "62134",
+            "airport_ref": "20167",
+            "airport_ident": "KIJX",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.45"
+        },
+        {
+            "id": "62135",
+            "airport_ref": "20167",
+            "airport_ident": "KIJX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

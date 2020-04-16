@@ -1,0 +1,96 @@
+{
+    "id": "3266",
+    "ident": "ID-WA19",
+    "type": "small_airport",
+    "name": "Pagerungan Airport",
+    "latitude_deg": "-6.956610202789999",
+    "longitude_deg": "115.930999756",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-JI",
+    "municipality": "Pagerungan Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "West Java Islands, Pagerungan Besar, Torohhiga",
+    "runways": [
+        {
+            "id": "236500",
+            "airport_ref": "3266",
+            "airport_ident": "ID-WA19",
+            "length_ft": "3009",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-6.95418",
+            "le_longitude_deg": "115.928",
+            "le_elevation_ft": "",
+            "le_heading_degT": "125.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-6.95904",
+            "he_longitude_deg": "115.935",
+            "he_elevation_ft": "",
+            "he_heading_degT": "305.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53616",
+            "airport_ref": "3266",
+            "airport_ident": "ID-WA19",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304106",
+        "code": "ID-JI",
+        "local_code": "JI",
+        "name": "Jawa Timur",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jawa_Timur",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92399",
+            "filename": "Pagerungan_NDB_ID",
+            "ident": "PGN",
+            "name": "Pagerungan",
+            "type": "NDB",
+            "frequency_khz": "200",
+            "latitude_deg": "-6.958889961242676",
+            "longitude_deg": "115.93099975585938",
+            "elevation_ft": "20",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.368",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ID-WA19"
+        }
+    ]
+}

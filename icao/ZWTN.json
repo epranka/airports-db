@@ -1,0 +1,96 @@
+{
+    "id": "27235",
+    "ident": "ZWTN",
+    "type": "medium_airport",
+    "name": "Hotan Airport",
+    "latitude_deg": "37.03850173950195",
+    "longitude_deg": "79.86489868164062",
+    "elevation_ft": "4672",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-65",
+    "municipality": "Hotan",
+    "scheduled_service": "yes",
+    "gps_code": "ZWTN",
+    "iata_code": "HTN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hotan_Airport",
+    "keywords": "Khotan, Heitan Air Base",
+    "runways": [
+        {
+            "id": "235187",
+            "airport_ref": "27235",
+            "airport_ident": "ZWTN",
+            "length_ft": "10499",
+            "width_ft": "164",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "37.0435",
+            "le_longitude_deg": "79.8482",
+            "le_elevation_ft": "4613",
+            "le_heading_degT": "110",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "37.0335",
+            "he_longitude_deg": "79.8816",
+            "he_elevation_ft": "4672",
+            "he_heading_degT": "290",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51245",
+            "airport_ref": "27235",
+            "airport_ident": "ZWTN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.65"
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303452",
+        "code": "CN-65",
+        "local_code": "65",
+        "name": "Xinjiang Autonomous Region",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Xinjiang",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89023",
+            "filename": "Hotan_VOR-DME_CN",
+            "ident": "HTN",
+            "name": "Hotan",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "37.03670120239258",
+            "longitude_deg": "79.87169647216797",
+            "elevation_ft": "4685",
+            "iso_country": "CN",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.216",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZWTN"
+        }
+    ]
+}

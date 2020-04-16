@@ -1,0 +1,80 @@
+{
+    "id": "32085",
+    "ident": "YCOD",
+    "type": "small_airport",
+    "name": "Cordillo Downs Airport",
+    "latitude_deg": "-26.74530029296875",
+    "longitude_deg": "140.63800048828125",
+    "elevation_ft": "125",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Cordillo Downs",
+    "scheduled_service": "no",
+    "gps_code": "YCOD",
+    "iata_code": "ODL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258453",
+            "airport_ref": "32085",
+            "airport_ident": "YCOD",
+            "length_ft": "4527",
+            "width_ft": "",
+            "surface": "N",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72574",
+            "airport_ref": "32085",
+            "airport_ident": "YCOD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "72575",
+            "airport_ref": "32085",
+            "airport_ident": "YCOD",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.1"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": ""
+    }
+}

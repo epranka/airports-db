@@ -1,0 +1,112 @@
+{
+    "id": "5451",
+    "ident": "PHMU",
+    "type": "medium_airport",
+    "name": "Waimea Kohala Airport",
+    "latitude_deg": "20.001300811767578",
+    "longitude_deg": "-155.66799926757812",
+    "elevation_ft": "2671",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Kamuela",
+    "scheduled_service": "yes",
+    "gps_code": "PHMU",
+    "iata_code": "MUE",
+    "local_code": "MUE",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Waimea-Kohala_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241680",
+            "airport_ref": "5451",
+            "airport_ident": "PHMU",
+            "length_ft": "5197",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "19.9969",
+            "le_longitude_deg": "-155.674",
+            "le_elevation_ft": "2662",
+            "le_heading_degT": "52",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "20.0057",
+            "he_longitude_deg": "-155.662",
+            "he_elevation_ft": "2671",
+            "he_heading_degT": "232",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62375",
+            "airport_ref": "5451",
+            "airport_ident": "PHMU",
+            "type": "CNTR",
+            "description": "HONOLULU CNTR",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "62376",
+            "airport_ref": "5451",
+            "airport_ident": "PHMU",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "62377",
+            "airport_ref": "5451",
+            "airport_ident": "PHMU",
+            "type": "RDO",
+            "description": "HONOLULU",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306087",
+        "code": "US-HI",
+        "local_code": "HI",
+        "name": "Hawaii",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91352",
+            "filename": "Kamuela_VOR-DME_US",
+            "ident": "MUE",
+            "name": "Kamuela",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "19.99810028076172",
+            "longitude_deg": "-155.6699981689453",
+            "elevation_ft": "2670",
+            "iso_country": "US",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.003",
+            "magnetic_variation_deg": "9.55",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PHMU"
+        }
+    ]
+}

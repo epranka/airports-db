@@ -1,0 +1,96 @@
+{
+    "id": "6090",
+    "ident": "SGCO",
+    "type": "small_airport",
+    "name": "Teniente Col Carmelo Peralta Airport",
+    "latitude_deg": "-23.442363",
+    "longitude_deg": "-57.427253",
+    "elevation_ft": "253",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-1",
+    "municipality": "Concepción",
+    "scheduled_service": "no",
+    "gps_code": "SGCO",
+    "iata_code": "CIO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Teniente_Coronel_Carmelo_Peralta_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238118",
+            "airport_ref": "6090",
+            "airport_ident": "SGCO",
+            "length_ft": "6070",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "-23.4498",
+            "le_longitude_deg": "-57.4296",
+            "le_elevation_ft": "249",
+            "le_heading_degT": "16",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "-23.4337",
+            "he_longitude_deg": "-57.4246",
+            "he_elevation_ft": "249",
+            "he_heading_degT": "196",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56050",
+            "airport_ref": "6090",
+            "airport_ident": "SGCO",
+            "type": "TWR",
+            "description": "CONCEPCION TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302799",
+        "code": "PY",
+        "name": "Paraguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
+        "keywords": "Aeropuertos de Paraguay"
+    },
+    "region": {
+        "id": "305189",
+        "code": "PY-1",
+        "local_code": "1",
+        "name": "Concepción Department",
+        "continent": "SA",
+        "iso_country": "PY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Concepci%C3%B3n_Department_%28Paraguay%29",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86961",
+            "filename": "Concepcion_NDB_PY",
+            "ident": "CON",
+            "name": "Concepcion",
+            "type": "NDB",
+            "frequency_khz": "405",
+            "latitude_deg": "-23.438400268554688",
+            "longitude_deg": "-57.430599212646484",
+            "elevation_ft": "",
+            "iso_country": "PY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.419",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SGCO"
+        }
+    ]
+}

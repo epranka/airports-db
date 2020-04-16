@@ -1,0 +1,96 @@
+{
+    "id": "2888",
+    "ident": "FKKV",
+    "type": "medium_airport",
+    "name": "Bamenda Airport",
+    "latitude_deg": "6.039239883422852",
+    "longitude_deg": "10.122599601745605",
+    "elevation_ft": "4065",
+    "continent": "AF",
+    "iso_country": "CM",
+    "iso_region": "CM-NW",
+    "municipality": "Bamenda",
+    "scheduled_service": "no",
+    "gps_code": "FKKV",
+    "iata_code": "BPC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235271",
+            "airport_ref": "2888",
+            "airport_ident": "FKKV",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "6.05042",
+            "le_longitude_deg": "10.1209",
+            "le_elevation_ft": "",
+            "le_heading_degT": "171",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "6.02806",
+            "he_longitude_deg": "10.1244",
+            "he_elevation_ft": "",
+            "he_heading_degT": "351",
+            "he_displaced_threshold_ft": "1643"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51392",
+            "airport_ref": "2888",
+            "airport_ident": "FKKV",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302565",
+        "code": "CM",
+        "name": "Cameroon",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cameroon",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303417",
+        "code": "CM-NW",
+        "local_code": "NW",
+        "name": "North-West Region",
+        "continent": "AF",
+        "iso_country": "CM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86211",
+            "filename": "Bamenda_VOR-DME_CM",
+            "ident": "BND",
+            "name": "Bamenda",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "6.050559997558594",
+            "longitude_deg": "10.116100311279297",
+            "elevation_ft": "4065",
+            "iso_country": "CM",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.011",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FKKV"
+        }
+    ]
+}

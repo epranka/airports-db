@@ -1,0 +1,172 @@
+{
+    "id": "21213",
+    "ident": "KTOP",
+    "type": "medium_airport",
+    "name": "Philip Billard Municipal Airport",
+    "latitude_deg": "39.068698883057",
+    "longitude_deg": "-95.622497558594",
+    "elevation_ft": "881",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Topeka",
+    "scheduled_service": "no",
+    "gps_code": "KTOP",
+    "iata_code": "TOP",
+    "local_code": "TOP",
+    "home_link": "http://www.mtaa-topeka.org/billard-airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Philip_Billard_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241251",
+            "airport_ref": "21213",
+            "airport_ident": "KTOP",
+            "length_ft": "3002",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "39.0654",
+            "le_longitude_deg": "-95.6268",
+            "le_elevation_ft": "878",
+            "le_heading_degT": "49.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "39.0708",
+            "he_longitude_deg": "-95.6188",
+            "he_elevation_ft": "879",
+            "he_heading_degT": "229.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241252",
+            "airport_ref": "21213",
+            "airport_ident": "KTOP",
+            "length_ft": "5099",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "39.0748",
+            "le_longitude_deg": "-95.627",
+            "le_elevation_ft": "880",
+            "le_heading_degT": "134.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "39.065",
+            "he_longitude_deg": "-95.6142",
+            "he_elevation_ft": "875",
+            "he_heading_degT": "314.3",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241253",
+            "airport_ref": "21213",
+            "airport_ident": "KTOP",
+            "length_ft": "4331",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "39.0735",
+            "le_longitude_deg": "-95.6242",
+            "le_elevation_ft": "879",
+            "le_heading_degT": "181.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "39.0616",
+            "he_longitude_deg": "-95.6247",
+            "he_elevation_ft": "880",
+            "he_heading_degT": "1.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61464",
+            "airport_ref": "21213",
+            "airport_ident": "KTOP",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.275"
+        },
+        {
+            "id": "61465",
+            "airport_ref": "21213",
+            "airport_ident": "KTOP",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "61466",
+            "airport_ref": "21213",
+            "airport_ident": "KTOP",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "61467",
+            "airport_ref": "21213",
+            "airport_ident": "KTOP",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "61468",
+            "airport_ref": "21213",
+            "airport_ident": "KTOP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "61469",
+            "airport_ref": "21213",
+            "airport_ident": "KTOP",
+            "type": "RDO",
+            "description": "WICHITA RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "61470",
+            "airport_ref": "21213",
+            "airport_ident": "KTOP",
+            "type": "TWR",
+            "description": "TOPEKA TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "61471",
+            "airport_ref": "21213",
+            "airport_ident": "KTOP",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

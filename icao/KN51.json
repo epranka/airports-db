@@ -1,0 +1,110 @@
+{
+    "id": "20610",
+    "ident": "KN51",
+    "type": "small_airport",
+    "name": "Solberg Hunterdon Airport",
+    "latitude_deg": "40.58369827270508",
+    "longitude_deg": "-74.73619842529297",
+    "elevation_ft": "195",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Readington",
+    "scheduled_service": "no",
+    "gps_code": "KN51",
+    "iata_code": "",
+    "local_code": "N51",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Solberg-Hunterdon_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242572",
+            "airport_ref": "20610",
+            "airport_ident": "KN51",
+            "length_ft": "3735",
+            "width_ft": "120",
+            "surface": "COP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "40.5754",
+            "le_longitude_deg": "-74.7395",
+            "le_elevation_ft": "",
+            "le_heading_degT": "29.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "40.5843",
+            "he_longitude_deg": "-74.7329",
+            "he_elevation_ft": "",
+            "he_heading_degT": "209.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242573",
+            "airport_ref": "20610",
+            "airport_ident": "KN51",
+            "length_ft": "3440",
+            "width_ft": "200",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "40.5886",
+            "le_longitude_deg": "-74.7422",
+            "le_elevation_ft": "187",
+            "le_heading_degT": "119",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "40.584",
+            "he_longitude_deg": "-74.7314",
+            "he_elevation_ft": "152",
+            "he_heading_degT": "299",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64219",
+            "airport_ref": "20610",
+            "airport_ident": "KN51",
+            "type": "A/D",
+            "description": "NEW YORK APP/DEP",
+            "frequency_mhz": "132.8"
+        },
+        {
+            "id": "64220",
+            "airport_ref": "20610",
+            "airport_ident": "KN51",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "112.9"
+        },
+        {
+            "id": "64221",
+            "airport_ref": "20610",
+            "airport_ident": "KN51",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    }
+}

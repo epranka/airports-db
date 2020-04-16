@@ -1,0 +1,96 @@
+{
+    "id": "27234",
+    "ident": "ZWSH",
+    "type": "medium_airport",
+    "name": "Kashgar Airport",
+    "latitude_deg": "39.5429000854",
+    "longitude_deg": "76.0199966431",
+    "elevation_ft": "4529",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-65",
+    "municipality": "Kashgar",
+    "scheduled_service": "yes",
+    "gps_code": "ZWSH",
+    "iata_code": "KHG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kashgar_Airport",
+    "keywords": "Kashi Airport",
+    "runways": [
+        {
+            "id": "235159",
+            "airport_ref": "27234",
+            "airport_ident": "ZWSH",
+            "length_ft": "10499",
+            "width_ft": "135",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "39.5419",
+            "le_longitude_deg": "76.0014",
+            "le_elevation_ft": "4524",
+            "le_heading_degT": "85.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "39.5439",
+            "he_longitude_deg": "76.0385",
+            "he_elevation_ft": "4498",
+            "he_heading_degT": "265.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51167",
+            "airport_ref": "27234",
+            "airport_ident": "ZWSH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303452",
+        "code": "CN-65",
+        "local_code": "65",
+        "name": "Xinjiang Autonomous Region",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Xinjiang",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89770",
+            "filename": "Kashi_VOR-DME_CN",
+            "ident": "KHG",
+            "name": "Kashi",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "39.54669952392578",
+            "longitude_deg": "76.02330017089844",
+            "elevation_ft": "4564",
+            "iso_country": "CN",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.322",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZWSH"
+        }
+    ]
+}

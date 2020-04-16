@@ -1,0 +1,126 @@
+{
+    "id": "44686",
+    "ident": "OTHH",
+    "type": "large_airport",
+    "name": "Hamad International Airport",
+    "latitude_deg": "25.273056",
+    "longitude_deg": "51.608056",
+    "elevation_ft": "13",
+    "continent": "AS",
+    "iso_country": "QA",
+    "iso_region": "QA-DA",
+    "municipality": "Doha",
+    "scheduled_service": "yes",
+    "gps_code": "OTHH",
+    "iata_code": "DOH",
+    "local_code": "",
+    "home_link": "http://dohahamadairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hamad_International_Airport",
+    "keywords": "New Doha International Airport",
+    "runways": [
+        {
+            "id": "312710",
+            "airport_ref": "44686",
+            "airport_ident": "OTHH",
+            "length_ft": "15912",
+            "width_ft": "197",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16L",
+            "le_latitude_deg": "25.2961",
+            "le_longitude_deg": "51.6088",
+            "le_elevation_ft": "12",
+            "le_heading_degT": "156",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34R",
+            "he_latitude_deg": "25.2554",
+            "he_longitude_deg": "51.6268",
+            "he_elevation_ft": "12",
+            "he_heading_degT": "336",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "312712",
+            "airport_ref": "44686",
+            "airport_ident": "OTHH",
+            "length_ft": "13944",
+            "width_ft": "197",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16R",
+            "le_latitude_deg": "25.291",
+            "le_longitude_deg": "51.5897",
+            "le_elevation_ft": "12",
+            "le_heading_degT": "156",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34L",
+            "he_latitude_deg": "25.2553",
+            "he_longitude_deg": "51.6054",
+            "he_elevation_ft": "12",
+            "he_heading_degT": "336",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "313911",
+            "airport_ref": "44686",
+            "airport_ident": "OTHH",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "128.85"
+        },
+        {
+            "id": "313912",
+            "airport_ref": "44686",
+            "airport_ident": "OTHH",
+            "type": "D-ATIS",
+            "description": "",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "312713",
+            "airport_ref": "44686",
+            "airport_ident": "OTHH",
+            "type": "DOHA APP RADAR",
+            "description": "",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "312714",
+            "airport_ref": "44686",
+            "airport_ident": "OTHH",
+            "type": "HAMAD TERM INFO",
+            "description": "",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "312715",
+            "airport_ref": "44686",
+            "airport_ident": "OTHH",
+            "type": "HAMAD Tower",
+            "description": "",
+            "frequency_mhz": "118.525"
+        }
+    ],
+    "country": {
+        "id": "302659",
+        "code": "QA",
+        "name": "Qatar",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Qatar",
+        "keywords": "مطارات قطر"
+    },
+    "region": {
+        "id": "305207",
+        "code": "QA-DA",
+        "local_code": "DA",
+        "name": "Ad Dawhah Municipality",
+        "continent": "AS",
+        "iso_country": "QA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ad_Dawhah",
+        "keywords": ""
+    }
+}

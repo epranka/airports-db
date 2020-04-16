@@ -1,0 +1,104 @@
+{
+    "id": "124",
+    "ident": "BIPA",
+    "type": "small_airport",
+    "name": "Patreksfjörður Airport",
+    "latitude_deg": "65.555801",
+    "longitude_deg": "-23.965",
+    "elevation_ft": "11",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-4",
+    "municipality": "Patreksfjörður",
+    "scheduled_service": "no",
+    "gps_code": "BIPA",
+    "iata_code": "PFJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Patreksfj%C3%B6r%C3%B0ur_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236471",
+            "airport_ref": "124",
+            "airport_ident": "BIPA",
+            "length_ft": "4593",
+            "width_ft": "148",
+            "surface": "BIT",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "65.5592",
+            "le_longitude_deg": "-23.9791",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "119.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "65.5531",
+            "he_longitude_deg": "-23.9526",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "299.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53587",
+            "airport_ref": "124",
+            "airport_ident": "BIPA",
+            "type": "ACC",
+            "description": "REYKJAVIK ACC",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "53588",
+            "airport_ref": "124",
+            "airport_ident": "BIPA",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "119.1"
+        }
+    ],
+    "country": {
+        "id": "302696",
+        "code": "IS",
+        "name": "Iceland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iceland",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304250",
+        "code": "IS-4",
+        "local_code": "4",
+        "name": "Westfjords",
+        "continent": "EU",
+        "iso_country": "IS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Westfjords",
+        "keywords": "Vestfirðir"
+    },
+    "navaids": [
+        {
+            "id": "92233",
+            "filename": "Patreksfjordur_NDB_IS",
+            "ident": "PA",
+            "name": "Patreksfjordur",
+            "type": "NDB",
+            "frequency_khz": "348",
+            "latitude_deg": "65.55580139160156",
+            "longitude_deg": "-23.953100204467773",
+            "elevation_ft": "",
+            "iso_country": "IS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.05",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "BIPA"
+        }
+    ]
+}

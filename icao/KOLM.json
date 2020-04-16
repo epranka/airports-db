@@ -1,0 +1,166 @@
+{
+    "id": "3749",
+    "ident": "KOLM",
+    "type": "medium_airport",
+    "name": "Olympia Regional Airport",
+    "latitude_deg": "46.9693985",
+    "longitude_deg": "-122.9029999",
+    "elevation_ft": "209",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Olympia",
+    "scheduled_service": "no",
+    "gps_code": "KOLM",
+    "iata_code": "OLM",
+    "local_code": "OLM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Olympia_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242190",
+            "airport_ref": "3749",
+            "airport_ident": "KOLM",
+            "length_ft": "4157",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "46.9686",
+            "le_longitude_deg": "-122.892",
+            "le_elevation_ft": "206",
+            "le_heading_degT": "104",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "46.9659",
+            "he_longitude_deg": "-122.876",
+            "he_elevation_ft": "204",
+            "he_heading_degT": "284",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242191",
+            "airport_ref": "3749",
+            "airport_ident": "KOLM",
+            "length_ft": "5501",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "46.9764",
+            "le_longitude_deg": "-122.902",
+            "le_elevation_ft": "196",
+            "le_heading_degT": "191",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "46.9616",
+            "he_longitude_deg": "-122.907",
+            "he_elevation_ft": "203",
+            "he_heading_degT": "11",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63399",
+            "airport_ref": "3749",
+            "airport_ident": "KOLM",
+            "type": "A/D",
+            "description": "SEATTLE APP/DEP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "63400",
+            "airport_ref": "3749",
+            "airport_ident": "KOLM",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.725"
+        },
+        {
+            "id": "63401",
+            "airport_ref": "3749",
+            "airport_ident": "KOLM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135.375"
+        },
+        {
+            "id": "63402",
+            "airport_ref": "3749",
+            "airport_ident": "KOLM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "63403",
+            "airport_ref": "3749",
+            "airport_ident": "KOLM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "63404",
+            "airport_ref": "3749",
+            "airport_ident": "KOLM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "63405",
+            "airport_ref": "3749",
+            "airport_ident": "KOLM",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92004",
+            "filename": "Olympia_VORTAC_US",
+            "ident": "OLM",
+            "name": "Olympia",
+            "type": "VORTAC",
+            "frequency_khz": "113400",
+            "latitude_deg": "46.97159957885742",
+            "longitude_deg": "-122.9020004272461",
+            "elevation_ft": "200",
+            "iso_country": "US",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "19.001",
+            "magnetic_variation_deg": "17.342",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KOLM"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "21093",
+    "ident": "KSNL",
+    "type": "small_airport",
+    "name": "Shawnee Regional Airport",
+    "latitude_deg": "35.357898712158",
+    "longitude_deg": "-96.942802429199",
+    "elevation_ft": "1073",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Shawnee",
+    "scheduled_service": "no",
+    "gps_code": "KSNL",
+    "iata_code": "SNL",
+    "local_code": "SNL",
+    "home_link": "http://www.shawneeairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shawnee_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242803",
+            "airport_ref": "21093",
+            "airport_ident": "KSNL",
+            "length_ft": "4200",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "13",
+            "le_latitude_deg": "35.3583",
+            "le_longitude_deg": "-96.9461",
+            "le_elevation_ft": "",
+            "le_heading_degT": "134.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "35.3503",
+            "he_longitude_deg": "-96.9361",
+            "he_elevation_ft": "",
+            "he_heading_degT": "314.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242804",
+            "airport_ref": "21093",
+            "airport_ident": "KSNL",
+            "length_ft": "5600",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "35.3655",
+            "le_longitude_deg": "-96.9428",
+            "le_elevation_ft": "1069",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "35.3502",
+            "he_longitude_deg": "-96.9428",
+            "he_elevation_ft": "1067",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "408"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64670",
+            "airport_ref": "21093",
+            "airport_ident": "KSNL",
+            "type": "A/D",
+            "description": "OKLAHOMA CITY",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "64671",
+            "airport_ref": "21093",
+            "airport_ident": "KSNL",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.275"
+        },
+        {
+            "id": "64672",
+            "airport_ref": "21093",
+            "airport_ident": "KSNL",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "132.2"
+        },
+        {
+            "id": "64673",
+            "airport_ref": "21093",
+            "airport_ident": "KSNL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

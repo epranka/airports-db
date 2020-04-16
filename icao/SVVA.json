@@ -1,0 +1,142 @@
+{
+    "id": "6334",
+    "ident": "SVVA",
+    "type": "medium_airport",
+    "name": "Arturo Michelena International Airport",
+    "latitude_deg": "10.14973258972168",
+    "longitude_deg": "-67.92839813232422",
+    "elevation_ft": "1411",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-G",
+    "municipality": "Valencia",
+    "scheduled_service": "yes",
+    "gps_code": "SVVA",
+    "iata_code": "VLN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Arturo_Michelena_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246119",
+            "airport_ref": "6334",
+            "airport_ident": "SVVA",
+            "length_ft": "9842",
+            "width_ft": "164",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "10.1504",
+            "le_longitude_deg": "-67.942",
+            "le_elevation_ft": "1415",
+            "le_heading_degT": "92.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "10.1491",
+            "he_longitude_deg": "-67.9148",
+            "he_elevation_ft": "1400",
+            "he_heading_degT": "272.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71703",
+            "airport_ref": "6334",
+            "airport_ident": "SVVA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "71704",
+            "airport_ref": "6334",
+            "airport_ident": "SVVA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71705",
+            "airport_ref": "6334",
+            "airport_ident": "SVVA",
+            "type": "RDO",
+            "description": "VALENCIA RDO",
+            "frequency_mhz": "132"
+        },
+        {
+            "id": "71706",
+            "airport_ref": "6334",
+            "airport_ident": "SVVA",
+            "type": "TWR",
+            "description": "VALENCIA TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306171",
+        "code": "VE-G",
+        "local_code": "G",
+        "name": "Carabobo",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Carabobo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95038",
+            "filename": "Valencia_VOR-DME_VE",
+            "ident": "VAL",
+            "name": "Valencia",
+            "type": "VOR-DME",
+            "frequency_khz": "117400",
+            "latitude_deg": "10.147899627685547",
+            "longitude_deg": "-67.92279815673828",
+            "elevation_ft": "1401",
+            "iso_country": "VE",
+            "dme_frequency_khz": "117400",
+            "dme_channel": "121X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.007",
+            "magnetic_variation_deg": "-10.347",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVVA"
+        },
+        {
+            "id": "95182",
+            "filename": "Valencia_NDB_VE",
+            "ident": "VLC",
+            "name": "Valencia",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "10.152000427246094",
+            "longitude_deg": "-67.94239807128906",
+            "elevation_ft": "1417",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.34",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SVVA"
+        }
+    ]
+}

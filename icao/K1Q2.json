@@ -1,0 +1,80 @@
+{
+    "id": "18506",
+    "ident": "K1Q2",
+    "type": "small_airport",
+    "name": "Spaulding Airport",
+    "latitude_deg": "40.650299072265625",
+    "longitude_deg": "-120.76899719238281",
+    "elevation_ft": "5116",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Susanville",
+    "scheduled_service": "no",
+    "gps_code": "K1Q2",
+    "iata_code": "",
+    "local_code": "1Q2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242362",
+            "airport_ref": "18506",
+            "airport_ident": "K1Q2",
+            "length_ft": "4600",
+            "width_ft": "50",
+            "surface": "ASPH-P",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "40.6566",
+            "le_longitude_deg": "-120.768",
+            "le_elevation_ft": "5114",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "40.644",
+            "he_longitude_deg": "-120.769",
+            "he_elevation_ft": "5116",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63783",
+            "airport_ref": "18506",
+            "airport_ident": "K1Q2",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "63784",
+            "airport_ref": "18506",
+            "airport_ident": "K1Q2",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "4481",
+    "ident": "LROD",
+    "type": "medium_airport",
+    "name": "Oradea International Airport",
+    "latitude_deg": "47.025299072265625",
+    "longitude_deg": "21.90250015258789",
+    "elevation_ft": "465",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-BH",
+    "municipality": "Oradea",
+    "scheduled_service": "yes",
+    "gps_code": "LROD",
+    "iata_code": "OMR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Oradea_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238396",
+            "airport_ref": "4481",
+            "airport_ident": "LROD",
+            "length_ft": "5906",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "47.0174",
+            "le_longitude_deg": "21.9001",
+            "le_elevation_ft": "465",
+            "le_heading_degT": "11",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "47.0332",
+            "he_longitude_deg": "21.9047",
+            "he_elevation_ft": "450",
+            "he_heading_degT": "191",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56425",
+            "airport_ref": "4481",
+            "airport_ident": "LROD",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "56426",
+            "airport_ref": "4481",
+            "airport_ident": "LROD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.2"
+        }
+    ],
+    "country": {
+        "id": "302712",
+        "code": "RO",
+        "name": "Romania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
+        "keywords": "Aeroporturi din România"
+    },
+    "region": {
+        "id": "305223",
+        "code": "RO-BH",
+        "local_code": "BH",
+        "name": "Bihor",
+        "continent": "EU",
+        "iso_country": "RO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bihor",
+        "keywords": "Transylvania, Transylvanian Region"
+    },
+    "navaids": [
+        {
+            "id": "92081",
+            "filename": "Oradea_NDB_RO",
+            "ident": "ORA",
+            "name": "Oradea",
+            "type": "NDB",
+            "frequency_khz": "418",
+            "latitude_deg": "47.10029983520508",
+            "longitude_deg": "21.924100875854492",
+            "elevation_ft": "656",
+            "iso_country": "RO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.547",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LROD"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "19024",
+    "ident": "K71J",
+    "type": "small_airport",
+    "name": "Ozark-Blackwell Field",
+    "latitude_deg": "31.431101",
+    "longitude_deg": "-85.619202",
+    "elevation_ft": "356",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Ozark",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "71J",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Blackwell_Field",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245038",
+            "airport_ref": "19024",
+            "airport_ident": "K71J",
+            "length_ft": "4200",
+            "width_ft": "80",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "31.4341",
+            "le_longitude_deg": "-85.625",
+            "le_elevation_ft": "356",
+            "le_heading_degT": "121",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "31.4281",
+            "he_longitude_deg": "-85.6135",
+            "he_elevation_ft": "344",
+            "he_heading_degT": "301",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69453",
+            "airport_ref": "19024",
+            "airport_ident": "K71J",
+            "type": "A/D",
+            "description": "CAIRNS APP/DEP",
+            "frequency_mhz": "125.4"
+        },
+        {
+            "id": "69454",
+            "airport_ref": "19024",
+            "airport_ident": "K71J",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

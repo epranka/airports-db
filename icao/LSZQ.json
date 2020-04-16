@@ -1,0 +1,80 @@
+{
+    "id": "300136",
+    "ident": "LSZQ",
+    "type": "small_airport",
+    "name": "Bressaucourt Airport",
+    "latitude_deg": "47.392677",
+    "longitude_deg": "7.028648",
+    "elevation_ft": "1866",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-JU",
+    "municipality": "Bressaucourt",
+    "scheduled_service": "no",
+    "gps_code": "LSZQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aerojura.ch/default.asp",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "300137",
+            "airport_ref": "300136",
+            "airport_ident": "LSZQ",
+            "length_ft": "2625",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "300138",
+            "airport_ref": "300136",
+            "airport_ident": "LSZQ",
+            "type": "AFIS",
+            "description": "",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "302426",
+            "airport_ref": "300136",
+            "airport_ident": "LSZQ",
+            "type": "APP",
+            "description": "Bale Approach",
+            "frequency_mhz": "119.35"
+        }
+    ],
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303362",
+        "code": "CH-JU",
+        "local_code": "JU",
+        "name": "Canton of Jura",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jura",
+        "keywords": ""
+    }
+}

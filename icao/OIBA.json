@@ -1,0 +1,96 @@
+{
+    "id": "5138",
+    "ident": "OIBA",
+    "type": "medium_airport",
+    "name": "Abu Musa Island Airport",
+    "latitude_deg": "25.8757",
+    "longitude_deg": "55.033001",
+    "elevation_ft": "23",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-23",
+    "municipality": "Abu Musa",
+    "scheduled_service": "yes",
+    "gps_code": "OIBA",
+    "iata_code": "AEU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Abu_Musa_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236930",
+            "airport_ref": "5138",
+            "airport_ident": "OIBA",
+            "length_ft": "9796",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "25.8742",
+            "le_longitude_deg": "55.0182",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "83",
+            "le_displaced_threshold_ft": "860",
+            "he_ident": "26",
+            "he_latitude_deg": "25.8773",
+            "he_longitude_deg": "55.0478",
+            "he_elevation_ft": "21",
+            "he_heading_degT": "263",
+            "he_displaced_threshold_ft": "940"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54105",
+            "airport_ref": "5138",
+            "airport_ident": "OIBA",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "121.9"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304240",
+        "code": "IR-23",
+        "local_code": "23",
+        "name": "Hormozgan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hormozgan_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85215",
+            "filename": "Abumusa_Island_NDB_IR",
+            "ident": "ABM",
+            "name": "Abumusa Island",
+            "type": "NDB",
+            "frequency_khz": "285",
+            "latitude_deg": "25.87779998779297",
+            "longitude_deg": "55.02289962768555",
+            "elevation_ft": "23",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.384",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OIBA"
+        }
+    ]
+}

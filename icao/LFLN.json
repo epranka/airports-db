@@ -1,0 +1,118 @@
+{
+    "id": "4139",
+    "ident": "LFLN",
+    "type": "medium_airport",
+    "name": "Saint-Yan Airport",
+    "latitude_deg": "46.412498474121094",
+    "longitude_deg": "4.0132598876953125",
+    "elevation_ft": "796",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-BFC",
+    "municipality": "Saint-Yan",
+    "scheduled_service": "no",
+    "gps_code": "LFLN",
+    "iata_code": "SYT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236005",
+            "airport_ref": "4139",
+            "airport_ident": "LFLN",
+            "length_ft": "6660",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15L",
+            "le_latitude_deg": "46.422",
+            "le_longitude_deg": "4.00712",
+            "le_elevation_ft": "782",
+            "le_heading_degT": "148.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33R",
+            "he_latitude_deg": "46.4065",
+            "he_longitude_deg": "4.0211",
+            "he_elevation_ft": "796",
+            "he_heading_degT": "328.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "236004",
+            "airport_ref": "4139",
+            "airport_ident": "LFLN",
+            "length_ft": "4921",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15R",
+            "le_latitude_deg": "46.4165",
+            "le_longitude_deg": "4.00718",
+            "le_elevation_ft": "784",
+            "le_heading_degT": "148",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33L",
+            "he_latitude_deg": "46.405",
+            "he_longitude_deg": "4.0176",
+            "he_elevation_ft": "794",
+            "he_heading_degT": "328",
+            "he_displaced_threshold_ft": "295"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52546",
+            "airport_ref": "4139",
+            "airport_ident": "LFLN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "52547",
+            "airport_ref": "4139",
+            "airport_ident": "LFLN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.475"
+        },
+        {
+            "id": "52548",
+            "airport_ref": "4139",
+            "airport_ident": "LFLN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "52549",
+            "airport_ref": "4139",
+            "airport_ident": "LFLN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306350",
+        "code": "FR-BFC",
+        "local_code": "BFC",
+        "name": "Bourgogne-Franche-Comté",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bourgogne-Franche-Comt%C3%A9",
+        "keywords": "Bourgogne"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "id": "19784",
+    "ident": "KEWK",
+    "type": "small_airport",
+    "name": "Newton City-County Airport",
+    "latitude_deg": "38.058200836199994",
+    "longitude_deg": "-97.2744979858",
+    "elevation_ft": "1533",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Newton",
+    "scheduled_service": "no",
+    "gps_code": "KEWK",
+    "iata_code": "EWK",
+    "local_code": "EWK",
+    "home_link": "http://www.newtonkansas.com/index.aspx?page=40",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Newton_City/County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244271",
+            "airport_ref": "19784",
+            "airport_ident": "KEWK",
+            "length_ft": "3501",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "38.0608",
+            "le_longitude_deg": "-97.279",
+            "le_elevation_ft": "1532",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "38.0606",
+            "he_longitude_deg": "-97.2668",
+            "he_elevation_ft": "1533",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244272",
+            "airport_ref": "19784",
+            "airport_ident": "KEWK",
+            "length_ft": "7003",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "38.0649",
+            "le_longitude_deg": "-97.2764",
+            "le_elevation_ft": "1529",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "38.0457",
+            "he_longitude_deg": "-97.2764",
+            "he_elevation_ft": "1525",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67749",
+            "airport_ref": "19784",
+            "airport_ident": "KEWK",
+            "type": "A/D",
+            "description": "WICHITA APP/DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "67750",
+            "airport_ref": "19784",
+            "airport_ident": "KEWK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "123.875"
+        },
+        {
+            "id": "67751",
+            "airport_ref": "19784",
+            "airport_ident": "KEWK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126.55"
+        },
+        {
+            "id": "67752",
+            "airport_ref": "19784",
+            "airport_ident": "KEWK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

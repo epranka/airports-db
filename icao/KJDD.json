@@ -1,0 +1,88 @@
+{
+    "id": "20206",
+    "ident": "KJDD",
+    "type": "small_airport",
+    "name": "Wood County Airport",
+    "latitude_deg": "32.7421989440918",
+    "longitude_deg": "-95.49649810791016",
+    "elevation_ft": "434",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Mineola/Quitman",
+    "scheduled_service": "no",
+    "gps_code": "KJDD",
+    "iata_code": "",
+    "local_code": "JDD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241522",
+            "airport_ref": "20206",
+            "airport_ident": "KJDD",
+            "length_ft": "4001",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "32.7477",
+            "le_longitude_deg": "-95.4962",
+            "le_elevation_ft": "403",
+            "le_heading_degT": "182.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "32.7367",
+            "he_longitude_deg": "-95.4967",
+            "he_elevation_ft": "433",
+            "he_heading_degT": "2.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62048",
+            "airport_ref": "20206",
+            "airport_ident": "KJDD",
+            "type": "A/D",
+            "description": "LONGVIEW APP/DEP",
+            "frequency_mhz": "128.75"
+        },
+        {
+            "id": "62049",
+            "airport_ref": "20206",
+            "airport_ident": "KJDD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "62050",
+            "airport_ref": "20206",
+            "airport_ident": "KJDD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

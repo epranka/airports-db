@@ -1,0 +1,102 @@
+{
+    "id": "18629",
+    "ident": "K2V5",
+    "type": "small_airport",
+    "name": "Wray Municipal Airport",
+    "latitude_deg": "40.10029984",
+    "longitude_deg": "-102.2409973",
+    "elevation_ft": "3667",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Wray",
+    "scheduled_service": "no",
+    "gps_code": "K2V5",
+    "iata_code": "",
+    "local_code": "2V5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241879",
+            "airport_ref": "18629",
+            "airport_ident": "K2V5",
+            "length_ft": "5040",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "14",
+            "le_latitude_deg": "40.1063",
+            "le_longitude_deg": "-102.245",
+            "le_elevation_ft": "3667",
+            "le_heading_degT": "150.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "40.0943",
+            "he_longitude_deg": "-102.236",
+            "he_elevation_ft": "3618",
+            "he_heading_degT": "330.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241880",
+            "airport_ref": "18629",
+            "airport_ident": "K2V5",
+            "length_ft": "5400",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "40.1078",
+            "le_longitude_deg": "-102.241",
+            "le_elevation_ft": "3677",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "40.093",
+            "he_longitude_deg": "-102.241",
+            "he_elevation_ft": "3637",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62759",
+            "airport_ref": "18629",
+            "airport_ident": "K2V5",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "132.7"
+        },
+        {
+            "id": "62760",
+            "airport_ref": "18629",
+            "airport_ident": "K2V5",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

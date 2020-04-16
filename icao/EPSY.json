@@ -1,0 +1,96 @@
+{
+    "id": "2635",
+    "ident": "EPSY",
+    "type": "medium_airport",
+    "name": "Olsztyn-Mazury Airport",
+    "latitude_deg": "53.481899",
+    "longitude_deg": "20.9377",
+    "elevation_ft": "463",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-WN",
+    "municipality": "Olsztyn",
+    "scheduled_service": "yes",
+    "gps_code": "EPSY",
+    "iata_code": "SZY",
+    "local_code": "",
+    "home_link": "http://mazuryairport.pl/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Olsztyn-Mazury_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238250",
+            "airport_ref": "2635",
+            "airport_ident": "EPSY",
+            "length_ft": "6562",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "53.4712",
+            "le_longitude_deg": "20.9317",
+            "le_elevation_ft": "438",
+            "le_heading_degT": "19",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "53.4883",
+            "he_longitude_deg": "20.9413",
+            "he_elevation_ft": "462",
+            "he_heading_degT": "199",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56194",
+            "airport_ref": "2635",
+            "airport_ident": "EPSY",
+            "type": "TWR",
+            "description": "MAZURY INFORMATION",
+            "frequency_mhz": "118.025"
+        }
+    ],
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305158",
+        "code": "PL-WN",
+        "local_code": "WN",
+        "name": "Warmia-Masuria",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Warmian-Masurian_Voivodeship",
+        "keywords": "Warmińsko-Mazurskie"
+    },
+    "navaids": [
+        {
+            "id": "87578",
+            "filename": "Szczytno_NDB_PL",
+            "ident": "DW",
+            "name": "Szczytno",
+            "type": "NDB",
+            "frequency_khz": "288",
+            "latitude_deg": "53.43709945678711",
+            "longitude_deg": "20.91230010986328",
+            "elevation_ft": "",
+            "iso_country": "PL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.274",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "EPSY"
+        }
+    ]
+}

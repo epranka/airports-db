@@ -1,0 +1,104 @@
+{
+    "id": "2870",
+    "ident": "FCOU",
+    "type": "medium_airport",
+    "name": "Ouesso Airport",
+    "latitude_deg": "1.6159900426899998",
+    "longitude_deg": "16.0379009247",
+    "elevation_ft": "1158",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-13",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "FCOU",
+    "iata_code": "OUE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235124",
+            "airport_ref": "2870",
+            "airport_ident": "FCOU",
+            "length_ft": "6726",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "1.60706",
+            "le_longitude_deg": "16.0356",
+            "le_elevation_ft": "1158",
+            "le_heading_degT": "14",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "1.62504",
+            "he_longitude_deg": "16.0402",
+            "he_elevation_ft": "1155",
+            "he_heading_degT": "194",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310654",
+            "airport_ref": "2870",
+            "airport_ident": "FCOU",
+            "type": "ACC",
+            "description": "BRAZZA CONTROL",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "51107",
+            "airport_ref": "2870",
+            "airport_ident": "FCOU",
+            "type": "AFIS-TOWER",
+            "description": "AFIS",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302563",
+        "code": "CG",
+        "name": "Congo (Brazzaville)",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Congo_(Brazzaville)",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303342",
+        "code": "CG-13",
+        "local_code": "13",
+        "name": "Sangha Department",
+        "continent": "AF",
+        "iso_country": "CG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sangha_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92150",
+            "filename": "Ouesso_NDB_CG",
+            "ident": "OU",
+            "name": "Ouesso",
+            "type": "NDB",
+            "frequency_khz": "392",
+            "latitude_deg": "1.6083199977874756",
+            "longitude_deg": "16.057899475097656",
+            "elevation_ft": "",
+            "iso_country": "CG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.318",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "FCOU"
+        }
+    ]
+}

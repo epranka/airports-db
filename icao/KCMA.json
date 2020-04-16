@@ -1,0 +1,112 @@
+{
+    "id": "19517",
+    "ident": "KCMA",
+    "type": "small_airport",
+    "name": "Camarillo Airport",
+    "latitude_deg": "34.21369934082031",
+    "longitude_deg": "-119.09400177001953",
+    "elevation_ft": "77",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Camarillo",
+    "scheduled_service": "no",
+    "gps_code": "KCMA",
+    "iata_code": "",
+    "local_code": "CMA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Camarillo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243379",
+            "airport_ref": "19517",
+            "airport_ident": "KCMA",
+            "length_ft": "6013",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "34.2138",
+            "le_longitude_deg": "-119.104",
+            "le_elevation_ft": "61",
+            "le_heading_degT": "90.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "34.2137",
+            "he_longitude_deg": "-119.084",
+            "he_elevation_ft": "75",
+            "he_heading_degT": "270.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65850",
+            "airport_ref": "19517",
+            "airport_ident": "KCMA",
+            "type": "A/D",
+            "description": "PT MUGU APP/DEP",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "65851",
+            "airport_ref": "19517",
+            "airport_ident": "KCMA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.025"
+        },
+        {
+            "id": "65852",
+            "airport_ref": "19517",
+            "airport_ident": "KCMA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "65853",
+            "airport_ref": "19517",
+            "airport_ident": "KCMA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "128.2"
+        },
+        {
+            "id": "65854",
+            "airport_ref": "19517",
+            "airport_ident": "KCMA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "65855",
+            "airport_ref": "19517",
+            "airport_ident": "KCMA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

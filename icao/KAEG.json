@@ -1,0 +1,118 @@
+{
+    "id": "19242",
+    "ident": "KAEG",
+    "type": "small_airport",
+    "name": "Double Eagle II Airport",
+    "latitude_deg": "35.145198822021484",
+    "longitude_deg": "-106.79499816894531",
+    "elevation_ft": "5837",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Albuquerque",
+    "scheduled_service": "no",
+    "gps_code": "KAEG",
+    "iata_code": "",
+    "local_code": "AEG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Double_Eagle_II_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243094",
+            "airport_ref": "19242",
+            "airport_ident": "KAEG",
+            "length_ft": "7400",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "35.1387",
+            "le_longitude_deg": "-106.809",
+            "le_elevation_ft": "5837",
+            "le_heading_degT": "46.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "35.1528",
+            "he_longitude_deg": "-106.791",
+            "he_elevation_ft": "5810",
+            "he_heading_degT": "226.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243095",
+            "airport_ref": "19242",
+            "airport_ident": "KAEG",
+            "length_ft": "5999",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "35.1526",
+            "le_longitude_deg": "-106.789",
+            "le_elevation_ft": "5806",
+            "le_heading_degT": "179.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "35.1361",
+            "he_longitude_deg": "-106.789",
+            "he_elevation_ft": "5799",
+            "he_heading_degT": "359.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65255",
+            "airport_ref": "19242",
+            "airport_ident": "KAEG",
+            "type": "A/D",
+            "description": "ALBUQUERQUE APP/DEP",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "65256",
+            "airport_ref": "19242",
+            "airport_ident": "KAEG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "65257",
+            "airport_ref": "19242",
+            "airport_ident": "KAEG",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "65258",
+            "airport_ref": "19242",
+            "airport_ident": "KAEG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    }
+}

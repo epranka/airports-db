@@ -1,0 +1,104 @@
+{
+    "id": "3236",
+    "ident": "HRYG",
+    "type": "medium_airport",
+    "name": "Gisenyi Airport",
+    "latitude_deg": "-1.6771999597549438",
+    "longitude_deg": "29.258899688720703",
+    "elevation_ft": "5082",
+    "continent": "AF",
+    "iso_country": "RW",
+    "iso_region": "RW-04",
+    "municipality": "Gisenyi",
+    "scheduled_service": "no",
+    "gps_code": "HRYG",
+    "iata_code": "GYI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Grayson_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238615",
+            "airport_ref": "3236",
+            "airport_ident": "HRYG",
+            "length_ft": "3330",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-1.68173",
+            "le_longitude_deg": "29.2581",
+            "le_elevation_ft": "5032",
+            "le_heading_degT": "10",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-1.67268",
+            "he_longitude_deg": "29.2596",
+            "he_elevation_ft": "5081",
+            "he_heading_degT": "190",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56854",
+            "airport_ref": "3236",
+            "airport_ident": "HRYG",
+            "type": "APP",
+            "description": "GOMA APP",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "56855",
+            "airport_ref": "3236",
+            "airport_ident": "HRYG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.8"
+        }
+    ],
+    "country": {
+        "id": "302595",
+        "code": "RW",
+        "name": "Rwanda",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rwanda",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306623",
+        "code": "RW-04",
+        "local_code": "04",
+        "name": "West",
+        "continent": "AF",
+        "iso_country": "RW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/West",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88663",
+            "filename": "Gisenyi_NDB_RW",
+            "ident": "GY",
+            "name": "Gisenyi",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "-1.6766899824142456",
+            "longitude_deg": "29.260299682617188",
+            "elevation_ft": "5126",
+            "iso_country": "RW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.106",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "HRYG"
+        }
+    ]
+}

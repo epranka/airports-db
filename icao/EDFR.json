@@ -1,0 +1,80 @@
+{
+    "id": "28708",
+    "ident": "EDFR",
+    "type": "small_airport",
+    "name": "Rothenburg o. d. T. Airport",
+    "latitude_deg": "49.38833236694336",
+    "longitude_deg": "10.218055725097656",
+    "elevation_ft": "1309",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Rothenburg ob der Tauber",
+    "scheduled_service": "no",
+    "gps_code": "EDFR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259814",
+            "airport_ref": "28708",
+            "airport_ident": "EDFR",
+            "length_ft": "3117",
+            "width_ft": "65",
+            "surface": "asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "1309",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "1309",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "302414",
+            "airport_ref": "28708",
+            "airport_ident": "EDFR",
+            "type": "AFIS",
+            "description": "Rothenburg Info (ge)",
+            "frequency_mhz": "118.175"
+        },
+        {
+            "id": "302415",
+            "airport_ref": "28708",
+            "airport_ident": "EDFR",
+            "type": "FIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    }
+}

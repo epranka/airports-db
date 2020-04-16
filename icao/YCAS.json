@@ -1,0 +1,80 @@
+{
+    "id": "26942",
+    "ident": "YCAS",
+    "type": "small_airport",
+    "name": "Casino Airport",
+    "latitude_deg": "-28.88279914855957",
+    "longitude_deg": "153.06700134277344",
+    "elevation_ft": "86",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YCAS",
+    "iata_code": "CSI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233204",
+            "airport_ref": "26942",
+            "airport_ident": "YCAS",
+            "length_ft": "3609",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-28.88",
+            "le_longitude_deg": "153.055",
+            "le_elevation_ft": "86",
+            "le_heading_degT": "105",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "-28.8827",
+            "he_longitude_deg": "153.066",
+            "he_elevation_ft": "67",
+            "he_heading_degT": "285",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48681",
+            "airport_ref": "26942",
+            "airport_ident": "YCAS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "48682",
+            "airport_ref": "26942",
+            "airport_ident": "YCAS",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "120.3"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "id": "20895",
+    "ident": "KPWG",
+    "type": "small_airport",
+    "name": "McGregor Executive Airport",
+    "latitude_deg": "31.48489952",
+    "longitude_deg": "-97.3164978",
+    "elevation_ft": "592",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Waco",
+    "scheduled_service": "no",
+    "gps_code": "KPWG",
+    "iata_code": "",
+    "local_code": "PWG",
+    "home_link": "http://www.mcgregor-texas.com/city/Airport%20Main.html",
+    "wikipedia_link": "",
+    "keywords": "F60",
+    "runways": [
+        {
+            "id": "239760",
+            "airport_ref": "20895",
+            "airport_ident": "KPWG",
+            "length_ft": "3484",
+            "width_ft": "55",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "31.4794",
+            "le_longitude_deg": "-97.3177",
+            "le_elevation_ft": "568",
+            "le_heading_degT": "44",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "31.4863",
+            "he_longitude_deg": "-97.31",
+            "he_elevation_ft": "592",
+            "he_heading_degT": "224",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239761",
+            "airport_ref": "20895",
+            "airport_ident": "KPWG",
+            "length_ft": "5501",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "31.4938",
+            "le_longitude_deg": "-97.3183",
+            "le_elevation_ft": "591",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "31.4787",
+            "he_longitude_deg": "-97.318",
+            "he_elevation_ft": "566",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58923",
+            "airport_ref": "20895",
+            "airport_ident": "KPWG",
+            "type": "APP",
+            "description": "WACO APP",
+            "frequency_mhz": "135.2"
+        },
+        {
+            "id": "58924",
+            "airport_ref": "20895",
+            "airport_ident": "KPWG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.525"
+        },
+        {
+            "id": "58925",
+            "airport_ref": "20895",
+            "airport_ident": "KPWG",
+            "type": "DEP",
+            "description": "WACO DEP",
+            "frequency_mhz": "126.125"
+        },
+        {
+            "id": "58926",
+            "airport_ref": "20895",
+            "airport_ident": "KPWG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

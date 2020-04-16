@@ -1,0 +1,110 @@
+{
+    "id": "20560",
+    "ident": "KMRJ",
+    "type": "small_airport",
+    "name": "Iowa County Airport",
+    "latitude_deg": "42.886799",
+    "longitude_deg": "-90.236198",
+    "elevation_ft": "1171",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Mineral Point",
+    "scheduled_service": "no",
+    "gps_code": "KMRJ",
+    "iata_code": "",
+    "local_code": "MRJ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243250",
+            "airport_ref": "20560",
+            "airport_ident": "KMRJ",
+            "length_ft": "3601",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "42.8816",
+            "le_longitude_deg": "-90.2361",
+            "le_elevation_ft": "1164",
+            "le_heading_degT": "41",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "42.8891",
+            "he_longitude_deg": "-90.2274",
+            "he_elevation_ft": "1171",
+            "he_heading_degT": "221",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243251",
+            "airport_ref": "20560",
+            "airport_ident": "KMRJ",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "42.8903",
+            "le_longitude_deg": "-90.2482",
+            "le_elevation_ft": "1129",
+            "le_heading_degT": "110.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "42.8855",
+            "he_longitude_deg": "-90.2307",
+            "he_elevation_ft": "1163",
+            "he_heading_degT": "290.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65575",
+            "airport_ref": "20560",
+            "airport_ident": "KMRJ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "65576",
+            "airport_ref": "20560",
+            "airport_ident": "KMRJ",
+            "type": "CNTR",
+            "description": "CHICAGO CNTR",
+            "frequency_mhz": "133.95"
+        },
+        {
+            "id": "65577",
+            "airport_ref": "20560",
+            "airport_ident": "KMRJ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

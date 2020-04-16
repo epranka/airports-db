@@ -1,0 +1,80 @@
+{
+    "id": "18427",
+    "ident": "K16G",
+    "type": "small_airport",
+    "name": "Seneca County Airport",
+    "latitude_deg": "41.09410095214844",
+    "longitude_deg": "-83.2125015258789",
+    "elevation_ft": "786",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Tiffin",
+    "scheduled_service": "no",
+    "gps_code": "K16G",
+    "iata_code": "",
+    "local_code": "16G",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242750",
+            "airport_ref": "18427",
+            "airport_ident": "K16G",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "41.091",
+            "le_longitude_deg": "-83.2186",
+            "le_elevation_ft": "786",
+            "le_heading_degT": "56",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "41.0971",
+            "he_longitude_deg": "-83.2065",
+            "he_elevation_ft": "781",
+            "he_heading_degT": "236",
+            "he_displaced_threshold_ft": "115"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64560",
+            "airport_ref": "18427",
+            "airport_ident": "K16G",
+            "type": "A/D",
+            "description": "TOLEDO APP/DEP",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "64561",
+            "airport_ref": "18427",
+            "airport_ident": "K16G",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

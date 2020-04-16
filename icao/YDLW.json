@@ -1,0 +1,88 @@
+{
+    "id": "27516",
+    "ident": "YDLW",
+    "type": "small_airport",
+    "name": "Daly Waters Airport",
+    "latitude_deg": "-16.264695066399998",
+    "longitude_deg": "133.383378983",
+    "elevation_ft": "700",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Daly Waters",
+    "scheduled_service": "no",
+    "gps_code": "YDLW",
+    "iata_code": "DYW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Daly_Waters_Airfield",
+    "keywords": "Daly Waters Airfield, RAAF Daly Waters",
+    "runways": [
+        {
+            "id": "258528",
+            "airport_ref": "27516",
+            "airport_ident": "YDLW",
+            "length_ft": "6233",
+            "width_ft": "",
+            "surface": "N",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72767",
+            "airport_ref": "27516",
+            "airport_ident": "YDLW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "72768",
+            "airport_ref": "27516",
+            "airport_ident": "YDLW",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "114.3"
+        },
+        {
+            "id": "72769",
+            "airport_ref": "27516",
+            "airport_ident": "YDLW",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

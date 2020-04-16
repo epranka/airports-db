@@ -1,0 +1,96 @@
+{
+    "id": "26456",
+    "ident": "VAPR",
+    "type": "medium_airport",
+    "name": "Porbandar Airport",
+    "latitude_deg": "21.6487007141",
+    "longitude_deg": "69.65720367429999",
+    "elevation_ft": "23",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-GJ",
+    "municipality": "Porbandar",
+    "scheduled_service": "yes",
+    "gps_code": "VAPR",
+    "iata_code": "PBD",
+    "local_code": "",
+    "home_link": "http://www.airportsindia.org.in/allAirports/porbander.jsp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Porbandar_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236685",
+            "airport_ref": "26456",
+            "airport_ident": "VAPR",
+            "length_ft": "4500",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "21.6485",
+            "le_longitude_deg": "69.6506",
+            "le_elevation_ft": "23",
+            "le_heading_degT": "88",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "21.6489",
+            "he_longitude_deg": "69.6639",
+            "he_elevation_ft": "14",
+            "he_heading_degT": "268",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53874",
+            "airport_ref": "26456",
+            "airport_ident": "VAPR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304174",
+        "code": "IN-GJ",
+        "local_code": "GJ",
+        "name": "Gujarat",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gujarat",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92663",
+            "filename": "Porbandar_NDB_IN",
+            "ident": "PR",
+            "name": "Porbandar",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "21.641199111938477",
+            "longitude_deg": "69.66259765625",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.178",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VAPR"
+        }
+    ]
+}

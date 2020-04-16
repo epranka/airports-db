@@ -1,0 +1,96 @@
+{
+    "id": "4991",
+    "ident": "NTGM",
+    "type": "medium_airport",
+    "name": "Makemo Airport",
+    "latitude_deg": "-16.583900451660156",
+    "longitude_deg": "-143.6580047607422",
+    "elevation_ft": "3",
+    "continent": "OC",
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "NTGM",
+    "iata_code": "MKP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Makemo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235803",
+            "airport_ref": "4991",
+            "airport_ident": "NTGM",
+            "length_ft": "4920",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-16.5802",
+            "le_longitude_deg": "-143.664",
+            "le_elevation_ft": "3",
+            "le_heading_degT": "123.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "-16.5877",
+            "he_longitude_deg": "-143.652",
+            "he_elevation_ft": "3",
+            "he_heading_degT": "303.4",
+            "he_displaced_threshold_ft": "330"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52186",
+            "airport_ref": "4991",
+            "airport_ident": "NTGM",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "121.4"
+        }
+    ],
+    "country": {
+        "id": "302777",
+        "code": "PF",
+        "name": "French Polynesia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/French_Polynesia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305033",
+        "code": "PF-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "PF",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91003",
+            "filename": "Makemo_NDB_PF",
+            "ident": "MK",
+            "name": "Makemo",
+            "type": "NDB",
+            "frequency_khz": "383",
+            "latitude_deg": "-16.590299606323242",
+            "longitude_deg": "-143.6510009765625",
+            "elevation_ft": "82",
+            "iso_country": "PF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.317",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "NTGM"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "21063",
+    "ident": "KSGS",
+    "type": "small_airport",
+    "name": "South St Paul Municipal Richard E Fleming field",
+    "latitude_deg": "44.85710144",
+    "longitude_deg": "-93.03289795",
+    "elevation_ft": "821",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "South St Paul",
+    "scheduled_service": "no",
+    "gps_code": "KSGS",
+    "iata_code": "",
+    "local_code": "SGS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/South_St._Paul_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243481",
+            "airport_ref": "21063",
+            "airport_ident": "KSGS",
+            "length_ft": "4001",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "44.8624",
+            "le_longitude_deg": "-93.0352",
+            "le_elevation_ft": "820",
+            "le_heading_degT": "163",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "44.8519",
+            "he_longitude_deg": "-93.0305",
+            "he_elevation_ft": "818",
+            "he_heading_degT": "343",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66090",
+            "airport_ref": "21063",
+            "airport_ident": "KSGS",
+            "type": "A/D",
+            "description": "MINNEAPOLIS APP/DEP",
+            "frequency_mhz": "121.2"
+        },
+        {
+            "id": "66091",
+            "airport_ref": "21063",
+            "airport_ident": "KSGS",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.425"
+        },
+        {
+            "id": "66092",
+            "airport_ref": "21063",
+            "airport_ident": "KSGS",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "66093",
+            "airport_ref": "21063",
+            "airport_ident": "KSGS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

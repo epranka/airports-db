@@ -1,0 +1,126 @@
+{
+    "id": "19389",
+    "ident": "KBLM",
+    "type": "small_airport",
+    "name": "Monmouth Executive Airport",
+    "latitude_deg": "40.18690109",
+    "longitude_deg": "-74.12490082",
+    "elevation_ft": "153",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Belmar/Farmingdale",
+    "scheduled_service": "no",
+    "gps_code": "KBLM",
+    "iata_code": "BLM",
+    "local_code": "BLM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Monmouth_Executive_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240578",
+            "airport_ref": "19389",
+            "airport_ident": "KBLM",
+            "length_ft": "3707",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "40.1804",
+            "le_longitude_deg": "-74.1251",
+            "le_elevation_ft": "150",
+            "le_heading_degT": "22",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "40.1898",
+            "he_longitude_deg": "-74.1202",
+            "he_elevation_ft": "159",
+            "he_heading_degT": "202",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240579",
+            "airport_ref": "19389",
+            "airport_ident": "KBLM",
+            "length_ft": "7300",
+            "width_ft": "80",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "40.1946",
+            "le_longitude_deg": "-74.1357",
+            "le_elevation_ft": "159",
+            "le_heading_degT": "132",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "40.1811",
+            "he_longitude_deg": "-74.1164",
+            "he_elevation_ft": "159",
+            "he_heading_degT": "312",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60181",
+            "airport_ref": "19389",
+            "airport_ident": "KBLM",
+            "type": "A/D",
+            "description": "MC GUIRE APP/DEP",
+            "frequency_mhz": "124.15"
+        },
+        {
+            "id": "60182",
+            "airport_ref": "19389",
+            "airport_ident": "KBLM",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.625"
+        },
+        {
+            "id": "60183",
+            "airport_ref": "19389",
+            "airport_ident": "KBLM",
+            "type": "CLD",
+            "description": "MCGUIRE CLNC DEL",
+            "frequency_mhz": "120.95"
+        },
+        {
+            "id": "60184",
+            "airport_ref": "19389",
+            "airport_ident": "KBLM",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "113.8"
+        },
+        {
+            "id": "60185",
+            "airport_ref": "19389",
+            "airport_ident": "KBLM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    }
+}

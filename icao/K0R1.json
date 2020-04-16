@@ -1,0 +1,72 @@
+{
+    "id": "18386",
+    "ident": "K0R1",
+    "type": "small_airport",
+    "name": "Atmore Municipal Airport",
+    "latitude_deg": "31.016199111938477",
+    "longitude_deg": "-87.4468002319336",
+    "elevation_ft": "287",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Atmore",
+    "scheduled_service": "no",
+    "gps_code": "K0R1",
+    "iata_code": "",
+    "local_code": "0R1",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242441",
+            "airport_ref": "18386",
+            "airport_ident": "K0R1",
+            "length_ft": "4952",
+            "width_ft": "80",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "31.023",
+            "le_longitude_deg": "-87.4468",
+            "le_elevation_ft": "282",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "270",
+            "he_ident": "36",
+            "he_latitude_deg": "31.0094",
+            "he_longitude_deg": "-87.4467",
+            "he_elevation_ft": "276",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "176"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63931",
+            "airport_ref": "18386",
+            "airport_ident": "K0R1",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

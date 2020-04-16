@@ -1,0 +1,72 @@
+{
+    "id": "11",
+    "ident": "NZ12",
+    "type": "small_airport",
+    "name": "Palmer Station Airport",
+    "latitude_deg": "-64.775002",
+    "longitude_deg": "-64.054398",
+    "elevation_ft": "149",
+    "continent": "AN",
+    "iso_country": "AQ",
+    "iso_region": "AQ-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "NZ0B",
+    "iata_code": "",
+    "local_code": "NZ0B",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Palmer_Station",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233600",
+            "airport_ref": "11",
+            "airport_ident": "NZ12",
+            "length_ft": "2500",
+            "width_ft": "100",
+            "surface": "SNO",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "27.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "207.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "308198",
+            "airport_ref": "11",
+            "airport_ident": "NZ12",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302615",
+        "code": "AQ",
+        "name": "Antarctica",
+        "continent": "AN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antarctica",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302931",
+        "code": "AQ-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AN",
+        "iso_country": "AQ",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

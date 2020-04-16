@@ -1,0 +1,118 @@
+{
+    "id": "20496",
+    "ident": "KMFI",
+    "type": "small_airport",
+    "name": "Marshfield Municipal Airport",
+    "latitude_deg": "44.6369018555",
+    "longitude_deg": "-90.18930053710001",
+    "elevation_ft": "1277",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Marshfield",
+    "scheduled_service": "no",
+    "gps_code": "KMFI",
+    "iata_code": "MFI",
+    "local_code": "MFI",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Marshfield,_Wisconsin",
+    "keywords": "Roy Shrewy Field",
+    "runways": [
+        {
+            "id": "243862",
+            "airport_ref": "20496",
+            "airport_ident": "KMFI",
+            "length_ft": "3600",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "44.632",
+            "le_longitude_deg": "-90.1925",
+            "le_elevation_ft": "1252",
+            "le_heading_degT": "46.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "44.6388",
+            "he_longitude_deg": "-90.1824",
+            "he_elevation_ft": "1248",
+            "he_heading_degT": "226.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243863",
+            "airport_ref": "20496",
+            "airport_ident": "KMFI",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "44.6443",
+            "le_longitude_deg": "-90.1941",
+            "le_elevation_ft": "1277",
+            "le_heading_degT": "158.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "44.6316",
+            "he_longitude_deg": "-90.1871",
+            "he_elevation_ft": "1254",
+            "he_heading_degT": "338.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66907",
+            "airport_ref": "20496",
+            "airport_ident": "KMFI",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.575"
+        },
+        {
+            "id": "66908",
+            "airport_ref": "20496",
+            "airport_ident": "KMFI",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "66909",
+            "airport_ref": "20496",
+            "airport_ident": "KMFI",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "66910",
+            "airport_ref": "20496",
+            "airport_ident": "KMFI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

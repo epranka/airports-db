@@ -1,0 +1,110 @@
+{
+    "id": "20267",
+    "ident": "KK82",
+    "type": "small_airport",
+    "name": "Smith Center Municipal Airport",
+    "latitude_deg": "39.76110076904297",
+    "longitude_deg": "-98.79340362548828",
+    "elevation_ft": "1799",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Smith Center",
+    "scheduled_service": "no",
+    "gps_code": "KK82",
+    "iata_code": "",
+    "local_code": "K82",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245694",
+            "airport_ref": "20267",
+            "airport_ident": "KK82",
+            "length_ft": "2453",
+            "width_ft": "75",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "39.763",
+            "le_longitude_deg": "-98.7949",
+            "le_elevation_ft": "1794",
+            "le_heading_degT": "151.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "39.7571",
+            "he_longitude_deg": "-98.7907",
+            "he_elevation_ft": "1791",
+            "he_heading_degT": "331.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245695",
+            "airport_ref": "20267",
+            "airport_ident": "KK82",
+            "length_ft": "3601",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "39.7666",
+            "le_longitude_deg": "-98.7938",
+            "le_elevation_ft": "1797",
+            "le_heading_degT": "180.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "39.7568",
+            "he_longitude_deg": "-98.7939",
+            "he_elevation_ft": "1787",
+            "he_heading_degT": "0.3",
+            "he_displaced_threshold_ft": "101"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70864",
+            "airport_ref": "20267",
+            "airport_ident": "KK82",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.45"
+        },
+        {
+            "id": "70865",
+            "airport_ref": "20267",
+            "airport_ident": "KK82",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "70866",
+            "airport_ref": "20267",
+            "airport_ident": "KK82",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

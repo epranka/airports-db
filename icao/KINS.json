@@ -1,0 +1,134 @@
+{
+    "id": "20179",
+    "ident": "KINS",
+    "type": "small_airport",
+    "name": "Creech Air Force Base",
+    "latitude_deg": "36.587200164799995",
+    "longitude_deg": "-115.672996521",
+    "elevation_ft": "3133",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Indian Springs",
+    "scheduled_service": "no",
+    "gps_code": "KINS",
+    "iata_code": "INS",
+    "local_code": "INS",
+    "home_link": "http://www.creech.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Creech_Air_Force_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241010",
+            "airport_ref": "20179",
+            "airport_ident": "KINS",
+            "length_ft": "9002",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "36.5845",
+            "le_longitude_deg": "-115.696",
+            "le_elevation_ft": "3133",
+            "le_heading_degT": "92.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "36.5835",
+            "he_longitude_deg": "-115.665",
+            "he_elevation_ft": "3102",
+            "he_heading_degT": "272.3",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241011",
+            "airport_ref": "20179",
+            "airport_ident": "KINS",
+            "length_ft": "5002",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "36.5949",
+            "le_longitude_deg": "-115.678",
+            "le_elevation_ft": "3096",
+            "le_heading_degT": "144.9",
+            "le_displaced_threshold_ft": "400",
+            "he_ident": "31",
+            "he_latitude_deg": "36.5839",
+            "he_longitude_deg": "-115.668",
+            "he_elevation_ft": "3106",
+            "he_heading_degT": "324.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60971",
+            "airport_ref": "20179",
+            "airport_ident": "KINS",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "60972",
+            "airport_ref": "20179",
+            "airport_ident": "KINS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "60973",
+            "airport_ref": "20179",
+            "airport_ident": "KINS",
+            "type": "MISC",
+            "description": "NELLIS CON",
+            "frequency_mhz": "119.35"
+        },
+        {
+            "id": "60974",
+            "airport_ref": "20179",
+            "airport_ident": "KINS",
+            "type": "PMSV",
+            "description": "NELLIS METRO",
+            "frequency_mhz": "32.39"
+        },
+        {
+            "id": "60975",
+            "airport_ref": "20179",
+            "airport_ident": "KINS",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "139.3"
+        },
+        {
+            "id": "60976",
+            "airport_ref": "20179",
+            "airport_ident": "KINS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306109",
+        "code": "US-NV",
+        "local_code": "NV",
+        "name": "Nevada",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "id": "1691",
+    "ident": "CYCL",
+    "type": "medium_airport",
+    "name": "Charlo Airport",
+    "latitude_deg": "47.990799",
+    "longitude_deg": "-66.330299",
+    "elevation_ft": "132",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Charlo",
+    "scheduled_service": "yes",
+    "gps_code": "CYCL",
+    "iata_code": "YCL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Charlo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234942",
+            "airport_ref": "1691",
+            "airport_ident": "CYCL",
+            "length_ft": "6000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "47.9925",
+            "le_longitude_deg": "-66.3433",
+            "le_elevation_ft": "132",
+            "le_heading_degT": "105",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "47.9883",
+            "he_longitude_deg": "-66.3194",
+            "he_elevation_ft": "114",
+            "he_heading_degT": "285",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50771",
+            "airport_ref": "1691",
+            "airport_ident": "CYCL",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50773",
+            "airport_ref": "1691",
+            "airport_ident": "CYCL",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50772",
+            "airport_ref": "1691",
+            "airport_ident": "CYCL",
+            "type": "CNTR",
+            "description": "MONCTON CNTR",
+            "frequency_mhz": "134.25"
+        },
+        {
+            "id": "50774",
+            "airport_ref": "1691",
+            "airport_ident": "CYCL",
+            "type": "RCO",
+            "description": "QUEBEC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303297",
+        "code": "CA-NB",
+        "local_code": "NB",
+        "name": "New Brunswick",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Brunswick",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86838",
+            "filename": "Charlo_NDB_CA",
+            "ident": "CL",
+            "name": "Charlo",
+            "type": "NDB",
+            "frequency_khz": "207",
+            "latitude_deg": "48.0088996887207",
+            "longitude_deg": "-66.43689727783203",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.354",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYCL"
+        }
+    ]
+}

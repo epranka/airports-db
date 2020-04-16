@@ -1,0 +1,142 @@
+{
+    "id": "2284",
+    "ident": "EDVE",
+    "type": "medium_airport",
+    "name": "Braunschweig-Wolfsburg Airport",
+    "latitude_deg": "52.319199",
+    "longitude_deg": "10.5561",
+    "elevation_ft": "295",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "Braunschweig",
+    "scheduled_service": "yes",
+    "gps_code": "EDVE",
+    "iata_code": "BWE",
+    "local_code": "",
+    "home_link": "http://www.flughafen-braunschweig-wolfsburg.de/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Braunschweig_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236176",
+            "airport_ref": "2284",
+            "airport_ident": "EDVE",
+            "length_ft": "7546",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "52.3184",
+            "le_longitude_deg": "10.5421",
+            "le_elevation_ft": "273",
+            "le_heading_degT": "85",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "52.3203",
+            "he_longitude_deg": "10.5757",
+            "he_elevation_ft": "288",
+            "he_heading_degT": "265",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "236177",
+            "airport_ref": "2284",
+            "airport_ident": "EDVE",
+            "length_ft": "2953",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "08R",
+            "le_latitude_deg": "52.3174",
+            "le_longitude_deg": "10.5485",
+            "le_elevation_ft": "",
+            "le_heading_degT": "85",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26L",
+            "he_latitude_deg": "52.3182",
+            "he_longitude_deg": "10.5617",
+            "he_elevation_ft": "",
+            "he_heading_degT": "265",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52867",
+            "airport_ref": "2284",
+            "airport_ident": "EDVE",
+            "type": "ACC",
+            "description": "BREMEN RADAR",
+            "frequency_mhz": "131.325"
+        },
+        {
+            "id": "52868",
+            "airport_ref": "2284",
+            "airport_ident": "EDVE",
+            "type": "AFIS",
+            "description": "BREMEN INFO",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "52869",
+            "airport_ref": "2284",
+            "airport_ident": "EDVE",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "120.05"
+        },
+        {
+            "id": "52870",
+            "airport_ref": "2284",
+            "airport_ident": "EDVE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.05"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303555",
+        "code": "DE-NI",
+        "local_code": "NI",
+        "name": "Lower Saxony",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
+        "keywords": "Niedersachsen"
+    },
+    "navaids": [
+        {
+            "id": "86340",
+            "filename": "Braunschweig_NDB_DE",
+            "ident": "BRU",
+            "name": "Braunschweig",
+            "type": "NDB",
+            "frequency_khz": "427",
+            "latitude_deg": "52.322200775146484",
+            "longitude_deg": "10.606200218200684",
+            "elevation_ft": "",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.194",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDVE"
+        }
+    ]
+}

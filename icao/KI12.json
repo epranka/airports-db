@@ -1,0 +1,118 @@
+{
+    "id": "20120",
+    "ident": "KI12",
+    "type": "small_airport",
+    "name": "Sidney Municipal Airport",
+    "latitude_deg": "40.241402",
+    "longitude_deg": "-84.150902",
+    "elevation_ft": "1044",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Sidney",
+    "scheduled_service": "no",
+    "gps_code": "KSCA",
+    "iata_code": "",
+    "local_code": "SCA",
+    "home_link": "http://www.sidneymunicipalairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sidney_Municipal_Airport_(Ohio)",
+    "keywords": "I12",
+    "runways": [
+        {
+            "id": "243842",
+            "airport_ref": "20120",
+            "airport_ident": "KI12",
+            "length_ft": "2981",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "40.2366",
+            "le_longitude_deg": "-84.1552",
+            "le_elevation_ft": "1034",
+            "le_heading_degT": "40",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "40.2429",
+            "he_longitude_deg": "-84.1483",
+            "he_elevation_ft": "1040",
+            "he_heading_degT": "220",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243843",
+            "airport_ref": "20120",
+            "airport_ident": "KI12",
+            "length_ft": "4785",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "40.2429",
+            "le_longitude_deg": "-84.1589",
+            "le_elevation_ft": "1038",
+            "le_heading_degT": "94.2",
+            "le_displaced_threshold_ft": "480",
+            "he_ident": "28",
+            "he_latitude_deg": "40.242",
+            "he_longitude_deg": "-84.1418",
+            "he_elevation_ft": "1043",
+            "he_heading_degT": "274.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66864",
+            "airport_ref": "20120",
+            "airport_ident": "KI12",
+            "type": "A/D",
+            "description": "DAYTON APP/DEP",
+            "frequency_mhz": "127.65"
+        },
+        {
+            "id": "66865",
+            "airport_ref": "20120",
+            "airport_ident": "KI12",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.425"
+        },
+        {
+            "id": "66866",
+            "airport_ref": "20120",
+            "airport_ident": "KI12",
+            "type": "RDO",
+            "description": "DAYTON RDO",
+            "frequency_mhz": "117.5"
+        },
+        {
+            "id": "66867",
+            "airport_ref": "20120",
+            "airport_ident": "KI12",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

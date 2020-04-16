@@ -1,0 +1,96 @@
+{
+    "id": "5788",
+    "ident": "SAMR",
+    "type": "medium_airport",
+    "name": "Suboficial Ay Santiago Germano Airport",
+    "latitude_deg": "-34.588299",
+    "longitude_deg": "-68.4039",
+    "elevation_ft": "2470",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-M",
+    "municipality": "San Rafael",
+    "scheduled_service": "yes",
+    "gps_code": "SAMR",
+    "iata_code": "AFA",
+    "local_code": "SRA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/San_Rafael_Airport_(Argentina)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233045",
+            "airport_ref": "5788",
+            "airport_ident": "SAMR",
+            "length_ft": "6923",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-34.5845",
+            "le_longitude_deg": "-68.4155",
+            "le_elevation_ft": "2470",
+            "le_heading_degT": "108",
+            "le_displaced_threshold_ft": "315",
+            "he_ident": "28",
+            "he_latitude_deg": "-34.5913",
+            "he_longitude_deg": "-68.3911",
+            "he_elevation_ft": "2422",
+            "he_heading_degT": "288",
+            "he_displaced_threshold_ft": "515"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48459",
+            "airport_ref": "5788",
+            "airport_ident": "SAMR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302942",
+        "code": "AR-M",
+        "local_code": "M",
+        "name": "Mendoza Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mendoza_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93915",
+            "filename": "San_Rafael_VOR_AR",
+            "ident": "SRA",
+            "name": "San Rafael",
+            "type": "VOR",
+            "frequency_khz": "116900",
+            "latitude_deg": "-34.58940124511719",
+            "longitude_deg": "-68.39469909667969",
+            "elevation_ft": "2444",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "2.04",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAMR"
+        }
+    ]
+}

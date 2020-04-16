@@ -1,0 +1,150 @@
+{
+    "id": "6478",
+    "ident": "UKKK",
+    "type": "medium_airport",
+    "name": "Kiev Zhuliany International Airport",
+    "latitude_deg": "50.40194",
+    "longitude_deg": "30.45194",
+    "elevation_ft": "587",
+    "continent": "EU",
+    "iso_country": "UA",
+    "iso_region": "UA-32",
+    "municipality": "Kiev",
+    "scheduled_service": "yes",
+    "gps_code": "UKKK",
+    "iata_code": "IEV",
+    "local_code": "",
+    "home_link": "https://iev.aero/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kyiv_International_Airport_(Zhuliany)",
+    "keywords": "Міжнародний аеропорт \"Київ\"",
+    "runways": [
+        {
+            "id": "239633",
+            "airport_ref": "6478",
+            "airport_ident": "UKKK",
+            "length_ft": "7579",
+            "width_ft": "148",
+            "surface": "Concrete",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "50.4011",
+            "le_longitude_deg": "30.4351",
+            "le_elevation_ft": "560",
+            "le_heading_degT": "86",
+            "le_displaced_threshold_ft": "492",
+            "he_ident": "26",
+            "he_latitude_deg": "50.4024",
+            "he_longitude_deg": "30.4672",
+            "he_elevation_ft": "587",
+            "he_heading_degT": "266",
+            "he_displaced_threshold_ft": "157"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58586",
+            "airport_ref": "6478",
+            "airport_ident": "UKKK",
+            "type": "APP",
+            "description": "KYIV RADAR",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "58589",
+            "airport_ref": "6478",
+            "airport_ident": "UKKK",
+            "type": "ATIS (eng)",
+            "description": "METEO",
+            "frequency_mhz": "127.475"
+        },
+        {
+            "id": "58587",
+            "airport_ref": "6478",
+            "airport_ident": "UKKK",
+            "type": "ATIS (rus)",
+            "description": "Zhuliany ATIS",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "58588",
+            "airport_ref": "6478",
+            "airport_ident": "UKKK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "58590",
+            "airport_ref": "6478",
+            "airport_ident": "UKKK",
+            "type": "TWR",
+            "description": "Tower",
+            "frequency_mhz": "120.7"
+        }
+    ],
+    "country": {
+        "id": "302719",
+        "code": "UA",
+        "name": "Ukraine",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
+        "keywords": "Аеропорти України"
+    },
+    "region": {
+        "id": "305991",
+        "code": "UA-32",
+        "local_code": "32",
+        "name": "Kiev",
+        "continent": "EU",
+        "iso_country": "UA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kiev",
+        "keywords": "Kyiv"
+    },
+    "navaids": [
+        {
+            "id": "89789",
+            "filename": "Zhulyany_NDB_UA",
+            "ident": "KI",
+            "name": "Zhulyany",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "50.39889907836914",
+            "longitude_deg": "30.387399673461914",
+            "elevation_ft": "",
+            "iso_country": "UA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.142",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "UKKK"
+        },
+        {
+            "id": "90068",
+            "filename": "Zhulyany_NDB_UA",
+            "ident": "KV",
+            "name": "Zhulyany",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "50.40420150756836",
+            "longitude_deg": "30.511600494384766",
+            "elevation_ft": "",
+            "iso_country": "UA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.159",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "UKKK"
+        }
+    ]
+}

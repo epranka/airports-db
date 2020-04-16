@@ -1,0 +1,96 @@
+{
+    "id": "19829",
+    "ident": "KF70",
+    "type": "small_airport",
+    "name": "French Valley Airport",
+    "latitude_deg": "33.5741996765",
+    "longitude_deg": "-117.127998352",
+    "elevation_ft": "1350",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Murrieta/Temecula",
+    "scheduled_service": "no",
+    "gps_code": "F70",
+    "iata_code": "RBK",
+    "local_code": "F70",
+    "home_link": "http://www.rcfva.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/French_Valley_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243807",
+            "airport_ref": "19829",
+            "airport_ident": "KF70",
+            "length_ft": "6000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "33.5822",
+            "le_longitude_deg": "-117.126",
+            "le_elevation_ft": "1340",
+            "le_heading_degT": "192.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "33.5661",
+            "he_longitude_deg": "-117.131",
+            "he_elevation_ft": "1340",
+            "he_heading_degT": "12.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66804",
+            "airport_ref": "19829",
+            "airport_ident": "KF70",
+            "type": "A/D",
+            "description": "MARCH APP/DEP",
+            "frequency_mhz": "133.5"
+        },
+        {
+            "id": "66805",
+            "airport_ref": "19829",
+            "airport_ident": "KF70",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "66806",
+            "airport_ref": "19829",
+            "airport_ident": "KF70",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "133.5"
+        },
+        {
+            "id": "66807",
+            "airport_ref": "19829",
+            "airport_ident": "KF70",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

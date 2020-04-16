@@ -1,0 +1,150 @@
+{
+    "id": "26656",
+    "ident": "VTPI",
+    "type": "medium_airport",
+    "name": "Takhli Airport",
+    "latitude_deg": "15.277299881",
+    "longitude_deg": "100.29599762",
+    "elevation_ft": "107",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-60",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "VTPI",
+    "iata_code": "TKH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Takhli_Royal_Thai_Air_Force_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239171",
+            "airport_ref": "26656",
+            "airport_ident": "VTPI",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "15.2909",
+            "le_longitude_deg": "100.296",
+            "le_elevation_ft": "107",
+            "le_heading_degT": "181.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "15.2637",
+            "he_longitude_deg": "100.296",
+            "he_elevation_ft": "65",
+            "he_heading_degT": "1.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57703",
+            "airport_ref": "26656",
+            "airport_ident": "VTPI",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "57704",
+            "airport_ref": "26656",
+            "airport_ident": "VTPI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "25.3"
+        },
+        {
+            "id": "57705",
+            "airport_ref": "26656",
+            "airport_ident": "VTPI",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "57706",
+            "airport_ref": "26656",
+            "airport_ident": "VTPI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "57707",
+            "airport_ref": "26656",
+            "airport_ident": "VTPI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "133.25"
+        }
+    ],
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305753",
+        "code": "TH-60",
+        "local_code": "60",
+        "name": "Nakhon Sawan Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nakhon_Sawan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94407",
+            "filename": "Takhli_TACAN_TH",
+            "ident": "TKL",
+            "name": "Takhli",
+            "type": "TACAN",
+            "frequency_khz": "114800",
+            "latitude_deg": "15.2746000289917",
+            "longitude_deg": "100.29900360107422",
+            "elevation_ft": "107",
+            "iso_country": "TH",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.011",
+            "magnetic_variation_deg": "-0.38",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTPI"
+        },
+        {
+            "id": "94420",
+            "filename": "Takhli_NDB_TH",
+            "ident": "TL",
+            "name": "Takhli",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "15.269100189208984",
+            "longitude_deg": "100.2979965209961",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.38",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VTPI"
+        }
+    ]
+}

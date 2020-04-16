@@ -1,0 +1,88 @@
+{
+    "id": "18806",
+    "ident": "K4A9",
+    "type": "small_airport",
+    "name": "Isbell Field",
+    "latitude_deg": "34.47370147705078",
+    "longitude_deg": "-85.72139739990234",
+    "elevation_ft": "877",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Fort Payne",
+    "scheduled_service": "no",
+    "gps_code": "K4A9",
+    "iata_code": "",
+    "local_code": "4A9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242311",
+            "airport_ref": "18806",
+            "airport_ident": "K4A9",
+            "length_ft": "5001",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "34.4684",
+            "le_longitude_deg": "-85.7267",
+            "le_elevation_ft": "856",
+            "le_heading_degT": "40",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "34.479",
+            "he_longitude_deg": "-85.7161",
+            "he_elevation_ft": "873",
+            "he_heading_degT": "220",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63671",
+            "airport_ref": "18806",
+            "airport_ident": "K4A9",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "63672",
+            "airport_ref": "18806",
+            "airport_ident": "K4A9",
+            "type": "CNTR",
+            "description": "ATLANTA CNTR",
+            "frequency_mhz": "133.8"
+        },
+        {
+            "id": "63673",
+            "airport_ref": "18806",
+            "airport_ident": "K4A9",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

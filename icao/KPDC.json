@@ -1,0 +1,118 @@
+{
+    "id": "20814",
+    "ident": "KPDC",
+    "type": "small_airport",
+    "name": "Prairie Du Chien Municipal Airport",
+    "latitude_deg": "43.019298553467",
+    "longitude_deg": "-91.12370300293",
+    "elevation_ft": "661",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Prairie Du Chien",
+    "scheduled_service": "no",
+    "gps_code": "KPDC",
+    "iata_code": "PCD",
+    "local_code": "PDC",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Prairie_du_Chien_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243783",
+            "airport_ref": "20814",
+            "airport_ident": "KPDC",
+            "length_ft": "3999",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "43.0237",
+            "le_longitude_deg": "-91.1316",
+            "le_elevation_ft": "651",
+            "le_heading_degT": "110",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "43.0199",
+            "he_longitude_deg": "-91.1176",
+            "he_elevation_ft": "659",
+            "he_heading_degT": "290",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243784",
+            "airport_ref": "20814",
+            "airport_ident": "KPDC",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "43.0225",
+            "le_longitude_deg": "-91.129",
+            "le_elevation_ft": "651",
+            "le_heading_degT": "139",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "43.012",
+            "he_longitude_deg": "-91.117",
+            "he_elevation_ft": "650",
+            "he_heading_degT": "319",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66742",
+            "airport_ref": "20814",
+            "airport_ident": "KPDC",
+            "type": "A/D",
+            "description": "CHICAGO APP/DEP",
+            "frequency_mhz": "133.95"
+        },
+        {
+            "id": "66743",
+            "airport_ref": "20814",
+            "airport_ident": "KPDC",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "66744",
+            "airport_ref": "20814",
+            "airport_ident": "KPDC",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "66745",
+            "airport_ref": "20814",
+            "airport_ident": "KPDC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

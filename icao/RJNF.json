@@ -1,0 +1,104 @@
+{
+    "id": "5582",
+    "ident": "RJNF",
+    "type": "medium_airport",
+    "name": "Fukui Airport",
+    "latitude_deg": "36.1427993774",
+    "longitude_deg": "136.223999023",
+    "elevation_ft": "19",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-18",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "RJNF",
+    "iata_code": "FKJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fukui_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237133",
+            "airport_ref": "5582",
+            "airport_ident": "RJNF",
+            "length_ft": "4329",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "36.1488",
+            "le_longitude_deg": "136.223",
+            "le_elevation_ft": "17",
+            "le_heading_degT": "176",
+            "le_displaced_threshold_ft": "213",
+            "he_ident": "36",
+            "he_latitude_deg": "36.1369",
+            "he_longitude_deg": "136.224",
+            "he_elevation_ft": "19",
+            "he_heading_degT": "356",
+            "he_displaced_threshold_ft": "213"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54491",
+            "airport_ref": "5582",
+            "airport_ident": "RJNF",
+            "type": "APP",
+            "description": "KOMATSU APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "54492",
+            "airport_ref": "5582",
+            "airport_ident": "RJNF",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304303",
+        "code": "JP-18",
+        "local_code": "18",
+        "name": "Fukui Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fukui",
+        "keywords": "Chubu"
+    },
+    "navaids": [
+        {
+            "id": "88117",
+            "filename": "Fukui_NDB_JP",
+            "ident": "FQ",
+            "name": "Fukui",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "36.17539978027344",
+            "longitude_deg": "136.22000122070312",
+            "elevation_ft": "",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.291",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RJNF"
+        }
+    ]
+}

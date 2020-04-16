@@ -1,0 +1,96 @@
+{
+    "id": "5187",
+    "ident": "OINE",
+    "type": "small_airport",
+    "name": "Kalaleh Airport",
+    "latitude_deg": "37.3833007812",
+    "longitude_deg": "55.4519996643",
+    "elevation_ft": "425",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-27",
+    "municipality": "Kalaleh",
+    "scheduled_service": "no",
+    "gps_code": "OINE",
+    "iata_code": "KLM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236904",
+            "airport_ref": "5187",
+            "airport_ident": "OINE",
+            "length_ft": "7277",
+            "width_ft": "92",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "37.3858",
+            "le_longitude_deg": "55.4399",
+            "le_elevation_ft": "500",
+            "le_heading_degT": "104.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "37.3807",
+            "he_longitude_deg": "55.4641",
+            "he_elevation_ft": "500",
+            "he_heading_degT": "284.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54073",
+            "airport_ref": "5187",
+            "airport_ident": "OINE",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "121.9"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304244",
+        "code": "IR-27",
+        "local_code": "27",
+        "name": "Golestan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Golestan_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89846",
+            "filename": "Kalaleh_NDB_IR",
+            "ident": "KLH",
+            "name": "Kalaleh",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "37.388301849365234",
+            "longitude_deg": "55.45669937133789",
+            "elevation_ft": "500",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.191",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OINE"
+        }
+    ]
+}

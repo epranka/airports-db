@@ -1,0 +1,120 @@
+{
+    "id": "3650",
+    "ident": "KLOZ",
+    "type": "medium_airport",
+    "name": "London-Corbin Airport/Magee Field",
+    "latitude_deg": "37.0821990967",
+    "longitude_deg": "-84.08489990230001",
+    "elevation_ft": "1212",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "London",
+    "scheduled_service": "no",
+    "gps_code": "KLOZ",
+    "iata_code": "LOZ",
+    "local_code": "LOZ",
+    "home_link": "http://www.london-corbinairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/London-Corbin_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243407",
+            "airport_ref": "3650",
+            "airport_ident": "KLOZ",
+            "length_ft": "5650",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "37.0821",
+            "le_longitude_deg": "-84.0852",
+            "le_elevation_ft": "1211",
+            "le_heading_degT": "52",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "37.0917",
+            "he_longitude_deg": "-84.0696",
+            "he_elevation_ft": "1184",
+            "he_heading_degT": "232",
+            "he_displaced_threshold_ft": "550"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65912",
+            "airport_ref": "3650",
+            "airport_ident": "KLOZ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.075"
+        },
+        {
+            "id": "65913",
+            "airport_ref": "3650",
+            "airport_ident": "KLOZ",
+            "type": "CNTR",
+            "description": "INDIANAPOLIS CNTR",
+            "frequency_mhz": "121.325"
+        },
+        {
+            "id": "65914",
+            "airport_ref": "3650",
+            "airport_ident": "KLOZ",
+            "type": "RDO",
+            "description": "LOUISVILLE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "65915",
+            "airport_ref": "3650",
+            "airport_ident": "KLOZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306093",
+        "code": "US-KY",
+        "local_code": "KY",
+        "name": "Kentucky",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90487",
+            "filename": "London_VORTAC_US",
+            "ident": "LOZ",
+            "name": "London",
+            "type": "VORTAC",
+            "frequency_khz": "116100",
+            "latitude_deg": "37.03310012817383",
+            "longitude_deg": "-84.11009979248047",
+            "elevation_ft": "1240",
+            "iso_country": "US",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.004",
+            "magnetic_variation_deg": "-4.574",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KLOZ"
+        }
+    ]
+}

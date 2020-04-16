@@ -1,0 +1,96 @@
+{
+    "id": "1851",
+    "ident": "CYPN",
+    "type": "medium_airport",
+    "name": "Port Menier Airport",
+    "latitude_deg": "49.83639907836914",
+    "longitude_deg": "-64.2885971069336",
+    "elevation_ft": "167",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Port-Menier",
+    "scheduled_service": "no",
+    "gps_code": "CYPN",
+    "iata_code": "YPN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Port-Menier_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234663",
+            "airport_ref": "1851",
+            "airport_ident": "CYPN",
+            "length_ft": "4886",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "49.8364",
+            "le_longitude_deg": "-64.2989",
+            "le_elevation_ft": "158",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "49.8364",
+            "he_longitude_deg": "-64.2783",
+            "he_elevation_ft": "158",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50248",
+            "airport_ref": "1851",
+            "airport_ident": "CYPN",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    },
+    "navaids": [
+        {
+            "id": "92552",
+            "filename": "Port_Menier_NDB_CA",
+            "ident": "PN",
+            "name": "Port Menier",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "49.83760070800781",
+            "longitude_deg": "-64.38629913330078",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.036",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYPN"
+        }
+    ]
+}

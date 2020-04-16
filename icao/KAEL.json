@@ -1,0 +1,126 @@
+{
+    "id": "19244",
+    "ident": "KAEL",
+    "type": "small_airport",
+    "name": "Albert Lea Municipal Airport",
+    "latitude_deg": "43.68149948",
+    "longitude_deg": "-93.36720276",
+    "elevation_ft": "1260",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Albert Lea",
+    "scheduled_service": "no",
+    "gps_code": "KAEL",
+    "iata_code": "AEL",
+    "local_code": "AEL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Albert_Lea_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243005",
+            "airport_ref": "19244",
+            "airport_ident": "KAEL",
+            "length_ft": "2899",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "43.6791",
+            "le_longitude_deg": "-93.3714",
+            "le_elevation_ft": "1253",
+            "le_heading_degT": "47",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "43.6845",
+            "he_longitude_deg": "-93.3634",
+            "he_elevation_ft": "1256",
+            "he_heading_degT": "227",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243006",
+            "airport_ref": "19244",
+            "airport_ident": "KAEL",
+            "length_ft": "4501",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "43.6874",
+            "le_longitude_deg": "-93.3689",
+            "le_elevation_ft": "1259",
+            "le_heading_degT": "168",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "43.6753",
+            "he_longitude_deg": "-93.3654",
+            "he_elevation_ft": "1255",
+            "he_heading_degT": "348",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65106",
+            "airport_ref": "19244",
+            "airport_ident": "KAEL",
+            "type": "A/D",
+            "description": "ROCHESTER APP/DEP",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "65107",
+            "airport_ref": "19244",
+            "airport_ident": "KAEL",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "109.8"
+        },
+        {
+            "id": "65108",
+            "airport_ref": "19244",
+            "airport_ident": "KAEL",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "65109",
+            "airport_ref": "19244",
+            "airport_ident": "KAEL",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "65110",
+            "airport_ref": "19244",
+            "airport_ident": "KAEL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "2561",
+    "ident": "EKVJ",
+    "type": "medium_airport",
+    "name": "Stauning Airport",
+    "latitude_deg": "55.9901008605957",
+    "longitude_deg": "8.353910446166992",
+    "elevation_ft": "17",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-82",
+    "municipality": "Skjern / Ringkøbing",
+    "scheduled_service": "no",
+    "gps_code": "EKVJ",
+    "iata_code": "STA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235467",
+            "airport_ref": "2561",
+            "airport_ident": "EKVJ",
+            "length_ft": "4757",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "55.9904",
+            "le_longitude_deg": "8.3423",
+            "le_elevation_ft": "17",
+            "le_heading_degT": "92.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "55.9898",
+            "he_longitude_deg": "8.36551",
+            "he_elevation_ft": "13",
+            "he_heading_degT": "272.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51733",
+            "airport_ref": "2561",
+            "airport_ident": "EKVJ",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "121.4"
+        }
+    ],
+    "country": {
+        "id": "302682",
+        "code": "DK",
+        "name": "Denmark",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
+        "keywords": "Lufthavnene i Danmark"
+    },
+    "region": {
+        "id": "306328",
+        "code": "DK-82",
+        "local_code": "82",
+        "name": "Central Jutland",
+        "continent": "EU",
+        "iso_country": "DK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Jutland",
+        "keywords": "Midtjylland"
+    }
+}

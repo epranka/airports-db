@@ -1,0 +1,80 @@
+{
+    "id": "18938",
+    "ident": "K5W8",
+    "type": "small_airport",
+    "name": "Siler City Municipal Airport",
+    "latitude_deg": "35.7043",
+    "longitude_deg": "-79.504204",
+    "elevation_ft": "614",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Siler City",
+    "scheduled_service": "no",
+    "gps_code": "KSCR",
+    "iata_code": "",
+    "local_code": "SCR",
+    "home_link": "http://www.silercity.org/index.asp?Type=B_BASIC&SEC=%7B33E50FDB-5CE5-473D-832E-E282A93E5BF2%7D",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Siler_City_Municipal_Airport",
+    "keywords": "5W8",
+    "runways": [
+        {
+            "id": "241966",
+            "airport_ref": "18938",
+            "airport_ident": "K5W8",
+            "length_ft": "5001",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "35.6978",
+            "le_longitude_deg": "-79.5107",
+            "le_elevation_ft": "597",
+            "le_heading_degT": "39.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "35.7083",
+            "he_longitude_deg": "-79.4999",
+            "he_elevation_ft": "614",
+            "he_heading_degT": "219.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62909",
+            "airport_ref": "18938",
+            "airport_ident": "K5W8",
+            "type": "A/D",
+            "description": "GREENSBORO APP/DEP",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "62910",
+            "airport_ref": "18938",
+            "airport_ident": "K5W8",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

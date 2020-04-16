@@ -1,0 +1,88 @@
+{
+    "id": "21306",
+    "ident": "KUUV",
+    "type": "small_airport",
+    "name": "Sullivan Regional Airport",
+    "latitude_deg": "38.23350143432617",
+    "longitude_deg": "-91.16429901123047",
+    "elevation_ft": "933",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Sullivan",
+    "scheduled_service": "no",
+    "gps_code": "KUUV",
+    "iata_code": "",
+    "local_code": "UUV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242730",
+            "airport_ref": "21306",
+            "airport_ident": "KUUV",
+            "length_ft": "4500",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "38.2304",
+            "le_longitude_deg": "-91.1711",
+            "le_elevation_ft": "933",
+            "le_heading_degT": "60",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "38.2366",
+            "he_longitude_deg": "-91.1575",
+            "he_elevation_ft": "924",
+            "he_heading_degT": "240",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64520",
+            "airport_ref": "21306",
+            "airport_ident": "KUUV",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.375"
+        },
+        {
+            "id": "64521",
+            "airport_ref": "21306",
+            "airport_ident": "KUUV",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "133.4"
+        },
+        {
+            "id": "64522",
+            "airport_ref": "21306",
+            "airport_ident": "KUUV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

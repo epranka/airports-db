@@ -1,0 +1,80 @@
+{
+    "id": "5909",
+    "ident": "SBGP",
+    "type": "small_airport",
+    "name": "EMBRAER - Unidade Gavião Peixoto Airport",
+    "latitude_deg": "-21.773700714111328",
+    "longitude_deg": "-48.40510177612305",
+    "elevation_ft": "1998",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Gavião Peixoto",
+    "scheduled_service": "no",
+    "gps_code": "SBGP",
+    "iata_code": "0",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Embraer_Unidade_Gavi%C3%A3o_Peixoto_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233901",
+            "airport_ref": "5909",
+            "airport_ident": "SBGP",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "2",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49579",
+            "airport_ref": "5909",
+            "airport_ident": "SBGP",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "49580",
+            "airport_ref": "5909",
+            "airport_ident": "SBGP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303224",
+        "code": "BR-SP",
+        "local_code": "SP",
+        "name": "São Paulo",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/São_Paulo",
+        "keywords": ""
+    }
+}

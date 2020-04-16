@@ -1,0 +1,134 @@
+{
+    "id": "19492",
+    "ident": "KCHD",
+    "type": "small_airport",
+    "name": "Chandler Municipal Airport",
+    "latitude_deg": "33.2691",
+    "longitude_deg": "-111.810997",
+    "elevation_ft": "1243",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Chandler",
+    "scheduled_service": "no",
+    "gps_code": "KCHD",
+    "iata_code": "",
+    "local_code": "CHD",
+    "home_link": "http://www.chandleraz.gov/default.aspx?pageid=318",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chandler_Municipal_Airport",
+    "keywords": "P10",
+    "runways": [
+        {
+            "id": "244619",
+            "airport_ref": "19492",
+            "airport_ident": "KCHD",
+            "length_ft": "4401",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04L",
+            "le_latitude_deg": "33.2641",
+            "le_longitude_deg": "-111.82",
+            "le_elevation_ft": "1231",
+            "le_heading_degT": "49.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22R",
+            "he_latitude_deg": "33.2719",
+            "he_longitude_deg": "-111.809",
+            "he_elevation_ft": "1236",
+            "he_heading_degT": "229.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244618",
+            "airport_ref": "19492",
+            "airport_ident": "KCHD",
+            "length_ft": "4870",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04R",
+            "le_latitude_deg": "33.2657",
+            "le_longitude_deg": "-111.814",
+            "le_elevation_ft": "1236",
+            "le_heading_degT": "49.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22L",
+            "he_latitude_deg": "33.2744",
+            "he_longitude_deg": "-111.802",
+            "he_elevation_ft": "1243",
+            "he_heading_degT": "229.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68517",
+            "airport_ref": "19492",
+            "airport_ident": "KCHD",
+            "type": "A/D",
+            "description": "PHOENIX APP/DEP",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "68518",
+            "airport_ref": "19492",
+            "airport_ident": "KCHD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.325"
+        },
+        {
+            "id": "68519",
+            "airport_ref": "19492",
+            "airport_ident": "KCHD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "128.325"
+        },
+        {
+            "id": "68520",
+            "airport_ref": "19492",
+            "airport_ident": "KCHD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "68521",
+            "airport_ref": "19492",
+            "airport_ident": "KCHD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "68522",
+            "airport_ref": "19492",
+            "airport_ident": "KCHD",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "5035",
+    "ident": "NZIR",
+    "type": "medium_airport",
+    "name": "McMurdo Station Ice Runway",
+    "latitude_deg": "-77.85399627685547",
+    "longitude_deg": "166.468994140625",
+    "elevation_ft": "1",
+    "continent": "AN",
+    "iso_country": "AQ",
+    "iso_region": "AQ-U-A",
+    "municipality": "McMurdo Station",
+    "scheduled_service": "no",
+    "gps_code": "NZIR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sea_ice_runway",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233593",
+            "airport_ref": "5035",
+            "airport_ident": "NZIR",
+            "length_ft": "10000",
+            "width_ft": "220",
+            "surface": "ICE",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "173.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "353.3",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "233594",
+            "airport_ref": "5035",
+            "airport_ident": "NZIR",
+            "length_ft": "10000",
+            "width_ft": "220",
+            "surface": "ICE",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "123.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "303.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49269",
+            "airport_ref": "5035",
+            "airport_ident": "NZIR",
+            "type": "CNTR",
+            "description": "MCMURDO CNTR",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "49270",
+            "airport_ref": "5035",
+            "airport_ident": "NZIR",
+            "type": "EMR",
+            "description": "INTL DISTRESS",
+            "frequency_mhz": "218.2"
+        },
+        {
+            "id": "49271",
+            "airport_ref": "5035",
+            "airport_ident": "NZIR",
+            "type": "TWR",
+            "description": "ICE TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302615",
+        "code": "AQ",
+        "name": "Antarctica",
+        "continent": "AN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antarctica",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302931",
+        "code": "AQ-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AN",
+        "iso_country": "AQ",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

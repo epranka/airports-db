@@ -1,0 +1,72 @@
+{
+    "id": "29468",
+    "ident": "LOKW",
+    "type": "small_airport",
+    "name": "Wolfsberg Airport",
+    "latitude_deg": "46.81829833984375",
+    "longitude_deg": "14.826399803161621",
+    "elevation_ft": "1460",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Wolfsberg",
+    "scheduled_service": "no",
+    "gps_code": "LOKW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "254529",
+            "airport_ref": "29468",
+            "airport_ident": "LOKW",
+            "length_ft": "2427",
+            "width_ft": "98",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "46.8206",
+            "le_longitude_deg": "14.8255",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "46.8145",
+            "he_longitude_deg": "14.8247",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75283",
+            "airport_ref": "29468",
+            "airport_ident": "LOKW",
+            "type": "AFIS",
+            "description": "Wolfsberg Flugplatz",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302958",
+        "code": "AT-2",
+        "local_code": "2",
+        "name": "Carinthia",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Carinthia",
+        "keywords": "Kärnten"
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "4954",
+    "ident": "MYSM",
+    "type": "medium_airport",
+    "name": "San Salvador Airport",
+    "latitude_deg": "24.06329917907715",
+    "longitude_deg": "-74.52400207519531",
+    "elevation_ft": "24",
+    "continent": "NA",
+    "iso_country": "BS",
+    "iso_region": "BS-SR",
+    "municipality": "San Salvador",
+    "scheduled_service": "yes",
+    "gps_code": "MYSM",
+    "iata_code": "ZSA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/San_Salvador_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233653",
+            "airport_ref": "4954",
+            "airport_ident": "MYSM",
+            "length_ft": "8000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "24.0643",
+            "le_longitude_deg": "-74.5359",
+            "le_elevation_ft": "10",
+            "le_heading_degT": "95.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "24.0623",
+            "he_longitude_deg": "-74.512",
+            "he_elevation_ft": "24",
+            "he_heading_degT": "275.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49383",
+            "airport_ref": "4954",
+            "airport_ident": "MYSM",
+            "type": "RDO",
+            "description": "NASSAU RDO",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "49384",
+            "airport_ref": "4954",
+            "airport_ident": "MYSM",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302728",
+        "code": "BS",
+        "name": "Bahamas",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahamas",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303247",
+        "code": "BS-SR",
+        "local_code": "SR",
+        "name": "San Salvador and Rum Cay",
+        "continent": "NA",
+        "iso_country": "BS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/San_Salvador_and_Rum_Cay",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "96111",
+            "filename": "San_Salvador_NDB_BS",
+            "ident": "ZSJ",
+            "name": "San Salvador",
+            "type": "NDB",
+            "frequency_khz": "281",
+            "latitude_deg": "24.061599731445312",
+            "longitude_deg": "-74.53479766845703",
+            "elevation_ft": "7",
+            "iso_country": "BS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.494",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MYSM"
+        }
+    ]
+}

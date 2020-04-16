@@ -1,0 +1,96 @@
+{
+    "id": "20616",
+    "ident": "KN66",
+    "type": "small_airport",
+    "name": "Oneonta Municipal Airport",
+    "latitude_deg": "42.52470016",
+    "longitude_deg": "-75.06439972",
+    "elevation_ft": "1763",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Oneonta",
+    "scheduled_service": "no",
+    "gps_code": "KN66",
+    "iata_code": "",
+    "local_code": "N66",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Oneonta_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239824",
+            "airport_ref": "20616",
+            "airport_ident": "KN66",
+            "length_ft": "4200",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "42.5206",
+            "le_longitude_deg": "-75.0699",
+            "le_elevation_ft": "1764",
+            "le_heading_degT": "44",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "42.5289",
+            "he_longitude_deg": "-75.059",
+            "he_elevation_ft": "1751",
+            "he_heading_degT": "224.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59016",
+            "airport_ref": "20616",
+            "airport_ident": "KN66",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.575"
+        },
+        {
+            "id": "59017",
+            "airport_ref": "20616",
+            "airport_ident": "KN66",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "133.25"
+        },
+        {
+            "id": "59018",
+            "airport_ref": "20616",
+            "airport_ident": "KN66",
+            "type": "RDO",
+            "description": "BUFFALO RDO",
+            "frequency_mhz": "112.6"
+        },
+        {
+            "id": "59019",
+            "airport_ref": "20616",
+            "airport_ident": "KN66",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

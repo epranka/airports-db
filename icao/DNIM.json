@@ -1,0 +1,72 @@
+{
+    "id": "2112",
+    "ident": "DNIM",
+    "type": "medium_airport",
+    "name": "Sam Mbakwe International Airport",
+    "latitude_deg": "5.427060127258301",
+    "longitude_deg": "7.206029891967773",
+    "elevation_ft": "373",
+    "continent": "AF",
+    "iso_country": "NG",
+    "iso_region": "NG-IM",
+    "municipality": "Owerri",
+    "scheduled_service": "yes",
+    "gps_code": "DNIM",
+    "iata_code": "QOW",
+    "local_code": "",
+    "home_link": "http://www.faannigeria.org/nigeria-airport.php?airport=17",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sam_Mbakwe_International_Cargo_Airport",
+    "keywords": "Imo Airport",
+    "runways": [
+        {
+            "id": "237897",
+            "airport_ref": "2112",
+            "airport_ident": "DNIM",
+            "length_ft": "8858",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "5.43906",
+            "le_longitude_deg": "7.2033",
+            "le_elevation_ft": "373",
+            "le_heading_degT": "167",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "5.41523",
+            "he_longitude_deg": "7.20874",
+            "he_elevation_ft": "373",
+            "he_heading_degT": "347",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55712",
+            "airport_ref": "2112",
+            "airport_ident": "DNIM",
+            "type": "TWR",
+            "description": "OWERRI TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302593",
+        "code": "NG",
+        "name": "Nigeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nigeria",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304892",
+        "code": "NG-IM",
+        "local_code": "IM",
+        "name": "Imo",
+        "continent": "AF",
+        "iso_country": "NG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Imo",
+        "keywords": ""
+    }
+}

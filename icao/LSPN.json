@@ -1,0 +1,72 @@
+{
+    "id": "29511",
+    "ident": "LSPN",
+    "type": "small_airport",
+    "name": "Triengen Airport",
+    "latitude_deg": "47.22669982910156",
+    "longitude_deg": "8.078060150146484",
+    "elevation_ft": "1594",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-LU",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LSPN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.flyingranch.ch",
+    "wikipedia_link": "http://de.wikipedia.org/wiki/Triengen",
+    "keywords": "Lucerne, Trisa",
+    "runways": [
+        {
+            "id": "250744",
+            "airport_ref": "29511",
+            "airport_ident": "LSPN",
+            "length_ft": "1870",
+            "width_ft": "49",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "213",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "360"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75569",
+            "airport_ref": "29511",
+            "airport_ident": "LSPN",
+            "type": "AFIS",
+            "description": "",
+            "frequency_mhz": "124.525"
+        }
+    ],
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303363",
+        "code": "CH-LU",
+        "local_code": "LU",
+        "name": "Canton of Lucerne",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lucerne",
+        "keywords": "Luzern"
+    }
+}

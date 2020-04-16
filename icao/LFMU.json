@@ -1,0 +1,88 @@
+{
+    "id": "4162",
+    "ident": "LFMU",
+    "type": "medium_airport",
+    "name": "Béziers-Vias Airport",
+    "latitude_deg": "43.32350158691406",
+    "longitude_deg": "3.3538999557495117",
+    "elevation_ft": "56",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Béziers/Vias",
+    "scheduled_service": "yes",
+    "gps_code": "LFMU",
+    "iata_code": "BZR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/B%C3%A9ziers-Agde-Vias_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235826",
+            "airport_ref": "4162",
+            "airport_ident": "LFMU",
+            "length_ft": "5971",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "43.3242",
+            "le_longitude_deg": "3.34275",
+            "le_elevation_ft": "51",
+            "le_heading_degT": "94.4",
+            "le_displaced_threshold_ft": "450",
+            "he_ident": "28",
+            "he_latitude_deg": "43.3229",
+            "he_longitude_deg": "3.36506",
+            "he_elevation_ft": "40",
+            "he_heading_degT": "274.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52209",
+            "airport_ref": "4162",
+            "airport_ident": "LFMU",
+            "type": "APP",
+            "description": "MONTPELLIER APP",
+            "frequency_mhz": "130.85"
+        },
+        {
+            "id": "52210",
+            "airport_ref": "4162",
+            "airport_ident": "LFMU",
+            "type": "ATIS",
+            "description": "BEZIERS ATIS",
+            "frequency_mhz": "127.525"
+        },
+        {
+            "id": "52211",
+            "airport_ref": "4162",
+            "airport_ident": "LFMU",
+            "type": "TWR",
+            "description": "BEZIERS TWR",
+            "frequency_mhz": "120.175"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306341",
+        "code": "FR-OCC",
+        "local_code": "OCC",
+        "name": "Occitanie",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occitanie",
+        "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
+    }
+}

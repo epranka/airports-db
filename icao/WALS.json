@@ -1,0 +1,96 @@
+{
+    "id": "26763",
+    "ident": "WALS",
+    "type": "closed",
+    "name": "Temindung Airport",
+    "latitude_deg": "-0.484531",
+    "longitude_deg": "117.156998",
+    "elevation_ft": "33",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-KI",
+    "municipality": "Samarinda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Temindung_Airport",
+    "keywords": "SRI, WALS, WRLS",
+    "runways": [
+        {
+            "id": "236476",
+            "airport_ref": "26763",
+            "airport_ident": "WALS",
+            "length_ft": "3806",
+            "width_ft": "79",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "1",
+            "le_ident": "04",
+            "le_latitude_deg": "-0.488058",
+            "le_longitude_deg": "117.155",
+            "le_elevation_ft": "33",
+            "le_heading_degT": "34",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "-0.481",
+            "he_longitude_deg": "117.159",
+            "he_elevation_ft": "33",
+            "he_heading_degT": "214",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53593",
+            "airport_ref": "26763",
+            "airport_ident": "WALS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.4"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "306379",
+        "code": "ID-KI",
+        "local_code": "KI",
+        "name": "East Kalimantan",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kalimantan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94309",
+            "filename": "Temindung_NDB_ID",
+            "ident": "TG",
+            "name": "Temindung",
+            "type": "NDB",
+            "frequency_khz": "404",
+            "latitude_deg": "-0.4818440079689026",
+            "longitude_deg": "117.15699768066406",
+            "elevation_ft": "33",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.074",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WALS"
+        }
+    ]
+}

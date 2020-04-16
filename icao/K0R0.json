@@ -1,0 +1,102 @@
+{
+    "id": "18385",
+    "ident": "K0R0",
+    "type": "small_airport",
+    "name": "Columbia-Marion County Airport",
+    "latitude_deg": "31.297000885",
+    "longitude_deg": "-89.8127975464",
+    "elevation_ft": "265",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Columbia",
+    "scheduled_service": "no",
+    "gps_code": "K0R0",
+    "iata_code": "",
+    "local_code": "0R0",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242167",
+            "airport_ref": "18385",
+            "airport_ident": "K0R0",
+            "length_ft": "4460",
+            "width_ft": "70",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "31.2934",
+            "le_longitude_deg": "-89.8186",
+            "le_elevation_ft": "243",
+            "le_heading_degT": "54",
+            "le_displaced_threshold_ft": "646",
+            "he_ident": "23",
+            "he_latitude_deg": "31.3006",
+            "he_longitude_deg": "-89.8071",
+            "he_elevation_ft": "265",
+            "he_heading_degT": "234",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242168",
+            "airport_ref": "18385",
+            "airport_ident": "K0R0",
+            "length_ft": "2430",
+            "width_ft": "150",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "13",
+            "le_latitude_deg": "31.2982",
+            "le_longitude_deg": "-89.8173",
+            "le_elevation_ft": "",
+            "le_heading_degT": "132",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "31.2938",
+            "he_longitude_deg": "-89.8115",
+            "he_elevation_ft": "",
+            "he_heading_degT": "312",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63346",
+            "airport_ref": "18385",
+            "airport_ident": "K0R0",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "133.5"
+        },
+        {
+            "id": "63347",
+            "airport_ref": "18385",
+            "airport_ident": "K0R0",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    }
+}

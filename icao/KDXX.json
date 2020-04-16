@@ -1,0 +1,118 @@
+{
+    "id": "19677",
+    "ident": "KDXX",
+    "type": "small_airport",
+    "name": "Lac Qui Parle County Airport",
+    "latitude_deg": "44.98619842529297",
+    "longitude_deg": "-96.17769622802734",
+    "elevation_ft": "1082",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Madison",
+    "scheduled_service": "no",
+    "gps_code": "KDXX",
+    "iata_code": "",
+    "local_code": "DXX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241718",
+            "airport_ref": "19677",
+            "airport_ident": "KDXX",
+            "length_ft": "3019",
+            "width_ft": "135",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "44.9859",
+            "le_longitude_deg": "-96.1823",
+            "le_elevation_ft": "1082",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "44.9859",
+            "he_longitude_deg": "-96.1706",
+            "he_elevation_ft": "1082",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241719",
+            "airport_ref": "19677",
+            "airport_ident": "KDXX",
+            "length_ft": "3302",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "44.99",
+            "le_longitude_deg": "-96.1831",
+            "le_elevation_ft": "1082",
+            "le_heading_degT": "140",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "44.983",
+            "he_longitude_deg": "-96.1749",
+            "he_elevation_ft": "1077",
+            "he_heading_degT": "320",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62432",
+            "airport_ref": "19677",
+            "airport_ident": "KDXX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "34.1"
+        },
+        {
+            "id": "62433",
+            "airport_ref": "19677",
+            "airport_ident": "KDXX",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "62434",
+            "airport_ref": "19677",
+            "airport_ident": "KDXX",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "62435",
+            "airport_ref": "19677",
+            "airport_ident": "KDXX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

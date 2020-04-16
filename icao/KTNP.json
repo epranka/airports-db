@@ -1,0 +1,110 @@
+{
+    "id": "21205",
+    "ident": "KTNP",
+    "type": "small_airport",
+    "name": "Twentynine Palms Airport",
+    "latitude_deg": "34.13159943",
+    "longitude_deg": "-115.9459991",
+    "elevation_ft": "1888",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Twentynine Palms",
+    "scheduled_service": "no",
+    "gps_code": "KTNP",
+    "iata_code": "TNP",
+    "local_code": "TNP",
+    "home_link": "http://cms.sbcounty.gov/airports/Airports/TwentyninePalms.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Twentynine_Palms_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241530",
+            "airport_ref": "21205",
+            "airport_ident": "KTNP",
+            "length_ft": "5531",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "34.1343",
+            "le_longitude_deg": "-115.953",
+            "le_elevation_ft": "1877",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "34.1344",
+            "he_longitude_deg": "-115.935",
+            "he_elevation_ft": "1787",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241531",
+            "airport_ref": "21205",
+            "airport_ident": "KTNP",
+            "length_ft": "3800",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "34.1327",
+            "le_longitude_deg": "-115.948",
+            "le_elevation_ft": "1854",
+            "le_heading_degT": "180.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "34.1223",
+            "he_longitude_deg": "-115.948",
+            "he_elevation_ft": "1887",
+            "he_heading_degT": "0.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62071",
+            "airport_ref": "21205",
+            "airport_ident": "KTNP",
+            "type": "CNTR",
+            "description": "LOS ANGELES CNTR",
+            "frequency_mhz": "128.15"
+        },
+        {
+            "id": "62072",
+            "airport_ref": "21205",
+            "airport_ident": "KTNP",
+            "type": "RDO",
+            "description": "RIVERSIDE RDO",
+            "frequency_mhz": "114.2"
+        },
+        {
+            "id": "62073",
+            "airport_ref": "21205",
+            "airport_ident": "KTNP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

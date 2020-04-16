@@ -1,0 +1,102 @@
+{
+    "id": "18704",
+    "ident": "K3I3",
+    "type": "small_airport",
+    "name": "Sky King Airport",
+    "latitude_deg": "39.54779815673828",
+    "longitude_deg": "-87.3772964477539",
+    "elevation_ft": "496",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Terre Haute",
+    "scheduled_service": "no",
+    "gps_code": "K3I3",
+    "iata_code": "",
+    "local_code": "3I3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244222",
+            "airport_ref": "18704",
+            "airport_ident": "K3I3",
+            "length_ft": "3557",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "39.5482",
+            "le_longitude_deg": "-87.3828",
+            "le_elevation_ft": "493",
+            "le_heading_degT": "84",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "39.5493",
+            "he_longitude_deg": "-87.3702",
+            "he_elevation_ft": "496",
+            "he_heading_degT": "264",
+            "he_displaced_threshold_ft": "812"
+        },
+        {
+            "id": "244223",
+            "airport_ref": "18704",
+            "airport_ident": "K3I3",
+            "length_ft": "1978",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "39.5488",
+            "le_longitude_deg": "-87.379",
+            "le_elevation_ft": "493",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "50",
+            "he_ident": "36",
+            "he_latitude_deg": "39.5434",
+            "he_longitude_deg": "-87.3789",
+            "he_elevation_ft": "493",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": "289"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67647",
+            "airport_ref": "18704",
+            "airport_ident": "K3I3",
+            "type": "A/D",
+            "description": "HULMAN APP/DEP",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "67648",
+            "airport_ref": "18704",
+            "airport_ident": "K3I3",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

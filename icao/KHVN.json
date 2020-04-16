@@ -1,0 +1,166 @@
+{
+    "id": "3599",
+    "ident": "KHVN",
+    "type": "medium_airport",
+    "name": "Tweed New Haven Airport",
+    "latitude_deg": "41.26369858",
+    "longitude_deg": "-72.88680267",
+    "elevation_ft": "12",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "New Haven",
+    "scheduled_service": "yes",
+    "gps_code": "KHVN",
+    "iata_code": "HVN",
+    "local_code": "HVN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tweed_New_Haven_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246005",
+            "airport_ref": "3599",
+            "airport_ident": "KHVN",
+            "length_ft": "5600",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "41.2561",
+            "le_longitude_deg": "-72.8882",
+            "le_elevation_ft": "6",
+            "le_heading_degT": "3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "41.2714",
+            "he_longitude_deg": "-72.8872",
+            "he_elevation_ft": "9",
+            "he_heading_degT": "183",
+            "he_displaced_threshold_ft": "353"
+        },
+        {
+            "id": "246006",
+            "airport_ref": "3599",
+            "airport_ident": "KHVN",
+            "length_ft": "3626",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "41.2671",
+            "le_longitude_deg": "-72.8903",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "130",
+            "le_displaced_threshold_ft": "361",
+            "he_ident": "32",
+            "he_latitude_deg": "41.2605",
+            "he_longitude_deg": "-72.8804",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "310",
+            "he_displaced_threshold_ft": "300"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71525",
+            "airport_ref": "3599",
+            "airport_ident": "KHVN",
+            "type": "A/D",
+            "description": "NEW YORK APP/DEP",
+            "frequency_mhz": "124.075"
+        },
+        {
+            "id": "71526",
+            "airport_ref": "3599",
+            "airport_ident": "KHVN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "133.65"
+        },
+        {
+            "id": "71527",
+            "airport_ref": "3599",
+            "airport_ident": "KHVN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "71528",
+            "airport_ref": "3599",
+            "airport_ident": "KHVN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "71529",
+            "airport_ref": "3599",
+            "airport_ident": "KHVN",
+            "type": "RDO",
+            "description": "BRIDGEPORT RDO",
+            "frequency_mhz": "109.8"
+        },
+        {
+            "id": "71530",
+            "airport_ref": "3599",
+            "airport_ident": "KHVN",
+            "type": "TWR",
+            "description": "NEW HAVEN TWR",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "71531",
+            "airport_ref": "3599",
+            "airport_ident": "KHVN",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306082",
+        "code": "US-CT",
+        "local_code": "CT",
+        "name": "Connecticut",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Connecticut",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89060",
+            "filename": "New_Haven_VOR-DME_US",
+            "ident": "HVN",
+            "name": "New Haven",
+            "type": "VOR-DME",
+            "frequency_khz": "109800",
+            "latitude_deg": "41.262298583984375",
+            "longitude_deg": "-72.88520050048828",
+            "elevation_ft": "13",
+            "iso_country": "US",
+            "dme_frequency_khz": "109800",
+            "dme_channel": "035X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-13.001",
+            "magnetic_variation_deg": "-14.014",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KHVN"
+        }
+    ]
+}

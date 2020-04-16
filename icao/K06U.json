@@ -1,0 +1,80 @@
+{
+    "id": "18326",
+    "ident": "K06U",
+    "type": "small_airport",
+    "name": "Jackpot Airport/Hayden Field",
+    "latitude_deg": "41.97600173949999",
+    "longitude_deg": "-114.657997131",
+    "elevation_ft": "5213",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Jackpot",
+    "scheduled_service": "no",
+    "gps_code": "06U",
+    "iata_code": "KPT",
+    "local_code": "06U",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jackpot_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242175",
+            "airport_ref": "18326",
+            "airport_ident": "K06U",
+            "length_ft": "6200",
+            "width_ft": "60",
+            "surface": "ASPH-E",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "41.9839",
+            "le_longitude_deg": "-114.661",
+            "le_elevation_ft": "",
+            "le_heading_degT": "164.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "41.9678",
+            "he_longitude_deg": "-114.655",
+            "he_elevation_ft": "",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63367",
+            "airport_ref": "18326",
+            "airport_ident": "K06U",
+            "type": "RDO",
+            "description": "RENO RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "63368",
+            "airport_ref": "18326",
+            "airport_ident": "K06U",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306109",
+        "code": "US-NV",
+        "local_code": "NV",
+        "name": "Nevada",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
+        "keywords": ""
+    }
+}

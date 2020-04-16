@@ -1,0 +1,110 @@
+{
+    "id": "19908",
+    "ident": "KFWC",
+    "type": "small_airport",
+    "name": "Fairfield Municipal Airport",
+    "latitude_deg": "38.37860107421875",
+    "longitude_deg": "-88.4126968383789",
+    "elevation_ft": "436",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Fairfield",
+    "scheduled_service": "no",
+    "gps_code": "KFWC",
+    "iata_code": "",
+    "local_code": "FWC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243418",
+            "airport_ref": "19908",
+            "airport_ident": "KFWC",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "38.378",
+            "le_longitude_deg": "-88.4222",
+            "le_elevation_ft": "436",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "38.3779",
+            "he_longitude_deg": "-88.4082",
+            "he_elevation_ft": "413",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243419",
+            "airport_ref": "19908",
+            "airport_ident": "KFWC",
+            "length_ft": "1999",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.3827",
+            "le_longitude_deg": "-88.4075",
+            "le_elevation_ft": "417",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.3773",
+            "he_longitude_deg": "-88.4076",
+            "he_elevation_ft": "414",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65934",
+            "airport_ref": "19908",
+            "airport_ident": "KFWC",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.425"
+        },
+        {
+            "id": "65935",
+            "airport_ref": "19908",
+            "airport_ident": "KFWC",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "65936",
+            "airport_ref": "19908",
+            "airport_ident": "KFWC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

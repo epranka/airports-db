@@ -1,0 +1,166 @@
+{
+    "id": "35141",
+    "ident": "VOHS",
+    "type": "large_airport",
+    "name": "Rajiv Gandhi International Airport",
+    "latitude_deg": "17.2313175201",
+    "longitude_deg": "78.4298553467",
+    "elevation_ft": "2024",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-TG",
+    "municipality": "Hyderabad",
+    "scheduled_service": "yes",
+    "gps_code": "VOHS",
+    "iata_code": "HYD",
+    "local_code": "",
+    "home_link": "http://www.shamshabadairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rajiv_Gandhi_International_Airport",
+    "keywords": "Shamshabad, Hyderabad",
+    "runways": [
+        {
+            "id": "298675",
+            "airport_ref": "35141",
+            "airport_ident": "VOHS",
+            "length_ft": "12162",
+            "width_ft": "148",
+            "surface": "PAVED",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09L",
+            "le_latitude_deg": "17.2306",
+            "le_longitude_deg": "78.4123",
+            "le_elevation_ft": "1972",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "1026",
+            "he_ident": "27R",
+            "he_latitude_deg": "17.2312",
+            "he_longitude_deg": "78.4533",
+            "he_elevation_ft": "2028",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": "1120"
+        },
+        {
+            "id": "322333",
+            "airport_ref": "35141",
+            "airport_ident": "VOHS",
+            "length_ft": "13976",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09R",
+            "le_latitude_deg": "17.2286",
+            "le_longitude_deg": "78.4128",
+            "le_elevation_ft": "1969",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27L",
+            "he_latitude_deg": "17.2291",
+            "he_longitude_deg": "78.4529",
+            "he_elevation_ft": "2024",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "298676",
+            "airport_ref": "35141",
+            "airport_ident": "VOHS",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "120.25"
+        },
+        {
+            "id": "298677",
+            "airport_ref": "35141",
+            "airport_ident": "VOHS",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "125.55"
+        },
+        {
+            "id": "298678",
+            "airport_ref": "35141",
+            "airport_ident": "VOHS",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "126.47"
+        },
+        {
+            "id": "298680",
+            "airport_ref": "35141",
+            "airport_ident": "VOHS",
+            "type": "CONTROL-1",
+            "description": "",
+            "frequency_mhz": "120.95"
+        },
+        {
+            "id": "298681",
+            "airport_ref": "35141",
+            "airport_ident": "VOHS",
+            "type": "CONTROL-2",
+            "description": "",
+            "frequency_mhz": "128.35"
+        },
+        {
+            "id": "298682",
+            "airport_ref": "35141",
+            "airport_ident": "VOHS",
+            "type": "CONTROL-3",
+            "description": "",
+            "frequency_mhz": "129.7"
+        },
+        {
+            "id": "298679",
+            "airport_ref": "35141",
+            "airport_ident": "VOHS",
+            "type": "DELIVERY",
+            "description": "",
+            "frequency_mhz": "121.62"
+        },
+        {
+            "id": "298683",
+            "airport_ref": "35141",
+            "airport_ident": "VOHS",
+            "type": "GROUND",
+            "description": "",
+            "frequency_mhz": "121.62"
+        },
+        {
+            "id": "298684",
+            "airport_ref": "35141",
+            "airport_ident": "VOHS",
+            "type": "SMC",
+            "description": "",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "298685",
+            "airport_ref": "35141",
+            "airport_ident": "VOHS",
+            "type": "TOWER",
+            "description": "",
+            "frequency_mhz": "118.45"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "316678",
+        "code": "IN-TG",
+        "local_code": "TG",
+        "name": "Telangana",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Telangana",
+        "keywords": ""
+    }
+}

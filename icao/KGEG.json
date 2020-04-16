@@ -1,0 +1,174 @@
+{
+    "id": "3552",
+    "ident": "KGEG",
+    "type": "large_airport",
+    "name": "Spokane International Airport",
+    "latitude_deg": "47.61989974975586",
+    "longitude_deg": "-117.53399658203125",
+    "elevation_ft": "2376",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Spokane",
+    "scheduled_service": "yes",
+    "gps_code": "KGEG",
+    "iata_code": "GEG",
+    "local_code": "GEG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Spokane_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240665",
+            "airport_ref": "3552",
+            "airport_ident": "KGEG",
+            "length_ft": "11002",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "47.6139",
+            "le_longitude_deg": "-117.544",
+            "le_elevation_ft": "2385",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "47.6312",
+            "he_longitude_deg": "-117.518",
+            "he_elevation_ft": "2322",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240666",
+            "airport_ref": "3552",
+            "airport_ident": "KGEG",
+            "length_ft": "8198",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "47.617",
+            "le_longitude_deg": "-117.553",
+            "le_elevation_ft": "2376",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "47.6168",
+            "he_longitude_deg": "-117.52",
+            "he_elevation_ft": "2372",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60311",
+            "airport_ref": "3552",
+            "airport_ident": "KGEG",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "123.75"
+        },
+        {
+            "id": "60312",
+            "airport_ref": "3552",
+            "airport_ident": "KGEG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.325"
+        },
+        {
+            "id": "60313",
+            "airport_ref": "3552",
+            "airport_ident": "KGEG",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "127.55"
+        },
+        {
+            "id": "60314",
+            "airport_ref": "3552",
+            "airport_ident": "KGEG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "60315",
+            "airport_ref": "3552",
+            "airport_ident": "KGEG",
+            "type": "OPS",
+            "description": "ARNG",
+            "frequency_mhz": "38.75"
+        },
+        {
+            "id": "60316",
+            "airport_ref": "3552",
+            "airport_ident": "KGEG",
+            "type": "RDO",
+            "description": "SEATTLE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "60317",
+            "airport_ref": "3552",
+            "airport_ident": "KGEG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "60318",
+            "airport_ref": "3552",
+            "airport_ident": "KGEG",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88331",
+            "filename": "Phort_NDB_US",
+            "ident": "GE",
+            "name": "Phort",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "47.67689895629883",
+            "longitude_deg": "-117.44999694824219",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.281",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KGEG"
+        }
+    ]
+}

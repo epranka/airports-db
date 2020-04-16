@@ -1,0 +1,102 @@
+{
+    "id": "27037",
+    "ident": "YLRD",
+    "type": "medium_airport",
+    "name": "Lightning Ridge Airport",
+    "latitude_deg": "-29.45669937133789",
+    "longitude_deg": "147.98399353027344",
+    "elevation_ft": "540",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "YLRD",
+    "iata_code": "LHG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lightning_Ridge_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233542",
+            "airport_ref": "27037",
+            "airport_ident": "YLRD",
+            "length_ft": "2405",
+            "width_ft": "98",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "-29.4551",
+            "le_longitude_deg": "147.981",
+            "le_elevation_ft": "",
+            "le_heading_degT": "48",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "-29.4507",
+            "he_longitude_deg": "147.986",
+            "he_elevation_ft": "",
+            "he_heading_degT": "228",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "233543",
+            "airport_ref": "27037",
+            "airport_ident": "YLRD",
+            "length_ft": "4613",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-29.4506",
+            "le_longitude_deg": "147.97",
+            "le_elevation_ft": "540",
+            "le_heading_degT": "110",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "-29.4548",
+            "he_longitude_deg": "147.984",
+            "he_elevation_ft": "540",
+            "he_heading_degT": "290",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49199",
+            "airport_ref": "27037",
+            "airport_ident": "YLRD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49200",
+            "airport_ref": "27037",
+            "airport_ident": "YLRD",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "127.1"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    }
+}

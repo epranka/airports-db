@@ -1,0 +1,80 @@
+{
+    "id": "21365",
+    "ident": "KW95",
+    "type": "small_airport",
+    "name": "Ocracoke Island Airport",
+    "latitude_deg": "35.101200103759766",
+    "longitude_deg": "-75.96600341796875",
+    "elevation_ft": "5",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Ocracoke",
+    "scheduled_service": "no",
+    "gps_code": "KW95",
+    "iata_code": "",
+    "local_code": "W95",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239848",
+            "airport_ref": "21365",
+            "airport_ident": "KW95",
+            "length_ft": "2999",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "35.0985",
+            "le_longitude_deg": "-75.9698",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "50",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "35.1038",
+            "he_longitude_deg": "-75.9621",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "230",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59079",
+            "airport_ref": "21365",
+            "airport_ident": "KW95",
+            "type": "A/D",
+            "description": "CHERRY POINT APP/DEP",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "59080",
+            "airport_ref": "21365",
+            "airport_ident": "KW95",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

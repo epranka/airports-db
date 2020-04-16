@@ -1,0 +1,112 @@
+{
+    "id": "115",
+    "ident": "BGSF",
+    "type": "medium_airport",
+    "name": "Kangerlussuaq Airport",
+    "latitude_deg": "67.0122218992",
+    "longitude_deg": "-50.7116031647",
+    "elevation_ft": "165",
+    "continent": "NA",
+    "iso_country": "GL",
+    "iso_region": "GL-U-A",
+    "municipality": "Kangerlussuaq",
+    "scheduled_service": "yes",
+    "gps_code": "BGSF",
+    "iata_code": "SFJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kangerlussuaq_Airport",
+    "keywords": "Sondre Stromfjord",
+    "runways": [
+        {
+            "id": "236105",
+            "airport_ref": "115",
+            "airport_ident": "BGSF",
+            "length_ft": "9219",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "67.0056",
+            "le_longitude_deg": "-50.7431",
+            "le_elevation_ft": "100",
+            "le_heading_degT": "61.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "67.0176",
+            "he_longitude_deg": "-50.6864",
+            "he_elevation_ft": "165",
+            "he_heading_degT": "241.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52699",
+            "airport_ref": "115",
+            "airport_ident": "BGSF",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "52700",
+            "airport_ref": "115",
+            "airport_ident": "BGSF",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "52701",
+            "airport_ref": "115",
+            "airport_ident": "BGSF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302736",
+        "code": "GL",
+        "name": "Greenland",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greenland",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303853",
+        "code": "GL-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "GL",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93511",
+            "filename": "Sondre_Stromfjord_NDB_GL",
+            "ident": "SF",
+            "name": "Sondre Stromfjord",
+            "type": "NDB",
+            "frequency_khz": "382",
+            "latitude_deg": "66.96749877929688",
+            "longitude_deg": "-50.94169998168945",
+            "elevation_ft": "",
+            "iso_country": "GL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-34.119",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "BGSF"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "18631",
+    "ident": "K2W5",
+    "type": "small_airport",
+    "name": "Maryland Airport",
+    "latitude_deg": "38.60049819946289",
+    "longitude_deg": "-77.072998046875",
+    "elevation_ft": "170",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Indian Head",
+    "scheduled_service": "no",
+    "gps_code": "K2W5",
+    "iata_code": "",
+    "local_code": "2W5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244708",
+            "airport_ref": "18631",
+            "airport_ident": "K2W5",
+            "length_ft": "1860",
+            "width_ft": "100",
+            "surface": "TURF-F",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "38.599",
+            "le_longitude_deg": "-77.0731",
+            "le_elevation_ft": "",
+            "le_heading_degT": "8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "38.6041",
+            "he_longitude_deg": "-77.0722",
+            "he_elevation_ft": "",
+            "he_heading_degT": "188",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244709",
+            "airport_ref": "18631",
+            "airport_ident": "K2W5",
+            "length_ft": "3000",
+            "width_ft": "50",
+            "surface": "ASPH-F",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.6039",
+            "le_longitude_deg": "-77.0743",
+            "le_elevation_ft": "170",
+            "le_heading_degT": "167",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.5959",
+            "he_longitude_deg": "-77.072",
+            "he_elevation_ft": "156",
+            "he_heading_degT": "347",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68682",
+            "airport_ref": "18631",
+            "airport_ident": "K2W5",
+            "type": "A/D",
+            "description": "POTOMAC APP DEP",
+            "frequency_mhz": "119.85"
+        },
+        {
+            "id": "68683",
+            "airport_ref": "18631",
+            "airport_ident": "K2W5",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306096",
+        "code": "US-MD",
+        "local_code": "MD",
+        "name": "Maryland",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
+        "keywords": ""
+    }
+}

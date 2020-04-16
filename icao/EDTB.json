@@ -1,0 +1,110 @@
+{
+    "id": "2272",
+    "ident": "EDTB",
+    "type": "small_airport",
+    "name": "Baden-Oos Airport",
+    "latitude_deg": "48.7919425964",
+    "longitude_deg": "8.18583297729",
+    "elevation_ft": "404",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Baden-Baden",
+    "scheduled_service": "no",
+    "gps_code": "EDTB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.flugplatz-baden-oos.com/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236285",
+            "airport_ref": "2272",
+            "airport_ident": "EDTB",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "U",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "03R",
+            "le_latitude_deg": "48.7869",
+            "le_longitude_deg": "8.18241",
+            "le_elevation_ft": "",
+            "le_heading_degT": "35.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21L",
+            "he_latitude_deg": "48.7957",
+            "he_longitude_deg": "8.19187",
+            "he_elevation_ft": "",
+            "he_heading_degT": "215.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "236286",
+            "airport_ref": "2272",
+            "airport_ident": "EDTB",
+            "length_ft": "2592",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "48.7912",
+            "le_longitude_deg": "8.18603",
+            "le_elevation_ft": "405",
+            "le_heading_degT": "35",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "48.797",
+            "he_longitude_deg": "8.19221",
+            "he_elevation_ft": "405",
+            "he_heading_degT": "215",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53191",
+            "airport_ref": "2272",
+            "airport_ident": "EDTB",
+            "type": "AFIS",
+            "description": "LANGEN INFO",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "53192",
+            "airport_ref": "2272",
+            "airport_ident": "EDTB",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "53193",
+            "airport_ref": "2272",
+            "airport_ident": "EDTB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.875"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
+    }
+}

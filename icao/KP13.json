@@ -1,0 +1,88 @@
+{
+    "id": "20796",
+    "ident": "KP13",
+    "type": "small_airport",
+    "name": "San Carlos Apache Airport",
+    "latitude_deg": "33.353099823",
+    "longitude_deg": "-110.666999817",
+    "elevation_ft": "3261",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Globe",
+    "scheduled_service": "no",
+    "gps_code": "P13",
+    "iata_code": "GLB",
+    "local_code": "P13",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/San_Carlos_Apache_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241713",
+            "airport_ref": "20796",
+            "airport_ident": "KP13",
+            "length_ft": "6500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "33.355",
+            "le_longitude_deg": "-110.678",
+            "le_elevation_ft": "3261",
+            "le_heading_degT": "101.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "33.3513",
+            "he_longitude_deg": "-110.657",
+            "he_elevation_ft": "3181",
+            "he_heading_degT": "281.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62421",
+            "airport_ref": "20796",
+            "airport_ident": "KP13",
+            "type": "CNTR",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "125.4"
+        },
+        {
+            "id": "62422",
+            "airport_ref": "20796",
+            "airport_ident": "KP13",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "62423",
+            "airport_ref": "20796",
+            "airport_ident": "KP13",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

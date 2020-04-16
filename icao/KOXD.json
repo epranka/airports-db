@@ -1,0 +1,80 @@
+{
+    "id": "20783",
+    "ident": "KOXD",
+    "type": "small_airport",
+    "name": "Miami University Airport",
+    "latitude_deg": "39.50230026",
+    "longitude_deg": "-84.78440094",
+    "elevation_ft": "1041",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Oxford",
+    "scheduled_service": "no",
+    "gps_code": "KOXD",
+    "iata_code": "OXD",
+    "local_code": "OXD",
+    "home_link": "http://www.units.miamioh.edu/businessservices/Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Miami_University_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239953",
+            "airport_ref": "20783",
+            "airport_ident": "KOXD",
+            "length_ft": "4011",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "39.4984",
+            "le_longitude_deg": "-84.7895",
+            "le_elevation_ft": "1041",
+            "le_heading_degT": "46",
+            "le_displaced_threshold_ft": "270",
+            "he_ident": "23",
+            "he_latitude_deg": "39.5061",
+            "he_longitude_deg": "-84.7793",
+            "he_elevation_ft": "1034",
+            "he_heading_degT": "226",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59233",
+            "airport_ref": "20783",
+            "airport_ident": "KOXD",
+            "type": "A/D",
+            "description": "CINCINNATI APP/DEP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "59234",
+            "airport_ref": "20783",
+            "airport_ident": "KOXD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

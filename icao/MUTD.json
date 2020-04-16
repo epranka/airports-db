@@ -1,0 +1,104 @@
+{
+    "id": "4858",
+    "ident": "MUTD",
+    "type": "medium_airport",
+    "name": "Alberto Delgado Airport",
+    "latitude_deg": "21.788299560546875",
+    "longitude_deg": "-79.99720001220703",
+    "elevation_ft": "125",
+    "continent": "NA",
+    "iso_country": "CU",
+    "iso_region": "CU-07",
+    "municipality": "Trinidad",
+    "scheduled_service": "yes",
+    "gps_code": "MUTD",
+    "iata_code": "TND",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235426",
+            "airport_ref": "4858",
+            "airport_ident": "MUTD",
+            "length_ft": "5909",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "21.7836",
+            "le_longitude_deg": "-80.0042",
+            "le_elevation_ft": "59",
+            "le_heading_degT": "52",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "21.7933",
+            "he_longitude_deg": "-79.9902",
+            "he_elevation_ft": "98",
+            "he_heading_degT": "232",
+            "he_displaced_threshold_ft": "984"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51671",
+            "airport_ref": "4858",
+            "airport_ident": "MUTD",
+            "type": "A/G",
+            "description": "TRINIDAD RDO",
+            "frequency_mhz": "340.7"
+        },
+        {
+            "id": "51672",
+            "airport_ref": "4858",
+            "airport_ident": "MUTD",
+            "type": "TWR",
+            "description": "TRINIDAD TWR",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302732",
+        "code": "CU",
+        "name": "Cuba",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuba",
+        "keywords": "Aeropuertos de Cuba"
+    },
+    "region": {
+        "id": "303505",
+        "code": "CU-07",
+        "local_code": "07",
+        "name": "Sancti Spíritus",
+        "continent": "NA",
+        "iso_country": "CU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sancti_Spíritus",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94973",
+            "filename": "Trinidad_NDB_CU",
+            "ident": "UTD",
+            "name": "Trinidad",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "21.790599822998047",
+            "longitude_deg": "-79.99120330810547",
+            "elevation_ft": "",
+            "iso_country": "CU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.541",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "MUTD"
+        }
+    ]
+}

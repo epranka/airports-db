@@ -1,0 +1,80 @@
+{
+    "id": "18572",
+    "ident": "K2C8",
+    "type": "small_airport",
+    "name": "Cavalier Municipal Airport",
+    "latitude_deg": "48.78379821777344",
+    "longitude_deg": "-97.63189697265625",
+    "elevation_ft": "892",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Cavalier",
+    "scheduled_service": "no",
+    "gps_code": "K2C8",
+    "iata_code": "",
+    "local_code": "2C8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243960",
+            "airport_ref": "18572",
+            "airport_ident": "K2C8",
+            "length_ft": "3299",
+            "width_ft": "60",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "48.7882",
+            "le_longitude_deg": "-97.6336",
+            "le_elevation_ft": "892",
+            "le_heading_degT": "166",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "48.7795",
+            "he_longitude_deg": "-97.6302",
+            "he_elevation_ft": "891",
+            "he_heading_degT": "346",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67107",
+            "airport_ref": "18572",
+            "airport_ident": "K2C8",
+            "type": "RCO",
+            "description": "DEVILS LAKE",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "67108",
+            "airport_ref": "18572",
+            "airport_ident": "K2C8",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306104",
+        "code": "US-ND",
+        "local_code": "ND",
+        "name": "North Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
+        "keywords": ""
+    }
+}

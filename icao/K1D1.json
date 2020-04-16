@@ -1,0 +1,102 @@
+{
+    "id": "18458",
+    "ident": "K1D1",
+    "type": "small_airport",
+    "name": "Milbank Municipal Airport",
+    "latitude_deg": "45.23049927",
+    "longitude_deg": "-96.56600189",
+    "elevation_ft": "1118",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Milbank",
+    "scheduled_service": "no",
+    "gps_code": "K1D1",
+    "iata_code": "",
+    "local_code": "1D1",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241165",
+            "airport_ref": "18458",
+            "airport_ident": "K1D1",
+            "length_ft": "3607",
+            "width_ft": "150",
+            "surface": "TURF-F",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "45.2273",
+            "le_longitude_deg": "-96.5739",
+            "le_elevation_ft": "1112",
+            "le_heading_degT": "72",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "45.2304",
+            "he_longitude_deg": "-96.5606",
+            "he_elevation_ft": "1113",
+            "he_heading_degT": "252",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241166",
+            "airport_ref": "18458",
+            "airport_ident": "K1D1",
+            "length_ft": "4000",
+            "width_ft": "60",
+            "surface": "CONC-E",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "45.236",
+            "le_longitude_deg": "-96.5702",
+            "le_elevation_ft": "1114",
+            "le_heading_degT": "137",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "45.228",
+            "he_longitude_deg": "-96.5597",
+            "he_elevation_ft": "1115",
+            "he_heading_degT": "317",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61283",
+            "airport_ref": "18458",
+            "airport_ident": "K1D1",
+            "type": "CNTR",
+            "description": "MINNEAPLOLI CNTR",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "61284",
+            "airport_ref": "18458",
+            "airport_ident": "K1D1",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306117",
+        "code": "US-SD",
+        "local_code": "SD",
+        "name": "South Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
+        "keywords": ""
+    }
+}

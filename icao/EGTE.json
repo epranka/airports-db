@@ -1,0 +1,118 @@
+{
+    "id": "2481",
+    "ident": "EGTE",
+    "type": "large_airport",
+    "name": "Exeter International Airport",
+    "latitude_deg": "50.73440170288086",
+    "longitude_deg": "-3.4138898849487305",
+    "elevation_ft": "102",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Exeter",
+    "scheduled_service": "yes",
+    "gps_code": "EGTE",
+    "iata_code": "EXT",
+    "local_code": "",
+    "home_link": "http://www.exeter-airport.co.uk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Exeter_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239400",
+            "airport_ref": "2481",
+            "airport_ident": "EGTE",
+            "length_ft": "6834",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "50.732",
+            "le_longitude_deg": "-3.42814",
+            "le_elevation_ft": "99",
+            "le_heading_degT": "76",
+            "le_displaced_threshold_ft": "33",
+            "he_ident": "26",
+            "he_latitude_deg": "50.7365",
+            "he_longitude_deg": "-3.3995",
+            "he_elevation_ft": "102",
+            "he_heading_degT": "256",
+            "he_displaced_threshold_ft": "117"
+        },
+        {
+            "id": "239401",
+            "airport_ref": "2481",
+            "airport_ident": "EGTE",
+            "length_ft": "4393",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "13",
+            "le_latitude_deg": "50.7385",
+            "le_longitude_deg": "-3.42704",
+            "le_elevation_ft": "76",
+            "le_heading_degT": "120",
+            "le_displaced_threshold_ft": "446",
+            "he_ident": "31",
+            "he_latitude_deg": "50.7325",
+            "he_longitude_deg": "-3.41061",
+            "he_elevation_ft": "98",
+            "he_heading_degT": "300",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58112",
+            "airport_ref": "2481",
+            "airport_ident": "EGTE",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "128.975"
+        },
+        {
+            "id": "58113",
+            "airport_ref": "2481",
+            "airport_ident": "EGTE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.325"
+        },
+        {
+            "id": "313586",
+            "airport_ref": "2481",
+            "airport_ident": "EGTE",
+            "type": "Radar",
+            "description": "EXETER Radar",
+            "frequency_mhz": "123.57"
+        },
+        {
+            "id": "58114",
+            "airport_ref": "2481",
+            "airport_ident": "EGTE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.8"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

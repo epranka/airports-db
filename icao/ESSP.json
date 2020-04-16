@@ -1,0 +1,102 @@
+{
+    "id": "2707",
+    "ident": "ESSP",
+    "type": "medium_airport",
+    "name": "Norrköping Airport",
+    "latitude_deg": "58.586299896240234",
+    "longitude_deg": "16.250600814819336",
+    "elevation_ft": "32",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-E",
+    "municipality": "Norrköping",
+    "scheduled_service": "yes",
+    "gps_code": "ESSP",
+    "iata_code": "NRK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Norrk%C3%B6ping_Airport",
+    "keywords": "Kungsangen",
+    "runways": [
+        {
+            "id": "238982",
+            "airport_ref": "2707",
+            "airport_ident": "ESSP",
+            "length_ft": "7228",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "58.5861",
+            "le_longitude_deg": "16.2317",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "90.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "58.5858",
+            "he_longitude_deg": "16.2696",
+            "he_elevation_ft": "32",
+            "he_heading_degT": "270.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "238983",
+            "airport_ref": "2707",
+            "airport_ident": "ESSP",
+            "length_ft": "1948",
+            "width_ft": "115",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "58.5902",
+            "le_longitude_deg": "16.236",
+            "le_elevation_ft": "7",
+            "le_heading_degT": "115",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "58.5879",
+            "he_longitude_deg": "16.2452",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "295",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57395",
+            "airport_ref": "2707",
+            "airport_ident": "ESSP",
+            "type": "APP",
+            "description": "OSTGOTA APP",
+            "frequency_mhz": "133.35"
+        },
+        {
+            "id": "57396",
+            "airport_ref": "2707",
+            "airport_ident": "ESSP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.35"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305416",
+        "code": "SE-E",
+        "local_code": "E",
+        "name": "Östergötlands län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Östergötlands_län",
+        "keywords": "Östergötland County"
+    }
+}

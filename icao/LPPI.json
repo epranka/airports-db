@@ -1,0 +1,96 @@
+{
+    "id": "4457",
+    "ident": "LPPI",
+    "type": "medium_airport",
+    "name": "Pico Airport",
+    "latitude_deg": "38.554298",
+    "longitude_deg": "-28.441299",
+    "elevation_ft": "109",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-20",
+    "municipality": "Pico Island",
+    "scheduled_service": "yes",
+    "gps_code": "LPPI",
+    "iata_code": "PIX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pico_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238331",
+            "airport_ref": "4457",
+            "airport_ident": "LPPI",
+            "length_ft": "5725",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "38.5518",
+            "le_longitude_deg": "-28.4527",
+            "le_elevation_ft": "110",
+            "le_heading_degT": "83",
+            "le_displaced_threshold_ft": "246",
+            "he_ident": "27",
+            "he_latitude_deg": "38.5539",
+            "he_longitude_deg": "-28.4329",
+            "he_elevation_ft": "104",
+            "he_heading_degT": "263",
+            "he_displaced_threshold_ft": "197"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56302",
+            "airport_ref": "4457",
+            "airport_ident": "LPPI",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302711",
+        "code": "PT",
+        "name": "Portugal",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
+        "keywords": "Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "305185",
+        "code": "PT-20",
+        "local_code": "20",
+        "name": "Autonomous Region of Azores",
+        "continent": "EU",
+        "iso_country": "PT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Region_of_Azores",
+        "keywords": "Região Autónoma dos Açores"
+    },
+    "navaids": [
+        {
+            "id": "92427",
+            "filename": "Pico_NDB_PT",
+            "ident": "PI",
+            "name": "Pico",
+            "type": "NDB",
+            "frequency_khz": "420",
+            "latitude_deg": "38.55820083618164",
+            "longitude_deg": "-28.403200149536133",
+            "elevation_ft": "",
+            "iso_country": "PT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.157",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LPPI"
+        }
+    ]
+}

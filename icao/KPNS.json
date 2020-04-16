@@ -1,0 +1,174 @@
+{
+    "id": "3783",
+    "ident": "KPNS",
+    "type": "medium_airport",
+    "name": "Pensacola International Airport",
+    "latitude_deg": "30.4734",
+    "longitude_deg": "-87.1866",
+    "elevation_ft": "121",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Pensacola",
+    "scheduled_service": "yes",
+    "gps_code": "KPNS",
+    "iata_code": "PNS",
+    "local_code": "PNS",
+    "home_link": "http://www.flypensacola.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pensacola_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242026",
+            "airport_ref": "3783",
+            "airport_ident": "KPNS",
+            "length_ft": "7000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "30.4713",
+            "le_longitude_deg": "-87.1959",
+            "le_elevation_ft": "97",
+            "le_heading_degT": "78",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "30.4753",
+            "he_longitude_deg": "-87.1742",
+            "he_elevation_ft": "114",
+            "he_heading_degT": "258",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242027",
+            "airport_ref": "3783",
+            "airport_ident": "KPNS",
+            "length_ft": "7004",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "30.4829",
+            "le_longitude_deg": "-87.1907",
+            "le_elevation_ft": "121",
+            "le_heading_degT": "167",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "30.4641",
+            "he_longitude_deg": "-87.1857",
+            "he_elevation_ft": "103",
+            "he_heading_degT": "347",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63049",
+            "airport_ref": "3783",
+            "airport_ident": "KPNS",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "63050",
+            "airport_ref": "3783",
+            "airport_ident": "KPNS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "121.25"
+        },
+        {
+            "id": "63051",
+            "airport_ref": "3783",
+            "airport_ident": "KPNS",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "123.725"
+        },
+        {
+            "id": "63052",
+            "airport_ref": "3783",
+            "airport_ident": "KPNS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "63053",
+            "airport_ref": "3783",
+            "airport_ident": "KPNS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "63054",
+            "airport_ref": "3783",
+            "airport_ident": "KPNS",
+            "type": "RDO",
+            "description": "GAINESVILLE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "63055",
+            "airport_ref": "3783",
+            "airport_ident": "KPNS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "63056",
+            "airport_ref": "3783",
+            "airport_ident": "KPNS",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92500",
+            "filename": "Pickens_NDB_US",
+            "ident": "PKZ",
+            "name": "Pickens",
+            "type": "NDB",
+            "frequency_khz": "326",
+            "latitude_deg": "30.43709945678711",
+            "longitude_deg": "-87.17839813232422",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.316",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KPNS"
+        }
+    ]
+}

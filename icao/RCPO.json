@@ -1,0 +1,112 @@
+{
+    "id": "5523",
+    "ident": "RCPO",
+    "type": "medium_airport",
+    "name": "Hsinchu Air Base",
+    "latitude_deg": "24.8180007935",
+    "longitude_deg": "120.939002991",
+    "elevation_ft": "26",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-HSZ",
+    "municipality": "Hsinchu City",
+    "scheduled_service": "no",
+    "gps_code": "RCPO",
+    "iata_code": "HSZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hsinchu_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239335",
+            "airport_ref": "5523",
+            "airport_ident": "RCPO",
+            "length_ft": "11955",
+            "width_ft": "148",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "24.8064",
+            "le_longitude_deg": "120.927",
+            "le_elevation_ft": "17",
+            "le_heading_degT": "44.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "24.8297",
+            "he_longitude_deg": "120.952",
+            "he_elevation_ft": "26",
+            "he_heading_degT": "224.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58044",
+            "airport_ref": "5523",
+            "airport_ident": "RCPO",
+            "type": "APP",
+            "description": "TAIPEI APP",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "58045",
+            "airport_ref": "5523",
+            "airport_ident": "RCPO",
+            "type": "CNTR",
+            "description": "TAIPEI RADAR",
+            "frequency_mhz": "126.18"
+        },
+        {
+            "id": "58046",
+            "airport_ref": "5523",
+            "airport_ident": "RCPO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306751",
+        "code": "TW-HSZ",
+        "local_code": "HSZ",
+        "name": "Hsinchu (city)",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hsinchu",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89017",
+            "filename": "Hsinchu_TACAN_TW",
+            "ident": "HSU",
+            "name": "Hsinchu",
+            "type": "TACAN",
+            "frequency_khz": "116300",
+            "latitude_deg": "24.821699142456055",
+            "longitude_deg": "120.93800354003906",
+            "elevation_ft": "25",
+            "iso_country": "TW",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.011",
+            "magnetic_variation_deg": "-3.357",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RCPO"
+        }
+    ]
+}

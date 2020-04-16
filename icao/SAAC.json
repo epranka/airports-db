@@ -1,0 +1,104 @@
+{
+    "id": "5764",
+    "ident": "SAAC",
+    "type": "medium_airport",
+    "name": "Comodoro Pierrestegui Airport",
+    "latitude_deg": "-31.2969",
+    "longitude_deg": "-57.9966",
+    "elevation_ft": "112",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-E",
+    "municipality": "Concordia",
+    "scheduled_service": "no",
+    "gps_code": "SAAC",
+    "iata_code": "COC",
+    "local_code": "DIA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Comodoro_Pierrestegui_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232946",
+            "airport_ref": "5764",
+            "airport_ident": "SAAC",
+            "length_ft": "5249",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "4",
+            "le_latitude_deg": "-31.3033",
+            "le_longitude_deg": "-58.0006",
+            "le_elevation_ft": "112",
+            "le_heading_degT": "28",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "-31.2905",
+            "he_longitude_deg": "-57.9927",
+            "he_elevation_ft": "82",
+            "he_heading_degT": "208",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48368",
+            "airport_ref": "5764",
+            "airport_ident": "SAAC",
+            "type": "AUX",
+            "description": "AUX",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "48369",
+            "airport_ref": "5764",
+            "airport_ident": "SAAC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302936",
+        "code": "AR-E",
+        "local_code": "E",
+        "name": "Entre Ríos Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Entre_R%C3%ADos_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87375",
+            "filename": "Concordia_NDB_AR",
+            "ident": "DIA",
+            "name": "Concordia",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "-31.301700592041016",
+            "longitude_deg": "-58.00419998168945",
+            "elevation_ft": "115",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.069",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SAAC"
+        }
+    ]
+}

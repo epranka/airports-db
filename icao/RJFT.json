@@ -1,0 +1,182 @@
+{
+    "id": "5572",
+    "ident": "RJFT",
+    "type": "medium_airport",
+    "name": "Kumamoto Airport",
+    "latitude_deg": "32.83729934692383",
+    "longitude_deg": "130.85499572753906",
+    "elevation_ft": "642",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-43",
+    "municipality": "Kumamoto",
+    "scheduled_service": "yes",
+    "gps_code": "RJFT",
+    "iata_code": "KMJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kumamoto_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237230",
+            "airport_ref": "5572",
+            "airport_ident": "RJFT",
+            "length_ft": "9840",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "32.8315",
+            "le_longitude_deg": "130.841",
+            "le_elevation_ft": "601",
+            "le_heading_degT": "64.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "32.8431",
+            "he_longitude_deg": "130.87",
+            "he_elevation_ft": "642",
+            "he_heading_degT": "244.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54772",
+            "airport_ref": "5572",
+            "airport_ident": "RJFT",
+            "type": "APP",
+            "description": "FUKUOKA CON",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "54771",
+            "airport_ref": "5572",
+            "airport_ident": "RJFT",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "54773",
+            "airport_ref": "5572",
+            "airport_ident": "RJFT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.8"
+        },
+        {
+            "id": "54774",
+            "airport_ref": "5572",
+            "airport_ident": "RJFT",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "54775",
+            "airport_ref": "5572",
+            "airport_ident": "RJFT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "54776",
+            "airport_ref": "5572",
+            "airport_ident": "RJFT",
+            "type": "RCO",
+            "description": "KAGOSHIMA FSC",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "54777",
+            "airport_ref": "5572",
+            "airport_ident": "RJFT",
+            "type": "RDR",
+            "description": "RAD",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "54778",
+            "airport_ref": "5572",
+            "airport_ident": "RJFT",
+            "type": "TCA",
+            "description": "TCA",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "54779",
+            "airport_ref": "5572",
+            "airport_ident": "RJFT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304328",
+        "code": "JP-43",
+        "local_code": "43",
+        "name": "Kumamoto Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kumamoto",
+        "keywords": "Kyushu and Okinawa"
+    },
+    "navaids": [
+        {
+            "id": "90049",
+            "filename": "Kumamoto_NDB_JP",
+            "ident": "KU",
+            "name": "Kumamoto",
+            "type": "NDB",
+            "frequency_khz": "249",
+            "latitude_deg": "32.80550003051758",
+            "longitude_deg": "130.76800537109375",
+            "elevation_ft": "",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.319",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RJFT"
+        },
+        {
+            "id": "90057",
+            "filename": "Kumamoto_VOR-DME_JP",
+            "ident": "KUE",
+            "name": "Kumamoto",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "32.834800720214844",
+            "longitude_deg": "130.8419952392578",
+            "elevation_ft": "651",
+            "iso_country": "JP",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.011",
+            "magnetic_variation_deg": "-6.325",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJFT"
+        }
+    ]
+}

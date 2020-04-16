@@ -1,0 +1,120 @@
+{
+    "id": "4532",
+    "ident": "LTBI",
+    "type": "medium_airport",
+    "name": "Eskişehir Air Base",
+    "latitude_deg": "39.7840995789",
+    "longitude_deg": "30.582099914599997",
+    "elevation_ft": "2581",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-26",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LTBI",
+    "iata_code": "ESK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Eski%C5%9Fehir_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239242",
+            "airport_ref": "4532",
+            "airport_ident": "LTBI",
+            "length_ft": "10006",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "39.7841",
+            "le_longitude_deg": "30.5641",
+            "le_elevation_ft": "2581",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "39.7843",
+            "he_longitude_deg": "30.5997",
+            "he_elevation_ft": "2570",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57844",
+            "airport_ref": "4532",
+            "airport_ident": "LTBI",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "57845",
+            "airport_ref": "4532",
+            "airport_ident": "LTBI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "122.425"
+        },
+        {
+            "id": "57846",
+            "airport_ref": "4532",
+            "airport_ident": "LTBI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "57847",
+            "airport_ref": "4532",
+            "airport_ident": "LTBI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305861",
+        "code": "TR-26",
+        "local_code": "26",
+        "name": "Eskişehir Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eskişehir_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87831",
+            "filename": "Eskisehir_TACAN_TR",
+            "ident": "ESK",
+            "name": "Eskisehir",
+            "type": "TACAN",
+            "frequency_khz": "114400",
+            "latitude_deg": "39.78369903564453",
+            "longitude_deg": "30.606300354003906",
+            "elevation_ft": "2599",
+            "iso_country": "TR",
+            "dme_frequency_khz": "114400",
+            "dme_channel": "091X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.172",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTBI"
+        }
+    ]
+}

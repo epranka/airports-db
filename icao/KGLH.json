@@ -1,0 +1,134 @@
+{
+    "id": "19958",
+    "ident": "KGLH",
+    "type": "medium_airport",
+    "name": "Mid Delta Regional Airport",
+    "latitude_deg": "33.4828987121582",
+    "longitude_deg": "-90.98560333251953",
+    "elevation_ft": "131",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Greenville",
+    "scheduled_service": "yes",
+    "gps_code": "KGLH",
+    "iata_code": "GLH",
+    "local_code": "GLH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244733",
+            "airport_ref": "19958",
+            "airport_ident": "KGLH",
+            "length_ft": "8001",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18L",
+            "le_latitude_deg": "33.4969",
+            "le_longitude_deg": "-90.9821",
+            "le_elevation_ft": "129",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36R",
+            "he_latitude_deg": "33.4749",
+            "he_longitude_deg": "-90.9821",
+            "he_elevation_ft": "129",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244732",
+            "airport_ref": "19958",
+            "airport_ident": "KGLH",
+            "length_ft": "7019",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18R",
+            "le_latitude_deg": "33.4942",
+            "le_longitude_deg": "-90.9872",
+            "le_elevation_ft": "128",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36L",
+            "he_latitude_deg": "33.4749",
+            "he_longitude_deg": "-90.9872",
+            "he_elevation_ft": "130",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68737",
+            "airport_ref": "19958",
+            "airport_ident": "KGLH",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "125.525"
+        },
+        {
+            "id": "68738",
+            "airport_ref": "19958",
+            "airport_ident": "KGLH",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "135.875"
+        },
+        {
+            "id": "68739",
+            "airport_ref": "19958",
+            "airport_ident": "KGLH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "68740",
+            "airport_ref": "19958",
+            "airport_ident": "KGLH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "68741",
+            "airport_ref": "19958",
+            "airport_ident": "KGLH",
+            "type": "TWR",
+            "description": "GREENVILLE TWR",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "68742",
+            "airport_ref": "19958",
+            "airport_ident": "KGLH",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    }
+}

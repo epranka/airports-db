@@ -1,0 +1,88 @@
+{
+    "id": "27535",
+    "ident": "YDVR",
+    "type": "small_airport",
+    "name": "Docker River Airport",
+    "latitude_deg": "-24.860000610351562",
+    "longitude_deg": "129.07000732421875",
+    "elevation_ft": "589",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YDVR",
+    "iata_code": "DKV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258564",
+            "airport_ref": "27535",
+            "airport_ident": "YDVR",
+            "length_ft": "4406",
+            "width_ft": "",
+            "surface": "C",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72848",
+            "airport_ref": "27535",
+            "airport_ident": "YDVR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "72850",
+            "airport_ref": "27535",
+            "airport_ident": "YDVR",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "72849",
+            "airport_ref": "27535",
+            "airport_ident": "YDVR",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.3"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

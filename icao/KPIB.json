@@ -1,0 +1,88 @@
+{
+    "id": "3774",
+    "ident": "KPIB",
+    "type": "medium_airport",
+    "name": "Hattiesburg Laurel Regional Airport",
+    "latitude_deg": "31.467100143432617",
+    "longitude_deg": "-89.33709716796875",
+    "elevation_ft": "298",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Hattiesburg/Laurel",
+    "scheduled_service": "yes",
+    "gps_code": "KPIB",
+    "iata_code": "PIB",
+    "local_code": "PIB",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hattiesburg-Laurel_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245306",
+            "airport_ref": "3774",
+            "airport_ident": "KPIB",
+            "length_ft": "6501",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "31.4761",
+            "le_longitude_deg": "-89.3371",
+            "le_elevation_ft": "298",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "31.4582",
+            "he_longitude_deg": "-89.337",
+            "he_elevation_ft": "294",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70014",
+            "airport_ref": "3774",
+            "airport_ident": "KPIB",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "128.325"
+        },
+        {
+            "id": "70015",
+            "airport_ref": "3774",
+            "airport_ident": "KPIB",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "70016",
+            "airport_ref": "3774",
+            "airport_ident": "KPIB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    }
+}

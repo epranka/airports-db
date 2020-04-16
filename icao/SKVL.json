@@ -1,0 +1,80 @@
+{
+    "id": "6175",
+    "ident": "SKVL",
+    "type": "small_airport",
+    "name": "Velásquez Airport",
+    "latitude_deg": "5.93904",
+    "longitude_deg": "-74.457",
+    "elevation_ft": "566",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-BOY",
+    "municipality": "Puerto Boyacá",
+    "scheduled_service": "no",
+    "gps_code": "SKVL",
+    "iata_code": "PYA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235358",
+            "airport_ref": "6175",
+            "airport_ident": "SKVL",
+            "length_ft": "5520",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "5.94566",
+            "le_longitude_deg": "-74.4607",
+            "le_elevation_ft": "482",
+            "le_heading_degT": "150.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "5.93243",
+            "he_longitude_deg": "-74.4532",
+            "he_elevation_ft": "566",
+            "he_heading_degT": "330.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51557",
+            "airport_ref": "6175",
+            "airport_ident": "SKVL",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51558",
+            "airport_ref": "6175",
+            "airport_ident": "SKVL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119"
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303462",
+        "code": "CO-BOY",
+        "local_code": "BOY",
+        "name": "Boyacá Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Boyacá_Department",
+        "keywords": ""
+    }
+}

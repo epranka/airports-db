@@ -1,0 +1,120 @@
+{
+    "id": "2317",
+    "ident": "EFKA",
+    "type": "medium_airport",
+    "name": "Kauhava Airport",
+    "latitude_deg": "63.127102",
+    "longitude_deg": "23.051399",
+    "elevation_ft": "151",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-LS",
+    "municipality": "Kauhava",
+    "scheduled_service": "no",
+    "gps_code": "EFKA",
+    "iata_code": "KAU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kauhava_Airfield",
+    "keywords": "Kauhava Air Base",
+    "runways": [
+        {
+            "id": "235712",
+            "airport_ref": "2317",
+            "airport_ident": "EFKA",
+            "length_ft": "8858",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "63.1392",
+            "le_longitude_deg": "23.05",
+            "le_elevation_ft": "151",
+            "le_heading_degT": "177",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "63.115",
+            "he_longitude_deg": "23.0529",
+            "he_elevation_ft": "132",
+            "he_heading_degT": "357",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52056",
+            "airport_ref": "2317",
+            "airport_ident": "EFKA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "130.1"
+        },
+        {
+            "id": "52057",
+            "airport_ref": "2317",
+            "airport_ident": "EFKA",
+            "type": "ARR",
+            "description": "ARRIVAL",
+            "frequency_mhz": "128.15"
+        },
+        {
+            "id": "52058",
+            "airport_ref": "2317",
+            "airport_ident": "EFKA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "112.4"
+        },
+        {
+            "id": "52059",
+            "airport_ref": "2317",
+            "airport_ident": "EFKA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303803",
+        "code": "FI-LS",
+        "local_code": "LS",
+        "name": "Western Finland",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Finland",
+        "keywords": "Länsi-Suomen lääni, Västra Finlands län"
+    },
+    "navaids": [
+        {
+            "id": "89664",
+            "filename": "Kauhava_VOR-DME_FI",
+            "ident": "KAU",
+            "name": "Kauhava",
+            "type": "VOR-DME",
+            "frequency_khz": "112400",
+            "latitude_deg": "63.122501373291016",
+            "longitude_deg": "23.05590057373047",
+            "elevation_ft": "159",
+            "iso_country": "FI",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.031",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EFKA"
+        }
+    ]
+}

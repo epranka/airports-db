@@ -1,0 +1,96 @@
+{
+    "id": "2022",
+    "ident": "CZHP",
+    "type": "small_airport",
+    "name": "High Prairie Airport",
+    "latitude_deg": "55.3936004639",
+    "longitude_deg": "-116.474998474",
+    "elevation_ft": "1974",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "High Prairie",
+    "scheduled_service": "no",
+    "gps_code": "CZHP",
+    "iata_code": "ZHP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/High_Prairie_Airport",
+    "keywords": "ZHP",
+    "runways": [
+        {
+            "id": "234705",
+            "airport_ref": "2022",
+            "airport_ident": "CZHP",
+            "length_ft": "3933",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "55.3935",
+            "le_longitude_deg": "-116.485",
+            "le_elevation_ft": "1974",
+            "le_heading_degT": "88.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "55.3937",
+            "he_longitude_deg": "-116.466",
+            "he_elevation_ft": "1972",
+            "he_heading_degT": "268.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50325",
+            "airport_ref": "2022",
+            "airport_ident": "CZHP",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85070",
+            "filename": "High_Prairie_NDB-DME_CA",
+            "ident": "2S",
+            "name": "High Prairie",
+            "type": "NDB-DME",
+            "frequency_khz": "406",
+            "latitude_deg": "55.395599365234375",
+            "longitude_deg": "-116.48400115966797",
+            "elevation_ft": "2005",
+            "iso_country": "CA",
+            "dme_frequency_khz": "110200",
+            "dme_channel": "039X",
+            "dme_latitude_deg": "55.3958",
+            "dme_longitude_deg": "-116.482",
+            "dme_elevation_ft": "2005",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.511",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CZHP"
+        }
+    ]
+}

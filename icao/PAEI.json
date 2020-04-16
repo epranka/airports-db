@@ -1,0 +1,192 @@
+{
+    "id": "5357",
+    "ident": "PAEI",
+    "type": "medium_airport",
+    "name": "Eielson Air Force Base",
+    "latitude_deg": "64.66570282",
+    "longitude_deg": "-147.102005",
+    "elevation_ft": "547",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Fairbanks",
+    "scheduled_service": "no",
+    "gps_code": "PAEI",
+    "iata_code": "EIL",
+    "local_code": "EIL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Eielson_Air_Force_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "250560",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "length_ft": "14530",
+            "width_ft": "150",
+            "surface": "CONC",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "64.6842",
+            "le_longitude_deg": "-147.118",
+            "le_elevation_ft": "534",
+            "le_heading_degT": "159",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "64.6471",
+            "he_longitude_deg": "-147.085",
+            "he_elevation_ft": "547",
+            "he_heading_degT": "339",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65205",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "APP",
+            "description": "FAIRBANKS APP",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "65206",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "65207",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "27.35"
+        },
+        {
+            "id": "65208",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "34.37"
+        },
+        {
+            "id": "65209",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "DEP",
+            "description": "FAIRBANKS DEP",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "65210",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "65211",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "INFO",
+            "description": "RANGE CON",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "65212",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "MISC",
+            "description": "SOURDOUGH",
+            "frequency_mhz": "139.6"
+        },
+        {
+            "id": "65213",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "OPS",
+            "description": "IGLOO",
+            "frequency_mhz": "25.95"
+        },
+        {
+            "id": "65214",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.66"
+        },
+        {
+            "id": "65215",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "POST",
+            "description": "CHENA CON",
+            "frequency_mhz": "23.81"
+        },
+        {
+            "id": "65216",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "65217",
+            "airport_ref": "5357",
+            "airport_ident": "PAEI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87696",
+            "filename": "Eielson_TACAN_US",
+            "ident": "EIL",
+            "name": "Eielson",
+            "type": "TACAN",
+            "frequency_khz": "115100",
+            "latitude_deg": "64.65380096435547",
+            "longitude_deg": "-147.093994140625",
+            "elevation_ft": "528",
+            "iso_country": "US",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "26.001",
+            "magnetic_variation_deg": "22.414",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PAEI"
+        }
+    ]
+}

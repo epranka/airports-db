@@ -1,0 +1,120 @@
+{
+    "id": "21341",
+    "ident": "KVUO",
+    "type": "small_airport",
+    "name": "Pearson Field",
+    "latitude_deg": "45.620499",
+    "longitude_deg": "-122.655998",
+    "elevation_ft": "25",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Vancouver",
+    "scheduled_service": "no",
+    "gps_code": "KVUO",
+    "iata_code": "",
+    "local_code": "VUO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "60S",
+    "runways": [
+        {
+            "id": "241810",
+            "airport_ref": "21341",
+            "airport_ident": "KVUO",
+            "length_ft": "3275",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "45.6211",
+            "le_longitude_deg": "-122.663",
+            "le_elevation_ft": "28",
+            "le_heading_degT": "98",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "45.6198",
+            "he_longitude_deg": "-122.65",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "278",
+            "he_displaced_threshold_ft": "762"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62612",
+            "airport_ref": "21341",
+            "airport_ident": "KVUO",
+            "type": "AAS",
+            "description": "VFR ADVSY SVC",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "62613",
+            "airport_ref": "21341",
+            "airport_ident": "KVUO",
+            "type": "APP",
+            "description": "PORTLAND APP",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "62614",
+            "airport_ref": "21341",
+            "airport_ident": "KVUO",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.125"
+        },
+        {
+            "id": "62615",
+            "airport_ref": "21341",
+            "airport_ident": "KVUO",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "62616",
+            "airport_ref": "21341",
+            "airport_ident": "KVUO",
+            "type": "DEP",
+            "description": "PORTLAND DEP",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "62617",
+            "airport_ref": "21341",
+            "airport_ident": "KVUO",
+            "type": "RDO",
+            "description": "SEATTLE RDO",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "62618",
+            "airport_ref": "21341",
+            "airport_ident": "KVUO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    }
+}

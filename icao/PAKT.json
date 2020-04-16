@@ -1,0 +1,150 @@
+{
+    "id": "5382",
+    "ident": "PAKT",
+    "type": "medium_airport",
+    "name": "Ketchikan International Airport",
+    "latitude_deg": "55.35559845",
+    "longitude_deg": "-131.7140045",
+    "elevation_ft": "89",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Ketchikan",
+    "scheduled_service": "yes",
+    "gps_code": "PAKT",
+    "iata_code": "KTN",
+    "local_code": "KTN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ketchikan_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "270891",
+            "airport_ref": "5382",
+            "airport_ident": "PAKT",
+            "length_ft": "7500",
+            "width_ft": "150",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "55.3614",
+            "le_longitude_deg": "-131.724",
+            "le_elevation_ft": "82",
+            "le_heading_degT": "136",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "55.3467",
+            "he_longitude_deg": "-131.699",
+            "he_elevation_ft": "89",
+            "he_heading_degT": "316",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "250524",
+            "airport_ref": "5382",
+            "airport_ident": "PAKT",
+            "length_ft": "9500",
+            "width_ft": "1500",
+            "surface": "WATER",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "ESE",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "WNW",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69518",
+            "airport_ref": "5382",
+            "airport_ident": "PAKT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "69519",
+            "airport_ref": "5382",
+            "airport_ident": "PAKT",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "69520",
+            "airport_ref": "5382",
+            "airport_ident": "PAKT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "69521",
+            "airport_ref": "5382",
+            "airport_ident": "PAKT",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "69522",
+            "airport_ref": "5382",
+            "airport_ident": "PAKT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86878",
+            "filename": "Clam_Cove_NDB_US",
+            "ident": "CMJ",
+            "name": "Clam Cove",
+            "type": "NDB",
+            "frequency_khz": "396",
+            "latitude_deg": "55.345401763916016",
+            "longitude_deg": "-131.6959991455078",
+            "elevation_ft": "15",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.416",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "PAKT"
+        }
+    ]
+}

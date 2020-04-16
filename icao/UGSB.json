@@ -1,0 +1,96 @@
+{
+    "id": "6452",
+    "ident": "UGSB",
+    "type": "medium_airport",
+    "name": "Batumi International Airport",
+    "latitude_deg": "41.6102981567",
+    "longitude_deg": "41.5997009277",
+    "elevation_ft": "105",
+    "continent": "AS",
+    "iso_country": "GE",
+    "iso_region": "GE-AJ",
+    "municipality": "Batumi",
+    "scheduled_service": "yes",
+    "gps_code": "UGSB",
+    "iata_code": "BUS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Batumi_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236083",
+            "airport_ref": "6452",
+            "airport_ident": "UGSB",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "41.6162",
+            "le_longitude_deg": "41.5902",
+            "le_elevation_ft": "86",
+            "le_heading_degT": "130.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "41.6031",
+            "he_longitude_deg": "41.6105",
+            "he_elevation_ft": "105",
+            "he_heading_degT": "310.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52666",
+            "airport_ref": "6452",
+            "airport_ident": "UGSB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120"
+        }
+    ],
+    "country": {
+        "id": "302630",
+        "code": "GE",
+        "name": "Georgia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia_(country)",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306411",
+        "code": "GE-AJ",
+        "local_code": "AJ",
+        "name": "Autonomous Republic of Adjara",
+        "continent": "AS",
+        "iso_country": "GE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Adjara",
+        "keywords": "Ajaria, აჭარა"
+    },
+    "navaids": [
+        {
+            "id": "90583",
+            "filename": "Batumi_NDB_GE",
+            "ident": "LU",
+            "name": "Batumi",
+            "type": "NDB",
+            "frequency_khz": "430",
+            "latitude_deg": "41.600799560546875",
+            "longitude_deg": "41.61389923095703",
+            "elevation_ft": "",
+            "iso_country": "GE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.327",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UGSB"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "5602",
+    "ident": "RJOW",
+    "type": "medium_airport",
+    "name": "Iwami Airport",
+    "latitude_deg": "34.676399231",
+    "longitude_deg": "131.789993286",
+    "elevation_ft": "184",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-32",
+    "municipality": "Masuda",
+    "scheduled_service": "yes",
+    "gps_code": "RJOW",
+    "iata_code": "IWJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Iwami_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237207",
+            "airport_ref": "5602",
+            "airport_ident": "RJOW",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "34.6787",
+            "le_longitude_deg": "131.78",
+            "le_elevation_ft": "184",
+            "le_heading_degT": "104.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "34.6741",
+            "he_longitude_deg": "131.801",
+            "he_elevation_ft": "171",
+            "he_heading_degT": "284.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54703",
+            "airport_ref": "5602",
+            "airport_ident": "RJOW",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.55"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304317",
+        "code": "JP-32",
+        "local_code": "32",
+        "name": "Shimane Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shimane",
+        "keywords": "Chugoku"
+    },
+    "navaids": [
+        {
+            "id": "89248",
+            "filename": "Iwami_VOR-DME_JP",
+            "ident": "IME",
+            "name": "Iwami",
+            "type": "VOR-DME",
+            "frequency_khz": "115050",
+            "latitude_deg": "34.67620086669922",
+            "longitude_deg": "131.77999877929688",
+            "elevation_ft": "221",
+            "iso_country": "JP",
+            "dme_frequency_khz": "115050",
+            "dme_channel": "097Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.088",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJOW"
+        }
+    ]
+}

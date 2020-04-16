@@ -1,0 +1,80 @@
+{
+    "id": "18666",
+    "ident": "K39N",
+    "type": "small_airport",
+    "name": "Princeton Airport",
+    "latitude_deg": "40.3992004395",
+    "longitude_deg": "-74.6588973999",
+    "elevation_ft": "128",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Princeton/Rocky Hill",
+    "scheduled_service": "no",
+    "gps_code": "39N",
+    "iata_code": "PCT",
+    "local_code": "39N",
+    "home_link": "http://www.princetonairport.com/recent-history/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Princeton_Airport_(New_Jersey)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244816",
+            "airport_ref": "18666",
+            "airport_ident": "K39N",
+            "length_ft": "3500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "40.399",
+            "le_longitude_deg": "-74.6653",
+            "le_elevation_ft": "120",
+            "le_heading_degT": "89",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "40.3992",
+            "he_longitude_deg": "-74.6527",
+            "he_elevation_ft": "128",
+            "he_heading_degT": "269",
+            "he_displaced_threshold_ft": "370"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68930",
+            "airport_ref": "18666",
+            "airport_ident": "K39N",
+            "type": "A/D",
+            "description": "NEW YORK APP/DEP",
+            "frequency_mhz": "132.8"
+        },
+        {
+            "id": "68931",
+            "airport_ref": "18666",
+            "airport_ident": "K39N",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.725"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    }
+}

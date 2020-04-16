@@ -1,0 +1,102 @@
+{
+    "id": "27150",
+    "ident": "YSWL",
+    "type": "medium_airport",
+    "name": "Stawell Airport",
+    "latitude_deg": "-37.07170104980469",
+    "longitude_deg": "142.74099731445312",
+    "elevation_ft": "807",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YSWL",
+    "iata_code": "SWC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Stawell_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233229",
+            "airport_ref": "27150",
+            "airport_ident": "YSWL",
+            "length_ft": "4603",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-37.0656",
+            "le_longitude_deg": "142.727",
+            "le_elevation_ft": "807",
+            "le_heading_degT": "115",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "-37.0709",
+            "he_longitude_deg": "142.741",
+            "he_elevation_ft": "807",
+            "he_heading_degT": "295",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "233230",
+            "airport_ref": "27150",
+            "airport_ident": "YSWL",
+            "length_ft": "2802",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-37.0713",
+            "le_longitude_deg": "142.742",
+            "le_elevation_ft": "807",
+            "le_heading_degT": "185",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-37.079",
+            "he_longitude_deg": "142.741",
+            "he_elevation_ft": "807",
+            "he_heading_degT": "5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48710",
+            "airport_ref": "27150",
+            "airport_ident": "YSWL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "48711",
+            "airport_ref": "27150",
+            "airport_ident": "YSWL",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "125.8"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302975",
+        "code": "AU-VIC",
+        "local_code": "VIC",
+        "name": "Victoria",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
+        "keywords": ""
+    }
+}

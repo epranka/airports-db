@@ -1,0 +1,88 @@
+{
+    "id": "19622",
+    "ident": "KDEH",
+    "type": "small_airport",
+    "name": "Decorah Municipal Airport",
+    "latitude_deg": "43.27550125",
+    "longitude_deg": "-91.73940277",
+    "elevation_ft": "1158",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Decorah",
+    "scheduled_service": "no",
+    "gps_code": "KDEH",
+    "iata_code": "DEH",
+    "local_code": "DEH",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Decorah_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242943",
+            "airport_ref": "19622",
+            "airport_ident": "KDEH",
+            "length_ft": "4001",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "43.2778",
+            "le_longitude_deg": "-91.7462",
+            "le_elevation_ft": "1145",
+            "le_heading_degT": "114.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "43.2732",
+            "he_longitude_deg": "-91.7325",
+            "he_elevation_ft": "1157",
+            "he_heading_degT": "294.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64961",
+            "airport_ref": "19622",
+            "airport_ident": "KDEH",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.925"
+        },
+        {
+            "id": "64962",
+            "airport_ref": "19622",
+            "airport_ident": "KDEH",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "64963",
+            "airport_ref": "19622",
+            "airport_ident": "KDEH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

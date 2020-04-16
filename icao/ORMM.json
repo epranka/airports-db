@@ -1,0 +1,142 @@
+{
+    "id": "5294",
+    "ident": "ORMM",
+    "type": "large_airport",
+    "name": "Basrah International Airport",
+    "latitude_deg": "30.549100875854492",
+    "longitude_deg": "47.66210174560547",
+    "elevation_ft": "11",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-BA",
+    "municipality": "Basrah",
+    "scheduled_service": "yes",
+    "gps_code": "ORMM",
+    "iata_code": "BSR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Basra_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237090",
+            "airport_ref": "5294",
+            "airport_ident": "ORMM",
+            "length_ft": "13124",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "30.5622",
+            "le_longitude_deg": "47.6485",
+            "le_elevation_ft": "10",
+            "le_heading_degT": "137.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "30.5355",
+            "he_longitude_deg": "47.6763",
+            "he_elevation_ft": "10",
+            "he_heading_degT": "317.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54399",
+            "airport_ref": "5294",
+            "airport_ident": "ORMM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "54400",
+            "airport_ref": "5294",
+            "airport_ident": "ORMM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "54401",
+            "airport_ref": "5294",
+            "airport_ident": "ORMM",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "132.7"
+        },
+        {
+            "id": "54402",
+            "airport_ref": "5294",
+            "airport_ident": "ORMM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302636",
+        "code": "IQ",
+        "name": "Iraq",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iraq",
+        "keywords": "مطارات العراق"
+    },
+    "region": {
+        "id": "304202",
+        "code": "IQ-BA",
+        "local_code": "BA",
+        "name": "Basra Governorate",
+        "continent": "AS",
+        "iso_country": "IQ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Basra_Governorate",
+        "keywords": "البصرة"
+    },
+    "navaids": [
+        {
+            "id": "85808",
+            "filename": "Basrah_TACAN_IQ",
+            "ident": "BAR",
+            "name": "Basrah",
+            "type": "TACAN",
+            "frequency_khz": "108300",
+            "latitude_deg": "30.548799514770508",
+            "longitude_deg": "47.6598014831543",
+            "elevation_ft": "11",
+            "iso_country": "IQ",
+            "dme_frequency_khz": "108300",
+            "dme_channel": "020X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.112",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ORMM"
+        },
+        {
+            "id": "86368",
+            "filename": "Basrah_VOR-DME_IQ",
+            "ident": "BSR",
+            "name": "Basrah",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "30.525699615478516",
+            "longitude_deg": "47.68669891357422",
+            "elevation_ft": "15",
+            "iso_country": "IQ",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "3.108",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "ORMM"
+        }
+    ]
+}

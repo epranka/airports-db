@@ -1,0 +1,112 @@
+{
+    "id": "4147",
+    "ident": "LFLX",
+    "type": "medium_airport",
+    "name": "Châteauroux-Déols \"Marcel Dassault\" Airport",
+    "latitude_deg": "46.860278",
+    "longitude_deg": "1.721111",
+    "elevation_ft": "529",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-CVL",
+    "municipality": "Châteauroux/Déols",
+    "scheduled_service": "no",
+    "gps_code": "LFLX",
+    "iata_code": "CHR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ch%C3%A2teauroux-D%C3%A9ols_%22Marcel_Dassault%22_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235877",
+            "airport_ref": "4147",
+            "airport_ident": "LFLX",
+            "length_ft": "11483",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "46.8506",
+            "le_longitude_deg": "1.71917",
+            "le_elevation_ft": "529",
+            "le_heading_degT": "34",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "46.8769",
+            "he_longitude_deg": "1.74417",
+            "he_elevation_ft": "518",
+            "he_heading_degT": "214",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52297",
+            "airport_ref": "4147",
+            "airport_ident": "LFLX",
+            "type": "AFIS",
+            "description": "CHATEAUROUX INFO",
+            "frequency_mhz": "125.875"
+        },
+        {
+            "id": "52298",
+            "airport_ref": "4147",
+            "airport_ident": "LFLX",
+            "type": "ARR",
+            "description": "POITERS APP",
+            "frequency_mhz": "130.9"
+        },
+        {
+            "id": "52299",
+            "airport_ref": "4147",
+            "airport_ident": "LFLX",
+            "type": "TWR",
+            "description": "CHATEAUROUX TWR",
+            "frequency_mhz": "125.875"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306347",
+        "code": "FR-CVL",
+        "local_code": "CVL",
+        "name": "Centre-Val de Loire",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Centre-Val_de_Loire",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87098",
+            "filename": "Châteauroux_NDB_FR",
+            "ident": "CTX",
+            "name": "Châteauroux",
+            "type": "NDB",
+            "frequency_khz": "428",
+            "latitude_deg": "46.93659973144531",
+            "longitude_deg": "1.8011399507522583",
+            "elevation_ft": "539",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.042",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LFLX"
+        }
+    ]
+}

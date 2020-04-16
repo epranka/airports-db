@@ -1,0 +1,80 @@
+{
+    "id": "19045",
+    "ident": "KDYA",
+    "type": "small_airport",
+    "name": "Demopolis Municipal Airport",
+    "latitude_deg": "32.46379852294922",
+    "longitude_deg": "-87.9541015625",
+    "elevation_ft": "113",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Demopolis",
+    "scheduled_service": "no",
+    "gps_code": "KDYA",
+    "iata_code": "",
+    "local_code": "DYA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Formerly 7A2",
+    "runways": [
+        {
+            "id": "245518",
+            "airport_ref": "19045",
+            "airport_ident": "KDYA",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "32.4588",
+            "le_longitude_deg": "-87.9596",
+            "le_elevation_ft": "113",
+            "le_heading_degT": "43",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "32.4689",
+            "he_longitude_deg": "-87.9486",
+            "he_elevation_ft": "106",
+            "he_heading_degT": "223",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70493",
+            "airport_ref": "19045",
+            "airport_ident": "KDYA",
+            "type": "A/D",
+            "description": "MERIDIAN APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "70494",
+            "airport_ref": "19045",
+            "airport_ident": "KDYA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

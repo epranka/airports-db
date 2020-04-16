@@ -1,0 +1,172 @@
+{
+    "id": "19903",
+    "ident": "KFTG",
+    "type": "small_airport",
+    "name": "Colorado Air and Space Port",
+    "latitude_deg": "39.784194",
+    "longitude_deg": "-104.537639",
+    "elevation_ft": "5512",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Denver",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CFO",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado_Air_and_Space_Port",
+    "keywords": "KFTG, FTG, Front Range Airport",
+    "runways": [
+        {
+            "id": "244867",
+            "airport_ref": "19903",
+            "airport_ident": "KFTG",
+            "length_ft": "8000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "39.794",
+            "le_longitude_deg": "-104.565",
+            "le_elevation_ft": "5450",
+            "le_heading_degT": "91.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "39.7936",
+            "he_longitude_deg": "-104.537",
+            "he_elevation_ft": "5485",
+            "he_heading_degT": "271.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244868",
+            "airport_ref": "19903",
+            "airport_ident": "KFTG",
+            "length_ft": "8000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "39.7856",
+            "le_longitude_deg": "-104.524",
+            "le_elevation_ft": "5472",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "39.7636",
+            "he_longitude_deg": "-104.524",
+            "he_elevation_ft": "5512",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244869",
+            "airport_ref": "19903",
+            "airport_ident": "KFTG",
+            "length_ft": "4000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "18",
+            "le_latitude_deg": "39.7954",
+            "le_longitude_deg": "-104.568",
+            "le_elevation_ft": "5446",
+            "le_heading_degT": "179.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "39.7845",
+            "he_longitude_deg": "-104.568",
+            "he_elevation_ft": "5455",
+            "he_heading_degT": "359.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69051",
+            "airport_ref": "19903",
+            "airport_ident": "KFTG",
+            "type": "A/D",
+            "description": "DENVER APP/DEP",
+            "frequency_mhz": "128.25"
+        },
+        {
+            "id": "69052",
+            "airport_ref": "19903",
+            "airport_ident": "KFTG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "69053",
+            "airport_ref": "19903",
+            "airport_ident": "KFTG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "69054",
+            "airport_ref": "19903",
+            "airport_ident": "KFTG",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "69055",
+            "airport_ref": "19903",
+            "airport_ident": "KFTG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "69056",
+            "airport_ref": "19903",
+            "airport_ident": "KFTG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "69057",
+            "airport_ref": "19903",
+            "airport_ident": "KFTG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "69058",
+            "airport_ref": "19903",
+            "airport_ident": "KFTG",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

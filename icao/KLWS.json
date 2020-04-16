@@ -1,0 +1,142 @@
+{
+    "id": "20393",
+    "ident": "KLWS",
+    "type": "medium_airport",
+    "name": "Lewiston Nez Perce County Airport",
+    "latitude_deg": "46.3745002746582",
+    "longitude_deg": "-117.01499938964844",
+    "elevation_ft": "1442",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Lewiston",
+    "scheduled_service": "yes",
+    "gps_code": "KLWS",
+    "iata_code": "LWS",
+    "local_code": "LWS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lewiston-Nez_Perce_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244552",
+            "airport_ref": "20393",
+            "airport_ident": "KLWS",
+            "length_ft": "6511",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "46.3738",
+            "le_longitude_deg": "-117.028",
+            "le_elevation_ft": "1427",
+            "le_heading_degT": "99",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "46.371",
+            "he_longitude_deg": "-117.002",
+            "he_elevation_ft": "1434",
+            "he_heading_degT": "279",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244553",
+            "airport_ref": "20393",
+            "airport_ident": "KLWS",
+            "length_ft": "5002",
+            "width_ft": "100",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "46.3818",
+            "le_longitude_deg": "-117.024",
+            "le_elevation_ft": "1370",
+            "le_heading_degT": "131",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "46.3727",
+            "he_longitude_deg": "-117.009",
+            "he_elevation_ft": "1442",
+            "he_heading_degT": "311",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68350",
+            "airport_ref": "20393",
+            "airport_ident": "KLWS",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.575"
+        },
+        {
+            "id": "68351",
+            "airport_ref": "20393",
+            "airport_ident": "KLWS",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "123.95"
+        },
+        {
+            "id": "68352",
+            "airport_ref": "20393",
+            "airport_ident": "KLWS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "68353",
+            "airport_ref": "20393",
+            "airport_ident": "KLWS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "68354",
+            "airport_ref": "20393",
+            "airport_ident": "KLWS",
+            "type": "RDO",
+            "description": "BOISE RDO",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "68355",
+            "airport_ref": "20393",
+            "airport_ident": "KLWS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "68356",
+            "airport_ref": "20393",
+            "airport_ident": "KLWS",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": ""
+    }
+}

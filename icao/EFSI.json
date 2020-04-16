@@ -1,0 +1,120 @@
+{
+    "id": "2345",
+    "ident": "EFSI",
+    "type": "medium_airport",
+    "name": "Seinäjoki Airport",
+    "latitude_deg": "62.692101",
+    "longitude_deg": "22.8323",
+    "elevation_ft": "302",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-LS",
+    "municipality": "Seinäjoki / Ilmajoki",
+    "scheduled_service": "yes",
+    "gps_code": "EFSI",
+    "iata_code": "SJY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sein%C3%A4joki_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235743",
+            "airport_ref": "2345",
+            "airport_ident": "EFSI",
+            "length_ft": "5062",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "62.6971",
+            "le_longitude_deg": "22.8219",
+            "le_elevation_ft": "292",
+            "le_heading_degT": "136.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "62.6871",
+            "he_longitude_deg": "22.8428",
+            "he_elevation_ft": "285",
+            "he_heading_degT": "316.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52102",
+            "airport_ref": "2345",
+            "airport_ident": "EFSI",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "52103",
+            "airport_ref": "2345",
+            "airport_ident": "EFSI",
+            "type": "APP",
+            "description": "KAUHAVA APP",
+            "frequency_mhz": "130.1"
+        },
+        {
+            "id": "52104",
+            "airport_ref": "2345",
+            "airport_ident": "EFSI",
+            "type": "RDR",
+            "description": "KAUHAVA RADAR",
+            "frequency_mhz": "128.15"
+        },
+        {
+            "id": "52105",
+            "airport_ref": "2345",
+            "airport_ident": "EFSI",
+            "type": "TWR",
+            "description": "KAUHAVA TWR",
+            "frequency_mhz": "119.7"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303803",
+        "code": "FI-LS",
+        "local_code": "LS",
+        "name": "Western Finland",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Finland",
+        "keywords": "Länsi-Suomen lääni, Västra Finlands län"
+    },
+    "navaids": [
+        {
+            "id": "92729",
+            "filename": "Seinajoki_NDB_FI",
+            "ident": "PSJ",
+            "name": "Seinajoki",
+            "type": "NDB",
+            "frequency_khz": "352",
+            "latitude_deg": "62.6421012878418",
+            "longitude_deg": "22.936100006103516",
+            "elevation_ft": "",
+            "iso_country": "FI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.531",
+            "usageType": "RNAV",
+            "power": "LOW",
+            "associated_airport": "EFSI"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "id": "6066",
+    "ident": "SEMT",
+    "type": "medium_airport",
+    "name": "Eloy Alfaro International Airport",
+    "latitude_deg": "-0.9460780024528503",
+    "longitude_deg": "-80.67880249023438",
+    "elevation_ft": "48",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-M",
+    "municipality": "Manta",
+    "scheduled_service": "yes",
+    "gps_code": "SEMT",
+    "iata_code": "MEC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Manta_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235501",
+            "airport_ref": "6066",
+            "airport_ident": "SEMT",
+            "length_ft": "9383",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "-0.953331",
+            "le_longitude_deg": "-80.6894",
+            "le_elevation_ft": "37",
+            "le_heading_degT": "55.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "-0.938825",
+            "he_longitude_deg": "-80.6682",
+            "he_elevation_ft": "48",
+            "he_heading_degT": "235.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51785",
+            "airport_ref": "6066",
+            "airport_ident": "SEMT",
+            "type": "APP",
+            "description": "MANTA APP",
+            "frequency_mhz": "122.7"
+        },
+        {
+            "id": "51786",
+            "airport_ref": "6066",
+            "airport_ident": "SEMT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51787",
+            "airport_ref": "6066",
+            "airport_ident": "SEMT",
+            "type": "RDO",
+            "description": "MANTA RDO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "51788",
+            "airport_ref": "6066",
+            "airport_ident": "SEMT",
+            "type": "TWR",
+            "description": "MANTA TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303662",
+        "code": "EC-M",
+        "local_code": "M",
+        "name": "Manabi Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Manabi_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91136",
+            "filename": "Manta_VOR-DME_EC",
+            "ident": "MNV",
+            "name": "Manta",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "-0.9347220063209534",
+            "longitude_deg": "-80.66190338134766",
+            "elevation_ft": "58",
+            "iso_country": "EC",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "-0.072",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SEMT"
+        }
+    ]
+}

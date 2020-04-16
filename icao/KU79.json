@@ -1,0 +1,102 @@
+{
+    "id": "21275",
+    "ident": "KU79",
+    "type": "small_airport",
+    "name": "Chamberlain USFS Airport",
+    "latitude_deg": "45.373253",
+    "longitude_deg": "-115.198157",
+    "elevation_ft": "5765",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Chamberlain Guard Station",
+    "scheduled_service": "no",
+    "gps_code": "KU79",
+    "iata_code": "",
+    "local_code": "U79",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239917",
+            "airport_ref": "21275",
+            "airport_ident": "KU79",
+            "length_ft": "4100",
+            "width_ft": "200",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "45.3794",
+            "le_longitude_deg": "-115.205",
+            "le_elevation_ft": "5750",
+            "le_heading_degT": "93",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "45.3789",
+            "he_longitude_deg": "-115.189",
+            "he_elevation_ft": "5715",
+            "he_heading_degT": "273",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239918",
+            "airport_ref": "21275",
+            "airport_ident": "KU79",
+            "length_ft": "2700",
+            "width_ft": "140",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "45.3861",
+            "le_longitude_deg": "-115.2",
+            "le_elevation_ft": "5765",
+            "le_heading_degT": "161",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "45.3789",
+            "he_longitude_deg": "-115.197",
+            "he_elevation_ft": "5740",
+            "he_heading_degT": "341",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59180",
+            "airport_ref": "21275",
+            "airport_ident": "KU79",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "123.95"
+        },
+        {
+            "id": "59181",
+            "airport_ref": "21275",
+            "airport_ident": "KU79",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": ""
+    }
+}

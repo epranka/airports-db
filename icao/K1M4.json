@@ -1,0 +1,80 @@
+{
+    "id": "18491",
+    "ident": "K1M4",
+    "type": "small_airport",
+    "name": "Posey Field",
+    "latitude_deg": "34.28030014038086",
+    "longitude_deg": "-87.60040283203125",
+    "elevation_ft": "930",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Haleyville",
+    "scheduled_service": "no",
+    "gps_code": "K1M4",
+    "iata_code": "",
+    "local_code": "1M4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242398",
+            "airport_ref": "18491",
+            "airport_ident": "K1M4",
+            "length_ft": "5008",
+            "width_ft": "100",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "34.2872",
+            "le_longitude_deg": "-87.6002",
+            "le_elevation_ft": "930",
+            "le_heading_degT": "182",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "34.2735",
+            "he_longitude_deg": "-87.6007",
+            "he_elevation_ft": "903",
+            "he_heading_degT": "2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63853",
+            "airport_ref": "18491",
+            "airport_ident": "K1M4",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "63854",
+            "airport_ref": "18491",
+            "airport_ident": "K1M4",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

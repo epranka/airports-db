@@ -1,0 +1,120 @@
+{
+    "id": "19651",
+    "ident": "KDQH",
+    "type": "small_airport",
+    "name": "Douglas Municipal Airport",
+    "latitude_deg": "31.476699829101562",
+    "longitude_deg": "-82.8604965209961",
+    "elevation_ft": "257",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Douglas",
+    "scheduled_service": "no",
+    "gps_code": "KDQH",
+    "iata_code": "",
+    "local_code": "DQH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243513",
+            "airport_ref": "19651",
+            "airport_ident": "KDQH",
+            "length_ft": "6005",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "31.4701",
+            "le_longitude_deg": "-82.8663",
+            "le_elevation_ft": "251",
+            "le_heading_degT": "37",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "31.4833",
+            "he_longitude_deg": "-82.8547",
+            "he_elevation_ft": "257",
+            "he_heading_degT": "217",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66154",
+            "airport_ref": "19651",
+            "airport_ident": "KDQH",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.075"
+        },
+        {
+            "id": "66155",
+            "airport_ref": "19651",
+            "airport_ident": "KDQH",
+            "type": "CNTR",
+            "description": "JACKSONVILLE CNTR",
+            "frequency_mhz": "132.3"
+        },
+        {
+            "id": "66156",
+            "airport_ref": "19651",
+            "airport_ident": "KDQH",
+            "type": "RDO",
+            "description": "MACON RDO",
+            "frequency_mhz": "121.725"
+        },
+        {
+            "id": "66157",
+            "airport_ref": "19651",
+            "airport_ident": "KDQH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92175",
+            "filename": "Coffee_County_NDB_US",
+            "ident": "OWC",
+            "name": "Coffee County",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "31.404800415039062",
+            "longitude_deg": "-82.92379760742188",
+            "elevation_ft": "260",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.433",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KDQH"
+        }
+    ]
+}

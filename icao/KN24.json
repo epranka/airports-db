@@ -1,0 +1,80 @@
+{
+    "id": "20603",
+    "ident": "KN24",
+    "type": "small_airport",
+    "name": "Questa Municipal Nr 2 Airport",
+    "latitude_deg": "36.80030059814453",
+    "longitude_deg": "-105.5979995727539",
+    "elevation_ft": "7700",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Questa",
+    "scheduled_service": "no",
+    "gps_code": "KN24",
+    "iata_code": "",
+    "local_code": "N24",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240359",
+            "airport_ref": "20603",
+            "airport_ident": "KN24",
+            "length_ft": "6861",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "36.8097",
+            "le_longitude_deg": "-105.597",
+            "le_elevation_ft": "7667",
+            "le_heading_degT": "180.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "36.7909",
+            "he_longitude_deg": "-105.598",
+            "he_elevation_ft": "7690",
+            "he_heading_degT": "0.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59825",
+            "airport_ref": "20603",
+            "airport_ident": "KN24",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "59826",
+            "airport_ref": "20603",
+            "airport_ident": "KN24",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "123.6"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    }
+}

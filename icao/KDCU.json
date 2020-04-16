@@ -1,0 +1,96 @@
+{
+    "id": "19618",
+    "ident": "KDCU",
+    "type": "small_airport",
+    "name": "Pryor Field Regional Airport",
+    "latitude_deg": "34.652698516799994",
+    "longitude_deg": "-86.94539642330001",
+    "elevation_ft": "592",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Decatur",
+    "scheduled_service": "no",
+    "gps_code": "KDCU",
+    "iata_code": "DCU",
+    "local_code": "DCU",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pryor_Field_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244556",
+            "airport_ref": "19618",
+            "airport_ident": "KDCU",
+            "length_ft": "6107",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "34.6624",
+            "le_longitude_deg": "-86.9452",
+            "le_elevation_ft": "588",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "34.6457",
+            "he_longitude_deg": "-86.9452",
+            "he_elevation_ft": "583",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68361",
+            "airport_ref": "19618",
+            "airport_ident": "KDCU",
+            "type": "A/D",
+            "description": "HUNTSVILLE APP/DEP",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "68362",
+            "airport_ref": "19618",
+            "airport_ident": "KDCU",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "68363",
+            "airport_ref": "19618",
+            "airport_ident": "KDCU",
+            "type": "RDO",
+            "description": "ANNISTON RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "68364",
+            "airport_ref": "19618",
+            "airport_ident": "KDCU",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.075"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "4313",
+    "ident": "LIBN",
+    "type": "medium_airport",
+    "name": "Lecce Galatina Air Base",
+    "latitude_deg": "40.239201",
+    "longitude_deg": "18.133301",
+    "elevation_ft": "156",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-75",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LIBN",
+    "iata_code": "LCC",
+    "local_code": "LE08",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lecce_Galatina_Air_Base",
+    "keywords": "Galatina",
+    "runways": [
+        {
+            "id": "237056",
+            "airport_ref": "4313",
+            "airport_ident": "LIBN",
+            "length_ft": "6240",
+            "width_ft": "190",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "40.2459",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "151",
+            "le_heading_degT": "146",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "40.2323",
+            "he_longitude_deg": "18.1391",
+            "he_elevation_ft": "157",
+            "he_heading_degT": "326",
+            "he_displaced_threshold_ft": "233"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54321",
+            "airport_ref": "4313",
+            "airport_ident": "LIBN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "54322",
+            "airport_ref": "4313",
+            "airport_ident": "LIBN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "28.055"
+        },
+        {
+            "id": "75464",
+            "airport_ref": "4313",
+            "airport_ident": "LIBN",
+            "type": "TACAN",
+            "description": "",
+            "frequency_mhz": "112.8"
+        },
+        {
+            "id": "54323",
+            "airport_ref": "4313",
+            "airport_ident": "LIBN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.55"
+        },
+        {
+            "id": "75465",
+            "airport_ref": "4313",
+            "airport_ident": "LIBN",
+            "type": "VORTAC",
+            "description": "",
+            "frequency_mhz": "112.8"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306371",
+        "code": "IT-75",
+        "local_code": "75",
+        "name": "Apulia",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Apulia",
+        "keywords": "PU"
+    },
+    "navaids": [
+        {
+            "id": "90229",
+            "filename": "Lecce_VORTAC_IT",
+            "ident": "LCC",
+            "name": "Lecce",
+            "type": "VORTAC",
+            "frequency_khz": "112800",
+            "latitude_deg": "40.2484016418457",
+            "longitude_deg": "18.130699157714844",
+            "elevation_ft": "217",
+            "iso_country": "IT",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.405",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIBN"
+        }
+    ]
+}

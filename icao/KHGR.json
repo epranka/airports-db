@@ -1,0 +1,174 @@
+{
+    "id": "3577",
+    "ident": "KHGR",
+    "type": "medium_airport",
+    "name": "Hagerstown Regional Richard A Henson Field",
+    "latitude_deg": "39.707901",
+    "longitude_deg": "-77.72949982",
+    "elevation_ft": "703",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Hagerstown",
+    "scheduled_service": "no",
+    "gps_code": "KHGR",
+    "iata_code": "HGR",
+    "local_code": "HGR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hagerstown_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243743",
+            "airport_ref": "3577",
+            "airport_ident": "KHGR",
+            "length_ft": "3160",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "39.7042",
+            "le_longitude_deg": "-77.7288",
+            "le_elevation_ft": "690",
+            "le_heading_degT": "14.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "39.7126",
+            "he_longitude_deg": "-77.7259",
+            "he_elevation_ft": "703",
+            "he_heading_degT": "194.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243744",
+            "airport_ref": "3577",
+            "airport_ident": "KHGR",
+            "length_ft": "5461",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "39.7067",
+            "le_longitude_deg": "-77.7403",
+            "le_elevation_ft": "659",
+            "le_heading_degT": "80.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "39.7092",
+            "he_longitude_deg": "-77.7212",
+            "he_elevation_ft": "702",
+            "he_heading_degT": "260.5",
+            "he_displaced_threshold_ft": "115"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66658",
+            "airport_ref": "3577",
+            "airport_ident": "KHGR",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "126.375"
+        },
+        {
+            "id": "66659",
+            "airport_ref": "3577",
+            "airport_ident": "KHGR",
+            "type": "CNTR",
+            "description": "WASHINGTON CNTR",
+            "frequency_mhz": "134.15"
+        },
+        {
+            "id": "66660",
+            "airport_ref": "3577",
+            "airport_ident": "KHGR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "66661",
+            "airport_ref": "3577",
+            "airport_ident": "KHGR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "66662",
+            "airport_ref": "3577",
+            "airport_ident": "KHGR",
+            "type": "OPS",
+            "description": "AR OPS",
+            "frequency_mhz": "32.3"
+        },
+        {
+            "id": "66663",
+            "airport_ref": "3577",
+            "airport_ident": "KHGR",
+            "type": "RDO",
+            "description": "LEESBURG RDO",
+            "frequency_mhz": "109.8"
+        },
+        {
+            "id": "66664",
+            "airport_ref": "3577",
+            "airport_ident": "KHGR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "66665",
+            "airport_ref": "3577",
+            "airport_ident": "KHGR",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306096",
+        "code": "US-MD",
+        "local_code": "MD",
+        "name": "Maryland",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88817",
+            "filename": "Hagerstown_VOR_US",
+            "ident": "HGR",
+            "name": "Hagerstown",
+            "type": "VOR",
+            "frequency_khz": "109800",
+            "latitude_deg": "39.69770050048828",
+            "longitude_deg": "-77.85569763183594",
+            "elevation_ft": "560",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.001",
+            "magnetic_variation_deg": "-10.21",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KHGR"
+        }
+    ]
+}

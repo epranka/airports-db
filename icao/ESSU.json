@@ -1,0 +1,88 @@
+{
+    "id": "2709",
+    "ident": "ESSU",
+    "type": "medium_airport",
+    "name": "Eskilstuna Airport",
+    "latitude_deg": "59.35110092163086",
+    "longitude_deg": "16.70840072631836",
+    "elevation_ft": "139",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-D",
+    "municipality": "Eskilstuna",
+    "scheduled_service": "no",
+    "gps_code": "ESSU",
+    "iata_code": "EKT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238984",
+            "airport_ref": "2709",
+            "airport_ident": "ESSU",
+            "length_ft": "6187",
+            "width_ft": "115",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "59.3595",
+            "le_longitude_deg": "16.7078",
+            "le_elevation_ft": "129",
+            "le_heading_degT": "178.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "59.3426",
+            "he_longitude_deg": "16.709",
+            "he_elevation_ft": "130",
+            "he_heading_degT": "358.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57397",
+            "airport_ref": "2709",
+            "airport_ident": "ESSU",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "126.855"
+        },
+        {
+            "id": "57398",
+            "airport_ref": "2709",
+            "airport_ident": "ESSU",
+            "type": "APP",
+            "description": "CON",
+            "frequency_mhz": "136.2"
+        },
+        {
+            "id": "57399",
+            "airport_ref": "2709",
+            "airport_ident": "ESSU",
+            "type": "INFO",
+            "description": "MIL INFO",
+            "frequency_mhz": "126.855"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305415",
+        "code": "SE-D",
+        "local_code": "D",
+        "name": "Södermanlands län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Södermanlands_län",
+        "keywords": "Södermanland County"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "3640",
+    "ident": "KLEX",
+    "type": "large_airport",
+    "name": "Blue Grass Airport",
+    "latitude_deg": "38.0364990234375",
+    "longitude_deg": "-84.60590362548828",
+    "elevation_ft": "979",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Lexington",
+    "scheduled_service": "yes",
+    "gps_code": "KLEX",
+    "iata_code": "LEX",
+    "local_code": "LEX",
+    "home_link": "http://www.bluegrassairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Blue_Grass_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245524",
+            "airport_ref": "3640",
+            "airport_ident": "KLEX",
+            "length_ft": "7003",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "38.0277",
+            "le_longitude_deg": "-84.6151",
+            "le_elevation_ft": "944",
+            "le_heading_degT": "42",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "38.0421",
+            "he_longitude_deg": "-84.599",
+            "he_elevation_ft": "972",
+            "he_heading_degT": "222",
+            "he_displaced_threshold_ft": "45"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70508",
+            "airport_ref": "3640",
+            "airport_ident": "KLEX",
+            "type": "A/D",
+            "description": "LEXINGTON APP/DEP",
+            "frequency_mhz": "120.15"
+        },
+        {
+            "id": "70509",
+            "airport_ref": "3640",
+            "airport_ident": "KLEX",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.3"
+        },
+        {
+            "id": "70510",
+            "airport_ref": "3640",
+            "airport_ident": "KLEX",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "70511",
+            "airport_ref": "3640",
+            "airport_ident": "KLEX",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "70512",
+            "airport_ref": "3640",
+            "airport_ident": "KLEX",
+            "type": "TWR",
+            "description": "LEXINGTON TWR",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "70513",
+            "airport_ref": "3640",
+            "airport_ident": "KLEX",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306093",
+        "code": "US-KY",
+        "local_code": "KY",
+        "name": "Kentucky",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89086",
+            "filename": "Lexington_VORTAC_US",
+            "ident": "HYK",
+            "name": "Lexington",
+            "type": "VORTAC",
+            "frequency_khz": "112600",
+            "latitude_deg": "37.966400146484375",
+            "longitude_deg": "-84.47250366210938",
+            "elevation_ft": "1039",
+            "iso_country": "US",
+            "dme_frequency_khz": "112600",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "-4.524",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KLEX"
+        },
+        {
+            "id": "90262",
+            "filename": "Blayd_NDB_US",
+            "ident": "LE",
+            "name": "Blayd",
+            "type": "NDB",
+            "frequency_khz": "242",
+            "latitude_deg": "37.98699951171875",
+            "longitude_deg": "-84.6604995727539",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.437",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KLEX"
+        }
+    ]
+}

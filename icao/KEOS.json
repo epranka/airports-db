@@ -1,0 +1,88 @@
+{
+    "id": "19763",
+    "ident": "KEOS",
+    "type": "small_airport",
+    "name": "Neosho Hugh Robinson Airport",
+    "latitude_deg": "36.81079864501953",
+    "longitude_deg": "-94.3917007446289",
+    "elevation_ft": "1255",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Neosho",
+    "scheduled_service": "no",
+    "gps_code": "KEOS",
+    "iata_code": "",
+    "local_code": "EOS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241835",
+            "airport_ref": "19763",
+            "airport_ident": "KEOS",
+            "length_ft": "5001",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "36.8041",
+            "le_longitude_deg": "-94.3935",
+            "le_elevation_ft": "1254",
+            "le_heading_degT": "12",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "36.8175",
+            "he_longitude_deg": "-94.3899",
+            "he_elevation_ft": "1218",
+            "he_heading_degT": "192",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62664",
+            "airport_ref": "19763",
+            "airport_ident": "KEOS",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "62665",
+            "airport_ref": "19763",
+            "airport_ident": "KEOS",
+            "type": "RDO",
+            "description": "COLUMBIA RDO",
+            "frequency_mhz": "117.3"
+        },
+        {
+            "id": "62666",
+            "airport_ref": "19763",
+            "airport_ident": "KEOS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

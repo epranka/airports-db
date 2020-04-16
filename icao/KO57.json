@@ -1,0 +1,80 @@
+{
+    "id": "20697",
+    "ident": "KO57",
+    "type": "small_airport",
+    "name": "Bryant Field",
+    "latitude_deg": "38.262402",
+    "longitude_deg": "-119.225998",
+    "elevation_ft": "6468",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Bridgeport",
+    "scheduled_service": "no",
+    "gps_code": "KBAN",
+    "iata_code": "",
+    "local_code": "O57",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bryant_Field_(airport)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242788",
+            "airport_ref": "20697",
+            "airport_ident": "KO57",
+            "length_ft": "4239",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "38.2682",
+            "le_longitude_deg": "-119.226",
+            "le_elevation_ft": "6460",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "38.2565",
+            "he_longitude_deg": "-119.226",
+            "he_elevation_ft": "6468",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "389"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64639",
+            "airport_ref": "20697",
+            "airport_ident": "KO57",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "64640",
+            "airport_ref": "20697",
+            "airport_ident": "KO57",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

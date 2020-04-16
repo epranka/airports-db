@@ -1,0 +1,142 @@
+{
+    "id": "1706",
+    "ident": "CYDF",
+    "type": "medium_airport",
+    "name": "Deer Lake Airport",
+    "latitude_deg": "49.21080017089844",
+    "longitude_deg": "-57.39139938354492",
+    "elevation_ft": "72",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NL",
+    "municipality": "Deer Lake",
+    "scheduled_service": "yes",
+    "gps_code": "CYDF",
+    "iata_code": "YDF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Deer_Lake_Airport_(Newfoundland)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234836",
+            "airport_ref": "1706",
+            "airport_ident": "CYDF",
+            "length_ft": "8005",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "49.2053",
+            "le_longitude_deg": "-57.4007",
+            "le_elevation_ft": "50",
+            "le_heading_degT": "47.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "49.2164",
+            "he_longitude_deg": "-57.3821",
+            "he_elevation_ft": "72",
+            "he_heading_degT": "227.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50559",
+            "airport_ref": "1706",
+            "airport_ident": "CYDF",
+            "type": "CNTR",
+            "description": "GANDER CNTR",
+            "frequency_mhz": "134.6"
+        },
+        {
+            "id": "50560",
+            "airport_ref": "1706",
+            "airport_ident": "CYDF",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50561",
+            "airport_ref": "1706",
+            "airport_ident": "CYDF",
+            "type": "RCO",
+            "description": "HALIFAX RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "50562",
+            "airport_ref": "1706",
+            "airport_ident": "CYDF",
+            "type": "RDO",
+            "description": "MF",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303298",
+        "code": "CA-NL",
+        "local_code": "NL",
+        "name": "Newfoundland and Labrador",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88016",
+            "filename": "Junction_NDB_CA",
+            "ident": "FK",
+            "name": "Junction",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "49.263099670410156",
+            "longitude_deg": "-57.308101654052734",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.269",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYDF"
+        },
+        {
+            "id": "95645",
+            "filename": "Deer_Lake_VOR-DME_CA",
+            "ident": "YDF",
+            "name": "Deer Lake",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "49.23249816894531",
+            "longitude_deg": "-57.21329879760742",
+            "elevation_ft": "470",
+            "iso_country": "CA",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-21.001",
+            "magnetic_variation_deg": "-21.259",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYDF"
+        }
+    ]
+}

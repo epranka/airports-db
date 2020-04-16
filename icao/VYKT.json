@@ -1,0 +1,96 @@
+{
+    "id": "26723",
+    "ident": "VYKT",
+    "type": "medium_airport",
+    "name": "Kawthoung Airport",
+    "latitude_deg": "10.049300193786621",
+    "longitude_deg": "98.53800201416016",
+    "elevation_ft": "180",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-05",
+    "municipality": "Kawthoung",
+    "scheduled_service": "yes",
+    "gps_code": "VYKT",
+    "iata_code": "KAW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kawthaung_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233713",
+            "airport_ref": "26723",
+            "airport_ident": "VYKT",
+            "length_ft": "6000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "10.0414",
+            "le_longitude_deg": "98.5354",
+            "le_elevation_ft": "",
+            "le_heading_degT": "17.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "10.0571",
+            "he_longitude_deg": "98.5406",
+            "he_elevation_ft": "",
+            "he_heading_degT": "197.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49494",
+            "airport_ref": "26723",
+            "airport_ident": "VYKT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302649",
+        "code": "MM",
+        "name": "Burma",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
+        "keywords": "Myanmar"
+    },
+    "region": {
+        "id": "304670",
+        "code": "MM-05",
+        "local_code": "05",
+        "name": "Tanintharyi Division",
+        "continent": "AS",
+        "iso_country": "MM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanintharyi_Division",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90014",
+            "filename": "Kawthoung_NDB_MM",
+            "ident": "KT",
+            "name": "Kawthoung",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "10.051799774169922",
+            "longitude_deg": "98.54969787597656",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.351",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VYKT"
+        }
+    ]
+}

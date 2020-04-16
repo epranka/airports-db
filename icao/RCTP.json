@@ -1,0 +1,174 @@
+{
+    "id": "5528",
+    "ident": "RCTP",
+    "type": "large_airport",
+    "name": "Taiwan Taoyuan International Airport",
+    "latitude_deg": "25.0777",
+    "longitude_deg": "121.233002",
+    "elevation_ft": "106",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-TAO",
+    "municipality": "Taipei",
+    "scheduled_service": "yes",
+    "gps_code": "RCTP",
+    "iata_code": "TPE",
+    "local_code": "",
+    "home_link": "http://www.taoyuan-airport.com/",
+    "wikipedia_link": "https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4",
+    "keywords": "Taiwan Taoyuan International Airport, 臺灣桃園國際機場",
+    "runways": [
+        {
+            "id": "239327",
+            "airport_ref": "5528",
+            "airport_ident": "RCTP",
+            "length_ft": "12008",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05L",
+            "le_latitude_deg": "25.0729",
+            "le_longitude_deg": "121.216",
+            "le_elevation_ft": "73",
+            "le_heading_degT": "49.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23R",
+            "he_latitude_deg": "25.0945",
+            "he_longitude_deg": "121.243",
+            "he_elevation_ft": "62",
+            "he_heading_degT": "229.3",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239328",
+            "airport_ref": "5528",
+            "airport_ident": "RCTP",
+            "length_ft": "10991",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05R",
+            "le_latitude_deg": "25.0608",
+            "le_longitude_deg": "121.223",
+            "le_elevation_ft": "106",
+            "le_heading_degT": "49.3",
+            "le_displaced_threshold_ft": "347",
+            "he_ident": "23L",
+            "he_latitude_deg": "25.0833",
+            "he_longitude_deg": "121.252",
+            "he_elevation_ft": "95",
+            "he_heading_degT": "229.3",
+            "he_displaced_threshold_ft": "1167"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58029",
+            "airport_ref": "5528",
+            "airport_ident": "RCTP",
+            "type": "APP",
+            "description": "TAIPEI APP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "58030",
+            "airport_ref": "5528",
+            "airport_ident": "RCTP",
+            "type": "APP",
+            "description": "TAIPEI APP",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "319475",
+            "airport_ref": "5528",
+            "airport_ident": "RCTP",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "58031",
+            "airport_ref": "5528",
+            "airport_ident": "RCTP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "58032",
+            "airport_ref": "5528",
+            "airport_ident": "RCTP",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "319476",
+            "airport_ref": "5528",
+            "airport_ident": "RCTP",
+            "type": "DEP",
+            "description": "",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "58033",
+            "airport_ref": "5528",
+            "airport_ident": "RCTP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "58034",
+            "airport_ref": "5528",
+            "airport_ident": "RCTP",
+            "type": "TWR",
+            "description": "TAIPEI TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305947",
+        "code": "TW-TAO",
+        "local_code": "TAO",
+        "name": "Taoyuan County",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taoyuan_County",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94359",
+            "filename": "Chiang_Kai_Shek_VOR-DME_TW",
+            "ident": "TIA",
+            "name": "Chiang Kai Shek",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "25.08839988708496",
+            "longitude_deg": "121.23300170898438",
+            "elevation_ft": "80",
+            "iso_country": "TW",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.011",
+            "magnetic_variation_deg": "-3.414",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "RCTP"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "711",
+    "ident": "CBR2",
+    "type": "small_airport",
+    "name": "Kaslo Airport",
+    "latitude_deg": "49.90359878540039",
+    "longitude_deg": "-116.93499755859375",
+    "elevation_ft": "2354",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Kaslo",
+    "scheduled_service": "no",
+    "gps_code": "CBR2",
+    "iata_code": "",
+    "local_code": "CBR2",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kaslo_Airport",
+    "keywords": "BR2",
+    "runways": [
+        {
+            "id": "234490",
+            "airport_ref": "711",
+            "airport_ident": "CBR2",
+            "length_ft": "3700",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "49.9035",
+            "le_longitude_deg": "-116.943",
+            "le_elevation_ft": "",
+            "le_heading_degT": "89",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "49.9037",
+            "he_longitude_deg": "-116.927",
+            "he_elevation_ft": "",
+            "he_heading_degT": "269",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49932",
+            "airport_ref": "711",
+            "airport_ident": "CBR2",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    }
+}

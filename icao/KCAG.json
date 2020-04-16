@@ -1,0 +1,88 @@
+{
+    "id": "19459",
+    "ident": "KCAG",
+    "type": "small_airport",
+    "name": "Craig Moffat Airport",
+    "latitude_deg": "40.4952011108",
+    "longitude_deg": "-107.522003174",
+    "elevation_ft": "6193",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Craig",
+    "scheduled_service": "no",
+    "gps_code": "KCAG",
+    "iata_code": "CIG",
+    "local_code": "CAG",
+    "home_link": "http://www.colorado.gov/cs/Satellite/CNTY-Moffat/CBON/1251574649681",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Craig-Moffat_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243514",
+            "airport_ref": "19459",
+            "airport_ident": "KCAG",
+            "length_ft": "5600",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "40.4943",
+            "le_longitude_deg": "-107.532",
+            "le_elevation_ft": "6182",
+            "le_heading_degT": "83",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "40.4962",
+            "he_longitude_deg": "-107.512",
+            "he_elevation_ft": "6193",
+            "he_heading_degT": "263",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66158",
+            "airport_ref": "19459",
+            "airport_ident": "KCAG",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.425"
+        },
+        {
+            "id": "66159",
+            "airport_ref": "19459",
+            "airport_ident": "KCAG",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "120.475"
+        },
+        {
+            "id": "66160",
+            "airport_ref": "19459",
+            "airport_ident": "KCAG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

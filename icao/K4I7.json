@@ -1,0 +1,96 @@
+{
+    "id": "18823",
+    "ident": "K4I7",
+    "type": "small_airport",
+    "name": "Putnam County Airport",
+    "latitude_deg": "39.630299",
+    "longitude_deg": "-86.813904",
+    "elevation_ft": "842",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Greencastle",
+    "scheduled_service": "no",
+    "gps_code": "KGPC",
+    "iata_code": "",
+    "local_code": "GPC",
+    "home_link": "http://putnamcountyregionalairport.com/index.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Putnam_County_Airport",
+    "keywords": "4I7",
+    "runways": [
+        {
+            "id": "245443",
+            "airport_ref": "18823",
+            "airport_ident": "K4I7",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "39.6404",
+            "le_longitude_deg": "-86.8136",
+            "le_elevation_ft": "842",
+            "le_heading_degT": "181.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "39.6267",
+            "he_longitude_deg": "-86.814",
+            "he_elevation_ft": "810",
+            "he_heading_degT": "1.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70333",
+            "airport_ref": "18823",
+            "airport_ident": "K4I7",
+            "type": "APP",
+            "description": "INDIANAPOLIS APP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "70334",
+            "airport_ref": "18823",
+            "airport_ident": "K4I7",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.125"
+        },
+        {
+            "id": "70335",
+            "airport_ref": "18823",
+            "airport_ident": "K4I7",
+            "type": "DEP",
+            "description": "INDIANAPOLIS DEP",
+            "frequency_mhz": "31.78"
+        },
+        {
+            "id": "70336",
+            "airport_ref": "18823",
+            "airport_ident": "K4I7",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

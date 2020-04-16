@@ -1,0 +1,102 @@
+{
+    "id": "2203",
+    "ident": "EDCA",
+    "type": "small_airport",
+    "name": "Anklam Airfield",
+    "latitude_deg": "53.832779",
+    "longitude_deg": "13.668611",
+    "elevation_ft": "16",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-MV",
+    "municipality": "Anklam",
+    "scheduled_service": "no",
+    "gps_code": "EDCA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236302",
+            "airport_ref": "2203",
+            "airport_ident": "EDCA",
+            "length_ft": "3281",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "53.8332",
+            "le_longitude_deg": "13.6616",
+            "le_elevation_ft": "18",
+            "le_heading_degT": "96",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "53.8322",
+            "he_longitude_deg": "13.6767",
+            "he_elevation_ft": "18",
+            "he_heading_degT": "276",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "236303",
+            "airport_ref": "2203",
+            "airport_ident": "EDCA",
+            "length_ft": "2953",
+            "width_ft": "131",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09R",
+            "le_latitude_deg": "53.8325",
+            "le_longitude_deg": "13.6629",
+            "le_elevation_ft": "",
+            "le_heading_degT": "96.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27L",
+            "he_latitude_deg": "53.8317",
+            "he_longitude_deg": "13.6766",
+            "he_elevation_ft": "",
+            "he_heading_degT": "276.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53249",
+            "airport_ref": "2203",
+            "airport_ident": "EDCA",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "53248",
+            "airport_ref": "2203",
+            "airport_ident": "EDCA",
+            "type": "INFO",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "132.65"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303554",
+        "code": "DE-MV",
+        "local_code": "MV",
+        "name": "Mecklenburg-Vorpommern",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mecklenburg-Vorpommern",
+        "keywords": ""
+    }
+}

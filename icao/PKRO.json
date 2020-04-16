@@ -1,0 +1,120 @@
+{
+    "id": "5489",
+    "ident": "PKRO",
+    "type": "small_airport",
+    "name": "Dyess Army Air Field",
+    "latitude_deg": "9.396889686580002",
+    "longitude_deg": "167.470993042",
+    "elevation_ft": "9",
+    "continent": "OC",
+    "iso_country": "MH",
+    "iso_region": "MH-KWA",
+    "municipality": "Roi-Namur",
+    "scheduled_service": "no",
+    "gps_code": "PKRO",
+    "iata_code": "",
+    "local_code": "ROI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238384",
+            "airport_ref": "5489",
+            "airport_ident": "PKRO",
+            "length_ft": "4499",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "9.39277",
+            "le_longitude_deg": "167.466",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "48",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "9.401",
+            "he_longitude_deg": "167.476",
+            "he_elevation_ft": "9",
+            "he_heading_degT": "228",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56393",
+            "airport_ref": "5489",
+            "airport_ident": "PKRO",
+            "type": "A/G",
+            "description": "SAN FRANCISCO ARINC",
+            "frequency_mhz": "299.8"
+        },
+        {
+            "id": "56394",
+            "airport_ref": "5489",
+            "airport_ident": "PKRO",
+            "type": "APP",
+            "description": "KWAJALEIN  APP",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "56395",
+            "airport_ref": "5489",
+            "airport_ident": "PKRO",
+            "type": "RDO",
+            "description": "ROI RDO",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "56396",
+            "airport_ref": "5489",
+            "airport_ident": "PKRO",
+            "type": "TWR",
+            "description": "KWAJALEIN TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302770",
+        "code": "MH",
+        "name": "Marshall Islands",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Marshall_Islands",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304638",
+        "code": "MH-KWA",
+        "local_code": "KWA",
+        "name": "Kwajalein",
+        "continent": "OC",
+        "iso_country": "MH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwajalein",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93192",
+            "filename": "Roi_Namur_TACAN_MH",
+            "ident": "ROI",
+            "name": "Roi Namur",
+            "type": "TACAN",
+            "frequency_khz": "111400",
+            "latitude_deg": "9.39540958404541",
+            "longitude_deg": "167.4739990234375",
+            "elevation_ft": "12",
+            "iso_country": "MH",
+            "dme_frequency_khz": "111400",
+            "dme_channel": "051X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.456",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PKRO"
+        }
+    ]
+}

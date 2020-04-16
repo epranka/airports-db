@@ -1,0 +1,104 @@
+{
+    "id": "5726",
+    "ident": "RPUS",
+    "type": "medium_airport",
+    "name": "San Fernando Airport",
+    "latitude_deg": "16.595600128173828",
+    "longitude_deg": "120.3030014038086",
+    "elevation_ft": "13",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-LUN",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "RPUS",
+    "iata_code": "SFE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/San_Fernando_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238469",
+            "airport_ref": "5726",
+            "airport_ident": "RPUS",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "16.5902",
+            "le_longitude_deg": "120.303",
+            "le_elevation_ft": "",
+            "le_heading_degT": "5.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "16.601",
+            "he_longitude_deg": "120.304",
+            "he_elevation_ft": "",
+            "he_heading_degT": "185.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56538",
+            "airport_ref": "5726",
+            "airport_ident": "RPUS",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "56539",
+            "airport_ref": "5726",
+            "airport_ident": "RPUS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305096",
+        "code": "PH-LUN",
+        "local_code": "LUN",
+        "name": "La Union Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Union_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93377",
+            "filename": "San_Fernando_VOR_PH",
+            "ident": "SAN",
+            "name": "San Fernando",
+            "type": "VOR",
+            "frequency_khz": "114500",
+            "latitude_deg": "16.7283992767334",
+            "longitude_deg": "120.35800170898438",
+            "elevation_ft": "",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-1.441",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPUS"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "20440",
+    "ident": "KM52",
+    "type": "small_airport",
+    "name": "Franklin Wilkins Airport",
+    "latitude_deg": "35.65129852294922",
+    "longitude_deg": "-88.37889862060547",
+    "elevation_ft": "514",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Lexington",
+    "scheduled_service": "no",
+    "gps_code": "KM52",
+    "iata_code": "",
+    "local_code": "M52",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243058",
+            "airport_ref": "20440",
+            "airport_ident": "KM52",
+            "length_ft": "2160",
+            "width_ft": "200",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "35.649",
+            "le_longitude_deg": "-88.383",
+            "le_elevation_ft": "",
+            "le_heading_degT": "21.4",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "20",
+            "he_latitude_deg": "35.6545",
+            "he_longitude_deg": "-88.3803",
+            "he_elevation_ft": "",
+            "he_heading_degT": "201.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243059",
+            "airport_ref": "20440",
+            "airport_ident": "KM52",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "35.6561",
+            "le_longitude_deg": "-88.3815",
+            "le_elevation_ft": "514",
+            "le_heading_degT": "148.7",
+            "le_displaced_threshold_ft": "500",
+            "he_ident": "33",
+            "he_latitude_deg": "35.6443",
+            "he_longitude_deg": "-88.3727",
+            "he_elevation_ft": "507",
+            "he_heading_degT": "328.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65181",
+            "airport_ref": "20440",
+            "airport_ident": "KM52",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "134.65"
+        },
+        {
+            "id": "65182",
+            "airport_ref": "20440",
+            "airport_ident": "KM52",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

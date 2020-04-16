@@ -1,0 +1,110 @@
+{
+    "id": "20756",
+    "ident": "KOOA",
+    "type": "small_airport",
+    "name": "Oskaloosa Municipal Airport",
+    "latitude_deg": "41.2262001",
+    "longitude_deg": "-92.49389648",
+    "elevation_ft": "841",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Oskaloosa",
+    "scheduled_service": "no",
+    "gps_code": "KOOA",
+    "iata_code": "",
+    "local_code": "OOA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241803",
+            "airport_ref": "20756",
+            "airport_ident": "KOOA",
+            "length_ft": "1975",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "41.2268",
+            "le_longitude_deg": "-92.4964",
+            "le_elevation_ft": "837",
+            "le_heading_degT": "44",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "41.2306",
+            "he_longitude_deg": "-92.4915",
+            "he_elevation_ft": "840",
+            "he_heading_degT": "224",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241804",
+            "airport_ref": "20756",
+            "airport_ident": "KOOA",
+            "length_ft": "4003",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "41.2287",
+            "le_longitude_deg": "-92.499",
+            "le_elevation_ft": "837",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "41.221",
+            "he_longitude_deg": "-92.4886",
+            "he_elevation_ft": "835",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62592",
+            "airport_ref": "20756",
+            "airport_ident": "KOOA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.625"
+        },
+        {
+            "id": "62593",
+            "airport_ref": "20756",
+            "airport_ident": "KOOA",
+            "type": "CNTR",
+            "description": "CHICAGO CNTR",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "62594",
+            "airport_ref": "20756",
+            "airport_ident": "KOOA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

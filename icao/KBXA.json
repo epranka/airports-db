@@ -1,0 +1,88 @@
+{
+    "id": "19425",
+    "ident": "KBXA",
+    "type": "small_airport",
+    "name": "George R Carr Memorial Air Field",
+    "latitude_deg": "30.813699722299997",
+    "longitude_deg": "-89.8649978638",
+    "elevation_ft": "119",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Bogalusa",
+    "scheduled_service": "no",
+    "gps_code": "KBXA",
+    "iata_code": "BXA",
+    "local_code": "BXA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243363",
+            "airport_ref": "19425",
+            "airport_ident": "KBXA",
+            "length_ft": "3799",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "30.8189",
+            "le_longitude_deg": "-89.8647",
+            "le_elevation_ft": "118",
+            "le_heading_degT": "183",
+            "le_displaced_threshold_ft": "595",
+            "he_ident": "36",
+            "he_latitude_deg": "30.8085",
+            "he_longitude_deg": "-89.8652",
+            "he_elevation_ft": "110",
+            "he_heading_degT": "3",
+            "he_displaced_threshold_ft": "606"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65813",
+            "airport_ref": "19425",
+            "airport_ident": "KBXA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.025"
+        },
+        {
+            "id": "65814",
+            "airport_ref": "19425",
+            "airport_ident": "KBXA",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "133.5"
+        },
+        {
+            "id": "65815",
+            "airport_ref": "19425",
+            "airport_ident": "KBXA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "325736",
+    "ident": "GOBD",
+    "type": "large_airport",
+    "name": "Blaise Diagne International Airport",
+    "latitude_deg": "14.67",
+    "longitude_deg": "-17.073333",
+    "elevation_ft": "290",
+    "continent": "AF",
+    "iso_country": "SN",
+    "iso_region": "SN-DK",
+    "municipality": "Dakar",
+    "scheduled_service": "yes",
+    "gps_code": "GOBD",
+    "iata_code": "DSS",
+    "local_code": "",
+    "home_link": "http://www.dakaraeroport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Blaise_Diagne_International_Airport",
+    "keywords": "dakar,new dakar airport, dakar airport, diass airport",
+    "runways": [
+        {
+            "id": "325737",
+            "airport_ref": "325736",
+            "airport_ident": "GOBD",
+            "length_ft": "11483",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "14.6552",
+            "le_longitude_deg": "-17.0727",
+            "le_elevation_ft": "272",
+            "le_heading_degT": "359",
+            "le_displaced_threshold_ft": "394",
+            "he_ident": "19",
+            "he_latitude_deg": "14.6868",
+            "he_longitude_deg": "-17.073",
+            "he_elevation_ft": "251",
+            "he_heading_degT": "179",
+            "he_displaced_threshold_ft": "394"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "325738",
+            "airport_ref": "325736",
+            "airport_ident": "GOBD",
+            "type": "ARR",
+            "description": "",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "325740",
+            "airport_ref": "325736",
+            "airport_ident": "GOBD",
+            "type": "ATIS",
+            "description": "ATIS EN",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "325741",
+            "airport_ref": "325736",
+            "airport_ident": "GOBD",
+            "type": "ATIS",
+            "description": "ATIS FR",
+            "frequency_mhz": "126.6"
+        },
+        {
+            "id": "325739",
+            "airport_ref": "325736",
+            "airport_ident": "GOBD",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302600",
+        "code": "SN",
+        "name": "Senegal",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Senegal",
+        "keywords": "Aéroports du Sénégal"
+    },
+    "region": {
+        "id": "305607",
+        "code": "SN-DK",
+        "local_code": "DK",
+        "name": "Dakar Region",
+        "continent": "AF",
+        "iso_country": "SN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dakar_Region",
+        "keywords": ""
+    }
+}

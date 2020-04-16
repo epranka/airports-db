@@ -1,0 +1,104 @@
+{
+    "id": "21300",
+    "ident": "KUNV",
+    "type": "medium_airport",
+    "name": "University Park Airport",
+    "latitude_deg": "40.8493003845",
+    "longitude_deg": "-77.84870147710001",
+    "elevation_ft": "1239",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "State College",
+    "scheduled_service": "yes",
+    "gps_code": "KUNV",
+    "iata_code": "SCE",
+    "local_code": "UNV",
+    "home_link": "http://universityparkairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/University_Park_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243589",
+            "airport_ref": "21300",
+            "airport_ident": "KUNV",
+            "length_ft": "6701",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "40.8444",
+            "le_longitude_deg": "-77.8571",
+            "le_elevation_ft": "1231",
+            "le_heading_degT": "52.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "40.8555",
+            "he_longitude_deg": "-77.8379",
+            "he_elevation_ft": "1192",
+            "he_heading_degT": "232.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66324",
+            "airport_ref": "21300",
+            "airport_ident": "KUNV",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "127.65"
+        },
+        {
+            "id": "66325",
+            "airport_ref": "21300",
+            "airport_ident": "KUNV",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "66326",
+            "airport_ref": "21300",
+            "airport_ident": "KUNV",
+            "type": "CNTR",
+            "description": "NEW YORK CNTR",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "66327",
+            "airport_ref": "21300",
+            "airport_ident": "KUNV",
+            "type": "RDO",
+            "description": "ALTOONA RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "66328",
+            "airport_ref": "21300",
+            "airport_ident": "KUNV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

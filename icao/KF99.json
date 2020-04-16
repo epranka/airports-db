@@ -1,0 +1,102 @@
+{
+    "id": "19842",
+    "ident": "KF99",
+    "type": "small_airport",
+    "name": "Holdenville Municipal Airport",
+    "latitude_deg": "35.08589935",
+    "longitude_deg": "-96.41670227",
+    "elevation_ft": "861",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Holdenville",
+    "scheduled_service": "no",
+    "gps_code": "KF99",
+    "iata_code": "",
+    "local_code": "F99",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244077",
+            "airport_ref": "19842",
+            "airport_ident": "KF99",
+            "length_ft": "3200",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "13",
+            "le_latitude_deg": "35.0878",
+            "le_longitude_deg": "-96.4191",
+            "le_elevation_ft": "",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "35.0816",
+            "he_longitude_deg": "-96.4115",
+            "he_elevation_ft": "",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244078",
+            "airport_ref": "19842",
+            "airport_ident": "KF99",
+            "length_ft": "3250",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "35.0903",
+            "le_longitude_deg": "-96.4167",
+            "le_elevation_ft": "862",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "35.0814",
+            "he_longitude_deg": "-96.4167",
+            "he_elevation_ft": "857",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67339",
+            "airport_ref": "19842",
+            "airport_ident": "KF99",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "132.2"
+        },
+        {
+            "id": "67340",
+            "airport_ref": "19842",
+            "airport_ident": "KF99",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

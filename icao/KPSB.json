@@ -1,0 +1,118 @@
+{
+    "id": "20869",
+    "ident": "KPSB",
+    "type": "small_airport",
+    "name": "Mid-State Regional Airport",
+    "latitude_deg": "40.884399414062",
+    "longitude_deg": "-78.087303161621",
+    "elevation_ft": "1948",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Philipsburg",
+    "scheduled_service": "no",
+    "gps_code": "KPSB",
+    "iata_code": "",
+    "local_code": "PSB",
+    "home_link": "http://www.midstateairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mid-State_Regional_Airport",
+    "keywords": "Black Moshannon Airport",
+    "runways": [
+        {
+            "id": "243928",
+            "airport_ref": "20869",
+            "airport_ident": "KPSB",
+            "length_ft": "5006",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "40.8778",
+            "le_longitude_deg": "-78.0943",
+            "le_elevation_ft": "1867",
+            "le_heading_degT": "50",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "40.8867",
+            "he_longitude_deg": "-78.0805",
+            "he_elevation_ft": "1917",
+            "he_heading_degT": "230",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243929",
+            "airport_ref": "20869",
+            "airport_ident": "KPSB",
+            "length_ft": "5711",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "40.8934",
+            "le_longitude_deg": "-78.0915",
+            "le_elevation_ft": "1948",
+            "le_heading_degT": "156",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "40.8791",
+            "he_longitude_deg": "-78.0831",
+            "he_elevation_ft": "1922",
+            "he_heading_degT": "336",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67051",
+            "airport_ref": "20869",
+            "airport_ident": "KPSB",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "127.525"
+        },
+        {
+            "id": "67052",
+            "airport_ref": "20869",
+            "airport_ident": "KPSB",
+            "type": "CNTR",
+            "description": "NEW YORK CNTR",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "67053",
+            "airport_ref": "20869",
+            "airport_ident": "KPSB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "67054",
+            "airport_ref": "20869",
+            "airport_ident": "KPSB",
+            "type": "RDO",
+            "description": "ALTOONA RDO",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

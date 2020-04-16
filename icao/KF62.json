@@ -1,0 +1,72 @@
+{
+    "id": "19826",
+    "ident": "KF62",
+    "type": "small_airport",
+    "name": "Hayfork Airport",
+    "latitude_deg": "40.547100067139",
+    "longitude_deg": "-123.18199920654",
+    "elevation_ft": "2321",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Hayfork",
+    "scheduled_service": "no",
+    "gps_code": "F62",
+    "iata_code": "",
+    "local_code": "F62",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hayfork_Airport",
+    "keywords": "Q72",
+    "runways": [
+        {
+            "id": "240602",
+            "airport_ref": "19826",
+            "airport_ident": "KF62",
+            "length_ft": "4115",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "40.5464",
+            "le_longitude_deg": "-123.189",
+            "le_elevation_ft": "2304",
+            "le_heading_degT": "85.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "40.5472",
+            "he_longitude_deg": "-123.174",
+            "he_elevation_ft": "2321",
+            "he_heading_degT": "265.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60228",
+            "airport_ref": "19826",
+            "airport_ident": "KF62",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

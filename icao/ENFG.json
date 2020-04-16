@@ -1,0 +1,96 @@
+{
+    "id": "2576",
+    "ident": "ENFG",
+    "type": "medium_airport",
+    "name": "Leirin Airport",
+    "latitude_deg": "61.015598297119",
+    "longitude_deg": "9.2880601882935",
+    "elevation_ft": "2697",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-05",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "ENFG",
+    "iata_code": "VDB",
+    "local_code": "",
+    "home_link": "https://avinor.no/en/airport/fagernes-airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fagernes_Airport%2C_Leirin",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237950",
+            "airport_ref": "2576",
+            "airport_ident": "ENFG",
+            "length_ft": "6722",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "61.0192",
+            "le_longitude_deg": "9.28357",
+            "le_elevation_ft": "2694",
+            "le_heading_degT": "149",
+            "le_displaced_threshold_ft": "479",
+            "he_ident": "33",
+            "he_latitude_deg": "61.0034",
+            "he_longitude_deg": "9.30283",
+            "he_elevation_ft": "2697",
+            "he_heading_degT": "329",
+            "he_displaced_threshold_ft": "207"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55799",
+            "airport_ref": "2576",
+            "airport_ident": "ENFG",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "119.925"
+        }
+    ],
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "304949",
+        "code": "NO-05",
+        "local_code": "05",
+        "name": "Oppland",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oppland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90392",
+            "filename": "Leirin_NDB_NO",
+            "ident": "LL",
+            "name": "Leirin",
+            "type": "NDB",
+            "frequency_khz": "342",
+            "latitude_deg": "61.016300201416016",
+            "longitude_deg": "9.296549797058105",
+            "elevation_ft": "",
+            "iso_country": "NO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.323",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "ENFG"
+        }
+    ]
+}

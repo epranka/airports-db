@@ -1,0 +1,96 @@
+{
+    "id": "20912",
+    "ident": "KRBG",
+    "type": "small_airport",
+    "name": "Roseburg Regional Airport",
+    "latitude_deg": "43.238800048799995",
+    "longitude_deg": "-123.356002808",
+    "elevation_ft": "529",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Roseburg",
+    "scheduled_service": "no",
+    "gps_code": "KRBG",
+    "iata_code": "RBG",
+    "local_code": "RBG",
+    "home_link": "http://www.cityofroseburg.org/departments/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Roseburg_Regional_Airport",
+    "keywords": "Major General Marion E. Carl Memorial Field",
+    "runways": [
+        {
+            "id": "240870",
+            "airport_ref": "20912",
+            "airport_ident": "KRBG",
+            "length_ft": "4601",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "43.2451",
+            "le_longitude_deg": "-123.356",
+            "le_elevation_ft": "524",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "700",
+            "he_ident": "34",
+            "he_latitude_deg": "43.2325",
+            "he_longitude_deg": "-123.356",
+            "he_elevation_ft": "504",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "371"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60674",
+            "airport_ref": "20912",
+            "airport_ident": "KRBG",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.475"
+        },
+        {
+            "id": "60675",
+            "airport_ref": "20912",
+            "airport_ident": "KRBG",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "60676",
+            "airport_ref": "20912",
+            "airport_ident": "KRBG",
+            "type": "RDO",
+            "description": "MC MINNVILLE RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "60677",
+            "airport_ref": "20912",
+            "airport_ident": "KRBG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306113",
+        "code": "US-OR",
+        "local_code": "OR",
+        "name": "Oregon",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
+        "keywords": ""
+    }
+}

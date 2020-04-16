@@ -1,0 +1,150 @@
+{
+    "id": "2551",
+    "ident": "EKRK",
+    "type": "medium_airport",
+    "name": "Copenhagen Roskilde Airport",
+    "latitude_deg": "55.585601806640625",
+    "longitude_deg": "12.131400108337402",
+    "elevation_ft": "146",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-85",
+    "municipality": "Copenhagen",
+    "scheduled_service": "no",
+    "gps_code": "EKRK",
+    "iata_code": "RKE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Roskilde_Airport",
+    "keywords": "København",
+    "runways": [
+        {
+            "id": "235458",
+            "airport_ref": "2551",
+            "airport_ident": "EKRK",
+            "length_ft": "4921",
+            "width_ft": "105",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "55.5784",
+            "le_longitude_deg": "12.1238",
+            "le_elevation_ft": "127",
+            "le_heading_degT": "30.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "55.59",
+            "he_longitude_deg": "12.1361",
+            "he_elevation_ft": "146",
+            "he_heading_degT": "210.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "235459",
+            "airport_ref": "2551",
+            "airport_ident": "EKRK",
+            "length_ft": "5709",
+            "width_ft": "105",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "55.59",
+            "le_longitude_deg": "12.1156",
+            "le_elevation_ft": "145",
+            "le_heading_degT": "116.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "55.5831",
+            "he_longitude_deg": "12.1404",
+            "he_elevation_ft": "138",
+            "he_heading_degT": "296.3",
+            "he_displaced_threshold_ft": "193"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51712",
+            "airport_ref": "2551",
+            "airport_ident": "EKRK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.525"
+        },
+        {
+            "id": "51713",
+            "airport_ref": "2551",
+            "airport_ident": "EKRK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "51714",
+            "airport_ref": "2551",
+            "airport_ident": "EKRK",
+            "type": "MISC",
+            "description": "HANDLING",
+            "frequency_mhz": "130.225"
+        },
+        {
+            "id": "51715",
+            "airport_ref": "2551",
+            "airport_ident": "EKRK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "75395",
+            "airport_ref": "2551",
+            "airport_ident": "EKRK",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "119.65"
+        }
+    ],
+    "country": {
+        "id": "302682",
+        "code": "DK",
+        "name": "Denmark",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
+        "keywords": "Lufthavnene i Danmark"
+    },
+    "region": {
+        "id": "306325",
+        "code": "DK-85",
+        "local_code": "85",
+        "name": "Zealand",
+        "continent": "EU",
+        "iso_country": "DK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zealand",
+        "keywords": "Sjælland"
+    },
+    "navaids": [
+        {
+            "id": "93116",
+            "filename": "Roskilde_NDB_DK",
+            "ident": "RK",
+            "name": "Roskilde",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "55.62310028076172",
+            "longitude_deg": "11.997200012207031",
+            "elevation_ft": "",
+            "iso_country": "DK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.453",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "EKRK"
+        }
+    ]
+}

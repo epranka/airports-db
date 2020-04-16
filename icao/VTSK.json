@@ -1,0 +1,104 @@
+{
+    "id": "26671",
+    "ident": "VTSK",
+    "type": "medium_airport",
+    "name": "Pattani Airport",
+    "latitude_deg": "6.785459995269775",
+    "longitude_deg": "101.15399932861328",
+    "elevation_ft": "8",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-94",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "VTSK",
+    "iata_code": "PAN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239162",
+            "airport_ref": "26671",
+            "airport_ident": "VTSK",
+            "length_ft": "4593",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "6.78503",
+            "le_longitude_deg": "101.147",
+            "le_elevation_ft": "7",
+            "le_heading_degT": "86",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "6.78588",
+            "he_longitude_deg": "101.16",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "266",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57670",
+            "airport_ref": "26671",
+            "airport_ident": "VTSK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.55"
+        },
+        {
+            "id": "57671",
+            "airport_ref": "26671",
+            "airport_ident": "VTSK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.3"
+        }
+    ],
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305780",
+        "code": "TH-94",
+        "local_code": "94",
+        "name": "Pattani Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pattani",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92756",
+            "filename": "Pattani_NDB_TH",
+            "ident": "PT",
+            "name": "Pattani",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "6.788459777832031",
+            "longitude_deg": "101.14800262451172",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.153",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTSK"
+        }
+    ]
+}

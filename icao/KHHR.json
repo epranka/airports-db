@@ -1,0 +1,120 @@
+{
+    "id": "3578",
+    "ident": "KHHR",
+    "type": "medium_airport",
+    "name": "Jack Northrop Field Hawthorne Municipal Airport",
+    "latitude_deg": "33.922798",
+    "longitude_deg": "-118.334999",
+    "elevation_ft": "66",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Hawthorne",
+    "scheduled_service": "no",
+    "gps_code": "KHHR",
+    "iata_code": "HHR",
+    "local_code": "HHR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hawthorne_Municipal_Airport_(California)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241199",
+            "airport_ref": "3578",
+            "airport_ident": "KHHR",
+            "length_ft": "4956",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "33.9225",
+            "le_longitude_deg": "-118.343",
+            "le_elevation_ft": "64",
+            "le_heading_degT": "86.7",
+            "le_displaced_threshold_ft": "971",
+            "he_ident": "25",
+            "he_latitude_deg": "33.9232",
+            "he_longitude_deg": "-118.327",
+            "he_elevation_ft": "61",
+            "he_heading_degT": "266.7",
+            "he_displaced_threshold_ft": "463"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61345",
+            "airport_ref": "3578",
+            "airport_ident": "KHHR",
+            "type": "APP",
+            "description": "SOCAL APP",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "61346",
+            "airport_ref": "3578",
+            "airport_ident": "KHHR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "61347",
+            "airport_ref": "3578",
+            "airport_ident": "KHHR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "61348",
+            "airport_ref": "3578",
+            "airport_ident": "KHHR",
+            "type": "DEP",
+            "description": "SOCAL DEP",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "61349",
+            "airport_ref": "3578",
+            "airport_ident": "KHHR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "61350",
+            "airport_ref": "3578",
+            "airport_ident": "KHHR",
+            "type": "RDO",
+            "description": "HAWTHORNE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "61351",
+            "airport_ref": "3578",
+            "airport_ident": "KHHR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.1"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

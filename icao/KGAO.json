@@ -1,0 +1,88 @@
+{
+    "id": "19923",
+    "ident": "KGAO",
+    "type": "small_airport",
+    "name": "South Lafourche Leonard Miller Jr Airport",
+    "latitude_deg": "29.44479942",
+    "longitude_deg": "-90.26110077",
+    "elevation_ft": "1",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Galliano",
+    "scheduled_service": "no",
+    "gps_code": "KGAO",
+    "iata_code": "",
+    "local_code": "GAO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241033",
+            "airport_ref": "19923",
+            "airport_ident": "KGAO",
+            "length_ft": "3800",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "29.45",
+            "le_longitude_deg": "-90.2611",
+            "le_elevation_ft": "",
+            "le_heading_degT": "180.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "29.4396",
+            "he_longitude_deg": "-90.2612",
+            "he_elevation_ft": "",
+            "he_heading_degT": "0.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61017",
+            "airport_ref": "19923",
+            "airport_ident": "KGAO",
+            "type": "A/D",
+            "description": "NEW ORLEANS APP/DEP",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "61018",
+            "airport_ref": "19923",
+            "airport_ident": "KGAO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.175"
+        },
+        {
+            "id": "61019",
+            "airport_ref": "19923",
+            "airport_ident": "KGAO",
+            "type": "UNIC",
+            "description": "UNICOM CTAF",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

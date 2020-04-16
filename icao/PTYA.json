@@ -1,0 +1,104 @@
+{
+    "id": "5503",
+    "ident": "PTYA",
+    "type": "medium_airport",
+    "name": "Yap International Airport",
+    "latitude_deg": "9.49891",
+    "longitude_deg": "138.082993",
+    "elevation_ft": "91",
+    "continent": "OC",
+    "iso_country": "FM",
+    "iso_region": "FM-YAP",
+    "municipality": "Yap Island",
+    "scheduled_service": "yes",
+    "gps_code": "PTYA",
+    "iata_code": "YAP",
+    "local_code": "T11",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yap_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235787",
+            "airport_ref": "5503",
+            "airport_ident": "PTYA",
+            "length_ft": "6000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "9.49631",
+            "le_longitude_deg": "138.075",
+            "le_elevation_ft": "91",
+            "le_heading_degT": "72",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "9.50151",
+            "he_longitude_deg": "138.09",
+            "he_elevation_ft": "89",
+            "he_heading_degT": "252",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52167",
+            "airport_ref": "5503",
+            "airport_ident": "PTYA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "52168",
+            "airport_ref": "5503",
+            "airport_ident": "PTYA",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "123.6"
+        }
+    ],
+    "country": {
+        "id": "302767",
+        "code": "FM",
+        "name": "Micronesia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303817",
+        "code": "FM-YAP",
+        "local_code": "YAP",
+        "name": "Yap State",
+        "continent": "OC",
+        "iso_country": "FM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yap_State",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95784",
+            "filename": "Yap_NDB-DME_FM",
+            "ident": "YP",
+            "name": "Yap",
+            "type": "NDB-DME",
+            "frequency_khz": "317",
+            "latitude_deg": "9.485600471496582",
+            "longitude_deg": "138.0800018310547",
+            "elevation_ft": "91",
+            "iso_country": "FM",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.09",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PTYA"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "30553",
+    "ident": "HSWW",
+    "type": "medium_airport",
+    "name": "Wau Airport",
+    "latitude_deg": "7.7258300781199996",
+    "longitude_deg": "27.9750003815",
+    "elevation_ft": "1529",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-14",
+    "municipality": "Wau",
+    "scheduled_service": "yes",
+    "gps_code": "HSWW",
+    "iata_code": "WUU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wau_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "260230",
+            "airport_ref": "30553",
+            "airport_ident": "HSWW",
+            "length_ft": "7644",
+            "width_ft": "",
+            "surface": "UNK",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "1507",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "1533",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "323049",
+            "airport_ref": "30553",
+            "airport_ident": "HSWW",
+            "type": "INFO",
+            "description": "",
+            "frequency_mhz": "119.2"
+        }
+    ],
+    "country": {
+        "id": "302614",
+        "code": "SS",
+        "name": "South Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Sudan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305397",
+        "code": "SS-14",
+        "local_code": "14",
+        "name": "Western Bahr el Ghazal State",
+        "continent": "AF",
+        "iso_country": "SS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Bahr_el_Ghazal",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95519",
+            "filename": "Wau_NDB_SD",
+            "ident": "Wau_NDB_",
+            "name": "Wau",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "7.723020076751709",
+            "longitude_deg": "27.976499557495117",
+            "elevation_ft": "",
+            "iso_country": "SS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.275",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HSWW"
+        }
+    ]
+}

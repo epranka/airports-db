@@ -1,0 +1,110 @@
+{
+    "id": "20836",
+    "ident": "KPKD",
+    "type": "small_airport",
+    "name": "Park Rapids Municipal Konshok Field",
+    "latitude_deg": "46.9006",
+    "longitude_deg": "-95.073095",
+    "elevation_ft": "1445",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Park Rapids",
+    "scheduled_service": "no",
+    "gps_code": "KPKD",
+    "iata_code": "PKD",
+    "local_code": "PKD",
+    "home_link": "http://ci.park-rapids.mn.us/i_want_to/airport/index.php",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243631",
+            "airport_ref": "20836",
+            "airport_ident": "KPKD",
+            "length_ft": "5498",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "46.9067",
+            "le_longitude_deg": "-95.0811",
+            "le_elevation_ft": "1443",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "46.896",
+            "he_longitude_deg": "-95.0656",
+            "he_elevation_ft": "1442",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243632",
+            "airport_ref": "20836",
+            "airport_ident": "KPKD",
+            "length_ft": "3190",
+            "width_ft": "140",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "46.9034",
+            "le_longitude_deg": "-95.0727",
+            "le_elevation_ft": "1437",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "46.8951",
+            "he_longitude_deg": "-95.0727",
+            "he_elevation_ft": "1442",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66426",
+            "airport_ref": "20836",
+            "airport_ident": "KPKD",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "110.6"
+        },
+        {
+            "id": "66427",
+            "airport_ref": "20836",
+            "airport_ident": "KPKD",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "110.6"
+        },
+        {
+            "id": "66428",
+            "airport_ref": "20836",
+            "airport_ident": "KPKD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

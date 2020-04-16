@@ -1,0 +1,136 @@
+{
+    "id": "4927",
+    "ident": "MYAM",
+    "type": "medium_airport",
+    "name": "Leonard M Thompson International Airport",
+    "latitude_deg": "26.5114",
+    "longitude_deg": "-77.083503",
+    "elevation_ft": "6",
+    "continent": "NA",
+    "iso_country": "BS",
+    "iso_region": "BS-MH",
+    "municipality": "Marsh Harbour",
+    "scheduled_service": "yes",
+    "gps_code": "MYAM",
+    "iata_code": "MHH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Marsh_Harbour_Airport",
+    "keywords": "Marsh Harbour International",
+    "runways": [
+        {
+            "id": "233646",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "length_ft": "4998",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "26.5112",
+            "le_longitude_deg": "-77.0911",
+            "le_elevation_ft": "6",
+            "le_heading_degT": "88",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "26.5116",
+            "he_longitude_deg": "-77.0758",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "268",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49373",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "type": "APP",
+            "description": "FREEPORT APP",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "333719",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "type": "GND",
+            "description": "Ground",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "49374",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "type": "RDO",
+            "description": "Nassau Radio (Secondary)",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "333718",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "type": "RDO",
+            "description": "Nassau Radio",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "333720",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "type": "TWR",
+            "description": "Tower",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "49375",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302728",
+        "code": "BS",
+        "name": "Bahamas",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahamas",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303241",
+        "code": "BS-MH",
+        "local_code": "MH",
+        "name": "Marsh Harbour",
+        "continent": "NA",
+        "iso_country": "BS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Marsh_Harbour",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "96061",
+            "filename": "Marsh_Harbour_NDB_BS",
+            "ident": "ZMH",
+            "name": "Marsh Harbour",
+            "type": "NDB",
+            "frequency_khz": "361",
+            "latitude_deg": "26.51110076904297",
+            "longitude_deg": "-77.07689666748047",
+            "elevation_ft": "6",
+            "iso_country": "BS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.433",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MYAM"
+        }
+    ]
+}

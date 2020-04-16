@@ -1,0 +1,96 @@
+{
+    "id": "26525",
+    "ident": "VGBR",
+    "type": "medium_airport",
+    "name": "Barisal Airport",
+    "latitude_deg": "22.801000595092773",
+    "longitude_deg": "90.30120086669922",
+    "elevation_ft": "23",
+    "continent": "AS",
+    "iso_country": "BD",
+    "iso_region": "BD-1",
+    "municipality": "Barisal",
+    "scheduled_service": "yes",
+    "gps_code": "VGBR",
+    "iata_code": "BZL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Barisal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233683",
+            "airport_ref": "26525",
+            "airport_ident": "VGBR",
+            "length_ft": "5995",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "22.8092",
+            "le_longitude_deg": "90.3002",
+            "le_elevation_ft": "10",
+            "le_heading_degT": "173.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "22.7928",
+            "he_longitude_deg": "90.3021",
+            "he_elevation_ft": "10",
+            "he_heading_degT": "353.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49429",
+            "airport_ref": "26525",
+            "airport_ident": "VGBR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302622",
+        "code": "BD",
+        "name": "Bangladesh",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bangladesh",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306743",
+        "code": "BD-1",
+        "local_code": "1",
+        "name": "Barisal Division",
+        "continent": "AS",
+        "iso_country": "BD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Barisal_Division",
+        "keywords": "Barisal bibhag"
+    },
+    "navaids": [
+        {
+            "id": "86123",
+            "filename": "Barisal_NDB_BD",
+            "ident": "BL",
+            "name": "Barisal",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "22.797800064086914",
+            "longitude_deg": "90.29779815673828",
+            "elevation_ft": "",
+            "iso_country": "BD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.337",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VGBR"
+        }
+    ]
+}

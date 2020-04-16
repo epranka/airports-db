@@ -1,0 +1,96 @@
+{
+    "id": "5113",
+    "ident": "OERM",
+    "type": "medium_airport",
+    "name": "Ras Mishab Airport",
+    "latitude_deg": "28.079599380493164",
+    "longitude_deg": "48.611000061035156",
+    "elevation_ft": "13",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-04",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "OERM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238640",
+            "airport_ref": "5113",
+            "airport_ident": "OERM",
+            "length_ft": "11058",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "28.0942",
+            "le_longitude_deg": "48.6061",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "164",
+            "le_displaced_threshold_ft": "530",
+            "he_ident": "34",
+            "he_latitude_deg": "28.065",
+            "he_longitude_deg": "48.6158",
+            "he_elevation_ft": "10",
+            "he_heading_degT": "344",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56906",
+            "airport_ref": "5113",
+            "airport_ident": "OERM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305363",
+        "code": "SA-04",
+        "local_code": "04",
+        "name": "Ash Sharqiyah Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ash_Sharqiyah_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92968",
+            "filename": "Ras_Mishab_VORTAC_SA",
+            "ident": "RAS",
+            "name": "Ras Mishab",
+            "type": "VORTAC",
+            "frequency_khz": "116400",
+            "latitude_deg": "28.077899932861328",
+            "longitude_deg": "48.61470031738281",
+            "elevation_ft": "13",
+            "iso_country": "SA",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.418",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OERM"
+        }
+    ]
+}

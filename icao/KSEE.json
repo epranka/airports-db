@@ -1,0 +1,172 @@
+{
+    "id": "21047",
+    "ident": "KSEE",
+    "type": "small_airport",
+    "name": "Gillespie Field",
+    "latitude_deg": "32.826198577881",
+    "longitude_deg": "-116.97200012207",
+    "elevation_ft": "388",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Diego/El Cajon",
+    "scheduled_service": "no",
+    "gps_code": "KSEE",
+    "iata_code": "SEE",
+    "local_code": "SEE",
+    "home_link": "http://GillespieField.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gillespie_Field",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242524",
+            "airport_ref": "21047",
+            "airport_ident": "KSEE",
+            "length_ft": "5342",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09L",
+            "le_latitude_deg": "32.8295",
+            "le_longitude_deg": "-116.981",
+            "le_elevation_ft": "359",
+            "le_heading_degT": "102.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27R",
+            "he_latitude_deg": "32.8264",
+            "he_longitude_deg": "-116.964",
+            "he_elevation_ft": "376",
+            "he_heading_degT": "282.1",
+            "he_displaced_threshold_ft": "1306"
+        },
+        {
+            "id": "242523",
+            "airport_ref": "21047",
+            "airport_ident": "KSEE",
+            "length_ft": "2738",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09R",
+            "le_latitude_deg": "32.8274",
+            "le_longitude_deg": "-116.976",
+            "le_elevation_ft": "366",
+            "le_heading_degT": "102.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27L",
+            "he_latitude_deg": "32.8258",
+            "he_longitude_deg": "-116.968",
+            "he_elevation_ft": "380",
+            "he_heading_degT": "282.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242525",
+            "airport_ref": "21047",
+            "airport_ident": "KSEE",
+            "length_ft": "4145",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "32.8295",
+            "le_longitude_deg": "-116.972",
+            "le_elevation_ft": "368",
+            "le_heading_degT": "179.6",
+            "le_displaced_threshold_ft": "450",
+            "he_ident": "35",
+            "he_latitude_deg": "32.8181",
+            "he_longitude_deg": "-116.972",
+            "he_elevation_ft": "380",
+            "he_heading_degT": "359.6",
+            "he_displaced_threshold_ft": "687"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64102",
+            "airport_ref": "21047",
+            "airport_ident": "KSEE",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "64103",
+            "airport_ref": "21047",
+            "airport_ident": "KSEE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.45"
+        },
+        {
+            "id": "64104",
+            "airport_ref": "21047",
+            "airport_ident": "KSEE",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "125.45"
+        },
+        {
+            "id": "64105",
+            "airport_ref": "21047",
+            "airport_ident": "KSEE",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "64106",
+            "airport_ref": "21047",
+            "airport_ident": "KSEE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "64107",
+            "airport_ref": "21047",
+            "airport_ident": "KSEE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "64108",
+            "airport_ref": "21047",
+            "airport_ident": "KSEE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "64109",
+            "airport_ref": "21047",
+            "airport_ident": "KSEE",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

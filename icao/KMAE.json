@@ -1,0 +1,110 @@
+{
+    "id": "20469",
+    "ident": "KMAE",
+    "type": "small_airport",
+    "name": "Madera Municipal Airport",
+    "latitude_deg": "36.9886016846",
+    "longitude_deg": "-120.111999512",
+    "elevation_ft": "255",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Madera",
+    "scheduled_service": "no",
+    "gps_code": "KMAE",
+    "iata_code": "MAE",
+    "local_code": "MAE",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Madera_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242590",
+            "airport_ref": "20469",
+            "airport_ident": "KMAE",
+            "length_ft": "3702",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "36.9834",
+            "le_longitude_deg": "-120.119",
+            "le_elevation_ft": "244",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "36.9834",
+            "he_longitude_deg": "-120.107",
+            "he_elevation_ft": "253",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242591",
+            "airport_ref": "20469",
+            "airport_ident": "KMAE",
+            "length_ft": "5545",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "36.994",
+            "le_longitude_deg": "-120.119",
+            "le_elevation_ft": "249",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "36.9832",
+            "he_longitude_deg": "-120.106",
+            "he_elevation_ft": "253",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64251",
+            "airport_ref": "20469",
+            "airport_ident": "KMAE",
+            "type": "A/D",
+            "description": "FRESNO APP/DEP",
+            "frequency_mhz": "119.45"
+        },
+        {
+            "id": "64252",
+            "airport_ref": "20469",
+            "airport_ident": "KMAE",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "134.725"
+        },
+        {
+            "id": "64253",
+            "airport_ref": "20469",
+            "airport_ident": "KMAE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

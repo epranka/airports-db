@@ -1,0 +1,102 @@
+{
+    "id": "21274",
+    "ident": "KU78",
+    "type": "small_airport",
+    "name": "Allen H Tigert Airport",
+    "latitude_deg": "42.6416015625",
+    "longitude_deg": "-111.58000183105469",
+    "elevation_ft": "5839",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Soda Springs",
+    "scheduled_service": "no",
+    "gps_code": "KU78",
+    "iata_code": "",
+    "local_code": "U78",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243805",
+            "airport_ref": "21274",
+            "airport_ident": "KU78",
+            "length_ft": "2500",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "13",
+            "le_latitude_deg": "42.6433",
+            "le_longitude_deg": "-111.581",
+            "le_elevation_ft": "5814",
+            "le_heading_degT": "148",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "42.6375",
+            "he_longitude_deg": "-111.576",
+            "he_elevation_ft": "5834",
+            "he_heading_degT": "328",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243806",
+            "airport_ref": "21274",
+            "airport_ident": "KU78",
+            "length_ft": "3500",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "42.6447",
+            "le_longitude_deg": "-111.581",
+            "le_elevation_ft": "5819",
+            "le_heading_degT": "171",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "34",
+            "he_latitude_deg": "42.6353",
+            "he_longitude_deg": "-111.579",
+            "he_elevation_ft": "5839",
+            "he_heading_degT": "351",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66802",
+            "airport_ref": "21274",
+            "airport_ident": "KU78",
+            "type": "ARTC",
+            "description": "SALT LAKE CITY",
+            "frequency_mhz": "126.75"
+        },
+        {
+            "id": "66803",
+            "airport_ref": "21274",
+            "airport_ident": "KU78",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": ""
+    }
+}

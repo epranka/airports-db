@@ -1,0 +1,72 @@
+{
+    "id": "31899",
+    "ident": "HCMM",
+    "type": "medium_airport",
+    "name": "Aden Adde International Airport",
+    "latitude_deg": "2.0144400596618652",
+    "longitude_deg": "45.3046989440918",
+    "elevation_ft": "29",
+    "continent": "AF",
+    "iso_country": "SO",
+    "iso_region": "SO-BN",
+    "municipality": "Mogadishu",
+    "scheduled_service": "yes",
+    "gps_code": "HCMM",
+    "iata_code": "MGQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Aden_Adde_International_Airport",
+    "keywords": "HCCM",
+    "runways": [
+        {
+            "id": "260240",
+            "airport_ref": "31899",
+            "airport_ident": "HCMM",
+            "length_ft": "10335",
+            "width_ft": "",
+            "surface": "UNK",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "30",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "308479",
+            "airport_ref": "31899",
+            "airport_ident": "HCMM",
+            "type": "APPROACH / TOWER",
+            "description": "",
+            "frequency_mhz": "132.5"
+        }
+    ],
+    "country": {
+        "id": "302601",
+        "code": "SO",
+        "name": "Somalia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Somalia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305620",
+        "code": "SO-BN",
+        "local_code": "BN",
+        "name": "Banaadir",
+        "continent": "AF",
+        "iso_country": "SO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Banaadir",
+        "keywords": ""
+    }
+}

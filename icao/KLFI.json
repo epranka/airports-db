@@ -1,0 +1,160 @@
+{
+    "id": "3641",
+    "ident": "KLFI",
+    "type": "large_airport",
+    "name": "Langley Air Force Base",
+    "latitude_deg": "37.082901001",
+    "longitude_deg": "-76.360496521",
+    "elevation_ft": "11",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Hampton",
+    "scheduled_service": "no",
+    "gps_code": "KLFI",
+    "iata_code": "LFI",
+    "local_code": "LFI",
+    "home_link": "http://www.langleyafb.us/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Langley_Field",
+    "keywords": "Langley Field",
+    "runways": [
+        {
+            "id": "245844",
+            "airport_ref": "3641",
+            "airport_ident": "KLFI",
+            "length_ft": "10000",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "37.0776",
+            "le_longitude_deg": "-76.3764",
+            "le_elevation_ft": "9",
+            "le_heading_degT": "67.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "37.0881",
+            "he_longitude_deg": "-76.3447",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "247.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71177",
+            "airport_ref": "3641",
+            "airport_ident": "KLFI",
+            "type": "A/D",
+            "description": "NORFOLK APP/DEP",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "71178",
+            "airport_ref": "3641",
+            "airport_ident": "KLFI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "27.01"
+        },
+        {
+            "id": "71179",
+            "airport_ref": "3641",
+            "airport_ident": "KLFI",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "71180",
+            "airport_ref": "3641",
+            "airport_ident": "KLFI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "71181",
+            "airport_ref": "3641",
+            "airport_ident": "KLFI",
+            "type": "OPS",
+            "description": "NASA OPS",
+            "frequency_mhz": "123.375"
+        },
+        {
+            "id": "71182",
+            "airport_ref": "3641",
+            "airport_ident": "KLFI",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "23.98"
+        },
+        {
+            "id": "71183",
+            "airport_ref": "3641",
+            "airport_ident": "KLFI",
+            "type": "POST",
+            "description": "CNSOLIDATED CMD POST",
+            "frequency_mhz": "25.125"
+        },
+        {
+            "id": "71184",
+            "airport_ref": "3641",
+            "airport_ident": "KLFI",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "141.75"
+        },
+        {
+            "id": "71185",
+            "airport_ref": "3641",
+            "airport_ident": "KLFI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90296",
+            "filename": "Langley_TACAN_US",
+            "ident": "LFI",
+            "name": "Langley",
+            "type": "TACAN",
+            "frequency_khz": "112300",
+            "latitude_deg": "37.085601806640625",
+            "longitude_deg": "-76.3593978881836",
+            "elevation_ft": "11",
+            "iso_country": "US",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.004",
+            "magnetic_variation_deg": "-10.376",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KLFI"
+        }
+    ]
+}

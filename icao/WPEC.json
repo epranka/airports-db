@@ -1,0 +1,80 @@
+{
+    "id": "26882",
+    "ident": "WPEC",
+    "type": "medium_airport",
+    "name": "Cakung Airport",
+    "latitude_deg": "-8.489029884339999",
+    "longitude_deg": "126.401000977",
+    "elevation_ft": "1771",
+    "continent": "AS",
+    "iso_country": "TL",
+    "iso_region": "TL-BA",
+    "municipality": "Baucau",
+    "scheduled_service": "no",
+    "gps_code": "WPEC",
+    "iata_code": "BCH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cakung_Airport",
+    "keywords": "English Madeira airport",
+    "runways": [
+        {
+            "id": "239230",
+            "airport_ref": "26882",
+            "airport_ident": "WPEC",
+            "length_ft": "8233",
+            "width_ft": "182",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-8.47647",
+            "le_longitude_deg": "126.392",
+            "le_elevation_ft": "1692",
+            "le_heading_degT": "142",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-8.4944",
+            "he_longitude_deg": "126.406",
+            "he_elevation_ft": "1777",
+            "he_heading_degT": "322",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57814",
+            "airport_ref": "26882",
+            "airport_ident": "WPEC",
+            "type": "CTAF",
+            "description": "E TIMOR COMMON HIGH",
+            "frequency_mhz": "123.45"
+        },
+        {
+            "id": "57815",
+            "airport_ref": "26882",
+            "airport_ident": "WPEC",
+            "type": "INFO",
+            "description": "E TIMOR COMMON LOW",
+            "frequency_mhz": "127.1"
+        }
+    ],
+    "country": {
+        "id": "302665",
+        "code": "TL",
+        "name": "Timor-Leste",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Timor-Leste",
+        "keywords": "East Timor"
+    },
+    "region": {
+        "id": "305792",
+        "code": "TL-BA",
+        "local_code": "BA",
+        "name": "Baucau",
+        "continent": "AS",
+        "iso_country": "TL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baucau",
+        "keywords": ""
+    }
+}

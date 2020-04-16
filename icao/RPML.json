@@ -1,0 +1,104 @@
+{
+    "id": "5704",
+    "ident": "RPML",
+    "type": "small_airport",
+    "name": "Cagayan De Oro Airport",
+    "latitude_deg": "8.41562",
+    "longitude_deg": "124.611",
+    "elevation_ft": "601",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-MSR",
+    "municipality": "Cagayan De Oro City",
+    "scheduled_service": "no",
+    "gps_code": "RPML",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lumbia_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238417",
+            "airport_ref": "5704",
+            "airport_ident": "RPML",
+            "length_ft": "8050",
+            "width_ft": "118",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "8.4048",
+            "le_longitude_deg": "124.609",
+            "le_elevation_ft": "599",
+            "le_heading_degT": "12.9",
+            "le_displaced_threshold_ft": "440",
+            "he_ident": "19",
+            "he_latitude_deg": "8.42644",
+            "he_longitude_deg": "124.614",
+            "he_elevation_ft": "597",
+            "he_heading_degT": "192.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56472",
+            "airport_ref": "5704",
+            "airport_ident": "RPML",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "56473",
+            "airport_ref": "5704",
+            "airport_ident": "RPML",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.9"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305104",
+        "code": "PH-MSR",
+        "local_code": "MSR",
+        "name": "Misamis Oriental Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Misamis_Oriental_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86728",
+            "filename": "Cagayan_De_Oro_VOR-DME_PH",
+            "ident": "CGO",
+            "name": "Cagayan De Oro",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "8.415690422058105",
+            "longitude_deg": "124.60900115966797",
+            "elevation_ft": "601",
+            "iso_country": "PH",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.057",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPML"
+        }
+    ]
+}

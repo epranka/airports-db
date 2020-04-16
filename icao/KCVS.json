@@ -1,0 +1,182 @@
+{
+    "id": "3473",
+    "ident": "KCVS",
+    "type": "large_airport",
+    "name": "Cannon Air Force Base",
+    "latitude_deg": "34.3828010559",
+    "longitude_deg": "-103.321998596",
+    "elevation_ft": "4295",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Clovis",
+    "scheduled_service": "no",
+    "gps_code": "KCVS",
+    "iata_code": "CVS",
+    "local_code": "CVS",
+    "home_link": "http://www.cannon.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cannon_Air_Force_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245418",
+            "airport_ref": "3473",
+            "airport_ident": "KCVS",
+            "length_ft": "10000",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "34.3767",
+            "le_longitude_deg": "-103.332",
+            "le_elevation_ft": "4284",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "34.3962",
+            "he_longitude_deg": "-103.308",
+            "he_elevation_ft": "4295",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245419",
+            "airport_ref": "3473",
+            "airport_ident": "KCVS",
+            "length_ft": "8200",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "34.3863",
+            "le_longitude_deg": "-103.334",
+            "le_elevation_ft": "4294",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "34.3703",
+            "he_longitude_deg": "-103.315",
+            "he_elevation_ft": "4270",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70270",
+            "airport_ref": "3473",
+            "airport_ident": "KCVS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "70271",
+            "airport_ref": "3473",
+            "airport_ident": "KCVS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "70272",
+            "airport_ref": "3473",
+            "airport_ident": "KCVS",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "70273",
+            "airport_ref": "3473",
+            "airport_ident": "KCVS",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "70274",
+            "airport_ref": "3473",
+            "airport_ident": "KCVS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "70275",
+            "airport_ref": "3473",
+            "airport_ident": "KCVS",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "70276",
+            "airport_ref": "3473",
+            "airport_ident": "KCVS",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "38.13"
+        },
+        {
+            "id": "70277",
+            "airport_ref": "3473",
+            "airport_ident": "KCVS",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "139.6"
+        },
+        {
+            "id": "70278",
+            "airport_ref": "3473",
+            "airport_ident": "KCVS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.4"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87152",
+            "filename": "Cannon_TACAN_US",
+            "ident": "CVS",
+            "name": "Cannon",
+            "type": "TACAN",
+            "frequency_khz": "111600",
+            "latitude_deg": "34.38059997558594",
+            "longitude_deg": "-103.3219985961914",
+            "elevation_ft": "4280",
+            "iso_country": "US",
+            "dme_frequency_khz": "111600",
+            "dme_channel": "053X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.001",
+            "magnetic_variation_deg": "8.167",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KCVS"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "19626",
+    "ident": "KDGL",
+    "type": "small_airport",
+    "name": "Douglas Municipal Airport",
+    "latitude_deg": "31.3425998688",
+    "longitude_deg": "-109.505996704",
+    "elevation_ft": "4173",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Douglas",
+    "scheduled_service": "no",
+    "gps_code": "KDGL",
+    "iata_code": "DGL",
+    "local_code": "DGL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Douglas_Municipal_Airport_(Arizona)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242641",
+            "airport_ref": "19626",
+            "airport_ident": "KDGL",
+            "length_ft": "5760",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "31.3349",
+            "le_longitude_deg": "-109.509",
+            "le_elevation_ft": "4153",
+            "le_heading_degT": "35.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "31.3478",
+            "he_longitude_deg": "-109.498",
+            "he_elevation_ft": "4173",
+            "he_heading_degT": "215.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242642",
+            "airport_ref": "19626",
+            "airport_ident": "KDGL",
+            "length_ft": "4095",
+            "width_ft": "100",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "31.3469",
+            "le_longitude_deg": "-109.506",
+            "le_elevation_ft": "4148",
+            "le_heading_degT": "190.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "31.3358",
+            "he_longitude_deg": "-109.508",
+            "he_elevation_ft": "4153",
+            "he_heading_degT": "10.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64340",
+            "airport_ref": "19626",
+            "airport_ident": "KDGL",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "64341",
+            "airport_ref": "19626",
+            "airport_ident": "KDGL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

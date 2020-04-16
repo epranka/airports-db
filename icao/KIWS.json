@@ -1,0 +1,88 @@
+{
+    "id": "20198",
+    "ident": "KIWS",
+    "type": "small_airport",
+    "name": "West Houston Airport",
+    "latitude_deg": "29.818199157699997",
+    "longitude_deg": "-95.67259979250001",
+    "elevation_ft": "111",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Houston",
+    "scheduled_service": "no",
+    "gps_code": "KIWS",
+    "iata_code": "IWS",
+    "local_code": "IWS",
+    "home_link": "http://www.westhoustonairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/West_Houston_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245718",
+            "airport_ref": "20198",
+            "airport_ident": "KIWS",
+            "length_ft": "3953",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "29.8231",
+            "le_longitude_deg": "-95.6753",
+            "le_elevation_ft": "111",
+            "le_heading_degT": "154.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "29.8133",
+            "he_longitude_deg": "-95.6699",
+            "he_elevation_ft": "110",
+            "he_heading_degT": "334.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70920",
+            "airport_ref": "20198",
+            "airport_ident": "KIWS",
+            "type": "A/D",
+            "description": "HOUSTON APP/DEP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "70921",
+            "airport_ref": "20198",
+            "airport_ident": "KIWS",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.15"
+        },
+        {
+            "id": "70922",
+            "airport_ref": "20198",
+            "airport_ident": "KIWS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

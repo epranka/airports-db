@@ -1,0 +1,142 @@
+{
+    "id": "1958",
+    "ident": "CYXH",
+    "type": "medium_airport",
+    "name": "Medicine Hat Airport",
+    "latitude_deg": "50.01890182495117",
+    "longitude_deg": "-110.72100067138672",
+    "elevation_ft": "2352",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Medicine Hat",
+    "scheduled_service": "yes",
+    "gps_code": "CYXH",
+    "iata_code": "YXH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Medicine_Hat_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235007",
+            "airport_ref": "1958",
+            "airport_ident": "CYXH",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "50.014",
+            "le_longitude_deg": "-110.728",
+            "le_elevation_ft": "2349",
+            "le_heading_degT": "44.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "50.0238",
+            "he_longitude_deg": "-110.713",
+            "he_elevation_ft": "2349",
+            "he_heading_degT": "224.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "235008",
+            "airport_ref": "1958",
+            "airport_ident": "CYXH",
+            "length_ft": "2820",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "50.0169",
+            "le_longitude_deg": "-110.725",
+            "le_elevation_ft": "2349",
+            "le_heading_degT": "106.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "50.0147",
+            "he_longitude_deg": "-110.713",
+            "he_elevation_ft": "2350",
+            "he_heading_degT": "286.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50882",
+            "airport_ref": "1958",
+            "airport_ident": "CYXH",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50883",
+            "airport_ref": "1958",
+            "airport_ident": "CYXH",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "124.875"
+        },
+        {
+            "id": "50884",
+            "airport_ref": "1958",
+            "airport_ident": "CYXH",
+            "type": "RCO",
+            "description": "EDMONTON RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "50885",
+            "airport_ref": "1958",
+            "airport_ident": "CYXH",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95552",
+            "filename": "Medicine_Hat_NDB_CA",
+            "ident": "XH",
+            "name": "Medicine Hat",
+            "type": "NDB",
+            "frequency_khz": "332",
+            "latitude_deg": "50.013099670410156",
+            "longitude_deg": "-110.79900360107422",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.226",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CYXH"
+        }
+    ]
+}

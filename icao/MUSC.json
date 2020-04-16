@@ -1,0 +1,96 @@
+{
+    "id": "4854",
+    "ident": "MUSC",
+    "type": "medium_airport",
+    "name": "Abel Santamaria Airport",
+    "latitude_deg": "22.49220085144043",
+    "longitude_deg": "-79.943603515625",
+    "elevation_ft": "338",
+    "continent": "NA",
+    "iso_country": "CU",
+    "iso_region": "CU-05",
+    "municipality": "Santa Clara",
+    "scheduled_service": "no",
+    "gps_code": "MUSC",
+    "iata_code": "SNU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Abel_Santa_Mar%C3%ADa_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235424",
+            "airport_ref": "4854",
+            "airport_ident": "MUSC",
+            "length_ft": "9898",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "22.4889",
+            "le_longitude_deg": "-79.9578",
+            "le_elevation_ft": "338",
+            "le_heading_degT": "76.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "22.4955",
+            "he_longitude_deg": "-79.9294",
+            "he_elevation_ft": "318",
+            "he_heading_degT": "256.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51666",
+            "airport_ref": "4854",
+            "airport_ident": "MUSC",
+            "type": "TWR",
+            "description": "SANTA CLARA TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302732",
+        "code": "CU",
+        "name": "Cuba",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuba",
+        "keywords": "Aeropuertos de Cuba"
+    },
+    "region": {
+        "id": "303503",
+        "code": "CU-05",
+        "local_code": "05",
+        "name": "Villa Clara",
+        "continent": "NA",
+        "iso_country": "CU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Villa_Clara",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94965",
+            "filename": "Santa_Clara_NDB_CU",
+            "ident": "USC",
+            "name": "Santa Clara",
+            "type": "NDB",
+            "frequency_khz": "240",
+            "latitude_deg": "22.48069953918457",
+            "longitude_deg": "-79.99340057373047",
+            "elevation_ft": "",
+            "iso_country": "CU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.019",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MUSC"
+        }
+    ]
+}

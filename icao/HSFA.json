@@ -1,0 +1,80 @@
+{
+    "id": "300862",
+    "ident": "HSFA",
+    "type": "medium_airport",
+    "name": "Paloich Airport, Heliport",
+    "latitude_deg": "10.529167",
+    "longitude_deg": "32.500556",
+    "elevation_ft": "1290",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-23",
+    "municipality": "Higleig",
+    "scheduled_service": "no",
+    "gps_code": "HSFA",
+    "iata_code": "HGI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Paloich_Airport",
+    "keywords": "Palouge, DPOC",
+    "runways": [
+        {
+            "id": "312725",
+            "airport_ref": "300862",
+            "airport_ident": "HSFA",
+            "length_ft": "8202",
+            "width_ft": "147",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "312726",
+            "airport_ref": "300862",
+            "airport_ident": "HSFA",
+            "type": "App/TWR",
+            "description": "",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "312727",
+            "airport_ref": "300862",
+            "airport_ident": "HSFA",
+            "type": "HF",
+            "description": "",
+            "frequency_mhz": "11.3"
+        }
+    ],
+    "country": {
+        "id": "302614",
+        "code": "SS",
+        "name": "South Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Sudan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305406",
+        "code": "SS-23",
+        "local_code": "23",
+        "name": "Upper Nile State",
+        "continent": "AF",
+        "iso_country": "SS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Upper_Nile",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "id": "6427",
+    "ident": "UAFO",
+    "type": "medium_airport",
+    "name": "Osh Airport",
+    "latitude_deg": "40.6090011597",
+    "longitude_deg": "72.793296814",
+    "elevation_ft": "2927",
+    "continent": "AS",
+    "iso_country": "KG",
+    "iso_region": "KG-O",
+    "municipality": "Osh",
+    "scheduled_service": "yes",
+    "gps_code": "UCFO",
+    "iata_code": "OSS",
+    "local_code": "",
+    "home_link": "http://www.airport.kg/eng/branches.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Osh_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237281",
+            "airport_ref": "6427",
+            "airport_ident": "UAFO",
+            "length_ft": "8576",
+            "width_ft": "164",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "40.6169",
+            "le_longitude_deg": "72.7787",
+            "le_elevation_ft": "2851",
+            "le_heading_degT": "125",
+            "le_displaced_threshold_ft": "660",
+            "he_ident": "30",
+            "he_latitude_deg": "40.6021",
+            "he_longitude_deg": "72.8058",
+            "he_elevation_ft": "2928",
+            "he_heading_degT": "305",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54864",
+            "airport_ref": "6427",
+            "airport_ident": "UAFO",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "54865",
+            "airport_ref": "6427",
+            "airport_ident": "UAFO",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "54866",
+            "airport_ref": "6427",
+            "airport_ident": "UAFO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "54867",
+            "airport_ref": "6427",
+            "airport_ident": "UAFO",
+            "type": "PMSV",
+            "description": "METEO",
+            "frequency_mhz": "134.2"
+        },
+        {
+            "id": "54868",
+            "airport_ref": "6427",
+            "airport_ident": "UAFO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302640",
+        "code": "KG",
+        "name": "Kyrgyzstan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304348",
+        "code": "KG-O",
+        "local_code": "O",
+        "name": "Osh Region",
+        "continent": "AS",
+        "iso_country": "KG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Osh_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87610",
+            "filename": "Osh_NDB_KG",
+            "ident": "DZ",
+            "name": "Osh",
+            "type": "NDB",
+            "frequency_khz": "780",
+            "latitude_deg": "40.580299377441406",
+            "longitude_deg": "72.8447036743164",
+            "elevation_ft": "",
+            "iso_country": "KG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.148",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UAFO"
+        },
+        {
+            "id": "92152",
+            "filename": "Osh_NDB_KG",
+            "ident": "OU",
+            "name": "Osh",
+            "type": "NDB",
+            "frequency_khz": "780",
+            "latitude_deg": "40.63669967651367",
+            "longitude_deg": "72.74330139160156",
+            "elevation_ft": "",
+            "iso_country": "KG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.167",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UAFO"
+        }
+    ]
+}

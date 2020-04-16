@@ -1,0 +1,80 @@
+{
+    "id": "2567",
+    "ident": "ENBM",
+    "type": "small_airport",
+    "name": "Bømoen Airport",
+    "latitude_deg": "60.63890075683594",
+    "longitude_deg": "6.501500129699707",
+    "elevation_ft": "300",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-12",
+    "municipality": "Tjukkebygdi",
+    "scheduled_service": "no",
+    "gps_code": "ENBM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237957",
+            "airport_ref": "2567",
+            "airport_ident": "ENBM",
+            "length_ft": "3281",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "60.6385",
+            "le_longitude_deg": "6.49238",
+            "le_elevation_ft": "",
+            "le_heading_degT": "86",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "60.6392",
+            "he_longitude_deg": "6.51056",
+            "he_elevation_ft": "",
+            "he_heading_degT": "266",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55808",
+            "airport_ref": "2567",
+            "airport_ident": "ENBM",
+            "type": "ARTC",
+            "description": "STAVANGER ATCC",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "55809",
+            "airport_ref": "2567",
+            "airport_ident": "ENBM",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "304956",
+        "code": "NO-12",
+        "local_code": "12",
+        "name": "Hordaland",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hordaland",
+        "keywords": ""
+    }
+}

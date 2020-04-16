@@ -1,0 +1,120 @@
+{
+    "id": "2521",
+    "ident": "EHKD",
+    "type": "medium_airport",
+    "name": "De Kooy Airport",
+    "latitude_deg": "52.92340087890625",
+    "longitude_deg": "4.780620098114014",
+    "elevation_ft": "3",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-NH",
+    "municipality": "Den Helder",
+    "scheduled_service": "no",
+    "gps_code": "EHKD",
+    "iata_code": "DHR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/De_Kooy",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237930",
+            "airport_ref": "2521",
+            "airport_ident": "EHKD",
+            "length_ft": "4183",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "52.9187",
+            "le_longitude_deg": "4.77534",
+            "le_elevation_ft": "3",
+            "le_heading_degT": "34",
+            "le_displaced_threshold_ft": "804",
+            "he_ident": "21",
+            "he_latitude_deg": "52.9282",
+            "he_longitude_deg": "4.78592",
+            "he_elevation_ft": "2",
+            "he_heading_degT": "214",
+            "he_displaced_threshold_ft": "804"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55749",
+            "airport_ref": "2521",
+            "airport_ident": "EHKD",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "124.23"
+        },
+        {
+            "id": "55750",
+            "airport_ref": "2521",
+            "airport_ident": "EHKD",
+            "type": "FSS",
+            "description": "FINAL",
+            "frequency_mhz": "123.305"
+        },
+        {
+            "id": "55751",
+            "airport_ref": "2521",
+            "airport_ident": "EHKD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.73"
+        },
+        {
+            "id": "55752",
+            "airport_ref": "2521",
+            "airport_ident": "EHKD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.13"
+        }
+    ],
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland,Luchthavens van Nederland"
+    },
+    "region": {
+        "id": "304939",
+        "code": "NL-NH",
+        "local_code": "NH",
+        "name": "Noord-Holland",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Holland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88775",
+            "filename": "Den_Helder_VOR-DME_NL",
+            "ident": "HDR",
+            "name": "Den Helder",
+            "type": "VOR-DME",
+            "frequency_khz": "115550",
+            "latitude_deg": "52.906898498535156",
+            "longitude_deg": "4.765830039978027",
+            "elevation_ft": "29",
+            "iso_country": "NL",
+            "dme_frequency_khz": "115550",
+            "dme_channel": "102Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.404",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "EHKD"
+        }
+    ]
+}

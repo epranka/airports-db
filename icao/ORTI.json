@@ -1,0 +1,88 @@
+{
+    "id": "5299",
+    "ident": "ORTI",
+    "type": "medium_airport",
+    "name": "Al Taji Army Air Field",
+    "latitude_deg": "33.52389907836914",
+    "longitude_deg": "44.25669860839844",
+    "elevation_ft": "121",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-BG",
+    "municipality": "Taji",
+    "scheduled_service": "no",
+    "gps_code": "ORTI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Taji,_Iraq#Camp_Taji",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237089",
+            "airport_ref": "5299",
+            "airport_ident": "ORTI",
+            "length_ft": "5770",
+            "width_ft": "164",
+            "surface": "PEM",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "33.5313",
+            "le_longitude_deg": "44.2536",
+            "le_elevation_ft": "121",
+            "le_heading_degT": "160.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "33.5164",
+            "he_longitude_deg": "44.2599",
+            "he_elevation_ft": "121",
+            "he_heading_degT": "340.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54396",
+            "airport_ref": "5299",
+            "airport_ident": "ORTI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "54397",
+            "airport_ref": "5299",
+            "airport_ident": "ORTI",
+            "type": "MISC",
+            "description": "FARP",
+            "frequency_mhz": "88.1"
+        },
+        {
+            "id": "54398",
+            "airport_ref": "5299",
+            "airport_ident": "ORTI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "40.85"
+        }
+    ],
+    "country": {
+        "id": "302636",
+        "code": "IQ",
+        "name": "Iraq",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iraq",
+        "keywords": "مطارات العراق"
+    },
+    "region": {
+        "id": "304204",
+        "code": "IQ-BG",
+        "local_code": "BG",
+        "name": "Baghdad Governorate",
+        "continent": "AS",
+        "iso_country": "IQ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baghdad_Governorate",
+        "keywords": "بغداد"
+    }
+}

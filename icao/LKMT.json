@@ -1,0 +1,128 @@
+{
+    "id": "4402",
+    "ident": "LKMT",
+    "type": "medium_airport",
+    "name": "Ostrava Leos Janáček Airport",
+    "latitude_deg": "49.6963005065918",
+    "longitude_deg": "18.111099243164062",
+    "elevation_ft": "844",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-MO",
+    "municipality": "Ostrava",
+    "scheduled_service": "yes",
+    "gps_code": "LKMT",
+    "iata_code": "OSR",
+    "local_code": "",
+    "home_link": "http://www.airport-ostrava.cz/en/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ostrava_Leos_Janacek_Airport",
+    "keywords": "Ostrava-Mošnov International Airport",
+    "runways": [
+        {
+            "id": "235686",
+            "airport_ref": "4402",
+            "airport_ident": "LKMT",
+            "length_ft": "11484",
+            "width_ft": "207",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "49.6853",
+            "le_longitude_deg": "18.0932",
+            "le_elevation_ft": "842",
+            "le_heading_degT": "46.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "49.7071",
+            "he_longitude_deg": "18.1284",
+            "he_elevation_ft": "808",
+            "he_heading_degT": "226.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "333256",
+            "airport_ref": "4402",
+            "airport_ident": "LKMT",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "52005",
+            "airport_ref": "4402",
+            "airport_ident": "LKMT",
+            "type": "APP",
+            "description": "OSTRAVA APP",
+            "frequency_mhz": "119.375"
+        },
+        {
+            "id": "333257",
+            "airport_ref": "4402",
+            "airport_ident": "LKMT",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "128.525"
+        },
+        {
+            "id": "52006",
+            "airport_ref": "4402",
+            "airport_ident": "LKMT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.055"
+        },
+        {
+            "id": "52007",
+            "airport_ref": "4402",
+            "airport_ident": "LKMT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.805"
+        }
+    ],
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303537",
+        "code": "CZ-MO",
+        "local_code": "MO",
+        "name": "Moravian-Silesian Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Moravian-Silesian_Region",
+        "keywords": "Moravskoslezský kraj"
+    },
+    "navaids": [
+        {
+            "id": "92133",
+            "filename": "Ostrava_VOR-DME_CZ",
+            "ident": "OTA",
+            "name": "Ostrava",
+            "type": "VOR-DME",
+            "frequency_khz": "117450",
+            "latitude_deg": "49.6974983215332",
+            "longitude_deg": "18.109100341796875",
+            "elevation_ft": "850",
+            "iso_country": "CZ",
+            "dme_frequency_khz": "117450",
+            "dme_channel": "121Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.194",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LKMT"
+        }
+    ]
+}

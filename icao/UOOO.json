@@ -1,0 +1,112 @@
+{
+    "id": "6510",
+    "ident": "UOOO",
+    "type": "medium_airport",
+    "name": "Norilsk-Alykel Airport",
+    "latitude_deg": "69.31109619140625",
+    "longitude_deg": "87.33219909667969",
+    "elevation_ft": "574",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Norilsk",
+    "scheduled_service": "yes",
+    "gps_code": "UOOO",
+    "iata_code": "NSK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Norilsk_Alykel_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238526",
+            "airport_ref": "6510",
+            "airport_ident": "UOOO",
+            "length_ft": "11290",
+            "width_ft": "145",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "69.298",
+            "le_longitude_deg": "87.3089",
+            "le_elevation_ft": "538",
+            "le_heading_degT": "32",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "69.3241",
+            "he_longitude_deg": "87.3555",
+            "he_elevation_ft": "571",
+            "he_heading_degT": "212",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56648",
+            "airport_ref": "6510",
+            "airport_ident": "UOOO",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "56649",
+            "airport_ref": "6510",
+            "airport_ident": "UOOO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "56650",
+            "airport_ref": "6510",
+            "airport_ident": "UOOO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305298",
+        "code": "RU-KYA",
+        "local_code": "KYA",
+        "name": "Krasnoyarsk Krai",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Krasnoyarsk_Krai",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85953",
+            "filename": "Norilsk_NDB_RU",
+            "ident": "BF",
+            "name": "Norilsk",
+            "type": "NDB",
+            "frequency_khz": "535",
+            "latitude_deg": "69.35169982910156",
+            "longitude_deg": "87.4083023071289",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.551",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UOOO"
+        }
+    ]
+}

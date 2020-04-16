@@ -1,0 +1,118 @@
+{
+    "id": "21054",
+    "ident": "KSET",
+    "type": "small_airport",
+    "name": "St Charles County Smartt Airport",
+    "latitude_deg": "38.92969894",
+    "longitude_deg": "-90.43000031",
+    "elevation_ft": "437",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "St Charles",
+    "scheduled_service": "no",
+    "gps_code": "KSET",
+    "iata_code": "",
+    "local_code": "SET",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243852",
+            "airport_ref": "21054",
+            "airport_ident": "KSET",
+            "length_ft": "2000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "38.9324",
+            "le_longitude_deg": "-90.4317",
+            "le_elevation_ft": "434",
+            "le_heading_degT": "90.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "38.9323",
+            "he_longitude_deg": "-90.4247",
+            "he_elevation_ft": "436",
+            "he_heading_degT": "270.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243853",
+            "airport_ref": "21054",
+            "airport_ident": "KSET",
+            "length_ft": "3801",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.9335",
+            "le_longitude_deg": "-90.4308",
+            "le_elevation_ft": "436",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.9231",
+            "he_longitude_deg": "-90.431",
+            "he_elevation_ft": "436",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66886",
+            "airport_ref": "21054",
+            "airport_ident": "KSET",
+            "type": "A/D",
+            "description": "ST LOUIS APP/DEP",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "66887",
+            "airport_ref": "21054",
+            "airport_ident": "KSET",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.075"
+        },
+        {
+            "id": "66888",
+            "airport_ref": "21054",
+            "airport_ident": "KSET",
+            "type": "CLD",
+            "description": "ST LOUIS CLNC DEL",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "66889",
+            "airport_ref": "21054",
+            "airport_ident": "KSET",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

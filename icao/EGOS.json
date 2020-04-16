@@ -1,0 +1,166 @@
+{
+    "id": "2453",
+    "ident": "EGOS",
+    "type": "medium_airport",
+    "name": "RAF Shawbury",
+    "latitude_deg": "52.79819869995117",
+    "longitude_deg": "-2.6680400371551514",
+    "elevation_ft": "249",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Shawbury",
+    "scheduled_service": "no",
+    "gps_code": "EGOS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.raf.mod.uk/rafshawbury/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Shawbury",
+    "keywords": "Shrewsbury",
+    "runways": [
+        {
+            "id": "239469",
+            "airport_ref": "2453",
+            "airport_ident": "EGOS",
+            "length_ft": "4523",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "52.7927",
+            "le_longitude_deg": "-2.67668",
+            "le_elevation_ft": "248",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "52.8015",
+            "he_longitude_deg": "-2.66231",
+            "he_elevation_ft": "238",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239470",
+            "airport_ref": "2453",
+            "airport_ident": "EGOS",
+            "length_ft": "6018",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "52.8018",
+            "le_longitude_deg": "-2.66798",
+            "le_elevation_ft": "242",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "52.7854",
+            "he_longitude_deg": "-2.66793",
+            "he_elevation_ft": "237",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58255",
+            "airport_ref": "2453",
+            "airport_ident": "EGOS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "58256",
+            "airport_ref": "2453",
+            "airport_ident": "EGOS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "28.427"
+        },
+        {
+            "id": "58257",
+            "airport_ref": "2453",
+            "airport_ident": "EGOS",
+            "type": "DIR",
+            "description": "DIRECTOR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "58258",
+            "airport_ref": "2453",
+            "airport_ident": "EGOS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "38.945"
+        },
+        {
+            "id": "58259",
+            "airport_ref": "2453",
+            "airport_ident": "EGOS",
+            "type": "MISC",
+            "description": "ZONE",
+            "frequency_mhz": "120.775"
+        },
+        {
+            "id": "58260",
+            "airport_ref": "2453",
+            "airport_ident": "EGOS",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "36.912"
+        },
+        {
+            "id": "58261",
+            "airport_ref": "2453",
+            "airport_ident": "EGOS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94091",
+            "filename": "Shawbury_VOR-DME_GB",
+            "ident": "SWB",
+            "name": "Shawbury",
+            "type": "VOR-DME",
+            "frequency_khz": "116800",
+            "latitude_deg": "52.79800033569336",
+            "longitude_deg": "-2.6625399589538574",
+            "elevation_ft": "269",
+            "iso_country": "GB",
+            "dme_frequency_khz": "116800",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.29",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "EGOS"
+        }
+    ]
+}

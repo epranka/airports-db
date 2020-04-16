@@ -1,0 +1,104 @@
+{
+    "id": "1711",
+    "ident": "CYDO",
+    "type": "medium_airport",
+    "name": "Dolbeau St Felicien Airport",
+    "latitude_deg": "48.778499603271",
+    "longitude_deg": "-72.375",
+    "elevation_ft": "372",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Dolbeau-St-Félicien",
+    "scheduled_service": "no",
+    "gps_code": "CYDO",
+    "iata_code": "YDO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dolbeau-St-F%C3%A9licien_Airport",
+    "keywords": "Dolbeau St Methode",
+    "runways": [
+        {
+            "id": "234474",
+            "airport_ref": "1711",
+            "airport_ident": "CYDO",
+            "length_ft": "4971",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "48.779",
+            "le_longitude_deg": "-72.3852",
+            "le_elevation_ft": "367",
+            "le_heading_degT": "93.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "48.7781",
+            "he_longitude_deg": "-72.3646",
+            "he_elevation_ft": "372",
+            "he_heading_degT": "273.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49910",
+            "airport_ref": "1711",
+            "airport_ident": "CYDO",
+            "type": "A/D",
+            "description": "ROBERVAL RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49911",
+            "airport_ref": "1711",
+            "airport_ident": "CYDO",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    },
+    "navaids": [
+        {
+            "id": "87238",
+            "filename": "Dolbeau_NDB_CA",
+            "ident": "D8",
+            "name": "Dolbeau",
+            "type": "NDB",
+            "frequency_khz": "386",
+            "latitude_deg": "48.78369903564453",
+            "longitude_deg": "-72.46790313720703",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.244",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYDO"
+        }
+    ]
+}

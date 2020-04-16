@@ -1,0 +1,102 @@
+{
+    "id": "18518",
+    "ident": "K1U7",
+    "type": "small_airport",
+    "name": "Bear Lake County Airport",
+    "latitude_deg": "42.24720001220703",
+    "longitude_deg": "-111.33799743652344",
+    "elevation_ft": "5928",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Paris",
+    "scheduled_service": "no",
+    "gps_code": "K1U7",
+    "iata_code": "",
+    "local_code": "1U7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240704",
+            "airport_ref": "18518",
+            "airport_ident": "K1U7",
+            "length_ft": "5730",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "42.2547",
+            "le_longitude_deg": "-111.348",
+            "le_elevation_ft": "5926",
+            "le_heading_degT": "115",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "42.2481",
+            "he_longitude_deg": "-111.329",
+            "he_elevation_ft": "5928",
+            "he_heading_degT": "227",
+            "he_displaced_threshold_ft": "457"
+        },
+        {
+            "id": "240705",
+            "airport_ref": "18518",
+            "airport_ident": "K1U7",
+            "length_ft": "4590",
+            "width_ft": "70",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "42.2541",
+            "le_longitude_deg": "-111.347",
+            "le_elevation_ft": "5927",
+            "le_heading_degT": "174",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "42.2415",
+            "he_longitude_deg": "-111.345",
+            "he_elevation_ft": "5926",
+            "he_heading_degT": "298",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60364",
+            "airport_ref": "18518",
+            "airport_ident": "K1U7",
+            "type": "CNTR",
+            "description": "SALT LAKE CITY CNTR",
+            "frequency_mhz": "126.75"
+        },
+        {
+            "id": "60365",
+            "airport_ref": "18518",
+            "airport_ident": "K1U7",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": ""
+    }
+}

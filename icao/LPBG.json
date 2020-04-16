@@ -1,0 +1,96 @@
+{
+    "id": "4440",
+    "ident": "LPBG",
+    "type": "medium_airport",
+    "name": "Bragança Airport",
+    "latitude_deg": "41.8578",
+    "longitude_deg": "-6.70713",
+    "elevation_ft": "2241",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-04",
+    "municipality": "Bragança",
+    "scheduled_service": "yes",
+    "gps_code": "LPBG",
+    "iata_code": "BGC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bragan%C3%A7a_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238346",
+            "airport_ref": "4440",
+            "airport_ident": "LPBG",
+            "length_ft": "5600",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "41.8503",
+            "le_longitude_deg": "-6.70957",
+            "le_elevation_ft": "",
+            "le_heading_degT": "14",
+            "le_displaced_threshold_ft": "210",
+            "he_ident": "20",
+            "he_latitude_deg": "41.8653",
+            "he_longitude_deg": "-6.70468",
+            "he_elevation_ft": "",
+            "he_heading_degT": "194",
+            "he_displaced_threshold_ft": "180"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56328",
+            "airport_ref": "4440",
+            "airport_ident": "LPBG",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302711",
+        "code": "PT",
+        "name": "Portugal",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
+        "keywords": "Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "305170",
+        "code": "PT-04",
+        "local_code": "04",
+        "name": "Bragança District",
+        "continent": "EU",
+        "iso_country": "PT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bragança_District",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86314",
+            "filename": "Braganca_NDB_PT",
+            "ident": "BRG",
+            "name": "Braganca",
+            "type": "NDB",
+            "frequency_khz": "358",
+            "latitude_deg": "41.79669952392578",
+            "longitude_deg": "-6.725279808044434",
+            "elevation_ft": "2241",
+            "iso_country": "PT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.23",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPBG"
+        }
+    ]
+}

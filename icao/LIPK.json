@@ -1,0 +1,112 @@
+{
+    "id": "4357",
+    "ident": "LIPK",
+    "type": "medium_airport",
+    "name": "Forlì Airport",
+    "latitude_deg": "44.194801",
+    "longitude_deg": "12.0701",
+    "elevation_ft": "97",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Forlì (FC)",
+    "scheduled_service": "yes",
+    "gps_code": "LIPK",
+    "iata_code": "FRL",
+    "local_code": "FC03",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Forl%C3%AC_Airport",
+    "keywords": "L Ridolfi, Ronco di Forlì",
+    "runways": [
+        {
+            "id": "237025",
+            "airport_ref": "4357",
+            "airport_ident": "LIPK",
+            "length_ft": "7907",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "44.1998",
+            "le_longitude_deg": "12.0567",
+            "le_elevation_ft": "97",
+            "le_heading_degT": "117",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "44.1897",
+            "he_longitude_deg": "12.0834",
+            "he_elevation_ft": "91",
+            "he_heading_degT": "297",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54262",
+            "airport_ref": "4357",
+            "airport_ident": "LIPK",
+            "type": "APP",
+            "description": "ROMAGNA APP",
+            "frequency_mhz": "37.975"
+        },
+        {
+            "id": "54261",
+            "airport_ref": "4357",
+            "airport_ident": "LIPK",
+            "type": "APP",
+            "description": "ROMAGNA APP",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "54263",
+            "airport_ref": "4357",
+            "airport_ident": "LIPK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.95"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306367",
+        "code": "IT-45",
+        "local_code": "45",
+        "name": "Emilia-Romagna",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Emilia-Romagna",
+        "keywords": "ER"
+    },
+    "navaids": [
+        {
+            "id": "88102",
+            "filename": "Forli_NDB_IT",
+            "ident": "FOR",
+            "name": "Forli",
+            "type": "NDB",
+            "frequency_khz": "423",
+            "latitude_deg": "44.24810028076172",
+            "longitude_deg": "11.924699783325195",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.419",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LIPK"
+        }
+    ]
+}

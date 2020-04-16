@@ -1,0 +1,88 @@
+{
+    "id": "20369",
+    "ident": "KLQK",
+    "type": "small_airport",
+    "name": "Pickens County Airport",
+    "latitude_deg": "34.8100013733",
+    "longitude_deg": "-82.70290374759999",
+    "elevation_ft": "1013",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Pickens",
+    "scheduled_service": "no",
+    "gps_code": "KLQK",
+    "iata_code": "LQK",
+    "local_code": "LQK",
+    "home_link": "http://www.co.pickens.sc.us/Pickens%20County%20Airport/default.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pickens_County_Airport_(South_Carolina)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244983",
+            "airport_ref": "20369",
+            "airport_ident": "KLQK",
+            "length_ft": "5002",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "34.805",
+            "le_longitude_deg": "-82.7087",
+            "le_elevation_ft": "963",
+            "le_heading_degT": "43.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "34.8149",
+            "he_longitude_deg": "-82.6971",
+            "he_elevation_ft": "1013",
+            "he_heading_degT": "223.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69318",
+            "airport_ref": "20369",
+            "airport_ident": "KLQK",
+            "type": "A/D",
+            "description": "GREER APP/DEP",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "69319",
+            "airport_ref": "20369",
+            "airport_ident": "KLQK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "69320",
+            "airport_ref": "20369",
+            "airport_ident": "KLQK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306116",
+        "code": "US-SC",
+        "local_code": "SC",
+        "name": "South Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
+        "keywords": ""
+    }
+}

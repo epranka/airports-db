@@ -1,0 +1,142 @@
+{
+    "id": "5295",
+    "ident": "ORQW",
+    "type": "medium_airport",
+    "name": "Qayyarah West Airport",
+    "latitude_deg": "35.76720047",
+    "longitude_deg": "43.125099182099994",
+    "elevation_ft": "749",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-NI",
+    "municipality": "Qayyarah",
+    "scheduled_service": "no",
+    "gps_code": "ORQW",
+    "iata_code": "RQW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237097",
+            "airport_ref": "5295",
+            "airport_ident": "ORQW",
+            "length_ft": "11486",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "35.7802",
+            "le_longitude_deg": "43.1131",
+            "le_elevation_ft": "747",
+            "le_heading_degT": "152.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "35.7522",
+            "he_longitude_deg": "43.131",
+            "he_elevation_ft": "746",
+            "he_heading_degT": "332.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "237098",
+            "airport_ref": "5295",
+            "airport_ident": "ORQW",
+            "length_ft": "12088",
+            "width_ft": "98",
+            "surface": "PEM",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "16",
+            "le_latitude_deg": "35.784",
+            "le_longitude_deg": "43.1222",
+            "le_elevation_ft": "734",
+            "le_heading_degT": "163.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "35.7522",
+            "he_longitude_deg": "43.1338",
+            "he_elevation_ft": "744",
+            "he_heading_degT": "343.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54414",
+            "airport_ref": "5295",
+            "airport_ident": "ORQW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "54415",
+            "airport_ref": "5295",
+            "airport_ident": "ORQW",
+            "type": "PMSV",
+            "description": "METRO",
+            "frequency_mhz": "33.6"
+        },
+        {
+            "id": "54416",
+            "airport_ref": "5295",
+            "airport_ident": "ORQW",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "54417",
+            "airport_ref": "5295",
+            "airport_ident": "ORQW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302636",
+        "code": "IQ",
+        "name": "Iraq",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iraq",
+        "keywords": "مطارات العراق"
+    },
+    "region": {
+        "id": "304212",
+        "code": "IQ-NI",
+        "local_code": "NI",
+        "name": "Ninawa Governorate",
+        "continent": "AS",
+        "iso_country": "IQ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ninawa_Governorate",
+        "keywords": "نينوى"
+    },
+    "navaids": [
+        {
+            "id": "92929",
+            "filename": "Qayyarah_West_TACAN_IQ",
+            "ident": "QYW",
+            "name": "Qayyarah West",
+            "type": "TACAN",
+            "frequency_khz": "112500",
+            "latitude_deg": "35.7672004699707",
+            "longitude_deg": "43.12519836425781",
+            "elevation_ft": "749",
+            "iso_country": "IQ",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.191",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ORQW"
+        }
+    ]
+}

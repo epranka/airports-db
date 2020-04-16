@@ -1,0 +1,120 @@
+{
+    "id": "5418",
+    "ident": "PAVD",
+    "type": "medium_airport",
+    "name": "Valdez Pioneer Field",
+    "latitude_deg": "61.13389969",
+    "longitude_deg": "-146.2480011",
+    "elevation_ft": "121",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Valdez",
+    "scheduled_service": "no",
+    "gps_code": "PAVD",
+    "iata_code": "VDZ",
+    "local_code": "VDZ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Valdez_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245841",
+            "airport_ref": "5418",
+            "airport_ident": "PAVD",
+            "length_ft": "6508",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "61.1326",
+            "le_longitude_deg": "-146.267",
+            "le_elevation_ft": "39",
+            "le_heading_degT": "81",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "61.1353",
+            "he_longitude_deg": "-146.23",
+            "he_elevation_ft": "118",
+            "he_heading_degT": "261",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71169",
+            "airport_ref": "5418",
+            "airport_ident": "PAVD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "71170",
+            "airport_ref": "5418",
+            "airport_ident": "PAVD",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "71171",
+            "airport_ref": "5418",
+            "airport_ident": "PAVD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "71172",
+            "airport_ref": "5418",
+            "airport_ident": "PAVD",
+            "type": "FSS",
+            "description": "JUNEAU RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91126",
+            "filename": "Mineral_Creek_NDB_US",
+            "ident": "MNL",
+            "name": "Mineral Creek",
+            "type": "NDB",
+            "frequency_khz": "524",
+            "latitude_deg": "61.12419891357422",
+            "longitude_deg": "-146.3520050048828",
+            "elevation_ft": "16",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.334",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "PAVD"
+        }
+    ]
+}

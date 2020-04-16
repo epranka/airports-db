@@ -1,0 +1,184 @@
+{
+    "id": "5629",
+    "ident": "RJTY",
+    "type": "large_airport",
+    "name": "Yokota Air Base",
+    "latitude_deg": "35.74850082397461",
+    "longitude_deg": "139.34800720214844",
+    "elevation_ft": "463",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-13",
+    "municipality": "Fussa",
+    "scheduled_service": "no",
+    "gps_code": "RJTY",
+    "iata_code": "OKO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yokota_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237224",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "length_ft": "11000",
+            "width_ft": "200",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "35.7634",
+            "le_longitude_deg": "139.345",
+            "le_elevation_ft": "463",
+            "le_heading_degT": "170.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "35.7336",
+            "he_longitude_deg": "139.352",
+            "he_elevation_ft": "417",
+            "he_heading_degT": "350.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54751",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "A/G",
+            "description": "AG",
+            "frequency_mhz": "29.21"
+        },
+        {
+            "id": "54752",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "AAS",
+            "description": "RADAR ADVSY SVC",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "54753",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "54754",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "54755",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "131.4"
+        },
+        {
+            "id": "54756",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "54757",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "133.2"
+        },
+        {
+            "id": "54758",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "54759",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "POST",
+            "description": "AMC COMD POST",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "54760",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "54761",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "RDO",
+            "description": "374 AW COM CNTR",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "54762",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "134.3"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304298",
+        "code": "JP-13",
+        "local_code": "13",
+        "name": "Tōkyō Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tokyo",
+        "keywords": "Kanto"
+    },
+    "navaids": [
+        {
+            "id": "95780",
+            "filename": "Yokota_TACAN_JP",
+            "ident": "YOK",
+            "name": "Yokota",
+            "type": "TACAN",
+            "frequency_khz": "113800",
+            "latitude_deg": "35.749000549316406",
+            "longitude_deg": "139.35000610351562",
+            "elevation_ft": "438",
+            "iso_country": "JP",
+            "dme_frequency_khz": "113800",
+            "dme_channel": "085X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.001",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJTY"
+        }
+    ]
+}

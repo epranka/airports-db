@@ -1,0 +1,72 @@
+{
+    "id": "21398",
+    "ident": "KX40",
+    "type": "small_airport",
+    "name": "Inverness Airport",
+    "latitude_deg": "28.808599",
+    "longitude_deg": "-82.316498",
+    "elevation_ft": "50",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Inverness",
+    "scheduled_service": "no",
+    "gps_code": "KINF",
+    "iata_code": "",
+    "local_code": "INF",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243663",
+            "airport_ref": "21398",
+            "airport_ident": "KX40",
+            "length_ft": "5001",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "28.7968",
+            "le_longitude_deg": "-82.3191",
+            "le_elevation_ft": "",
+            "le_heading_degT": "101",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "28.8104",
+            "he_longitude_deg": "-82.3175",
+            "he_elevation_ft": "",
+            "he_heading_degT": "191",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66494",
+            "airport_ref": "21398",
+            "airport_ident": "KX40",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.725"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

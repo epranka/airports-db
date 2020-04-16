@@ -1,0 +1,112 @@
+{
+    "id": "5688",
+    "ident": "RPLI",
+    "type": "medium_airport",
+    "name": "Laoag International Airport",
+    "latitude_deg": "18.1781005859375",
+    "longitude_deg": "120.53199768066406",
+    "elevation_ft": "25",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-ILN",
+    "municipality": "Laoag City",
+    "scheduled_service": "yes",
+    "gps_code": "RPLI",
+    "iata_code": "LAO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Laoag_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238454",
+            "airport_ref": "5688",
+            "airport_ident": "RPLI",
+            "length_ft": "9120",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "18.1636",
+            "le_longitude_deg": "120.53",
+            "le_elevation_ft": "24",
+            "le_heading_degT": "5.4",
+            "le_displaced_threshold_ft": "1181",
+            "he_ident": "19",
+            "he_latitude_deg": "18.1886",
+            "he_longitude_deg": "120.532",
+            "he_elevation_ft": "22",
+            "he_heading_degT": "185.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56523",
+            "airport_ref": "5688",
+            "airport_ident": "RPLI",
+            "type": "A/D",
+            "description": "APP",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "56524",
+            "airport_ref": "5688",
+            "airport_ident": "RPLI",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "56525",
+            "airport_ref": "5688",
+            "airport_ident": "RPLI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305088",
+        "code": "PH-ILN",
+        "local_code": "ILN",
+        "name": "Ilocos Norte Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ilocos_Norte_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90160",
+            "filename": "Laoag_VOR-DME_PH",
+            "ident": "LAO",
+            "name": "Laoag",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "18.178800582885742",
+            "longitude_deg": "120.52899932861328",
+            "elevation_ft": "53",
+            "iso_country": "PH",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-2.031",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPLI"
+        }
+    ]
+}

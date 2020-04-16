@@ -1,0 +1,80 @@
+{
+    "id": "26395",
+    "ident": "UUDL",
+    "type": "small_airport",
+    "name": "Tunoshna Airport",
+    "latitude_deg": "57.560699462890625",
+    "longitude_deg": "40.15739822387695",
+    "elevation_ft": "287",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-YAR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "UUDL",
+    "iata_code": "IAR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tunoshna",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238523",
+            "airport_ref": "26395",
+            "airport_ident": "UUDL",
+            "length_ft": "9870",
+            "width_ft": "135",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "57.5546",
+            "le_longitude_deg": "40.1349",
+            "le_elevation_ft": "286",
+            "le_heading_degT": "63.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "57.5667",
+            "he_longitude_deg": "40.1798",
+            "he_elevation_ft": "301",
+            "he_heading_degT": "243.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56642",
+            "airport_ref": "26395",
+            "airport_ident": "UUDL",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "56643",
+            "airport_ref": "26395",
+            "airport_ident": "UUDL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.35"
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305345",
+        "code": "RU-YAR",
+        "local_code": "YAR",
+        "name": "Yaroslavl Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yaroslavl_Oblast",
+        "keywords": ""
+    }
+}

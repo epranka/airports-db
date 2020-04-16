@@ -1,0 +1,80 @@
+{
+    "id": "18726",
+    "ident": "K3O4",
+    "type": "small_airport",
+    "name": "Sayre Municipal Airport",
+    "latitude_deg": "35.167598724365234",
+    "longitude_deg": "-99.65789794921875",
+    "elevation_ft": "1937",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Sayre",
+    "scheduled_service": "no",
+    "gps_code": "K3O4",
+    "iata_code": "",
+    "local_code": "3O4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245471",
+            "airport_ref": "18726",
+            "airport_ident": "K3O4",
+            "length_ft": "5017",
+            "width_ft": "130",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "35.1744",
+            "le_longitude_deg": "-99.658",
+            "le_elevation_ft": "",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "351",
+            "he_ident": "35",
+            "he_latitude_deg": "35.1607",
+            "he_longitude_deg": "-99.6578",
+            "he_elevation_ft": "",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": "374"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70394",
+            "airport_ref": "18726",
+            "airport_ident": "K3O4",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "70395",
+            "airport_ref": "18726",
+            "airport_ident": "K3O4",
+            "type": "RDO",
+            "description": "MC ALESTER RDO",
+            "frequency_mhz": "115.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "6304",
+    "ident": "SVNX",
+    "type": "small_airport",
+    "name": "Morichal Airport",
+    "latitude_deg": "8.828149795532227",
+    "longitude_deg": "-63.095001220703125",
+    "elevation_ft": "272",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-N",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVNX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246071",
+            "airport_ref": "6304",
+            "airport_ident": "SVNX",
+            "length_ft": "4921",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "8.8262",
+            "le_longitude_deg": "-63.1015",
+            "le_elevation_ft": "",
+            "le_heading_degT": "73",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "8.8301",
+            "he_longitude_deg": "-63.0885",
+            "he_elevation_ft": "",
+            "he_heading_degT": "253",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71658",
+            "airport_ref": "6304",
+            "airport_ident": "SVNX",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "130.7"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306178",
+        "code": "VE-N",
+        "local_code": "N",
+        "name": "Monagas",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Monagas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91163",
+            "filename": "Morichal_NDB_VE",
+            "ident": "MOI",
+            "name": "Morichal",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "8.821419715881348",
+            "longitude_deg": "-63.09199905395508",
+            "elevation_ft": "",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.15",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SVNX"
+        }
+    ]
+}

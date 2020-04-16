@@ -1,0 +1,142 @@
+{
+    "id": "3710",
+    "ident": "KMSS",
+    "type": "medium_airport",
+    "name": "Massena International Richards Field",
+    "latitude_deg": "44.93579864501953",
+    "longitude_deg": "-74.84559631347656",
+    "elevation_ft": "215",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Massena",
+    "scheduled_service": "yes",
+    "gps_code": "KMSS",
+    "iata_code": "MSS",
+    "local_code": "MSS",
+    "home_link": "http://www.massenaworks.com/town/airport.asp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Massena_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241684",
+            "airport_ref": "3710",
+            "airport_ident": "KMSS",
+            "length_ft": "4998",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "44.93",
+            "le_longitude_deg": "-74.8494",
+            "le_elevation_ft": "203",
+            "le_heading_degT": "31",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "44.9418",
+            "he_longitude_deg": "-74.8394",
+            "he_elevation_ft": "215",
+            "he_heading_degT": "211",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241685",
+            "airport_ref": "3710",
+            "airport_ident": "KMSS",
+            "length_ft": "4000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "44.9344",
+            "le_longitude_deg": "-74.8545",
+            "le_elevation_ft": "203",
+            "le_heading_degT": "76",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "44.937",
+            "he_longitude_deg": "-74.8395",
+            "he_elevation_ft": "204",
+            "he_heading_degT": "256",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62381",
+            "airport_ref": "3710",
+            "airport_ident": "KMSS",
+            "type": "A/D",
+            "description": "BOSTON APP/DEP",
+            "frequency_mhz": "135.25"
+        },
+        {
+            "id": "62382",
+            "airport_ref": "3710",
+            "airport_ident": "KMSS",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "128.075"
+        },
+        {
+            "id": "62383",
+            "airport_ref": "3710",
+            "airport_ident": "KMSS",
+            "type": "RDO",
+            "description": "BURLINGTON RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "62384",
+            "airport_ref": "3710",
+            "airport_ident": "KMSS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91271",
+            "filename": "Misse_NDB_US",
+            "ident": "MS",
+            "name": "Misse",
+            "type": "NDB",
+            "frequency_khz": "278",
+            "latitude_deg": "44.85409927368164",
+            "longitude_deg": "-74.91580200195312",
+            "elevation_ft": "240",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.079",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KMSS"
+        }
+    ]
+}

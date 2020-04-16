@@ -1,0 +1,96 @@
+{
+    "id": "53",
+    "ident": "AYBK",
+    "type": "medium_airport",
+    "name": "Buka Airport",
+    "latitude_deg": "-5.4223198890686035",
+    "longitude_deg": "154.67300415039062",
+    "elevation_ft": "11",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-NSB",
+    "municipality": "Buka Island",
+    "scheduled_service": "yes",
+    "gps_code": "AYBK",
+    "iata_code": "BUA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Buka_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238373",
+            "airport_ref": "53",
+            "airport_ident": "AYBK",
+            "length_ft": "5125",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "-5.42701",
+            "le_longitude_deg": "154.667",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "48",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "-5.41751",
+            "he_longitude_deg": "154.678",
+            "he_elevation_ft": "9",
+            "he_heading_degT": "228",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56366",
+            "airport_ref": "53",
+            "airport_ident": "AYBK",
+            "type": "RDO",
+            "description": "LAE RDO",
+            "frequency_mhz": "127.1"
+        }
+    ],
+    "country": {
+        "id": "302778",
+        "code": "PG",
+        "name": "Papua New Guinea",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305048",
+        "code": "PG-NSB",
+        "local_code": "NSB",
+        "name": "Bougainville (North Solomons)",
+        "continent": "OC",
+        "iso_country": "PG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Solomons",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86434",
+            "filename": "Buka_NDB-DME_PG",
+            "ident": "BUK",
+            "name": "Buka",
+            "type": "NDB-DME",
+            "frequency_khz": "269",
+            "latitude_deg": "-5.443019866943359",
+            "longitude_deg": "154.66700744628906",
+            "elevation_ft": "54",
+            "iso_country": "PG",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.199",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "AYBK"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "id": "20875",
+    "ident": "KPTB",
+    "type": "small_airport",
+    "name": "Dinwiddie County Airport",
+    "latitude_deg": "37.183799743652",
+    "longitude_deg": "-77.507400512695",
+    "elevation_ft": "193",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Petersburg",
+    "scheduled_service": "no",
+    "gps_code": "KPTB",
+    "iata_code": "PTB",
+    "local_code": "PTB",
+    "home_link": "http://www.ptbairport.com/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240849",
+            "airport_ref": "20875",
+            "airport_ident": "KPTB",
+            "length_ft": "5001",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "37.1793",
+            "le_longitude_deg": "-77.512",
+            "le_elevation_ft": "193",
+            "le_heading_degT": "42.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "37.1893",
+            "he_longitude_deg": "-77.5003",
+            "he_elevation_ft": "190",
+            "he_heading_degT": "222.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240850",
+            "airport_ref": "20875",
+            "airport_ident": "KPTB",
+            "length_ft": "3061",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "37.1857",
+            "le_longitude_deg": "-77.5132",
+            "le_elevation_ft": "186",
+            "le_heading_degT": "133.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "37.18",
+            "he_longitude_deg": "-77.5055",
+            "he_elevation_ft": "186",
+            "he_heading_degT": "313.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60628",
+            "airport_ref": "20875",
+            "airport_ident": "KPTB",
+            "type": "APP",
+            "description": "POTOMAC APP",
+            "frequency_mhz": "134.7"
+        },
+        {
+            "id": "60629",
+            "airport_ref": "20875",
+            "airport_ident": "KPTB",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.325"
+        },
+        {
+            "id": "60630",
+            "airport_ref": "20875",
+            "airport_ident": "KPTB",
+            "type": "DEP",
+            "description": "POTOMAC DEP",
+            "frequency_mhz": "134.7"
+        },
+        {
+            "id": "60631",
+            "airport_ref": "20875",
+            "airport_ident": "KPTB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92762",
+            "filename": "Petersburg_NDB_US",
+            "ident": "PTB",
+            "name": "Petersburg",
+            "type": "NDB",
+            "frequency_khz": "284",
+            "latitude_deg": "37.13010025024414",
+            "longitude_deg": "-77.57469940185547",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.494",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KPTB"
+        }
+    ]
+}

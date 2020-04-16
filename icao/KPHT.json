@@ -1,0 +1,88 @@
+{
+    "id": "20832",
+    "ident": "KPHT",
+    "type": "small_airport",
+    "name": "Henry County Airport",
+    "latitude_deg": "36.338199615499995",
+    "longitude_deg": "-88.38289642330001",
+    "elevation_ft": "580",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Paris",
+    "scheduled_service": "no",
+    "gps_code": "KPHT",
+    "iata_code": "PHT",
+    "local_code": "PHT",
+    "home_link": "http://www.paristnairport.com/default.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Henry_County_Airport_(Tennessee)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244107",
+            "airport_ref": "20832",
+            "airport_ident": "KPHT",
+            "length_ft": "5001",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "36.3294",
+            "le_longitude_deg": "-88.3868",
+            "le_elevation_ft": "580",
+            "le_heading_degT": "16.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "36.3425",
+            "he_longitude_deg": "-88.382",
+            "he_elevation_ft": "568",
+            "he_heading_degT": "196.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67404",
+            "airport_ref": "20832",
+            "airport_ident": "KPHT",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.825"
+        },
+        {
+            "id": "67405",
+            "airport_ref": "20832",
+            "airport_ident": "KPHT",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "134.65"
+        },
+        {
+            "id": "67406",
+            "airport_ref": "20832",
+            "airport_ident": "KPHT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

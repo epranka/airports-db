@@ -1,0 +1,118 @@
+{
+    "id": "19983",
+    "ident": "KGTU",
+    "type": "small_airport",
+    "name": "Georgetown Municipal Airport",
+    "latitude_deg": "30.678800582885742",
+    "longitude_deg": "-97.67939758300781",
+    "elevation_ft": "790",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Georgetown",
+    "scheduled_service": "no",
+    "gps_code": "KGTU",
+    "iata_code": "",
+    "local_code": "GTU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241446",
+            "airport_ref": "19983",
+            "airport_ident": "KGTU",
+            "length_ft": "4100",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "30.6814",
+            "le_longitude_deg": "-97.6862",
+            "le_elevation_ft": "789",
+            "le_heading_degT": "120.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "30.6757",
+            "he_longitude_deg": "-97.675",
+            "he_elevation_ft": "759",
+            "he_heading_degT": "300.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241447",
+            "airport_ref": "19983",
+            "airport_ident": "KGTU",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "30.6859",
+            "le_longitude_deg": "-97.6779",
+            "le_elevation_ft": "785",
+            "le_heading_degT": "183.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "30.6722",
+            "he_longitude_deg": "-97.6789",
+            "he_elevation_ft": "747",
+            "he_heading_degT": "3.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61875",
+            "airport_ref": "19983",
+            "airport_ident": "KGTU",
+            "type": "A/D",
+            "description": "AUSTIN APP/DEP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "61876",
+            "airport_ref": "19983",
+            "airport_ident": "KGTU",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.425"
+        },
+        {
+            "id": "61877",
+            "airport_ref": "19983",
+            "airport_ident": "KGTU",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "61878",
+            "airport_ref": "19983",
+            "airport_ident": "KGTU",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

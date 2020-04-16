@@ -1,0 +1,80 @@
+{
+    "id": "29947",
+    "ident": "LLHZ",
+    "type": "small_airport",
+    "name": "Herzliya Airport",
+    "latitude_deg": "32.180599212646484",
+    "longitude_deg": "34.83470153808594",
+    "elevation_ft": "121",
+    "continent": "AS",
+    "iso_country": "IL",
+    "iso_region": "IL-TA",
+    "municipality": "Herzliya",
+    "scheduled_service": "no",
+    "gps_code": "LLHZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Herzliya_airport",
+    "keywords": "Herzlia",
+    "runways": [
+        {
+            "id": "271020",
+            "airport_ref": "29947",
+            "airport_ident": "LLHZ",
+            "length_ft": "2963",
+            "width_ft": "59",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "96",
+            "le_heading_degT": "110",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "119",
+            "he_heading_degT": "290",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75401",
+            "airport_ref": "29947",
+            "airport_ident": "LLHZ",
+            "type": "Tower Primary",
+            "description": "Herzlia",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "75402",
+            "airport_ref": "29947",
+            "airport_ident": "LLHZ",
+            "type": "Tower Secondary",
+            "description": "Herzlia",
+            "frequency_mhz": "129.4"
+        }
+    ],
+    "country": {
+        "id": "302633",
+        "code": "IL",
+        "name": "Israel",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Israel",
+        "keywords": "שדות התעופה של ישראל"
+    },
+    "region": {
+        "id": "304160",
+        "code": "IL-TA",
+        "local_code": "TA",
+        "name": "Tel Aviv District",
+        "continent": "AS",
+        "iso_country": "IL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tel_Aviv_District",
+        "keywords": "Mehoz Tel-Aviv"
+    }
+}

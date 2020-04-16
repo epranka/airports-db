@@ -1,0 +1,88 @@
+{
+    "id": "18565",
+    "ident": "K2A0",
+    "type": "small_airport",
+    "name": "Mark Anton Airport",
+    "latitude_deg": "35.48619842529297",
+    "longitude_deg": "-84.93109893798828",
+    "elevation_ft": "719",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Dayton",
+    "scheduled_service": "no",
+    "gps_code": "K2A0",
+    "iata_code": "",
+    "local_code": "2A0",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242281",
+            "airport_ref": "18565",
+            "airport_ident": "K2A0",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "35.4802",
+            "le_longitude_deg": "-84.9351",
+            "le_elevation_ft": "711",
+            "le_heading_degT": "29",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "35.4923",
+            "he_longitude_deg": "-84.9271",
+            "he_elevation_ft": "719",
+            "he_heading_degT": "209",
+            "he_displaced_threshold_ft": "371"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63604",
+            "airport_ref": "18565",
+            "airport_ident": "K2A0",
+            "type": "A/D",
+            "description": "CHATTANOOGA APP/DEP",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "63605",
+            "airport_ref": "18565",
+            "airport_ident": "K2A0",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.075"
+        },
+        {
+            "id": "63606",
+            "airport_ref": "18565",
+            "airport_ident": "K2A0",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

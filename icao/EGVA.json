@@ -1,0 +1,152 @@
+{
+    "id": "2492",
+    "ident": "EGVA",
+    "type": "large_airport",
+    "name": "RAF Fairford",
+    "latitude_deg": "51.6822013855",
+    "longitude_deg": "-1.7900300025900002",
+    "elevation_ft": "286",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Fairford",
+    "scheduled_service": "no",
+    "gps_code": "EGVA",
+    "iata_code": "FFD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Fairford",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239445",
+            "airport_ref": "2492",
+            "airport_ident": "EGVA",
+            "length_ft": "9994",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "51.683",
+            "le_longitude_deg": "-1.812",
+            "le_elevation_ft": "286",
+            "le_heading_degT": "88",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "51.684",
+            "he_longitude_deg": "-1.768",
+            "he_elevation_ft": "255",
+            "he_heading_degT": "268",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58194",
+            "airport_ref": "2492",
+            "airport_ident": "EGVA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "58195",
+            "airport_ref": "2492",
+            "airport_ident": "EGVA",
+            "type": "CAC",
+            "description": "CAC",
+            "frequency_mhz": "124.275"
+        },
+        {
+            "id": "58196",
+            "airport_ref": "2492",
+            "airport_ident": "EGVA",
+            "type": "DIR",
+            "description": "BRIZE DIRECTOR",
+            "frequency_mhz": "133.75"
+        },
+        {
+            "id": "58197",
+            "airport_ref": "2492",
+            "airport_ident": "EGVA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "234.25"
+        },
+        {
+            "id": "58198",
+            "airport_ref": "2492",
+            "airport_ident": "EGVA",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "25.775"
+        },
+        {
+            "id": "58199",
+            "airport_ref": "2492",
+            "airport_ident": "EGVA",
+            "type": "PTD",
+            "description": "PDT",
+            "frequency_mhz": "233.47"
+        },
+        {
+            "id": "58200",
+            "airport_ref": "2492",
+            "airport_ident": "EGVA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "307837",
+            "airport_ref": "2492",
+            "airport_ident": "EGVA",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "338.22"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87973",
+            "filename": "Fairford_TACAN_GB",
+            "ident": "FFA",
+            "name": "Fairford",
+            "type": "TACAN",
+            "frequency_khz": "113400",
+            "latitude_deg": "51.68170166015625",
+            "longitude_deg": "-1.7976100444793701",
+            "elevation_ft": "299",
+            "iso_country": "GB",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.003",
+            "magnetic_variation_deg": "-2.566",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EGVA"
+        }
+    ]
+}

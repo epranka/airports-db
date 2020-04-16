@@ -1,0 +1,96 @@
+{
+    "id": "4749",
+    "ident": "MMSC",
+    "type": "closed",
+    "name": "San Cristobal de las Casas Airport",
+    "latitude_deg": "16.690299987793",
+    "longitude_deg": "-92.530097961426",
+    "elevation_ft": "7707",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-CHP",
+    "municipality": "San Cristobal de las Casas",
+    "scheduled_service": "no",
+    "gps_code": "MMSC",
+    "iata_code": "SZT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas_National_Airport",
+    "keywords": "Corazón de María",
+    "runways": [
+        {
+            "id": "237645",
+            "airport_ref": "4749",
+            "airport_ident": "MMSC",
+            "length_ft": "8694",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "16.6947",
+            "le_longitude_deg": "-92.5416",
+            "le_elevation_ft": "7707",
+            "le_heading_degT": "111.8",
+            "le_displaced_threshold_ft": "205",
+            "he_ident": "29",
+            "he_latitude_deg": "16.6858",
+            "he_longitude_deg": "-92.5186",
+            "he_elevation_ft": "7707",
+            "he_heading_degT": "291.8",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55399",
+            "airport_ref": "4749",
+            "airport_ident": "MMSC",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "132.1"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304795",
+        "code": "MX-CHP",
+        "local_code": "CHP",
+        "name": "Chiapas",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chiapas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94149",
+            "filename": "Cristobal_VOR-DME_MX",
+            "ident": "SZT",
+            "name": "Cristobal",
+            "type": "VOR-DME",
+            "frequency_khz": "116000",
+            "latitude_deg": "16.68560028076172",
+            "longitude_deg": "-92.52169799804688",
+            "elevation_ft": "7707",
+            "iso_country": "MX",
+            "dme_frequency_khz": "116000",
+            "dme_channel": "107X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.009",
+            "magnetic_variation_deg": "3.196",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "MMSC"
+        }
+    ]
+}

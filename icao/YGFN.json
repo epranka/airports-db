@@ -1,0 +1,104 @@
+{
+    "id": "26992",
+    "ident": "YGFN",
+    "type": "medium_airport",
+    "name": "Grafton Airport",
+    "latitude_deg": "-29.7593994140625",
+    "longitude_deg": "153.02999877929688",
+    "elevation_ft": "110",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YGFN",
+    "iata_code": "GFN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233419",
+            "airport_ref": "26992",
+            "airport_ident": "YGFN",
+            "length_ft": "5607",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-29.7472",
+            "le_longitude_deg": "153.032",
+            "le_elevation_ft": "63",
+            "le_heading_degT": "186",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-29.7625",
+            "he_longitude_deg": "153.03",
+            "he_elevation_ft": "106",
+            "he_heading_degT": "6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49014",
+            "airport_ref": "26992",
+            "airport_ident": "YGFN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49015",
+            "airport_ref": "26992",
+            "airport_ident": "YGFN",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "122.6"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88358",
+            "filename": "Grafton_NDB_AU",
+            "ident": "GFN",
+            "name": "Grafton",
+            "type": "NDB",
+            "frequency_khz": "389",
+            "latitude_deg": "-29.759700775146484",
+            "longitude_deg": "153.02699279785156",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.479",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YGFN"
+        }
+    ]
+}

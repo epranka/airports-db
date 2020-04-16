@@ -1,0 +1,112 @@
+{
+    "id": "5111",
+    "ident": "OERF",
+    "type": "medium_airport",
+    "name": "Rafha Domestic Airport",
+    "latitude_deg": "29.626399993896484",
+    "longitude_deg": "43.4906005859375",
+    "elevation_ft": "1474",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-08",
+    "municipality": "Rafha",
+    "scheduled_service": "yes",
+    "gps_code": "OERF",
+    "iata_code": "RAH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rafha_Domestic_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238620",
+            "airport_ref": "5111",
+            "airport_ident": "OERF",
+            "length_ft": "9834",
+            "width_ft": "147",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "29.6317",
+            "le_longitude_deg": "43.4765",
+            "le_elevation_ft": "1459",
+            "le_heading_degT": "114",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "29.621",
+            "he_longitude_deg": "43.5049",
+            "he_elevation_ft": "1474",
+            "he_heading_degT": "294",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56864",
+            "airport_ref": "5111",
+            "airport_ident": "OERF",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "56865",
+            "airport_ref": "5111",
+            "airport_ident": "OERF",
+            "type": "MISC",
+            "description": "CRASH SVC",
+            "frequency_mhz": "133.5"
+        },
+        {
+            "id": "56866",
+            "airport_ref": "5111",
+            "airport_ident": "OERF",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "131.5"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305367",
+        "code": "SA-08",
+        "local_code": "08",
+        "name": "The Northern Border Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Northern_Border_Region",
+        "keywords": "Al Hudud ash Shamaliyah"
+    },
+    "navaids": [
+        {
+            "id": "92958",
+            "filename": "Rafha_VOR-DME_SA",
+            "ident": "RAF",
+            "name": "Rafha",
+            "type": "VOR-DME",
+            "frequency_khz": "116800",
+            "latitude_deg": "29.62019920349121",
+            "longitude_deg": "43.49800109863281",
+            "elevation_ft": "1460",
+            "iso_country": "SA",
+            "dme_frequency_khz": "116800",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.194",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OERF"
+        }
+    ]
+}

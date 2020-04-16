@@ -1,0 +1,72 @@
+{
+    "id": "1517",
+    "ident": "CSG3",
+    "type": "small_airport",
+    "name": "Joliette Airport",
+    "latitude_deg": "46.04499816894531",
+    "longitude_deg": "-73.50170135498047",
+    "elevation_ft": "225",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Joliette",
+    "scheduled_service": "no",
+    "gps_code": "CSG3",
+    "iata_code": "",
+    "local_code": "CSG3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Joliette_Airport",
+    "keywords": "SG3",
+    "runways": [
+        {
+            "id": "234504",
+            "airport_ref": "1517",
+            "airport_ident": "CSG3",
+            "length_ft": "3250",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "46.0478",
+            "le_longitude_deg": "-73.5061",
+            "le_elevation_ft": "",
+            "le_heading_degT": "133.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "46.0417",
+            "he_longitude_deg": "-73.4969",
+            "he_elevation_ft": "",
+            "he_heading_degT": "313.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49956",
+            "airport_ref": "1517",
+            "airport_ident": "CSG3",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    }
+}

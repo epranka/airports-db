@@ -1,0 +1,118 @@
+{
+    "id": "20214",
+    "ident": "KJKA",
+    "type": "small_airport",
+    "name": "Jack Edwards Airport",
+    "latitude_deg": "30.29050064",
+    "longitude_deg": "-87.67179871",
+    "elevation_ft": "17",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Gulf Shores",
+    "scheduled_service": "no",
+    "gps_code": "KJKA",
+    "iata_code": "GUF",
+    "local_code": "JKA",
+    "home_link": "http://www.jka.us.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jack_Edwards_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242842",
+            "airport_ref": "20214",
+            "airport_ident": "KJKA",
+            "length_ft": "6962",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "30.2903",
+            "le_longitude_deg": "-87.6802",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "463",
+            "he_ident": "27",
+            "he_latitude_deg": "30.2903",
+            "he_longitude_deg": "-87.6582",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242843",
+            "airport_ref": "20214",
+            "airport_ident": "KJKA",
+            "length_ft": "3599",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "30.2933",
+            "le_longitude_deg": "-87.6772",
+            "le_elevation_ft": "16",
+            "le_heading_degT": "175",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "30.2834",
+            "he_longitude_deg": "-87.6763",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "355",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64757",
+            "airport_ref": "20214",
+            "airport_ident": "KJKA",
+            "type": "A/D",
+            "description": "PENSACOLA APP/DEP",
+            "frequency_mhz": "120.05"
+        },
+        {
+            "id": "64758",
+            "airport_ref": "20214",
+            "airport_ident": "KJKA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "134.525"
+        },
+        {
+            "id": "64759",
+            "airport_ref": "20214",
+            "airport_ident": "KJKA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.55"
+        },
+        {
+            "id": "64760",
+            "airport_ref": "20214",
+            "airport_ident": "KJKA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "5608",
+    "ident": "RJSF",
+    "type": "medium_airport",
+    "name": "Fukushima Airport",
+    "latitude_deg": "37.22740173339844",
+    "longitude_deg": "140.43099975585938",
+    "elevation_ft": "1221",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-07",
+    "municipality": "Sukagawa",
+    "scheduled_service": "yes",
+    "gps_code": "RJSF",
+    "iata_code": "FKS",
+    "local_code": "",
+    "home_link": "http://www.fks-ab.co.jp/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fukushima_Airport",
+    "keywords": "福島空港",
+    "runways": [
+        {
+            "id": "237202",
+            "airport_ref": "5608",
+            "airport_ident": "RJSF",
+            "length_ft": "8202",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "37.2162",
+            "le_longitude_deg": "140.427",
+            "le_elevation_ft": "1200",
+            "le_heading_degT": "2.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "37.2387",
+            "he_longitude_deg": "140.429",
+            "he_elevation_ft": "1209",
+            "he_heading_degT": "182.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54687",
+            "airport_ref": "5608",
+            "airport_ident": "RJSF",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.05"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304292",
+        "code": "JP-07",
+        "local_code": "07",
+        "name": "Fukusima Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fukusima",
+        "keywords": "Tohoku"
+    },
+    "navaids": [
+        {
+            "id": "88024",
+            "filename": "Fukushima_VOR-DME_JP",
+            "ident": "FKE",
+            "name": "Fukushima",
+            "type": "VOR-DME",
+            "frequency_khz": "113450",
+            "latitude_deg": "37.224300384521484",
+            "longitude_deg": "140.43699645996094",
+            "elevation_ft": "1313",
+            "iso_country": "JP",
+            "dme_frequency_khz": "113450",
+            "dme_channel": "081Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.214",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "RJSF"
+        }
+    ]
+}

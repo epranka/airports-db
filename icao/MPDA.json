@@ -1,0 +1,142 @@
+{
+    "id": "4789",
+    "ident": "MPDA",
+    "type": "medium_airport",
+    "name": "Enrique Malek International Airport",
+    "latitude_deg": "8.390999794006348",
+    "longitude_deg": "-82.43499755859375",
+    "elevation_ft": "89",
+    "continent": "NA",
+    "iso_country": "PA",
+    "iso_region": "PA-4",
+    "municipality": "David",
+    "scheduled_service": "yes",
+    "gps_code": "MPDA",
+    "iata_code": "DAV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Enrique_Malek_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238300",
+            "airport_ref": "4789",
+            "airport_ident": "MPDA",
+            "length_ft": "6890",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "8.3835",
+            "le_longitude_deg": "-82.4408",
+            "le_elevation_ft": "35",
+            "le_heading_degT": "37.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "8.39851",
+            "he_longitude_deg": "-82.4291",
+            "he_elevation_ft": "89",
+            "he_heading_degT": "217.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56251",
+            "airport_ref": "4789",
+            "airport_ident": "MPDA",
+            "type": "ACC",
+            "description": "PANAMA CON",
+            "frequency_mhz": "133"
+        },
+        {
+            "id": "56252",
+            "airport_ref": "4789",
+            "airport_ident": "MPDA",
+            "type": "APP",
+            "description": "PANAMA APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "56253",
+            "airport_ref": "4789",
+            "airport_ident": "MPDA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "56254",
+            "airport_ref": "4789",
+            "airport_ident": "MPDA",
+            "type": "TWR",
+            "description": "MALEK TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302749",
+        "code": "PA",
+        "name": "Panama",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Panama",
+        "keywords": "Aeropuertos de Panamá"
+    },
+    "region": {
+        "id": "304999",
+        "code": "PA-4",
+        "local_code": "4",
+        "name": "Chiriquí Province",
+        "continent": "NA",
+        "iso_country": "PA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chiriquí_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87279",
+            "filename": "David_VOR-DME_PA",
+            "ident": "DAV",
+            "name": "David",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "8.38696002960205",
+            "longitude_deg": "-82.4375991821289",
+            "elevation_ft": "89",
+            "iso_country": "PA",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.507",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MPDA"
+        },
+        {
+            "id": "87280",
+            "filename": "David_NDB_PA",
+            "ident": "DAV",
+            "name": "David",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "8.390999794006348",
+            "longitude_deg": "-82.4280014038086",
+            "elevation_ft": "120",
+            "iso_country": "PA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.511",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MPDA"
+        }
+    ]
+}

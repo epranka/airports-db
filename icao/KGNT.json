@@ -1,0 +1,102 @@
+{
+    "id": "19968",
+    "ident": "KGNT",
+    "type": "small_airport",
+    "name": "Grants-Milan Municipal Airport",
+    "latitude_deg": "35.167301178",
+    "longitude_deg": "-107.902000427",
+    "elevation_ft": "6537",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Grants",
+    "scheduled_service": "no",
+    "gps_code": "KGNT",
+    "iata_code": "GNT",
+    "local_code": "GNT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239902",
+            "airport_ref": "19968",
+            "airport_ident": "KGNT",
+            "length_ft": "2350",
+            "width_ft": "40",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "35.1612",
+            "le_longitude_deg": "-107.902",
+            "le_elevation_ft": "6520",
+            "le_heading_degT": "91.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "35.161",
+            "he_longitude_deg": "-107.894",
+            "he_elevation_ft": "6510",
+            "he_heading_degT": "271.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239903",
+            "airport_ref": "19968",
+            "airport_ident": "KGNT",
+            "length_ft": "7172",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "35.1774",
+            "le_longitude_deg": "-107.91",
+            "le_elevation_ft": "6537",
+            "le_heading_degT": "145",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "35.1612",
+            "he_longitude_deg": "-107.896",
+            "he_elevation_ft": "6515",
+            "he_heading_degT": "325",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59158",
+            "airport_ref": "19968",
+            "airport_ident": "KGNT",
+            "type": "CNTR",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "124.325"
+        },
+        {
+            "id": "59159",
+            "airport_ref": "19968",
+            "airport_ident": "KGNT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    }
+}

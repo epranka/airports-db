@@ -1,0 +1,142 @@
+{
+    "id": "3706",
+    "ident": "KMSL",
+    "type": "medium_airport",
+    "name": "Northwest Alabama Regional Airport",
+    "latitude_deg": "34.74530029",
+    "longitude_deg": "-87.61019897",
+    "elevation_ft": "551",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Muscle Shoals",
+    "scheduled_service": "yes",
+    "gps_code": "KMSL",
+    "iata_code": "MSL",
+    "local_code": "MSL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Alabama_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241757",
+            "airport_ref": "3706",
+            "airport_ident": "KMSL",
+            "length_ft": "6693",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "34.749",
+            "le_longitude_deg": "-87.617",
+            "le_elevation_ft": "542",
+            "le_heading_degT": "114",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "34.7415",
+            "he_longitude_deg": "-87.5967",
+            "he_elevation_ft": "550",
+            "he_heading_degT": "294",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241758",
+            "airport_ref": "3706",
+            "airport_ident": "KMSL",
+            "length_ft": "4000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "34.7509",
+            "le_longitude_deg": "-87.6157",
+            "le_elevation_ft": "539",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "34.7399",
+            "he_longitude_deg": "-87.6161",
+            "he_elevation_ft": "541",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62504",
+            "airport_ref": "3706",
+            "airport_ident": "KMSL",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.425"
+        },
+        {
+            "id": "62505",
+            "airport_ref": "3706",
+            "airport_ident": "KMSL",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "62506",
+            "airport_ref": "3706",
+            "airport_ident": "KMSL",
+            "type": "RDO",
+            "description": "ANNISTON RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "62507",
+            "airport_ref": "3706",
+            "airport_ident": "KMSL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91284",
+            "filename": "Muscle_Shoals_VORTAC_US",
+            "ident": "MSL",
+            "name": "Muscle Shoals",
+            "type": "VORTAC",
+            "frequency_khz": "116500",
+            "latitude_deg": "34.70690155029297",
+            "longitude_deg": "-87.49150085449219",
+            "elevation_ft": "580",
+            "iso_country": "US",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "-1.558",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KMSL"
+        }
+    ]
+}

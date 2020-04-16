@@ -1,0 +1,96 @@
+{
+    "id": "5768",
+    "ident": "SAAP",
+    "type": "medium_airport",
+    "name": "General Urquiza Airport",
+    "latitude_deg": "-31.7948",
+    "longitude_deg": "-60.4804",
+    "elevation_ft": "242",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-E",
+    "municipality": "Parana",
+    "scheduled_service": "yes",
+    "gps_code": "SAAP",
+    "iata_code": "PRA",
+    "local_code": "PAR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/General_Urquiza_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232937",
+            "airport_ref": "5768",
+            "airport_ident": "SAAP",
+            "length_ft": "6890",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "1",
+            "le_latitude_deg": "-31.8041",
+            "le_longitude_deg": "-60.482",
+            "le_elevation_ft": "243",
+            "le_heading_degT": "8.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-31.7854",
+            "he_longitude_deg": "-60.4787",
+            "he_elevation_ft": "243",
+            "he_heading_degT": "188.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48363",
+            "airport_ref": "5768",
+            "airport_ident": "SAAP",
+            "type": "TWR",
+            "description": "PARANA TWR",
+            "frequency_mhz": "119.6"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302936",
+        "code": "AR-E",
+        "local_code": "E",
+        "name": "Entre Ríos Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Entre_R%C3%ADos_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92274",
+            "filename": "Parana_VOR-DME_AR",
+            "ident": "PAR",
+            "name": "Parana",
+            "type": "VOR-DME",
+            "frequency_khz": "116800",
+            "latitude_deg": "-31.808300018310547",
+            "longitude_deg": "-60.48469924926758",
+            "elevation_ft": "243",
+            "iso_country": "AR",
+            "dme_frequency_khz": "116800",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-6.398",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAAP"
+        }
+    ]
+}

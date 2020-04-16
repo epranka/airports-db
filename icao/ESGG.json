@@ -1,0 +1,120 @@
+{
+    "id": "2648",
+    "ident": "ESGG",
+    "type": "large_airport",
+    "name": "Gothenburg-Landvetter Airport",
+    "latitude_deg": "57.662799835205",
+    "longitude_deg": "12.279800415039",
+    "elevation_ft": "506",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Gothenburg",
+    "scheduled_service": "yes",
+    "gps_code": "ESGG",
+    "iata_code": "GOT",
+    "local_code": "",
+    "home_link": "https://www.swedavia.com/landvetter/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gothenburg-Landvetter_Airport",
+    "keywords": "Göteborg-Landvetter",
+    "runways": [
+        {
+            "id": "239020",
+            "airport_ref": "2648",
+            "airport_ident": "ESGG",
+            "length_ft": "10823",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "57.6495",
+            "le_longitude_deg": "12.2677",
+            "le_elevation_ft": "478",
+            "le_heading_degT": "26",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "57.6761",
+            "he_longitude_deg": "12.2919",
+            "he_elevation_ft": "506",
+            "he_heading_degT": "206",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57448",
+            "airport_ref": "2648",
+            "airport_ident": "ESGG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "57449",
+            "airport_ref": "2648",
+            "airport_ident": "ESGG",
+            "type": "GCCD",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "57450",
+            "airport_ref": "2648",
+            "airport_ident": "ESGG",
+            "type": "TCA",
+            "description": "GOTEBORG APP",
+            "frequency_mhz": "124.68"
+        },
+        {
+            "id": "57451",
+            "airport_ref": "2648",
+            "airport_ident": "ESGG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305424",
+        "code": "SE-Q",
+        "local_code": "Q",
+        "name": "Västra Götalands län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västra_Götalands_län",
+        "keywords": "Västra Götaland County"
+    },
+    "navaids": [
+        {
+            "id": "90181",
+            "filename": "Landvetter_VOR-DME_SE",
+            "ident": "LAV",
+            "name": "Landvetter",
+            "type": "VOR-DME",
+            "frequency_khz": "114600",
+            "latitude_deg": "57.65610122680664",
+            "longitude_deg": "12.289899826049805",
+            "elevation_ft": "574",
+            "iso_country": "SE",
+            "dme_frequency_khz": "114600",
+            "dme_channel": "093X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "1.523",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ESGG"
+        }
+    ]
+}

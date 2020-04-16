@@ -1,0 +1,128 @@
+{
+    "id": "3249",
+    "ident": "HSSS",
+    "type": "large_airport",
+    "name": "Khartoum International Airport",
+    "latitude_deg": "15.589500427246094",
+    "longitude_deg": "32.553199768066406",
+    "elevation_ft": "1265",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-03",
+    "municipality": "Khartoum",
+    "scheduled_service": "yes",
+    "gps_code": "HSSS",
+    "iata_code": "KRT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Khartoum_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238964",
+            "airport_ref": "3249",
+            "airport_ident": "HSSS",
+            "length_ft": "9751",
+            "width_ft": "148",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "15.603",
+            "le_longitude_deg": "32.553",
+            "le_elevation_ft": "1265",
+            "le_heading_degT": "177",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "15.576",
+            "he_longitude_deg": "32.5533",
+            "he_elevation_ft": "1260",
+            "he_heading_degT": "357",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57377",
+            "airport_ref": "3249",
+            "airport_ident": "HSSS",
+            "type": "APP",
+            "description": "Khartoum Approach",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "57378",
+            "airport_ref": "3249",
+            "airport_ident": "HSSS",
+            "type": "EMR",
+            "description": "FIRE",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "300665",
+            "airport_ref": "3249",
+            "airport_ident": "HSSS",
+            "type": "North Area",
+            "description": "North Sector",
+            "frequency_mhz": "125.4"
+        },
+        {
+            "id": "300666",
+            "airport_ref": "3249",
+            "airport_ident": "HSSS",
+            "type": "South Area",
+            "description": "South Sector",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "57379",
+            "airport_ref": "3249",
+            "airport_ident": "HSSS",
+            "type": "TWR",
+            "description": "Khartoum Tower",
+            "frequency_mhz": "119.2"
+        }
+    ],
+    "country": {
+        "id": "302597",
+        "code": "SD",
+        "name": "Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sudan",
+        "keywords": "مطارات السودان"
+    },
+    "region": {
+        "id": "305386",
+        "code": "SD-03",
+        "local_code": "03",
+        "name": "Khartoum State",
+        "continent": "AF",
+        "iso_country": "SD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Khartoum_State",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90034",
+            "filename": "Khartoum_VOR-DME_SD",
+            "ident": "KTM",
+            "name": "Khartoum",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "15.566100120544434",
+            "longitude_deg": "32.55339813232422",
+            "elevation_ft": "1280",
+            "iso_country": "SD",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.239",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HSSS"
+        }
+    ]
+}

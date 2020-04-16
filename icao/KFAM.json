@@ -1,0 +1,96 @@
+{
+    "id": "19844",
+    "ident": "KFAM",
+    "type": "small_airport",
+    "name": "Farmington Regional Airport",
+    "latitude_deg": "37.76110077",
+    "longitude_deg": "-90.4285965",
+    "elevation_ft": "946",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Farmington",
+    "scheduled_service": "no",
+    "gps_code": "KFAM",
+    "iata_code": "FAM",
+    "local_code": "FAM",
+    "home_link": "http://farmington-mo.gov/airport.cfm",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239845",
+            "airport_ref": "19844",
+            "airport_ident": "KFAM",
+            "length_ft": "4221",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "37.7559",
+            "le_longitude_deg": "-90.4314",
+            "le_elevation_ft": "910",
+            "le_heading_degT": "24",
+            "le_displaced_threshold_ft": "223",
+            "he_ident": "20",
+            "he_latitude_deg": "37.7666",
+            "he_longitude_deg": "-90.4256",
+            "he_elevation_ft": "945",
+            "he_heading_degT": "204",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59065",
+            "airport_ref": "19844",
+            "airport_ident": "KFAM",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "59066",
+            "airport_ref": "19844",
+            "airport_ident": "KFAM",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "127.47"
+        },
+        {
+            "id": "59067",
+            "airport_ref": "19844",
+            "airport_ident": "KFAM",
+            "type": "RDO",
+            "description": "ST LOUIS RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "59068",
+            "airport_ref": "19844",
+            "airport_ident": "KFAM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

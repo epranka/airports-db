@@ -1,0 +1,112 @@
+{
+    "id": "3181",
+    "ident": "HEBL",
+    "type": "medium_airport",
+    "name": "Abu Simbel Airport",
+    "latitude_deg": "22.375999450699997",
+    "longitude_deg": "31.611700058",
+    "elevation_ft": "616",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-ASN",
+    "municipality": "Abu Simbel",
+    "scheduled_service": "yes",
+    "gps_code": "HEBL",
+    "iata_code": "ABS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Abu_Simbel_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235571",
+            "airport_ref": "3181",
+            "airport_ident": "HEBL",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "22.3877",
+            "le_longitude_deg": "31.6044",
+            "le_elevation_ft": "616",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "22.3642",
+            "he_longitude_deg": "31.619",
+            "he_elevation_ft": "616",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51861",
+            "airport_ref": "3181",
+            "airport_ident": "HEBL",
+            "type": "MISC",
+            "description": "FIRE",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51862",
+            "airport_ref": "3181",
+            "airport_ident": "HEBL",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "585.9"
+        },
+        {
+            "id": "51863",
+            "airport_ref": "3181",
+            "airport_ident": "HEBL",
+            "type": "TWR",
+            "description": "TWR/APP",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303692",
+        "code": "EG-ASN",
+        "local_code": "ASN",
+        "name": "Aswan Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aswan_Governorate",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93783",
+            "filename": "Abu_Simbel_VOR-DME_EG",
+            "ident": "SML",
+            "name": "Abu Simbel",
+            "type": "VOR-DME",
+            "frequency_khz": "113500",
+            "latitude_deg": "22.354900360107422",
+            "longitude_deg": "31.621999740600586",
+            "elevation_ft": "640",
+            "iso_country": "EG",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "2.483",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HEBL"
+        }
+    ]
+}

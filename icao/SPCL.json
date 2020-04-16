@@ -1,0 +1,104 @@
+{
+    "id": "6205",
+    "ident": "SPCL",
+    "type": "medium_airport",
+    "name": "Cap FAP David Abenzur Rengifo International Airport",
+    "latitude_deg": "-8.37794017791748",
+    "longitude_deg": "-74.57430267333984",
+    "elevation_ft": "513",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-UCA",
+    "municipality": "Pucallpa",
+    "scheduled_service": "yes",
+    "gps_code": "SPCL",
+    "iata_code": "PCL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Captain_Rolden_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238148",
+            "airport_ref": "6205",
+            "airport_ident": "SPCL",
+            "length_ft": "9186",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-8.38984",
+            "le_longitude_deg": "-74.5787",
+            "le_elevation_ft": "513",
+            "le_heading_degT": "20",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "-8.36604",
+            "he_longitude_deg": "-74.5699",
+            "he_elevation_ft": "513",
+            "he_heading_degT": "200",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56094",
+            "airport_ref": "6205",
+            "airport_ident": "SPCL",
+            "type": "APP",
+            "description": "PUCALLPA APP",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "56095",
+            "airport_ref": "6205",
+            "airport_ident": "SPCL",
+            "type": "TWR",
+            "description": "PUCALLPA TWR",
+            "frequency_mhz": "126.9"
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Perú",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305032",
+        "code": "PE-UCA",
+        "local_code": "UCA",
+        "name": "Ucayali Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ucayali_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92799",
+            "filename": "Pucallpa_VOR-DME_PE",
+            "ident": "PUL",
+            "name": "Pucallpa",
+            "type": "VOR-DME",
+            "frequency_khz": "116700",
+            "latitude_deg": "-8.375829696655273",
+            "longitude_deg": "-74.57219696044922",
+            "elevation_ft": "537",
+            "iso_country": "PE",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-2.428",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPCL"
+        }
+    ]
+}

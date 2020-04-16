@@ -1,0 +1,96 @@
+{
+    "id": "2811",
+    "ident": "FAMJ",
+    "type": "small_airport",
+    "name": "Majuba Power Station Airport",
+    "latitude_deg": "-27.079299926799997",
+    "longitude_deg": "29.7784996033",
+    "elevation_ft": "5600",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "Amerspoort",
+    "scheduled_service": "no",
+    "gps_code": "FAMJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238813",
+            "airport_ref": "2811",
+            "airport_ident": "FAMJ",
+            "length_ft": "4921",
+            "width_ft": "49",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-27.0756",
+            "le_longitude_deg": "29.7722",
+            "le_elevation_ft": "5573",
+            "le_heading_degT": "123",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-27.0829",
+            "he_longitude_deg": "29.7849",
+            "he_elevation_ft": "5600",
+            "he_heading_degT": "303",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57120",
+            "airport_ref": "2811",
+            "airport_ident": "FAMJ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306298",
+        "code": "ZA-MP",
+        "local_code": "MP",
+        "name": "Mpumalanga",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mpumalanga",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90725",
+            "filename": "Majuba_NDB_ZA",
+            "ident": "MAJ",
+            "name": "Majuba",
+            "type": "NDB",
+            "frequency_khz": "513",
+            "latitude_deg": "-27.059799194335938",
+            "longitude_deg": "29.74410057067871",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.334",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAMJ"
+        }
+    ]
+}

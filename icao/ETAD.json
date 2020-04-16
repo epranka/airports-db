@@ -1,0 +1,192 @@
+{
+    "id": "2717",
+    "ident": "ETAD",
+    "type": "medium_airport",
+    "name": "Spangdahlem Air Base",
+    "latitude_deg": "49.9726982117",
+    "longitude_deg": "6.69250011444",
+    "elevation_ft": "1197",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Trier",
+    "scheduled_service": "no",
+    "gps_code": "ETAD",
+    "iata_code": "SPM",
+    "local_code": "",
+    "home_link": "http://www.spangdahlem.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Spangdahlem_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236292",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "length_ft": "10007",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "49.9668",
+            "le_longitude_deg": "6.68356",
+            "le_elevation_ft": "1128",
+            "le_heading_degT": "44.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "49.9863",
+            "he_longitude_deg": "6.71346",
+            "he_elevation_ft": "1197",
+            "he_heading_degT": "224.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53210",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "A/G",
+            "description": "SOF",
+            "frequency_mhz": "141.775"
+        },
+        {
+            "id": "53211",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "143.425"
+        },
+        {
+            "id": "53212",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "DEP",
+            "description": "LIPPE RADAR",
+            "frequency_mhz": "314.6"
+        },
+        {
+            "id": "53213",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "DIR",
+            "description": "RHEIN RADAR",
+            "frequency_mhz": "387.15"
+        },
+        {
+            "id": "53214",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "129.475"
+        },
+        {
+            "id": "53215",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "GCCD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "308.85"
+        },
+        {
+            "id": "53216",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "138.8"
+        },
+        {
+            "id": "53217",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "OPS",
+            "description": "AMC AIRLIFT AMCC",
+            "frequency_mhz": "131.975"
+        },
+        {
+            "id": "53218",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "284.425"
+        },
+        {
+            "id": "53219",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "258.7"
+        },
+        {
+            "id": "53220",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "138.4"
+        },
+        {
+            "id": "53221",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "RDR",
+            "description": "LANGEN RADAR",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "53222",
+            "airport_ref": "2717",
+            "airport_ident": "ETAD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303557",
+        "code": "DE-RP",
+        "local_code": "RP",
+        "name": "Rhineland-Palatinate",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rhineland-Palatinate",
+        "keywords": "Rheinland-Pfalz"
+    },
+    "navaids": [
+        {
+            "id": "93873",
+            "filename": "Spangdahlem_TACAN_DE",
+            "ident": "SPA",
+            "name": "Spangdahlem",
+            "type": "TACAN",
+            "frequency_khz": "109500",
+            "latitude_deg": "49.979000091552734",
+            "longitude_deg": "6.697700023651123",
+            "elevation_ft": "1161",
+            "iso_country": "DE",
+            "dme_frequency_khz": "109500",
+            "dme_channel": "032X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.009",
+            "magnetic_variation_deg": "0.125",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETAD"
+        }
+    ]
+}

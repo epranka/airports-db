@@ -1,0 +1,142 @@
+{
+    "id": "20860",
+    "ident": "KPPO",
+    "type": "small_airport",
+    "name": "La Porte Municipal Airport",
+    "latitude_deg": "41.5724983215",
+    "longitude_deg": "-86.73449707030001",
+    "elevation_ft": "812",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "La Porte",
+    "scheduled_service": "no",
+    "gps_code": "KPPO",
+    "iata_code": "LPO",
+    "local_code": "PPO",
+    "home_link": "http://www.laportemuniairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/La_Porte_Municipal_Airport_(Indiana)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242764",
+            "airport_ref": "20860",
+            "airport_ident": "KPPO",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "41.5655",
+            "le_longitude_deg": "-86.7376",
+            "le_elevation_ft": "801",
+            "le_heading_degT": "20",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "41.5784",
+            "he_longitude_deg": "-86.7314",
+            "he_elevation_ft": "812",
+            "he_heading_degT": "200",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242765",
+            "airport_ref": "20860",
+            "airport_ident": "KPPO",
+            "length_ft": "2800",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "41.576",
+            "le_longitude_deg": "-86.7382",
+            "le_elevation_ft": "810",
+            "le_heading_degT": "134",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "32",
+            "he_latitude_deg": "41.5707",
+            "he_longitude_deg": "-86.7309",
+            "he_elevation_ft": "800",
+            "he_heading_degT": "314",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64587",
+            "airport_ref": "20860",
+            "airport_ident": "KPPO",
+            "type": "A/D",
+            "description": "SOUTH BEND APP/DEP",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "64588",
+            "airport_ref": "20860",
+            "airport_ident": "KPPO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "64589",
+            "airport_ref": "20860",
+            "airport_ident": "KPPO",
+            "type": "RDO",
+            "description": "TERRE HAUTE RDO",
+            "frequency_mhz": "115.6"
+        },
+        {
+            "id": "64590",
+            "airport_ref": "20860",
+            "airport_ident": "KPPO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89375",
+            "filename": "La_Porte_NDB_US",
+            "ident": "IUL",
+            "name": "La Porte",
+            "type": "NDB",
+            "frequency_khz": "356",
+            "latitude_deg": "41.4989013671875",
+            "longitude_deg": "-86.77149963378906",
+            "elevation_ft": "805",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.458",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KPPO"
+        }
+    ]
+}
