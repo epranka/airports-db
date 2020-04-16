@@ -1,0 +1,16 @@
+{
+    "name": "airports-db",
+    "version": "1.0.0",
+    "description": "Public airports database",
+    "main": "build.js",
+    "scripts": {
+        "build": "rm -rf ./icao && mkdir ./icao && node build"
+    },
+    "repository": "https://github.com/epranka/airports-db.git",
+    "author": "Edvinas Pranka (https://twitter.com/epranka)",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "csv-parser": "^2.3.2"
+    }
+}
