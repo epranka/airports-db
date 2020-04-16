@@ -19,7 +19,7 @@
 <br />
 
 This is a JSON database of airports which contains about 56k airports with their runways, communication frequencies, 
-navaids, countries, and regions information. The database is not 100% accurate and can have older data, so do not use it for a real flight. 
+navaids, countries, and regions information. The database is not 100% accurate because can have older data, so do not use it for a real flight or very sensitive applications. 
 But it works well to get basic information about the airport.
 
 <h2 align="center">How to use it? 🤔</h2>
