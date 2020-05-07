@@ -1,20 +1,20 @@
 {
     "id": "2728",
     "ident": "ETHR",
-    "type": "medium_airport",
-    "name": "Roth Airport",
-    "latitude_deg": "49.217498779296875",
-    "longitude_deg": "11.100199699401855",
+    "type": "small_airport",
+    "name": "Sonderlandeplatz Roth",
+    "latitude_deg": "49.217499",
+    "longitude_deg": "11.1002",
     "elevation_ft": "1268",
     "continent": "EU",
     "iso_country": "DE",
     "iso_region": "DE-BY",
-    "municipality": "",
+    "municipality": "Roth",
     "scheduled_service": "no",
-    "gps_code": "ETHR",
+    "gps_code": "ETSR",
     "iata_code": "",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://bwfsg.de/flugplatz/",
     "wikipedia_link": "",
     "keywords": "",
     "runways": [
@@ -43,20 +43,12 @@
     ],
     "freqs": [
         {
-            "id": "52734",
+            "id": "333998",
             "airport_ref": "2728",
             "airport_ident": "ETHR",
-            "type": "A/G",
-            "description": "AG MIL VOICE RDO",
-            "frequency_mhz": "42.4"
-        },
-        {
-            "id": "52735",
-            "airport_ref": "2728",
-            "airport_ident": "ETHR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
+            "type": "Info",
+            "description": "Roth Info",
+            "frequency_mhz": "123.68"
         }
     ],
     "country": {
