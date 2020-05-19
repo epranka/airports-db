@@ -1,4 +1,5 @@
 const csv = require("csv-parser");
+const https = require("https");
 const path = require("path");
 const fs = require("fs");
 
@@ -30,7 +31,58 @@ const mapArrayByKey = (array, key, multiple = false) => {
     return object;
 };
 
+const downloadFile = (origin, destination) => {
+    return new Promise((resolve, reject) => {
+        const file = fs.createWriteStream(destination, { flags: "w" });
+        https.get(origin, function (response) {
+            response.pipe(file);
+            file.on("finish", function () {
+                file.close(resolve);
+            });
+        }).on("error", function (err) {
+            fs.unlink(dest);
+            reject(err);
+        });
+    });
+};
+
 const build = async () => {
+    // Download airports
+    await downloadFile(
+        "https://ourairports.com/data/airports.csv",
+        resolve("raw/airports.csv")
+    );
+
+    // Download runways
+    await downloadFile(
+        "https://ourairports.com/data/runways.csv",
+        resolve("raw/runways.csv")
+    );
+
+    // Download frequencies
+    await downloadFile(
+        "https://ourairports.com/data/airport-frequencies.csv",
+        resolve("raw/airport-frequencies.csv")
+    );
+
+    // Download countries
+    await downloadFile(
+        "https://ourairports.com/data/countries.csv",
+        resolve("raw/countries.csv")
+    );
+
+    // Download regions
+    await downloadFile(
+        "https://ourairports.com/data/regions.csv",
+        resolve("raw/regions.csv")
+    );
+
+    // Download navaids
+    await downloadFile(
+        "https://ourairports.com/data/navaids.csv",
+        resolve("raw/navaids.csv")
+    );
+
     // Read raw airports
     const airportsArray = await parseCSV(resolve("raw/airports.csv"));
 
