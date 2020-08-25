@@ -3,9 +3,9 @@
     "ident": "VIJU",
     "type": "medium_airport",
     "name": "Jammu Airport",
-    "latitude_deg": "32.6890983582",
-    "longitude_deg": "74.8374023438",
-    "elevation_ft": "1029",
+    "latitude_deg": "32.689098",
+    "longitude_deg": "74.837402",
+    "elevation_ft": "996",
     "continent": "AS",
     "iso_country": "IN",
     "iso_region": "IN-JK",
@@ -24,31 +24,39 @@
             "airport_ident": "VIJU",
             "length_ft": "6755",
             "width_ft": "150",
-            "surface": "ASP",
-            "lighted": "1",
+            "surface": "Asphalt (Bitumen)",
+            "lighted": "0",
             "closed": "0",
-            "le_ident": "17",
+            "le_ident": "18",
             "le_latitude_deg": "32.6984",
             "le_longitude_deg": "74.8368",
-            "le_elevation_ft": "",
+            "le_elevation_ft": "956",
             "le_heading_degT": "177",
             "le_displaced_threshold_ft": "200",
-            "he_ident": "35",
+            "he_ident": "36",
             "he_latitude_deg": "32.6799",
             "he_longitude_deg": "74.838",
-            "he_elevation_ft": "",
+            "he_elevation_ft": "951",
             "he_heading_degT": "357",
-            "he_displaced_threshold_ft": "687"
+            "he_displaced_threshold_ft": ""
         }
     ],
     "freqs": [
         {
-            "id": "53905",
+            "id": "335281",
             "airport_ref": "26565",
             "airport_ident": "VIJU",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "127.8"
+            "description": "JAMMU",
+            "frequency_mhz": "122.85"
+        },
+        {
+            "id": "335282",
+            "airport_ref": "26565",
+            "airport_ident": "VIJU",
+            "type": "TWR STD BY",
+            "description": "",
+            "frequency_mhz": "122.65"
         }
     ],
     "country": {

@@ -3,9 +3,9 @@
     "ident": "EPRZ",
     "type": "medium_airport",
     "name": "Rzeszów-Jasionka Airport",
-    "latitude_deg": "50.1100006104",
-    "longitude_deg": "22.0189990997",
-    "elevation_ft": "675",
+    "latitude_deg": "50.110001",
+    "longitude_deg": "22.018999",
+    "elevation_ft": "693",
     "continent": "EU",
     "iso_country": "PL",
     "iso_region": "PL-PK",
@@ -14,32 +14,10 @@
     "gps_code": "EPRZ",
     "iata_code": "RZE",
     "local_code": "",
-    "home_link": "http://www.lotnisko-rzeszow.pl/?lang=en",
+    "home_link": "https://www.rzeszowairport.pl",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Rzesz%C3%B3w-Jasionka_Airport",
     "keywords": "",
     "runways": [
-        {
-            "id": "238285",
-            "airport_ref": "2629",
-            "airport_ident": "EPRZ",
-            "length_ft": "6840",
-            "width_ft": "328",
-            "surface": "GRS",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "08",
-            "le_latitude_deg": "50.1044",
-            "le_longitude_deg": "22.0426",
-            "le_elevation_ft": "",
-            "le_heading_degT": "81",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "26",
-            "he_latitude_deg": "50.1056",
-            "he_longitude_deg": "22.054",
-            "he_elevation_ft": "",
-            "he_heading_degT": "261",
-            "he_displaced_threshold_ft": ""
-        },
         {
             "id": "238286",
             "airport_ref": "2629",
@@ -61,16 +39,54 @@
             "he_elevation_ft": "679",
             "he_heading_degT": "271",
             "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "238285",
+            "airport_ref": "2629",
+            "airport_ident": "EPRZ",
+            "length_ft": "6840",
+            "width_ft": "328",
+            "surface": "GRS Emergency Strip",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09ES",
+            "le_latitude_deg": "50.1044",
+            "le_longitude_deg": "22.0426",
+            "le_elevation_ft": "",
+            "le_heading_degT": "81",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27ES",
+            "he_latitude_deg": "50.1056",
+            "he_longitude_deg": "22.054",
+            "he_elevation_ft": "",
+            "he_heading_degT": "261",
+            "he_displaced_threshold_ft": ""
         }
     ],
     "freqs": [
+        {
+            "id": "334806",
+            "airport_ref": "2629",
+            "airport_ident": "EPRZ",
+            "type": "ATIS",
+            "description": "Rzeszow ATIS",
+            "frequency_mhz": "124.955"
+        },
+        {
+            "id": "334805",
+            "airport_ref": "2629",
+            "airport_ident": "EPRZ",
+            "type": "DEL",
+            "description": "Rzeszow Delivery",
+            "frequency_mhz": "121.805"
+        },
         {
             "id": "56229",
             "airport_ref": "2629",
             "airport_ident": "EPRZ",
             "type": "TWR",
             "description": "RZESZOW TWR",
-            "frequency_mhz": "126.8"
+            "frequency_mhz": "126.805"
         }
     ],
     "country": {

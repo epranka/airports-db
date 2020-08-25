@@ -311,6 +311,28 @@
     },
     "navaids": [
         {
+            "id": "92084",
+            "filename": "Chicago O'Hare_DME_US",
+            "ident": "GCO",
+            "name": "Chicago O'Hare",
+            "type": "DME",
+            "frequency_khz": "108250",
+            "latitude_deg": "41.994",
+            "longitude_deg": "-87.902",
+            "elevation_ft": "650",
+            "iso_country": "US",
+            "dme_frequency_khz": "108250",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2",
+            "magnetic_variation_deg": "",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KORD"
+        },
+        {
             "id": "89112",
             "filename": "Taffs_NDB_US",
             "ident": "IA",
@@ -418,28 +440,6 @@
             "magnetic_variation_deg": "-2.496",
             "usageType": "LO",
             "power": "LOW",
-            "associated_airport": "KORD"
-        },
-        {
-            "id": "92084",
-            "filename": "Chicago_O'Hare_VOR-DME_US",
-            "ident": "ORD",
-            "name": "Chicago O'Hare",
-            "type": "VOR-DME",
-            "frequency_khz": "113900",
-            "latitude_deg": "41.987701416015625",
-            "longitude_deg": "-87.90489959716797",
-            "elevation_ft": "650",
-            "iso_country": "US",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.004",
-            "magnetic_variation_deg": "-2.54",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
             "associated_airport": "KORD"
         }
     ]
