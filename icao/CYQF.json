@@ -27,13 +27,13 @@
             "surface": "ASP",
             "lighted": "1",
             "closed": "0",
-            "le_ident": "11",
+            "le_ident": "12",
             "le_latitude_deg": "52.1822",
             "le_longitude_deg": "-113.9",
             "le_elevation_ft": "2968",
             "le_heading_degT": "130",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "29",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "30",
             "he_latitude_deg": "52.1761",
             "he_longitude_deg": "-113.888",
             "he_elevation_ft": "2951",
@@ -44,7 +44,7 @@
             "id": "234707",
             "airport_ref": "1866",
             "airport_ident": "CYQF",
-            "length_ft": "5528",
+            "length_ft": "7500",
             "width_ft": "98",
             "surface": "ASP",
             "lighted": "1",
@@ -65,36 +65,36 @@
     ],
     "freqs": [
         {
-            "id": "50326",
-            "airport_ref": "1866",
-            "airport_ident": "CYQF",
-            "type": "A/G",
-            "description": "MF RED DEER RDO",
-            "frequency_mhz": "118.5"
-        },
-        {
             "id": "50327",
             "airport_ref": "1866",
             "airport_ident": "CYQF",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "ATIS 24H",
             "frequency_mhz": "124"
+        },
+        {
+            "id": "336991",
+            "airport_ref": "1866",
+            "airport_ident": "CYQF",
+            "type": "GND",
+            "description": "13-05Z",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "336992",
+            "airport_ref": "1866",
+            "airport_ident": "CYQF",
+            "type": "MF/RDO",
+            "description": "05-13Z RED DEER RDO",
+            "frequency_mhz": "118.5"
         },
         {
             "id": "50328",
             "airport_ref": "1866",
             "airport_ident": "CYQF",
-            "type": "CNTR",
+            "type": "PAL",
             "description": "EDMONTON CNTR",
             "frequency_mhz": "132.85"
-        },
-        {
-            "id": "50329",
-            "airport_ref": "1866",
-            "airport_ident": "CYQF",
-            "type": "FSS",
-            "description": "RDO",
-            "frequency_mhz": "118.5"
         },
         {
             "id": "50330",
@@ -102,7 +102,23 @@
             "airport_ident": "CYQF",
             "type": "RCO",
             "description": "EDMONTON RDO",
-            "frequency_mhz": "122.5"
+            "frequency_mhz": "123.475"
+        },
+        {
+            "id": "335755",
+            "airport_ref": "1866",
+            "airport_ident": "CYQF",
+            "type": "RCO. Bcst",
+            "description": "Edmonton Rdo",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "336990",
+            "airport_ref": "1866",
+            "airport_ident": "CYQF",
+            "type": "TWR",
+            "description": "13-05Z",
+            "frequency_mhz": "118.5"
         }
     ],
     "country": {

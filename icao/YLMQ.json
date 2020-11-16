@@ -1,0 +1,80 @@
+{
+    "id": "27880",
+    "ident": "YLMQ",
+    "type": "small_airport",
+    "name": "Lake Macquarie Airport",
+    "latitude_deg": "-33.065975",
+    "longitude_deg": "151.646283",
+    "elevation_ft": "2",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YLMQ",
+    "iata_code": "BEO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lake_Macquarie_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259216",
+            "airport_ref": "27880",
+            "airport_ident": "YLMQ",
+            "length_ft": "2204",
+            "width_ft": "",
+            "surface": "B",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "3",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74260",
+            "airport_ref": "27880",
+            "airport_ident": "YLMQ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "74261",
+            "airport_ref": "27880",
+            "airport_ident": "YLMQ",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.7"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    }
+}

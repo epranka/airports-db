@@ -1,0 +1,104 @@
+{
+    "id": "2383",
+    "ident": "HEIS",
+    "type": "medium_airport",
+    "name": "Ismailia Air Base",
+    "latitude_deg": "30.598801",
+    "longitude_deg": "32.2346",
+    "elevation_ft": "39",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-IS",
+    "municipality": "Ismailia",
+    "scheduled_service": "no",
+    "gps_code": "HEIS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ismailia_Air_Base",
+    "keywords": "RAF Ismailia, القوات الجوية المصرية‎",
+    "runways": [
+        {
+            "id": "235627",
+            "airport_ref": "2383",
+            "airport_ident": "HEIS",
+            "length_ft": "10555",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "30.6079",
+            "le_longitude_deg": "32.2216",
+            "le_elevation_ft": "",
+            "le_heading_degT": "129",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "30.5898",
+            "he_longitude_deg": "32.2477",
+            "he_elevation_ft": "",
+            "he_heading_degT": "309",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51916",
+            "airport_ref": "2383",
+            "airport_ident": "HEIS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "51917",
+            "airport_ref": "2383",
+            "airport_ident": "HEIS",
+            "type": "RDO",
+            "description": "UN ISMAILIYAH OPS",
+            "frequency_mhz": "397.5"
+        },
+        {
+            "id": "51918",
+            "airport_ref": "2383",
+            "airport_ident": "HEIS",
+            "type": "RDO",
+            "description": "UN ISMAILIYAH OPS",
+            "frequency_mhz": "681"
+        },
+        {
+            "id": "51919",
+            "airport_ref": "2383",
+            "airport_ident": "HEIS",
+            "type": "RDO",
+            "description": "UN ISMAILIYAH OPS",
+            "frequency_mhz": "1325.7"
+        },
+        {
+            "id": "51920",
+            "airport_ref": "2383",
+            "airport_ident": "HEIS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303703",
+        "code": "EG-IS",
+        "local_code": "IS",
+        "name": "Ismailia Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ismailia_Governorate",
+        "keywords": ""
+    }
+}

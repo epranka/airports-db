@@ -43,28 +43,12 @@
     ],
     "freqs": [
         {
-            "id": "58284",
-            "airport_ref": "2493",
-            "airport_ident": "EGVN",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "127.25"
-        },
-        {
             "id": "307834",
             "airport_ref": "2493",
             "airport_ident": "EGVN",
             "type": "APP",
             "description": "",
-            "frequency_mhz": "297.8"
-        },
-        {
-            "id": "307835",
-            "airport_ref": "2493",
-            "airport_ident": "EGVN",
-            "type": "APP",
-            "description": "",
-            "frequency_mhz": "362.3"
+            "frequency_mhz": "127.25"
         },
         {
             "id": "58285",
@@ -72,15 +56,23 @@
             "airport_ident": "EGVN",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "259"
+            "frequency_mhz": "126.5"
         },
         {
             "id": "58286",
             "airport_ref": "2493",
             "airport_ident": "EGVN",
             "type": "CAC",
-            "description": "CAC",
+            "description": "Non-Zone Radar Service (See LARS)",
             "frequency_mhz": "124.275"
+        },
+        {
+            "id": "58284",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "DEP",
+            "description": "",
+            "frequency_mhz": "127.25"
         },
         {
             "id": "58287",
@@ -94,17 +86,9 @@
             "id": "307836",
             "airport_ref": "2493",
             "airport_ident": "EGVN",
-            "type": "GRN",
-            "description": "",
-            "frequency_mhz": "240.55"
-        },
-        {
-            "id": "58288",
-            "airport_ref": "2493",
-            "airport_ident": "EGVN",
-            "type": "MISC",
-            "description": "ZONE",
-            "frequency_mhz": "119"
+            "type": "LARS",
+            "description": "Lower Airspace Radar Service (0900L-1700L)",
+            "frequency_mhz": "124.275"
         },
         {
             "id": "58289",
@@ -119,16 +103,32 @@
             "airport_ref": "2493",
             "airport_ident": "EGVN",
             "type": "RDR",
-            "description": "DIR",
-            "frequency_mhz": "133.755"
+            "description": "Director Radar",
+            "frequency_mhz": "133.75"
         },
         {
             "id": "58291",
             "airport_ref": "2493",
             "airport_ident": "EGVN",
-            "type": "TWR",
-            "description": "TWR",
+            "type": "TWR 1",
+            "description": "Primary",
             "frequency_mhz": "123.725"
+        },
+        {
+            "id": "307835",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "TWR 2",
+            "description": "Stby",
+            "frequency_mhz": "123.55"
+        },
+        {
+            "id": "58288",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "ZONE",
+            "description": "Brize CTR.  Zone Control/Transits",
+            "frequency_mhz": "119"
         }
     ],
     "country": {
