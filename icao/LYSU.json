@@ -14,9 +14,43 @@
     "gps_code": "LYSU",
     "iata_code": "",
     "local_code": "",
-    "home_link": "",
+    "home_link": "http://aeroklubivansaric.rs",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Subotica_Airport",
-    "keywords": "Bikovo Airport, Суботица, Биково",
+    "keywords": "Subotica Airport, Aerodrome Subotica, Bikovo Airport, Суботица, Биково",
+    "runways": [
+        {
+            "id": "337367",
+            "airport_ref": "308323",
+            "airport_ident": "LYSU",
+            "length_ft": "3934",
+            "width_ft": "328",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "46.0266",
+            "le_longitude_deg": "19.7028",
+            "le_elevation_ft": "352",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "656",
+            "he_ident": "32",
+            "he_latitude_deg": "46.019",
+            "he_longitude_deg": "46.019",
+            "he_elevation_ft": "350",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "656"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "337368",
+            "airport_ref": "308323",
+            "airport_ident": "LYSU",
+            "type": "Subotica RADIO",
+            "description": "",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302713",
         "code": "RS",

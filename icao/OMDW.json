@@ -14,7 +14,7 @@
     "gps_code": "OMDW",
     "iata_code": "DWC",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://www.dubaiairports.ae/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Maktoum_International_Airport",
     "keywords": "",
     "runways": [
@@ -65,6 +65,14 @@
     ],
     "freqs": [
         {
+            "id": "339028",
+            "airport_ref": "300320",
+            "airport_ident": "OMDW",
+            "type": "ATC backup",
+            "description": "",
+            "frequency_mhz": "118.725"
+        },
+        {
             "id": "300752",
             "airport_ref": "300320",
             "airport_ident": "OMDW",
@@ -78,15 +86,15 @@
             "airport_ident": "OMDW",
             "type": "Ground",
             "description": "Al Maktoum Ground",
-            "frequency_mhz": "118.37"
+            "frequency_mhz": "118.375"
         },
         {
             "id": "300754",
             "airport_ref": "300320",
             "airport_ident": "OMDW",
             "type": "Tower",
-            "description": "",
-            "frequency_mhz": "118.62"
+            "description": "Al Maktoum Tower",
+            "frequency_mhz": "118.625"
         }
     ],
     "country": {
