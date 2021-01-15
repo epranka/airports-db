@@ -50,4 +50,4 @@ Have ideas on how to improve it? Feel free to share it on the [GitHub Issues](ht
 </p>
 
 Data is based on [ourairports.com](https://ourairports.com/) database. You can download the raw CSV files from [raw](https://github.com/epranka/airports-db/tree/master/raw) directory.
-I will try to keep this repository up-date. You can get the latest CSV files here: [https://ourairports.com/data/](https://ourairports.com/data/)
+The repository will be updated automatically every day at 7:00 UTC. You can get the latest CSV files here: [https://ourairports.com/data/](https://ourairports.com/data/)
