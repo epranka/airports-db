@@ -1,0 +1,120 @@
+{
+    "id": "26570",
+    "ident": "VILK",
+    "type": "medium_airport",
+    "name": "Chaudhary Charan Singh International Airport",
+    "latitude_deg": "26.7605991364",
+    "longitude_deg": "80.8892974854",
+    "elevation_ft": "410",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-UP",
+    "municipality": "Lucknow",
+    "scheduled_service": "yes",
+    "gps_code": "VILK",
+    "iata_code": "LKO",
+    "local_code": "",
+    "home_link": "http://aai.aero/allAirports/lucknow_generalinfo.jsp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Amausi_Airport",
+    "keywords": "Amausi International Airport",
+    "runways": [
+        {
+            "id": "236639",
+            "airport_ref": "26570",
+            "airport_ident": "VILK",
+            "length_ft": "8996",
+            "width_ft": "148",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "26.7604",
+            "le_longitude_deg": "80.8755",
+            "le_elevation_ft": "404",
+            "le_heading_degT": "89",
+            "le_displaced_threshold_ft": "515",
+            "he_ident": "27",
+            "he_latitude_deg": "26.7608",
+            "he_longitude_deg": "80.9031",
+            "he_elevation_ft": "399",
+            "he_heading_degT": "269",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53832",
+            "airport_ref": "26570",
+            "airport_ident": "VILK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "53833",
+            "airport_ref": "26570",
+            "airport_ident": "VILK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "338075",
+            "airport_ref": "26570",
+            "airport_ident": "VILK",
+            "type": "GND",
+            "description": "",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "53834",
+            "airport_ref": "26570",
+            "airport_ident": "VILK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304197",
+        "code": "IN-UP",
+        "local_code": "UP",
+        "name": "Uttar Pradesh",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90399",
+            "filename": "Lucknow_VOR-DME_IN",
+            "ident": "LLK",
+            "name": "Lucknow",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "26.76219940185547",
+            "longitude_deg": "80.88050079345703",
+            "elevation_ft": "400",
+            "iso_country": "IN",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.107",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VILK"
+        }
+    ]
+}

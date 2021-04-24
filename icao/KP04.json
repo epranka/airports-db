@@ -1,0 +1,102 @@
+{
+    "id": "20793",
+    "ident": "KP04",
+    "type": "small_airport",
+    "name": "Bisbee Municipal Airport",
+    "latitude_deg": "31.3640003204",
+    "longitude_deg": "-109.883003235",
+    "elevation_ft": "4780",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Bisbee",
+    "scheduled_service": "no",
+    "gps_code": "P04",
+    "iata_code": "BSQ",
+    "local_code": "P04",
+    "home_link": "http://www.discoverbisbee.com/about_air.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bisbee_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244315",
+            "airport_ref": "20793",
+            "airport_ident": "KP04",
+            "length_ft": "2650",
+            "width_ft": "110",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "31.3614",
+            "le_longitude_deg": "-109.883",
+            "le_elevation_ft": "4740",
+            "le_heading_degT": "31.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "31.3681",
+            "he_longitude_deg": "-109.878",
+            "he_elevation_ft": "4752",
+            "he_heading_degT": "211.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244316",
+            "airport_ref": "20793",
+            "airport_ident": "KP04",
+            "length_ft": "5929",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "31.3719",
+            "le_longitude_deg": "-109.882",
+            "le_elevation_ft": "4780",
+            "le_heading_degT": "183.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "31.3556",
+            "he_longitude_deg": "-109.883",
+            "he_elevation_ft": "4724",
+            "he_heading_degT": "3.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67824",
+            "airport_ref": "20793",
+            "airport_ident": "KP04",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "67825",
+            "airport_ref": "20793",
+            "airport_ident": "KP04",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

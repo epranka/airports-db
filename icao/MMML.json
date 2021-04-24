@@ -1,0 +1,112 @@
+{
+    "id": "4727",
+    "ident": "MMML",
+    "type": "medium_airport",
+    "name": "General Rodolfo Sánchez Taboada International Airport",
+    "latitude_deg": "32.6306",
+    "longitude_deg": "-115.241997",
+    "elevation_ft": "74",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-BCN",
+    "municipality": "Mexicali",
+    "scheduled_service": "yes",
+    "gps_code": "MMML",
+    "iata_code": "MXL",
+    "local_code": "M1L",
+    "home_link": "http://aeropuertosgap.com.mx/aeropuertos/mexicali?lang=eng",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/General_Rodolfo_S%C3%A1nchez_Taboada_International_Airport",
+    "keywords": "Mexicali Airport",
+    "runways": [
+        {
+            "id": "237676",
+            "airport_ref": "4727",
+            "airport_ident": "MMML",
+            "length_ft": "8530",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "32.6362",
+            "le_longitude_deg": "-115.255",
+            "le_elevation_ft": "72",
+            "le_heading_degT": "118.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "32.6251",
+            "he_longitude_deg": "-115.23",
+            "he_elevation_ft": "72",
+            "he_heading_degT": "298.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55420",
+            "airport_ref": "4727",
+            "airport_ident": "MMML",
+            "type": "AFIS",
+            "description": "MEXICALI INFO",
+            "frequency_mhz": "123.9"
+        },
+        {
+            "id": "55421",
+            "airport_ref": "4727",
+            "airport_ident": "MMML",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "55422",
+            "airport_ref": "4727",
+            "airport_ident": "MMML",
+            "type": "TWR",
+            "description": "MEXICALI TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304791",
+        "code": "MX-BCN",
+        "local_code": "BCN",
+        "name": "Baja California",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91392",
+            "filename": "Mexicali_VOR-DME_MX",
+            "ident": "MXL",
+            "name": "Mexicali",
+            "type": "VOR-DME",
+            "frequency_khz": "115000",
+            "latitude_deg": "32.631099700927734",
+            "longitude_deg": "-115.23799896240234",
+            "elevation_ft": "74",
+            "iso_country": "MX",
+            "dme_frequency_khz": "115000",
+            "dme_channel": "097X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "13.002",
+            "magnetic_variation_deg": "12.111",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMML"
+        }
+    ]
+}

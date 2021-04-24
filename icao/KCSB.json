@@ -1,0 +1,80 @@
+{
+    "id": "19557",
+    "ident": "KCSB",
+    "type": "small_airport",
+    "name": "Cambridge Municipal Airport",
+    "latitude_deg": "40.30659866333008",
+    "longitude_deg": "-100.16200256347656",
+    "elevation_ft": "2414",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Cambridge",
+    "scheduled_service": "no",
+    "gps_code": "KCSB",
+    "iata_code": "",
+    "local_code": "CSB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243137",
+            "airport_ref": "19557",
+            "airport_ident": "KCSB",
+            "length_ft": "4099",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "40.3117",
+            "le_longitude_deg": "-100.165",
+            "le_elevation_ft": "2413",
+            "le_heading_degT": "155",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "40.3015",
+            "he_longitude_deg": "-100.159",
+            "he_elevation_ft": "2396",
+            "he_heading_degT": "335",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65343",
+            "airport_ref": "19557",
+            "airport_ident": "KCSB",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "132.7"
+        },
+        {
+            "id": "65344",
+            "airport_ref": "19557",
+            "airport_ident": "KCSB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

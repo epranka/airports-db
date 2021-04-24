@@ -1,0 +1,150 @@
+{
+    "id": "3579",
+    "ident": "KHIB",
+    "type": "large_airport",
+    "name": "Range Regional Airport",
+    "latitude_deg": "47.38660049",
+    "longitude_deg": "-92.83899689",
+    "elevation_ft": "1354",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Hibbing",
+    "scheduled_service": "yes",
+    "gps_code": "KHIB",
+    "iata_code": "HIB",
+    "local_code": "HIB",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Range_Regional_Airport",
+    "keywords": "Chisholm Hibbing Airport",
+    "runways": [
+        {
+            "id": "243076",
+            "airport_ref": "3579",
+            "airport_ident": "KHIB",
+            "length_ft": "3075",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "47.3863",
+            "le_longitude_deg": "-92.8466",
+            "le_elevation_ft": "1348",
+            "le_heading_degT": "49",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "47.3918",
+            "he_longitude_deg": "-92.8372",
+            "he_elevation_ft": "1350",
+            "he_heading_degT": "229",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243077",
+            "airport_ref": "3579",
+            "airport_ident": "KHIB",
+            "length_ft": "6758",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "47.3917",
+            "le_longitude_deg": "-92.8478",
+            "le_elevation_ft": "1353",
+            "le_heading_degT": "132",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "47.3792",
+            "he_longitude_deg": "-92.8276",
+            "he_elevation_ft": "1337",
+            "he_heading_degT": "312",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65228",
+            "airport_ref": "3579",
+            "airport_ident": "KHIB",
+            "type": "A/D",
+            "description": "DULUTH APP/DEP",
+            "frequency_mhz": "125.45"
+        },
+        {
+            "id": "65229",
+            "airport_ref": "3579",
+            "airport_ident": "KHIB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "126.425"
+        },
+        {
+            "id": "65230",
+            "airport_ref": "3579",
+            "airport_ident": "KHIB",
+            "type": "CLD",
+            "description": "DULUTH CLNC DEL",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "65231",
+            "airport_ref": "3579",
+            "airport_ident": "KHIB",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "65232",
+            "airport_ref": "3579",
+            "airport_ident": "KHIB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88838",
+            "filename": "Hibbing_VOR-DME_US",
+            "ident": "HIB",
+            "name": "Hibbing",
+            "type": "VOR-DME",
+            "frequency_khz": "110800",
+            "latitude_deg": "47.30149841308594",
+            "longitude_deg": "-92.7041015625",
+            "elevation_ft": "1350",
+            "iso_country": "US",
+            "dme_frequency_khz": "110800",
+            "dme_channel": "045X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "0.215",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KHIB"
+        }
+    ]
+}

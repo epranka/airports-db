@@ -1,0 +1,150 @@
+{
+    "id": "26867",
+    "ident": "WMKB",
+    "type": "medium_airport",
+    "name": "RMAF Butterworth Air Base",
+    "latitude_deg": "5.46592",
+    "longitude_deg": "100.390999",
+    "elevation_ft": "11",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-07",
+    "municipality": "Butterworth",
+    "scheduled_service": "no",
+    "gps_code": "WMKB",
+    "iata_code": "BWH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RMAF_Butterworth_Air_Base",
+    "keywords": "RAF Butterworth",
+    "runways": [
+        {
+            "id": "237820",
+            "airport_ref": "26867",
+            "airport_ident": "WMKB",
+            "length_ft": "8000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "5.47692",
+            "le_longitude_deg": "100.392",
+            "le_elevation_ft": "8",
+            "le_heading_degT": "184",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "5.45492",
+            "he_longitude_deg": "100.391",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55594",
+            "airport_ref": "26867",
+            "airport_ident": "WMKB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "55595",
+            "airport_ref": "26867",
+            "airport_ident": "WMKB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "23.01"
+        },
+        {
+            "id": "55596",
+            "airport_ref": "26867",
+            "airport_ident": "WMKB",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "55597",
+            "airport_ref": "26867",
+            "airport_ident": "WMKB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "134.6"
+        },
+        {
+            "id": "55598",
+            "airport_ref": "26867",
+            "airport_ident": "WMKB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302653",
+        "code": "MY",
+        "name": "Malaysia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
+        "keywords": "Lapangan Terbang Malaysia"
+    },
+    "region": {
+        "id": "304829",
+        "code": "MY-07",
+        "local_code": "07",
+        "name": "Pulau Pinang",
+        "continent": "AS",
+        "iso_country": "MY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pulau_Pinang",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86402",
+            "filename": "Butterworth_TACAN_MY",
+            "ident": "BTR",
+            "name": "Butterworth",
+            "type": "TACAN",
+            "frequency_khz": "113500",
+            "latitude_deg": "5.471859931945801",
+            "longitude_deg": "100.39299774169922",
+            "elevation_ft": "11",
+            "iso_country": "MY",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.181",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WMKB"
+        },
+        {
+            "id": "95061",
+            "filename": "Butterworth_VORTAC_MY",
+            "ident": "VBT",
+            "name": "Butterworth",
+            "type": "VORTAC",
+            "frequency_khz": "113300",
+            "latitude_deg": "5.476309776306152",
+            "longitude_deg": "100.39399719238281",
+            "elevation_ft": "11",
+            "iso_country": "MY",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.181",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WMKB"
+        }
+    ]
+}

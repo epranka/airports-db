@@ -1,0 +1,80 @@
+{
+    "id": "4138",
+    "ident": "LFLM",
+    "type": "medium_airport",
+    "name": "Aérodrome de Mâcon-Charnay",
+    "latitude_deg": "46.295101",
+    "longitude_deg": "4.79577",
+    "elevation_ft": "728",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-BFC",
+    "municipality": "Mâcon/Charnay",
+    "scheduled_service": "no",
+    "gps_code": "LFLM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235937",
+            "airport_ref": "4138",
+            "airport_ident": "LFLM",
+            "length_ft": "4036",
+            "width_ft": "79",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "46.3006",
+            "le_longitude_deg": "4.79495",
+            "le_elevation_ft": "728",
+            "le_heading_degT": "174",
+            "le_displaced_threshold_ft": "361",
+            "he_ident": "35",
+            "he_latitude_deg": "46.2896",
+            "he_longitude_deg": "4.79656",
+            "he_elevation_ft": "701",
+            "he_heading_degT": "354",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52415",
+            "airport_ref": "4138",
+            "airport_ident": "LFLM",
+            "type": "AFIS",
+            "description": "MACON INFO",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "52416",
+            "airport_ref": "4138",
+            "airport_ident": "LFLM",
+            "type": "APP",
+            "description": "LYON APP",
+            "frequency_mhz": "135.2"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306350",
+        "code": "FR-BFC",
+        "local_code": "BFC",
+        "name": "Bourgogne-Franche-Comté",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bourgogne-Franche-Comt%C3%A9",
+        "keywords": "Bourgogne"
+    }
+}

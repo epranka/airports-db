@@ -1,0 +1,104 @@
+{
+    "id": "5260",
+    "ident": "OPMF",
+    "type": "medium_airport",
+    "name": "Muzaffarabad Airport",
+    "latitude_deg": "34.3390007019043",
+    "longitude_deg": "73.50859832763672",
+    "elevation_ft": "2691",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-JK",
+    "municipality": "Muzaffarabad",
+    "scheduled_service": "yes",
+    "gps_code": "OPMF",
+    "iata_code": "MFG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Muzaffarabad_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238178",
+            "airport_ref": "5260",
+            "airport_ident": "OPMF",
+            "length_ft": "2960",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "34.3417",
+            "le_longitude_deg": "73.505",
+            "le_elevation_ft": "2669",
+            "le_heading_degT": "132",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "34.3363",
+            "he_longitude_deg": "73.5123",
+            "he_elevation_ft": "2691",
+            "he_heading_degT": "312",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56122",
+            "airport_ref": "5260",
+            "airport_ident": "OPMF",
+            "type": "GND",
+            "description": "TWR",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "56123",
+            "airport_ref": "5260",
+            "airport_ident": "OPMF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.4"
+        }
+    ],
+    "country": {
+        "id": "302657",
+        "code": "PK",
+        "name": "Pakistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pakistan",
+        "keywords": "پاکستان کے ہوائی اڈوں"
+    },
+    "region": {
+        "id": "305137",
+        "code": "PK-JK",
+        "local_code": "JK",
+        "name": "Azad Jammu and Kashmir",
+        "continent": "AS",
+        "iso_country": "PK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Azad_Kashmir",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90886",
+            "filename": "Muzaffarabad_NDB_PK",
+            "ident": "MF",
+            "name": "Muzaffarabad",
+            "type": "NDB",
+            "frequency_khz": "207",
+            "latitude_deg": "34.342201232910156",
+            "longitude_deg": "73.50669860839844",
+            "elevation_ft": "2705",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.131",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OPMF"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "id": "5664",
+    "ident": "RKTY",
+    "type": "medium_airport",
+    "name": "Yecheon Airbase",
+    "latitude_deg": "36.630373",
+    "longitude_deg": "128.34971",
+    "elevation_ft": "354",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-47",
+    "municipality": "Yecheon-ri",
+    "scheduled_service": "no",
+    "gps_code": "RKTY",
+    "iata_code": "YEC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yecheon_Air_Base; https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237336",
+            "airport_ref": "5664",
+            "airport_ident": "RKTY",
+            "length_ft": "9000",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "36.6317",
+            "le_longitude_deg": "128.34",
+            "le_elevation_ft": "347",
+            "le_heading_degT": "88.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "36.6322",
+            "he_longitude_deg": "128.37",
+            "he_elevation_ft": "353",
+            "he_heading_degT": "268.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55050",
+            "airport_ref": "5664",
+            "airport_ident": "RKTY",
+            "type": "ACP",
+            "description": "BRICKWALL",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "55051",
+            "airport_ref": "5664",
+            "airport_ident": "RKTY",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "134.5"
+        },
+        {
+            "id": "55052",
+            "airport_ref": "5664",
+            "airport_ident": "RKTY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "136.8"
+        },
+        {
+            "id": "55053",
+            "airport_ref": "5664",
+            "airport_ident": "RKTY",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "134.5"
+        },
+        {
+            "id": "55054",
+            "airport_ref": "5664",
+            "airport_ident": "RKTY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "55055",
+            "airport_ref": "5664",
+            "airport_ident": "RKTY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.35"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304413",
+        "code": "KR-47",
+        "local_code": "47",
+        "name": "Gyeongsangbugdo",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeongsangbugdo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87115",
+            "filename": "Yecheon_VOR-DME_KR",
+            "ident": "CUN",
+            "name": "Yecheon",
+            "type": "VOR-DME",
+            "frequency_khz": "114800",
+            "latitude_deg": "36.63199996948242",
+            "longitude_deg": "128.3249969482422",
+            "elevation_ft": "400",
+            "iso_country": "KR",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.384",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RKTY"
+        },
+        {
+            "id": "95639",
+            "filename": "Yecheon_TACAN_KR",
+            "ident": "YCN",
+            "name": "Yecheon",
+            "type": "TACAN",
+            "frequency_khz": "108900",
+            "latitude_deg": "36.63410186767578",
+            "longitude_deg": "128.36399841308594",
+            "elevation_ft": "354",
+            "iso_country": "KR",
+            "dme_frequency_khz": "108900",
+            "dme_channel": "026X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.386",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKTY"
+        }
+    ]
+}

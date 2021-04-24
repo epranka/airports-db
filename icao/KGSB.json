@@ -1,0 +1,176 @@
+{
+    "id": "3567",
+    "ident": "KGSB",
+    "type": "large_airport",
+    "name": "Seymour Johnson Air Force Base",
+    "latitude_deg": "35.33940125",
+    "longitude_deg": "-77.96060181",
+    "elevation_ft": "109",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Goldsboro",
+    "scheduled_service": "no",
+    "gps_code": "KGSB",
+    "iata_code": "GSB",
+    "local_code": "GSB",
+    "home_link": "http://www.seymourjohnson.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Seymour_Johnson_Air_Force_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242956",
+            "airport_ref": "3567",
+            "airport_ident": "KGSB",
+            "length_ft": "11758",
+            "width_ft": "300",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "35.3347",
+            "le_longitude_deg": "-77.9795",
+            "le_elevation_ft": "72",
+            "le_heading_degT": "73.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "35.3441",
+            "he_longitude_deg": "-77.9417",
+            "he_elevation_ft": "109",
+            "he_heading_degT": "253.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64996",
+            "airport_ref": "3567",
+            "airport_ident": "KGSB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "64997",
+            "airport_ref": "3567",
+            "airport_ident": "KGSB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "31.762"
+        },
+        {
+            "id": "64998",
+            "airport_ref": "3567",
+            "airport_ident": "KGSB",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "128.025"
+        },
+        {
+            "id": "64999",
+            "airport_ref": "3567",
+            "airport_ident": "KGSB",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "65000",
+            "airport_ref": "3567",
+            "airport_ident": "KGSB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "138.1"
+        },
+        {
+            "id": "65001",
+            "airport_ref": "3567",
+            "airport_ident": "KGSB",
+            "type": "MISC",
+            "description": "ACC SOF",
+            "frequency_mhz": "37.61"
+        },
+        {
+            "id": "65002",
+            "airport_ref": "3567",
+            "airport_ident": "KGSB",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "32.392"
+        },
+        {
+            "id": "65003",
+            "airport_ref": "3567",
+            "airport_ident": "KGSB",
+            "type": "POST",
+            "description": "916TH COMD POST",
+            "frequency_mhz": "31.1"
+        },
+        {
+            "id": "65004",
+            "airport_ref": "3567",
+            "airport_ident": "KGSB",
+            "type": "POST",
+            "description": "4FW COMD POST",
+            "frequency_mhz": "31.1"
+        },
+        {
+            "id": "65005",
+            "airport_ref": "3567",
+            "airport_ident": "KGSB",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "65006",
+            "airport_ref": "3567",
+            "airport_ident": "KGSB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.25"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88594",
+            "filename": "Seymour_Johnson_TACAN_US",
+            "ident": "GSB",
+            "name": "Seymour Johnson",
+            "type": "TACAN",
+            "frequency_khz": "116500",
+            "latitude_deg": "35.334999084472656",
+            "longitude_deg": "-77.97160339355469",
+            "elevation_ft": "82",
+            "iso_country": "US",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.006",
+            "magnetic_variation_deg": "-9.053",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KGSB"
+        }
+    ]
+}

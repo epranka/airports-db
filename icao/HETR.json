@@ -1,0 +1,88 @@
+{
+    "id": "3201",
+    "ident": "HETR",
+    "type": "small_airport",
+    "name": "El Tor Airport",
+    "latitude_deg": "28.209",
+    "longitude_deg": "33.6455",
+    "elevation_ft": "115",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-JS",
+    "municipality": "El Tor",
+    "scheduled_service": "no",
+    "gps_code": "HETR",
+    "iata_code": "ELT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235591",
+            "airport_ref": "3201",
+            "airport_ident": "HETR",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "28.2123",
+            "le_longitude_deg": "33.6307",
+            "le_elevation_ft": "19",
+            "le_heading_degT": "104.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "28.2057",
+            "he_longitude_deg": "33.6603",
+            "he_elevation_ft": "115",
+            "he_heading_degT": "284.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51881",
+            "airport_ref": "3201",
+            "airport_ident": "HETR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51882",
+            "airport_ref": "3201",
+            "airport_ident": "HETR",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "579"
+        },
+        {
+            "id": "51883",
+            "airport_ref": "3201",
+            "airport_ident": "HETR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.3"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303704",
+        "code": "EG-JS",
+        "local_code": "JS",
+        "name": "South Sinai Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Sinai_Governorate",
+        "keywords": ""
+    }
+}

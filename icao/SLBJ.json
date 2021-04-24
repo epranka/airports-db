@@ -1,0 +1,104 @@
+{
+    "id": "6179",
+    "ident": "SLBJ",
+    "type": "medium_airport",
+    "name": "Bermejo Airport",
+    "latitude_deg": "-22.7733001709",
+    "longitude_deg": "-64.31289672850001",
+    "elevation_ft": "1249",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-T",
+    "municipality": "Bermejo",
+    "scheduled_service": "no",
+    "gps_code": "SLBJ",
+    "iata_code": "BJO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bermejo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233706",
+            "airport_ref": "6179",
+            "airport_ident": "SLBJ",
+            "length_ft": "4921",
+            "width_ft": "118",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-22.7801",
+            "le_longitude_deg": "-64.3131",
+            "le_elevation_ft": "",
+            "le_heading_degT": "1.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-22.7666",
+            "he_longitude_deg": "-64.3126",
+            "he_elevation_ft": "",
+            "he_heading_degT": "181.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49488",
+            "airport_ref": "6179",
+            "airport_ident": "SLBJ",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "662.2"
+        },
+        {
+            "id": "49489",
+            "airport_ref": "6179",
+            "airport_ident": "SLBJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302790",
+        "code": "BO",
+        "name": "Bolivia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolivia",
+        "keywords": "Aeropuertos de Bolivia"
+    },
+    "region": {
+        "id": "303197",
+        "code": "BO-T",
+        "local_code": "T",
+        "name": "Tarija Department",
+        "continent": "SA",
+        "iso_country": "BO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tarija_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86076",
+            "filename": "Bermejo_NDB_BO",
+            "ident": "BJO",
+            "name": "Bermejo",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "-22.768800735473633",
+            "longitude_deg": "-64.31210327148438",
+            "elevation_ft": "1250",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.025",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "SLBJ"
+        }
+    ]
+}

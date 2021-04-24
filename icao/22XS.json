@@ -1,0 +1,120 @@
+{
+    "id": "8924",
+    "ident": "22XS",
+    "type": "small_airport",
+    "name": "Longhorn Auxiliary Landing Strip",
+    "latitude_deg": "31.373693",
+    "longitude_deg": "-97.666654",
+    "elevation_ft": "720",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Hood",
+    "scheduled_service": "no",
+    "gps_code": "22XS",
+    "iata_code": "",
+    "local_code": "22XS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242022",
+            "airport_ref": "8924",
+            "airport_ident": "22XS",
+            "length_ft": "3488",
+            "width_ft": "75",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "31.3781",
+            "le_longitude_deg": "-97.6692",
+            "le_elevation_ft": "720",
+            "le_heading_degT": "153.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "31.3694",
+            "he_longitude_deg": "-97.6642",
+            "he_elevation_ft": "720",
+            "he_heading_degT": "205",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63036",
+            "airport_ref": "8924",
+            "airport_ident": "22XS",
+            "type": "A/G",
+            "description": "TWR",
+            "frequency_mhz": "143.35"
+        },
+        {
+            "id": "63037",
+            "airport_ref": "8924",
+            "airport_ident": "22XS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "63038",
+            "airport_ref": "8924",
+            "airport_ident": "22XS",
+            "type": "INFO",
+            "description": "RNG CTL",
+            "frequency_mhz": "30.45"
+        },
+        {
+            "id": "63039",
+            "airport_ref": "8924",
+            "airport_ident": "22XS",
+            "type": "MISC",
+            "description": "FORT HOOD FLT FLW",
+            "frequency_mhz": "38.75"
+        },
+        {
+            "id": "63040",
+            "airport_ref": "8924",
+            "airport_ident": "22XS",
+            "type": "OPS",
+            "description": "GRAY OPS",
+            "frequency_mhz": "38.7"
+        },
+        {
+            "id": "63041",
+            "airport_ref": "8924",
+            "airport_ident": "22XS",
+            "type": "PMSV",
+            "description": "PMSV GRAY METRO",
+            "frequency_mhz": "41.2"
+        },
+        {
+            "id": "63042",
+            "airport_ref": "8924",
+            "airport_ident": "22XS",
+            "type": "TWR",
+            "description": "GRAY TWR",
+            "frequency_mhz": "120.75"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

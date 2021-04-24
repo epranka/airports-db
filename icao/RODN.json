@@ -1,0 +1,190 @@
+{
+    "id": "5673",
+    "ident": "RODN",
+    "type": "large_airport",
+    "name": "Kadena Air Base",
+    "latitude_deg": "26.351667",
+    "longitude_deg": "127.769444",
+    "elevation_ft": "143",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-47",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "RODN",
+    "iata_code": "DNA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kadena_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237218",
+            "airport_ref": "5673",
+            "airport_ident": "RODN",
+            "length_ft": "12100",
+            "width_ft": "300",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05L",
+            "le_latitude_deg": "26.3462",
+            "le_longitude_deg": "127.751",
+            "le_elevation_ft": "63",
+            "le_heading_degT": "51",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23R",
+            "he_latitude_deg": "26.3672",
+            "he_longitude_deg": "127.78",
+            "he_elevation_ft": "128",
+            "he_heading_degT": "231",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "237217",
+            "airport_ref": "5673",
+            "airport_ident": "RODN",
+            "length_ft": "12100",
+            "width_ft": "200",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05R",
+            "le_latitude_deg": "26.344",
+            "le_longitude_deg": "127.755",
+            "le_elevation_ft": "74",
+            "le_heading_degT": "51",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23L",
+            "he_latitude_deg": "26.365",
+            "he_longitude_deg": "127.784",
+            "he_elevation_ft": "133",
+            "he_heading_degT": "231",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54723",
+            "airport_ref": "5673",
+            "airport_ident": "RODN",
+            "type": "A/D",
+            "description": "OKINAWA APP/DEP",
+            "frequency_mhz": "33.58"
+        },
+        {
+            "id": "54724",
+            "airport_ref": "5673",
+            "airport_ident": "RODN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "54725",
+            "airport_ref": "5673",
+            "airport_ident": "RODN",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "54726",
+            "airport_ref": "5673",
+            "airport_ident": "RODN",
+            "type": "GND",
+            "description": "GND CTL",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "54727",
+            "airport_ref": "5673",
+            "airport_ident": "RODN",
+            "type": "MISC",
+            "description": "AIR MOBILIY CTRL CTR",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "54728",
+            "airport_ref": "5673",
+            "airport_ident": "RODN",
+            "type": "OPS",
+            "description": "BASE OPS",
+            "frequency_mhz": "26.6"
+        },
+        {
+            "id": "54729",
+            "airport_ref": "5673",
+            "airport_ident": "RODN",
+            "type": "PMSV",
+            "description": "METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "54730",
+            "airport_ref": "5673",
+            "airport_ident": "RODN",
+            "type": "POST",
+            "description": "18 WG COMD POST",
+            "frequency_mhz": "31.1"
+        },
+        {
+            "id": "54731",
+            "airport_ref": "5673",
+            "airport_ident": "RODN",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "131.4"
+        },
+        {
+            "id": "54732",
+            "airport_ref": "5673",
+            "airport_ident": "RODN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304332",
+        "code": "JP-47",
+        "local_code": "47",
+        "name": "Okinawa Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Okinawa",
+        "keywords": "Kyushu and Okinawa"
+    },
+    "navaids": [
+        {
+            "id": "89635",
+            "filename": "Kadena_VORTAC_JP",
+            "ident": "KAD",
+            "name": "Kadena",
+            "type": "VORTAC",
+            "frequency_khz": "112000",
+            "latitude_deg": "26.356800079345703",
+            "longitude_deg": "127.76799774169922",
+            "elevation_ft": "158",
+            "iso_country": "JP",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.011",
+            "magnetic_variation_deg": "-4.288",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RODN"
+        }
+    ]
+}

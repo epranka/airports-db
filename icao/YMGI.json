@@ -1,0 +1,102 @@
+{
+    "id": "27056",
+    "ident": "YMGI",
+    "type": "small_airport",
+    "name": "Mungindi Airport",
+    "latitude_deg": "-28.966699600219727",
+    "longitude_deg": "149.05799865722656",
+    "elevation_ft": "600",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YMGI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233544",
+            "airport_ref": "27056",
+            "airport_ident": "YMGI",
+            "length_ft": "1726",
+            "width_ft": "100",
+            "surface": "CLA",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "19.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "199.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "233545",
+            "airport_ref": "27056",
+            "airport_ident": "YMGI",
+            "length_ft": "4606",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "128.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "308.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49201",
+            "airport_ref": "27056",
+            "airport_ident": "YMGI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49202",
+            "airport_ref": "27056",
+            "airport_ident": "YMGI",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "123.9"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    }
+}

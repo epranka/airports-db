@@ -1,0 +1,104 @@
+{
+    "id": "5086",
+    "ident": "OEBQ",
+    "type": "small_airport",
+    "name": "Abqaiq Airport",
+    "latitude_deg": "25.911301",
+    "longitude_deg": "49.591202",
+    "elevation_ft": "229",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-04",
+    "municipality": "Buqayq",
+    "scheduled_service": "no",
+    "gps_code": "OEBQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238647",
+            "airport_ref": "5086",
+            "airport_ident": "OEBQ",
+            "length_ft": "6075",
+            "width_ft": "111",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "25.9185",
+            "le_longitude_deg": "49.5866",
+            "le_elevation_ft": "229",
+            "le_heading_degT": "150.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "25.904",
+            "he_longitude_deg": "49.5958",
+            "he_elevation_ft": "234",
+            "he_heading_degT": "330.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56922",
+            "airport_ref": "5086",
+            "airport_ident": "OEBQ",
+            "type": "A/G",
+            "description": "DISPATCH",
+            "frequency_mhz": "138.22"
+        },
+        {
+            "id": "56923",
+            "airport_ref": "5086",
+            "airport_ident": "OEBQ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305363",
+        "code": "SA-04",
+        "local_code": "04",
+        "name": "Ash Sharqiyah Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ash_Sharqiyah_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85196",
+            "filename": "Abqaiq_NDB_SA",
+            "ident": "AB",
+            "name": "Abqaiq",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "25.899999618530273",
+            "longitude_deg": "49.58330154418945",
+            "elevation_ft": "229",
+            "iso_country": "SA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.157",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OEBQ"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "6238",
+    "ident": "SPTN",
+    "type": "medium_airport",
+    "name": "Coronel FAP Carlos Ciriani Santa Rosa International Airport",
+    "latitude_deg": "-18.053300857500002",
+    "longitude_deg": "-70.2758026123",
+    "elevation_ft": "1538",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-TAC",
+    "municipality": "Tacna",
+    "scheduled_service": "yes",
+    "gps_code": "SPTN",
+    "iata_code": "TCQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Crnl._FAP_Carlos_Ciriani_Santa_Rosa_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238149",
+            "airport_ref": "6238",
+            "airport_ident": "SPTN",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-18.0639",
+            "le_longitude_deg": "-70.2798",
+            "le_elevation_ft": "1375",
+            "le_heading_degT": "20",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "-18.0426",
+            "he_longitude_deg": "-70.2719",
+            "he_elevation_ft": "1538",
+            "he_heading_degT": "200",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56096",
+            "airport_ref": "6238",
+            "airport_ident": "SPTN",
+            "type": "RDO",
+            "description": "TACNA RDO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "56097",
+            "airport_ref": "6238",
+            "airport_ident": "SPTN",
+            "type": "TWR",
+            "description": "TACNA APP/TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Perú",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305029",
+        "code": "PE-TAC",
+        "local_code": "TAC",
+        "name": "Tacna Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tacna_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94251",
+            "filename": "Tacna_VOR-DME_PE",
+            "ident": "TCA",
+            "name": "Tacna",
+            "type": "VOR-DME",
+            "frequency_khz": "116800",
+            "latitude_deg": "-18.057899475097656",
+            "longitude_deg": "-70.27629852294922",
+            "elevation_ft": "1277",
+            "iso_country": "PE",
+            "dme_frequency_khz": "116800",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-3.269",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPTN"
+        }
+    ]
+}

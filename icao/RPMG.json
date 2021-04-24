@@ -1,0 +1,96 @@
+{
+    "id": "5700",
+    "ident": "RPMG",
+    "type": "medium_airport",
+    "name": "Dipolog Airport",
+    "latitude_deg": "8.60198349877",
+    "longitude_deg": "123.341875076",
+    "elevation_ft": "12",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-ZAN",
+    "municipality": "Dipolog City",
+    "scheduled_service": "yes",
+    "gps_code": "RPMG",
+    "iata_code": "DPL",
+    "local_code": "",
+    "home_link": "http://www.dipologcity.com/AccommodationsDipolog%20Airport.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dipolog_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238438",
+            "airport_ref": "5700",
+            "airport_ident": "RPMG",
+            "length_ft": "6273",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "8.59301",
+            "le_longitude_deg": "123.332",
+            "le_elevation_ft": "",
+            "le_heading_degT": "17.8",
+            "le_displaced_threshold_ft": "98",
+            "he_ident": "20",
+            "he_latitude_deg": "8.60951",
+            "he_longitude_deg": "123.337",
+            "he_elevation_ft": "",
+            "he_heading_degT": "197.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56506",
+            "airport_ref": "5700",
+            "airport_ident": "RPMG",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305131",
+        "code": "PH-ZAN",
+        "local_code": "ZAN",
+        "name": "Zamboanga del Norte Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zamboanga_del_Norte_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87373",
+            "filename": "Dipolog_NDB_PH",
+            "ident": "DI",
+            "name": "Dipolog",
+            "type": "NDB",
+            "frequency_khz": "389",
+            "latitude_deg": "8.600560188293457",
+            "longitude_deg": "123.34300231933594",
+            "elevation_ft": "12",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.096",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RPMG"
+        }
+    ]
+}

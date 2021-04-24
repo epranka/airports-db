@@ -1,0 +1,102 @@
+{
+    "id": "2281",
+    "ident": "EDUS",
+    "type": "small_airport",
+    "name": "Finsterwalde/Schacksdorf Airport",
+    "latitude_deg": "51.607498",
+    "longitude_deg": "13.743611",
+    "elevation_ft": "384",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BR",
+    "municipality": "Finsterwalde",
+    "scheduled_service": "no",
+    "gps_code": "EDUS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Lausitzflugplatz_Finsterwalde/Schacksdorf",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236190",
+            "airport_ref": "2281",
+            "airport_ident": "EDUS",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "51.6074",
+            "le_longitude_deg": "13.7293",
+            "le_elevation_ft": "399",
+            "le_heading_degT": "89",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "51.6076",
+            "he_longitude_deg": "13.7467",
+            "he_elevation_ft": "399",
+            "he_heading_degT": "269",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "236191",
+            "airport_ref": "2281",
+            "airport_ident": "EDUS",
+            "length_ft": "2904",
+            "width_ft": "131",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09R",
+            "le_latitude_deg": "51.6068",
+            "le_longitude_deg": "13.7347",
+            "le_elevation_ft": "",
+            "le_heading_degT": "89",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27L",
+            "he_latitude_deg": "51.6069",
+            "he_longitude_deg": "13.7475",
+            "he_elevation_ft": "",
+            "he_heading_degT": "269",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52914",
+            "airport_ref": "2281",
+            "airport_ident": "EDUS",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "52915",
+            "airport_ref": "2281",
+            "airport_ident": "EDUS",
+            "type": "INFO",
+            "description": "SCHACKESDORF INFO",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303547",
+        "code": "DE-BR",
+        "local_code": "BR",
+        "name": "Brandenburg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
+        "keywords": ""
+    }
+}

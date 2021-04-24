@@ -1,0 +1,80 @@
+{
+    "id": "18337",
+    "ident": "K09A",
+    "type": "small_airport",
+    "name": "Butler-Choctaw County Airport",
+    "latitude_deg": "32.1193008423",
+    "longitude_deg": "-88.1275024414",
+    "elevation_ft": "134",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Butler",
+    "scheduled_service": "no",
+    "gps_code": "K09A",
+    "iata_code": "",
+    "local_code": "09A",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239863",
+            "airport_ref": "18337",
+            "airport_ident": "K09A",
+            "length_ft": "4080",
+            "width_ft": "80",
+            "surface": "ASPH-F",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "32.1217",
+            "le_longitude_deg": "-88.1334",
+            "le_elevation_ft": "116",
+            "le_heading_degT": "116",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "32.1169",
+            "he_longitude_deg": "-88.1215",
+            "he_elevation_ft": "134",
+            "he_heading_degT": "296",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59110",
+            "airport_ref": "18337",
+            "airport_ident": "K09A",
+            "type": "A/D",
+            "description": "MERIDAN APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "59111",
+            "airport_ref": "18337",
+            "airport_ident": "K09A",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

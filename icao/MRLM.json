@@ -1,0 +1,104 @@
+{
+    "id": "4808",
+    "ident": "MRLM",
+    "type": "medium_airport",
+    "name": "Limon International Airport",
+    "latitude_deg": "9.95796012878418",
+    "longitude_deg": "-83.02200317382812",
+    "elevation_ft": "7",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-L",
+    "municipality": "Puerto Limon",
+    "scheduled_service": "yes",
+    "gps_code": "MRLM",
+    "iata_code": "LIO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lim%C3%B3n_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235369",
+            "airport_ref": "4808",
+            "airport_ident": "MRLM",
+            "length_ft": "5906",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "9.9647",
+            "le_longitude_deg": "-83.0265",
+            "le_elevation_ft": "7",
+            "le_heading_degT": "146",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "9.95122",
+            "he_longitude_deg": "-83.0175",
+            "he_elevation_ft": "7",
+            "he_heading_degT": "326",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51580",
+            "airport_ref": "4808",
+            "airport_ident": "MRLM",
+            "type": "INFO",
+            "description": "FIS",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "51581",
+            "airport_ref": "4808",
+            "airport_ident": "MRLM",
+            "type": "RDO",
+            "description": "COCO RDO",
+            "frequency_mhz": "126.8"
+        }
+    ],
+    "country": {
+        "id": "302731",
+        "code": "CR",
+        "name": "Costa Rica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
+        "keywords": "Aeropuertos de Costa Rica"
+    },
+    "region": {
+        "id": "303495",
+        "code": "CR-L",
+        "local_code": "L",
+        "name": "Limon",
+        "continent": "NA",
+        "iso_country": "CR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limon",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90350",
+            "filename": "Limon_VOR-DME_CR",
+            "ident": "LIO",
+            "name": "Limon",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "9.963330268859863",
+            "longitude_deg": "-83.02670288085938",
+            "elevation_ft": "7",
+            "iso_country": "CR",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.481",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MRLM"
+        }
+    ]
+}

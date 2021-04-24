@@ -1,0 +1,118 @@
+{
+    "id": "5400",
+    "ident": "PAPM",
+    "type": "medium_airport",
+    "name": "Platinum Airport",
+    "latitude_deg": "59.01139831542969",
+    "longitude_deg": "-161.82000732421875",
+    "elevation_ft": "15",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Platinum",
+    "scheduled_service": "no",
+    "gps_code": "PAPM",
+    "iata_code": "PTU",
+    "local_code": "PTU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239720",
+            "airport_ref": "5400",
+            "airport_ident": "PAPM",
+            "length_ft": "1924",
+            "width_ft": "50",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "59.0119",
+            "le_longitude_deg": "-161.825",
+            "le_elevation_ft": "15",
+            "le_heading_degT": "108",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "59.0103",
+            "he_longitude_deg": "-161.815",
+            "he_elevation_ft": "9",
+            "he_heading_degT": "288",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239721",
+            "airport_ref": "5400",
+            "airport_ident": "PAPM",
+            "length_ft": "3304",
+            "width_ft": "50",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "59.0156",
+            "le_longitude_deg": "-161.823",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "154",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "59.0074",
+            "he_longitude_deg": "-161.816",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "334",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58845",
+            "airport_ref": "5400",
+            "airport_ident": "PAPM",
+            "type": "A/D",
+            "description": "ANCHORAGE ARTCC",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "58846",
+            "airport_ref": "5400",
+            "airport_ident": "PAPM",
+            "type": "AWOS",
+            "description": "AWOS THREE",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "58847",
+            "airport_ref": "5400",
+            "airport_ident": "PAPM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "58848",
+            "airport_ref": "5400",
+            "airport_ident": "PAPM",
+            "type": "RDO",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    }
+}

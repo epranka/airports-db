@@ -1,0 +1,104 @@
+{
+    "id": "20736",
+    "ident": "KOKV",
+    "type": "small_airport",
+    "name": "Winchester Regional Airport",
+    "latitude_deg": "39.14350128",
+    "longitude_deg": "-78.14440155",
+    "elevation_ft": "726",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Winchester",
+    "scheduled_service": "no",
+    "gps_code": "KOKV",
+    "iata_code": "WGO",
+    "local_code": "OKV",
+    "home_link": "http://websmart66.net/cgi-bin/p/w66p-home.cgi?d=winchester-aviation-services",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Winchester_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244651",
+            "airport_ref": "20736",
+            "airport_ident": "KOKV",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "39.1488",
+            "le_longitude_deg": "-78.1514",
+            "le_elevation_ft": "726",
+            "le_heading_degT": "133.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "39.1383",
+            "he_longitude_deg": "-78.1374",
+            "he_elevation_ft": "701",
+            "he_heading_degT": "313.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68577",
+            "airport_ref": "20736",
+            "airport_ident": "KOKV",
+            "type": "A/D",
+            "description": "POTOMAC APP/DEP",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "68578",
+            "airport_ref": "20736",
+            "airport_ident": "KOKV",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "124.85"
+        },
+        {
+            "id": "68579",
+            "airport_ref": "20736",
+            "airport_ident": "KOKV",
+            "type": "CLD",
+            "description": "POTOMAC CLNC DEL",
+            "frequency_mhz": "126.15"
+        },
+        {
+            "id": "68580",
+            "airport_ref": "20736",
+            "airport_ident": "KOKV",
+            "type": "CTAF",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        },
+        {
+            "id": "68581",
+            "airport_ref": "20736",
+            "airport_ident": "KOKV",
+            "type": "RDO",
+            "description": "LEESBURG RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    }
+}

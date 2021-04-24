@@ -1,0 +1,80 @@
+{
+    "id": "18946",
+    "ident": "K61C",
+    "type": "small_airport",
+    "name": "Fort Atkinson Municipal Airport",
+    "latitude_deg": "42.963199615478516",
+    "longitude_deg": "-88.81759643554688",
+    "elevation_ft": "800",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Fort Atkinson",
+    "scheduled_service": "no",
+    "gps_code": "K61C",
+    "iata_code": "",
+    "local_code": "61C",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244261",
+            "airport_ref": "18946",
+            "airport_ident": "K61C",
+            "length_ft": "3801",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "42.9586",
+            "le_longitude_deg": "-88.821",
+            "le_elevation_ft": "798",
+            "le_heading_degT": "28",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "42.9678",
+            "he_longitude_deg": "-88.8143",
+            "he_elevation_ft": "795",
+            "he_heading_degT": "208",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67726",
+            "airport_ref": "18946",
+            "airport_ident": "K61C",
+            "type": "A/D",
+            "description": "MADISON APP/DEP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "67727",
+            "airport_ref": "18946",
+            "airport_ident": "K61C",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

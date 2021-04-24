@@ -1,0 +1,80 @@
+{
+    "id": "6321",
+    "ident": "SVSA",
+    "type": "medium_airport",
+    "name": "San Antonio Del Tachira Airport",
+    "latitude_deg": "7.840829849243164",
+    "longitude_deg": "-72.439697265625",
+    "elevation_ft": "1312",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-S",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "SVSA",
+    "iata_code": "SVZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246110",
+            "airport_ref": "6321",
+            "airport_ident": "SVSA",
+            "length_ft": "6135",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "7.84901",
+            "le_longitude_deg": "-72.4419",
+            "le_elevation_ft": "",
+            "le_heading_degT": "165.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "7.83265",
+            "he_longitude_deg": "-72.4376",
+            "he_elevation_ft": "",
+            "he_heading_degT": "345.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71685",
+            "airport_ref": "6321",
+            "airport_ident": "SVSA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71686",
+            "airport_ref": "6321",
+            "airport_ident": "SVSA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306182",
+        "code": "VE-S",
+        "local_code": "S",
+        "name": "Táchira State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/T%C3%A1chira",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "4741",
+    "ident": "MMPG",
+    "type": "medium_airport",
+    "name": "Piedras Negras International Airport",
+    "latitude_deg": "28.627399",
+    "longitude_deg": "-100.535004",
+    "elevation_ft": "901",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-COA",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "MMPG",
+    "iata_code": "PDS",
+    "local_code": "PNG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Piedras_Negras_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237697",
+            "airport_ref": "4741",
+            "airport_ident": "MMPG",
+            "length_ft": "6655",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "28.6329",
+            "le_longitude_deg": "-100.544",
+            "le_elevation_ft": "901",
+            "le_heading_degT": "126.8",
+            "le_displaced_threshold_ft": "295",
+            "he_ident": "30",
+            "he_latitude_deg": "28.6219",
+            "he_longitude_deg": "-100.527",
+            "he_elevation_ft": "901",
+            "he_heading_degT": "306.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55441",
+            "airport_ref": "4741",
+            "airport_ident": "MMPG",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "122.25"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304796",
+        "code": "MX-COA",
+        "local_code": "COA",
+        "name": "Coahuila",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Coahuila",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92568",
+            "filename": "Piedras_VOR-DME_MX",
+            "ident": "PNG",
+            "name": "Piedras",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "28.631799697875977",
+            "longitude_deg": "-100.53800201416016",
+            "elevation_ft": "901",
+            "iso_country": "MX",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.01",
+            "magnetic_variation_deg": "6.381",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMPG"
+        }
+    ]
+}

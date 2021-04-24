@@ -1,0 +1,118 @@
+{
+    "id": "19759",
+    "ident": "KENL",
+    "type": "small_airport",
+    "name": "Centralia Municipal Airport",
+    "latitude_deg": "38.515098571799996",
+    "longitude_deg": "-89.0911026001",
+    "elevation_ft": "534",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Centralia",
+    "scheduled_service": "no",
+    "gps_code": "KENL",
+    "iata_code": "ENL",
+    "local_code": "ENL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242457",
+            "airport_ref": "19759",
+            "airport_ident": "KENL",
+            "length_ft": "3300",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "38.5152",
+            "le_longitude_deg": "-89.096",
+            "le_elevation_ft": "522",
+            "le_heading_degT": "87",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "27",
+            "he_latitude_deg": "38.5157",
+            "he_longitude_deg": "-89.0845",
+            "he_elevation_ft": "520",
+            "he_heading_degT": "267",
+            "he_displaced_threshold_ft": "300"
+        },
+        {
+            "id": "242458",
+            "airport_ref": "19759",
+            "airport_ident": "KENL",
+            "length_ft": "5001",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.5217",
+            "le_longitude_deg": "-89.0916",
+            "le_elevation_ft": "519",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.508",
+            "he_longitude_deg": "-89.0918",
+            "he_elevation_ft": "534",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63956",
+            "airport_ref": "19759",
+            "airport_ident": "KENL",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "63957",
+            "airport_ref": "19759",
+            "airport_ident": "KENL",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "63958",
+            "airport_ref": "19759",
+            "airport_ident": "KENL",
+            "type": "RDO",
+            "description": "ST LOUIS RDO",
+            "frequency_mhz": "115"
+        },
+        {
+            "id": "63959",
+            "airport_ref": "19759",
+            "airport_ident": "KENL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "id": "742",
+    "ident": "CCA3",
+    "type": "small_airport",
+    "name": "Cable Head Airpark",
+    "latitude_deg": "46.444806",
+    "longitude_deg": "-62.593961",
+    "elevation_ft": "94",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-PE",
+    "municipality": "Saint Peters Bay",
+    "scheduled_service": "no",
+    "gps_code": "CCA3",
+    "iata_code": "",
+    "local_code": "CCA3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cable_Head_Airpark",
+    "keywords": "CA3, PEI",
+    "runways": [
+        {
+            "id": "253811",
+            "airport_ref": "742",
+            "airport_ident": "CCA3",
+            "length_ft": "2400",
+            "width_ft": "100",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "253812",
+            "airport_ref": "742",
+            "airport_ident": "CCA3",
+            "length_ft": "3600",
+            "width_ft": "100",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "299124",
+            "airport_ref": "742",
+            "airport_ident": "CCA3",
+            "type": "CTAF",
+            "description": "Cable Head Traffic, 5nm below 3100",
+            "frequency_mhz": "123.2"
+        },
+        {
+            "id": "299125",
+            "airport_ref": "742",
+            "airport_ident": "CCA3",
+            "type": "Departures",
+            "description": "Moncton Centre",
+            "frequency_mhz": "135.65"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303303",
+        "code": "CA-PE",
+        "local_code": "PE",
+        "name": "Prince Edward Island",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Prince_Edward_Island",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "2419",
+    "ident": "EGGW",
+    "type": "large_airport",
+    "name": "London Luton Airport",
+    "latitude_deg": "51.874698638916016",
+    "longitude_deg": "-0.36833301186561584",
+    "elevation_ft": "526",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "London",
+    "scheduled_service": "yes",
+    "gps_code": "EGGW",
+    "iata_code": "LTN",
+    "local_code": "",
+    "home_link": "http://www.london-luton.co.uk/en/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/London_Luton_Airport",
+    "keywords": "LON",
+    "runways": [
+        {
+            "id": "239402",
+            "airport_ref": "2419",
+            "airport_ident": "EGGW",
+            "length_ft": "7093",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "51.872",
+            "le_longitude_deg": "-0.38355",
+            "le_elevation_ft": "515",
+            "le_heading_degT": "74",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "51.8772",
+            "he_longitude_deg": "-0.353333",
+            "he_elevation_ft": "508",
+            "he_heading_degT": "254",
+            "he_displaced_threshold_ft": "279"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58115",
+            "airport_ref": "2419",
+            "airport_ident": "EGGW",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "129.55"
+        },
+        {
+            "id": "58116",
+            "airport_ref": "2419",
+            "airport_ident": "EGGW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.575"
+        },
+        {
+            "id": "58117",
+            "airport_ref": "2419",
+            "airport_ident": "EGGW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "58118",
+            "airport_ref": "2419",
+            "airport_ident": "EGGW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "132.55"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

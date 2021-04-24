@@ -1,0 +1,112 @@
+{
+    "id": "2467",
+    "ident": "EGPN",
+    "type": "medium_airport",
+    "name": "Dundee Airport",
+    "latitude_deg": "56.45249938964844",
+    "longitude_deg": "-3.025830030441284",
+    "elevation_ft": "17",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Dundee",
+    "scheduled_service": "yes",
+    "gps_code": "EGPN",
+    "iata_code": "DND",
+    "local_code": "",
+    "home_link": "http://www.hial.co.uk/dundee-airport.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dundee_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239463",
+            "airport_ref": "2467",
+            "airport_ident": "EGPN",
+            "length_ft": "4593",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "56.4525",
+            "le_longitude_deg": "-3.03718",
+            "le_elevation_ft": "17",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "56.4524",
+            "he_longitude_deg": "-3.01448",
+            "he_elevation_ft": "13",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58244",
+            "airport_ref": "2467",
+            "airport_ident": "EGPN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.905"
+        },
+        {
+            "id": "332963",
+            "airport_ref": "2467",
+            "airport_ident": "EGPN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.33"
+        },
+        {
+            "id": "58245",
+            "airport_ref": "2467",
+            "airport_ident": "EGPN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.905"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306377",
+        "code": "GB-SCT",
+        "local_code": "SCT",
+        "name": "Scotland",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
+        "keywords": "keep"
+    },
+    "navaids": [
+        {
+            "id": "87454",
+            "filename": "Dundee_NDB_GB",
+            "ident": "DND",
+            "name": "Dundee",
+            "type": "NDB",
+            "frequency_khz": "394",
+            "latitude_deg": "56.455101013183594",
+            "longitude_deg": "-3.114919900894165",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.262",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGPN"
+        }
+    ]
+}

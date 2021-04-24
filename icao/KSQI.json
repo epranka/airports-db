@@ -1,0 +1,118 @@
+{
+    "id": "21104",
+    "ident": "KSQI",
+    "type": "small_airport",
+    "name": "Whiteside County Airport-Joseph H Bittorf Field",
+    "latitude_deg": "41.74280167",
+    "longitude_deg": "-89.67630005",
+    "elevation_ft": "648",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Sterling/Rockfalls",
+    "scheduled_service": "no",
+    "gps_code": "KSQI",
+    "iata_code": "SQI",
+    "local_code": "SQI",
+    "home_link": "http://www.visitrockfalls.com/visitor-s-guide/airport/whiteside-county-airport.html",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242117",
+            "airport_ref": "21104",
+            "airport_ident": "KSQI",
+            "length_ft": "6500",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "41.7392",
+            "le_longitude_deg": "-89.6847",
+            "le_elevation_ft": "647",
+            "le_heading_degT": "70.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "41.7452",
+            "he_longitude_deg": "-89.6623",
+            "he_elevation_ft": "647",
+            "he_heading_degT": "250.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242118",
+            "airport_ref": "21104",
+            "airport_ident": "KSQI",
+            "length_ft": "3899",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "41.7493",
+            "le_longitude_deg": "-89.6809",
+            "le_elevation_ft": "641",
+            "le_heading_degT": "180.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "41.7386",
+            "he_longitude_deg": "-89.6809",
+            "he_elevation_ft": "644",
+            "he_heading_degT": "0.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63258",
+            "airport_ref": "21104",
+            "airport_ident": "KSQI",
+            "type": "A/D",
+            "description": "ROCKFORD APP/DEP",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "63259",
+            "airport_ref": "21104",
+            "airport_ident": "KSQI",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.175"
+        },
+        {
+            "id": "63260",
+            "airport_ref": "21104",
+            "airport_ident": "KSQI",
+            "type": "CLD",
+            "description": "ROCKFORD CLNC DEL",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "63261",
+            "airport_ref": "21104",
+            "airport_ident": "KSQI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

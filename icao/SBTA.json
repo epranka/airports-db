@@ -1,0 +1,104 @@
+{
+    "id": "5978",
+    "ident": "SBTA",
+    "type": "medium_airport",
+    "name": "Base de Aviação de Taubaté",
+    "latitude_deg": "-23.0401",
+    "longitude_deg": "-45.51615",
+    "elevation_ft": "1902",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Taubaté",
+    "scheduled_service": "no",
+    "gps_code": "SBTA",
+    "iata_code": "",
+    "local_code": "SP9004",
+    "home_link": "http://www.cavex.eb.mil.br/index.php/bavt2",
+    "wikipedia_link": "https://pt.wikipedia.org/wiki/Base_de_Aviação_de_Taubaté",
+    "keywords": "QHP",
+    "runways": [
+        {
+            "id": "233941",
+            "airport_ref": "5978",
+            "airport_ident": "SBTA",
+            "length_ft": "6170",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "-23.0438",
+            "le_longitude_deg": "-45.522",
+            "le_elevation_ft": "1908",
+            "le_heading_degT": "77",
+            "le_displaced_threshold_ft": "1275",
+            "he_ident": "26",
+            "he_latitude_deg": "-23.0363",
+            "he_longitude_deg": "-45.51",
+            "he_elevation_ft": "1908",
+            "he_heading_degT": "257",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49585",
+            "airport_ref": "5978",
+            "airport_ident": "SBTA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "49586",
+            "airport_ref": "5978",
+            "airport_ident": "SBTA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.9"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303224",
+        "code": "BR-SP",
+        "local_code": "SP",
+        "name": "São Paulo",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/São_Paulo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94224",
+            "filename": "Taubate_NDB_BR",
+            "ident": "TBE",
+            "name": "Taubate",
+            "type": "NDB",
+            "frequency_khz": "430",
+            "latitude_deg": "-23.045700073242188",
+            "longitude_deg": "-45.51679992675781",
+            "elevation_ft": "1923",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.325",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBTA"
+        }
+    ]
+}

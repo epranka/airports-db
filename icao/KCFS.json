@@ -1,0 +1,118 @@
+{
+    "id": "19485",
+    "ident": "KCFS",
+    "type": "small_airport",
+    "name": "Tuscola Area Airport",
+    "latitude_deg": "43.458801269531",
+    "longitude_deg": "-83.445503234863",
+    "elevation_ft": "701",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Caro",
+    "scheduled_service": "no",
+    "gps_code": "KCFS",
+    "iata_code": "TZC",
+    "local_code": "CFS",
+    "home_link": "http://www.michigan.gov/aero/0,4533,7-145-61367-277436--,00.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tuscola_Area_Airport",
+    "keywords": "78D",
+    "runways": [
+        {
+            "id": "245186",
+            "airport_ref": "19485",
+            "airport_ident": "KCFS",
+            "length_ft": "4300",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "43.454",
+            "le_longitude_deg": "-83.4537",
+            "le_elevation_ft": "686",
+            "le_heading_degT": "52",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "43.4613",
+            "he_longitude_deg": "-83.441",
+            "he_elevation_ft": "701",
+            "he_heading_degT": "232",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245187",
+            "airport_ref": "19485",
+            "airport_ident": "KCFS",
+            "length_ft": "2300",
+            "width_ft": "110",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "43.4626",
+            "le_longitude_deg": "-83.4457",
+            "le_elevation_ft": "",
+            "le_heading_degT": "120.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "43.4594",
+            "he_longitude_deg": "-83.4382",
+            "he_elevation_ft": "",
+            "he_heading_degT": "300.2",
+            "he_displaced_threshold_ft": "500"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69762",
+            "airport_ref": "19485",
+            "airport_ident": "KCFS",
+            "type": "A/D",
+            "description": "SAGINAW APP/DEP",
+            "frequency_mhz": "120.95"
+        },
+        {
+            "id": "69763",
+            "airport_ref": "19485",
+            "airport_ident": "KCFS",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "69764",
+            "airport_ref": "19485",
+            "airport_ident": "KCFS",
+            "type": "RCO",
+            "description": "RCO",
+            "frequency_mhz": "121.725"
+        },
+        {
+            "id": "69765",
+            "airport_ref": "19485",
+            "airport_ident": "KCFS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

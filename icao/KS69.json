@@ -1,0 +1,72 @@
+{
+    "id": "21015",
+    "ident": "KS69",
+    "type": "small_airport",
+    "name": "Lincoln Airport",
+    "latitude_deg": "46.95439911",
+    "longitude_deg": "-112.6500015",
+    "elevation_ft": "4603",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Lincoln",
+    "scheduled_service": "no",
+    "gps_code": "KS69",
+    "iata_code": "",
+    "local_code": "S69",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245172",
+            "airport_ref": "21015",
+            "airport_ident": "KS69",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "46.9513",
+            "le_longitude_deg": "-112.657",
+            "le_elevation_ft": "4574",
+            "le_heading_degT": "56",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "46.9575",
+            "he_longitude_deg": "-112.644",
+            "he_elevation_ft": "4600",
+            "he_heading_degT": "236",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69735",
+            "airport_ref": "21015",
+            "airport_ident": "KS69",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306102",
+        "code": "US-MT",
+        "local_code": "MT",
+        "name": "Montana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
+        "keywords": ""
+    }
+}

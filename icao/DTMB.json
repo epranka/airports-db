@@ -1,0 +1,112 @@
+{
+    "id": "2132",
+    "ident": "DTMB",
+    "type": "medium_airport",
+    "name": "Monastir Habib Bourguiba International Airport",
+    "latitude_deg": "35.75809860229492",
+    "longitude_deg": "10.75469970703125",
+    "elevation_ft": "9",
+    "continent": "AF",
+    "iso_country": "TN",
+    "iso_region": "TN-52",
+    "municipality": "Monastir",
+    "scheduled_service": "yes",
+    "gps_code": "DTMB",
+    "iata_code": "MIR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Habib_Bourguiba_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239221",
+            "airport_ref": "2132",
+            "airport_ident": "DTMB",
+            "length_ft": "9678",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "35.7541",
+            "le_longitude_deg": "10.7384",
+            "le_elevation_ft": "8",
+            "le_heading_degT": "74",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "35.7616",
+            "he_longitude_deg": "10.7696",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "254",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57800",
+            "airport_ref": "2132",
+            "airport_ident": "DTMB",
+            "type": "APP",
+            "description": "BOURGUIBA APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "57801",
+            "airport_ref": "2132",
+            "airport_ident": "DTMB",
+            "type": "ATIS",
+            "description": "MONASTIR ATIS",
+            "frequency_mhz": "113.1"
+        },
+        {
+            "id": "57802",
+            "airport_ref": "2132",
+            "airport_ident": "DTMB",
+            "type": "TWR",
+            "description": "BOURGUIBA TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302606",
+        "code": "TN",
+        "name": "Tunisia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tunisia",
+        "keywords": "مطارات تونس"
+    },
+    "region": {
+        "id": "305825",
+        "code": "TN-52",
+        "local_code": "52",
+        "name": "Monastir Governorate",
+        "continent": "AF",
+        "iso_country": "TN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Monastir_Governorate",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91170",
+            "filename": "Monastir_VOR-DME_TN",
+            "ident": "MON",
+            "name": "Monastir",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "35.75490188598633",
+            "longitude_deg": "10.748100280761719",
+            "elevation_ft": "32",
+            "iso_country": "TN",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-0.207",
+            "magnetic_variation_deg": "1.159",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DTMB"
+        }
+    ]
+}

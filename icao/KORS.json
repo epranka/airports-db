@@ -1,0 +1,88 @@
+{
+    "id": "23952",
+    "ident": "KORS",
+    "type": "small_airport",
+    "name": "Orcas Island Airport",
+    "latitude_deg": "48.7081985474",
+    "longitude_deg": "-122.910003662",
+    "elevation_ft": "31",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Eastsound",
+    "scheduled_service": "yes",
+    "gps_code": "KORS",
+    "iata_code": "ESD",
+    "local_code": "ORS",
+    "home_link": "http://www.portoforcas.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Orcas_Island_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "252804",
+            "airport_ref": "23952",
+            "airport_ident": "KORS",
+            "length_ft": "2900",
+            "width_ft": "60",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "48.7123",
+            "le_longitude_deg": "-122.911",
+            "le_elevation_ft": "31",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "48.7044",
+            "he_longitude_deg": "-122.911",
+            "he_elevation_ft": "31",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "342622",
+            "airport_ref": "23952",
+            "airport_ident": "KORS",
+            "type": "AWOS",
+            "description": "",
+            "frequency_mhz": "135.425"
+        },
+        {
+            "id": "342621",
+            "airport_ref": "23952",
+            "airport_ident": "KORS",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "128.25"
+        },
+        {
+            "id": "342623",
+            "airport_ref": "23952",
+            "airport_ident": "KORS",
+            "type": "WHIDBEY  APP/DEP",
+            "description": "",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "id": "20384",
+    "ident": "KLVK",
+    "type": "small_airport",
+    "name": "Livermore Municipal Airport",
+    "latitude_deg": "37.6934013367",
+    "longitude_deg": "-121.819999695",
+    "elevation_ft": "400",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Livermore",
+    "scheduled_service": "no",
+    "gps_code": "KLVK",
+    "iata_code": "LVK",
+    "local_code": "LVK",
+    "home_link": "http://www.cityoflivermore.net/citygov/pw/public_works_divisions/airport/default.asp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Livermore_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240972",
+            "airport_ref": "20384",
+            "airport_ident": "KLVK",
+            "length_ft": "5253",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07L",
+            "le_latitude_deg": "37.6939",
+            "le_longitude_deg": "-121.829",
+            "le_elevation_ft": "373",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25R",
+            "he_latitude_deg": "37.6938",
+            "he_longitude_deg": "-121.811",
+            "he_elevation_ft": "400",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240971",
+            "airport_ref": "20384",
+            "airport_ident": "KLVK",
+            "length_ft": "2699",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07R",
+            "le_latitude_deg": "37.6925",
+            "le_longitude_deg": "-121.825",
+            "le_elevation_ft": "379",
+            "le_heading_degT": "90.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25L",
+            "he_latitude_deg": "37.6925",
+            "he_longitude_deg": "-121.816",
+            "he_elevation_ft": "395",
+            "he_heading_degT": "270.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60883",
+            "airport_ref": "20384",
+            "airport_ident": "KLVK",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "60884",
+            "airport_ref": "20384",
+            "airport_ident": "KLVK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "60885",
+            "airport_ref": "20384",
+            "airport_ident": "KLVK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "60886",
+            "airport_ref": "20384",
+            "airport_ident": "KLVK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "60887",
+            "airport_ref": "20384",
+            "airport_ident": "KLVK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "60888",
+            "airport_ref": "20384",
+            "airport_ident": "KLVK",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

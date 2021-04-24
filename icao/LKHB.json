@@ -1,0 +1,80 @@
+{
+    "id": "29940",
+    "ident": "LKHB",
+    "type": "small_airport",
+    "name": "Havlíčkův Brod Airport",
+    "latitude_deg": "49.597198486328",
+    "longitude_deg": "15.549200057983",
+    "elevation_ft": "1519",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-VY",
+    "municipality": "Havlíčkův Brod",
+    "scheduled_service": "no",
+    "gps_code": "LKHB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Havl%C3%AD%C4%8Dk%C5%AFv_Brod_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "320300",
+            "airport_ref": "29940",
+            "airport_ident": "LKHB",
+            "length_ft": "3280",
+            "width_ft": "164",
+            "surface": "G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "49.5963",
+            "le_longitude_deg": "15.553",
+            "le_elevation_ft": "",
+            "le_heading_degT": "111",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "49.5991",
+            "he_longitude_deg": "15.5428",
+            "he_elevation_ft": "",
+            "he_heading_degT": "291",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "320299",
+            "airport_ref": "29940",
+            "airport_ident": "LKHB",
+            "type": "Info",
+            "description": "",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "333131",
+            "airport_ref": "29940",
+            "airport_ident": "LKHB",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "128.905"
+        }
+    ],
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303545",
+        "code": "CZ-VY",
+        "local_code": "VY",
+        "name": "Vysočina Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vysočina_Region",
+        "keywords": "Kraj Vysočina"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "id": "2253",
+    "ident": "EDMS",
+    "type": "small_airport",
+    "name": "Straubing Airport",
+    "latitude_deg": "48.90083312988281",
+    "longitude_deg": "12.516667366027832",
+    "elevation_ft": "1047",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Straubing",
+    "scheduled_service": "no",
+    "gps_code": "EDMS",
+    "iata_code": "RBM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236293",
+            "airport_ref": "2253",
+            "airport_ident": "EDMS",
+            "length_ft": "4429",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "48.9016",
+            "le_longitude_deg": "12.5075",
+            "le_elevation_ft": "1053",
+            "le_heading_degT": "97",
+            "le_displaced_threshold_ft": "328",
+            "he_ident": "27",
+            "he_latitude_deg": "48.9001",
+            "he_longitude_deg": "12.5258",
+            "he_elevation_ft": "1045",
+            "he_heading_degT": "277",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53223",
+            "airport_ref": "2253",
+            "airport_ident": "EDMS",
+            "type": "A/D",
+            "description": "MUNCHEN RADAR",
+            "frequency_mhz": "132.55"
+        },
+        {
+            "id": "53224",
+            "airport_ref": "2253",
+            "airport_ident": "EDMS",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "124.65"
+        },
+        {
+            "id": "53225",
+            "airport_ref": "2253",
+            "airport_ident": "EDMS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135.525"
+        },
+        {
+            "id": "53226",
+            "airport_ref": "2253",
+            "airport_ident": "EDMS",
+            "type": "INFO",
+            "description": "MUNCHEN INFO",
+            "frequency_mhz": "120.65"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    },
+    "navaids": [
+        {
+            "id": "93025",
+            "filename": "Roding_VOR-DME_DE",
+            "ident": "RDG",
+            "name": "Roding",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "49.040298461899994",
+            "longitude_deg": "12.5264997482",
+            "elevation_ft": "2172",
+            "iso_country": "DE",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0",
+            "magnetic_variation_deg": "1.5",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EDMS"
+        }
+    ]
+}

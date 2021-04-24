@@ -1,0 +1,80 @@
+{
+    "id": "28080",
+    "ident": "YWWA",
+    "type": "small_airport",
+    "name": "Wee Waa Airport",
+    "latitude_deg": "-30.25830078125",
+    "longitude_deg": "149.4080047607422",
+    "elevation_ft": "190",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YWWA",
+    "iata_code": "WEW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259578",
+            "airport_ref": "28080",
+            "airport_ident": "YWWA",
+            "length_ft": "3730",
+            "width_ft": "",
+            "surface": "B",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75054",
+            "airport_ref": "28080",
+            "airport_ident": "YWWA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "75055",
+            "airport_ref": "28080",
+            "airport_ident": "YWWA",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    }
+}

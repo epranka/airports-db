@@ -1,0 +1,158 @@
+{
+    "id": "5686",
+    "ident": "RPLB",
+    "type": "medium_airport",
+    "name": "Subic Bay International Airport / Naval Air Station Cubi Point",
+    "latitude_deg": "14.7944",
+    "longitude_deg": "120.271004",
+    "elevation_ft": "64",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-ZMB",
+    "municipality": "Olongapo",
+    "scheduled_service": "yes",
+    "gps_code": "RPLB",
+    "iata_code": "SFS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Subic_Bay_International_Airport",
+    "keywords": "Paliparang Pandaigdig ng Look ng Subic, Naval Air Station Cubi Point",
+    "runways": [
+        {
+            "id": "238431",
+            "airport_ref": "5686",
+            "airport_ident": "RPLB",
+            "length_ft": "9003",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "14.7897",
+            "le_longitude_deg": "120.26",
+            "le_elevation_ft": "47",
+            "le_heading_degT": "67",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "14.7992",
+            "he_longitude_deg": "120.283",
+            "he_elevation_ft": "53",
+            "he_heading_degT": "247",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56487",
+            "airport_ref": "5686",
+            "airport_ident": "RPLB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "56488",
+            "airport_ref": "5686",
+            "airport_ident": "RPLB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.4"
+        },
+        {
+            "id": "56489",
+            "airport_ref": "5686",
+            "airport_ident": "RPLB",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "56490",
+            "airport_ref": "5686",
+            "airport_ident": "RPLB",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "544.75"
+        },
+        {
+            "id": "56491",
+            "airport_ref": "5686",
+            "airport_ident": "RPLB",
+            "type": "GCA",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "56492",
+            "airport_ref": "5686",
+            "airport_ident": "RPLB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305133",
+        "code": "PH-ZMB",
+        "local_code": "ZMB",
+        "name": "Zambales Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zambales_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93420",
+            "filename": "Subic_Bay_VOR-DME_PH",
+            "ident": "SBA",
+            "name": "Subic Bay",
+            "type": "VOR-DME",
+            "frequency_khz": "113500",
+            "latitude_deg": "14.769599914550781",
+            "longitude_deg": "120.2249984741211",
+            "elevation_ft": "158",
+            "iso_country": "PH",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-1.196",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPLB"
+        },
+        {
+            "id": "93532",
+            "filename": "Subic_Bay_NDB_PH",
+            "ident": "SFS",
+            "name": "Subic Bay",
+            "type": "NDB",
+            "frequency_khz": "366",
+            "latitude_deg": "14.774800300598145",
+            "longitude_deg": "120.2239990234375",
+            "elevation_ft": "78",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.197",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RPLB"
+        }
+    ]
+}

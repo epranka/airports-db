@@ -1,0 +1,158 @@
+{
+    "id": "28118",
+    "ident": "VTBS",
+    "type": "large_airport",
+    "name": "Suvarnabhumi Airport",
+    "latitude_deg": "13.681099891662598",
+    "longitude_deg": "100.74700164794922",
+    "elevation_ft": "5",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-10",
+    "municipality": "Bangkok",
+    "scheduled_service": "yes",
+    "gps_code": "VTBS",
+    "iata_code": "BKK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Suvarnabhumi_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "249240",
+            "airport_ref": "28118",
+            "airport_ident": "VTBS",
+            "length_ft": "12139",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01L",
+            "le_latitude_deg": "13.6713",
+            "le_longitude_deg": "100.735",
+            "le_elevation_ft": "",
+            "le_heading_degT": "14",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19R",
+            "he_latitude_deg": "13.7037",
+            "he_longitude_deg": "100.743",
+            "he_elevation_ft": "",
+            "he_heading_degT": "194",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "249241",
+            "airport_ref": "28118",
+            "airport_ident": "VTBS",
+            "length_ft": "13123",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01R",
+            "le_latitude_deg": "13.6567",
+            "le_longitude_deg": "100.752",
+            "le_elevation_ft": "",
+            "le_heading_degT": "14",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19L",
+            "he_latitude_deg": "13.6917",
+            "he_longitude_deg": "100.761",
+            "he_elevation_ft": "",
+            "he_heading_degT": "194",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "299457",
+            "airport_ref": "28118",
+            "airport_ident": "VTBS",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "299460",
+            "airport_ref": "28118",
+            "airport_ident": "VTBS",
+            "type": "GROUND (EAST)",
+            "description": "",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "299461",
+            "airport_ref": "28118",
+            "airport_ident": "VTBS",
+            "type": "GROUND (MAIN)",
+            "description": "",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "299462",
+            "airport_ref": "28118",
+            "airport_ident": "VTBS",
+            "type": "GROUND (WEST)",
+            "description": "",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "299459",
+            "airport_ref": "28118",
+            "airport_ident": "VTBS",
+            "type": "TOWER (01L/19R)",
+            "description": "",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "299458",
+            "airport_ref": "28118",
+            "airport_ident": "VTBS",
+            "type": "TOWER (01R/19L)",
+            "description": "",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305707",
+        "code": "TH-10",
+        "local_code": "10",
+        "name": "Bangkok Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bangkok",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94062",
+            "filename": "Suvarnabhumi_Intl_VOR-DME_TH",
+            "ident": "SVB",
+            "name": "Suvarnabhumi Intl",
+            "type": "VOR-DME",
+            "frequency_khz": "111400",
+            "latitude_deg": "13.660699844360352",
+            "longitude_deg": "100.72799682617188",
+            "elevation_ft": "5",
+            "iso_country": "TH",
+            "dme_frequency_khz": "111400",
+            "dme_channel": "051X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.354",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTBS"
+        }
+    ]
+}

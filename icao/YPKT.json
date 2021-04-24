@@ -1,0 +1,80 @@
+{
+    "id": "27110",
+    "ident": "YPKT",
+    "type": "medium_airport",
+    "name": "Port Keats Airport",
+    "latitude_deg": "-14.25",
+    "longitude_deg": "129.5290069580078",
+    "elevation_ft": "91",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YPKT",
+    "iata_code": "PKT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233518",
+            "airport_ref": "27110",
+            "airport_ident": "YPKT",
+            "length_ft": "4626",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-14.2435",
+            "le_longitude_deg": "129.528",
+            "le_elevation_ft": "",
+            "le_heading_degT": "161",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-14.2556",
+            "he_longitude_deg": "129.532",
+            "he_elevation_ft": "",
+            "he_heading_degT": "341",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49164",
+            "airport_ref": "27110",
+            "airport_ident": "YPKT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49165",
+            "airport_ref": "27110",
+            "airport_ident": "YPKT",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "118.15"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

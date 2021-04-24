@@ -1,0 +1,96 @@
+{
+    "id": "1936",
+    "ident": "CYVK",
+    "type": "medium_airport",
+    "name": "Vernon Airport",
+    "latitude_deg": "50.24810028076172",
+    "longitude_deg": "-119.33100128173828",
+    "elevation_ft": "1140",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Vernon",
+    "scheduled_service": "no",
+    "gps_code": "CYVK",
+    "iata_code": "YVE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vernon_Regional_Airport",
+    "keywords": "YVK",
+    "runways": [
+        {
+            "id": "234883",
+            "airport_ref": "1936",
+            "airport_ident": "CYVK",
+            "length_ft": "3360",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "50.2465",
+            "le_longitude_deg": "-119.337",
+            "le_elevation_ft": "",
+            "le_heading_degT": "71",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "50.2496",
+            "he_longitude_deg": "-119.324",
+            "he_elevation_ft": "",
+            "he_heading_degT": "251",
+            "he_displaced_threshold_ft": "460"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50670",
+            "airport_ref": "1936",
+            "airport_ident": "CYVK",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85120",
+            "filename": "Vernon_Bc_NDB_CA",
+            "ident": "6K",
+            "name": "Vernon Bc",
+            "type": "NDB",
+            "frequency_khz": "302",
+            "latitude_deg": "50.349998474121094",
+            "longitude_deg": "-119.26000213623047",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.537",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYVK"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "28544",
+    "ident": "EDQC",
+    "type": "small_airport",
+    "name": "Flugplatz Coburg-Brandensteinsebene",
+    "latitude_deg": "50.262501",
+    "longitude_deg": "10.995556",
+    "elevation_ft": "1490",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Coburg",
+    "scheduled_service": "no",
+    "gps_code": "EDQC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aeroclub-coburg.de",
+    "wikipedia_link": "",
+    "keywords": "Coburg, Brose, Airport, Schuhmacher Packaging,",
+    "runways": [
+        {
+            "id": "259748",
+            "airport_ref": "28544",
+            "airport_ident": "EDQC",
+            "length_ft": "2073",
+            "width_ft": "66",
+            "surface": "concrete",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "50.2644",
+            "le_longitude_deg": "10.9906",
+            "le_elevation_ft": "1486",
+            "le_heading_degT": "118",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "50.2605",
+            "he_longitude_deg": "11.001",
+            "he_elevation_ft": "1453",
+            "he_heading_degT": "298",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "317893",
+            "airport_ref": "28544",
+            "airport_ident": "EDQC",
+            "type": "INFO",
+            "description": "COBURG INFO",
+            "frequency_mhz": "128.675"
+        },
+        {
+            "id": "317895",
+            "airport_ref": "28544",
+            "airport_ident": "EDQC",
+            "type": "INFORMATION",
+            "description": "MUNICH INFORMATION",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "317894",
+            "airport_ref": "28544",
+            "airport_ident": "EDQC",
+            "type": "RADAR",
+            "description": "NUERNBERG RADAR",
+            "frequency_mhz": "129.525"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    }
+}

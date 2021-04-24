@@ -1,0 +1,102 @@
+{
+    "id": "20040",
+    "ident": "KHEE",
+    "type": "small_airport",
+    "name": "Thompson-Robbins Airport",
+    "latitude_deg": "34.576571",
+    "longitude_deg": "-90.67616",
+    "elevation_ft": "242",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Helena/West Helena",
+    "scheduled_service": "no",
+    "gps_code": "KHEE",
+    "iata_code": "HEE",
+    "local_code": "HEE",
+    "home_link": "http://www.fly.arkansas.gov/Airports/Helena/HELENA%20_%20WEST%20HELENA.pdf",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Thompson%E2%80%93Robbins_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243786",
+            "airport_ref": "20040",
+            "airport_ident": "KHEE",
+            "length_ft": "3009",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "34.5723",
+            "le_longitude_deg": "-90.6779",
+            "le_elevation_ft": "237",
+            "le_heading_degT": "90.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "34.5723",
+            "he_longitude_deg": "-90.6679",
+            "he_elevation_ft": "242",
+            "he_heading_degT": "270.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243787",
+            "airport_ref": "20040",
+            "airport_ident": "KHEE",
+            "length_ft": "5000",
+            "width_ft": "96",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "1",
+            "le_ident": "17",
+            "le_latitude_deg": "34.5859",
+            "le_longitude_deg": "-90.6776",
+            "le_elevation_ft": "240",
+            "le_heading_degT": "180.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "34.5721",
+            "he_longitude_deg": "-90.6777",
+            "he_elevation_ft": "237",
+            "he_heading_degT": "0.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66754",
+            "airport_ref": "20040",
+            "airport_ident": "KHEE",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "135.3"
+        },
+        {
+            "id": "66755",
+            "airport_ref": "20040",
+            "airport_ident": "KHEE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

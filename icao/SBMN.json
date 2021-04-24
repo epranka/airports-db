@@ -1,0 +1,112 @@
+{
+    "id": "5941",
+    "ident": "SBMN",
+    "type": "medium_airport",
+    "name": "Ponta Pelada Airport",
+    "latitude_deg": "-3.14604",
+    "longitude_deg": "-59.986301",
+    "elevation_ft": "267",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Manaus",
+    "scheduled_service": "no",
+    "gps_code": "SBMN",
+    "iata_code": "PLL",
+    "local_code": "AM9001",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ponta_Pelada_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234135",
+            "airport_ref": "5941",
+            "airport_ident": "SBMN",
+            "length_ft": "7119",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "9",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49693",
+            "airport_ref": "5941",
+            "airport_ident": "SBMN",
+            "type": "APP",
+            "description": "MANAUS APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "49694",
+            "airport_ref": "5941",
+            "airport_ident": "SBMN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.65"
+        },
+        {
+            "id": "49695",
+            "airport_ref": "5941",
+            "airport_ident": "SBMN",
+            "type": "TWR",
+            "description": "MANAUS TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303201",
+        "code": "BR-AM",
+        "local_code": "AM",
+        "name": "Amazonas",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92367",
+            "filename": "Pelada_NDB_BR",
+            "ident": "PEL",
+            "name": "Pelada",
+            "type": "NDB",
+            "frequency_khz": "410",
+            "latitude_deg": "-3.142810106277466",
+            "longitude_deg": "-59.99359893798828",
+            "elevation_ft": "474",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.17",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBMN"
+        }
+    ]
+}

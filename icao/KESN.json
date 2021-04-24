@@ -1,0 +1,118 @@
+{
+    "id": "19771",
+    "ident": "KESN",
+    "type": "small_airport",
+    "name": "Easton Airport / Newnam Field",
+    "latitude_deg": "38.804199",
+    "longitude_deg": "-76.069",
+    "elevation_ft": "72",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Easton",
+    "scheduled_service": "no",
+    "gps_code": "KESN",
+    "iata_code": "ESN",
+    "local_code": "ESN",
+    "home_link": "http://eastonairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Easton_Airport_(Maryland)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240938",
+            "airport_ref": "19771",
+            "airport_ident": "KESN",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "38.7974",
+            "le_longitude_deg": "-76.072",
+            "le_elevation_ft": "36",
+            "le_heading_degT": "30.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "38.8104",
+            "he_longitude_deg": "-76.0622",
+            "he_elevation_ft": "72",
+            "he_heading_degT": "210.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240939",
+            "airport_ref": "19771",
+            "airport_ident": "KESN",
+            "length_ft": "4003",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "38.8086",
+            "le_longitude_deg": "-76.0764",
+            "le_elevation_ft": "33",
+            "le_heading_degT": "137.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "38.8005",
+            "he_longitude_deg": "-76.0669",
+            "he_elevation_ft": "51",
+            "he_heading_degT": "317.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60812",
+            "airport_ref": "19771",
+            "airport_ident": "KESN",
+            "type": "A/D",
+            "description": "POTOMAC APP/DEP",
+            "frequency_mhz": "124.55"
+        },
+        {
+            "id": "60813",
+            "airport_ref": "19771",
+            "airport_ident": "KESN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "124.475"
+        },
+        {
+            "id": "60814",
+            "airport_ref": "19771",
+            "airport_ident": "KESN",
+            "type": "CLD",
+            "description": "POTOMAC CLNC DEL",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "60815",
+            "airport_ref": "19771",
+            "airport_ident": "KESN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306096",
+        "code": "US-MD",
+        "local_code": "MD",
+        "name": "Maryland",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
+        "keywords": ""
+    }
+}

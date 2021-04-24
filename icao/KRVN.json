@@ -1,0 +1,80 @@
+{
+    "id": "20971",
+    "ident": "KRVN",
+    "type": "small_airport",
+    "name": "Hawkins County Airport",
+    "latitude_deg": "36.45759963989258",
+    "longitude_deg": "-82.88500213623047",
+    "elevation_ft": "1255",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Rogersville",
+    "scheduled_service": "no",
+    "gps_code": "KRVN",
+    "iata_code": "",
+    "local_code": "RVN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245777",
+            "airport_ref": "20971",
+            "airport_ident": "KRVN",
+            "length_ft": "3502",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "36.4555",
+            "le_longitude_deg": "-82.8904",
+            "le_elevation_ft": "1255",
+            "le_heading_degT": "64",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "36.4597",
+            "he_longitude_deg": "-82.8797",
+            "he_elevation_ft": "1230",
+            "he_heading_degT": "244",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71046",
+            "airport_ref": "20971",
+            "airport_ident": "KRVN",
+            "type": "A/D",
+            "description": "TRI CITY APP/DEP",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "71047",
+            "airport_ref": "20971",
+            "airport_ident": "KRVN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

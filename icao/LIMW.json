@@ -1,0 +1,72 @@
+{
+    "id": "4349",
+    "ident": "LIMW",
+    "type": "medium_airport",
+    "name": "Aosta Airport",
+    "latitude_deg": "45.738499",
+    "longitude_deg": "7.36872",
+    "elevation_ft": "1791",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-23",
+    "municipality": "Aosta",
+    "scheduled_service": "yes",
+    "gps_code": "LIMW",
+    "iata_code": "AOT",
+    "local_code": "AO01",
+    "home_link": "http://www.avda-aosta.it/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Aosta_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237046",
+            "airport_ref": "4349",
+            "airport_ident": "LIMW",
+            "length_ft": "4088",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "45.7381",
+            "le_longitude_deg": "7.35992",
+            "le_elevation_ft": "1790",
+            "le_heading_degT": "85",
+            "le_displaced_threshold_ft": "213",
+            "he_ident": "27",
+            "he_latitude_deg": "45.7391",
+            "he_longitude_deg": "7.37586",
+            "he_elevation_ft": "1773",
+            "he_heading_degT": "265",
+            "he_displaced_threshold_ft": "115"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54311",
+            "airport_ref": "4349",
+            "airport_ident": "LIMW",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "119.95"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306355",
+        "code": "IT-23",
+        "local_code": "23",
+        "name": "Valle d'Aosta",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valle_d'Aosta",
+        "keywords": "VD"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "2968",
+    "ident": "FPPR",
+    "type": "medium_airport",
+    "name": "Principe Airport",
+    "latitude_deg": "1.66294",
+    "longitude_deg": "7.41174",
+    "elevation_ft": "591",
+    "continent": "AF",
+    "iso_country": "ST",
+    "iso_region": "ST-P",
+    "municipality": "São Tomé & Príncipe",
+    "scheduled_service": "yes",
+    "gps_code": "FPPR",
+    "iata_code": "PCP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pr%C3%ADncipe_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239212",
+            "airport_ref": "2968",
+            "airport_ident": "FPPR",
+            "length_ft": "4331",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "1.66872",
+            "le_longitude_deg": "7.4105",
+            "le_elevation_ft": "581",
+            "le_heading_degT": "168",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "1.65715",
+            "he_longitude_deg": "7.41298",
+            "he_elevation_ft": "591",
+            "he_heading_degT": "348",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57793",
+            "airport_ref": "2968",
+            "airport_ident": "FPPR",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302602",
+        "code": "ST",
+        "name": "São Tomé and Principe",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/São_Tomé_and_Principe",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305648",
+        "code": "ST-P",
+        "local_code": "P",
+        "name": "Principe",
+        "continent": "AF",
+        "iso_country": "ST",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Principe",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92670",
+            "filename": "Principe_NDB_ST",
+            "ident": "PR",
+            "name": "Principe",
+            "type": "NDB",
+            "frequency_khz": "311",
+            "latitude_deg": "1.6660000085830688",
+            "longitude_deg": "7.412360191345215",
+            "elevation_ft": "585",
+            "iso_country": "ST",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.455",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FPPR"
+        }
+    ]
+}

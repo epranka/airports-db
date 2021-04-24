@@ -1,0 +1,112 @@
+{
+    "id": "4733",
+    "ident": "MMMZ",
+    "type": "medium_airport",
+    "name": "General Rafael Buelna International Airport",
+    "latitude_deg": "23.1613998413",
+    "longitude_deg": "-106.26599884",
+    "elevation_ft": "38",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-SIN",
+    "municipality": "Mazatlán",
+    "scheduled_service": "yes",
+    "gps_code": "MMMZ",
+    "iata_code": "MZT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/General_Rafael_Buelna_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237733",
+            "airport_ref": "4733",
+            "airport_ident": "MMMZ",
+            "length_ft": "8858",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "23.162",
+            "le_longitude_deg": "-106.278",
+            "le_elevation_ft": "19",
+            "le_heading_degT": "93",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "23.1607",
+            "he_longitude_deg": "-106.252",
+            "he_elevation_ft": "37",
+            "he_heading_degT": "273",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55474",
+            "airport_ref": "4733",
+            "airport_ident": "MMMZ",
+            "type": "APP",
+            "description": "MAZATLAN APP",
+            "frequency_mhz": "121.2"
+        },
+        {
+            "id": "55475",
+            "airport_ref": "4733",
+            "airport_ident": "MMMZ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "55476",
+            "airport_ref": "4733",
+            "airport_ident": "MMMZ",
+            "type": "TWR",
+            "description": "MAZATLAN TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304813",
+        "code": "MX-SIN",
+        "local_code": "SIN",
+        "name": "Sinaloa",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sinaloa",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91422",
+            "filename": "Mazatlan_VOR-DME_MX",
+            "ident": "MZT",
+            "name": "Mazatlan",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "23.160499572753906",
+            "longitude_deg": "-106.27100372314453",
+            "elevation_ft": "38",
+            "iso_country": "MX",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.004",
+            "magnetic_variation_deg": "8.296",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMMZ"
+        }
+    ]
+}

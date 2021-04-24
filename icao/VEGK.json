@@ -1,0 +1,104 @@
+{
+    "id": "26500",
+    "ident": "VEGK",
+    "type": "medium_airport",
+    "name": "Gorakhpur Airport",
+    "latitude_deg": "26.739700317399997",
+    "longitude_deg": "83.4496994019",
+    "elevation_ft": "259",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-UP",
+    "municipality": "Gorakhpur",
+    "scheduled_service": "yes",
+    "gps_code": "VEGK",
+    "iata_code": "GOP",
+    "local_code": "",
+    "home_link": "http://www.aai.aero/allAirports/gorakhpur.jsp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gorakhpur_Airport",
+    "keywords": "Gorakhpur Air Force Station",
+    "runways": [
+        {
+            "id": "236752",
+            "airport_ref": "26500",
+            "airport_ident": "VEGK",
+            "length_ft": "9000",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "26.7446",
+            "le_longitude_deg": "83.437",
+            "le_elevation_ft": "",
+            "le_heading_degT": "113.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "26.7349",
+            "he_longitude_deg": "83.4624",
+            "he_elevation_ft": "",
+            "he_heading_degT": "293.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53924",
+            "airport_ref": "26500",
+            "airport_ident": "VEGK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.7"
+        },
+        {
+            "id": "53925",
+            "airport_ref": "26500",
+            "airport_ident": "VEGK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304197",
+        "code": "IN-UP",
+        "local_code": "UP",
+        "name": "Uttar Pradesh",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88392",
+            "filename": "Gorakhpur_NDB_IN",
+            "ident": "GH",
+            "name": "Gorakhpur",
+            "type": "NDB",
+            "frequency_khz": "278",
+            "latitude_deg": "26.733600616455078",
+            "longitude_deg": "83.44560241699219",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.042",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VEGK"
+        }
+    ]
+}

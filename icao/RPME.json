@@ -1,0 +1,96 @@
+{
+    "id": "5698",
+    "ident": "RPME",
+    "type": "medium_airport",
+    "name": "Bancasi Airport",
+    "latitude_deg": "8.9515",
+    "longitude_deg": "125.4788",
+    "elevation_ft": "141",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-AGN",
+    "municipality": "Butuan",
+    "scheduled_service": "yes",
+    "gps_code": "RPME",
+    "iata_code": "BXU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bancasi_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238420",
+            "airport_ref": "5698",
+            "airport_ident": "RPME",
+            "length_ft": "6450",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "8.95528",
+            "le_longitude_deg": "125.47",
+            "le_elevation_ft": "128",
+            "le_heading_degT": "117",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "8.94736",
+            "he_longitude_deg": "125.486",
+            "he_elevation_ft": "141",
+            "he_heading_degT": "297",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56475",
+            "airport_ref": "5698",
+            "airport_ident": "RPME",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305056",
+        "code": "PH-AGN",
+        "local_code": "AGN",
+        "name": "Agusan del Norte Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Agusan_del_Norte_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86190",
+            "filename": "Butuan_VOR-DME_PH",
+            "ident": "BN",
+            "name": "Butuan",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "8.955349922180176",
+            "longitude_deg": "125.48600006103516",
+            "elevation_ft": "141",
+            "iso_country": "PH",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.101",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPME"
+        }
+    ]
+}

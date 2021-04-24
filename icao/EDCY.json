@@ -1,0 +1,80 @@
+{
+    "id": "2208",
+    "ident": "EDCY",
+    "type": "small_airport",
+    "name": "Spremberg-Welzow Airport",
+    "latitude_deg": "51.575558",
+    "longitude_deg": "14.136944",
+    "elevation_ft": "375",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BR",
+    "municipality": "Welzow",
+    "scheduled_service": "no",
+    "gps_code": "EDCY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.flugplatz-welzow.de",
+    "wikipedia_link": "",
+    "keywords": "Welzow, Cottbus, Senftenberg, Beton",
+    "runways": [
+        {
+            "id": "236275",
+            "airport_ref": "2208",
+            "airport_ident": "EDCY",
+            "length_ft": "6562",
+            "width_ft": "98",
+            "surface": "CONC",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "51.5716",
+            "le_longitude_deg": "14.1306",
+            "le_elevation_ft": "375",
+            "le_heading_degT": "32",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "51.5861",
+            "he_longitude_deg": "14.1476",
+            "he_elevation_ft": "375",
+            "he_heading_degT": "212",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53169",
+            "airport_ref": "2208",
+            "airport_ident": "EDCY",
+            "type": "FIS",
+            "description": "Muenchen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "53170",
+            "airport_ref": "2208",
+            "airport_ident": "EDCY",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "134.855"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303547",
+        "code": "DE-BR",
+        "local_code": "BR",
+        "name": "Brandenburg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
+        "keywords": ""
+    }
+}

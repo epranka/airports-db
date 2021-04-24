@@ -1,0 +1,96 @@
+{
+    "id": "2057",
+    "ident": "DAAV",
+    "type": "medium_airport",
+    "name": "Jijel Ferhat Abbas Airport",
+    "latitude_deg": "36.7951011658",
+    "longitude_deg": "5.87361001968",
+    "elevation_ft": "36",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-18",
+    "municipality": "Jijel",
+    "scheduled_service": "yes",
+    "gps_code": "DAAV",
+    "iata_code": "GJL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jijel_Ferhat_Abbas_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232846",
+            "airport_ref": "2057",
+            "airport_ident": "DAAV",
+            "length_ft": "7874",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "36.8058",
+            "le_longitude_deg": "5.8715",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "171",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "36.7844",
+            "he_longitude_deg": "5.87571",
+            "he_elevation_ft": "36",
+            "he_heading_degT": "351",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48294",
+            "airport_ref": "2057",
+            "airport_ident": "DAAV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.7"
+        }
+    ],
+    "country": {
+        "id": "302568",
+        "code": "DZ",
+        "name": "Algeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Algeria",
+        "keywords": "مطارات الجزائر"
+    },
+    "region": {
+        "id": "303620",
+        "code": "DZ-18",
+        "local_code": "18",
+        "name": "Jijel Province",
+        "continent": "AF",
+        "iso_country": "DZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jijel_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89493",
+            "filename": "Jijel_VOR-DME_DZ",
+            "ident": "JIL",
+            "name": "Jijel",
+            "type": "VOR-DME",
+            "frequency_khz": "117900",
+            "latitude_deg": "36.77669906616211",
+            "longitude_deg": "5.877220153808594",
+            "elevation_ft": "49",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "117900",
+            "dme_channel": "126X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.218",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DAAV"
+        }
+    ]
+}

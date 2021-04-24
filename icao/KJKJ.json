@@ -1,0 +1,88 @@
+{
+    "id": "20215",
+    "ident": "KJKJ",
+    "type": "small_airport",
+    "name": "Moorhead Municipal Airport",
+    "latitude_deg": "46.83929825",
+    "longitude_deg": "-96.66369629",
+    "elevation_ft": "918",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Moorhead",
+    "scheduled_service": "no",
+    "gps_code": "KJKJ",
+    "iata_code": "",
+    "local_code": "JKJ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240872",
+            "airport_ref": "20215",
+            "airport_ident": "KJKJ",
+            "length_ft": "4300",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "46.8419",
+            "le_longitude_deg": "-96.6714",
+            "le_elevation_ft": "914",
+            "le_heading_degT": "116",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "46.8367",
+            "he_longitude_deg": "-96.6561",
+            "he_elevation_ft": "917",
+            "he_heading_degT": "296",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60679",
+            "airport_ref": "20215",
+            "airport_ident": "KJKJ",
+            "type": "A/D",
+            "description": "FARGO APP/DEP",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "60680",
+            "airport_ref": "20215",
+            "airport_ident": "KJKJ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "60681",
+            "airport_ref": "20215",
+            "airport_ident": "KJKJ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

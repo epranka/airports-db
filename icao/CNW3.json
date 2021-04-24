@@ -1,0 +1,80 @@
+{
+    "id": "1355",
+    "ident": "CNW3",
+    "type": "small_airport",
+    "name": "Bancroft Airport",
+    "latitude_deg": "45.07310104370117",
+    "longitude_deg": "-77.88059997558594",
+    "elevation_ft": "1085",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Bancroft",
+    "scheduled_service": "no",
+    "gps_code": "CNW3",
+    "iata_code": "",
+    "local_code": "CNW3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bancroft_Airport",
+    "keywords": "NW3, Jack Brown",
+    "runways": [
+        {
+            "id": "253074",
+            "airport_ref": "1355",
+            "airport_ident": "CNW3",
+            "length_ft": "2200",
+            "width_ft": "40",
+            "surface": "SAND/GRVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75163",
+            "airport_ref": "1355",
+            "airport_ident": "CNW3",
+            "type": "ATF",
+            "description": "Bancroft Traffic",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "75164",
+            "airport_ref": "1355",
+            "airport_ident": "CNW3",
+            "type": "UNICOM",
+            "description": "Bancroft Unicom",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": ""
+    }
+}

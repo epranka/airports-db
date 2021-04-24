@@ -1,0 +1,136 @@
+{
+    "id": "2736",
+    "ident": "ETNG",
+    "type": "medium_airport",
+    "name": "Geilenkirchen Air Base",
+    "latitude_deg": "50.9608",
+    "longitude_deg": "6.04242",
+    "elevation_ft": "296",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ETNG",
+    "iata_code": "GKE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236175",
+            "airport_ref": "2736",
+            "airport_ident": "ETNG",
+            "length_ft": "10009",
+            "width_ft": "147",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "50.961",
+            "le_longitude_deg": "6.02004",
+            "le_elevation_ft": "262",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "491",
+            "he_ident": "27",
+            "he_latitude_deg": "50.9607",
+            "he_longitude_deg": "6.06346",
+            "he_elevation_ft": "289",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": "491"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52861",
+            "airport_ref": "2736",
+            "airport_ident": "ETNG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "27.82"
+        },
+        {
+            "id": "52862",
+            "airport_ref": "2736",
+            "airport_ident": "ETNG",
+            "type": "POST",
+            "description": "MAGIC COMD POST",
+            "frequency_mhz": "139.875"
+        },
+        {
+            "id": "52864",
+            "airport_ref": "2736",
+            "airport_ident": "ETNG",
+            "type": "RDR",
+            "description": "FRISBEE RADAR",
+            "frequency_mhz": "38.54"
+        },
+        {
+            "id": "52863",
+            "airport_ref": "2736",
+            "airport_ident": "ETNG",
+            "type": "RDR",
+            "description": "FRISBEE RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "52865",
+            "airport_ref": "2736",
+            "airport_ident": "ETNG",
+            "type": "RDR",
+            "description": "LANGEN CON",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "52866",
+            "airport_ref": "2736",
+            "airport_ident": "ETNG",
+            "type": "TWR",
+            "description": "FRISBEE TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303556",
+        "code": "DE-NW",
+        "local_code": "NW",
+        "name": "North Rhine-Westphalia",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
+        "keywords": "Nordrhein-Westfalen"
+    },
+    "navaids": [
+        {
+            "id": "88419",
+            "filename": "Geilenkirchen_TACAN_DE",
+            "ident": "GIX",
+            "name": "Geilenkirchen",
+            "type": "TACAN",
+            "frequency_khz": "108100",
+            "latitude_deg": "50.96329879760742",
+            "longitude_deg": "6.045199871063232",
+            "elevation_ft": "327",
+            "iso_country": "DE",
+            "dme_frequency_khz": "108100",
+            "dme_channel": "018X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.04",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ETNG"
+        }
+    ]
+}

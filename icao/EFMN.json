@@ -1,0 +1,80 @@
+{
+    "id": "27263",
+    "ident": "EFMN",
+    "type": "small_airport",
+    "name": "Mäntsälä Airport",
+    "latitude_deg": "60.572498",
+    "longitude_deg": "25.5089",
+    "elevation_ft": "135",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-18",
+    "municipality": "Mäntsälä",
+    "scheduled_service": "no",
+    "gps_code": "EFMN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/M%C3%A4nts%C3%A4l%C3%A4_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310797",
+            "airport_ref": "27263",
+            "airport_ident": "EFMN",
+            "length_ft": "1312",
+            "width_ft": "59",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310796",
+            "airport_ref": "27263",
+            "airport_ident": "EFMN",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "132.325"
+        },
+        {
+            "id": "310795",
+            "airport_ref": "27263",
+            "airport_ident": "EFMN",
+            "type": "RDO",
+            "description": "Mäntsälä traffic",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336519",
+        "code": "FI-18",
+        "local_code": "18",
+        "name": "Uusimaa Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uusimaa",
+        "keywords": ""
+    }
+}

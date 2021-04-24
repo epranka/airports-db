@@ -1,0 +1,96 @@
+{
+    "id": "18530",
+    "ident": "K20V",
+    "type": "small_airport",
+    "name": "McElroy Airfield",
+    "latitude_deg": "40.05341",
+    "longitude_deg": "-106.369078",
+    "elevation_ft": "7411",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Kremmling",
+    "scheduled_service": "no",
+    "gps_code": "K20V",
+    "iata_code": "",
+    "local_code": "20V",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245300",
+            "airport_ref": "18530",
+            "airport_ident": "K20V",
+            "length_ft": "5540",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "40.0553",
+            "le_longitude_deg": "-106.379",
+            "le_elevation_ft": "7395",
+            "le_heading_degT": "104",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "40.0517",
+            "he_longitude_deg": "-106.36",
+            "he_elevation_ft": "7410",
+            "he_heading_degT": "284",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70000",
+            "airport_ref": "18530",
+            "airport_ident": "K20V",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "70001",
+            "airport_ref": "18530",
+            "airport_ident": "K20V",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "128.65"
+        },
+        {
+            "id": "70002",
+            "airport_ref": "18530",
+            "airport_ident": "K20V",
+            "type": "RCO",
+            "description": "DENVER RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "70003",
+            "airport_ref": "18530",
+            "airport_ident": "K20V",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

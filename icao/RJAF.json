@@ -1,0 +1,104 @@
+{
+    "id": "5532",
+    "ident": "RJAF",
+    "type": "medium_airport",
+    "name": "Shinshu-Matsumoto Airport",
+    "latitude_deg": "36.166801",
+    "longitude_deg": "137.923004",
+    "elevation_ft": "2182",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-20",
+    "municipality": "Matsumoto",
+    "scheduled_service": "yes",
+    "gps_code": "RJAF",
+    "iata_code": "MMJ",
+    "local_code": "",
+    "home_link": "http://www.matsumoto-airport.co.jp/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Matsumoto_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237176",
+            "airport_ref": "5532",
+            "airport_ident": "RJAF",
+            "length_ft": "6560",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "36.1757",
+            "le_longitude_deg": "137.921",
+            "le_elevation_ft": "2132",
+            "le_heading_degT": "171",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "36.1579",
+            "he_longitude_deg": "137.924",
+            "he_elevation_ft": "2182",
+            "he_heading_degT": "351",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54606",
+            "airport_ref": "5532",
+            "airport_ident": "RJAF",
+            "type": "ACC",
+            "description": "TOKYO CON",
+            "frequency_mhz": "132.45"
+        },
+        {
+            "id": "54607",
+            "airport_ref": "5532",
+            "airport_ident": "RJAF",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.65"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304305",
+        "code": "JP-20",
+        "local_code": "20",
+        "name": "Nagano Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nagano",
+        "keywords": "Chubu"
+    },
+    "navaids": [
+        {
+            "id": "90765",
+            "filename": "Matsumoto_VOR-DME_JP",
+            "ident": "MBE",
+            "name": "Matsumoto",
+            "type": "VOR-DME",
+            "frequency_khz": "117600",
+            "latitude_deg": "36.15599822998047",
+            "longitude_deg": "137.9199981689453",
+            "elevation_ft": "2260",
+            "iso_country": "JP",
+            "dme_frequency_khz": "117600",
+            "dme_channel": "123X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.19",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJAF"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "5136",
+    "ident": "OIAM",
+    "type": "medium_airport",
+    "name": "Mahshahr Airport",
+    "latitude_deg": "30.5562",
+    "longitude_deg": "49.151901",
+    "elevation_ft": "8",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-10",
+    "municipality": "Mahshahr",
+    "scheduled_service": "yes",
+    "gps_code": "OIAM",
+    "iata_code": "MRX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mahshahr_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236856",
+            "airport_ref": "5136",
+            "airport_ident": "OIAM",
+            "length_ft": "8874",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "30.5651",
+            "le_longitude_deg": "49.1424",
+            "le_elevation_ft": "8",
+            "le_heading_degT": "137",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "30.5473",
+            "he_longitude_deg": "49.1614",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "317",
+            "he_displaced_threshold_ft": "984"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54018",
+            "airport_ref": "5136",
+            "airport_ident": "OIAM",
+            "type": "TWR",
+            "description": "ATIS",
+            "frequency_mhz": "118.65"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304227",
+        "code": "IR-10",
+        "local_code": "10",
+        "name": "Khuzestan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Khuzestan_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90723",
+            "filename": "Mahshahr_VOR-DME_IR",
+            "ident": "MAH",
+            "name": "Mahshahr",
+            "type": "VOR-DME",
+            "frequency_khz": "115800",
+            "latitude_deg": "30.556299209594727",
+            "longitude_deg": "49.14939880371094",
+            "elevation_ft": "8",
+            "iso_country": "IR",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.001",
+            "magnetic_variation_deg": "3.042",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIAM"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "id": "5340",
+    "ident": "PABL",
+    "type": "medium_airport",
+    "name": "Buckland Airport",
+    "latitude_deg": "65.981598",
+    "longitude_deg": "-161.149002",
+    "elevation_ft": "31",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Buckland",
+    "scheduled_service": "no",
+    "gps_code": "PABL",
+    "iata_code": "BKC",
+    "local_code": "BVK",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Buckland_Airport",
+    "keywords": "7K5",
+    "runways": [
+        {
+            "id": "254135",
+            "airport_ref": "5340",
+            "airport_ident": "PABL",
+            "length_ft": "3200",
+            "width_ft": "75",
+            "surface": "GRVL-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "65.9839",
+            "le_longitude_deg": "-161.158",
+            "le_elevation_ft": "29",
+            "le_heading_degT": "122",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "65.9793",
+            "he_longitude_deg": "-161.14",
+            "he_elevation_ft": "31",
+            "he_heading_degT": "302",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58688",
+            "airport_ref": "5340",
+            "airport_ident": "PABL",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.15"
+        },
+        {
+            "id": "58689",
+            "airport_ref": "5340",
+            "airport_ident": "PABL",
+            "type": "CNTR",
+            "description": "ANCHORAGE APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "58690",
+            "airport_ref": "5340",
+            "airport_ident": "PABL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "58691",
+            "airport_ref": "5340",
+            "airport_ident": "PABL",
+            "type": "FSS",
+            "description": "KOTZEBUE RDO",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86462",
+            "filename": "Buckland_NDB-DME_US",
+            "ident": "BVK",
+            "name": "Buckland",
+            "type": "NDB-DME",
+            "frequency_khz": "325",
+            "latitude_deg": "65.97979736328125",
+            "longitude_deg": "-161.1490020751953",
+            "elevation_ft": "26",
+            "iso_country": "US",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.236",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "PABL"
+        }
+    ]
+}

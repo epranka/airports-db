@@ -1,0 +1,104 @@
+{
+    "id": "2883",
+    "ident": "FKKL",
+    "type": "medium_airport",
+    "name": "Salak Airport",
+    "latitude_deg": "10.451399803161621",
+    "longitude_deg": "14.257399559020996",
+    "elevation_ft": "1390",
+    "continent": "AF",
+    "iso_country": "CM",
+    "iso_region": "CM-EN",
+    "municipality": "Maroua",
+    "scheduled_service": "yes",
+    "gps_code": "FKKL",
+    "iata_code": "MVR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Salak_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235268",
+            "airport_ref": "2883",
+            "airport_ident": "FKKL",
+            "length_ft": "6890",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "10.4574",
+            "le_longitude_deg": "14.25",
+            "le_elevation_ft": "1390",
+            "le_heading_degT": "130",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "10.4454",
+            "he_longitude_deg": "14.2648",
+            "he_elevation_ft": "1368",
+            "he_heading_degT": "310",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51389",
+            "airport_ref": "2883",
+            "airport_ident": "FKKL",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "890.3"
+        },
+        {
+            "id": "51390",
+            "airport_ref": "2883",
+            "airport_ident": "FKKL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302565",
+        "code": "CM",
+        "name": "Cameroon",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cameroon",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303413",
+        "code": "CM-EN",
+        "local_code": "EN",
+        "name": "Far North Region",
+        "continent": "AF",
+        "iso_country": "CM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Far_North_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94385",
+            "filename": "Maroua_Salak_NDB_CM",
+            "ident": "TJL",
+            "name": "Maroua/Salak",
+            "type": "NDB",
+            "frequency_khz": "364",
+            "latitude_deg": "10.462200164794922",
+            "longitude_deg": "14.244099617004395",
+            "elevation_ft": "1440",
+            "iso_country": "CM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.265",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FKKL"
+        }
+    ]
+}

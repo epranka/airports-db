@@ -1,0 +1,112 @@
+{
+    "id": "6141",
+    "ident": "SKNV",
+    "type": "medium_airport",
+    "name": "Benito Salas Airport",
+    "latitude_deg": "2.95015",
+    "longitude_deg": "-75.294",
+    "elevation_ft": "1464",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-HUI",
+    "municipality": "Neiva",
+    "scheduled_service": "yes",
+    "gps_code": "SKNV",
+    "iata_code": "NVA",
+    "local_code": "NVA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Benito_Salas_Airport",
+    "keywords": "La Manguita",
+    "runways": [
+        {
+            "id": "235321",
+            "airport_ref": "6141",
+            "airport_ident": "SKNV",
+            "length_ft": "5880",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "2.9423",
+            "le_longitude_deg": "-75.296",
+            "le_elevation_ft": "1447",
+            "le_heading_degT": "14",
+            "le_displaced_threshold_ft": "395",
+            "he_ident": "20",
+            "he_latitude_deg": "2.95801",
+            "he_longitude_deg": "-75.292",
+            "he_elevation_ft": "1450",
+            "he_heading_degT": "194",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51479",
+            "airport_ref": "6141",
+            "airport_ident": "SKNV",
+            "type": "INFO",
+            "description": "NEIVA FIS",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "51480",
+            "airport_ref": "6141",
+            "airport_ident": "SKNV",
+            "type": "RDO",
+            "description": "NEIVA RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51481",
+            "airport_ref": "6141",
+            "airport_ident": "SKNV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.25"
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303474",
+        "code": "CO-HUI",
+        "local_code": "HUI",
+        "name": "Huila Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Huila_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91768",
+            "filename": "Neiva_VOR-DME_CO",
+            "ident": "NVA",
+            "name": "Neiva",
+            "type": "VOR-DME",
+            "frequency_khz": "115800",
+            "latitude_deg": "3.0591700077056885",
+            "longitude_deg": "-75.25309753417969",
+            "elevation_ft": "1451",
+            "iso_country": "CO",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-4.323",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKNV"
+        }
+    ]
+}

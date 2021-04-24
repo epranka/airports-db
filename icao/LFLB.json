@@ -1,0 +1,88 @@
+{
+    "id": "4131",
+    "ident": "LFLB",
+    "type": "medium_airport",
+    "name": "Chambéry-Savoie Airport",
+    "latitude_deg": "45.638099670410156",
+    "longitude_deg": "5.880229949951172",
+    "elevation_ft": "779",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Chambéry/Aix-les-Bains",
+    "scheduled_service": "yes",
+    "gps_code": "LFLB",
+    "iata_code": "CMF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chamb%C3%A9ry_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235958",
+            "airport_ref": "4131",
+            "airport_ident": "LFLB",
+            "length_ft": "6628",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "45.6471",
+            "le_longitude_deg": "5.87948",
+            "le_elevation_ft": "769",
+            "le_heading_degT": "176",
+            "le_displaced_threshold_ft": "755",
+            "he_ident": "36",
+            "he_latitude_deg": "45.629",
+            "he_longitude_deg": "5.88096",
+            "he_elevation_ft": "778",
+            "he_heading_degT": "356",
+            "he_displaced_threshold_ft": "460"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52464",
+            "airport_ref": "4131",
+            "airport_ident": "LFLB",
+            "type": "APP",
+            "description": "CHAMBERY APP",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "52465",
+            "airport_ref": "4131",
+            "airport_ident": "LFLB",
+            "type": "ATIS",
+            "description": "CHAMBERY ATIS",
+            "frequency_mhz": "124.575"
+        },
+        {
+            "id": "52466",
+            "airport_ref": "4131",
+            "airport_ident": "LFLB",
+            "type": "TWR",
+            "description": "CHAMBERY TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306351",
+        "code": "FR-ARA",
+        "local_code": "ARA",
+        "name": "Auvergne-Rhône-Alpes",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
+        "keywords": ""
+    }
+}

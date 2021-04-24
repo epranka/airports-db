@@ -1,0 +1,96 @@
+{
+    "id": "21112",
+    "ident": "KSTF",
+    "type": "small_airport",
+    "name": "George M Bryan Airport",
+    "latitude_deg": "33.43310165",
+    "longitude_deg": "-88.84860229",
+    "elevation_ft": "333",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Starkville",
+    "scheduled_service": "no",
+    "gps_code": "KSTF",
+    "iata_code": "",
+    "local_code": "STF",
+    "home_link": "http://www.oktibbehacountyms.org/?q=node/163",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/George_M._Bryan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242490",
+            "airport_ref": "21112",
+            "airport_ident": "KSTF",
+            "length_ft": "5550",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "33.4407",
+            "le_longitude_deg": "-88.8488",
+            "le_elevation_ft": "331",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "1380",
+            "he_ident": "36",
+            "he_latitude_deg": "33.4255",
+            "he_longitude_deg": "-88.8484",
+            "he_elevation_ft": "322",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64030",
+            "airport_ref": "21112",
+            "airport_ident": "KSTF",
+            "type": "A/D",
+            "description": "COLUMBUS APP/DEP",
+            "frequency_mhz": "135.6"
+        },
+        {
+            "id": "64031",
+            "airport_ref": "21112",
+            "airport_ident": "KSTF",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.975"
+        },
+        {
+            "id": "64032",
+            "airport_ref": "21112",
+            "airport_ident": "KSTF",
+            "type": "CLD",
+            "description": "COLUMBUS CLNC DEL",
+            "frequency_mhz": "126.25"
+        },
+        {
+            "id": "64033",
+            "airport_ref": "21112",
+            "airport_ident": "KSTF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    }
+}

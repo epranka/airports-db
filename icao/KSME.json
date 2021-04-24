@@ -1,0 +1,96 @@
+{
+    "id": "21085",
+    "ident": "KSME",
+    "type": "medium_airport",
+    "name": "Lake Cumberland Regional Airport",
+    "latitude_deg": "37.053398132299996",
+    "longitude_deg": "-84.6158981323",
+    "elevation_ft": "927",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Somerset",
+    "scheduled_service": "no",
+    "gps_code": "KSME",
+    "iata_code": "SME",
+    "local_code": "SME",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lake_Cumberland_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244136",
+            "airport_ref": "21085",
+            "airport_ident": "KSME",
+            "length_ft": "5800",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "37.049",
+            "le_longitude_deg": "-84.621",
+            "le_elevation_ft": "914",
+            "le_heading_degT": "43",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "37.0606",
+            "he_longitude_deg": "-84.6075",
+            "he_elevation_ft": "922",
+            "he_heading_degT": "223",
+            "he_displaced_threshold_ft": "300"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67450",
+            "airport_ref": "21085",
+            "airport_ident": "KSME",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "124.85"
+        },
+        {
+            "id": "67451",
+            "airport_ref": "21085",
+            "airport_ident": "KSME",
+            "type": "CNTR",
+            "description": "INDIANAPOLIS CNTR",
+            "frequency_mhz": "121.325"
+        },
+        {
+            "id": "67452",
+            "airport_ref": "21085",
+            "airport_ident": "KSME",
+            "type": "RDO",
+            "description": "LOUISVILLE RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "67453",
+            "airport_ref": "21085",
+            "airport_ident": "KSME",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306093",
+        "code": "US-KY",
+        "local_code": "KY",
+        "name": "Kentucky",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
+        "keywords": ""
+    }
+}

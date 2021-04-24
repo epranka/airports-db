@@ -1,0 +1,110 @@
+{
+    "id": "19624",
+    "ident": "KDEW",
+    "type": "small_airport",
+    "name": "Deer Park Airport",
+    "latitude_deg": "47.96659851",
+    "longitude_deg": "-117.427002",
+    "elevation_ft": "2211",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Deer Park",
+    "scheduled_service": "no",
+    "gps_code": "KDEW",
+    "iata_code": "",
+    "local_code": "DEW",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245180",
+            "airport_ref": "19624",
+            "airport_ident": "KDEW",
+            "length_ft": "3200",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "47.9621",
+            "le_longitude_deg": "-117.429",
+            "le_elevation_ft": "2188",
+            "le_heading_degT": "61",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "47.9664",
+            "he_longitude_deg": "-117.418",
+            "he_elevation_ft": "2183",
+            "he_heading_degT": "241",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245181",
+            "airport_ref": "19624",
+            "airport_ident": "KDEW",
+            "length_ft": "6100",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "47.9769",
+            "le_longitude_deg": "-117.431",
+            "le_elevation_ft": "2210",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "47.9602",
+            "he_longitude_deg": "-117.431",
+            "he_elevation_ft": "2185",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69752",
+            "airport_ref": "19624",
+            "airport_ident": "KDEW",
+            "type": "A/D",
+            "description": "SPOKANE APP/DEP",
+            "frequency_mhz": "123.75"
+        },
+        {
+            "id": "69753",
+            "airport_ref": "19624",
+            "airport_ident": "KDEW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.175"
+        },
+        {
+            "id": "69754",
+            "airport_ref": "19624",
+            "airport_ident": "KDEW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    }
+}

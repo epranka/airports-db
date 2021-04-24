@@ -1,0 +1,110 @@
+{
+    "id": "19863",
+    "ident": "KFFL",
+    "type": "small_airport",
+    "name": "Fairfield Municipal Airport",
+    "latitude_deg": "41.0532989502",
+    "longitude_deg": "-91.9788970947",
+    "elevation_ft": "799",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Fairfield",
+    "scheduled_service": "no",
+    "gps_code": "KFFL",
+    "iata_code": "FFL",
+    "local_code": "FFL",
+    "home_link": "http://cityoffairfieldiowa.com/index.aspx?nid=65",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fairfield_Municipal_Airport_(Iowa)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242453",
+            "airport_ref": "19863",
+            "airport_ident": "KFFL",
+            "length_ft": "2450",
+            "width_ft": "165",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "41.0533",
+            "le_longitude_deg": "-91.9869",
+            "le_elevation_ft": "791",
+            "le_heading_degT": "86",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "41.0538",
+            "he_longitude_deg": "-91.978",
+            "he_elevation_ft": "791",
+            "he_heading_degT": "266",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242454",
+            "airport_ref": "19863",
+            "airport_ident": "KFFL",
+            "length_ft": "4001",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "41.059",
+            "le_longitude_deg": "-91.9816",
+            "le_elevation_ft": "799",
+            "le_heading_degT": "179.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "41.048",
+            "he_longitude_deg": "-91.9815",
+            "he_elevation_ft": "791",
+            "he_heading_degT": "359.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63950",
+            "airport_ref": "19863",
+            "airport_ident": "KFFL",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "132.025"
+        },
+        {
+            "id": "63951",
+            "airport_ref": "19863",
+            "airport_ident": "KFFL",
+            "type": "CNTR",
+            "description": "CHICAGO CNTR",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "63952",
+            "airport_ref": "19863",
+            "airport_ident": "KFFL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

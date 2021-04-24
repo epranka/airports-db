@@ -1,0 +1,96 @@
+{
+    "id": "4148",
+    "ident": "LFLY",
+    "type": "medium_airport",
+    "name": "Lyon-Bron Airport",
+    "latitude_deg": "45.72719955444336",
+    "longitude_deg": "4.944270133972168",
+    "elevation_ft": "659",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Lyon/Bron",
+    "scheduled_service": "no",
+    "gps_code": "LFLY",
+    "iata_code": "LYN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235889",
+            "airport_ref": "4148",
+            "airport_ident": "LFLY",
+            "length_ft": "5971",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "45.735",
+            "le_longitude_deg": "4.94093",
+            "le_elevation_ft": "648",
+            "le_heading_degT": "163",
+            "le_displaced_threshold_ft": "984",
+            "he_ident": "34",
+            "he_latitude_deg": "45.7193",
+            "he_longitude_deg": "4.94761",
+            "he_elevation_ft": "658",
+            "he_heading_degT": "343",
+            "he_displaced_threshold_ft": "984"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52318",
+            "airport_ref": "4148",
+            "airport_ident": "LFLY",
+            "type": "APP",
+            "description": "LYON APP",
+            "frequency_mhz": "119.45"
+        },
+        {
+            "id": "52319",
+            "airport_ref": "4148",
+            "airport_ident": "LFLY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.125"
+        },
+        {
+            "id": "52320",
+            "airport_ref": "4148",
+            "airport_ident": "LFLY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "52321",
+            "airport_ref": "4148",
+            "airport_ident": "LFLY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306351",
+        "code": "FR-ARA",
+        "local_code": "ARA",
+        "name": "Auvergne-Rhône-Alpes",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
+        "keywords": ""
+    }
+}

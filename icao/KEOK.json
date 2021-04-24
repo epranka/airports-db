@@ -1,0 +1,110 @@
+{
+    "id": "19761",
+    "ident": "KEOK",
+    "type": "small_airport",
+    "name": "Keokuk Municipal Airport",
+    "latitude_deg": "40.459899902299995",
+    "longitude_deg": "-91.4284973145",
+    "elevation_ft": "671",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Keokuk",
+    "scheduled_service": "no",
+    "gps_code": "KEOK",
+    "iata_code": "EOK",
+    "local_code": "EOK",
+    "home_link": "http://www.cityofkeokuk.org/airport.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Keokuk_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245072",
+            "airport_ref": "19761",
+            "airport_ident": "KEOK",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "40.4596",
+            "le_longitude_deg": "-91.4361",
+            "le_elevation_ft": "668",
+            "le_heading_degT": "85.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "40.4607",
+            "he_longitude_deg": "-91.4164",
+            "he_elevation_ft": "670",
+            "he_heading_degT": "265.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245073",
+            "airport_ref": "19761",
+            "airport_ident": "KEOK",
+            "length_ft": "3576",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "40.4633",
+            "le_longitude_deg": "-91.436",
+            "le_elevation_ft": "668",
+            "le_heading_degT": "142",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "40.4556",
+            "he_longitude_deg": "-91.4281",
+            "he_elevation_ft": "666",
+            "he_heading_degT": "322",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69537",
+            "airport_ref": "19761",
+            "airport_ident": "KEOK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "69538",
+            "airport_ref": "19761",
+            "airport_ident": "KEOK",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "135.525"
+        },
+        {
+            "id": "69539",
+            "airport_ref": "19761",
+            "airport_ident": "KEOK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

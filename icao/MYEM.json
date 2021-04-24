@@ -1,0 +1,112 @@
+{
+    "id": "4942",
+    "ident": "MYEM",
+    "type": "medium_airport",
+    "name": "Governor's Harbour Airport",
+    "latitude_deg": "25.2847",
+    "longitude_deg": "-76.331001",
+    "elevation_ft": "26",
+    "continent": "NA",
+    "iso_country": "BS",
+    "iso_region": "BS-CE",
+    "municipality": "Governor's Harbour",
+    "scheduled_service": "yes",
+    "gps_code": "MYEM",
+    "iata_code": "GHB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Governor's_Harbour_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233662",
+            "airport_ref": "4942",
+            "airport_ident": "MYEM",
+            "length_ft": "8024",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "25.2937",
+            "le_longitude_deg": "-76.338",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "144.8",
+            "le_displaced_threshold_ft": "992",
+            "he_ident": "33",
+            "he_latitude_deg": "25.2757",
+            "he_longitude_deg": "-76.324",
+            "he_elevation_ft": "14",
+            "he_heading_degT": "324.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49395",
+            "airport_ref": "4942",
+            "airport_ident": "MYEM",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "49396",
+            "airport_ref": "4942",
+            "airport_ident": "MYEM",
+            "type": "APP",
+            "description": "NASSAU APP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "49397",
+            "airport_ref": "4942",
+            "airport_ident": "MYEM",
+            "type": "RDO",
+            "description": "NASSAU RDO",
+            "frequency_mhz": "118.45"
+        }
+    ],
+    "country": {
+        "id": "302728",
+        "code": "BS",
+        "name": "Bahamas",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahamas",
+        "keywords": ""
+    },
+    "region": {
+        "id": "336480",
+        "code": "BS-CE",
+        "local_code": "CE",
+        "name": "Central Eleuthera",
+        "continent": "NA",
+        "iso_country": "BS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Eleuthera",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "96021",
+            "filename": "Governors_Harbour_NDB_BS",
+            "ident": "ZGB",
+            "name": "Governors Harbour",
+            "type": "NDB",
+            "frequency_khz": "224",
+            "latitude_deg": "25.263900756835938",
+            "longitude_deg": "-76.31670379638672",
+            "elevation_ft": "11",
+            "iso_country": "BS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.572",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "MYEM"
+        }
+    ]
+}

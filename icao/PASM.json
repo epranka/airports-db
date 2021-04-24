@@ -1,0 +1,150 @@
+{
+    "id": "5409",
+    "ident": "PASM",
+    "type": "medium_airport",
+    "name": "St Mary's Airport",
+    "latitude_deg": "62.0605011",
+    "longitude_deg": "-163.302002",
+    "elevation_ft": "312",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "St Mary's",
+    "scheduled_service": "no",
+    "gps_code": "PASM",
+    "iata_code": "KSM",
+    "local_code": "KSM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/St._Mary's_Airport_(Alaska)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239705",
+            "airport_ref": "5409",
+            "airport_ident": "PASM",
+            "length_ft": "1900",
+            "width_ft": "60",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "62.0531",
+            "le_longitude_deg": "-163.312",
+            "le_elevation_ft": "311",
+            "le_heading_degT": "77.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "62.0542",
+            "he_longitude_deg": "-163.301",
+            "he_elevation_ft": "301",
+            "he_heading_degT": "257.4",
+            "he_displaced_threshold_ft": "375"
+        },
+        {
+            "id": "239706",
+            "airport_ref": "5409",
+            "airport_ident": "PASM",
+            "length_ft": "6003",
+            "width_ft": "150",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "62.0709",
+            "le_longitude_deg": "-163.3",
+            "le_elevation_ft": "282",
+            "le_heading_degT": "182.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "62.0545",
+            "he_longitude_deg": "-163.301",
+            "he_elevation_ft": "303",
+            "he_heading_degT": "2.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58799",
+            "airport_ref": "5409",
+            "airport_ident": "PASM",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "58800",
+            "airport_ref": "5409",
+            "airport_ident": "PASM",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "58801",
+            "airport_ref": "5409",
+            "airport_ident": "PASM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "58802",
+            "airport_ref": "5409",
+            "airport_ident": "PASM",
+            "type": "FSS",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "58803",
+            "airport_ref": "5409",
+            "airport_ident": "PASM",
+            "type": "MISC",
+            "description": "TWEB",
+            "frequency_mhz": "23"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93771",
+            "filename": "Saint_Marys_NDB_US",
+            "ident": "SMA",
+            "name": "Saint Marys",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "62.05839920043945",
+            "longitude_deg": "-163.29200744628906",
+            "elevation_ft": "311",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.188",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PASM"
+        }
+    ]
+}

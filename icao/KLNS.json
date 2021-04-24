@@ -1,0 +1,166 @@
+{
+    "id": "3648",
+    "ident": "KLNS",
+    "type": "medium_airport",
+    "name": "Lancaster Airport",
+    "latitude_deg": "40.121700286865234",
+    "longitude_deg": "-76.29609680175781",
+    "elevation_ft": "403",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Lancaster",
+    "scheduled_service": "yes",
+    "gps_code": "KLNS",
+    "iata_code": "LNS",
+    "local_code": "LNS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lancaster_Airport_(Pennsylvania)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245503",
+            "airport_ref": "3648",
+            "airport_ident": "KLNS",
+            "length_ft": "6934",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "40.1199",
+            "le_longitude_deg": "-76.3041",
+            "le_elevation_ft": "397",
+            "le_heading_degT": "68",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "26",
+            "he_latitude_deg": "40.1271",
+            "he_longitude_deg": "-76.2811",
+            "he_elevation_ft": "376",
+            "he_heading_degT": "248",
+            "he_displaced_threshold_ft": "459"
+        },
+        {
+            "id": "245504",
+            "airport_ref": "3648",
+            "airport_ident": "KLNS",
+            "length_ft": "4102",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "40.1232",
+            "le_longitude_deg": "-76.3038",
+            "le_elevation_ft": "394",
+            "le_heading_degT": "119.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "40.1177",
+            "he_longitude_deg": "-76.291",
+            "he_elevation_ft": "400",
+            "he_heading_degT": "299.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70463",
+            "airport_ref": "3648",
+            "airport_ident": "KLNS",
+            "type": "A/D",
+            "description": "HARRISBURG APP/DEP",
+            "frequency_mhz": "126.45"
+        },
+        {
+            "id": "70464",
+            "airport_ref": "3648",
+            "airport_ident": "KLNS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.675"
+        },
+        {
+            "id": "70465",
+            "airport_ref": "3648",
+            "airport_ident": "KLNS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "70466",
+            "airport_ref": "3648",
+            "airport_ident": "KLNS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "70467",
+            "airport_ref": "3648",
+            "airport_ident": "KLNS",
+            "type": "RDO",
+            "description": "WILLIAMSPORT RDO",
+            "frequency_mhz": "117.3"
+        },
+        {
+            "id": "70468",
+            "airport_ref": "3648",
+            "airport_ident": "KLNS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "70469",
+            "airport_ref": "3648",
+            "airport_ident": "KLNS",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90533",
+            "filename": "Lancaster_VORTAC_US",
+            "ident": "LRP",
+            "name": "Lancaster",
+            "type": "VORTAC",
+            "frequency_khz": "117300",
+            "latitude_deg": "40.119998931884766",
+            "longitude_deg": "-76.29129791259766",
+            "elevation_ft": "400",
+            "iso_country": "US",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-9.002",
+            "magnetic_variation_deg": "-11.331",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KLNS"
+        }
+    ]
+}

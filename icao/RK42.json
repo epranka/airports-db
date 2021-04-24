@@ -1,0 +1,80 @@
+{
+    "id": "3824",
+    "ident": "RK42",
+    "type": "small_airport",
+    "name": "G 311 Airport",
+    "latitude_deg": "38.055851",
+    "longitude_deg": "127.797384",
+    "elevation_ft": "590",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-42",
+    "municipality": "Gandong-myeon",
+    "scheduled_service": "no",
+    "gps_code": "RK42",
+    "iata_code": "",
+    "local_code": "RK42",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237363",
+            "airport_ref": "3824",
+            "airport_ident": "RK42",
+            "length_ft": "1410",
+            "width_ft": "42",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "38.0511",
+            "le_longitude_deg": "127.796",
+            "le_elevation_ft": "",
+            "le_heading_degT": "71.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "38.0522",
+            "he_longitude_deg": "127.8",
+            "he_elevation_ft": "",
+            "he_heading_degT": "251.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55083",
+            "airport_ref": "3824",
+            "airport_ident": "RK42",
+            "type": "ACC",
+            "description": "FCC LEE",
+            "frequency_mhz": "32.3"
+        },
+        {
+            "id": "55084",
+            "airport_ref": "3824",
+            "airport_ident": "RK42",
+            "type": "TWR",
+            "description": "CHUN CHEON TWR",
+            "frequency_mhz": "36.7"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304408",
+        "code": "KR-42",
+        "local_code": "42",
+        "name": "Gang'weondo",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gang'weondo",
+        "keywords": ""
+    }
+}

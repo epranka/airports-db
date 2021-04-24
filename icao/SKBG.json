@@ -1,0 +1,142 @@
+{
+    "id": "6102",
+    "ident": "SKBG",
+    "type": "medium_airport",
+    "name": "Palonegro Airport",
+    "latitude_deg": "7.1265",
+    "longitude_deg": "-73.1848",
+    "elevation_ft": "3897",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-SAN",
+    "municipality": "Bucaramanga",
+    "scheduled_service": "yes",
+    "gps_code": "SKBG",
+    "iata_code": "BGA",
+    "local_code": "BGA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Palo_Negro_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235297",
+            "airport_ref": "6102",
+            "airport_ident": "SKBG",
+            "length_ft": "7381",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "7.13606",
+            "le_longitude_deg": "-73.1884",
+            "le_elevation_ft": "3902",
+            "le_heading_degT": "159",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "7.11694",
+            "he_longitude_deg": "-73.1811",
+            "he_elevation_ft": "3851",
+            "he_heading_degT": "339",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51424",
+            "airport_ref": "6102",
+            "airport_ident": "SKBG",
+            "type": "A/G",
+            "description": "BUCARAMANGA RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51425",
+            "airport_ref": "6102",
+            "airport_ident": "SKBG",
+            "type": "APP",
+            "description": "BUCARAMANGA APP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "51426",
+            "airport_ref": "6102",
+            "airport_ident": "SKBG",
+            "type": "RDO",
+            "description": "FIS",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "51427",
+            "airport_ref": "6102",
+            "airport_ident": "SKBG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303483",
+        "code": "CO-SAN",
+        "local_code": "SAN",
+        "name": "Santander Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santander_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85979",
+            "filename": "Bucaramanga_VOR-DME_CO",
+            "ident": "BGA",
+            "name": "Bucaramanga",
+            "type": "VOR-DME",
+            "frequency_khz": "113500",
+            "latitude_deg": "7.1315598487854",
+            "longitude_deg": "-73.18440246582031",
+            "elevation_ft": "3958",
+            "iso_country": "CO",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-6.399",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKBG"
+        },
+        {
+            "id": "92440",
+            "filename": "Piedecuesta_NDB_CO",
+            "ident": "PIE",
+            "name": "Piedecuesta",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "6.87755012512207",
+            "longitude_deg": "-73.08979797363281",
+            "elevation_ft": "3890",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.412",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SKBG"
+        }
+    ]
+}

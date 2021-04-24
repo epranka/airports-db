@@ -1,0 +1,128 @@
+{
+    "id": "4757",
+    "ident": "MMTJ",
+    "type": "large_airport",
+    "name": "General Abelardo L. Rodríguez International Airport",
+    "latitude_deg": "32.541099548339844",
+    "longitude_deg": "-116.97000122070312",
+    "elevation_ft": "489",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-BCN",
+    "municipality": "Tijuana",
+    "scheduled_service": "yes",
+    "gps_code": "MMTJ",
+    "iata_code": "TIJ",
+    "local_code": "",
+    "home_link": "http://aeropuertosgap.com.mx/english/airports/tijuana-airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/General_Abelardo_L._Rodr%C3%ADguez_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237700",
+            "airport_ref": "4757",
+            "airport_ident": "MMTJ",
+            "length_ft": "9711",
+            "width_ft": "144",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "32.5431",
+            "le_longitude_deg": "-116.986",
+            "le_elevation_ft": "487",
+            "le_heading_degT": "99",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "32.539",
+            "he_longitude_deg": "-116.955",
+            "he_elevation_ft": "487",
+            "he_heading_degT": "279",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55442",
+            "airport_ref": "4757",
+            "airport_ident": "MMTJ",
+            "type": "APP",
+            "description": "TIJUANA APP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "55443",
+            "airport_ref": "4757",
+            "airport_ident": "MMTJ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "55444",
+            "airport_ref": "4757",
+            "airport_ident": "MMTJ",
+            "type": "CLD",
+            "description": "TIJUANA CLNC DEL",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "55445",
+            "airport_ref": "4757",
+            "airport_ident": "MMTJ",
+            "type": "MISC",
+            "description": "TIJUANA INFO",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "55446",
+            "airport_ref": "4757",
+            "airport_ident": "MMTJ",
+            "type": "TWR",
+            "description": "TIJUANA TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304791",
+        "code": "MX-BCN",
+        "local_code": "BCN",
+        "name": "Baja California",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94365",
+            "filename": "Tijuana_VOR-DME_MX",
+            "ident": "TIJ",
+            "name": "Tijuana",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "32.540401458740234",
+            "longitude_deg": "-116.9530029296875",
+            "elevation_ft": "489",
+            "iso_country": "MX",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.004",
+            "magnetic_variation_deg": "12.319",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMTJ"
+        }
+    ]
+}

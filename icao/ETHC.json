@@ -1,0 +1,120 @@
+{
+    "id": "2722",
+    "ident": "ETHC",
+    "type": "medium_airport",
+    "name": "Celle Army Airfield",
+    "latitude_deg": "52.591202",
+    "longitude_deg": "10.0221",
+    "elevation_ft": "129",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ETHC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236264",
+            "airport_ref": "2722",
+            "airport_ident": "ETHC",
+            "length_ft": "6007",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "52.5899",
+            "le_longitude_deg": "10.0088",
+            "le_elevation_ft": "127",
+            "le_heading_degT": "81",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "52.5925",
+            "he_longitude_deg": "10.0355",
+            "he_elevation_ft": "129",
+            "he_heading_degT": "261",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53136",
+            "airport_ref": "2722",
+            "airport_ident": "ETHC",
+            "type": "A/D",
+            "description": "RADAR",
+            "frequency_mhz": "130.5"
+        },
+        {
+            "id": "53137",
+            "airport_ref": "2722",
+            "airport_ident": "ETHC",
+            "type": "A/G",
+            "description": "A/G RDO",
+            "frequency_mhz": "40.6"
+        },
+        {
+            "id": "53138",
+            "airport_ref": "2722",
+            "airport_ident": "ETHC",
+            "type": "ACC",
+            "description": "BREMEN CON",
+            "frequency_mhz": "131.325"
+        },
+        {
+            "id": "53139",
+            "airport_ref": "2722",
+            "airport_ident": "ETHC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "40.6"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303555",
+        "code": "DE-NI",
+        "local_code": "NI",
+        "name": "Lower Saxony",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
+        "keywords": "Niedersachsen"
+    },
+    "navaids": [
+        {
+            "id": "86686",
+            "filename": "Celle_NDB_DE",
+            "ident": "CEL",
+            "name": "Celle",
+            "type": "NDB",
+            "frequency_khz": "311",
+            "latitude_deg": "52.589698791503906",
+            "longitude_deg": "10.029500007629395",
+            "elevation_ft": "173",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.08",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "ETHC"
+        }
+    ]
+}

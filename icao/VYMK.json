@@ -1,0 +1,104 @@
+{
+    "id": "26729",
+    "ident": "VYMK",
+    "type": "medium_airport",
+    "name": "Myitkyina Airport",
+    "latitude_deg": "25.38360023498535",
+    "longitude_deg": "97.35189819335938",
+    "elevation_ft": "475",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-11",
+    "municipality": "Myitkyina",
+    "scheduled_service": "yes",
+    "gps_code": "VYMK",
+    "iata_code": "MYT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mtwara_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233732",
+            "airport_ref": "26729",
+            "airport_ident": "VYMK",
+            "length_ft": "6100",
+            "width_ft": "100",
+            "surface": "BIT",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "25.3768",
+            "le_longitude_deg": "97.3465",
+            "le_elevation_ft": "",
+            "le_heading_degT": "38.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "25.3904",
+            "he_longitude_deg": "97.3582",
+            "he_elevation_ft": "",
+            "he_heading_degT": "218.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49519",
+            "airport_ref": "26729",
+            "airport_ident": "VYMK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "49520",
+            "airport_ref": "26729",
+            "airport_ident": "VYMK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302649",
+        "code": "MM",
+        "name": "Burma",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
+        "keywords": "Myanmar"
+    },
+    "region": {
+        "id": "304673",
+        "code": "MM-11",
+        "local_code": "11",
+        "name": "Kachin State",
+        "continent": "AS",
+        "iso_country": "MM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kachin_State",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91000",
+            "filename": "Myitkyina_NDB_MM",
+            "ident": "MK",
+            "name": "Myitkyina",
+            "type": "NDB",
+            "frequency_khz": "275",
+            "latitude_deg": "25.387399673461914",
+            "longitude_deg": "97.356201171875",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.443",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VYMK"
+        }
+    ]
+}

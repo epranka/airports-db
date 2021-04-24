@@ -1,0 +1,102 @@
+{
+    "id": "1312",
+    "ident": "CNJ4",
+    "type": "small_airport",
+    "name": "Orillia-RAMA Regional Airport",
+    "latitude_deg": "44.677656",
+    "longitude_deg": "-79.310217",
+    "elevation_ft": "725",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Orillia",
+    "scheduled_service": "no",
+    "gps_code": "CNJ4",
+    "iata_code": "",
+    "local_code": "CNJ4",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Orillia_Airport",
+    "keywords": "NJ4",
+    "runways": [
+        {
+            "id": "253846",
+            "airport_ref": "1312",
+            "airport_ident": "CNJ4",
+            "length_ft": "1900",
+            "width_ft": "100",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "253847",
+            "airport_ref": "1312",
+            "airport_ident": "CNJ4",
+            "length_ft": "3000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "332482",
+            "airport_ref": "1312",
+            "airport_ident": "CNJ4",
+            "type": "ATF",
+            "description": "Orillia Traffic",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "332483",
+            "airport_ref": "1312",
+            "airport_ident": "CNJ4",
+            "type": "UNICOM",
+            "description": "Orillia UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": ""
+    }
+}

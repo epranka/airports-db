@@ -1,0 +1,80 @@
+{
+    "id": "5513",
+    "ident": "RCFG",
+    "type": "medium_airport",
+    "name": "Matsu Nangan Airport",
+    "latitude_deg": "26.1598",
+    "longitude_deg": "119.958",
+    "elevation_ft": "232",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-X-LK",
+    "municipality": "Matsu (Nangan)",
+    "scheduled_service": "yes",
+    "gps_code": "RCFG",
+    "iata_code": "LZN",
+    "local_code": "",
+    "home_link": "http://www.tsa.gov.tw/tsaLZN/zh/home.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Matsu_Nangan_Airport",
+    "keywords": "Matsu Islands",
+    "runways": [
+        {
+            "id": "239313",
+            "airport_ref": "5513",
+            "airport_ident": "RCFG",
+            "length_ft": "5180",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "26.1534",
+            "le_longitude_deg": "119.955",
+            "le_elevation_ft": "221",
+            "le_heading_degT": "26.2",
+            "le_displaced_threshold_ft": "394",
+            "he_ident": "21",
+            "he_latitude_deg": "26.1662",
+            "he_longitude_deg": "119.962",
+            "he_elevation_ft": "218",
+            "he_heading_degT": "206.2",
+            "he_displaced_threshold_ft": "394"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57995",
+            "airport_ref": "5513",
+            "airport_ident": "RCFG",
+            "type": "TCA",
+            "description": "TAIPEI CON",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "57996",
+            "airport_ref": "5513",
+            "airport_ident": "RCFG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.55"
+        }
+    ],
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306753",
+        "code": "TW-X-LK",
+        "local_code": "X-LK",
+        "name": "Lienchiang County",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Matsu_Islands",
+        "keywords": "Matsu Islands"
+    }
+}

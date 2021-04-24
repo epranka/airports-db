@@ -1,0 +1,118 @@
+{
+    "id": "1997",
+    "ident": "CYZR",
+    "type": "medium_airport",
+    "name": "Chris Hadfield Airport",
+    "latitude_deg": "42.9994010925293",
+    "longitude_deg": "-82.30889892578125",
+    "elevation_ft": "594",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Sarnia",
+    "scheduled_service": "yes",
+    "gps_code": "CYZR",
+    "iata_code": "YZR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sarnia_(Chris_Hadfield)_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234564",
+            "airport_ref": "1997",
+            "airport_ident": "CYZR",
+            "length_ft": "2989",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "42.9967",
+            "le_longitude_deg": "-82.3111",
+            "le_elevation_ft": "591",
+            "le_heading_degT": "49.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "43.0019",
+            "he_longitude_deg": "-82.3028",
+            "he_elevation_ft": "590",
+            "he_heading_degT": "229.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "234565",
+            "airport_ref": "1997",
+            "airport_ident": "CYZR",
+            "length_ft": "5100",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "43.0044",
+            "le_longitude_deg": "-82.3153",
+            "le_elevation_ft": "590",
+            "le_heading_degT": "137",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "42.9942",
+            "he_longitude_deg": "-82.3022",
+            "he_elevation_ft": "594",
+            "he_heading_degT": "317",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50065",
+            "airport_ref": "1997",
+            "airport_ident": "CYZR",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123"
+        },
+        {
+            "id": "50063",
+            "airport_ref": "1997",
+            "airport_ident": "CYZR",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "50064",
+            "airport_ref": "1997",
+            "airport_ident": "CYZR",
+            "type": "CNTR",
+            "description": "TORONTO CNTR",
+            "frequency_mhz": "134.375"
+        },
+        {
+            "id": "50066",
+            "airport_ref": "1997",
+            "airport_ident": "CYZR",
+            "type": "RDO",
+            "description": "LONDON RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": ""
+    }
+}

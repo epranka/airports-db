@@ -1,0 +1,102 @@
+{
+    "id": "20294",
+    "ident": "KL32",
+    "type": "small_airport",
+    "name": "Jonesville Airport",
+    "latitude_deg": "31.625299453735",
+    "longitude_deg": "-91.829200744629",
+    "elevation_ft": "56",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Jonesville",
+    "scheduled_service": "no",
+    "gps_code": "L32",
+    "iata_code": "",
+    "local_code": "L32",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LA18",
+    "runways": [
+        {
+            "id": "241151",
+            "airport_ref": "20294",
+            "airport_ident": "KL32",
+            "length_ft": "3000",
+            "width_ft": "75",
+            "surface": "ASPH-E",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241152",
+            "airport_ref": "20294",
+            "airport_ident": "KL32",
+            "length_ft": "2200",
+            "width_ft": "120",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "14",
+            "le_latitude_deg": "31.6328",
+            "le_longitude_deg": "-91.8294",
+            "le_elevation_ft": "",
+            "le_heading_degT": "137.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "31.6283",
+            "he_longitude_deg": "-91.8247",
+            "he_elevation_ft": "",
+            "he_heading_degT": "317.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61254",
+            "airport_ref": "20294",
+            "airport_ident": "KL32",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "61255",
+            "airport_ref": "20294",
+            "airport_ident": "KL32",
+            "type": "FSS",
+            "description": "DE RIDDER RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

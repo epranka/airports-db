@@ -1,0 +1,110 @@
+{
+    "id": "21360",
+    "ident": "KW78",
+    "type": "small_airport",
+    "name": "William M Tuck Airport",
+    "latitude_deg": "36.7099990845",
+    "longitude_deg": "-78.84799957279999",
+    "elevation_ft": "420",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "South Boston",
+    "scheduled_service": "no",
+    "gps_code": "KW78",
+    "iata_code": "",
+    "local_code": "W78",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "JXY",
+    "runways": [
+        {
+            "id": "242664",
+            "airport_ref": "21360",
+            "airport_ident": "KW78",
+            "length_ft": "4011",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "36.7045",
+            "le_longitude_deg": "-78.8476",
+            "le_elevation_ft": "382",
+            "le_heading_degT": "357",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "36.7155",
+            "he_longitude_deg": "-78.8484",
+            "he_elevation_ft": "419",
+            "he_heading_degT": "177",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242665",
+            "airport_ref": "21360",
+            "airport_ident": "KW78",
+            "length_ft": "2700",
+            "width_ft": "200",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "36.706",
+            "le_longitude_deg": "-78.8522",
+            "le_elevation_ft": "371",
+            "le_heading_degT": "50",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "23",
+            "he_latitude_deg": "36.7107",
+            "he_longitude_deg": "-78.8453",
+            "he_elevation_ft": "382",
+            "he_heading_degT": "230",
+            "he_displaced_threshold_ft": "400"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64381",
+            "airport_ref": "21360",
+            "airport_ident": "KW78",
+            "type": "CNTR",
+            "description": "WASHINGTON CNTR",
+            "frequency_mhz": "124.05"
+        },
+        {
+            "id": "64382",
+            "airport_ref": "21360",
+            "airport_ident": "KW78",
+            "type": "RDO",
+            "description": "LEESBURG RDO",
+            "frequency_mhz": "110.4"
+        },
+        {
+            "id": "64383",
+            "airport_ref": "21360",
+            "airport_ident": "KW78",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    }
+}

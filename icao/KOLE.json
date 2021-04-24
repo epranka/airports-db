@@ -1,0 +1,102 @@
+{
+    "id": "20738",
+    "ident": "KOLE",
+    "type": "small_airport",
+    "name": "Cattaraugus County-Olean Airport",
+    "latitude_deg": "42.24119949",
+    "longitude_deg": "-78.37139893",
+    "elevation_ft": "2135",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Olean",
+    "scheduled_service": "no",
+    "gps_code": "KOLE",
+    "iata_code": "",
+    "local_code": "OLE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245137",
+            "airport_ref": "20738",
+            "airport_ident": "KOLE",
+            "length_ft": "4800",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "42.2347",
+            "le_longitude_deg": "-78.3763",
+            "le_elevation_ft": "2131",
+            "le_heading_degT": "32",
+            "le_displaced_threshold_ft": "100",
+            "he_ident": "22",
+            "he_latitude_deg": "42.2459",
+            "he_longitude_deg": "-78.3669",
+            "he_elevation_ft": "2114",
+            "he_heading_degT": "212",
+            "he_displaced_threshold_ft": "200"
+        },
+        {
+            "id": "245138",
+            "airport_ref": "20738",
+            "airport_ident": "KOLE",
+            "length_ft": "2117",
+            "width_ft": "105",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "42.2457",
+            "le_longitude_deg": "-78.3729",
+            "le_elevation_ft": "2135",
+            "le_heading_degT": "148",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "42.2408",
+            "he_longitude_deg": "-78.3687",
+            "he_elevation_ft": "2114",
+            "he_heading_degT": "328",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69655",
+            "airport_ref": "20738",
+            "airport_ident": "KOLE",
+            "type": "CNTR",
+            "description": "CLEVELAND CNTR",
+            "frequency_mhz": "124.325"
+        },
+        {
+            "id": "69656",
+            "airport_ref": "20738",
+            "airport_ident": "KOLE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "4219",
+    "ident": "LFRO",
+    "type": "medium_airport",
+    "name": "Lannion-Côte de Granit Airport",
+    "latitude_deg": "48.754398",
+    "longitude_deg": "-3.47166",
+    "elevation_ft": "290",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-BRE",
+    "municipality": "Lannion",
+    "scheduled_service": "yes",
+    "gps_code": "LFRO",
+    "iata_code": "LAI",
+    "local_code": "",
+    "home_link": "http://www.lannion.aeroport.fr",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lannion_%E2%80%93_C%C3%B4te_de_Granit_Airport",
+    "keywords": "Servel Airport",
+    "runways": [
+        {
+            "id": "236039",
+            "airport_ref": "4219",
+            "airport_ident": "LFRO",
+            "length_ft": "5577",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "48.7566",
+            "le_longitude_deg": "-3.48271",
+            "le_elevation_ft": "277",
+            "le_heading_degT": "107.1",
+            "le_displaced_threshold_ft": "754",
+            "he_ident": "29",
+            "he_latitude_deg": "48.752",
+            "he_longitude_deg": "-3.46077",
+            "he_elevation_ft": "285",
+            "he_heading_degT": "287.1",
+            "he_displaced_threshold_ft": "590"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52606",
+            "airport_ref": "4219",
+            "airport_ident": "LFRO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306348",
+        "code": "FR-BRE",
+        "local_code": "BRE",
+        "name": "Brittany",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
+        "keywords": "Bretagne"
+    },
+    "navaids": [
+        {
+            "id": "90430",
+            "filename": "Lannion_NDB_FR",
+            "ident": "LN",
+            "name": "Lannion",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "48.71929931640625",
+            "longitude_deg": "-3.3077800273895264",
+            "elevation_ft": "297",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.018",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LFRO"
+        }
+    ]
+}

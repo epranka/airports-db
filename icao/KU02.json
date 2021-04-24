@@ -1,0 +1,80 @@
+{
+    "id": "21246",
+    "ident": "KU02",
+    "type": "small_airport",
+    "name": "Mccarley Field",
+    "latitude_deg": "43.20930099487305",
+    "longitude_deg": "-112.3499984741211",
+    "elevation_ft": "4488",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Blackfoot",
+    "scheduled_service": "no",
+    "gps_code": "KU02",
+    "iata_code": "",
+    "local_code": "U02",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244027",
+            "airport_ref": "21246",
+            "airport_ident": "KU02",
+            "length_ft": "4314",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "43.2038",
+            "le_longitude_deg": "-112.353",
+            "le_elevation_ft": "4481",
+            "le_heading_degT": "24",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "43.2147",
+            "he_longitude_deg": "-112.346",
+            "he_elevation_ft": "4488",
+            "he_heading_degT": "204",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67239",
+            "airport_ref": "21246",
+            "airport_ident": "KU02",
+            "type": "CNTR",
+            "description": "SALT LAKE CITY CNTR",
+            "frequency_mhz": "128.35"
+        },
+        {
+            "id": "67240",
+            "airport_ref": "21246",
+            "airport_ident": "KU02",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "18683",
+    "ident": "K3E0",
+    "type": "small_airport",
+    "name": "Miami Roberts County Airport",
+    "latitude_deg": "35.71390151977539",
+    "longitude_deg": "-100.60299682617188",
+    "elevation_ft": "2720",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Miami",
+    "scheduled_service": "no",
+    "gps_code": "K3E0",
+    "iata_code": "",
+    "local_code": "3E0",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242433",
+            "airport_ref": "18683",
+            "airport_ident": "K3E0",
+            "length_ft": "4060",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "35.7092",
+            "le_longitude_deg": "-100.607",
+            "le_elevation_ft": "2720",
+            "le_heading_degT": "34",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "35.7183",
+            "he_longitude_deg": "-100.599",
+            "he_elevation_ft": "2716",
+            "he_heading_degT": "214",
+            "he_displaced_threshold_ft": "390"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63915",
+            "airport_ref": "18683",
+            "airport_ident": "K3E0",
+            "type": "CNTR",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "63916",
+            "airport_ref": "18683",
+            "airport_ident": "K3E0",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

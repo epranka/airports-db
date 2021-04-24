@@ -1,0 +1,96 @@
+{
+    "id": "4525",
+    "ident": "LTAW",
+    "type": "medium_airport",
+    "name": "Tokat Airport",
+    "latitude_deg": "40.307430267333984",
+    "longitude_deg": "36.367408752441406",
+    "elevation_ft": "1831",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-60",
+    "municipality": "Tokat",
+    "scheduled_service": "yes",
+    "gps_code": "LTAW",
+    "iata_code": "TJK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tokat_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239277",
+            "airport_ref": "4525",
+            "airport_ident": "LTAW",
+            "length_ft": "5298",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "40.3015",
+            "le_longitude_deg": "36.3639",
+            "le_elevation_ft": "",
+            "le_heading_degT": "49",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "40.311",
+            "he_longitude_deg": "36.3783",
+            "he_elevation_ft": "",
+            "he_heading_degT": "229",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57916",
+            "airport_ref": "4525",
+            "airport_ident": "LTAW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305895",
+        "code": "TR-60",
+        "local_code": "60",
+        "name": "Tokat Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tokat_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94413",
+            "filename": "Tokat_NDB-DME_TR",
+            "ident": "TKT",
+            "name": "Tokat",
+            "type": "NDB-DME",
+            "frequency_khz": "403",
+            "latitude_deg": "40.30580139160156",
+            "longitude_deg": "36.36690139770508",
+            "elevation_ft": "1831",
+            "iso_country": "TR",
+            "dme_frequency_khz": "115000",
+            "dme_channel": "097X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.546",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTAW"
+        }
+    ]
+}

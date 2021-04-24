@@ -1,0 +1,160 @@
+{
+    "id": "3522",
+    "ident": "KEYW",
+    "type": "large_airport",
+    "name": "Key West International Airport",
+    "latitude_deg": "24.556101",
+    "longitude_deg": "-81.759598",
+    "elevation_ft": "3",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Key West",
+    "scheduled_service": "yes",
+    "gps_code": "KEYW",
+    "iata_code": "EYW",
+    "local_code": "EYW",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Key_West_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245923",
+            "airport_ref": "3522",
+            "airport_ident": "KEYW",
+            "length_ft": "4801",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "24.5561",
+            "le_longitude_deg": "-81.7668",
+            "le_elevation_ft": "3",
+            "le_heading_degT": "89",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "24.5562",
+            "he_longitude_deg": "-81.7523",
+            "he_elevation_ft": "3",
+            "he_heading_degT": "269",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71355",
+            "airport_ref": "3522",
+            "airport_ident": "KEYW",
+            "type": "A/D",
+            "description": "NAVY KEY WEST",
+            "frequency_mhz": "124.45"
+        },
+        {
+            "id": "71356",
+            "airport_ref": "3522",
+            "airport_ident": "KEYW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "71357",
+            "airport_ref": "3522",
+            "airport_ident": "KEYW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.675"
+        },
+        {
+            "id": "71358",
+            "airport_ref": "3522",
+            "airport_ident": "KEYW",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71359",
+            "airport_ref": "3522",
+            "airport_ident": "KEYW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "71360",
+            "airport_ref": "3522",
+            "airport_ident": "KEYW",
+            "type": "FSS",
+            "description": "MIAMI RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "71361",
+            "airport_ref": "3522",
+            "airport_ident": "KEYW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71362",
+            "airport_ref": "3522",
+            "airport_ident": "KEYW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "71363",
+            "airport_ref": "3522",
+            "airport_ident": "KEYW",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88005",
+            "filename": "Fish_Hook_NDB_US",
+            "ident": "FIS",
+            "name": "Fish Hook",
+            "type": "NDB",
+            "frequency_khz": "332",
+            "latitude_deg": "24.54829978942871",
+            "longitude_deg": "-81.7863998413086",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.142",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KEYW"
+        }
+    ]
+}

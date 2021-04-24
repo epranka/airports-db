@@ -1,0 +1,110 @@
+{
+    "id": "20713",
+    "ident": "KOCH",
+    "type": "small_airport",
+    "name": "A L Mangham Jr. Regional Airport",
+    "latitude_deg": "31.57799911",
+    "longitude_deg": "-94.70950317",
+    "elevation_ft": "355",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Nacogdoches",
+    "scheduled_service": "no",
+    "gps_code": "KOCH",
+    "iata_code": "OCH",
+    "local_code": "OCH",
+    "home_link": "http://www.ci.nacogdoches.tx.us/index.aspx?nid=634",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240817",
+            "airport_ref": "20713",
+            "airport_ident": "KOCH",
+            "length_ft": "3610",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "1",
+            "le_ident": "15",
+            "le_latitude_deg": "31.5828",
+            "le_longitude_deg": "-94.7113",
+            "le_elevation_ft": "339",
+            "le_heading_degT": "153.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "31.5739",
+            "he_longitude_deg": "-94.7062",
+            "he_elevation_ft": "355",
+            "he_heading_degT": "333.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240818",
+            "airport_ref": "20713",
+            "airport_ident": "KOCH",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "31.5846",
+            "le_longitude_deg": "-94.7095",
+            "le_elevation_ft": "337",
+            "le_heading_degT": "184.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "31.5709",
+            "he_longitude_deg": "-94.7108",
+            "he_elevation_ft": "327",
+            "he_heading_degT": "4.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60567",
+            "airport_ref": "20713",
+            "airport_ident": "KOCH",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.625"
+        },
+        {
+            "id": "60568",
+            "airport_ref": "20713",
+            "airport_ident": "KOCH",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR APP/DEP",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "60569",
+            "airport_ref": "20713",
+            "airport_ident": "KOCH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

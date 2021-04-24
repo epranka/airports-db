@@ -1,0 +1,72 @@
+{
+    "id": "30451",
+    "ident": "EPSW",
+    "type": "small_airport",
+    "name": "Świdnik Airfield",
+    "latitude_deg": "51.231899",
+    "longitude_deg": "22.6903",
+    "elevation_ft": "659",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-LU",
+    "municipality": "Lublin",
+    "scheduled_service": "no",
+    "gps_code": "EPSL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "309491",
+            "airport_ref": "30451",
+            "airport_ident": "EPSW",
+            "length_ft": "8268",
+            "width_ft": "148",
+            "surface": "asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "632",
+            "le_heading_degT": "72",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "629",
+            "he_heading_degT": "252",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "309492",
+            "airport_ref": "30451",
+            "airport_ident": "EPSW",
+            "type": "TWR",
+            "description": "Lublin Tower",
+            "frequency_mhz": "136.425"
+        }
+    ],
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305148",
+        "code": "PL-LU",
+        "local_code": "LU",
+        "name": "Lublin",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lublin_Voivodeship",
+        "keywords": "Lubelskie"
+    }
+}

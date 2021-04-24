@@ -1,0 +1,88 @@
+{
+    "id": "308328",
+    "ident": "LEDA",
+    "type": "medium_airport",
+    "name": "Lleida-Alguaire Airport",
+    "latitude_deg": "41.728185",
+    "longitude_deg": "0.535023",
+    "elevation_ft": "1152",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Lleida",
+    "scheduled_service": "yes",
+    "gps_code": "LEDA",
+    "iata_code": "ILD",
+    "local_code": "",
+    "home_link": "http://www.aeroportlleida.cat/?L=2",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lleida-Alguaire_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "326350",
+            "airport_ref": "308328",
+            "airport_ident": "LEDA",
+            "length_ft": "8202",
+            "width_ft": "200",
+            "surface": "hard",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "41.7",
+            "le_longitude_deg": "0.5",
+            "le_elevation_ft": "1163",
+            "le_heading_degT": "133",
+            "le_displaced_threshold_ft": "1",
+            "he_ident": "31",
+            "he_latitude_deg": "41.7",
+            "he_longitude_deg": "0.53",
+            "he_elevation_ft": "1168",
+            "he_heading_degT": "313",
+            "he_displaced_threshold_ft": "300"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "335637",
+            "airport_ref": "308328",
+            "airport_ident": "LEDA",
+            "type": "Approach",
+            "description": "Barcelona Approach",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "335638",
+            "airport_ref": "308328",
+            "airport_ident": "LEDA",
+            "type": "BAA Company Freq",
+            "description": "BAA Flight School OPS Frequency",
+            "frequency_mhz": "131.675"
+        },
+        {
+            "id": "335636",
+            "airport_ref": "308328",
+            "airport_ident": "LEDA",
+            "type": "Tower",
+            "description": "Lleida Tower",
+            "frequency_mhz": "121.325"
+        }
+    ],
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303745",
+        "code": "ES-CT",
+        "local_code": "CT",
+        "name": "Catalonia",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Catalonia",
+        "keywords": ""
+    }
+}

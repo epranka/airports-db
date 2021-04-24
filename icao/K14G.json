@@ -1,0 +1,102 @@
+{
+    "id": "18419",
+    "ident": "K14G",
+    "type": "small_airport",
+    "name": "Fremont Airport",
+    "latitude_deg": "41.333099365234375",
+    "longitude_deg": "-83.16120147705078",
+    "elevation_ft": "663",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Fremont",
+    "scheduled_service": "no",
+    "gps_code": "K14G",
+    "iata_code": "",
+    "local_code": "14G",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239921",
+            "airport_ref": "18419",
+            "airport_ident": "K14G",
+            "length_ft": "4137",
+            "width_ft": "60",
+            "surface": "ASPH-F",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "41.3342",
+            "le_longitude_deg": "-83.1674",
+            "le_elevation_ft": "652",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "126",
+            "he_ident": "27",
+            "he_latitude_deg": "41.3342",
+            "he_longitude_deg": "-83.1524",
+            "he_elevation_ft": "660",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239922",
+            "airport_ref": "18419",
+            "airport_ident": "K14G",
+            "length_ft": "2238",
+            "width_ft": "130",
+            "surface": "TURF-F",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "18",
+            "le_latitude_deg": "41.3341",
+            "le_longitude_deg": "-83.1636",
+            "le_elevation_ft": "654",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "41.328",
+            "he_longitude_deg": "-83.1637",
+            "he_elevation_ft": "657",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59185",
+            "airport_ref": "18419",
+            "airport_ident": "K14G",
+            "type": "A/D",
+            "description": "TOLEDO APP/DEP",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "59186",
+            "airport_ref": "18419",
+            "airport_ident": "K14G",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

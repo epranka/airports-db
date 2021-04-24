@@ -1,0 +1,102 @@
+{
+    "id": "18732",
+    "ident": "K3R4",
+    "type": "small_airport",
+    "name": "Hart Airport",
+    "latitude_deg": "31.54490089",
+    "longitude_deg": "-93.4865036",
+    "elevation_ft": "319",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Many",
+    "scheduled_service": "no",
+    "gps_code": "K3R4",
+    "iata_code": "",
+    "local_code": "3R4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240440",
+            "airport_ref": "18732",
+            "airport_ident": "K3R4",
+            "length_ft": "1800",
+            "width_ft": "75",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "31.5434",
+            "le_longitude_deg": "-93.4923",
+            "le_elevation_ft": "",
+            "le_heading_degT": "23.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "31.548",
+            "he_longitude_deg": "-93.4899",
+            "he_elevation_ft": "",
+            "he_heading_degT": "203.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240441",
+            "airport_ref": "18732",
+            "airport_ident": "K3R4",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "31.5474",
+            "le_longitude_deg": "-93.4899",
+            "le_elevation_ft": "",
+            "le_heading_degT": "121.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "31.5417",
+            "he_longitude_deg": "-93.4789",
+            "he_elevation_ft": "",
+            "he_heading_degT": "301.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59974",
+            "airport_ref": "18732",
+            "airport_ident": "K3R4",
+            "type": "A/D",
+            "description": "POLK APP/DEP",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "59975",
+            "airport_ref": "18732",
+            "airport_ident": "K3R4",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

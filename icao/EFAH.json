@@ -1,0 +1,80 @@
+{
+    "id": "27246",
+    "ident": "EFAH",
+    "type": "small_airport",
+    "name": "Ahmosuo Airport",
+    "latitude_deg": "64.895302",
+    "longitude_deg": "25.752199",
+    "elevation_ft": "95",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-14",
+    "municipality": "Oulu",
+    "scheduled_service": "no",
+    "gps_code": "EFAH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ahmosuo_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310753",
+            "airport_ref": "27246",
+            "airport_ident": "EFAH",
+            "length_ft": "2624",
+            "width_ft": "75",
+            "surface": "ASPH/GRVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "95",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "95",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310752",
+            "airport_ref": "27246",
+            "airport_ident": "EFAH",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "310751",
+            "airport_ref": "27246",
+            "airport_ident": "EFAH",
+            "type": "RDO",
+            "description": "Ahmosuo traffic",
+            "frequency_mhz": "123.4"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336515",
+        "code": "FI-14",
+        "local_code": "14",
+        "name": "North Ostrobothnia Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Ostrobothnia",
+        "keywords": ""
+    }
+}

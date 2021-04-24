@@ -1,0 +1,88 @@
+{
+    "id": "18510",
+    "ident": "K1R7",
+    "type": "small_airport",
+    "name": "Brookhaven-Lincoln County Airport",
+    "latitude_deg": "31.605800628699996",
+    "longitude_deg": "-90.40930175780001",
+    "elevation_ft": "489",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Brookhaven",
+    "scheduled_service": "no",
+    "gps_code": "K1R7",
+    "iata_code": "",
+    "local_code": "1R7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244917",
+            "airport_ref": "18510",
+            "airport_ident": "K1R7",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "31.6012",
+            "le_longitude_deg": "-90.4153",
+            "le_elevation_ft": "489",
+            "le_heading_degT": "48",
+            "le_displaced_threshold_ft": "632",
+            "he_ident": "22",
+            "he_latitude_deg": "31.6105",
+            "he_longitude_deg": "-90.4034",
+            "he_elevation_ft": "484",
+            "he_heading_degT": "228",
+            "he_displaced_threshold_ft": "1000"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69172",
+            "airport_ref": "18510",
+            "airport_ident": "K1R7",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.125"
+        },
+        {
+            "id": "69173",
+            "airport_ref": "18510",
+            "airport_ident": "K1R7",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "133.5"
+        },
+        {
+            "id": "69174",
+            "airport_ref": "18510",
+            "airport_ident": "K1R7",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    }
+}

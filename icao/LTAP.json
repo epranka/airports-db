@@ -1,0 +1,120 @@
+{
+    "id": "4520",
+    "ident": "LTAP",
+    "type": "small_airport",
+    "name": "Amasya Merzifon Airport",
+    "latitude_deg": "40.829399",
+    "longitude_deg": "35.521999",
+    "elevation_ft": "1758",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-05",
+    "municipality": "Amasya",
+    "scheduled_service": "yes",
+    "gps_code": "LTAP",
+    "iata_code": "MZH",
+    "local_code": "",
+    "home_link": "http://www.merzifon.dhmi.gov.tr/havaalanlari/default.aspx?hv=15",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Merzifon_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239305",
+            "airport_ref": "4520",
+            "airport_ident": "LTAP",
+            "length_ft": "9600",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "40.8217",
+            "le_longitude_deg": "35.5079",
+            "le_elevation_ft": "1758",
+            "le_heading_degT": "54.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "40.837",
+            "he_longitude_deg": "35.5361",
+            "he_elevation_ft": "1741",
+            "he_heading_degT": "234.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57973",
+            "airport_ref": "4520",
+            "airport_ident": "LTAP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "57974",
+            "airport_ref": "4520",
+            "airport_ident": "LTAP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "122.425"
+        },
+        {
+            "id": "57975",
+            "airport_ref": "4520",
+            "airport_ident": "LTAP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "57976",
+            "airport_ref": "4520",
+            "airport_ident": "LTAP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305840",
+        "code": "TR-05",
+        "local_code": "05",
+        "name": "Amasya Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amasya_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91123",
+            "filename": "Merzifon_TACAN_TR",
+            "ident": "MNI",
+            "name": "Merzifon",
+            "type": "TACAN",
+            "frequency_khz": "109300",
+            "latitude_deg": "40.835601806640625",
+            "longitude_deg": "35.53969955444336",
+            "elevation_ft": "1783",
+            "iso_country": "TR",
+            "dme_frequency_khz": "109300",
+            "dme_channel": "030X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.562",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTAP"
+        }
+    ]
+}

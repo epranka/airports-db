@@ -1,0 +1,120 @@
+{
+    "id": "2738",
+    "ident": "ETNJ",
+    "type": "closed",
+    "name": "Jever Air Base",
+    "latitude_deg": "53.533501",
+    "longitude_deg": "7.88867",
+    "elevation_ft": "24",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NI",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ETNJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Jever",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236276",
+            "airport_ref": "2738",
+            "airport_ident": "ETNJ",
+            "length_ft": "8136",
+            "width_ft": "98",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "53.5358",
+            "le_longitude_deg": "7.87033",
+            "le_elevation_ft": "18",
+            "le_heading_degT": "101.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "53.5313",
+            "he_longitude_deg": "7.907",
+            "he_elevation_ft": "19",
+            "he_heading_degT": "281.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53171",
+            "airport_ref": "2738",
+            "airport_ident": "ETNJ",
+            "type": "ACC",
+            "description": "BREMEN CON",
+            "frequency_mhz": "124.075"
+        },
+        {
+            "id": "53173",
+            "airport_ref": "2738",
+            "airport_ident": "ETNJ",
+            "type": "RDR",
+            "description": "WITTMUND RADAR",
+            "frequency_mhz": "38.54"
+        },
+        {
+            "id": "53172",
+            "airport_ref": "2738",
+            "airport_ident": "ETNJ",
+            "type": "RDR",
+            "description": "WITTMUND RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "53174",
+            "airport_ref": "2738",
+            "airport_ident": "ETNJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.725"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303555",
+        "code": "DE-NI",
+        "local_code": "NI",
+        "name": "Lower Saxony",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
+        "keywords": "Niedersachsen"
+    },
+    "navaids": [
+        {
+            "id": "95509",
+            "filename": "Wittmundhafen_TACAN_DE",
+            "ident": "WTM",
+            "name": "Wittmundhafen",
+            "type": "TACAN",
+            "frequency_khz": "113500",
+            "latitude_deg": "53.554298400878906",
+            "longitude_deg": "7.725170135498047",
+            "elevation_ft": "61",
+            "iso_country": "DE",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.006",
+            "magnetic_variation_deg": "0.19",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETNJ"
+        }
+    ]
+}

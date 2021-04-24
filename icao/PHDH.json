@@ -1,0 +1,88 @@
+{
+    "id": "5442",
+    "ident": "PHDH",
+    "type": "medium_airport",
+    "name": "Dillingham Airfield",
+    "latitude_deg": "21.5795001984",
+    "longitude_deg": "-158.197006226",
+    "elevation_ft": "14",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Mokuleia",
+    "scheduled_service": "no",
+    "gps_code": "PHDH",
+    "iata_code": "HDH",
+    "local_code": "HDH",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dillingham_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242242",
+            "airport_ref": "5442",
+            "airport_ident": "PHDH",
+            "length_ft": "9007",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "21.5797",
+            "le_longitude_deg": "-158.211",
+            "le_elevation_ft": "15",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "1993",
+            "he_ident": "26",
+            "he_latitude_deg": "21.5793",
+            "he_longitude_deg": "-158.184",
+            "he_elevation_ft": "15",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": "1995"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63500",
+            "airport_ref": "5442",
+            "airport_ident": "PHDH",
+            "type": "MISC",
+            "description": "MIL AIR TO AIR",
+            "frequency_mhz": "23.33"
+        },
+        {
+            "id": "63501",
+            "airport_ref": "5442",
+            "airport_ident": "PHDH",
+            "type": "RDO",
+            "description": "HONOLULU RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "63502",
+            "airport_ref": "5442",
+            "airport_ident": "PHDH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306087",
+        "code": "US-HI",
+        "local_code": "HI",
+        "name": "Hawaii",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
+        "keywords": ""
+    }
+}

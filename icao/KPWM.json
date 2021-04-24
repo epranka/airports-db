@@ -1,0 +1,166 @@
+{
+    "id": "3796",
+    "ident": "KPWM",
+    "type": "large_airport",
+    "name": "Portland International Jetport",
+    "latitude_deg": "43.646198",
+    "longitude_deg": "-70.309303",
+    "elevation_ft": "76",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Portland",
+    "scheduled_service": "yes",
+    "gps_code": "KPWM",
+    "iata_code": "PWM",
+    "local_code": "PWM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Portland_International_Jetport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245809",
+            "airport_ref": "3796",
+            "airport_ident": "KPWM",
+            "length_ft": "7200",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "43.6459",
+            "le_longitude_deg": "-70.3261",
+            "le_elevation_ft": "77",
+            "le_heading_degT": "95",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "43.644",
+            "he_longitude_deg": "-70.299",
+            "he_elevation_ft": "43",
+            "he_heading_degT": "275",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245810",
+            "airport_ref": "3796",
+            "airport_ident": "KPWM",
+            "length_ft": "5001",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "43.6545",
+            "le_longitude_deg": "-70.3073",
+            "le_elevation_ft": "45",
+            "le_heading_degT": "163.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "43.6413",
+            "he_longitude_deg": "-70.3019",
+            "he_elevation_ft": "47",
+            "he_heading_degT": "343.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71097",
+            "airport_ref": "3796",
+            "airport_ident": "KPWM",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "71098",
+            "airport_ref": "3796",
+            "airport_ident": "KPWM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.05"
+        },
+        {
+            "id": "71099",
+            "airport_ref": "3796",
+            "airport_ident": "KPWM",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71100",
+            "airport_ref": "3796",
+            "airport_ident": "KPWM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "71101",
+            "airport_ref": "3796",
+            "airport_ident": "KPWM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71102",
+            "airport_ref": "3796",
+            "airport_ident": "KPWM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "71103",
+            "airport_ref": "3796",
+            "airport_ident": "KPWM",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306097",
+        "code": "US-ME",
+        "local_code": "ME",
+        "name": "Maine",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92831",
+            "filename": "Orham_NDB_US",
+            "ident": "PW",
+            "name": "Orham",
+            "type": "NDB",
+            "frequency_khz": "394",
+            "latitude_deg": "43.652400970458984",
+            "longitude_deg": "-70.44100189208984",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.089",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KPWM"
+        }
+    ]
+}

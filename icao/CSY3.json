@@ -1,0 +1,72 @@
+{
+    "id": "1575",
+    "ident": "CSY3",
+    "type": "small_airport",
+    "name": "Sorel Airport",
+    "latitude_deg": "45.98030090332031",
+    "longitude_deg": "-73.04219818115234",
+    "elevation_ft": "76",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Sorel",
+    "scheduled_service": "no",
+    "gps_code": "CSY3",
+    "iata_code": "",
+    "local_code": "CSY3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sorel_Airport",
+    "keywords": "SY3",
+    "runways": [
+        {
+            "id": "234970",
+            "airport_ref": "1575",
+            "airport_ident": "CSY3",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "45.9747",
+            "le_longitude_deg": "-73.0442",
+            "le_elevation_ft": "",
+            "le_heading_degT": "13.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "45.9856",
+            "he_longitude_deg": "-73.0406",
+            "he_elevation_ft": "",
+            "he_heading_degT": "193.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50827",
+            "airport_ref": "1575",
+            "airport_ident": "CSY3",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    }
+}

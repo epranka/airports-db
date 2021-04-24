@@ -1,0 +1,96 @@
+{
+    "id": "5959",
+    "ident": "SBPP",
+    "type": "medium_airport",
+    "name": "Ponta Porã Airport",
+    "latitude_deg": "-22.54960060119629",
+    "longitude_deg": "-55.702598571777344",
+    "elevation_ft": "2156",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Ponta Porã",
+    "scheduled_service": "yes",
+    "gps_code": "SBPP",
+    "iata_code": "PMG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234097",
+            "airport_ref": "5959",
+            "airport_ident": "SBPP",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "3",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49663",
+            "airport_ref": "5959",
+            "airport_ident": "SBPP",
+            "type": "AFIS",
+            "description": "PORA RDO",
+            "frequency_mhz": "125.9"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303210",
+        "code": "BR-MS",
+        "local_code": "MS",
+        "name": "Mato Grosso do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92778",
+            "filename": "Ponta_Pora_NDB_BR",
+            "ident": "PTP",
+            "name": "Ponta Pora",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "-22.550199508666992",
+            "longitude_deg": "-55.70719909667969",
+            "elevation_ft": "2156",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.182",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBPP"
+        }
+    ]
+}

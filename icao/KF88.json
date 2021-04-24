@@ -1,0 +1,80 @@
+{
+    "id": "19838",
+    "ident": "KF88",
+    "type": "small_airport",
+    "name": "Jonesboro Airport",
+    "latitude_deg": "32.20199966430664",
+    "longitude_deg": "-92.73290252685547",
+    "elevation_ft": "256",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Jonesboro",
+    "scheduled_service": "no",
+    "gps_code": "KF88",
+    "iata_code": "",
+    "local_code": "F88",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242179",
+            "airport_ref": "19838",
+            "airport_ident": "KF88",
+            "length_ft": "3203",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "32.2064",
+            "le_longitude_deg": "-92.733",
+            "le_elevation_ft": "249",
+            "le_heading_degT": "179.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "32.1976",
+            "he_longitude_deg": "-92.7329",
+            "he_elevation_ft": "256",
+            "he_heading_degT": "359.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63373",
+            "airport_ref": "19838",
+            "airport_ident": "KF88",
+            "type": "A/D",
+            "description": "MONROE APP/DEP",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "63374",
+            "airport_ref": "19838",
+            "airport_ident": "KF88",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

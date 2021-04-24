@@ -1,0 +1,80 @@
+{
+    "id": "19058",
+    "ident": "K7G0",
+    "type": "small_airport",
+    "name": "Ledgedale Airpark",
+    "latitude_deg": "43.18109894",
+    "longitude_deg": "-77.915802",
+    "elevation_ft": "665",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Brockport",
+    "scheduled_service": "no",
+    "gps_code": "K7G0",
+    "iata_code": "",
+    "local_code": "7G0",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240962",
+            "airport_ref": "19058",
+            "airport_ident": "K7G0",
+            "length_ft": "4205",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "43.1812",
+            "le_longitude_deg": "-77.9236",
+            "le_elevation_ft": "",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "43.181",
+            "he_longitude_deg": "-77.9079",
+            "he_elevation_ft": "",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60865",
+            "airport_ref": "19058",
+            "airport_ident": "K7G0",
+            "type": "A/D",
+            "description": "ROCHESTER APP/DEP",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "60866",
+            "airport_ref": "19058",
+            "airport_ident": "K7G0",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

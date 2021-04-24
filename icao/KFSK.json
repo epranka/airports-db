@@ -1,0 +1,88 @@
+{
+    "id": "19898",
+    "ident": "KFSK",
+    "type": "small_airport",
+    "name": "Fort Scott Municipal Airport",
+    "latitude_deg": "37.7984008789",
+    "longitude_deg": "-94.7694015503",
+    "elevation_ft": "918",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Fort Scott",
+    "scheduled_service": "no",
+    "gps_code": "KFSK",
+    "iata_code": "FSK",
+    "local_code": "FSK",
+    "home_link": "http://www.fscity.org/index.php?option=com_content&view=article&id=98&Itemid=195",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fort_Scott_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244346",
+            "airport_ref": "19898",
+            "airport_ident": "KFSK",
+            "length_ft": "4403",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "37.8044",
+            "le_longitude_deg": "-94.7694",
+            "le_elevation_ft": "903",
+            "le_heading_degT": "179.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "37.7923",
+            "he_longitude_deg": "-94.7694",
+            "he_elevation_ft": "918",
+            "he_heading_degT": "359.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67891",
+            "airport_ref": "19898",
+            "airport_ident": "KFSK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "124.425"
+        },
+        {
+            "id": "67892",
+            "airport_ref": "19898",
+            "airport_ident": "KFSK",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "125.55"
+        },
+        {
+            "id": "67893",
+            "airport_ref": "19898",
+            "airport_ident": "KFSK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

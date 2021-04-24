@@ -1,0 +1,88 @@
+{
+    "id": "308033",
+    "ident": "FDSK",
+    "type": "large_airport",
+    "name": "King Mswati III International Airport",
+    "latitude_deg": "-26.358611",
+    "longitude_deg": "31.716944",
+    "elevation_ft": "1092",
+    "continent": "AF",
+    "iso_country": "SZ",
+    "iso_region": "SZ-LU",
+    "municipality": "Mpaka",
+    "scheduled_service": "yes",
+    "gps_code": "FDSK",
+    "iata_code": "SHO",
+    "local_code": "",
+    "home_link": "http://www.eswacaa.co.sz/airports/kingmswatiIII/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/King_Mswati_III_International_Airport",
+    "keywords": "Sikhuphe International Airport",
+    "runways": [
+        {
+            "id": "323079",
+            "airport_ref": "308033",
+            "airport_ident": "FDSK",
+            "length_ft": "11811",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "323080",
+            "airport_ref": "308033",
+            "airport_ident": "FDSK",
+            "type": "APP",
+            "description": "Sikhuphe Aproach Control",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "323082",
+            "airport_ref": "308033",
+            "airport_ident": "FDSK",
+            "type": "GND",
+            "description": "Sikhuphe Ground Control",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "323081",
+            "airport_ref": "308033",
+            "airport_ident": "FDSK",
+            "type": "TWR",
+            "description": "Sikhuphe Tower",
+            "frequency_mhz": "118.55"
+        }
+    ],
+    "country": {
+        "id": "302603",
+        "code": "SZ",
+        "name": "Eswatini",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eswatini",
+        "keywords": "Swaziland"
+    },
+    "region": {
+        "id": "305682",
+        "code": "SZ-LU",
+        "local_code": "LU",
+        "name": "Lubombo",
+        "continent": "AF",
+        "iso_country": "SZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lubombo",
+        "keywords": ""
+    }
+}

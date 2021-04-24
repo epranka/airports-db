@@ -1,0 +1,80 @@
+{
+    "id": "19183",
+    "ident": "K9D4",
+    "type": "small_airport",
+    "name": "Deck Airport",
+    "latitude_deg": "40.35179901",
+    "longitude_deg": "-76.32959747",
+    "elevation_ft": "523",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Myerstown",
+    "scheduled_service": "no",
+    "gps_code": "K9D4",
+    "iata_code": "",
+    "local_code": "9D4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244168",
+            "airport_ref": "19183",
+            "airport_ident": "K9D4",
+            "length_ft": "3786",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "40.3474",
+            "le_longitude_deg": "-76.3297",
+            "le_elevation_ft": "511",
+            "le_heading_degT": "357.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "40.3573",
+            "he_longitude_deg": "-76.3303",
+            "he_elevation_ft": "523",
+            "he_heading_degT": "177.3",
+            "he_displaced_threshold_ft": "187"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67515",
+            "airport_ref": "19183",
+            "airport_ident": "K9D4",
+            "type": "A/D",
+            "description": "HARRISBURG APP/DEP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "67516",
+            "airport_ref": "19183",
+            "airport_ident": "K9D4",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "3380",
+    "ident": "KAOO",
+    "type": "medium_airport",
+    "name": "Altoona Blair County Airport",
+    "latitude_deg": "40.29639816",
+    "longitude_deg": "-78.31999969",
+    "elevation_ft": "1503",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Altoona",
+    "scheduled_service": "yes",
+    "gps_code": "KAOO",
+    "iata_code": "AOO",
+    "local_code": "AOO",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Altoona-Blair_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243676",
+            "airport_ref": "3380",
+            "airport_ident": "KAOO",
+            "length_ft": "5466",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "40.2887",
+            "le_longitude_deg": "-78.3231",
+            "le_elevation_ft": "1504",
+            "le_heading_degT": "16",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "40.3031",
+            "he_longitude_deg": "-78.3177",
+            "he_elevation_ft": "1470",
+            "he_heading_degT": "196",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243677",
+            "airport_ref": "3380",
+            "airport_ident": "KAOO",
+            "length_ft": "3668",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "40.2986",
+            "le_longitude_deg": "-78.3256",
+            "le_elevation_ft": "1473",
+            "le_heading_degT": "108.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "40.2954",
+            "he_longitude_deg": "-78.3132",
+            "he_elevation_ft": "1482",
+            "he_heading_degT": "288.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66517",
+            "airport_ref": "3380",
+            "airport_ident": "KAOO",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "127.125"
+        },
+        {
+            "id": "66518",
+            "airport_ref": "3380",
+            "airport_ident": "KAOO",
+            "type": "CNTR",
+            "description": "CLEVELAND CNTR",
+            "frequency_mhz": "121.2"
+        },
+        {
+            "id": "66519",
+            "airport_ref": "3380",
+            "airport_ident": "KAOO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "66521",
+            "airport_ref": "3380",
+            "airport_ident": "KAOO",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "66520",
+            "airport_ref": "3380",
+            "airport_ident": "KAOO",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "66522",
+            "airport_ref": "3380",
+            "airport_ident": "KAOO",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85523",
+            "filename": "Altoona_VOR_US",
+            "ident": "AOO",
+            "name": "Altoona",
+            "type": "VOR",
+            "frequency_khz": "108800",
+            "latitude_deg": "40.325401306152344",
+            "longitude_deg": "-78.30370330810547",
+            "elevation_ft": "1630",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.002",
+            "magnetic_variation_deg": "-10.131",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KAOO"
+        }
+    ]
+}

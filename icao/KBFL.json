@@ -1,0 +1,174 @@
+{
+    "id": "3402",
+    "ident": "KBFL",
+    "type": "medium_airport",
+    "name": "Meadows Field",
+    "latitude_deg": "35.433601",
+    "longitude_deg": "-119.056999",
+    "elevation_ft": "510",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Bakersfield",
+    "scheduled_service": "yes",
+    "gps_code": "KBFL",
+    "iata_code": "BFL",
+    "local_code": "BFL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Meadows_Field_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241920",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "length_ft": "10857",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12L",
+            "le_latitude_deg": "35.4463",
+            "le_longitude_deg": "-119.071",
+            "le_elevation_ft": "507",
+            "le_heading_degT": "135.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30R",
+            "he_latitude_deg": "35.4251",
+            "he_longitude_deg": "-119.046",
+            "he_elevation_ft": "482",
+            "he_heading_degT": "315.5",
+            "he_displaced_threshold_ft": "3428"
+        },
+        {
+            "id": "241919",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "length_ft": "3700",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12R",
+            "le_latitude_deg": "35.4309",
+            "le_longitude_deg": "-119.056",
+            "le_elevation_ft": "472",
+            "le_heading_degT": "135.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30L",
+            "he_latitude_deg": "35.4237",
+            "he_longitude_deg": "-119.047",
+            "he_elevation_ft": "461",
+            "he_heading_degT": "315.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62826",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "APP",
+            "description": "BAKERSFIELD APP",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "62827",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "62828",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "62829",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "DEP",
+            "description": "BAKERSFIELD DEP",
+            "frequency_mhz": "126.45"
+        },
+        {
+            "id": "62830",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "62831",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "RDO",
+            "description": "RANCHO RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "62832",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "TWR",
+            "description": "BAKERSFIELD TWR",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "62833",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85957",
+            "filename": "Niley_NDB_US",
+            "ident": "BF",
+            "name": "Niley",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "35.372398376464844",
+            "longitude_deg": "-118.98100280761719",
+            "elevation_ft": "415",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.34",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBFL"
+        }
+    ]
+}

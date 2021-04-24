@@ -1,0 +1,166 @@
+{
+    "id": "29443",
+    "ident": "LIPA",
+    "type": "medium_airport",
+    "name": "Aviano Air Base",
+    "latitude_deg": "46.031898",
+    "longitude_deg": "12.596503",
+    "elevation_ft": "410",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-36",
+    "municipality": "Aviano (PN)",
+    "scheduled_service": "no",
+    "gps_code": "LIPA",
+    "iata_code": "AVB",
+    "local_code": "PN07",
+    "home_link": "http://www.aviano.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Aviano_Air_Base",
+    "keywords": "Pagliano e Gori Airport, LIYW",
+    "runways": [
+        {
+            "id": "253061",
+            "airport_ref": "29443",
+            "airport_ident": "LIPA",
+            "length_ft": "8551",
+            "width_ft": "144",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "46.0233",
+            "le_longitude_deg": "12.5839",
+            "le_elevation_ft": "321",
+            "le_heading_degT": "48",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "46.0389",
+            "he_longitude_deg": "12.6089",
+            "he_elevation_ft": "410",
+            "he_heading_degT": "228",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71899",
+            "airport_ref": "29443",
+            "airport_ident": "LIPA",
+            "type": "ACP",
+            "description": "AMCC",
+            "frequency_mhz": "264.8"
+        },
+        {
+            "id": "71898",
+            "airport_ref": "29443",
+            "airport_ident": "LIPA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "275.325"
+        },
+        {
+            "id": "71902",
+            "airport_ref": "29443",
+            "airport_ident": "LIPA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "262.95"
+        },
+        {
+            "id": "71901",
+            "airport_ref": "29443",
+            "airport_ident": "LIPA",
+            "type": "OPS",
+            "description": "SOF",
+            "frequency_mhz": "262.95"
+        },
+        {
+            "id": "71896",
+            "airport_ref": "29443",
+            "airport_ident": "LIPA",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "257.75"
+        },
+        {
+            "id": "71900",
+            "airport_ref": "29443",
+            "airport_ident": "LIPA",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "262.95"
+        },
+        {
+            "id": "71897",
+            "airport_ref": "29443",
+            "airport_ident": "LIPA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "142.05"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306366",
+        "code": "IT-36",
+        "local_code": "36",
+        "name": "Friuli-Venezia Giulia",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Friuli-Venezia_Giulia",
+        "keywords": "FV"
+    },
+    "navaids": [
+        {
+            "id": "85701",
+            "filename": "Aviano_TACAN_IT",
+            "ident": "AVI",
+            "name": "Aviano",
+            "type": "TACAN",
+            "frequency_khz": "116400",
+            "latitude_deg": "46.02790069580078",
+            "longitude_deg": "12.586899757385254",
+            "elevation_ft": "413",
+            "iso_country": "IT",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "1.522",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIPA"
+        },
+        {
+            "id": "85702",
+            "filename": "Aviano_NDB_IT",
+            "ident": "AVI",
+            "name": "Aviano",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "45.92430114746094",
+            "longitude_deg": "12.428500175476074",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.5",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LIPA"
+        }
+    ]
+}

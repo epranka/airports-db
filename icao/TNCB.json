@@ -1,0 +1,96 @@
+{
+    "id": "6403",
+    "ident": "TNCB",
+    "type": "large_airport",
+    "name": "Flamingo International Airport",
+    "latitude_deg": "12.131",
+    "longitude_deg": "-68.268501",
+    "elevation_ft": "20",
+    "continent": "NA",
+    "iso_country": "BQ",
+    "iso_region": "BQ-U-A",
+    "municipality": "Kralendijk, Bonaire",
+    "scheduled_service": "yes",
+    "gps_code": "TNCB",
+    "iata_code": "BON",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Flamingo_International_Airport",
+    "keywords": "Bonaire",
+    "runways": [
+        {
+            "id": "238000",
+            "airport_ref": "6403",
+            "airport_ident": "TNCB",
+            "length_ft": "9449",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "12.1314",
+            "le_longitude_deg": "-68.2818",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "91.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "12.1306",
+            "he_longitude_deg": "-68.2553",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "271.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55894",
+            "airport_ref": "6403",
+            "airport_ident": "TNCB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302724",
+        "code": "BQ",
+        "name": "Caribbean Netherlands",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Caribbean_Netherlands",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302911",
+        "code": "BQ-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "BQ",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92463",
+            "filename": "Bonaire_NDB_AN",
+            "ident": "PJB",
+            "name": "Bonaire",
+            "type": "NDB",
+            "frequency_khz": "321",
+            "latitude_deg": "12.132800102233887",
+            "longitude_deg": "-68.28099822998047",
+            "elevation_ft": "20",
+            "iso_country": "BQ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.346",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "TNCB"
+        }
+    ]
+}

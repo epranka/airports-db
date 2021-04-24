@@ -1,0 +1,80 @@
+{
+    "id": "20436",
+    "ident": "KM46",
+    "type": "small_airport",
+    "name": "Colstrip Airport",
+    "latitude_deg": "45.852901458740234",
+    "longitude_deg": "-106.70899963378906",
+    "elevation_ft": "3426",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Colstrip",
+    "scheduled_service": "no",
+    "gps_code": "KM46",
+    "iata_code": "",
+    "local_code": "M46",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242830",
+            "airport_ref": "20436",
+            "airport_ident": "KM46",
+            "length_ft": "5100",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "45.851",
+            "le_longitude_deg": "-106.719",
+            "le_elevation_ft": "3426",
+            "le_heading_degT": "75",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "45.8547",
+            "he_longitude_deg": "-106.7",
+            "he_elevation_ft": "3382",
+            "he_heading_degT": "255",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64734",
+            "airport_ref": "20436",
+            "airport_ident": "KM46",
+            "type": "CNTR",
+            "description": "SALT LAKE CNTR",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "64735",
+            "airport_ref": "20436",
+            "airport_ident": "KM46",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306102",
+        "code": "US-MT",
+        "local_code": "MT",
+        "name": "Montana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
+        "keywords": ""
+    }
+}

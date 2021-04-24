@@ -1,0 +1,96 @@
+{
+    "id": "3239",
+    "ident": "HSDN",
+    "type": "medium_airport",
+    "name": "Dongola Airport",
+    "latitude_deg": "19.153900146499996",
+    "longitude_deg": "30.430099487299998",
+    "elevation_ft": "772",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-01",
+    "municipality": "Dongola",
+    "scheduled_service": "yes",
+    "gps_code": "HSDN",
+    "iata_code": "DOG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dongola_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238968",
+            "airport_ref": "3239",
+            "airport_ident": "HSDN",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "19.1674",
+            "le_longitude_deg": "30.4288",
+            "le_elevation_ft": "771",
+            "le_heading_degT": "173",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "19.1404",
+            "he_longitude_deg": "30.4314",
+            "he_elevation_ft": "773",
+            "he_heading_degT": "353",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57383",
+            "airport_ref": "3239",
+            "airport_ident": "HSDN",
+            "type": "TWR/APP",
+            "description": "Dongola Tower",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302597",
+        "code": "SD",
+        "name": "Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sudan",
+        "keywords": "مطارات السودان"
+    },
+    "region": {
+        "id": "305384",
+        "code": "SD-01",
+        "local_code": "01",
+        "name": "Northern State",
+        "continent": "AF",
+        "iso_country": "SD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_State",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87485",
+            "filename": "Dongola_VOR-DME_SD",
+            "ident": "DOG",
+            "name": "Dongola",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "19.182600021362305",
+            "longitude_deg": "30.42729949951172",
+            "elevation_ft": "802",
+            "iso_country": "SD",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.32",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HSDN"
+        }
+    ]
+}

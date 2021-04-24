@@ -1,0 +1,104 @@
+{
+    "id": "27074",
+    "ident": "YMRB",
+    "type": "medium_airport",
+    "name": "Moranbah Airport",
+    "latitude_deg": "-22.057800293",
+    "longitude_deg": "148.07699585",
+    "elevation_ft": "770",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Moranbah",
+    "scheduled_service": "yes",
+    "gps_code": "YMRB",
+    "iata_code": "MOV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Moranbah_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233324",
+            "airport_ref": "27074",
+            "airport_ident": "YMRB",
+            "length_ft": "5000",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-22.0513",
+            "le_longitude_deg": "148.075",
+            "le_elevation_ft": "729",
+            "le_heading_degT": "171",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-22.065",
+            "he_longitude_deg": "148.077",
+            "he_elevation_ft": "770",
+            "he_heading_degT": "351",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48874",
+            "airport_ref": "27074",
+            "airport_ident": "YMRB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48875",
+            "airport_ref": "27074",
+            "airport_ident": "YMRB",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "128.55"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91236",
+            "filename": "Moranbah_NDB_AU",
+            "ident": "MRB",
+            "name": "Moranbah",
+            "type": "NDB",
+            "frequency_khz": "218",
+            "latitude_deg": "-22.0625",
+            "longitude_deg": "148.0749969482422",
+            "elevation_ft": "770",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.349",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YMRB"
+        }
+    ]
+}

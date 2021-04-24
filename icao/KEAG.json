@@ -1,0 +1,102 @@
+{
+    "id": "19714",
+    "ident": "KEAG",
+    "type": "small_airport",
+    "name": "Eagle Grove Municipal Airport",
+    "latitude_deg": "42.709800720214844",
+    "longitude_deg": "-93.91609954833984",
+    "elevation_ft": "1133",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Eagle Grove",
+    "scheduled_service": "no",
+    "gps_code": "KEAG",
+    "iata_code": "",
+    "local_code": "EAG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245839",
+            "airport_ref": "19714",
+            "airport_ident": "KEAG",
+            "length_ft": "2360",
+            "width_ft": "115",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "42.7062",
+            "le_longitude_deg": "-93.9169",
+            "le_elevation_ft": "",
+            "le_heading_degT": "18.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "42.7125",
+            "he_longitude_deg": "-93.9141",
+            "he_elevation_ft": "",
+            "he_heading_degT": "198.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245840",
+            "airport_ref": "19714",
+            "airport_ident": "KEAG",
+            "length_ft": "3500",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "42.7136",
+            "le_longitude_deg": "-93.9211",
+            "le_elevation_ft": "1131",
+            "le_heading_degT": "136.4",
+            "le_displaced_threshold_ft": "129",
+            "he_ident": "31",
+            "he_latitude_deg": "42.7066",
+            "he_longitude_deg": "-93.9121",
+            "he_elevation_ft": "1129",
+            "he_heading_degT": "316.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71167",
+            "airport_ref": "19714",
+            "airport_ident": "KEAG",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "71168",
+            "airport_ref": "19714",
+            "airport_ident": "KEAG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

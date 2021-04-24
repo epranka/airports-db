@@ -1,0 +1,88 @@
+{
+    "id": "21182",
+    "ident": "KTDF",
+    "type": "small_airport",
+    "name": "Raleigh Regional Airport at Person County",
+    "latitude_deg": "36.284901",
+    "longitude_deg": "-78.9842",
+    "elevation_ft": "609",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Roxboro",
+    "scheduled_service": "no",
+    "gps_code": "KTDF",
+    "iata_code": "",
+    "local_code": "TDF",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Person_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244844",
+            "airport_ref": "21182",
+            "airport_ident": "KTDF",
+            "length_ft": "5826",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "36.2795",
+            "le_longitude_deg": "-78.9919",
+            "le_elevation_ft": "592",
+            "le_heading_degT": "50.5",
+            "le_displaced_threshold_ft": "600",
+            "he_ident": "24",
+            "he_latitude_deg": "36.2897",
+            "he_longitude_deg": "-78.9766",
+            "he_elevation_ft": "606",
+            "he_heading_degT": "230.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68995",
+            "airport_ref": "21182",
+            "airport_ident": "KTDF",
+            "type": "A/D",
+            "description": "RALEIGH APP/DEP",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "68996",
+            "airport_ref": "21182",
+            "airport_ident": "KTDF",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "126.725"
+        },
+        {
+            "id": "68997",
+            "airport_ref": "21182",
+            "airport_ident": "KTDF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

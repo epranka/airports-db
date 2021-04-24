@@ -1,0 +1,104 @@
+{
+    "id": "1915",
+    "ident": "CYSY",
+    "type": "medium_airport",
+    "name": "Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport",
+    "latitude_deg": "71.9938964844",
+    "longitude_deg": "-125.242996216",
+    "elevation_ft": "282",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NT",
+    "municipality": "Sachs Harbour",
+    "scheduled_service": "yes",
+    "gps_code": "CYSY",
+    "iata_code": "YSY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sachs_Harbour_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235075",
+            "airport_ref": "1915",
+            "airport_ident": "CYSY",
+            "length_ft": "4000",
+            "width_ft": "100",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08T",
+            "le_latitude_deg": "71.9933",
+            "le_longitude_deg": "-125.26",
+            "le_elevation_ft": "281",
+            "le_heading_degT": "84",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26T",
+            "he_latitude_deg": "71.9944",
+            "he_longitude_deg": "-125.225",
+            "he_elevation_ft": "281",
+            "he_heading_degT": "264",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51010",
+            "airport_ref": "1915",
+            "airport_ident": "CYSY",
+            "type": "ATF",
+            "description": "MANDATORY FREQ",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51011",
+            "airport_ref": "1915",
+            "airport_ident": "CYSY",
+            "type": "RDO",
+            "description": "ARPT RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303300",
+        "code": "CA-NT",
+        "local_code": "NT",
+        "name": "Northwest Territories",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95847",
+            "filename": "Sachs_Harbour_NDB_CA",
+            "ident": "YSY",
+            "name": "Sachs Harbour",
+            "type": "NDB",
+            "frequency_khz": "321",
+            "latitude_deg": "71.99140167236328",
+            "longitude_deg": "-125.31500244140625",
+            "elevation_ft": "281",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "31.567",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYSY"
+        }
+    ]
+}

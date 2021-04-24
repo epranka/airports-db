@@ -1,0 +1,166 @@
+{
+    "id": "3438",
+    "ident": "KCAE",
+    "type": "large_airport",
+    "name": "Columbia Metropolitan Airport",
+    "latitude_deg": "33.93880081176758",
+    "longitude_deg": "-81.11949920654297",
+    "elevation_ft": "236",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Columbia",
+    "scheduled_service": "yes",
+    "gps_code": "KCAE",
+    "iata_code": "CAE",
+    "local_code": "CAE",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Columbia_Metropolitan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241977",
+            "airport_ref": "3438",
+            "airport_ident": "KCAE",
+            "length_ft": "8001",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "33.9285",
+            "le_longitude_deg": "-81.124",
+            "le_elevation_ft": "228",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "33.9442",
+            "he_longitude_deg": "-81.1054",
+            "he_elevation_ft": "209",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": "1000"
+        },
+        {
+            "id": "241978",
+            "airport_ref": "3438",
+            "airport_ident": "KCAE",
+            "length_ft": "8601",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "33.9441",
+            "le_longitude_deg": "-81.1378",
+            "le_elevation_ft": "229",
+            "le_heading_degT": "105",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "33.9382",
+            "he_longitude_deg": "-81.1103",
+            "he_elevation_ft": "210",
+            "he_heading_degT": "285",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62931",
+            "airport_ref": "3438",
+            "airport_ident": "KCAE",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.15"
+        },
+        {
+            "id": "62932",
+            "airport_ref": "3438",
+            "airport_ident": "KCAE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.15"
+        },
+        {
+            "id": "62933",
+            "airport_ref": "3438",
+            "airport_ident": "KCAE",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "62934",
+            "airport_ref": "3438",
+            "airport_ident": "KCAE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "62935",
+            "airport_ref": "3438",
+            "airport_ident": "KCAE",
+            "type": "RDO",
+            "description": "ANDERSON RDO",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "62936",
+            "airport_ref": "3438",
+            "airport_ident": "KCAE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "62937",
+            "airport_ref": "3438",
+            "airport_ident": "KCAE",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306116",
+        "code": "US-SC",
+        "local_code": "SC",
+        "name": "South Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86547",
+            "filename": "Murry_NDB_US",
+            "ident": "CA",
+            "name": "Murry",
+            "type": "NDB",
+            "frequency_khz": "362",
+            "latitude_deg": "33.967201232910156",
+            "longitude_deg": "-81.24469757080078",
+            "elevation_ft": "330",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.272",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCAE"
+        }
+    ]
+}

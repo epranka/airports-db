@@ -1,0 +1,72 @@
+{
+    "id": "4337",
+    "ident": "LILN",
+    "type": "medium_airport",
+    "name": "Varese-Venegono Airport",
+    "latitude_deg": "45.742199",
+    "longitude_deg": "8.888233",
+    "elevation_ft": "1050",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Varese",
+    "scheduled_service": "no",
+    "gps_code": "LILN",
+    "iata_code": "",
+    "local_code": "VA02",
+    "home_link": "http://www.aeroclubvarese.it/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Varese-Venegono_Airport",
+    "keywords": "QVA",
+    "runways": [
+        {
+            "id": "236999",
+            "airport_ref": "4337",
+            "airport_ident": "LILN",
+            "length_ft": "4659",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "45.7486",
+            "le_longitude_deg": "8.88754",
+            "le_elevation_ft": "1050",
+            "le_heading_degT": "176",
+            "le_displaced_threshold_ft": "270",
+            "he_ident": "36",
+            "he_latitude_deg": "45.7358",
+            "he_longitude_deg": "8.88893",
+            "he_elevation_ft": "1050",
+            "he_heading_degT": "356",
+            "he_displaced_threshold_ft": "270"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54208",
+            "airport_ref": "4337",
+            "airport_ident": "LILN",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "128.55"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306363",
+        "code": "IT-25",
+        "local_code": "25",
+        "name": "Lombardy",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lombardy",
+        "keywords": "LM"
+    }
+}

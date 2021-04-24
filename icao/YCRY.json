@@ -1,0 +1,88 @@
+{
+    "id": "27486",
+    "ident": "YCRY",
+    "type": "small_airport",
+    "name": "Croydon Airport",
+    "latitude_deg": "-18.225000381469727",
+    "longitude_deg": "142.25799560546875",
+    "elevation_ft": "107",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YCRY",
+    "iata_code": "CDQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258472",
+            "airport_ref": "27486",
+            "airport_ident": "YCRY",
+            "length_ft": "4799",
+            "width_ft": "",
+            "surface": "X",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72624",
+            "airport_ref": "27486",
+            "airport_ident": "YCRY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "72625",
+            "airport_ref": "27486",
+            "airport_ident": "YCRY",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "72626",
+            "airport_ref": "27486",
+            "airport_ident": "YCRY",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.5"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "28123",
+    "ident": "EHMZ",
+    "type": "small_airport",
+    "name": "Midden-Zeeland Airfield",
+    "latitude_deg": "51.512199",
+    "longitude_deg": "3.73111",
+    "elevation_ft": "6",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-ZL",
+    "municipality": "Middelburg",
+    "scheduled_service": "no",
+    "gps_code": "EHMZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.zeeland-airport.nl/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Midden-Zeeland_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "256695",
+            "airport_ref": "28123",
+            "airport_ident": "EHMZ",
+            "length_ft": "3281",
+            "width_ft": "99",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "6",
+            "le_heading_degT": "88",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "6",
+            "he_heading_degT": "268",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75291",
+            "airport_ref": "28123",
+            "airport_ident": "EHMZ",
+            "type": "INFO",
+            "description": "Midden-Zeeland Radio",
+            "frequency_mhz": "119.255"
+        }
+    ],
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland,Luchthavens van Nederland"
+    },
+    "region": {
+        "id": "304944",
+        "code": "NL-ZL",
+        "local_code": "ZL",
+        "name": "Zeeland",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zeeland",
+        "keywords": ""
+    }
+}

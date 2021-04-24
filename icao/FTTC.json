@@ -1,0 +1,96 @@
+{
+    "id": "2996",
+    "ident": "FTTC",
+    "type": "medium_airport",
+    "name": "Abeche Airport",
+    "latitude_deg": "13.847",
+    "longitude_deg": "20.844299",
+    "elevation_ft": "1788",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-OD",
+    "municipality": "Abeche",
+    "scheduled_service": "yes",
+    "gps_code": "FTTC",
+    "iata_code": "AEH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ab%C3%A9ch%C3%A9_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235108",
+            "airport_ref": "2996",
+            "airport_ident": "FTTC",
+            "length_ft": "9186",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "13.848",
+            "le_longitude_deg": "20.8303",
+            "le_elevation_ft": "1751",
+            "le_heading_degT": "92.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "13.8469",
+            "he_longitude_deg": "20.8562",
+            "he_elevation_ft": "1789",
+            "he_heading_degT": "272.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51082",
+            "airport_ref": "2996",
+            "airport_ident": "FTTC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302604",
+        "code": "TD",
+        "name": "Chad",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chad",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305698",
+        "code": "TD-OD",
+        "local_code": "OD",
+        "name": "Ouaddai",
+        "continent": "AF",
+        "iso_country": "TD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ouaddai",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85278",
+            "filename": "Abeche_VOR_TD",
+            "ident": "AE",
+            "name": "Abeche",
+            "type": "VOR",
+            "frequency_khz": "114500",
+            "latitude_deg": "13.845100402832031",
+            "longitude_deg": "20.844999313354492",
+            "elevation_ft": "1804",
+            "iso_country": "TD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.03",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FTTC"
+        }
+    ]
+}

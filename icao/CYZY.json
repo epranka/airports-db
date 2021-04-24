@@ -1,0 +1,96 @@
+{
+    "id": "2004",
+    "ident": "CYZY",
+    "type": "medium_airport",
+    "name": "Mackenzie Airport",
+    "latitude_deg": "55.304402",
+    "longitude_deg": "-123.132004",
+    "elevation_ft": "2264",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Mackenzie",
+    "scheduled_service": "no",
+    "gps_code": "CYZY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mackenzie_Airport",
+    "keywords": "YZY",
+    "runways": [
+        {
+            "id": "235047",
+            "airport_ref": "2004",
+            "airport_ident": "CYZY",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "55.3111",
+            "le_longitude_deg": "-123.131",
+            "le_elevation_ft": "",
+            "le_heading_degT": "186",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "55.2975",
+            "he_longitude_deg": "-123.133",
+            "he_elevation_ft": "",
+            "he_heading_degT": "6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50957",
+            "airport_ref": "2004",
+            "airport_ident": "CYZY",
+            "type": "RCO",
+            "description": "PACIFIC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85072",
+            "filename": "Mackenzie_Bc_NDB-DME_CA",
+            "ident": "2U",
+            "name": "Mackenzie Bc",
+            "type": "NDB-DME",
+            "frequency_khz": "284",
+            "latitude_deg": "55.3036003112793",
+            "longitude_deg": "-123.13700103759766",
+            "elevation_ft": "2303",
+            "iso_country": "CA",
+            "dme_frequency_khz": "108900",
+            "dme_channel": "026X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "20.519",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYZY"
+        }
+    ]
+}

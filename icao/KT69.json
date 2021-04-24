@@ -1,0 +1,110 @@
+{
+    "id": "21163",
+    "ident": "KT69",
+    "type": "small_airport",
+    "name": "Alfred C 'Bubba' Thomas Airport",
+    "latitude_deg": "28.0392",
+    "longitude_deg": "-97.542397",
+    "elevation_ft": "48",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Sinton",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "T69",
+    "home_link": "https://ftp.dot.state.tx.us/pub/txdot-info/avn/airport_directory/t69.pdf",
+    "wikipedia_link": "",
+    "keywords": "San Patricio County",
+    "runways": [
+        {
+            "id": "240807",
+            "airport_ref": "21163",
+            "airport_ident": "KT69",
+            "length_ft": "2800",
+            "width_ft": "50",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "03",
+            "le_latitude_deg": "28.035",
+            "le_longitude_deg": "-97.5451",
+            "le_elevation_ft": "47",
+            "le_heading_degT": "40.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "28.0408",
+            "he_longitude_deg": "-97.5394",
+            "he_elevation_ft": "47",
+            "he_heading_degT": "220.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240808",
+            "airport_ref": "21163",
+            "airport_ident": "KT69",
+            "length_ft": "4323",
+            "width_ft": "55",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "28.0442",
+            "le_longitude_deg": "-97.5462",
+            "le_elevation_ft": "46",
+            "le_heading_degT": "145.8",
+            "le_displaced_threshold_ft": "250",
+            "he_ident": "32",
+            "he_latitude_deg": "28.0343",
+            "he_longitude_deg": "-97.5387",
+            "he_elevation_ft": "47",
+            "he_heading_degT": "325.8",
+            "he_displaced_threshold_ft": "400"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60549",
+            "airport_ref": "21163",
+            "airport_ident": "KT69",
+            "type": "A/D",
+            "description": "CORPUS APP/DEP",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "60550",
+            "airport_ref": "21163",
+            "airport_ident": "KT69",
+            "type": "RDO",
+            "description": "SAN ANGELO RDO",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "60551",
+            "airport_ref": "21163",
+            "airport_ident": "KT69",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

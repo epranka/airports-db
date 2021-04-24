@@ -1,0 +1,104 @@
+{
+    "id": "4317",
+    "ident": "LICA",
+    "type": "medium_airport",
+    "name": "Lamezia Terme Airport",
+    "latitude_deg": "38.905399",
+    "longitude_deg": "16.2423",
+    "elevation_ft": "39",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-78",
+    "municipality": "Lamezia Terme (CZ)",
+    "scheduled_service": "yes",
+    "gps_code": "LICA",
+    "iata_code": "SUF",
+    "local_code": "CZ02",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lamezia_Terme_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237018",
+            "airport_ref": "4317",
+            "airport_ident": "LICA",
+            "length_ft": "9898",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "38.907",
+            "le_longitude_deg": "16.2286",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "99",
+            "le_displaced_threshold_ft": "348",
+            "he_ident": "28",
+            "he_latitude_deg": "38.9038",
+            "he_longitude_deg": "16.256",
+            "he_elevation_ft": "39",
+            "he_heading_degT": "279",
+            "he_displaced_threshold_ft": "351"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54247",
+            "airport_ref": "4317",
+            "airport_ident": "LICA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "54248",
+            "airport_ref": "4317",
+            "airport_ident": "LICA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.7"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306369",
+        "code": "IT-78",
+        "local_code": "78",
+        "name": "Calabria",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Calabria",
+        "keywords": "CI"
+    },
+    "navaids": [
+        {
+            "id": "90428",
+            "filename": "Lamezia_Terme_VOR-DME_IT",
+            "ident": "LMT",
+            "name": "Lamezia Terme",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "38.902801513671875",
+            "longitude_deg": "16.264999389648438",
+            "elevation_ft": "45",
+            "iso_country": "IT",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.182",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LICA"
+        }
+    ]
+}

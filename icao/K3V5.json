@@ -1,0 +1,102 @@
+{
+    "id": "18748",
+    "ident": "K3V5",
+    "type": "closed",
+    "name": "Fort Collins Downtown Airport",
+    "latitude_deg": "40.588299",
+    "longitude_deg": "-105.042",
+    "elevation_ft": "4939",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Fort Collins",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fort_Collins_Downtown_Airport",
+    "keywords": "3V5",
+    "runways": [
+        {
+            "id": "242198",
+            "airport_ref": "18748",
+            "airport_ident": "K3V5",
+            "length_ft": "5326",
+            "width_ft": "44",
+            "surface": "ASPH",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "40.5929",
+            "le_longitude_deg": "-105.049",
+            "le_elevation_ft": "4939",
+            "le_heading_degT": "128.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "40.5838",
+            "he_longitude_deg": "-105.034",
+            "he_elevation_ft": "4922",
+            "he_heading_degT": "308.5",
+            "he_displaced_threshold_ft": "408"
+        },
+        {
+            "id": "242199",
+            "airport_ref": "18748",
+            "airport_ident": "K3V5",
+            "length_ft": "3400",
+            "width_ft": "50",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11L",
+            "le_latitude_deg": "40.5922",
+            "le_longitude_deg": "-105.046",
+            "le_elevation_ft": "",
+            "le_heading_degT": "129.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29R",
+            "he_latitude_deg": "40.5861",
+            "he_longitude_deg": "-105.036",
+            "he_elevation_ft": "",
+            "he_heading_degT": "309.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63427",
+            "airport_ref": "18748",
+            "airport_ident": "K3V5",
+            "type": "A/D",
+            "description": "DENVER APP/DEP",
+            "frequency_mhz": "134.85"
+        },
+        {
+            "id": "63428",
+            "airport_ref": "18748",
+            "airport_ident": "K3V5",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

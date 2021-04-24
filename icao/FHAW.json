@@ -1,0 +1,142 @@
+{
+    "id": "2877",
+    "ident": "FHAW",
+    "type": "medium_airport",
+    "name": "RAF Ascension Island",
+    "latitude_deg": "-7.9696",
+    "longitude_deg": "-14.3937",
+    "elevation_ft": "278",
+    "continent": "AF",
+    "iso_country": "SH",
+    "iso_region": "SH-AC",
+    "municipality": "Cat Hill",
+    "scheduled_service": "no",
+    "gps_code": "FHAW",
+    "iata_code": "ASI",
+    "local_code": "",
+    "home_link": "http://www.raf.mod.uk/organisation/stations.cfm?selectStation=9DEB5257-FDEF-6850-8B1CFF5050616CC1#cgi.script_name#",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Ascension_Island",
+    "keywords": "Wideawake Airfield, Ascension Island Auxiliary Field",
+    "runways": [
+        {
+            "id": "238852",
+            "airport_ref": "2877",
+            "airport_ident": "FHAW",
+            "length_ft": "10019",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "-7.96341",
+            "le_longitude_deg": "-14.406",
+            "le_elevation_ft": "263",
+            "le_heading_degT": "117",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "-7.97578",
+            "he_longitude_deg": "-14.3813",
+            "he_elevation_ft": "214",
+            "he_heading_degT": "297",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57160",
+            "airport_ref": "2877",
+            "airport_ident": "FHAW",
+            "type": "A/G",
+            "description": "RAF HAVENS HF",
+            "frequency_mhz": "1124.7"
+        },
+        {
+            "id": "57161",
+            "airport_ref": "2877",
+            "airport_ident": "FHAW",
+            "type": "ACC",
+            "description": "ATLANTICO FIR",
+            "frequency_mhz": "1795.5"
+        },
+        {
+            "id": "57162",
+            "airport_ref": "2877",
+            "airport_ident": "FHAW",
+            "type": "RDO",
+            "description": "ASCENSION RDO",
+            "frequency_mhz": "1078"
+        },
+        {
+            "id": "57163",
+            "airport_ref": "2877",
+            "airport_ident": "FHAW",
+            "type": "TWR",
+            "description": "WIDEAWAKE TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302598",
+        "code": "SH",
+        "name": "Saint Helena",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Helena",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305434",
+        "code": "SH-AC",
+        "local_code": "AC",
+        "name": "Ascension",
+        "continent": "AF",
+        "iso_country": "SH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ascension",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85623",
+            "filename": "Ascension_Aux_Af_VORTAC_SH",
+            "ident": "ASI",
+            "name": "Ascension Aux Af",
+            "type": "VORTAC",
+            "frequency_khz": "112200",
+            "latitude_deg": "-7.969880104064941",
+            "longitude_deg": "-14.397299766540527",
+            "elevation_ft": "495",
+            "iso_country": "SH",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.386",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "FHAW"
+        },
+        {
+            "id": "85631",
+            "filename": "Ascension_Aux_Af_NDB_SH",
+            "ident": "ASN",
+            "name": "Ascension Aux Af",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "-7.946829795837402",
+            "longitude_deg": "-14.40999984741211",
+            "elevation_ft": "519",
+            "iso_country": "SH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.38",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FHAW"
+        }
+    ]
+}

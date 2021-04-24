@@ -1,0 +1,104 @@
+{
+    "id": "2925",
+    "ident": "FMNW",
+    "type": "medium_airport",
+    "name": "Ambalabe Airport",
+    "latitude_deg": "-14.898799896240234",
+    "longitude_deg": "47.993900299072266",
+    "elevation_ft": "92",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-M",
+    "municipality": "Antsohihy",
+    "scheduled_service": "yes",
+    "gps_code": "FMNW",
+    "iata_code": "WAI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ambalabe_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237535",
+            "airport_ref": "2925",
+            "airport_ident": "FMNW",
+            "length_ft": "4921",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-14.9055",
+            "le_longitude_deg": "47.9936",
+            "le_elevation_ft": "",
+            "le_heading_degT": "2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-14.892",
+            "he_longitude_deg": "47.9942",
+            "he_elevation_ft": "",
+            "he_heading_degT": "182",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55257",
+            "airport_ref": "2925",
+            "airport_ident": "FMNW",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "548.4"
+        },
+        {
+            "id": "55258",
+            "airport_ref": "2925",
+            "airport_ident": "FMNW",
+            "type": "AFIS",
+            "description": "AFIS INFO",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302585",
+        "code": "MG",
+        "name": "Madagascar",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madagascar",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304626",
+        "code": "MG-M",
+        "local_code": "M",
+        "name": "Mahajanga",
+        "continent": "AF",
+        "iso_country": "MG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mahajanga",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85645",
+            "filename": "Antsohihy_NDB_MG",
+            "ident": "AT",
+            "name": "Antsohihy",
+            "type": "NDB",
+            "frequency_khz": "374",
+            "latitude_deg": "-14.904199600219727",
+            "longitude_deg": "47.995601654052734",
+            "elevation_ft": "",
+            "iso_country": "MG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.491",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FMNW"
+        }
+    ]
+}

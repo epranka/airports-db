@@ -1,0 +1,80 @@
+{
+    "id": "4519",
+    "ident": "LTAO",
+    "type": "small_airport",
+    "name": "Malatya Tulga Airport",
+    "latitude_deg": "38.353699",
+    "longitude_deg": "38.253899",
+    "elevation_ft": "3016",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-44",
+    "municipality": "Malatya",
+    "scheduled_service": "yes",
+    "gps_code": "LTAO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239249",
+            "airport_ref": "4519",
+            "airport_ident": "LTAO",
+            "length_ft": "7874",
+            "width_ft": "135",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "38.3467",
+            "le_longitude_deg": "38.2443",
+            "le_elevation_ft": "3002",
+            "le_heading_degT": "47",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "38.3607",
+            "he_longitude_deg": "38.2636",
+            "he_elevation_ft": "3005",
+            "he_heading_degT": "227",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57855",
+            "airport_ref": "4519",
+            "airport_ident": "LTAO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "57854",
+            "airport_ref": "4519",
+            "airport_ident": "LTAO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "132"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305879",
+        "code": "TR-44",
+        "local_code": "44",
+        "name": "Malatya Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malatya_Province",
+        "keywords": ""
+    }
+}

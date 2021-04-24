@@ -1,0 +1,120 @@
+{
+    "id": "19961",
+    "ident": "KGLY",
+    "type": "small_airport",
+    "name": "Clinton Memorial Airport",
+    "latitude_deg": "38.35660171508789",
+    "longitude_deg": "-93.68419647216797",
+    "elevation_ft": "822",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Clinton",
+    "scheduled_service": "no",
+    "gps_code": "KGLY",
+    "iata_code": "",
+    "local_code": "GLY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245273",
+            "airport_ref": "19961",
+            "airport_ident": "KGLY",
+            "length_ft": "4001",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "38.3527",
+            "le_longitude_deg": "-93.6891",
+            "le_elevation_ft": "819",
+            "le_heading_degT": "44.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "38.3605",
+            "he_longitude_deg": "-93.6793",
+            "he_elevation_ft": "822",
+            "he_heading_degT": "224.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69950",
+            "airport_ref": "19961",
+            "airport_ident": "KGLY",
+            "type": "APP",
+            "description": "WHITEMAN APP",
+            "frequency_mhz": "127.45"
+        },
+        {
+            "id": "69951",
+            "airport_ref": "19961",
+            "airport_ident": "KGLY",
+            "type": "DEP",
+            "description": "WHITEMAN DEP",
+            "frequency_mhz": "125.925"
+        },
+        {
+            "id": "69952",
+            "airport_ref": "19961",
+            "airport_ident": "KGLY",
+            "type": "RDO",
+            "description": "COLUMBIA RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "69953",
+            "airport_ref": "19961",
+            "airport_ident": "KGLY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88462",
+            "filename": "Golden_Valley_NDB_US",
+            "ident": "GLY",
+            "name": "Golden Valley",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "38.358699798583984",
+            "longitude_deg": "-93.68470001220703",
+            "elevation_ft": "800",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.188",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KGLY"
+        }
+    ]
+}

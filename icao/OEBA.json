@@ -1,0 +1,104 @@
+{
+    "id": "5084",
+    "ident": "OEBA",
+    "type": "medium_airport",
+    "name": "Al Baha Airport",
+    "latitude_deg": "20.2961006165",
+    "longitude_deg": "41.6343002319",
+    "elevation_ft": "5486",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-11",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "OEBA",
+    "iata_code": "ABT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Al-Baha_Domestic_Airport",
+    "keywords": "Al-Aqiq",
+    "runways": [
+        {
+            "id": "238664",
+            "airport_ref": "5084",
+            "airport_ident": "OEBA",
+            "length_ft": "10991",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "20.2912",
+            "le_longitude_deg": "41.6191",
+            "le_elevation_ft": "5482",
+            "le_heading_degT": "70.8",
+            "le_displaced_threshold_ft": "787",
+            "he_ident": "25",
+            "he_latitude_deg": "20.3011",
+            "he_longitude_deg": "41.6494",
+            "he_elevation_ft": "5430",
+            "he_heading_degT": "250.8",
+            "he_displaced_threshold_ft": "787"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56947",
+            "airport_ref": "5084",
+            "airport_ident": "OEBA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "56948",
+            "airport_ref": "5084",
+            "airport_ident": "OEBA",
+            "type": "EMR",
+            "description": "CRASH SVC",
+            "frequency_mhz": "133.5"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305370",
+        "code": "SA-11",
+        "local_code": "11",
+        "name": "Al Batah Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Batah_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86013",
+            "filename": "Al_Baha_VORTAC_SA",
+            "ident": "BHA",
+            "name": "Al Baha",
+            "type": "VORTAC",
+            "frequency_khz": "113500",
+            "latitude_deg": "20.292499542236328",
+            "longitude_deg": "41.62910079956055",
+            "elevation_ft": "5468",
+            "iso_country": "SA",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.283",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OEBA"
+        }
+    ]
+}

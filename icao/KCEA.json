@@ -1,0 +1,96 @@
+{
+    "id": "19477",
+    "ident": "KCEA",
+    "type": "small_airport",
+    "name": "Cessna Aircraft Field",
+    "latitude_deg": "37.648601532",
+    "longitude_deg": "-97.2506027222",
+    "elevation_ft": "1378",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Wichita",
+    "scheduled_service": "no",
+    "gps_code": "KCEA",
+    "iata_code": "CEA",
+    "local_code": "CEA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cessna_Aircraft_Field",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243557",
+            "airport_ref": "19477",
+            "airport_ident": "KCEA",
+            "length_ft": "3873",
+            "width_ft": "40",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "37.6539",
+            "le_longitude_deg": "-97.2506",
+            "le_elevation_ft": "1373",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "150",
+            "he_ident": "35",
+            "he_latitude_deg": "37.6433",
+            "he_longitude_deg": "-97.2506",
+            "he_elevation_ft": "1373",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "150"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66261",
+            "airport_ref": "19477",
+            "airport_ident": "KCEA",
+            "type": "A/D",
+            "description": "WICHITA APP/DEP",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "66262",
+            "airport_ref": "19477",
+            "airport_ident": "KCEA",
+            "type": "CLD",
+            "description": "WICHITA CLNC DEL",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "66263",
+            "airport_ref": "19477",
+            "airport_ident": "KCEA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "66264",
+            "airport_ref": "19477",
+            "airport_ident": "KCEA",
+            "type": "TWR",
+            "description": "MC CONNELL TWR",
+            "frequency_mhz": "127.25"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

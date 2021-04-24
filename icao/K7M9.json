@@ -1,0 +1,72 @@
+{
+    "id": "19073",
+    "ident": "K7M9",
+    "type": "small_airport",
+    "name": "Salem Airport",
+    "latitude_deg": "36.3559",
+    "longitude_deg": "-91.831001",
+    "elevation_ft": "787",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Salem",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "7M9",
+    "home_link": "http://fly.arkansas.gov/salem.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Salem_Airport_(Arkansas)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242273",
+            "airport_ref": "19073",
+            "airport_ident": "K7M9",
+            "length_ft": "3500",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "36.3515",
+            "le_longitude_deg": "-91.8333",
+            "le_elevation_ft": "787",
+            "le_heading_degT": "23.1",
+            "le_displaced_threshold_ft": "1233",
+            "he_ident": "20",
+            "he_latitude_deg": "36.3603",
+            "he_longitude_deg": "-91.8286",
+            "he_elevation_ft": "761",
+            "he_heading_degT": "203.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63577",
+            "airport_ref": "19073",
+            "airport_ident": "K7M9",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "2409",
+    "ident": "EGDX",
+    "type": "medium_airport",
+    "name": "St. Athan Airport",
+    "latitude_deg": "51.4048",
+    "longitude_deg": "-3.43575",
+    "elevation_ft": "163",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-WLS",
+    "municipality": "St. Athan",
+    "scheduled_service": "no",
+    "gps_code": "EGSY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/MOD_St_Athan",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239408",
+            "airport_ref": "2409",
+            "airport_ident": "EGDX",
+            "length_ft": "5997",
+            "width_ft": "141",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "51.4028",
+            "le_longitude_deg": "-3.44601",
+            "le_elevation_ft": "160",
+            "le_heading_degT": "73",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "51.4076",
+            "he_longitude_deg": "-3.42092",
+            "he_elevation_ft": "133",
+            "he_heading_degT": "253",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58132",
+            "airport_ref": "2409",
+            "airport_ident": "EGDX",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "126.625"
+        },
+        {
+            "id": "58133",
+            "airport_ref": "2409",
+            "airport_ident": "EGDX",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "34.045"
+        },
+        {
+            "id": "58134",
+            "airport_ref": "2409",
+            "airport_ident": "EGDX",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "24.112"
+        },
+        {
+            "id": "58135",
+            "airport_ref": "2409",
+            "airport_ident": "EGDX",
+            "type": "MISC",
+            "description": "CARDIFF ATIS",
+            "frequency_mhz": "132.475"
+        },
+        {
+            "id": "58136",
+            "airport_ref": "2409",
+            "airport_ident": "EGDX",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.125"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306376",
+        "code": "GB-WLS",
+        "local_code": "WLS",
+        "name": "Wales",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wales",
+        "keywords": "keep"
+    },
+    "navaids": [
+        {
+            "id": "93388",
+            "filename": "St_Athan_TACAN_GB",
+            "ident": "SAT",
+            "name": "St Athan",
+            "type": "TACAN",
+            "frequency_khz": "114800",
+            "latitude_deg": "51.40639877319336",
+            "longitude_deg": "-3.434969902038574",
+            "elevation_ft": "178",
+            "iso_country": "GB",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.318",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EGDX"
+        }
+    ]
+}

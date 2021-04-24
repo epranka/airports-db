@@ -1,0 +1,88 @@
+{
+    "id": "18361",
+    "ident": "KOWP",
+    "type": "small_airport",
+    "name": "William R. Pogue Municipal Airport",
+    "latitude_deg": "36.1753006",
+    "longitude_deg": "-96.15180206",
+    "elevation_ft": "892",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Sand Springs",
+    "scheduled_service": "no",
+    "gps_code": "KOWP",
+    "iata_code": "",
+    "local_code": "OWP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243813",
+            "airport_ref": "18361",
+            "airport_ident": "KOWP",
+            "length_ft": "5800",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "36.1832",
+            "le_longitude_deg": "-96.1526",
+            "le_elevation_ft": "883",
+            "le_heading_degT": "176",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "36.1673",
+            "he_longitude_deg": "-96.151",
+            "he_elevation_ft": "889",
+            "he_heading_degT": "356",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66820",
+            "airport_ref": "18361",
+            "airport_ident": "KOWP",
+            "type": "A/D",
+            "description": "TULSA APP/DEP",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "66821",
+            "airport_ref": "18361",
+            "airport_ident": "KOWP",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "66822",
+            "airport_ref": "18361",
+            "airport_ident": "KOWP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

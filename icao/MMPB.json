@@ -1,0 +1,96 @@
+{
+    "id": "4738",
+    "ident": "MMPB",
+    "type": "medium_airport",
+    "name": "Hermanos Serdán International Airport",
+    "latitude_deg": "19.1581001282",
+    "longitude_deg": "-98.3713989258",
+    "elevation_ft": "7361",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-PUE",
+    "municipality": "Puebla",
+    "scheduled_service": "yes",
+    "gps_code": "MMPB",
+    "iata_code": "PBC",
+    "local_code": "",
+    "home_link": "http://www.aeropuertopuebla.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hermanos_Serd%C3%A1n_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237726",
+            "airport_ref": "4738",
+            "airport_ident": "MMPB",
+            "length_ft": "11811",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "19.1745",
+            "le_longitude_deg": "-98.372",
+            "le_elevation_ft": "7361",
+            "le_heading_degT": "177.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "19.1418",
+            "he_longitude_deg": "-98.3709",
+            "he_elevation_ft": "7361",
+            "he_heading_degT": "357.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55466",
+            "airport_ref": "4738",
+            "airport_ident": "MMPB",
+            "type": "APP",
+            "description": "PUEBLA APP/TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304810",
+        "code": "MX-PUE",
+        "local_code": "PUE",
+        "name": "Puebla",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Puebla",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92296",
+            "filename": "Puebla_VOR-DME_MX",
+            "ident": "PBC",
+            "name": "Puebla",
+            "type": "VOR-DME",
+            "frequency_khz": "115200",
+            "latitude_deg": "19.160900115966797",
+            "longitude_deg": "-98.37020111083984",
+            "elevation_ft": "7361",
+            "iso_country": "MX",
+            "dme_frequency_khz": "115200",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.003",
+            "magnetic_variation_deg": "5.43",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMPB"
+        }
+    ]
+}

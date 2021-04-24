@@ -1,0 +1,144 @@
+{
+    "id": "3745",
+    "ident": "KOFF",
+    "type": "medium_airport",
+    "name": "Offutt Air Force Base",
+    "latitude_deg": "41.118301391602",
+    "longitude_deg": "-95.912498474121",
+    "elevation_ft": "1052",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Omaha",
+    "scheduled_service": "no",
+    "gps_code": "KOFF",
+    "iata_code": "OFF",
+    "local_code": "OFF",
+    "home_link": "http://www.offutt.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Offutt_Air_Force_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245456",
+            "airport_ref": "3745",
+            "airport_ident": "KOFF",
+            "length_ft": "11700",
+            "width_ft": "300",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "41.1295",
+            "le_longitude_deg": "-95.9247",
+            "le_elevation_ft": "1038",
+            "le_heading_degT": "129.1",
+            "le_displaced_threshold_ft": "1000",
+            "he_ident": "30",
+            "he_latitude_deg": "41.1092",
+            "he_longitude_deg": "-95.8917",
+            "he_elevation_ft": "971",
+            "he_heading_degT": "309.1",
+            "he_displaced_threshold_ft": "1100"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70360",
+            "airport_ref": "3745",
+            "airport_ident": "KOFF",
+            "type": "A/D",
+            "description": "OMAHA APP/DEP",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "70361",
+            "airport_ref": "3745",
+            "airport_ident": "KOFF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.025"
+        },
+        {
+            "id": "70362",
+            "airport_ref": "3745",
+            "airport_ident": "KOFF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "70363",
+            "airport_ref": "3745",
+            "airport_ident": "KOFF",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "22.74"
+        },
+        {
+            "id": "70364",
+            "airport_ref": "3745",
+            "airport_ident": "KOFF",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "31.1"
+        },
+        {
+            "id": "70365",
+            "airport_ref": "3745",
+            "airport_ident": "KOFF",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.94"
+        },
+        {
+            "id": "70366",
+            "airport_ref": "3745",
+            "airport_ident": "KOFF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91918",
+            "filename": "Offutt_TACAN_US",
+            "ident": "OFF",
+            "name": "Offutt",
+            "type": "TACAN",
+            "frequency_khz": "111700",
+            "latitude_deg": "41.1171989440918",
+            "longitude_deg": "-95.9000015258789",
+            "elevation_ft": "1090",
+            "iso_country": "US",
+            "dme_frequency_khz": "111700",
+            "dme_channel": "054X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.011",
+            "magnetic_variation_deg": "3.478",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KOFF"
+        }
+    ]
+}

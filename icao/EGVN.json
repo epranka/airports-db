@@ -1,0 +1,198 @@
+{
+    "id": "2493",
+    "ident": "EGVN",
+    "type": "large_airport",
+    "name": "RAF Brize Norton",
+    "latitude_deg": "51.75",
+    "longitude_deg": "-1.58362",
+    "elevation_ft": "288",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Brize Norton",
+    "scheduled_service": "yes",
+    "gps_code": "EGVN",
+    "iata_code": "BZZ",
+    "local_code": "",
+    "home_link": "http://www.raf.mod.uk/rafbrizenorton/passengers/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Brize_Norton",
+    "keywords": "Royal Air Force",
+    "runways": [
+        {
+            "id": "239479",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "length_ft": "10007",
+            "width_ft": "184",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "51.7461",
+            "le_longitude_deg": "-1.60413",
+            "le_elevation_ft": "284",
+            "le_heading_degT": "74",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "51.7539",
+            "he_longitude_deg": "-1.56179",
+            "he_elevation_ft": "249",
+            "he_heading_degT": "254",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "307834",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "127.25"
+        },
+        {
+            "id": "58285",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "58286",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "CAC",
+            "description": "Non-Zone Radar Service (See LARS)",
+            "frequency_mhz": "124.275"
+        },
+        {
+            "id": "58284",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "DEP",
+            "description": "",
+            "frequency_mhz": "127.25"
+        },
+        {
+            "id": "58287",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.725"
+        },
+        {
+            "id": "307836",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "LARS",
+            "description": "Lower Airspace Radar Service (0900L-1700L)",
+            "frequency_mhz": "124.275"
+        },
+        {
+            "id": "58289",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "135.75"
+        },
+        {
+            "id": "58290",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "RDR",
+            "description": "Director Radar",
+            "frequency_mhz": "133.75"
+        },
+        {
+            "id": "58291",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "TWR 1",
+            "description": "Primary",
+            "frequency_mhz": "123.725"
+        },
+        {
+            "id": "307835",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "TWR 2",
+            "description": "Stby",
+            "frequency_mhz": "123.55"
+        },
+        {
+            "id": "58288",
+            "airport_ref": "2493",
+            "airport_ident": "EGVN",
+            "type": "ZONE",
+            "description": "Brize CTR.  Zone Control/Transits",
+            "frequency_mhz": "119"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86513",
+            "filename": "Brize_Norton_NDB_GB",
+            "ident": "BZ",
+            "name": "Brize Norton",
+            "type": "NDB",
+            "frequency_khz": "386",
+            "latitude_deg": "51.74919891357422",
+            "longitude_deg": "-1.6016199588775635",
+            "elevation_ft": "288",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.527",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGVN"
+        },
+        {
+            "id": "86524",
+            "filename": "Brize_Norton_TACAN_GB",
+            "ident": "BZN",
+            "name": "Brize Norton",
+            "type": "TACAN",
+            "frequency_khz": "111900",
+            "latitude_deg": "51.748199462890625",
+            "longitude_deg": "-1.6035300493240356",
+            "elevation_ft": "331",
+            "iso_country": "GB",
+            "dme_frequency_khz": "111900",
+            "dme_channel": "056X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.011",
+            "magnetic_variation_deg": "-2.527",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EGVN"
+        }
+    ]
+}

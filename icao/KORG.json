@@ -1,0 +1,110 @@
+{
+    "id": "20764",
+    "ident": "KORG",
+    "type": "small_airport",
+    "name": "Orange County Airport",
+    "latitude_deg": "30.06920051574707",
+    "longitude_deg": "-93.8009033203125",
+    "elevation_ft": "13",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Orange",
+    "scheduled_service": "no",
+    "gps_code": "KORG",
+    "iata_code": "",
+    "local_code": "ORG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244205",
+            "airport_ref": "20764",
+            "airport_ident": "KORG",
+            "length_ft": "4396",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "30.0647",
+            "le_longitude_deg": "-93.8056",
+            "le_elevation_ft": "9",
+            "le_heading_degT": "42.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "30.0737",
+            "he_longitude_deg": "-93.7962",
+            "he_elevation_ft": "12",
+            "he_heading_degT": "222.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244206",
+            "airport_ref": "20764",
+            "airport_ident": "KORG",
+            "length_ft": "3000",
+            "width_ft": "50",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "30.0722",
+            "le_longitude_deg": "-93.8108",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "137.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "30.0662",
+            "he_longitude_deg": "-93.8043",
+            "he_elevation_ft": "10",
+            "he_heading_degT": "317.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67611",
+            "airport_ref": "20764",
+            "airport_ident": "KORG",
+            "type": "A/D",
+            "description": "BEAUMONT APP/DEP",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "67612",
+            "airport_ref": "20764",
+            "airport_ident": "KORG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.975"
+        },
+        {
+            "id": "67613",
+            "airport_ref": "20764",
+            "airport_ident": "KORG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

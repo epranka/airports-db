@@ -1,0 +1,80 @@
+{
+    "id": "18781",
+    "ident": "K45K",
+    "type": "small_airport",
+    "name": "Minneapolis City County Airport",
+    "latitude_deg": "39.09469985961914",
+    "longitude_deg": "-97.72059631347656",
+    "elevation_ft": "1245",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Minneapolis",
+    "scheduled_service": "no",
+    "gps_code": "K45K",
+    "iata_code": "",
+    "local_code": "45K",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245314",
+            "airport_ref": "18781",
+            "airport_ident": "K45K",
+            "length_ft": "3970",
+            "width_ft": "20",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "39.1",
+            "le_longitude_deg": "-97.7222",
+            "le_elevation_ft": "",
+            "le_heading_degT": "166",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "39.0894",
+            "he_longitude_deg": "-97.7189",
+            "he_elevation_ft": "",
+            "he_heading_degT": "346",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70037",
+            "airport_ref": "18781",
+            "airport_ident": "K45K",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "134.9"
+        },
+        {
+            "id": "70038",
+            "airport_ref": "18781",
+            "airport_ident": "K45K",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

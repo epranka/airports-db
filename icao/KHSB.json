@@ -1,0 +1,110 @@
+{
+    "id": "20085",
+    "ident": "KHSB",
+    "type": "small_airport",
+    "name": "Harrisburg-Raleigh Airport",
+    "latitude_deg": "37.81129837",
+    "longitude_deg": "-88.5503006",
+    "elevation_ft": "398",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Harrisburg",
+    "scheduled_service": "no",
+    "gps_code": "KHSB",
+    "iata_code": "HSB",
+    "local_code": "HSB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244063",
+            "airport_ref": "20085",
+            "airport_ident": "KHSB",
+            "length_ft": "5013",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "37.809",
+            "le_longitude_deg": "-88.5595",
+            "le_elevation_ft": "387",
+            "le_heading_degT": "63.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "37.8152",
+            "he_longitude_deg": "-88.5439",
+            "he_elevation_ft": "396",
+            "he_heading_degT": "243.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244064",
+            "airport_ref": "20085",
+            "airport_ident": "KHSB",
+            "length_ft": "2764",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "37.8127",
+            "le_longitude_deg": "-88.5506",
+            "le_elevation_ft": "387",
+            "le_heading_degT": "141",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "37.8068",
+            "he_longitude_deg": "-88.5446",
+            "he_elevation_ft": "382",
+            "he_heading_degT": "321",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67311",
+            "airport_ref": "20085",
+            "airport_ident": "KHSB",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.925"
+        },
+        {
+            "id": "67312",
+            "airport_ref": "20085",
+            "airport_ident": "KHSB",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "67313",
+            "airport_ref": "20085",
+            "airport_ident": "KHSB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

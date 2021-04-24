@@ -1,0 +1,96 @@
+{
+    "id": "5881",
+    "ident": "SBCD",
+    "type": "small_airport",
+    "name": "Caçador Airport",
+    "latitude_deg": "-26.78840065",
+    "longitude_deg": "-50.9398002625",
+    "elevation_ft": "3376",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Caçador",
+    "scheduled_service": "yes",
+    "gps_code": "SBCD",
+    "iata_code": "CFC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ca%C3%A7ador_Airport",
+    "keywords": "Carlos Alberto da Costa Neves Airport",
+    "runways": [
+        {
+            "id": "233951",
+            "airport_ref": "5881",
+            "airport_ident": "SBCD",
+            "length_ft": "5331",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "2",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49587",
+            "airport_ref": "5881",
+            "airport_ident": "SBCD",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "130.05"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303222",
+        "code": "BR-SC",
+        "local_code": "SC",
+        "name": "Santa Catarina",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86555",
+            "filename": "Cacador_NDB_BR",
+            "ident": "CAD",
+            "name": "Cacador",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "-26.791400909423828",
+            "longitude_deg": "-50.93840026855469",
+            "elevation_ft": "14",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.295",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "SBCD"
+        }
+    ]
+}

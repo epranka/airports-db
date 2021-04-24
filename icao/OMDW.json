@@ -1,0 +1,118 @@
+{
+    "id": "300320",
+    "ident": "OMDW",
+    "type": "large_airport",
+    "name": "Al Maktoum International Airport",
+    "latitude_deg": "24.896356",
+    "longitude_deg": "55.161389",
+    "elevation_ft": "114",
+    "continent": "AS",
+    "iso_country": "AE",
+    "iso_region": "AE-DU",
+    "municipality": "Jebel Ali",
+    "scheduled_service": "yes",
+    "gps_code": "OMDW",
+    "iata_code": "DWC",
+    "local_code": "",
+    "home_link": "https://www.dubaiairports.ae/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Maktoum_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "300755",
+            "airport_ref": "300320",
+            "airport_ident": "OMDW",
+            "length_ft": "14764",
+            "width_ft": "197",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "24.9071",
+            "le_longitude_deg": "55.1421",
+            "le_elevation_ft": "114",
+            "le_heading_degT": "120",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "24.8861",
+            "he_longitude_deg": "55.1801",
+            "he_elevation_ft": "170",
+            "he_heading_degT": "300",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "335239",
+            "airport_ref": "300320",
+            "airport_ident": "OMDW",
+            "length_ft": "6030",
+            "width_ft": "98",
+            "surface": "asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "24.8707",
+            "le_longitude_deg": "55.1524",
+            "le_elevation_ft": "155",
+            "le_heading_degT": "121",
+            "le_displaced_threshold_ft": "492",
+            "he_ident": "31",
+            "he_latitude_deg": "24.8621",
+            "he_longitude_deg": "55.168",
+            "he_elevation_ft": "155",
+            "he_heading_degT": "301",
+            "he_displaced_threshold_ft": "492"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "339028",
+            "airport_ref": "300320",
+            "airport_ident": "OMDW",
+            "type": "ATC backup",
+            "description": "",
+            "frequency_mhz": "118.725"
+        },
+        {
+            "id": "300752",
+            "airport_ref": "300320",
+            "airport_ident": "OMDW",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "126.47"
+        },
+        {
+            "id": "300753",
+            "airport_ref": "300320",
+            "airport_ident": "OMDW",
+            "type": "Ground",
+            "description": "Al Maktoum Ground",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "300754",
+            "airport_ref": "300320",
+            "airport_ident": "OMDW",
+            "type": "Tower",
+            "description": "Al Maktoum Tower",
+            "frequency_mhz": "118.625"
+        }
+    ],
+    "country": {
+        "id": "302618",
+        "code": "AE",
+        "name": "United Arab Emirates",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+        "keywords": "UAE,مطارات في الإمارات العربية المتحدة"
+    },
+    "region": {
+        "id": "302821",
+        "code": "AE-DU",
+        "local_code": "DU",
+        "name": "Dubai Emirate",
+        "continent": "AS",
+        "iso_country": "AE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dubai",
+        "keywords": "Dubayy"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "6361",
+    "ident": "TDCF",
+    "type": "medium_airport",
+    "name": "Canefield Airport",
+    "latitude_deg": "15.336693",
+    "longitude_deg": "-61.392108",
+    "elevation_ft": "13",
+    "continent": "NA",
+    "iso_country": "DM",
+    "iso_region": "DM-10",
+    "municipality": "Canefield",
+    "scheduled_service": "yes",
+    "gps_code": "TDCF",
+    "iata_code": "DCF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Canefield_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235482",
+            "airport_ref": "6361",
+            "airport_ident": "TDCF",
+            "length_ft": "3130",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "15.3324",
+            "le_longitude_deg": "-61.3919",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "356.3",
+            "le_displaced_threshold_ft": "475",
+            "he_ident": "19",
+            "he_latitude_deg": "15.341",
+            "he_longitude_deg": "-61.3925",
+            "he_elevation_ft": "13",
+            "he_heading_degT": "176.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51757",
+            "airport_ref": "6361",
+            "airport_ident": "TDCF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302733",
+        "code": "DM",
+        "name": "Dominica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dominica",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306393",
+        "code": "DM-10",
+        "local_code": "10",
+        "name": "Saint Paul Parish",
+        "continent": "NA",
+        "iso_country": "DM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Paul_Parish,_Dominica",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87304",
+            "filename": "Canefield_NDB_DM",
+            "ident": "DCF",
+            "name": "Canefield",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "15.332500457763672",
+            "longitude_deg": "-61.40129852294922",
+            "elevation_ft": "",
+            "iso_country": "DM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.286",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "TDCF"
+        }
+    ]
+}

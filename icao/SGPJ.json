@@ -1,0 +1,96 @@
+{
+    "id": "6095",
+    "ident": "SGPJ",
+    "type": "small_airport",
+    "name": "Dr Augusto Roberto Fuster International Airport",
+    "latitude_deg": "-22.639999389648438",
+    "longitude_deg": "-55.83000183105469",
+    "elevation_ft": "1873",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-13",
+    "municipality": "Pedro Juan Caballero",
+    "scheduled_service": "no",
+    "gps_code": "SGPJ",
+    "iata_code": "PJC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dr._Augusto_Roberto_Fuster_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238121",
+            "airport_ref": "6095",
+            "airport_ident": "SGPJ",
+            "length_ft": "5908",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "-22.6493",
+            "le_longitude_deg": "-55.8322",
+            "le_elevation_ft": "1870",
+            "le_heading_degT": "14",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "-22.6336",
+            "he_longitude_deg": "-55.8278",
+            "he_elevation_ft": "1873",
+            "he_heading_degT": "194",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56052",
+            "airport_ref": "6095",
+            "airport_ident": "SGPJ",
+            "type": "AFIS",
+            "description": "PEDRO JUAN AFIS",
+            "frequency_mhz": "120.5"
+        }
+    ],
+    "country": {
+        "id": "302799",
+        "code": "PY",
+        "name": "Paraguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
+        "keywords": "Aeropuertos de Paraguay"
+    },
+    "region": {
+        "id": "305193",
+        "code": "PY-13",
+        "local_code": "13",
+        "name": "Amambay Department",
+        "continent": "SA",
+        "iso_country": "PY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amambay_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92464",
+            "filename": "Pedro_Juan_Caballero_NDB_PY",
+            "ident": "PJC",
+            "name": "Pedro Juan Caballero",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "-22.64189910888672",
+            "longitude_deg": "-55.83330154418945",
+            "elevation_ft": "1873",
+            "iso_country": "PY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.109",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "SGPJ"
+        }
+    ]
+}

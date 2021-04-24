@@ -1,0 +1,110 @@
+{
+    "id": "19265",
+    "ident": "KAIY",
+    "type": "closed",
+    "name": "Atlantic City Municipal Bader Field",
+    "latitude_deg": "39.3600006104",
+    "longitude_deg": "-74.4561004639",
+    "elevation_ft": "8",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Atlantic City",
+    "scheduled_service": "no",
+    "gps_code": "KAIY",
+    "iata_code": "AIY",
+    "local_code": "AIY",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bader_Field",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240352",
+            "airport_ref": "19265",
+            "airport_ident": "KAIY",
+            "length_ft": "2595",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "39.3555",
+            "le_longitude_deg": "-74.4568",
+            "le_elevation_ft": "7",
+            "le_heading_degT": "27",
+            "le_displaced_threshold_ft": "150",
+            "he_ident": "22",
+            "he_latitude_deg": "39.3619",
+            "he_longitude_deg": "-74.4525",
+            "he_elevation_ft": "7",
+            "he_heading_degT": "207",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240353",
+            "airport_ref": "19265",
+            "airport_ident": "KAIY",
+            "length_ft": "2948",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "39.3621",
+            "le_longitude_deg": "-74.4624",
+            "le_elevation_ft": "7",
+            "le_heading_degT": "103",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "39.3603",
+            "he_longitude_deg": "-74.4523",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "283",
+            "he_displaced_threshold_ft": "119"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59815",
+            "airport_ref": "19265",
+            "airport_ident": "KAIY",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "59816",
+            "airport_ref": "19265",
+            "airport_ident": "KAIY",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "59817",
+            "airport_ref": "19265",
+            "airport_ident": "KAIY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    }
+}

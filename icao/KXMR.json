@@ -1,0 +1,96 @@
+{
+    "id": "3956",
+    "ident": "KXMR",
+    "type": "medium_airport",
+    "name": "Cape Canaveral AFS Skid Strip",
+    "latitude_deg": "28.4675998688",
+    "longitude_deg": "-80.56659698490002",
+    "elevation_ft": "10",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Cocoa Beach",
+    "scheduled_service": "no",
+    "gps_code": "KXMR",
+    "iata_code": "",
+    "local_code": "XMR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cape_Canaveral_AFS_Skid_Strip",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244610",
+            "airport_ref": "3956",
+            "airport_ident": "KXMR",
+            "length_ft": "10000",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "28.476",
+            "le_longitude_deg": "-80.5789",
+            "le_elevation_ft": "10",
+            "le_heading_degT": "128",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "28.4592",
+            "he_longitude_deg": "-80.5543",
+            "he_elevation_ft": "10",
+            "he_heading_degT": "308",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68497",
+            "airport_ref": "3956",
+            "airport_ident": "KXMR",
+            "type": "A/D",
+            "description": "ORLANDO APP/DEP",
+            "frequency_mhz": "134.95"
+        },
+        {
+            "id": "68498",
+            "airport_ref": "3956",
+            "airport_ident": "KXMR",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "344.6"
+        },
+        {
+            "id": "68499",
+            "airport_ref": "3956",
+            "airport_ident": "KXMR",
+            "type": "TWR",
+            "description": "CAPE TWR",
+            "frequency_mhz": "118.625"
+        },
+        {
+            "id": "75310",
+            "airport_ref": "3956",
+            "airport_ident": "KXMR",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "239.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "id": "2538",
+    "ident": "EISG",
+    "type": "medium_airport",
+    "name": "Sligo Airport",
+    "latitude_deg": "54.280200958252",
+    "longitude_deg": "-8.5992097854614",
+    "elevation_ft": "11",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-SO",
+    "municipality": "Sligo",
+    "scheduled_service": "no",
+    "gps_code": "EISG",
+    "iata_code": "SXL",
+    "local_code": "",
+    "home_link": "http://www.sligoairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sligo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235647",
+            "airport_ref": "2538",
+            "airport_ident": "EISG",
+            "length_ft": "3517",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "54.2811",
+            "le_longitude_deg": "-8.60782",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "100",
+            "le_displaced_threshold_ft": "98",
+            "he_ident": "28",
+            "he_latitude_deg": "54.2793",
+            "he_longitude_deg": "-8.5906",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "280",
+            "he_displaced_threshold_ft": "98"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51953",
+            "airport_ref": "2538",
+            "airport_ident": "EISG",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51954",
+            "airport_ref": "2538",
+            "airport_ident": "EISG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51955",
+            "airport_ref": "2538",
+            "airport_ident": "EISG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302694",
+        "code": "IE",
+        "name": "Ireland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
+        "keywords": "Eire"
+    },
+    "region": {
+        "id": "304149",
+        "code": "IE-SO",
+        "local_code": "SO",
+        "name": "County Sligo",
+        "continent": "EU",
+        "iso_country": "IE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sligo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93724",
+            "filename": "Sligo_NDB-DME_IE",
+            "ident": "SLG",
+            "name": "Sligo",
+            "type": "NDB-DME",
+            "frequency_khz": "384",
+            "latitude_deg": "54.27870178222656",
+            "longitude_deg": "-8.591110229492188",
+            "elevation_ft": "15",
+            "iso_country": "IE",
+            "dme_frequency_khz": "109000",
+            "dme_channel": "027X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.182",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EISG"
+        }
+    ]
+}

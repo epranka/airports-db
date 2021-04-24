@@ -1,0 +1,112 @@
+{
+    "id": "5082",
+    "ident": "OEAB",
+    "type": "medium_airport",
+    "name": "Abha International Airport",
+    "latitude_deg": "18.2404",
+    "longitude_deg": "42.656601",
+    "elevation_ft": "6858",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-14",
+    "municipality": "Abha",
+    "scheduled_service": "yes",
+    "gps_code": "OEAB",
+    "iata_code": "AHB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Abha_International_Airport",
+    "keywords": "Abha Regional Airport",
+    "runways": [
+        {
+            "id": "238678",
+            "airport_ref": "5082",
+            "airport_ident": "OEAB",
+            "length_ft": "10991",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "18.2499",
+            "le_longitude_deg": "42.6443",
+            "le_elevation_ft": "6832",
+            "le_heading_degT": "129",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "18.2308",
+            "he_longitude_deg": "42.669",
+            "he_elevation_ft": "6858",
+            "he_heading_degT": "309",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56980",
+            "airport_ref": "5082",
+            "airport_ident": "OEAB",
+            "type": "APP",
+            "description": "KHAMIS APP",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "56981",
+            "airport_ref": "5082",
+            "airport_ident": "OEAB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "56982",
+            "airport_ref": "5082",
+            "airport_ident": "OEAB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305372",
+        "code": "SA-14",
+        "local_code": "14",
+        "name": "Asir Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Asir_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85210",
+            "filename": "Abha_VORTAC_SA",
+            "ident": "ABH",
+            "name": "Abha",
+            "type": "VORTAC",
+            "frequency_khz": "112900",
+            "latitude_deg": "18.241899490356445",
+            "longitude_deg": "42.656898498535156",
+            "elevation_ft": "6862",
+            "iso_country": "SA",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "2.111",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OEAB"
+        }
+    ]
+}

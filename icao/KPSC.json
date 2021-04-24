@@ -1,0 +1,172 @@
+{
+    "id": "20870",
+    "ident": "KPSC",
+    "type": "medium_airport",
+    "name": "Tri Cities Airport",
+    "latitude_deg": "46.26470184326172",
+    "longitude_deg": "-119.11900329589844",
+    "elevation_ft": "410",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Pasco",
+    "scheduled_service": "yes",
+    "gps_code": "KPSC",
+    "iata_code": "PSC",
+    "local_code": "PSC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243330",
+            "airport_ref": "20870",
+            "airport_ident": "KPSC",
+            "length_ft": "7711",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03L",
+            "le_latitude_deg": "46.256",
+            "le_longitude_deg": "-119.133",
+            "le_elevation_ft": "406",
+            "le_heading_degT": "46",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21R",
+            "he_latitude_deg": "46.2707",
+            "he_longitude_deg": "-119.112",
+            "he_elevation_ft": "398",
+            "he_heading_degT": "226",
+            "he_displaced_threshold_ft": "600"
+        },
+        {
+            "id": "243329",
+            "airport_ref": "20870",
+            "airport_ident": "KPSC",
+            "length_ft": "4423",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03R",
+            "le_latitude_deg": "46.2607",
+            "le_longitude_deg": "-119.122",
+            "le_elevation_ft": "399",
+            "le_heading_degT": "46",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21L",
+            "he_latitude_deg": "46.2691",
+            "he_longitude_deg": "-119.109",
+            "he_elevation_ft": "400",
+            "he_heading_degT": "226",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243331",
+            "airport_ref": "20870",
+            "airport_ident": "KPSC",
+            "length_ft": "7703",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "46.2735",
+            "le_longitude_deg": "-119.128",
+            "le_elevation_ft": "392",
+            "le_heading_degT": "136",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "46.2583",
+            "he_longitude_deg": "-119.107",
+            "he_elevation_ft": "399",
+            "he_heading_degT": "316",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65727",
+            "airport_ref": "20870",
+            "airport_ident": "KPSC",
+            "type": "A/D",
+            "description": "CHINOOK APP/DEP",
+            "frequency_mhz": "128.75"
+        },
+        {
+            "id": "65728",
+            "airport_ref": "20870",
+            "airport_ident": "KPSC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.65"
+        },
+        {
+            "id": "65729",
+            "airport_ref": "20870",
+            "airport_ident": "KPSC",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "65730",
+            "airport_ref": "20870",
+            "airport_ident": "KPSC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "135.3"
+        },
+        {
+            "id": "65731",
+            "airport_ref": "20870",
+            "airport_ident": "KPSC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "65732",
+            "airport_ref": "20870",
+            "airport_ident": "KPSC",
+            "type": "RDO",
+            "description": "SEATTLE RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "65733",
+            "airport_ref": "20870",
+            "airport_ident": "KPSC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "135.3"
+        },
+        {
+            "id": "65734",
+            "airport_ref": "20870",
+            "airport_ident": "KPSC",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    }
+}

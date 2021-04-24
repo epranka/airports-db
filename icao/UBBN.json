@@ -1,0 +1,110 @@
+{
+    "id": "6442",
+    "ident": "UBBN",
+    "type": "medium_airport",
+    "name": "Nakhchivan Airport",
+    "latitude_deg": "39.18880081176758",
+    "longitude_deg": "45.45840072631836",
+    "elevation_ft": "2863",
+    "continent": "AS",
+    "iso_country": "AZ",
+    "iso_region": "AZ-NX",
+    "municipality": "Nakhchivan",
+    "scheduled_service": "yes",
+    "gps_code": "UBBN",
+    "iata_code": "NAJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nakhichevan_Airport",
+    "keywords": "Nakhichevan Airport, Аэропорт Нахичевань, UB15",
+    "runways": [
+        {
+            "id": "232863",
+            "airport_ref": "6442",
+            "airport_ident": "UBBN",
+            "length_ft": "10826",
+            "width_ft": "138",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14L",
+            "le_latitude_deg": "39.199",
+            "le_longitude_deg": "45.4456",
+            "le_elevation_ft": "2863",
+            "le_heading_degT": "137.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32R",
+            "he_latitude_deg": "39.1772",
+            "he_longitude_deg": "45.4713",
+            "he_elevation_ft": "2819",
+            "he_heading_degT": "317.3",
+            "he_displaced_threshold_ft": "1000"
+        },
+        {
+            "id": "232862",
+            "airport_ref": "6442",
+            "airport_ident": "UBBN",
+            "length_ft": "10826",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14R",
+            "le_latitude_deg": "39.1983",
+            "le_longitude_deg": "45.4445",
+            "le_elevation_ft": "2862",
+            "le_heading_degT": "137.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32L",
+            "he_latitude_deg": "39.1765",
+            "he_longitude_deg": "45.4704",
+            "he_elevation_ft": "2819",
+            "he_heading_degT": "317.3",
+            "he_displaced_threshold_ft": "375"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48302",
+            "airport_ref": "6442",
+            "airport_ident": "UBBN",
+            "type": "A/D",
+            "description": "APP",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "48303",
+            "airport_ref": "6442",
+            "airport_ident": "UBBN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "48304",
+            "airport_ref": "6442",
+            "airport_ident": "UBBN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302621",
+        "code": "AZ",
+        "name": "Azerbaijan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Azerbaijan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303014",
+        "code": "AZ-NX",
+        "local_code": "NX",
+        "name": "Nakhchivan Autonomous Republic",
+        "continent": "AS",
+        "iso_country": "AZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nakhchivan_Autonomous_Republic",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": "18612",
+    "ident": "KDWA",
+    "type": "small_airport",
+    "name": "Yolo County Davis Woodland Winters Airport",
+    "latitude_deg": "38.57910156",
+    "longitude_deg": "-121.8570023",
+    "elevation_ft": "100",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Davis/Woodland/Winters",
+    "scheduled_service": "no",
+    "gps_code": "KDWA",
+    "iata_code": "",
+    "local_code": "DWA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yolo_County_Airport",
+    "keywords": "Formerly 2Q3",
+    "runways": [
+        {
+            "id": "243241",
+            "airport_ref": "18612",
+            "airport_ident": "KDWA",
+            "length_ft": "6000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "38.5872",
+            "le_longitude_deg": "-121.857",
+            "le_elevation_ft": "96",
+            "le_heading_degT": "180.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "38.5708",
+            "he_longitude_deg": "-121.857",
+            "he_elevation_ft": "98",
+            "he_heading_degT": "0.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65557",
+            "airport_ref": "18612",
+            "airport_ident": "KDWA",
+            "type": "A/D",
+            "description": "TRAVIS APP/DEP",
+            "frequency_mhz": "126.6"
+        },
+        {
+            "id": "65558",
+            "airport_ref": "18612",
+            "airport_ident": "KDWA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "125.775"
+        },
+        {
+            "id": "65559",
+            "airport_ref": "18612",
+            "airport_ident": "KDWA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

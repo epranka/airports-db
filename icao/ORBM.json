@@ -1,0 +1,120 @@
+{
+    "id": "5290",
+    "ident": "ORBM",
+    "type": "medium_airport",
+    "name": "Mosul International Airport",
+    "latitude_deg": "36.305801",
+    "longitude_deg": "43.1474",
+    "elevation_ft": "719",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-NI",
+    "municipality": "Mosul",
+    "scheduled_service": "no",
+    "gps_code": "ORBM",
+    "iata_code": "OSM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mosul_International_Airport",
+    "keywords": "OSB",
+    "runways": [
+        {
+            "id": "237093",
+            "airport_ref": "5290",
+            "airport_ident": "ORBM",
+            "length_ft": "8695",
+            "width_ft": "147",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "36.3168",
+            "le_longitude_deg": "43.1418",
+            "le_elevation_ft": "709",
+            "le_heading_degT": "158",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "36.2947",
+            "he_longitude_deg": "43.153",
+            "he_elevation_ft": "705",
+            "he_heading_degT": "338",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54404",
+            "airport_ref": "5290",
+            "airport_ident": "ORBM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.45"
+        },
+        {
+            "id": "54405",
+            "airport_ref": "5290",
+            "airport_ident": "ORBM",
+            "type": "ATIS",
+            "description": "INFO",
+            "frequency_mhz": "127.25"
+        },
+        {
+            "id": "54406",
+            "airport_ref": "5290",
+            "airport_ident": "ORBM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "132.825"
+        },
+        {
+            "id": "54407",
+            "airport_ref": "5290",
+            "airport_ident": "ORBM",
+            "type": "HEL",
+            "description": "FARP",
+            "frequency_mhz": "65.1"
+        },
+        {
+            "id": "54408",
+            "airport_ref": "5290",
+            "airport_ident": "ORBM",
+            "type": "PMSV",
+            "description": "METRO",
+            "frequency_mhz": "131.05"
+        },
+        {
+            "id": "54409",
+            "airport_ref": "5290",
+            "airport_ident": "ORBM",
+            "type": "RMP",
+            "description": "RAMP OPS",
+            "frequency_mhz": "128.8"
+        },
+        {
+            "id": "54410",
+            "airport_ref": "5290",
+            "airport_ident": "ORBM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.2"
+        }
+    ],
+    "country": {
+        "id": "302636",
+        "code": "IQ",
+        "name": "Iraq",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iraq",
+        "keywords": "مطارات العراق"
+    },
+    "region": {
+        "id": "304212",
+        "code": "IQ-NI",
+        "local_code": "NI",
+        "name": "Ninawa Governorate",
+        "continent": "AS",
+        "iso_country": "IQ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ninawa_Governorate",
+        "keywords": "نينوى"
+    }
+}

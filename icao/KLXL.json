@@ -1,0 +1,110 @@
+{
+    "id": "20395",
+    "ident": "KLXL",
+    "type": "small_airport",
+    "name": "Little Falls-Morrison County-Lindbergh field",
+    "latitude_deg": "45.9496994",
+    "longitude_deg": "-94.34739685",
+    "elevation_ft": "1123",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Little Falls",
+    "scheduled_service": "no",
+    "gps_code": "KLXL",
+    "iata_code": "",
+    "local_code": "LXL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245640",
+            "airport_ref": "20395",
+            "airport_ident": "KLXL",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "45.9526",
+            "le_longitude_deg": "-94.3511",
+            "le_elevation_ft": "1119",
+            "le_heading_degT": "131",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "45.9455",
+            "he_longitude_deg": "-94.3391",
+            "he_elevation_ft": "1122",
+            "he_heading_degT": "311",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245641",
+            "airport_ref": "20395",
+            "airport_ident": "KLXL",
+            "length_ft": "2890",
+            "width_ft": "170",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "45.9536",
+            "le_longitude_deg": "-94.3469",
+            "le_elevation_ft": "1117",
+            "le_heading_degT": "181.3",
+            "le_displaced_threshold_ft": "203",
+            "he_ident": "36",
+            "he_latitude_deg": "45.9453",
+            "he_longitude_deg": "-94.3472",
+            "he_elevation_ft": "1110",
+            "he_heading_degT": "1.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70750",
+            "airport_ref": "20395",
+            "airport_ident": "KLXL",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "35.9"
+        },
+        {
+            "id": "70751",
+            "airport_ref": "20395",
+            "airport_ident": "KLXL",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "70752",
+            "airport_ref": "20395",
+            "airport_ident": "KLXL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "2470",
+    "ident": "EGQK",
+    "type": "medium_airport",
+    "name": "RAF Kinloss",
+    "latitude_deg": "57.6493988037",
+    "longitude_deg": "-3.56064009666",
+    "elevation_ft": "22",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Kinloss",
+    "scheduled_service": "no",
+    "gps_code": "EGQK",
+    "iata_code": "FSS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Kinloss",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239409",
+            "airport_ref": "2470",
+            "airport_ident": "EGQK",
+            "length_ft": "7582",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "57.646",
+            "le_longitude_deg": "-3.57882",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "71",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "57.6529",
+            "he_longitude_deg": "-3.54238",
+            "he_elevation_ft": "22",
+            "he_heading_degT": "251",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58137",
+            "airport_ref": "2470",
+            "airport_ident": "EGQK",
+            "type": "APP",
+            "description": "LOSSIE APP",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "58138",
+            "airport_ref": "2470",
+            "airport_ident": "EGQK",
+            "type": "DEP",
+            "description": "LOSSIE DEP",
+            "frequency_mhz": "119.35"
+        },
+        {
+            "id": "58139",
+            "airport_ref": "2470",
+            "airport_ident": "EGQK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "38.94"
+        },
+        {
+            "id": "58140",
+            "airport_ref": "2470",
+            "airport_ident": "EGQK",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "27.897"
+        },
+        {
+            "id": "58141",
+            "airport_ref": "2470",
+            "airport_ident": "EGQK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306377",
+        "code": "GB-SCT",
+        "local_code": "SCT",
+        "name": "Scotland",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
+        "keywords": "keep"
+    },
+    "navaids": [
+        {
+            "id": "89996",
+            "filename": "Kinloss_NDB_GB",
+            "ident": "KS",
+            "name": "Kinloss",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "57.65039825439453",
+            "longitude_deg": "-3.5870399475097656",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.56",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGQK"
+        }
+    ]
+}

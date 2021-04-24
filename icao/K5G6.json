@@ -1,0 +1,80 @@
+{
+    "id": "18902",
+    "ident": "K5G6",
+    "type": "closed",
+    "name": "Cherry Springs Airport",
+    "latitude_deg": "41.6647",
+    "longitude_deg": "-77.818298",
+    "elevation_ft": "2330",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Galeton",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "5G6",
+    "runways": [
+        {
+            "id": "240580",
+            "airport_ref": "18902",
+            "airport_ident": "K5G6",
+            "length_ft": "3570",
+            "width_ft": "180",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "41.6647",
+            "le_longitude_deg": "-77.825",
+            "le_elevation_ft": "",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "890",
+            "he_ident": "28",
+            "he_latitude_deg": "41.6647",
+            "he_longitude_deg": "-77.8119",
+            "he_elevation_ft": "",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60186",
+            "airport_ref": "18902",
+            "airport_ident": "K5G6",
+            "type": "CNTR",
+            "description": "CLEVELAND CNTR",
+            "frequency_mhz": "124.325"
+        },
+        {
+            "id": "60187",
+            "airport_ref": "18902",
+            "airport_ident": "K5G6",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

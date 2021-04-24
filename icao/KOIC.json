@@ -1,0 +1,96 @@
+{
+    "id": "20728",
+    "ident": "KOIC",
+    "type": "small_airport",
+    "name": "Lt Warren Eaton Airport",
+    "latitude_deg": "42.566600799561",
+    "longitude_deg": "-75.524101257324",
+    "elevation_ft": "1025",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Norwich",
+    "scheduled_service": "no",
+    "gps_code": "KOIC",
+    "iata_code": "OIC",
+    "local_code": "OIC",
+    "home_link": "http://www.co.chenango.ny.us/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lt._Warren_Eaton_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239976",
+            "airport_ref": "20728",
+            "airport_ident": "KOIC",
+            "length_ft": "4724",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "42.5601",
+            "le_longitude_deg": "-75.5245",
+            "le_elevation_ft": "1010",
+            "le_heading_degT": "2.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "42.573",
+            "he_longitude_deg": "-75.5237",
+            "he_elevation_ft": "1023",
+            "he_heading_degT": "182.6",
+            "he_displaced_threshold_ft": "440"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59283",
+            "airport_ref": "20728",
+            "airport_ident": "KOIC",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "59284",
+            "airport_ref": "20728",
+            "airport_ident": "KOIC",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "133.25"
+        },
+        {
+            "id": "59285",
+            "airport_ref": "20728",
+            "airport_ident": "KOIC",
+            "type": "RDO",
+            "description": "BUFFALO RDO",
+            "frequency_mhz": "112.6"
+        },
+        {
+            "id": "59286",
+            "airport_ref": "20728",
+            "airport_ident": "KOIC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "5681",
+    "ident": "RORT",
+    "type": "medium_airport",
+    "name": "Tarama Airport",
+    "latitude_deg": "24.653900146499996",
+    "longitude_deg": "124.675003052",
+    "elevation_ft": "36",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-47",
+    "municipality": "Tarama",
+    "scheduled_service": "yes",
+    "gps_code": "RORT",
+    "iata_code": "TRA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tarama_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237118",
+            "airport_ref": "5681",
+            "airport_ident": "RORT",
+            "length_ft": "4921",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "24.6606",
+            "le_longitude_deg": "124.674",
+            "le_elevation_ft": "34",
+            "le_heading_degT": "172.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "24.6472",
+            "he_longitude_deg": "124.676",
+            "he_elevation_ft": "36",
+            "he_heading_degT": "352.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54460",
+            "airport_ref": "5681",
+            "airport_ident": "RORT",
+            "type": "A/G",
+            "description": "REMOTE",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304332",
+        "code": "JP-47",
+        "local_code": "47",
+        "name": "Okinawa Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Okinawa",
+        "keywords": "Kyushu and Okinawa"
+    },
+    "navaids": [
+        {
+            "id": "93144",
+            "filename": "Tarama_VOR-DME_JP",
+            "ident": "RME",
+            "name": "Tarama",
+            "type": "VOR-DME",
+            "frequency_khz": "110650",
+            "latitude_deg": "24.650699615478516",
+            "longitude_deg": "124.67400360107422",
+            "elevation_ft": "59",
+            "iso_country": "JP",
+            "dme_frequency_khz": "110650",
+            "dme_channel": "043Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.011",
+            "magnetic_variation_deg": "-3.52",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RORT"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "5249",
+    "ident": "OPDG",
+    "type": "medium_airport",
+    "name": "Dera Ghazi Khan Airport",
+    "latitude_deg": "29.961000442504883",
+    "longitude_deg": "70.48590087890625",
+    "elevation_ft": "492",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-PB",
+    "municipality": "Dera Ghazi Khan",
+    "scheduled_service": "yes",
+    "gps_code": "OPDG",
+    "iata_code": "DEA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dera_Ghazi_Khan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238246",
+            "airport_ref": "5249",
+            "airport_ident": "OPDG",
+            "length_ft": "6499",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "29.9699",
+            "le_longitude_deg": "70.4861",
+            "le_elevation_ft": "492",
+            "le_heading_degT": "180.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "29.9521",
+            "he_longitude_deg": "70.4858",
+            "he_elevation_ft": "469",
+            "he_heading_degT": "0.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56189",
+            "airport_ref": "5249",
+            "airport_ident": "OPDG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.4"
+        }
+    ],
+    "country": {
+        "id": "302657",
+        "code": "PK",
+        "name": "Pakistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pakistan",
+        "keywords": "پاکستان کے ہوائی اڈوں"
+    },
+    "region": {
+        "id": "305140",
+        "code": "PK-PB",
+        "local_code": "PB",
+        "name": "Punjab",
+        "continent": "AS",
+        "iso_country": "PK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87350",
+            "filename": "Dera_Ghazi_Khan_NDB_PK",
+            "ident": "DG",
+            "name": "Dera Ghazi Khan",
+            "type": "NDB",
+            "frequency_khz": "322",
+            "latitude_deg": "29.962200164794922",
+            "longitude_deg": "70.49030303955078",
+            "elevation_ft": "516",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.186",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OPDG"
+        }
+    ]
+}

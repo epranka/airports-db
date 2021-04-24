@@ -1,0 +1,72 @@
+{
+    "id": "21249",
+    "ident": "KU06",
+    "type": "small_airport",
+    "name": "Cokeville Municipal Airport",
+    "latitude_deg": "42.045799255371094",
+    "longitude_deg": "-110.96600341796875",
+    "elevation_ft": "6270",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Cokeville",
+    "scheduled_service": "no",
+    "gps_code": "KU06",
+    "iata_code": "",
+    "local_code": "U06",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240404",
+            "airport_ref": "21249",
+            "airport_ident": "KU06",
+            "length_ft": "3400",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "42.0502",
+            "le_longitude_deg": "-110.968",
+            "le_elevation_ft": "6260",
+            "le_heading_degT": "163.3",
+            "le_displaced_threshold_ft": "1400",
+            "he_ident": "33",
+            "he_latitude_deg": "42.0413",
+            "he_longitude_deg": "-110.964",
+            "he_elevation_ft": "",
+            "he_heading_degT": "343.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59904",
+            "airport_ref": "21249",
+            "airport_ident": "KU06",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306127",
+        "code": "US-WY",
+        "local_code": "WY",
+        "name": "Wyoming",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
+        "keywords": ""
+    }
+}

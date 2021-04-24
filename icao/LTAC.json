@@ -1,0 +1,142 @@
+{
+    "id": "4509",
+    "ident": "LTAC",
+    "type": "large_airport",
+    "name": "Esenboğa International Airport",
+    "latitude_deg": "40.128101348899996",
+    "longitude_deg": "32.995098114",
+    "elevation_ft": "3125",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-06",
+    "municipality": "Ankara",
+    "scheduled_service": "yes",
+    "gps_code": "LTAC",
+    "iata_code": "ESB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Esenbo%C4%9Fa_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239304",
+            "airport_ref": "4509",
+            "airport_ident": "LTAC",
+            "length_ft": "12303",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03L",
+            "le_latitude_deg": "40.1178",
+            "le_longitude_deg": "32.9837",
+            "le_elevation_ft": "3100",
+            "le_heading_degT": "36.3",
+            "le_displaced_threshold_ft": "1148",
+            "he_ident": "21R",
+            "he_latitude_deg": "40.1424",
+            "he_longitude_deg": "33.0072",
+            "he_elevation_ft": "3123",
+            "he_heading_degT": "216.3",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239303",
+            "airport_ref": "4509",
+            "airport_ident": "LTAC",
+            "length_ft": "12303",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03R",
+            "le_latitude_deg": "40.1141",
+            "le_longitude_deg": "32.9832",
+            "le_elevation_ft": "3097",
+            "le_heading_degT": "35.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21L",
+            "he_latitude_deg": "40.1413",
+            "he_longitude_deg": "33.0091",
+            "he_elevation_ft": "3125",
+            "he_heading_degT": "215.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57969",
+            "airport_ref": "4509",
+            "airport_ident": "LTAC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "57970",
+            "airport_ref": "4509",
+            "airport_ident": "LTAC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "57971",
+            "airport_ref": "4509",
+            "airport_ident": "LTAC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "57972",
+            "airport_ref": "4509",
+            "airport_ident": "LTAC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305841",
+        "code": "TR-06",
+        "local_code": "06",
+        "name": "Ankara Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ankara_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86432",
+            "filename": "Cubuk_VOR-DME_TR",
+            "ident": "BUK",
+            "name": "Cubuk",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "40.24169921875",
+            "longitude_deg": "33.104698181152344",
+            "elevation_ft": "4068",
+            "iso_country": "TR",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "4.365",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTAC"
+        }
+    ]
+}

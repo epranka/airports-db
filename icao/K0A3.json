@@ -1,0 +1,80 @@
+{
+    "id": "18343",
+    "ident": "K0A3",
+    "type": "small_airport",
+    "name": "Smithville Municipal Airport",
+    "latitude_deg": "35.98529815673828",
+    "longitude_deg": "-85.8093032836914",
+    "elevation_ft": "1084",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Smithville",
+    "scheduled_service": "no",
+    "gps_code": "K0A3",
+    "iata_code": "",
+    "local_code": "0A3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243344",
+            "airport_ref": "18343",
+            "airport_ident": "K0A3",
+            "length_ft": "4107",
+            "width_ft": "75",
+            "surface": "ASPH-E",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "35.9823",
+            "le_longitude_deg": "-85.8152",
+            "le_elevation_ft": "1080",
+            "le_heading_degT": "58",
+            "le_displaced_threshold_ft": "150",
+            "he_ident": "24",
+            "he_latitude_deg": "35.9883",
+            "he_longitude_deg": "-85.8035",
+            "he_elevation_ft": "1084",
+            "he_heading_degT": "238",
+            "he_displaced_threshold_ft": "696"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65772",
+            "airport_ref": "18343",
+            "airport_ident": "K0A3",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "65773",
+            "airport_ref": "18343",
+            "airport_ident": "K0A3",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

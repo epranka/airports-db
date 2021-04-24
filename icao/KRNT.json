@@ -1,0 +1,136 @@
+{
+    "id": "20947",
+    "ident": "KRNT",
+    "type": "small_airport",
+    "name": "Renton Municipal Airport",
+    "latitude_deg": "47.4930992126",
+    "longitude_deg": "-122.216003418",
+    "elevation_ft": "32",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Renton",
+    "scheduled_service": "no",
+    "gps_code": "KRNT",
+    "iata_code": "RNT",
+    "local_code": "RNT",
+    "home_link": "https://rentonwa.gov/living/default.aspx?id=212",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Renton_Municipal_Airport",
+    "keywords": "Scott Field",
+    "runways": [
+        {
+            "id": "244585",
+            "airport_ref": "20947",
+            "airport_ident": "KRNT",
+            "length_ft": "5382",
+            "width_ft": "200",
+            "surface": "ASPH-CONC-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "47.5005",
+            "le_longitude_deg": "-122.217",
+            "le_elevation_ft": "24",
+            "le_heading_degT": "174",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "34",
+            "he_latitude_deg": "47.4858",
+            "he_longitude_deg": "-122.215",
+            "he_elevation_ft": "32",
+            "he_heading_degT": "354",
+            "he_displaced_threshold_ft": "340"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68436",
+            "airport_ref": "20947",
+            "airport_ident": "KRNT",
+            "type": "A/D",
+            "description": "SEATTLE APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "68437",
+            "airport_ref": "20947",
+            "airport_ident": "KRNT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "68438",
+            "airport_ref": "20947",
+            "airport_ident": "KRNT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "68439",
+            "airport_ref": "20947",
+            "airport_ident": "KRNT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "68440",
+            "airport_ref": "20947",
+            "airport_ident": "KRNT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "68441",
+            "airport_ref": "20947",
+            "airport_ident": "KRNT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.85"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93165",
+            "filename": "Renton_NDB_US",
+            "ident": "RNT",
+            "name": "Renton",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "47.495399475097656",
+            "longitude_deg": "-122.21499633789062",
+            "elevation_ft": "20",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.37",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KRNT"
+        }
+    ]
+}

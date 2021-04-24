@@ -1,0 +1,88 @@
+{
+    "id": "19609",
+    "ident": "KD73",
+    "type": "small_airport",
+    "name": "Monroe Walton County Airport",
+    "latitude_deg": "33.782398",
+    "longitude_deg": "-83.692903",
+    "elevation_ft": "875",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Monroe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "D73",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240998",
+            "airport_ref": "19609",
+            "airport_ident": "KD73",
+            "length_ft": "4112",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "33.7767",
+            "le_longitude_deg": "-83.6971",
+            "le_elevation_ft": "867",
+            "le_heading_degT": "31.4",
+            "le_displaced_threshold_ft": "1410",
+            "he_ident": "21",
+            "he_latitude_deg": "33.7863",
+            "he_longitude_deg": "-83.69",
+            "he_elevation_ft": "829",
+            "he_heading_degT": "211.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60945",
+            "airport_ref": "19609",
+            "airport_ident": "KD73",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "126.975"
+        },
+        {
+            "id": "60946",
+            "airport_ref": "19609",
+            "airport_ident": "KD73",
+            "type": "AWOS",
+            "description": "AWOS A",
+            "frequency_mhz": "39.2"
+        },
+        {
+            "id": "60947",
+            "airport_ref": "19609",
+            "airport_ident": "KD73",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

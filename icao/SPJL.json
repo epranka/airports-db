@@ -1,0 +1,96 @@
+{
+    "id": "6222",
+    "ident": "SPJL",
+    "type": "medium_airport",
+    "name": "Inca Manco Capac International Airport",
+    "latitude_deg": "-15.467100143432617",
+    "longitude_deg": "-70.158203125",
+    "elevation_ft": "12552",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-PUN",
+    "municipality": "Juliaca",
+    "scheduled_service": "yes",
+    "gps_code": "SPJL",
+    "iata_code": "JUL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Inca_Manco_Capac_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238143",
+            "airport_ref": "6222",
+            "airport_ident": "SPJL",
+            "length_ft": "13779",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-15.46",
+            "le_longitude_deg": "-70.1763",
+            "le_elevation_ft": "12552",
+            "le_heading_degT": "112",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-15.4742",
+            "he_longitude_deg": "-70.14",
+            "he_elevation_ft": "12546",
+            "he_heading_degT": "292",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56087",
+            "airport_ref": "6222",
+            "airport_ident": "SPJL",
+            "type": "TWR",
+            "description": "APP/TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Perú",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305027",
+        "code": "PE-PUN",
+        "local_code": "PUN",
+        "name": "Puno Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Puno_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89577",
+            "filename": "Juliaca_VOR-DME_PE",
+            "ident": "JUL",
+            "name": "Juliaca",
+            "type": "VOR-DME",
+            "frequency_khz": "115550",
+            "latitude_deg": "-15.468099594116211",
+            "longitude_deg": "-70.1511001586914",
+            "elevation_ft": "12552",
+            "iso_country": "PE",
+            "dme_frequency_khz": "115550",
+            "dme_channel": "102Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-4.208",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPJL"
+        }
+    ]
+}

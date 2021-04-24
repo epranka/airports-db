@@ -1,0 +1,80 @@
+{
+    "id": "1896",
+    "ident": "CYRV",
+    "type": "medium_airport",
+    "name": "Revelstoke Airport",
+    "latitude_deg": "50.962245",
+    "longitude_deg": "-118.184258",
+    "elevation_ft": "1459",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Revelstoke",
+    "scheduled_service": "no",
+    "gps_code": "CYRV",
+    "iata_code": "YRV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Revelstoke_Airport",
+    "keywords": "YRV",
+    "runways": [
+        {
+            "id": "234939",
+            "airport_ref": "1896",
+            "airport_ident": "CYRV",
+            "length_ft": "4800",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "50.9715",
+            "le_longitude_deg": "-118.19",
+            "le_elevation_ft": "1457",
+            "le_heading_degT": "138",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "50.9618",
+            "he_longitude_deg": "-118.176",
+            "he_elevation_ft": "1459",
+            "he_heading_degT": "318",
+            "he_displaced_threshold_ft": "300"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50766",
+            "airport_ref": "1896",
+            "airport_ident": "CYRV",
+            "type": "RCO",
+            "description": "PACIFIC RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "50767",
+            "airport_ref": "1896",
+            "airport_ident": "CYRV",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    }
+}

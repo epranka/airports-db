@@ -1,0 +1,168 @@
+{
+    "id": "3593",
+    "ident": "KHST",
+    "type": "medium_airport",
+    "name": "Homestead ARB Airport",
+    "latitude_deg": "25.48859978",
+    "longitude_deg": "-80.38359833",
+    "elevation_ft": "5",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Homestead",
+    "scheduled_service": "no",
+    "gps_code": "KHST",
+    "iata_code": "HST",
+    "local_code": "HST",
+    "home_link": "http://www.homestead.afrc.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Homestead_Air_Reserve_Base",
+    "keywords": "Dade County Airport",
+    "runways": [
+        {
+            "id": "244996",
+            "airport_ref": "3593",
+            "airport_ident": "KHST",
+            "length_ft": "11201",
+            "width_ft": "300",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "25.4785",
+            "le_longitude_deg": "-80.3964",
+            "le_elevation_ft": "6",
+            "le_heading_degT": "49.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "25.4986",
+            "he_longitude_deg": "-80.3707",
+            "he_elevation_ft": "6",
+            "he_heading_degT": "229.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69344",
+            "airport_ref": "3593",
+            "airport_ident": "KHST",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "69345",
+            "airport_ref": "3593",
+            "airport_ident": "KHST",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.275"
+        },
+        {
+            "id": "69346",
+            "airport_ref": "3593",
+            "airport_ident": "KHST",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "27.58"
+        },
+        {
+            "id": "69347",
+            "airport_ref": "3593",
+            "airport_ident": "KHST",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "69348",
+            "airport_ref": "3593",
+            "airport_ident": "KHST",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "69349",
+            "airport_ref": "3593",
+            "airport_ident": "KHST",
+            "type": "OPS",
+            "description": "93FS",
+            "frequency_mhz": "138.025"
+        },
+        {
+            "id": "69350",
+            "airport_ref": "3593",
+            "airport_ident": "KHST",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "31.865"
+        },
+        {
+            "id": "69351",
+            "airport_ref": "3593",
+            "airport_ident": "KHST",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "25.21"
+        },
+        {
+            "id": "69352",
+            "airport_ref": "3593",
+            "airport_ident": "KHST",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "69353",
+            "airport_ref": "3593",
+            "airport_ident": "KHST",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "133.45"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89016",
+            "filename": "Homestead_TACAN_US",
+            "ident": "HST",
+            "name": "Homestead",
+            "type": "TACAN",
+            "frequency_khz": "108200",
+            "latitude_deg": "25.489500045776367",
+            "longitude_deg": "-80.37940216064453",
+            "elevation_ft": "53",
+            "iso_country": "US",
+            "dme_frequency_khz": "108200",
+            "dme_channel": "019X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.005",
+            "magnetic_variation_deg": "-5.21",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KHST"
+        }
+    ]
+}

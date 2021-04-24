@@ -1,0 +1,102 @@
+{
+    "id": "30029",
+    "ident": "LHKH",
+    "type": "small_airport",
+    "name": "Kiskunfélegyháza Airfield",
+    "latitude_deg": "46.733101",
+    "longitude_deg": "19.893299",
+    "elevation_ft": "289",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-BK",
+    "municipality": "Kiskunfélegyháza",
+    "scheduled_service": "no",
+    "gps_code": "LHKH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.blue-sky.hu",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "333056",
+            "airport_ref": "30029",
+            "airport_ident": "LHKH",
+            "length_ft": "2460",
+            "width_ft": "525",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "318",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "318",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "333058",
+            "airport_ref": "30029",
+            "airport_ident": "LHKH",
+            "length_ft": "1760",
+            "width_ft": "300",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "333057",
+            "airport_ref": "30029",
+            "airport_ident": "LHKH",
+            "type": "INFO",
+            "description": "Kiskun INFO",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "333059",
+            "airport_ref": "30029",
+            "airport_ident": "LHKH",
+            "type": "PPR-request",
+            "description": "google for \"Simon Károly Kiskunfélegyháza szvg\"",
+            "frequency_mhz": "0"
+        }
+    ],
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304058",
+        "code": "HU-BK",
+        "local_code": "BK",
+        "name": "Bács-Kiskun",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bács-Kiskun",
+        "keywords": ""
+    }
+}

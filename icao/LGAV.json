@@ -1,0 +1,220 @@
+{
+    "id": "4251",
+    "ident": "LGAV",
+    "type": "large_airport",
+    "name": "Eleftherios Venizelos International Airport",
+    "latitude_deg": "37.9364013672",
+    "longitude_deg": "23.9444999695",
+    "elevation_ft": "308",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-A1",
+    "municipality": "Athens",
+    "scheduled_service": "yes",
+    "gps_code": "LGAV",
+    "iata_code": "ATH",
+    "local_code": "",
+    "home_link": "http://www.aia.gr",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Athens_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236331",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "length_ft": "12467",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03L",
+            "le_latitude_deg": "37.921",
+            "le_longitude_deg": "23.9192",
+            "le_elevation_ft": "255",
+            "le_heading_degT": "36.6",
+            "le_displaced_threshold_ft": "984",
+            "he_ident": "21R",
+            "he_latitude_deg": "37.9485",
+            "he_longitude_deg": "23.945",
+            "he_elevation_ft": "282",
+            "he_heading_degT": "216.6",
+            "he_displaced_threshold_ft": "984"
+        },
+        {
+            "id": "236330",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "length_ft": "13123",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03R",
+            "le_latitude_deg": "37.9235",
+            "le_longitude_deg": "23.9433",
+            "le_elevation_ft": "271",
+            "le_heading_degT": "36.6",
+            "le_displaced_threshold_ft": "984",
+            "he_ident": "21L",
+            "he_latitude_deg": "37.9524",
+            "he_longitude_deg": "23.9704",
+            "he_elevation_ft": "303",
+            "he_heading_degT": "216.6",
+            "he_displaced_threshold_ft": "984"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53306",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "type": "APP",
+            "description": "ATHINAI APP",
+            "frequency_mhz": "126.575"
+        },
+        {
+            "id": "53307",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "type": "ARR",
+            "description": "ATHINAI ARR",
+            "frequency_mhz": "132.975"
+        },
+        {
+            "id": "53308",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "136.125"
+        },
+        {
+            "id": "53309",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.675"
+        },
+        {
+            "id": "53310",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "type": "DEP",
+            "description": "ATHINAI DEP",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "53311",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "type": "DIR",
+            "description": "ATHINAI DIR",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "53312",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "53313",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "136.025"
+        },
+        {
+            "id": "53314",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "type": "PMSV",
+            "description": "ATHINAI VOLMET",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "53315",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "563.7"
+        },
+        {
+            "id": "53316",
+            "airport_ref": "4251",
+            "airport_ident": "LGAV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "136.275"
+        }
+    ],
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "303957",
+        "code": "GR-A1",
+        "local_code": "A1",
+        "name": "Attica",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Attica",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93389",
+            "filename": "Eleftherios_Venizelos_VOR-DME_GR",
+            "ident": "SAT",
+            "name": "Eleftherios Venizelos",
+            "type": "VOR-DME",
+            "frequency_khz": "109600",
+            "latitude_deg": "37.91669845581055",
+            "longitude_deg": "23.914199829101562",
+            "elevation_ft": "255",
+            "iso_country": "GR",
+            "dme_frequency_khz": "109600",
+            "dme_channel": "033X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.183",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LGAV"
+        },
+        {
+            "id": "93874",
+            "filename": "Eleftherios_Venizelos_VOR-DME_GR",
+            "ident": "SPA",
+            "name": "Eleftherios Venizelos",
+            "type": "VOR-DME",
+            "frequency_khz": "117500",
+            "latitude_deg": "37.91780090332031",
+            "longitude_deg": "23.93779945373535",
+            "elevation_ft": "303",
+            "iso_country": "GR",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.185",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LGAV"
+        }
+    ]
+}

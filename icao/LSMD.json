@@ -1,0 +1,134 @@
+{
+    "id": "4494",
+    "ident": "LSMD",
+    "type": "medium_airport",
+    "name": "Dübendorf Air Base",
+    "latitude_deg": "47.398601532",
+    "longitude_deg": "8.648229599",
+    "elevation_ft": "1470",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-ZH",
+    "municipality": "Zurich",
+    "scheduled_service": "no",
+    "gps_code": "LSMD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239126",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "length_ft": "7726",
+            "width_ft": "130",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "47.4016",
+            "le_longitude_deg": "8.63372",
+            "le_elevation_ft": "1427",
+            "le_heading_degT": "107.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "47.3953",
+            "he_longitude_deg": "8.66272",
+            "he_elevation_ft": "1470",
+            "he_heading_degT": "287.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239127",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "length_ft": "2130",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11R",
+            "le_latitude_deg": "47.4005",
+            "le_longitude_deg": "8.63816",
+            "le_elevation_ft": "1428",
+            "le_heading_degT": "108.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29L",
+            "he_latitude_deg": "47.3987",
+            "he_longitude_deg": "8.64633",
+            "he_elevation_ft": "1437",
+            "he_heading_degT": "288.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57584",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "type": "ARR",
+            "description": "ARR",
+            "frequency_mhz": "37.68"
+        },
+        {
+            "id": "57583",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "type": "ARR",
+            "description": "ARR",
+            "frequency_mhz": "134.925"
+        },
+        {
+            "id": "57585",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "139.5"
+        },
+        {
+            "id": "57586",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "138.05"
+        },
+        {
+            "id": "57587",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "139.5"
+        },
+        {
+            "id": "57588",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.475"
+        }
+    ],
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303378",
+        "code": "CH-ZH",
+        "local_code": "ZH",
+        "name": "Canton of Zurich",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zurich",
+        "keywords": ""
+    }
+}

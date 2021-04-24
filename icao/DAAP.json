@@ -1,0 +1,96 @@
+{
+    "id": "2054",
+    "ident": "DAAP",
+    "type": "medium_airport",
+    "name": "Illizi Takhamalt Airport",
+    "latitude_deg": "26.7234992981",
+    "longitude_deg": "8.62265014648",
+    "elevation_ft": "1778",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-33",
+    "municipality": "Illizi",
+    "scheduled_service": "yes",
+    "gps_code": "DAAP",
+    "iata_code": "VVZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Illizi_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232802",
+            "airport_ref": "2054",
+            "airport_ident": "DAAP",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "26.7236",
+            "le_longitude_deg": "8.60746",
+            "le_elevation_ft": "1765",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "26.7234",
+            "he_longitude_deg": "8.63784",
+            "he_elevation_ft": "1778",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48266",
+            "airport_ref": "2054",
+            "airport_ident": "DAAP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302568",
+        "code": "DZ",
+        "name": "Algeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Algeria",
+        "keywords": "مطارات الجزائر"
+    },
+    "region": {
+        "id": "303635",
+        "code": "DZ-33",
+        "local_code": "33",
+        "name": "Illizi Province",
+        "continent": "AF",
+        "iso_country": "DZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illizi_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89241",
+            "filename": "Illizi_VOR_DZ",
+            "ident": "ILZ",
+            "name": "Illizi",
+            "type": "VOR",
+            "frequency_khz": "115600",
+            "latitude_deg": "26.72330093383789",
+            "longitude_deg": "8.654439926147461",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.248",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DAAP"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "id": "4431",
+    "ident": "LOWI",
+    "type": "medium_airport",
+    "name": "Innsbruck Airport",
+    "latitude_deg": "47.260201",
+    "longitude_deg": "11.344",
+    "elevation_ft": "1907",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Innsbruck",
+    "scheduled_service": "yes",
+    "gps_code": "LOWI",
+    "iata_code": "INN",
+    "local_code": "",
+    "home_link": "http://www.innsbruck-airport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Innsbruck_Airport",
+    "keywords": "Kranebitten Airport",
+    "runways": [
+        {
+            "id": "233580",
+            "airport_ref": "4431",
+            "airport_ident": "LOWI",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "47.2588",
+            "le_longitude_deg": "11.3309",
+            "le_elevation_ft": "1907",
+            "le_heading_degT": "81",
+            "le_displaced_threshold_ft": "339",
+            "he_ident": "26",
+            "he_latitude_deg": "47.2616",
+            "he_longitude_deg": "11.357",
+            "he_elevation_ft": "1894",
+            "he_heading_degT": "261",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49249",
+            "airport_ref": "4431",
+            "airport_ident": "LOWI",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "49250",
+            "airport_ref": "4431",
+            "airport_ident": "LOWI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.025"
+        },
+        {
+            "id": "311394",
+            "airport_ref": "4431",
+            "airport_ident": "LOWI",
+            "type": "GND Crew",
+            "description": "",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "311395",
+            "airport_ref": "4431",
+            "airport_ident": "LOWI",
+            "type": "GND Crew",
+            "description": "",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49251",
+            "airport_ref": "4431",
+            "airport_ident": "LOWI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.1"
+        }
+    ],
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302963",
+        "code": "AT-7",
+        "local_code": "7",
+        "name": "Tyrol",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tyrol",
+        "keywords": "Tirol"
+    },
+    "navaids": [
+        {
+            "id": "89274",
+            "filename": "Innsbruck_NDB_AT",
+            "ident": "INN",
+            "name": "Innsbruck",
+            "type": "NDB",
+            "frequency_khz": "420",
+            "latitude_deg": "47.22999954223633",
+            "longitude_deg": "11.401900291442871",
+            "elevation_ft": "2969",
+            "iso_country": "AT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.358",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LOWI"
+        },
+        {
+            "id": "90031",
+            "filename": "Kuhtai_NDB_AT",
+            "ident": "KTI",
+            "name": "Kuhtai",
+            "type": "NDB",
+            "frequency_khz": "413",
+            "latitude_deg": "47.21549987792969",
+            "longitude_deg": "11.027799606323242",
+            "elevation_ft": "6726",
+            "iso_country": "AT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.3",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LOWI"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "19143",
+    "ident": "K8T8",
+    "type": "small_airport",
+    "name": "San Geronimo Airpark",
+    "latitude_deg": "29.510499954223633",
+    "longitude_deg": "-98.79840087890625",
+    "elevation_ft": "1040",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "San Antonio",
+    "scheduled_service": "no",
+    "gps_code": "K8T8",
+    "iata_code": "",
+    "local_code": "8T8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240732",
+            "airport_ref": "19143",
+            "airport_ident": "K8T8",
+            "length_ft": "3000",
+            "width_ft": "40",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17L",
+            "le_latitude_deg": "29.5146",
+            "le_longitude_deg": "-98.7984",
+            "le_elevation_ft": "",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35R",
+            "he_latitude_deg": "29.5064",
+            "he_longitude_deg": "-98.7984",
+            "he_elevation_ft": "",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60395",
+            "airport_ref": "19143",
+            "airport_ident": "K8T8",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "126.625"
+        },
+        {
+            "id": "60396",
+            "airport_ref": "19143",
+            "airport_ident": "K8T8",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

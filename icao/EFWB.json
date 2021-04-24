@@ -1,0 +1,80 @@
+{
+    "id": "27276",
+    "ident": "EFWB",
+    "type": "small_airport",
+    "name": "Wredeby Airport",
+    "latitude_deg": "60.663601",
+    "longitude_deg": "26.7458",
+    "elevation_ft": "82",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-09",
+    "municipality": "Anjalankoski",
+    "scheduled_service": "no",
+    "gps_code": "EFWB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wredeby_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310836",
+            "airport_ref": "27276",
+            "airport_ident": "EFWB",
+            "length_ft": "2263",
+            "width_ft": "49",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310835",
+            "airport_ref": "27276",
+            "airport_ident": "EFWB",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "135.525"
+        },
+        {
+            "id": "310834",
+            "airport_ref": "27276",
+            "airport_ident": "EFWB",
+            "type": "RDO",
+            "description": "Wredeby traffic",
+            "frequency_mhz": "123.55"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336510",
+        "code": "FI-09",
+        "local_code": "09",
+        "name": "Kymenlaakso Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kymenlaakso",
+        "keywords": ""
+    }
+}

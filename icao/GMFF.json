@@ -1,0 +1,96 @@
+{
+    "id": "3103",
+    "ident": "GMFF",
+    "type": "medium_airport",
+    "name": "Saïss Airport",
+    "latitude_deg": "33.9272994995",
+    "longitude_deg": "-4.977960109709999",
+    "elevation_ft": "1900",
+    "continent": "AF",
+    "iso_country": "MA",
+    "iso_region": "MA-FES",
+    "municipality": "Fes",
+    "scheduled_service": "yes",
+    "gps_code": "GMFF",
+    "iata_code": "FEZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sa%C3%AFss_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237598",
+            "airport_ref": "3103",
+            "airport_ident": "GMFF",
+            "length_ft": "10499",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "33.9274",
+            "le_longitude_deg": "-4.99521",
+            "le_elevation_ft": "1854",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "33.9273",
+            "he_longitude_deg": "-4.96066",
+            "he_elevation_ft": "1890",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": "820"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55329",
+            "airport_ref": "3103",
+            "airport_ident": "GMFF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302584",
+        "code": "MA",
+        "name": "Morocco",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morocco",
+        "keywords": "مطارات المغرب"
+    },
+    "region": {
+        "id": "304579",
+        "code": "MA-FES",
+        "local_code": "FES",
+        "name": "Fès Province",
+        "continent": "AF",
+        "iso_country": "MA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fès_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87967",
+            "filename": "Saiss_VOR-DME_MA",
+            "ident": "FES",
+            "name": "Saiss",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "33.9275016784668",
+            "longitude_deg": "-5.013609886169434",
+            "elevation_ft": "1873",
+            "iso_country": "MA",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-2.274",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMFF"
+        }
+    ]
+}

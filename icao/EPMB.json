@@ -1,0 +1,72 @@
+{
+    "id": "2618",
+    "ident": "EPMB",
+    "type": "medium_airport",
+    "name": "Malbork Military Air Base",
+    "latitude_deg": "54.0269012451",
+    "longitude_deg": "19.134199142499998",
+    "elevation_ft": "16",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-PM",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EPMB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238254",
+            "airport_ref": "2618",
+            "airport_ident": "EPMB",
+            "length_ft": "8202",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "54.0294",
+            "le_longitude_deg": "19.1561",
+            "le_elevation_ft": "16",
+            "le_heading_degT": "79",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "54.0337",
+            "he_longitude_deg": "19.1936",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "259",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56198",
+            "airport_ref": "2618",
+            "airport_ident": "EPMB",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "124.5"
+        }
+    ],
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305154",
+        "code": "PL-PM",
+        "local_code": "PM",
+        "name": "Pomerania",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pomeranian_Voivodeship",
+        "keywords": "Pomorskie"
+    }
+}

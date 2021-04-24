@@ -1,0 +1,96 @@
+{
+    "id": "20183",
+    "ident": "KIPJ",
+    "type": "small_airport",
+    "name": "Lincolnton Lincoln County Regional Airport",
+    "latitude_deg": "35.483299",
+    "longitude_deg": "-81.161301",
+    "elevation_ft": "877",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Lincolnton",
+    "scheduled_service": "no",
+    "gps_code": "KIPJ",
+    "iata_code": "",
+    "local_code": "IPJ",
+    "home_link": "http://www.lincolncountyairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lincolnton-Lincoln_County_Regional_Airport",
+    "keywords": "5N4",
+    "runways": [
+        {
+            "id": "242131",
+            "airport_ref": "20183",
+            "airport_ident": "KIPJ",
+            "length_ft": "5529",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "35.4782",
+            "le_longitude_deg": "-81.168",
+            "le_elevation_ft": "875",
+            "le_heading_degT": "47.4",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "23",
+            "he_latitude_deg": "35.4885",
+            "he_longitude_deg": "-81.1544",
+            "he_elevation_ft": "867",
+            "he_heading_degT": "227.4",
+            "he_displaced_threshold_ft": "600"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63283",
+            "airport_ref": "20183",
+            "airport_ident": "KIPJ",
+            "type": "A/D",
+            "description": "CHARLOTTE APP/DEP",
+            "frequency_mhz": "134.75"
+        },
+        {
+            "id": "63284",
+            "airport_ref": "20183",
+            "airport_ident": "KIPJ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.675"
+        },
+        {
+            "id": "63285",
+            "airport_ref": "20183",
+            "airport_ident": "KIPJ",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "63286",
+            "airport_ref": "20183",
+            "airport_ident": "KIPJ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

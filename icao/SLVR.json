@@ -1,0 +1,150 @@
+{
+    "id": "6193",
+    "ident": "SLVR",
+    "type": "large_airport",
+    "name": "Viru Viru International Airport",
+    "latitude_deg": "-17.6448",
+    "longitude_deg": "-63.135399",
+    "elevation_ft": "1224",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Santa Cruz",
+    "scheduled_service": "yes",
+    "gps_code": "SLVR",
+    "iata_code": "VVI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Viru_Viru_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233696",
+            "airport_ref": "6193",
+            "airport_ident": "SLVR",
+            "length_ft": "11483",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-17.6315",
+            "le_longitude_deg": "-63.1443",
+            "le_elevation_ft": "1218",
+            "le_heading_degT": "147",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-17.658",
+            "he_longitude_deg": "-63.1264",
+            "he_elevation_ft": "1224",
+            "he_heading_degT": "327",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49467",
+            "airport_ref": "6193",
+            "airport_ident": "SLVR",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "49468",
+            "airport_ref": "6193",
+            "airport_ident": "SLVR",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "49469",
+            "airport_ref": "6193",
+            "airport_ident": "SLVR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49470",
+            "airport_ref": "6193",
+            "airport_ident": "SLVR",
+            "type": "RDO",
+            "description": "SANTA CRUZ RDO",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "49471",
+            "airport_ref": "6193",
+            "airport_ident": "SLVR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302790",
+        "code": "BO",
+        "name": "Bolivia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolivia",
+        "keywords": "Aeropuertos de Bolivia"
+    },
+    "region": {
+        "id": "303196",
+        "code": "BO-S",
+        "local_code": "S",
+        "name": "Santa Cruz Department",
+        "continent": "SA",
+        "iso_country": "BO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95149",
+            "filename": "Viru_Viru_VOR-DME_BO",
+            "ident": "VIR",
+            "name": "Viru Viru",
+            "type": "VOR-DME",
+            "frequency_khz": "113800",
+            "latitude_deg": "-17.62849998474121",
+            "longitude_deg": "-63.149898529052734",
+            "elevation_ft": "1224",
+            "iso_country": "BO",
+            "dme_frequency_khz": "113800",
+            "dme_channel": "085X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.007",
+            "magnetic_variation_deg": "-9.385",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SLVR"
+        },
+        {
+            "id": "95270",
+            "filename": "Viru_Viru_NDB_BO",
+            "ident": "VRO",
+            "name": "Viru Viru",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "-17.536699295043945",
+            "longitude_deg": "-63.20069885253906",
+            "elevation_ft": "1283",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.374",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SLVR"
+        }
+    ]
+}

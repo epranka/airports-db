@@ -1,0 +1,80 @@
+{
+    "id": "19361",
+    "ident": "KBDQ",
+    "type": "small_airport",
+    "name": "Morrilton Municipal Airport",
+    "latitude_deg": "35.136199951171875",
+    "longitude_deg": "-92.7135009765625",
+    "elevation_ft": "321",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Morrilton",
+    "scheduled_service": "no",
+    "gps_code": "KBDQ",
+    "iata_code": "",
+    "local_code": "BDQ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245011",
+            "airport_ref": "19361",
+            "airport_ident": "KBDQ",
+            "length_ft": "4000",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "35.1334",
+            "le_longitude_deg": "-92.7201",
+            "le_elevation_ft": "321",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "35.1334",
+            "he_longitude_deg": "-92.7069",
+            "he_elevation_ft": "310",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69384",
+            "airport_ref": "19361",
+            "airport_ident": "KBDQ",
+            "type": "A/D",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "128.475"
+        },
+        {
+            "id": "69385",
+            "airport_ref": "19361",
+            "airport_ident": "KBDQ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

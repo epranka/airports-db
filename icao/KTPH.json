@@ -1,0 +1,118 @@
+{
+    "id": "21216",
+    "ident": "KTPH",
+    "type": "medium_airport",
+    "name": "Tonopah Airport",
+    "latitude_deg": "38.06019974",
+    "longitude_deg": "-117.086998",
+    "elevation_ft": "5430",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Tonopah",
+    "scheduled_service": "no",
+    "gps_code": "KTPH",
+    "iata_code": "TPH",
+    "local_code": "TPH",
+    "home_link": "http://www.tonopahnevada.com/airport.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tonopah_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241750",
+            "airport_ref": "21216",
+            "airport_ident": "KTPH",
+            "length_ft": "5464",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "38.0672",
+            "le_longitude_deg": "-117.092",
+            "le_elevation_ft": "5426",
+            "le_heading_degT": "125",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "38.0586",
+            "he_longitude_deg": "-117.076",
+            "he_elevation_ft": "5426",
+            "he_heading_degT": "305",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241751",
+            "airport_ref": "21216",
+            "airport_ident": "KTPH",
+            "length_ft": "7057",
+            "width_ft": "80",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "38.0675",
+            "le_longitude_deg": "-117.093",
+            "le_elevation_ft": "5426",
+            "le_heading_degT": "165",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "38.0488",
+            "he_longitude_deg": "-117.086",
+            "he_elevation_ft": "5392",
+            "he_heading_degT": "345",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62490",
+            "airport_ref": "21216",
+            "airport_ident": "KTPH",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.875"
+        },
+        {
+            "id": "62491",
+            "airport_ref": "21216",
+            "airport_ident": "KTPH",
+            "type": "CNTR",
+            "description": "SALT LAKE CNTR",
+            "frequency_mhz": "133.45"
+        },
+        {
+            "id": "62492",
+            "airport_ref": "21216",
+            "airport_ident": "KTPH",
+            "type": "RDO",
+            "description": "RENO RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "62493",
+            "airport_ref": "21216",
+            "airport_ident": "KTPH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306109",
+        "code": "US-NV",
+        "local_code": "NV",
+        "name": "Nevada",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "4797",
+    "ident": "MRBC",
+    "type": "medium_airport",
+    "name": "Barra del Colorado Airport",
+    "latitude_deg": "10.768699645996094",
+    "longitude_deg": "-83.58560180664062",
+    "elevation_ft": "3",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-L",
+    "municipality": "Pococi",
+    "scheduled_service": "yes",
+    "gps_code": "MRBC",
+    "iata_code": "BCL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Barra_del_Colorado_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235388",
+            "airport_ref": "4797",
+            "airport_ident": "MRBC",
+            "length_ft": "3281",
+            "width_ft": "39",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "10.7731",
+            "le_longitude_deg": "-83.5868",
+            "le_elevation_ft": "",
+            "le_heading_degT": "164.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "10.7644",
+            "he_longitude_deg": "-83.5844",
+            "he_elevation_ft": "",
+            "he_heading_degT": "344.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51609",
+            "airport_ref": "4797",
+            "airport_ident": "MRBC",
+            "type": "RDO",
+            "description": "COCO RDO",
+            "frequency_mhz": "126.8"
+        }
+    ],
+    "country": {
+        "id": "302731",
+        "code": "CR",
+        "name": "Costa Rica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
+        "keywords": "Aeropuertos de Costa Rica"
+    },
+    "region": {
+        "id": "303495",
+        "code": "CR-L",
+        "local_code": "L",
+        "name": "Limon",
+        "continent": "NA",
+        "iso_country": "CR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limon",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86952",
+            "filename": "Barra_Del_Colorado_NDB_CR",
+            "ident": "COL",
+            "name": "Barra Del Colorado",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "10.753299713134766",
+            "longitude_deg": "-83.58329772949219",
+            "elevation_ft": "10",
+            "iso_country": "CR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.358",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MRBC"
+        }
+    ]
+}

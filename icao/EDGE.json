@@ -1,0 +1,80 @@
+{
+    "id": "2232",
+    "ident": "EDGE",
+    "type": "medium_airport",
+    "name": "Eisenach-Kindel Airport",
+    "latitude_deg": "50.991604",
+    "longitude_deg": "10.47973",
+    "elevation_ft": "1112",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-TH",
+    "municipality": "Eisenach",
+    "scheduled_service": "no",
+    "gps_code": "EDGE",
+    "iata_code": "EIB",
+    "local_code": "",
+    "home_link": "http://www.flugplatz-eisenach.de/",
+    "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_Eisenach-Kindel",
+    "keywords": "Flugplatz Eisenach-Kindel",
+    "runways": [
+        {
+            "id": "236273",
+            "airport_ref": "2232",
+            "airport_ident": "EDGE",
+            "length_ft": "5643",
+            "width_ft": "180",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "50.9942",
+            "le_longitude_deg": "10.4644",
+            "le_elevation_ft": "1101",
+            "le_heading_degT": "105",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "50.9902",
+            "he_longitude_deg": "10.4881",
+            "he_elevation_ft": "1101",
+            "he_heading_degT": "285",
+            "he_displaced_threshold_ft": "722"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53162",
+            "airport_ref": "2232",
+            "airport_ident": "EDGE",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "53163",
+            "airport_ref": "2232",
+            "airport_ident": "EDGE",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "119.75"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303562",
+        "code": "DE-TH",
+        "local_code": "TH",
+        "name": "Thuringia",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thuringia",
+        "keywords": "Thueringen, Freistaat Thüringen"
+    }
+}

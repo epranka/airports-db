@@ -1,0 +1,88 @@
+{
+    "id": "20398",
+    "ident": "KLXV",
+    "type": "small_airport",
+    "name": "Lake County Airport",
+    "latitude_deg": "39.220298767100005",
+    "longitude_deg": "-106.317001343",
+    "elevation_ft": "9927",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Leadville",
+    "scheduled_service": "no",
+    "gps_code": "KLXV",
+    "iata_code": "LXV",
+    "local_code": "LXV",
+    "home_link": "http://www.lxvairport.com/home.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lake_County_Airport_(Colorado)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241019",
+            "airport_ref": "20398",
+            "airport_ident": "KLXV",
+            "length_ft": "6400",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "39.2281",
+            "le_longitude_deg": "-106.318",
+            "le_elevation_ft": "9925",
+            "le_heading_degT": "170.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "39.2108",
+            "he_longitude_deg": "-106.315",
+            "he_elevation_ft": "9919",
+            "he_heading_degT": "350.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60997",
+            "airport_ref": "20398",
+            "airport_ident": "KLXV",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "60998",
+            "airport_ref": "20398",
+            "airport_ident": "KLXV",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "119.85"
+        },
+        {
+            "id": "60999",
+            "airport_ref": "20398",
+            "airport_ident": "KLXV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

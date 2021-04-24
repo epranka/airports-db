@@ -1,0 +1,118 @@
+{
+    "id": "20205",
+    "ident": "KJCT",
+    "type": "medium_airport",
+    "name": "Kimble County Airport",
+    "latitude_deg": "30.5112991333",
+    "longitude_deg": "-99.7634963989",
+    "elevation_ft": "1749",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Junction",
+    "scheduled_service": "no",
+    "gps_code": "KJCT",
+    "iata_code": "JCT",
+    "local_code": "JCT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243397",
+            "airport_ref": "20205",
+            "airport_ident": "KJCT",
+            "length_ft": "2255",
+            "width_ft": "146",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "30.512",
+            "le_longitude_deg": "-99.7637",
+            "le_elevation_ft": "",
+            "le_heading_degT": "92.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "30.5117",
+            "he_longitude_deg": "-99.7566",
+            "he_elevation_ft": "1691",
+            "he_heading_degT": "272.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243398",
+            "airport_ref": "20205",
+            "airport_ident": "KJCT",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "30.5172",
+            "le_longitude_deg": "-99.7644",
+            "le_elevation_ft": "1751",
+            "le_heading_degT": "180.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "30.5034",
+            "he_longitude_deg": "-99.7645",
+            "he_elevation_ft": "1702",
+            "he_heading_degT": "0.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65891",
+            "airport_ref": "20205",
+            "airport_ident": "KJCT",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "65892",
+            "airport_ref": "20205",
+            "airport_ident": "KJCT",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "125.75"
+        },
+        {
+            "id": "65893",
+            "airport_ref": "20205",
+            "airport_ident": "KJCT",
+            "type": "FSS",
+            "description": "SAN ANGELO RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "65894",
+            "airport_ref": "20205",
+            "airport_ident": "KJCT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

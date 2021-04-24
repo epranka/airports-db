@@ -1,0 +1,102 @@
+{
+    "id": "20468",
+    "ident": "KMAC",
+    "type": "small_airport",
+    "name": "Macon Downtown Airport",
+    "latitude_deg": "32.82210159",
+    "longitude_deg": "-83.56199646",
+    "elevation_ft": "437",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Macon",
+    "scheduled_service": "no",
+    "gps_code": "KMAC",
+    "iata_code": "MAC",
+    "local_code": "MAC",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Macon_Downtown_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241479",
+            "airport_ref": "20468",
+            "airport_ident": "KMAC",
+            "length_ft": "4696",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "32.823",
+            "le_longitude_deg": "-83.571",
+            "le_elevation_ft": "409",
+            "le_heading_degT": "96",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "32.8216",
+            "he_longitude_deg": "-83.5558",
+            "he_elevation_ft": "412",
+            "he_heading_degT": "276",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241480",
+            "airport_ref": "20468",
+            "airport_ident": "KMAC",
+            "length_ft": "3614",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "32.8262",
+            "le_longitude_deg": "-83.5635",
+            "le_elevation_ft": "451",
+            "le_heading_degT": "147",
+            "le_displaced_threshold_ft": "1000",
+            "he_ident": "33",
+            "he_latitude_deg": "32.8178",
+            "he_longitude_deg": "-83.5571",
+            "he_elevation_ft": "411",
+            "he_heading_degT": "327",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61957",
+            "airport_ref": "20468",
+            "airport_ident": "KMAC",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "61958",
+            "airport_ref": "20468",
+            "airport_ident": "KMAC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

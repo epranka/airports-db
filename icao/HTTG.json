@@ -1,0 +1,96 @@
+{
+    "id": "3259",
+    "ident": "HTTG",
+    "type": "medium_airport",
+    "name": "Tanga Airport",
+    "latitude_deg": "-5.092360019683838",
+    "longitude_deg": "39.07120132446289",
+    "elevation_ft": "129",
+    "continent": "AF",
+    "iso_country": "TZ",
+    "iso_region": "TZ-25",
+    "municipality": "Tanga",
+    "scheduled_service": "yes",
+    "gps_code": "HTTG",
+    "iata_code": "TGT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tanga_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239370",
+            "airport_ref": "3259",
+            "airport_ident": "HTTG",
+            "length_ft": "4160",
+            "width_ft": "102",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-5.09507",
+            "le_longitude_deg": "39.0661",
+            "le_elevation_ft": "128",
+            "le_heading_degT": "62",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "-5.08964",
+            "he_longitude_deg": "39.0762",
+            "he_elevation_ft": "102",
+            "he_heading_degT": "242",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58083",
+            "airport_ref": "3259",
+            "airport_ident": "HTTG",
+            "type": "TWR",
+            "description": "INFO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302607",
+        "code": "TZ",
+        "name": "Tanzania",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanzania",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305978",
+        "code": "TZ-25",
+        "local_code": "25",
+        "name": "Tanga Region",
+        "continent": "AF",
+        "iso_country": "TZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanga_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94311",
+            "filename": "Tanga_NDB_TZ",
+            "ident": "TG",
+            "name": "Tanga",
+            "type": "NDB",
+            "frequency_khz": "407",
+            "latitude_deg": "-5.093929767608643",
+            "longitude_deg": "39.071998596191406",
+            "elevation_ft": "129",
+            "iso_country": "TZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.321",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HTTG"
+        }
+    ]
+}

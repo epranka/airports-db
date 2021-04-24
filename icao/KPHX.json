@@ -1,0 +1,172 @@
+{
+    "id": "3772",
+    "ident": "KPHX",
+    "type": "large_airport",
+    "name": "Phoenix Sky Harbor International Airport",
+    "latitude_deg": "33.435302",
+    "longitude_deg": "-112.005905",
+    "elevation_ft": "1135",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Phoenix",
+    "scheduled_service": "yes",
+    "gps_code": "KPHX",
+    "iata_code": "PHX",
+    "local_code": "PHX",
+    "home_link": "http://phoenix.gov/skyharborairport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Phoenix_Sky_Harbor_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240569",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "length_ft": "10300",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07L",
+            "le_latitude_deg": "33.4311",
+            "le_longitude_deg": "-112.027",
+            "le_elevation_ft": "1110",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25R",
+            "he_latitude_deg": "33.431",
+            "he_longitude_deg": "-111.993",
+            "he_elevation_ft": "1134",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240568",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "length_ft": "7800",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07R",
+            "le_latitude_deg": "33.4289",
+            "le_longitude_deg": "-112.027",
+            "le_elevation_ft": "1111",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25L",
+            "he_latitude_deg": "33.4288",
+            "he_longitude_deg": "-112.002",
+            "he_elevation_ft": "1126",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240570",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "length_ft": "11489",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "33.4409",
+            "le_longitude_deg": "-112.03",
+            "le_elevation_ft": "1113",
+            "le_heading_degT": "90.1",
+            "le_displaced_threshold_ft": "898",
+            "he_ident": "26",
+            "he_latitude_deg": "33.4408",
+            "he_longitude_deg": "-111.992",
+            "he_elevation_ft": "1135",
+            "he_heading_degT": "270.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60158",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "60159",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.575"
+        },
+        {
+            "id": "60160",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "60161",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "60162",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "POST",
+            "description": "ANG COMD POST",
+            "frequency_mhz": "140"
+        },
+        {
+            "id": "60163",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "60164",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "60165",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

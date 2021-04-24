@@ -1,0 +1,72 @@
+{
+    "id": "1723",
+    "ident": "CYES",
+    "type": "small_airport",
+    "name": "Edmundston Airport",
+    "latitude_deg": "47.4906005859375",
+    "longitude_deg": "-68.48190307617188",
+    "elevation_ft": "490",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NB",
+    "municipality": "Edmundston",
+    "scheduled_service": "no",
+    "gps_code": "CYES",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Edmundston_Airport",
+    "keywords": "YES",
+    "runways": [
+        {
+            "id": "234993",
+            "airport_ref": "1723",
+            "airport_ident": "CYES",
+            "length_ft": "4499",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "47.4953",
+            "le_longitude_deg": "-68.4878",
+            "le_elevation_ft": "",
+            "le_heading_degT": "140",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "47.4858",
+            "he_longitude_deg": "-68.4761",
+            "he_elevation_ft": "",
+            "he_heading_degT": "320",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50868",
+            "airport_ref": "1723",
+            "airport_ident": "CYES",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303297",
+        "code": "CA-NB",
+        "local_code": "NB",
+        "name": "New Brunswick",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Brunswick",
+        "keywords": ""
+    }
+}

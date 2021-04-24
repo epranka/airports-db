@@ -1,0 +1,118 @@
+{
+    "id": "19289",
+    "ident": "KAOH",
+    "type": "small_airport",
+    "name": "Lima Allen County Airport",
+    "latitude_deg": "40.706902",
+    "longitude_deg": "-84.026703",
+    "elevation_ft": "975",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Lima",
+    "scheduled_service": "no",
+    "gps_code": "KAOH",
+    "iata_code": "AOH",
+    "local_code": "AOH",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lima_Allen_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244324",
+            "airport_ref": "19289",
+            "airport_ident": "KAOH",
+            "length_ft": "5149",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "40.7069",
+            "le_longitude_deg": "-84.0359",
+            "le_elevation_ft": "951",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "138",
+            "he_ident": "27",
+            "he_latitude_deg": "40.7069",
+            "he_longitude_deg": "-84.0174",
+            "he_elevation_ft": "975",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244325",
+            "airport_ref": "19289",
+            "airport_ident": "KAOH",
+            "length_ft": "3994",
+            "width_ft": "150",
+            "surface": "COM",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "14",
+            "le_latitude_deg": "40.7141",
+            "le_longitude_deg": "-84.0313",
+            "le_elevation_ft": "975",
+            "le_heading_degT": "135.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "40.7063",
+            "he_longitude_deg": "-84.0212",
+            "he_elevation_ft": "975",
+            "he_heading_degT": "315.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67840",
+            "airport_ref": "19289",
+            "airport_ident": "KAOH",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "108.4"
+        },
+        {
+            "id": "67841",
+            "airport_ref": "19289",
+            "airport_ident": "KAOH",
+            "type": "CNTR",
+            "description": "INDIANAPOLIS CNTR",
+            "frequency_mhz": "128.075"
+        },
+        {
+            "id": "67842",
+            "airport_ref": "19289",
+            "airport_ident": "KAOH",
+            "type": "RDO",
+            "description": "DAYTON RDO",
+            "frequency_mhz": "108.4"
+        },
+        {
+            "id": "67843",
+            "airport_ref": "19289",
+            "airport_ident": "KAOH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "6045",
+    "ident": "SCTN",
+    "type": "medium_airport",
+    "name": "Chaitén Airport",
+    "latitude_deg": "-42.93280029296875",
+    "longitude_deg": "-72.6990966796875",
+    "elevation_ft": "13",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-LL",
+    "municipality": "Chaiten",
+    "scheduled_service": "no",
+    "gps_code": "SCTN",
+    "iata_code": "WCH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235255",
+            "airport_ref": "6045",
+            "airport_ident": "SCTN",
+            "length_ft": "4670",
+            "width_ft": "65",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "-42.9281",
+            "le_longitude_deg": "-72.7051",
+            "le_elevation_ft": "",
+            "le_heading_degT": "137",
+            "le_displaced_threshold_ft": "105",
+            "he_ident": "31",
+            "he_latitude_deg": "-42.9375",
+            "he_longitude_deg": "-72.6932",
+            "he_elevation_ft": "",
+            "he_heading_degT": "317",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51366",
+            "airport_ref": "6045",
+            "airport_ident": "SCTN",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303404",
+        "code": "CL-LL",
+        "local_code": "LL",
+        "name": "Los Lagos Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Los_Lagos_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94291",
+            "filename": "Chaiten_NDB_CL",
+            "ident": "TEN",
+            "name": "Chaiten",
+            "type": "NDB",
+            "frequency_khz": "234",
+            "latitude_deg": "-42.92470169067383",
+            "longitude_deg": "-72.71530151367188",
+            "elevation_ft": "",
+            "iso_country": "CL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.157",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SCTN"
+        }
+    ]
+}

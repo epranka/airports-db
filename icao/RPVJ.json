@@ -1,0 +1,96 @@
+{
+    "id": "5740",
+    "ident": "RPVJ",
+    "type": "medium_airport",
+    "name": "Moises R. Espinosa Airport",
+    "latitude_deg": "12.369682",
+    "longitude_deg": "123.630095",
+    "elevation_ft": "49",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-MAS",
+    "municipality": "Masbate",
+    "scheduled_service": "yes",
+    "gps_code": "RPVJ",
+    "iata_code": "MBT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Masbate_Airport",
+    "keywords": "Masbate, Moises R. Espinoza",
+    "runways": [
+        {
+            "id": "238464",
+            "airport_ref": "5740",
+            "airport_ident": "RPVJ",
+            "length_ft": "4199",
+            "width_ft": "98",
+            "surface": "ASP/CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "12.3651",
+            "le_longitude_deg": "123.626",
+            "le_elevation_ft": "",
+            "le_heading_degT": "38",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "12.3737",
+            "he_longitude_deg": "123.633",
+            "he_elevation_ft": "",
+            "he_heading_degT": "218",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56533",
+            "airport_ref": "5740",
+            "airport_ident": "RPVJ",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305099",
+        "code": "PH-MAS",
+        "local_code": "MAS",
+        "name": "Masbate Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Masbate_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90773",
+            "filename": "Masbate_VOR-DME_PH",
+            "ident": "MBT",
+            "name": "Masbate",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "12.369199752807617",
+            "longitude_deg": "123.63099670410156",
+            "elevation_ft": "50",
+            "iso_country": "PH",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.543",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPVJ"
+        }
+    ]
+}

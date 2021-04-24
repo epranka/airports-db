@@ -1,0 +1,112 @@
+{
+    "id": "6472",
+    "ident": "UKDE",
+    "type": "medium_airport",
+    "name": "Zaporizhzhia International Airport",
+    "latitude_deg": "47.867000579833984",
+    "longitude_deg": "35.31570053100586",
+    "elevation_ft": "373",
+    "continent": "EU",
+    "iso_country": "UA",
+    "iso_region": "UA-23",
+    "municipality": "Zaporizhia",
+    "scheduled_service": "yes",
+    "gps_code": "UKDE",
+    "iata_code": "OZH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Zaporizhia_International_Airport",
+    "keywords": "Zaporozhye Airport, Міжнародний аеропорт Запоріжжя, Аэропорт Запорожье",
+    "runways": [
+        {
+            "id": "239611",
+            "airport_ref": "6472",
+            "airport_ident": "UKDE",
+            "length_ft": "8210",
+            "width_ft": "138",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "47.8567",
+            "le_longitude_deg": "35.3091",
+            "le_elevation_ft": "339",
+            "le_heading_degT": "23.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "47.8774",
+            "he_longitude_deg": "35.3223",
+            "he_elevation_ft": "373",
+            "he_heading_degT": "203.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58548",
+            "airport_ref": "6472",
+            "airport_ident": "UKDE",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "58549",
+            "airport_ref": "6472",
+            "airport_ident": "UKDE",
+            "type": "PMSV",
+            "description": "METEO",
+            "frequency_mhz": "126.4"
+        },
+        {
+            "id": "58550",
+            "airport_ref": "6472",
+            "airport_ident": "UKDE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302719",
+        "code": "UA",
+        "name": "Ukraine",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
+        "keywords": "Аеропорти України"
+    },
+    "region": {
+        "id": "305988",
+        "code": "UA-23",
+        "local_code": "23",
+        "name": "Zaporizhia",
+        "continent": "EU",
+        "iso_country": "UA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zaporizhia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94442",
+            "filename": "Tomakivka_NDB_UA",
+            "ident": "TM",
+            "name": "Tomakivka",
+            "type": "NDB",
+            "frequency_khz": "518",
+            "latitude_deg": "47.81809997558594",
+            "longitude_deg": "34.73500061035156",
+            "elevation_ft": "",
+            "iso_country": "UA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.237",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UKDE"
+        }
+    ]
+}

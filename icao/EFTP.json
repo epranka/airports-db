@@ -1,0 +1,112 @@
+{
+    "id": "2347",
+    "ident": "EFTP",
+    "type": "medium_airport",
+    "name": "Tampere-Pirkkala Airport",
+    "latitude_deg": "61.414101",
+    "longitude_deg": "23.604401",
+    "elevation_ft": "390",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-11",
+    "municipality": "Tampere / Pirkkala",
+    "scheduled_service": "yes",
+    "gps_code": "EFTP",
+    "iata_code": "TMP",
+    "local_code": "",
+    "home_link": "https://www.finavia.fi/en/tampere-pirkkala/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tampere-Pirkkala_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235749",
+            "airport_ref": "2347",
+            "airport_ident": "EFTP",
+            "length_ft": "8858",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "61.4089",
+            "le_longitude_deg": "23.5816",
+            "le_elevation_ft": "390",
+            "le_heading_degT": "64.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "61.4194",
+            "he_longitude_deg": "23.6272",
+            "he_elevation_ft": "366",
+            "he_heading_degT": "244.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52111",
+            "airport_ref": "2347",
+            "airport_ident": "EFTP",
+            "type": "APP",
+            "description": "PIRKKALA APP",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "52112",
+            "airport_ref": "2347",
+            "airport_ident": "EFTP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "133.55"
+        },
+        {
+            "id": "52113",
+            "airport_ref": "2347",
+            "airport_ident": "EFTP",
+            "type": "TWR",
+            "description": "PIRKKALA TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336512",
+        "code": "FI-11",
+        "local_code": "11",
+        "name": "Pirkanmaa Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pirkanmaa",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92452",
+            "filename": "Pirkka_VOR-DME_FI",
+            "ident": "PIR",
+            "name": "Pirkka",
+            "type": "VOR-DME",
+            "frequency_khz": "116200",
+            "latitude_deg": "61.4099006652832",
+            "longitude_deg": "23.577699661254883",
+            "elevation_ft": "450",
+            "iso_country": "FI",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.007",
+            "magnetic_variation_deg": "6.521",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EFTP"
+        }
+    ]
+}

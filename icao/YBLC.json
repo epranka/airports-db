@@ -1,0 +1,88 @@
+{
+    "id": "27388",
+    "ident": "YBLC",
+    "type": "small_airport",
+    "name": "Balcanoona Airport",
+    "latitude_deg": "-30.53499984741211",
+    "longitude_deg": "139.33700561523438",
+    "elevation_ft": "144",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBLC",
+    "iata_code": "LCN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258301",
+            "airport_ref": "27388",
+            "airport_ident": "YBLC",
+            "length_ft": "4199",
+            "width_ft": "",
+            "surface": "C",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72257",
+            "airport_ref": "27388",
+            "airport_ident": "YBLC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "72258",
+            "airport_ref": "27388",
+            "airport_ident": "YBLC",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "72259",
+            "airport_ref": "27388",
+            "airport_ident": "YBLC",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "121.85"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": ""
+    }
+}

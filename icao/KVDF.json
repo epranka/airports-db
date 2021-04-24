@@ -1,0 +1,110 @@
+{
+    "id": "21316",
+    "ident": "KVDF",
+    "type": "small_airport",
+    "name": "Tampa Executive Airport",
+    "latitude_deg": "28.013999939",
+    "longitude_deg": "-82.3452987671",
+    "elevation_ft": "22",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Tampa",
+    "scheduled_service": "no",
+    "gps_code": "KVDF",
+    "iata_code": "",
+    "local_code": "VDF",
+    "home_link": "http://www.tampaairport.com/tampa-executive-airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tampa_Executive_Airport",
+    "keywords": "X16, Vandenberg Airport",
+    "runways": [
+        {
+            "id": "241352",
+            "airport_ref": "21316",
+            "airport_ident": "KVDF",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "28.0121",
+            "le_longitude_deg": "-82.3477",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "42",
+            "le_displaced_threshold_ft": "400",
+            "he_ident": "23",
+            "he_latitude_deg": "28.0223",
+            "he_longitude_deg": "-82.3372",
+            "he_elevation_ft": "21",
+            "he_heading_degT": "222",
+            "he_displaced_threshold_ft": "800"
+        },
+        {
+            "id": "241353",
+            "airport_ref": "21316",
+            "airport_ident": "KVDF",
+            "length_ft": "3259",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "28.0135",
+            "le_longitude_deg": "-82.3496",
+            "le_elevation_ft": "19",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "28.0046",
+            "he_longitude_deg": "-82.3496",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61674",
+            "airport_ref": "21316",
+            "airport_ident": "KVDF",
+            "type": "A/D",
+            "description": "TAMPA APP/DEP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "61675",
+            "airport_ref": "21316",
+            "airport_ident": "KVDF",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "61676",
+            "airport_ref": "21316",
+            "airport_ident": "KVDF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

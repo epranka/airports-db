@@ -1,0 +1,80 @@
+{
+    "id": "19006",
+    "ident": "K6R3",
+    "type": "small_airport",
+    "name": "Cleveland Municipal Airport",
+    "latitude_deg": "30.3564",
+    "longitude_deg": "-95.008003",
+    "elevation_ft": "150",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Cleveland",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "6R3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244502",
+            "airport_ref": "19006",
+            "airport_ident": "K6R3",
+            "length_ft": "4998",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "30.363",
+            "le_longitude_deg": "-95.0105",
+            "le_elevation_ft": "150",
+            "le_heading_degT": "161.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "30.3499",
+            "he_longitude_deg": "-95.0055",
+            "he_elevation_ft": "142",
+            "he_heading_degT": "341.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68232",
+            "airport_ref": "19006",
+            "airport_ident": "K6R3",
+            "type": "A/D",
+            "description": "HOUSTON APP/DEP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "68233",
+            "airport_ref": "19006",
+            "airport_ident": "K6R3",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

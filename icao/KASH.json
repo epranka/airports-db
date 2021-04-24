@@ -1,0 +1,112 @@
+{
+    "id": "19310",
+    "ident": "KASH",
+    "type": "small_airport",
+    "name": "Nashua Airport / Boire Field",
+    "latitude_deg": "42.7817",
+    "longitude_deg": "-71.514801",
+    "elevation_ft": "199",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Nashua",
+    "scheduled_service": "no",
+    "gps_code": "KASH",
+    "iata_code": "ASH",
+    "local_code": "ASH",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nashua_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244293",
+            "airport_ref": "19310",
+            "airport_ident": "KASH",
+            "length_ft": "5501",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "42.7858",
+            "le_longitude_deg": "-71.5234",
+            "le_elevation_ft": "199",
+            "le_heading_degT": "123",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "42.7777",
+            "he_longitude_deg": "-71.5061",
+            "he_elevation_ft": "187",
+            "he_heading_degT": "303",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67794",
+            "airport_ref": "19310",
+            "airport_ident": "KASH",
+            "type": "A/D",
+            "description": "BOSTON APP/DEP",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "67795",
+            "airport_ref": "19310",
+            "airport_ident": "KASH",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "67796",
+            "airport_ref": "19310",
+            "airport_ident": "KASH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "67797",
+            "airport_ref": "19310",
+            "airport_ident": "KASH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "133.2"
+        },
+        {
+            "id": "67798",
+            "airport_ref": "19310",
+            "airport_ident": "KASH",
+            "type": "GND",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "67799",
+            "airport_ref": "19310",
+            "airport_ident": "KASH",
+            "type": "TWR",
+            "description": "NASHUA TWR",
+            "frequency_mhz": "133.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306106",
+        "code": "US-NH",
+        "local_code": "NH",
+        "name": "New Hampshire",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Hampshire",
+        "keywords": ""
+    }
+}

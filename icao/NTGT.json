@@ -1,0 +1,96 @@
+{
+    "id": "4993",
+    "ident": "NTGT",
+    "type": "medium_airport",
+    "name": "Takapoto Airport",
+    "latitude_deg": "-14.709500312805176",
+    "longitude_deg": "-145.24600219726562",
+    "elevation_ft": "12",
+    "continent": "OC",
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "NTGT",
+    "iata_code": "TKP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Takapoto_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235814",
+            "airport_ref": "4993",
+            "airport_ident": "NTGT",
+            "length_ft": "3018",
+            "width_ft": "65",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "-14.7103",
+            "le_longitude_deg": "-145.25",
+            "le_elevation_ft": "12",
+            "le_heading_degT": "80.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "-14.7088",
+            "he_longitude_deg": "-145.242",
+            "he_elevation_ft": "9",
+            "he_heading_degT": "260.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52204",
+            "airport_ref": "4993",
+            "airport_ident": "NTGT",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302777",
+        "code": "PF",
+        "name": "French Polynesia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/French_Polynesia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305033",
+        "code": "PF-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "PF",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94532",
+            "filename": "Takapoto_NDB_PF",
+            "ident": "TP",
+            "name": "Takapoto",
+            "type": "NDB",
+            "frequency_khz": "349",
+            "latitude_deg": "-14.714699745178223",
+            "longitude_deg": "-145.2530059814453",
+            "elevation_ft": "62",
+            "iso_country": "PF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.002",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "NTGT"
+        }
+    ]
+}

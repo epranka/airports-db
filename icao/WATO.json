@@ -1,0 +1,104 @@
+{
+    "id": "26800",
+    "ident": "WATO",
+    "type": "small_airport",
+    "name": "Komodo Airport",
+    "latitude_deg": "-8.48666",
+    "longitude_deg": "119.889",
+    "elevation_ft": "66",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-NT",
+    "municipality": "Labuan Bajo - Flores Island",
+    "scheduled_service": "yes",
+    "gps_code": "WATO",
+    "iata_code": "LBJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Komodo_Airport",
+    "keywords": "Mutiara II Airport, WRKO",
+    "runways": [
+        {
+            "id": "236514",
+            "airport_ref": "26800",
+            "airport_ident": "WATO",
+            "length_ft": "7381",
+            "width_ft": "145",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "-8.48042",
+            "le_longitude_deg": "119.888",
+            "le_elevation_ft": "",
+            "le_heading_degT": "172",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "-8.49289",
+            "he_longitude_deg": "119.89",
+            "he_elevation_ft": "",
+            "he_heading_degT": "352",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53643",
+            "airport_ref": "26800",
+            "airport_ident": "WATO",
+            "type": "A/G",
+            "description": "LABUHAN BAJO RDO",
+            "frequency_mhz": "449.5"
+        },
+        {
+            "id": "53644",
+            "airport_ref": "26800",
+            "airport_ident": "WATO",
+            "type": "INFO",
+            "description": "LABUHAN BAJO INFO",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304117",
+        "code": "ID-NT",
+        "local_code": "NT",
+        "name": "Nusa Tenggara Timur",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90193",
+            "filename": "Labuhan_Bajo_NDB_ID",
+            "ident": "LB",
+            "name": "Labuhan Bajo",
+            "type": "NDB",
+            "frequency_khz": "238",
+            "latitude_deg": "-8.489520072937012",
+            "longitude_deg": "119.88700103759766",
+            "elevation_ft": "66",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.558",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WATO"
+        }
+    ]
+}

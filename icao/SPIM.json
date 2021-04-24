@@ -1,0 +1,136 @@
+{
+    "id": "6217",
+    "ident": "SPIM",
+    "type": "large_airport",
+    "name": "Jorge Chávez International Airport",
+    "latitude_deg": "-12.0219",
+    "longitude_deg": "-77.114305",
+    "elevation_ft": "113",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LIM",
+    "municipality": "Lima",
+    "scheduled_service": "yes",
+    "gps_code": "SPJC",
+    "iata_code": "LIM",
+    "local_code": "",
+    "home_link": "http://www.lap.com.pe/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jorge_Ch%C3%A1vez_International_Airport",
+    "keywords": "SPIM",
+    "runways": [
+        {
+            "id": "238150",
+            "airport_ref": "6217",
+            "airport_ident": "SPIM",
+            "length_ft": "11506",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "-12.0076",
+            "le_longitude_deg": "-77.1214",
+            "le_elevation_ft": "46",
+            "le_heading_degT": "153",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "-12.0361",
+            "he_longitude_deg": "-77.1073",
+            "he_elevation_ft": "113",
+            "he_heading_degT": "333",
+            "he_displaced_threshold_ft": "2001"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56098",
+            "airport_ref": "6217",
+            "airport_ident": "SPIM",
+            "type": "APP",
+            "description": "LIMA APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "56099",
+            "airport_ref": "6217",
+            "airport_ident": "SPIM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "56100",
+            "airport_ref": "6217",
+            "airport_ident": "SPIM",
+            "type": "CLD",
+            "description": "LIMA CLNC DEL",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "56101",
+            "airport_ref": "6217",
+            "airport_ident": "SPIM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "56102",
+            "airport_ref": "6217",
+            "airport_ident": "SPIM",
+            "type": "RDO",
+            "description": "LIMA RDO",
+            "frequency_mhz": "664.9"
+        },
+        {
+            "id": "56103",
+            "airport_ref": "6217",
+            "airport_ident": "SPIM",
+            "type": "TWR",
+            "description": "LIMA TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Perú",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305021",
+        "code": "PE-LIM",
+        "local_code": "LIM",
+        "name": "Lima Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lima_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90345",
+            "filename": "Lima_VOR-DME_PE",
+            "ident": "LIM",
+            "name": "Lima",
+            "type": "VOR-DME",
+            "frequency_khz": "113800",
+            "latitude_deg": "-12.008600234985352",
+            "longitude_deg": "-77.122802734375",
+            "elevation_ft": "100",
+            "iso_country": "PE",
+            "dme_frequency_khz": "113800",
+            "dme_channel": "085X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.06",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPIM"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "id": "3839",
+    "ident": "KRBL",
+    "type": "medium_airport",
+    "name": "Red Bluff Municipal Airport",
+    "latitude_deg": "40.1506996155",
+    "longitude_deg": "-122.251998901",
+    "elevation_ft": "352",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Red Bluff",
+    "scheduled_service": "no",
+    "gps_code": "KRBL",
+    "iata_code": "RBL",
+    "local_code": "RBL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Red_Bluff_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241916",
+            "airport_ref": "3839",
+            "airport_ident": "KRBL",
+            "length_ft": "5700",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "40.1583",
+            "le_longitude_deg": "-122.254",
+            "le_elevation_ft": "345",
+            "le_heading_degT": "168.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "40.143",
+            "he_longitude_deg": "-122.25",
+            "he_elevation_ft": "341",
+            "he_heading_degT": "348.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62821",
+            "airport_ref": "3839",
+            "airport_ident": "KRBL",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.775"
+        },
+        {
+            "id": "62822",
+            "airport_ref": "3839",
+            "airport_ident": "KRBL",
+            "type": "CNTR",
+            "description": "OAKLAND CNTR",
+            "frequency_mhz": "132.2"
+        },
+        {
+            "id": "62823",
+            "airport_ref": "3839",
+            "airport_ident": "KRBL",
+            "type": "RDO",
+            "description": "RANCHO RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "62824",
+            "airport_ref": "3839",
+            "airport_ident": "KRBL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92305",
+            "filename": "Proberta_NDB_US",
+            "ident": "PBT",
+            "name": "Proberta",
+            "type": "NDB",
+            "frequency_khz": "338",
+            "latitude_deg": "40.11389923095703",
+            "longitude_deg": "-122.23699951171875",
+            "elevation_ft": "400",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.196",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KRBL"
+        },
+        {
+            "id": "92986",
+            "filename": "Red_Bluff_VORTAC_US",
+            "ident": "RBL",
+            "name": "Red Bluff",
+            "type": "VORTAC",
+            "frequency_khz": "115700",
+            "latitude_deg": "40.098899841308594",
+            "longitude_deg": "-122.23600006103516",
+            "elevation_ft": "322",
+            "iso_country": "US",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "18.001",
+            "magnetic_variation_deg": "15.193",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KRBL"
+        }
+    ]
+}

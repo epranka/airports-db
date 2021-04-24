@@ -1,0 +1,104 @@
+{
+    "id": "20776",
+    "ident": "KOWA",
+    "type": "small_airport",
+    "name": "Owatonna Degner Regional Airport",
+    "latitude_deg": "44.12340164",
+    "longitude_deg": "-93.26059723",
+    "elevation_ft": "1145",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Owatonna",
+    "scheduled_service": "no",
+    "gps_code": "KOWA",
+    "iata_code": "OWA",
+    "local_code": "OWA",
+    "home_link": "http://ci.owatonna.mn.us/airport",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242494",
+            "airport_ref": "20776",
+            "airport_ident": "KOWA",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "44.1276",
+            "le_longitude_deg": "-93.2693",
+            "le_elevation_ft": "1106",
+            "le_heading_degT": "124",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "44.1192",
+            "he_longitude_deg": "-93.2519",
+            "he_elevation_ft": "1145",
+            "he_heading_degT": "304",
+            "he_displaced_threshold_ft": "1000"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64040",
+            "airport_ref": "20776",
+            "airport_ident": "KOWA",
+            "type": "A/D",
+            "description": "ROCHESTER APP/DEP",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "64041",
+            "airport_ref": "20776",
+            "airport_ident": "KOWA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "128.325"
+        },
+        {
+            "id": "64042",
+            "airport_ref": "20776",
+            "airport_ident": "KOWA",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "64043",
+            "airport_ref": "20776",
+            "airport_ident": "KOWA",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "64044",
+            "airport_ref": "20776",
+            "airport_ident": "KOWA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

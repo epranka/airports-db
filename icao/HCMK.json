@@ -1,0 +1,72 @@
+{
+    "id": "3173",
+    "ident": "HCMK",
+    "type": "medium_airport",
+    "name": "Kismayo Airport",
+    "latitude_deg": "-0.377353",
+    "longitude_deg": "42.459202",
+    "elevation_ft": "49",
+    "continent": "AF",
+    "iso_country": "SO",
+    "iso_region": "SO-JH",
+    "municipality": "Kismayo",
+    "scheduled_service": "no",
+    "gps_code": "HCMK",
+    "iata_code": "KMU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kismayo_Airport",
+    "keywords": "Kisimayu, كيسمايو المطار",
+    "runways": [
+        {
+            "id": "238872",
+            "airport_ref": "3173",
+            "airport_ident": "HCMK",
+            "length_ft": "12139",
+            "width_ft": "147",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "5",
+            "le_latitude_deg": "-0.389583",
+            "le_longitude_deg": "42.4479",
+            "le_elevation_ft": "",
+            "le_heading_degT": "43",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "-0.365119",
+            "he_longitude_deg": "42.4706",
+            "he_elevation_ft": "",
+            "he_heading_degT": "223",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57198",
+            "airport_ref": "3173",
+            "airport_ident": "HCMK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "121.9"
+        }
+    ],
+    "country": {
+        "id": "302601",
+        "code": "SO",
+        "name": "Somalia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Somalia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305627",
+        "code": "SO-JH",
+        "local_code": "JH",
+        "name": "Jubbada Hoose",
+        "continent": "AF",
+        "iso_country": "SO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jubbada_Hoose",
+        "keywords": ""
+    }
+}

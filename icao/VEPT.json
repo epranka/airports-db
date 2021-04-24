@@ -1,0 +1,96 @@
+{
+    "id": "26517",
+    "ident": "VEPT",
+    "type": "medium_airport",
+    "name": "Lok Nayak Jayaprakash Airport",
+    "latitude_deg": "25.591299057",
+    "longitude_deg": "85.0879974365",
+    "elevation_ft": "170",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-BR",
+    "municipality": "Patna",
+    "scheduled_service": "yes",
+    "gps_code": "VEPT",
+    "iata_code": "PAT",
+    "local_code": "",
+    "home_link": "http://airportsindia.org.in/allAirports/patna_techinfo.jsp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lok_Nayak_Jayaprakash_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236781",
+            "airport_ref": "26517",
+            "airport_ident": "VEPT",
+            "length_ft": "6410",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "25.5881",
+            "le_longitude_deg": "85.0789",
+            "le_elevation_ft": "169",
+            "le_heading_degT": "68.3",
+            "le_displaced_threshold_ft": "920",
+            "he_ident": "25",
+            "he_latitude_deg": "25.5946",
+            "he_longitude_deg": "85.097",
+            "he_elevation_ft": "169",
+            "he_heading_degT": "248.3",
+            "he_displaced_threshold_ft": "440"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53962",
+            "airport_ref": "26517",
+            "airport_ident": "VEPT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304168",
+        "code": "IN-BR",
+        "local_code": "BR",
+        "name": "Bihar",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bihar",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92648",
+            "filename": "Patna_VOR-DME_IN",
+            "ident": "PPT",
+            "name": "Patna",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "25.59040069580078",
+            "longitude_deg": "85.08989715576172",
+            "elevation_ft": "167",
+            "iso_country": "IN",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.089",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VEPT"
+        }
+    ]
+}

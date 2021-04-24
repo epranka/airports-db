@@ -1,0 +1,88 @@
+{
+    "id": "20211",
+    "ident": "KJFX",
+    "type": "small_airport",
+    "name": "Walker County Airport-Bevill Field",
+    "latitude_deg": "33.90200043",
+    "longitude_deg": "-87.31420135",
+    "elevation_ft": "482",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Jasper",
+    "scheduled_service": "no",
+    "gps_code": "KJFX",
+    "iata_code": "",
+    "local_code": "JFX",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Walker_County_Airport",
+    "keywords": "L02",
+    "runways": [
+        {
+            "id": "245536",
+            "airport_ref": "20211",
+            "airport_ident": "KJFX",
+            "length_ft": "5003",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "33.9023",
+            "le_longitude_deg": "-87.322",
+            "le_elevation_ft": "482",
+            "le_heading_degT": "92",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "33.9018",
+            "he_longitude_deg": "-87.3056",
+            "he_elevation_ft": "473",
+            "he_heading_degT": "272",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70530",
+            "airport_ref": "20211",
+            "airport_ident": "KJFX",
+            "type": "A/D",
+            "description": "BIRMINGHAM APP/DEP",
+            "frequency_mhz": "127.675"
+        },
+        {
+            "id": "70531",
+            "airport_ref": "20211",
+            "airport_ident": "KJFX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.225"
+        },
+        {
+            "id": "70532",
+            "airport_ref": "20211",
+            "airport_ident": "KJFX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

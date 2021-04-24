@@ -1,0 +1,88 @@
+{
+    "id": "20210",
+    "ident": "KJES",
+    "type": "small_airport",
+    "name": "Jesup Wayne County Airport",
+    "latitude_deg": "31.55400085",
+    "longitude_deg": "-81.88249969",
+    "elevation_ft": "107",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Jesup",
+    "scheduled_service": "no",
+    "gps_code": "KJES",
+    "iata_code": "",
+    "local_code": "JES",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "257890",
+            "airport_ref": "20210",
+            "airport_ident": "KJES",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "31.5552",
+            "le_longitude_deg": "-81.8912",
+            "le_elevation_ft": "107",
+            "le_heading_degT": "99",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "31.5527",
+            "he_longitude_deg": "-81.8738",
+            "he_elevation_ft": "66",
+            "he_heading_degT": "279",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65345",
+            "airport_ref": "20210",
+            "airport_ident": "KJES",
+            "type": "AWOS",
+            "description": "AWOS A",
+            "frequency_mhz": "34"
+        },
+        {
+            "id": "65346",
+            "airport_ref": "20210",
+            "airport_ident": "KJES",
+            "type": "CNTR",
+            "description": "JACKSONVILLE CNTR",
+            "frequency_mhz": "126.75"
+        },
+        {
+            "id": "65347",
+            "airport_ref": "20210",
+            "airport_ident": "KJES",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

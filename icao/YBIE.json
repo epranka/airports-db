@@ -1,0 +1,80 @@
+{
+    "id": "26910",
+    "ident": "YBIE",
+    "type": "medium_airport",
+    "name": "Bedourie Airport",
+    "latitude_deg": "-24.346099853515625",
+    "longitude_deg": "139.4600067138672",
+    "elevation_ft": "300",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "YBIE",
+    "iata_code": "BEU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bedourie_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233505",
+            "airport_ref": "26910",
+            "airport_ident": "YBIE",
+            "length_ft": "4921",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-24.35",
+            "le_longitude_deg": "139.457",
+            "le_elevation_ft": "292",
+            "le_heading_degT": "145",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-24.3611",
+            "he_longitude_deg": "139.465",
+            "he_elevation_ft": "292",
+            "he_heading_degT": "325",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49141",
+            "airport_ref": "26910",
+            "airport_ident": "YBIE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49142",
+            "airport_ref": "26910",
+            "airport_ident": "YBIE",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "125.4"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

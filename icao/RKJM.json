@@ -1,0 +1,142 @@
+{
+    "id": "5632",
+    "ident": "RKJM",
+    "type": "closed",
+    "name": "Mokpo Airport",
+    "latitude_deg": "34.758979",
+    "longitude_deg": "126.380324",
+    "elevation_ft": "23",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-46",
+    "municipality": "Gonghang-ro (Mokpo)",
+    "scheduled_service": "no",
+    "gps_code": "RKJM",
+    "iata_code": "MPK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mokpo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237315",
+            "airport_ref": "5632",
+            "airport_ident": "RKJM",
+            "length_ft": "5249",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "34.7543",
+            "le_longitude_deg": "126.373",
+            "le_elevation_ft": "12",
+            "le_heading_degT": "50.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "34.7635",
+            "he_longitude_deg": "126.387",
+            "he_elevation_ft": "23",
+            "he_heading_degT": "230.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54977",
+            "airport_ref": "5632",
+            "airport_ident": "RKJM",
+            "type": "APP",
+            "description": "GWANGJU APP",
+            "frequency_mhz": "130"
+        },
+        {
+            "id": "54978",
+            "airport_ref": "5632",
+            "airport_ident": "RKJM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "129.25"
+        },
+        {
+            "id": "54979",
+            "airport_ref": "5632",
+            "airport_ident": "RKJM",
+            "type": "DEP",
+            "description": "GWANGJU DEP",
+            "frequency_mhz": "130"
+        },
+        {
+            "id": "54980",
+            "airport_ref": "5632",
+            "airport_ident": "RKJM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304412",
+        "code": "KR-46",
+        "local_code": "46",
+        "name": "Jeonranamdo",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jeonranamdo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91027",
+            "filename": "Mokpo_VOR-DME_KR",
+            "ident": "MKP",
+            "name": "Mokpo",
+            "type": "VOR-DME",
+            "frequency_khz": "111200",
+            "latitude_deg": "34.75979995727539",
+            "longitude_deg": "126.37899780273438",
+            "elevation_ft": "23",
+            "iso_country": "KR",
+            "dme_frequency_khz": "111200",
+            "dme_channel": "049X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-6.533",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RKJM"
+        },
+        {
+            "id": "91192",
+            "filename": "Mokpo_NDB_KR",
+            "ident": "MP",
+            "name": "Mokpo",
+            "type": "NDB",
+            "frequency_khz": "267",
+            "latitude_deg": "34.757598876953125",
+            "longitude_deg": "126.38200378417969",
+            "elevation_ft": "23",
+            "iso_country": "KR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.533",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RKJM"
+        }
+    ]
+}

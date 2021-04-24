@@ -1,0 +1,88 @@
+{
+    "id": "21070",
+    "ident": "KSIK",
+    "type": "small_airport",
+    "name": "Sikeston Memorial Municipal Airport",
+    "latitude_deg": "36.898899078369",
+    "longitude_deg": "-89.561798095703",
+    "elevation_ft": "315",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Sikeston",
+    "scheduled_service": "no",
+    "gps_code": "KSIK",
+    "iata_code": "SIK",
+    "local_code": "SIK",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sikeston_Memorial_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241051",
+            "airport_ref": "21070",
+            "airport_ident": "KSIK",
+            "length_ft": "5502",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "36.892",
+            "le_longitude_deg": "-89.5656",
+            "le_elevation_ft": "313",
+            "le_heading_degT": "24",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "36.9058",
+            "he_longitude_deg": "-89.5579",
+            "he_elevation_ft": "314",
+            "he_heading_degT": "204",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61050",
+            "airport_ref": "21070",
+            "airport_ident": "KSIK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.175"
+        },
+        {
+            "id": "61051",
+            "airport_ref": "21070",
+            "airport_ident": "KSIK",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "133.65"
+        },
+        {
+            "id": "61052",
+            "airport_ref": "21070",
+            "airport_ident": "KSIK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

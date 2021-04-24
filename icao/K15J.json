@@ -1,0 +1,102 @@
+{
+    "id": "18424",
+    "ident": "K15J",
+    "type": "small_airport",
+    "name": "Cook County Airport",
+    "latitude_deg": "31.137800216675",
+    "longitude_deg": "-83.453300476074",
+    "elevation_ft": "236",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Adel",
+    "scheduled_service": "no",
+    "gps_code": "15J",
+    "iata_code": "",
+    "local_code": "15J",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245869",
+            "airport_ref": "18424",
+            "airport_ident": "K15J",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "31.1307",
+            "le_longitude_deg": "-83.4609",
+            "le_elevation_ft": "232",
+            "le_heading_degT": "47",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "31.14",
+            "he_longitude_deg": "-83.4491",
+            "he_elevation_ft": "234",
+            "he_heading_degT": "227",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245870",
+            "airport_ref": "18424",
+            "airport_ident": "K15J",
+            "length_ft": "4000",
+            "width_ft": "100",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "31.1438",
+            "le_longitude_deg": "-83.456",
+            "le_elevation_ft": "234",
+            "le_heading_degT": "145",
+            "le_displaced_threshold_ft": "600",
+            "he_ident": "33",
+            "he_latitude_deg": "31.1348",
+            "he_longitude_deg": "-83.4487",
+            "he_elevation_ft": "234",
+            "he_heading_degT": "325",
+            "he_displaced_threshold_ft": "350"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71237",
+            "airport_ref": "18424",
+            "airport_ident": "K15J",
+            "type": "A/D",
+            "description": "VALDOSTA APP/DEP",
+            "frequency_mhz": "119.525"
+        },
+        {
+            "id": "71238",
+            "airport_ref": "18424",
+            "airport_ident": "K15J",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

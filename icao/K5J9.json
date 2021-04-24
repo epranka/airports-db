@@ -1,0 +1,80 @@
+{
+    "id": "18907",
+    "ident": "K5J9",
+    "type": "small_airport",
+    "name": "Twin City Airport",
+    "latitude_deg": "34.088401794433594",
+    "longitude_deg": "-78.86489868164062",
+    "elevation_ft": "99",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Loris",
+    "scheduled_service": "no",
+    "gps_code": "K5J9",
+    "iata_code": "",
+    "local_code": "5J9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241820",
+            "airport_ref": "18907",
+            "airport_ident": "K5J9",
+            "length_ft": "3694",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "34.087",
+            "le_longitude_deg": "-78.8708",
+            "le_elevation_ft": "99",
+            "le_heading_degT": "73.6",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "26",
+            "he_latitude_deg": "34.0898",
+            "he_longitude_deg": "-78.8591",
+            "he_elevation_ft": "99",
+            "he_heading_degT": "253.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62631",
+            "airport_ref": "18907",
+            "airport_ident": "K5J9",
+            "type": "A/D",
+            "description": "MYRTLE BEACH APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "62632",
+            "airport_ref": "18907",
+            "airport_ident": "K5J9",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306116",
+        "code": "US-SC",
+        "local_code": "SC",
+        "name": "South Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
+        "keywords": ""
+    }
+}

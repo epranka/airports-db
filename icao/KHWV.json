@@ -1,0 +1,118 @@
+{
+    "id": "20104",
+    "ident": "KHWV",
+    "type": "small_airport",
+    "name": "Brookhaven Airport",
+    "latitude_deg": "40.8218994141",
+    "longitude_deg": "-72.86940002440001",
+    "elevation_ft": "81",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Shirley",
+    "scheduled_service": "no",
+    "gps_code": "KHWV",
+    "iata_code": "WSH",
+    "local_code": "HWV",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brookhaven_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240472",
+            "airport_ref": "20104",
+            "airport_ident": "KHWV",
+            "length_ft": "4200",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "40.8216",
+            "le_longitude_deg": "-72.8729",
+            "le_elevation_ft": "70",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "40.8298",
+            "he_longitude_deg": "-72.8622",
+            "he_elevation_ft": "81",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240473",
+            "airport_ref": "20104",
+            "airport_ident": "KHWV",
+            "length_ft": "4224",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "40.8223",
+            "le_longitude_deg": "-72.8717",
+            "le_elevation_ft": "69",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "40.8142",
+            "he_longitude_deg": "-72.8609",
+            "he_elevation_ft": "60",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60037",
+            "airport_ref": "20104",
+            "airport_ident": "KHWV",
+            "type": "A/D",
+            "description": "NEW YORK APP/DEP",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "60038",
+            "airport_ref": "20104",
+            "airport_ident": "KHWV",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.625"
+        },
+        {
+            "id": "60039",
+            "airport_ref": "20104",
+            "airport_ident": "KHWV",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "133.2"
+        },
+        {
+            "id": "60040",
+            "airport_ref": "20104",
+            "airport_ident": "KHWV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

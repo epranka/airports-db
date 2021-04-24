@@ -1,0 +1,96 @@
+{
+    "id": "5252",
+    "ident": "OPGD",
+    "type": "medium_airport",
+    "name": "Gwadar International Airport",
+    "latitude_deg": "25.232391",
+    "longitude_deg": "62.327671",
+    "elevation_ft": "36",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-BA",
+    "municipality": "Gwadar",
+    "scheduled_service": "yes",
+    "gps_code": "OPGD",
+    "iata_code": "GWD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gwadar_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238218",
+            "airport_ref": "5252",
+            "airport_ident": "OPGD",
+            "length_ft": "4960",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "25.2302",
+            "le_longitude_deg": "62.3228",
+            "le_elevation_ft": "96",
+            "le_heading_degT": "63",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "25.2365",
+            "he_longitude_deg": "62.3362",
+            "he_elevation_ft": "96",
+            "he_heading_degT": "243",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56180",
+            "airport_ref": "5252",
+            "airport_ident": "OPGD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302657",
+        "code": "PK",
+        "name": "Pakistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pakistan",
+        "keywords": "پاکستان کے ہوائی اڈوں"
+    },
+    "region": {
+        "id": "305135",
+        "code": "PK-BA",
+        "local_code": "BA",
+        "name": "Balochistan",
+        "continent": "AS",
+        "iso_country": "PK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balochistan",
+        "keywords": "Baluchistan"
+    },
+    "navaids": [
+        {
+            "id": "88308",
+            "filename": "Gwadar_NDB_PK",
+            "ident": "GD",
+            "name": "Gwadar",
+            "type": "NDB",
+            "frequency_khz": "303",
+            "latitude_deg": "25.227800369262695",
+            "longitude_deg": "62.33060073852539",
+            "elevation_ft": "82",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.49",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OPGD"
+        }
+    ]
+}

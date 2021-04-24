@@ -1,0 +1,88 @@
+{
+    "id": "20567",
+    "ident": "KMTP",
+    "type": "small_airport",
+    "name": "Montauk Airport",
+    "latitude_deg": "41.0765",
+    "longitude_deg": "-71.920797",
+    "elevation_ft": "6",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Montauk",
+    "scheduled_service": "no",
+    "gps_code": "KMTP",
+    "iata_code": "MTP",
+    "local_code": "MTP",
+    "home_link": "http://www.themontaukairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Montauk_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243788",
+            "airport_ref": "20567",
+            "airport_ident": "KMTP",
+            "length_ft": "3481",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "41.0732",
+            "le_longitude_deg": "-71.9254",
+            "le_elevation_ft": "6",
+            "le_heading_degT": "47",
+            "le_displaced_threshold_ft": "302",
+            "he_ident": "24",
+            "he_latitude_deg": "41.0797",
+            "he_longitude_deg": "-71.9162",
+            "he_elevation_ft": "4",
+            "he_heading_degT": "227",
+            "he_displaced_threshold_ft": "457"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66756",
+            "airport_ref": "20567",
+            "airport_ident": "KMTP",
+            "type": "APP",
+            "description": "NEW YORK APP",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "66757",
+            "airport_ref": "20567",
+            "airport_ident": "KMTP",
+            "type": "DEP",
+            "description": "PROVIDENCE DEP",
+            "frequency_mhz": "125.75"
+        },
+        {
+            "id": "66758",
+            "airport_ref": "20567",
+            "airport_ident": "KMTP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "4236",
+    "ident": "LFSP",
+    "type": "small_airport",
+    "name": "Pontarlier Airfield",
+    "latitude_deg": "46.903999",
+    "longitude_deg": "6.32737",
+    "elevation_ft": "2683",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-BFC",
+    "municipality": "Pontarlier",
+    "scheduled_service": "no",
+    "gps_code": "LFSP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235993",
+            "airport_ref": "4236",
+            "airport_ident": "LFSP",
+            "length_ft": "3281",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "46.9001",
+            "le_longitude_deg": "6.32462",
+            "le_elevation_ft": "2676",
+            "le_heading_degT": "21",
+            "le_displaced_threshold_ft": "68",
+            "he_ident": "20",
+            "he_latitude_deg": "46.9085",
+            "he_longitude_deg": "6.32927",
+            "he_elevation_ft": "2683",
+            "he_heading_degT": "201",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "329950",
+            "airport_ref": "4236",
+            "airport_ident": "LFSP",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "135.7"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306350",
+        "code": "FR-BFC",
+        "local_code": "BFC",
+        "name": "Bourgogne-Franche-Comté",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bourgogne-Franche-Comt%C3%A9",
+        "keywords": "Bourgogne"
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "id": "3746",
+    "ident": "KOGD",
+    "type": "medium_airport",
+    "name": "Ogden Hinckley Airport",
+    "latitude_deg": "41.195899963379",
+    "longitude_deg": "-112.0120010376",
+    "elevation_ft": "4473",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Ogden",
+    "scheduled_service": "yes",
+    "gps_code": "KOGD",
+    "iata_code": "OGD",
+    "local_code": "OGD",
+    "home_link": "http://flyogden.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ogden-Hinckley_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242782",
+            "airport_ref": "3746",
+            "airport_ident": "KOGD",
+            "length_ft": "8103",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "41.188",
+            "le_longitude_deg": "-112.021",
+            "le_elevation_ft": "4473",
+            "le_heading_degT": "44.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "41.2038",
+            "he_longitude_deg": "-112",
+            "he_elevation_ft": "4415",
+            "he_heading_degT": "224.8",
+            "he_displaced_threshold_ft": "851"
+        },
+        {
+            "id": "242783",
+            "airport_ref": "3746",
+            "airport_ident": "KOGD",
+            "length_ft": "5600",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "1",
+            "le_ident": "07",
+            "le_latitude_deg": "41.1979",
+            "le_longitude_deg": "-112.022",
+            "le_elevation_ft": "4448",
+            "le_heading_degT": "89.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "41.1979",
+            "he_longitude_deg": "-112.002",
+            "he_elevation_ft": "4429",
+            "he_heading_degT": "269.8",
+            "he_displaced_threshold_ft": "159"
+        },
+        {
+            "id": "242784",
+            "airport_ref": "3746",
+            "airport_ident": "KOGD",
+            "length_ft": "5195",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "41.2009",
+            "le_longitude_deg": "-112.015",
+            "le_elevation_ft": "4436",
+            "le_heading_degT": "179.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "41.1866",
+            "he_longitude_deg": "-112.015",
+            "he_elevation_ft": "4457",
+            "he_heading_degT": "359.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64623",
+            "airport_ref": "3746",
+            "airport_ident": "KOGD",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "64624",
+            "airport_ref": "3746",
+            "airport_ident": "KOGD",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "125.55"
+        },
+        {
+            "id": "64625",
+            "airport_ref": "3746",
+            "airport_ident": "KOGD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.55"
+        },
+        {
+            "id": "64626",
+            "airport_ref": "3746",
+            "airport_ident": "KOGD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "64627",
+            "airport_ref": "3746",
+            "airport_ident": "KOGD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "64628",
+            "airport_ref": "3746",
+            "airport_ident": "KOGD",
+            "type": "RDO",
+            "description": "CEDAR CITY RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "64629",
+            "airport_ref": "3746",
+            "airport_ident": "KOGD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "64630",
+            "airport_ref": "3746",
+            "airport_ident": "KOGD",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306121",
+        "code": "US-UT",
+        "local_code": "UT",
+        "name": "Utah",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
+        "keywords": ""
+    }
+}

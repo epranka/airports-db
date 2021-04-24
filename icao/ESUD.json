@@ -1,0 +1,112 @@
+{
+    "id": "2713",
+    "ident": "ESUD",
+    "type": "medium_airport",
+    "name": "Storuman Airport",
+    "latitude_deg": "64.960899",
+    "longitude_deg": "17.6966",
+    "elevation_ft": "915",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-AC",
+    "municipality": "Storuman",
+    "scheduled_service": "yes",
+    "gps_code": "ESUD",
+    "iata_code": "SQO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Storuman_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238993",
+            "airport_ref": "2713",
+            "airport_ident": "ESUD",
+            "length_ft": "7490",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "64.9699",
+            "le_longitude_deg": "17.6851",
+            "le_elevation_ft": "894",
+            "le_heading_degT": "151",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "64.9519",
+            "he_longitude_deg": "17.7083",
+            "he_elevation_ft": "904",
+            "he_heading_degT": "331",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57410",
+            "airport_ref": "2713",
+            "airport_ident": "ESUD",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "133.8"
+        },
+        {
+            "id": "57411",
+            "airport_ref": "2713",
+            "airport_ident": "ESUD",
+            "type": "APP",
+            "description": "CON",
+            "frequency_mhz": "133.8"
+        },
+        {
+            "id": "57412",
+            "airport_ref": "2713",
+            "airport_ident": "ESUD",
+            "type": "INFO",
+            "description": "MIL INFO",
+            "frequency_mhz": "133.8"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305412",
+        "code": "SE-AC",
+        "local_code": "AC",
+        "name": "Västerbottens län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västerbottens_län",
+        "keywords": "Västerbotten County"
+    },
+    "navaids": [
+        {
+            "id": "94041",
+            "filename": "Storuman_VOR-DME_SE",
+            "ident": "SUM",
+            "name": "Storuman",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "64.95539855957031",
+            "longitude_deg": "17.70829963684082",
+            "elevation_ft": "958",
+            "iso_country": "SE",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.001",
+            "magnetic_variation_deg": "4.491",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ESUD"
+        }
+    ]
+}

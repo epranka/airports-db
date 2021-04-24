@@ -1,0 +1,88 @@
+{
+    "id": "315901",
+    "ident": "LRCD",
+    "type": "small_airport",
+    "name": "Aerodromul Măgura",
+    "latitude_deg": "45.737222",
+    "longitude_deg": "24.165278",
+    "elevation_ft": "1524",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-SB",
+    "municipality": "Cisnădie",
+    "scheduled_service": "no",
+    "gps_code": "LRCD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.facebook.com/pages/category/Airport/AERODROMUL-MAGURA-219224911475626/",
+    "wikipedia_link": "",
+    "keywords": "magura, romania, avgas, skydiving",
+    "runways": [
+        {
+            "id": "335124",
+            "airport_ref": "315901",
+            "airport_ident": "LRCD",
+            "length_ft": "1970",
+            "width_ft": "60",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "1517",
+            "le_heading_degT": "146",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "1524",
+            "he_heading_degT": "326",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "335125",
+            "airport_ref": "315901",
+            "airport_ident": "LRCD",
+            "type": "AIS",
+            "description": "Magura Dispatch",
+            "frequency_mhz": "131.405"
+        },
+        {
+            "id": "335126",
+            "airport_ref": "315901",
+            "airport_ident": "LRCD",
+            "type": "CTAF",
+            "description": "Sibiu Tower",
+            "frequency_mhz": "121.305"
+        },
+        {
+            "id": "335127",
+            "airport_ref": "315901",
+            "airport_ident": "LRCD",
+            "type": "CTAF",
+            "description": "Sibiu Tower Alternate",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302712",
+        "code": "RO",
+        "name": "Romania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
+        "keywords": "Aeroporturi din România"
+    },
+    "region": {
+        "id": "305250",
+        "code": "RO-SB",
+        "local_code": "SB",
+        "name": "Sibiu",
+        "continent": "EU",
+        "iso_country": "RO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sibiu",
+        "keywords": "Transylvania, Transylvanian Region"
+    }
+}

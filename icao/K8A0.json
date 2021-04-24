@@ -1,0 +1,88 @@
+{
+    "id": "19114",
+    "ident": "K8A0",
+    "type": "small_airport",
+    "name": "Albertville Regional Airport/Thomas J Brumlik Field",
+    "latitude_deg": "34.22909927",
+    "longitude_deg": "-86.25579834",
+    "elevation_ft": "1032",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Albertville",
+    "scheduled_service": "no",
+    "gps_code": "8A0",
+    "iata_code": "",
+    "local_code": "8A0",
+    "home_link": "http://albertvilleaviation.biz/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Albertville_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239736",
+            "airport_ref": "19114",
+            "airport_ident": "K8A0",
+            "length_ft": "6116",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "34.2235",
+            "le_longitude_deg": "-86.2633",
+            "le_elevation_ft": "1002",
+            "le_heading_degT": "48",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "34.2347",
+            "he_longitude_deg": "-86.2482",
+            "he_elevation_ft": "1032",
+            "he_heading_degT": "228",
+            "he_displaced_threshold_ft": "577"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58876",
+            "airport_ref": "19114",
+            "airport_ident": "K8A0",
+            "type": "A/D",
+            "description": "BIRMINGHAM APP/DEP",
+            "frequency_mhz": "132.15"
+        },
+        {
+            "id": "58877",
+            "airport_ref": "19114",
+            "airport_ident": "K8A0",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.575"
+        },
+        {
+            "id": "58878",
+            "airport_ref": "19114",
+            "airport_ident": "K8A0",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

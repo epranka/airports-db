@@ -1,0 +1,80 @@
+{
+    "id": "27265",
+    "ident": "EFPK",
+    "type": "small_airport",
+    "name": "Pieksämäki Airport",
+    "latitude_deg": "62.264702",
+    "longitude_deg": "27.0028",
+    "elevation_ft": "390",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-04",
+    "municipality": "Pieksämäki",
+    "scheduled_service": "no",
+    "gps_code": "EFPK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pieks%C3%A4m%C3%A4ki_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310800",
+            "airport_ref": "27265",
+            "airport_ident": "EFPK",
+            "length_ft": "2427",
+            "width_ft": "59",
+            "surface": "ASPH/GRVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310799",
+            "airport_ref": "27265",
+            "airport_ident": "EFPK",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "135.525"
+        },
+        {
+            "id": "310798",
+            "airport_ref": "27265",
+            "airport_ident": "EFPK",
+            "type": "RDO",
+            "description": "Pieksämäki traffic",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336505",
+        "code": "FI-04",
+        "local_code": "04",
+        "name": "Southern Savonia Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Savo",
+        "keywords": ""
+    }
+}

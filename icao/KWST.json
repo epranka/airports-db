@@ -1,0 +1,110 @@
+{
+    "id": "21382",
+    "ident": "KWST",
+    "type": "small_airport",
+    "name": "Westerly State Airport",
+    "latitude_deg": "41.3496017456",
+    "longitude_deg": "-71.8033981323",
+    "elevation_ft": "81",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-RI",
+    "municipality": "Westerly",
+    "scheduled_service": "yes",
+    "gps_code": "KWST",
+    "iata_code": "WST",
+    "local_code": "WST",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Westerly_State_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242636",
+            "airport_ref": "21382",
+            "airport_ident": "KWST",
+            "length_ft": "4010",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "41.3456",
+            "le_longitude_deg": "-71.8106",
+            "le_elevation_ft": "51",
+            "le_heading_degT": "53.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "41.3522",
+            "he_longitude_deg": "-71.7989",
+            "he_elevation_ft": "78",
+            "he_heading_degT": "233.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242637",
+            "airport_ref": "21382",
+            "airport_ident": "KWST",
+            "length_ft": "3960",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "41.354",
+            "le_longitude_deg": "-71.8075",
+            "le_elevation_ft": "57",
+            "le_heading_degT": "130",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "41.347",
+            "he_longitude_deg": "-71.7965",
+            "he_elevation_ft": "78",
+            "he_heading_degT": "310",
+            "he_displaced_threshold_ft": "750"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64333",
+            "airport_ref": "21382",
+            "airport_ident": "KWST",
+            "type": "A/D",
+            "description": "PROVIDENCE APP/DEP",
+            "frequency_mhz": "119.45"
+        },
+        {
+            "id": "64334",
+            "airport_ref": "21382",
+            "airport_ident": "KWST",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "132.375"
+        },
+        {
+            "id": "64335",
+            "airport_ref": "21382",
+            "airport_ident": "KWST",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306115",
+        "code": "US-RI",
+        "local_code": "RI",
+        "name": "Rhode Island",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rhode_Island",
+        "keywords": ""
+    }
+}

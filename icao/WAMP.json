@@ -1,0 +1,96 @@
+{
+    "id": "26771",
+    "ident": "WAMP",
+    "type": "medium_airport",
+    "name": "Kasiguncu Airport",
+    "latitude_deg": "-1.41674995422",
+    "longitude_deg": "120.657997131",
+    "elevation_ft": "174",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-ST",
+    "municipality": "Poso-Celebes Island",
+    "scheduled_service": "no",
+    "gps_code": "WAMP",
+    "iata_code": "PSJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kasiguncu_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236477",
+            "airport_ref": "26771",
+            "airport_ident": "WAMP",
+            "length_ft": "3650",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "-1.42097",
+            "le_longitude_deg": "120.655",
+            "le_elevation_ft": "",
+            "le_heading_degT": "33",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "-1.41253",
+            "he_longitude_deg": "120.66",
+            "he_elevation_ft": "",
+            "he_heading_degT": "213",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53594",
+            "airport_ref": "26771",
+            "airport_ident": "WAMP",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "457.5"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304125",
+        "code": "ID-ST",
+        "local_code": "ST",
+        "name": "Sulawesi Tengah",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Tengah",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87343",
+            "filename": "Kasiguncu_NDB_ID",
+            "ident": "DF",
+            "name": "Kasiguncu",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "-1.4200400114059448",
+            "longitude_deg": "120.65899658203125",
+            "elevation_ft": "174",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.188",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAMP"
+        }
+    ]
+}

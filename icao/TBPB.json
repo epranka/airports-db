@@ -1,0 +1,158 @@
+{
+    "id": "6360",
+    "ident": "TBPB",
+    "type": "medium_airport",
+    "name": "Grantley Adams International Airport",
+    "latitude_deg": "13.0746",
+    "longitude_deg": "-59.4925",
+    "elevation_ft": "169",
+    "continent": "NA",
+    "iso_country": "BB",
+    "iso_region": "BB-01",
+    "municipality": "Bridgetown",
+    "scheduled_service": "yes",
+    "gps_code": "TBPB",
+    "iata_code": "BGI",
+    "local_code": "",
+    "home_link": "http://www.gaia.bb/content/about-gaia-inc",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Grantley_Adams_International_Airport",
+    "keywords": "Seawell",
+    "runways": [
+        {
+            "id": "233605",
+            "airport_ref": "6360",
+            "airport_ident": "TBPB",
+            "length_ft": "11000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "13.0709",
+            "le_longitude_deg": "-59.5075",
+            "le_elevation_ft": "169",
+            "le_heading_degT": "75.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "13.0783",
+            "he_longitude_deg": "-59.4774",
+            "he_elevation_ft": "160",
+            "he_heading_degT": "255.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49291",
+            "airport_ref": "6360",
+            "airport_ident": "TBPB",
+            "type": "APP",
+            "description": "ADAMS APP",
+            "frequency_mhz": "129.35"
+        },
+        {
+            "id": "49292",
+            "airport_ref": "6360",
+            "airport_ident": "TBPB",
+            "type": "ARR",
+            "description": "ADAMS ARR",
+            "frequency_mhz": "128.85"
+        },
+        {
+            "id": "49293",
+            "airport_ref": "6360",
+            "airport_ident": "TBPB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.725"
+        },
+        {
+            "id": "49294",
+            "airport_ref": "6360",
+            "airport_ident": "TBPB",
+            "type": "DEP",
+            "description": "ADAMS DEP",
+            "frequency_mhz": "128.85"
+        },
+        {
+            "id": "49295",
+            "airport_ref": "6360",
+            "airport_ident": "TBPB",
+            "type": "GND",
+            "description": "ADAMS GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49296",
+            "airport_ref": "6360",
+            "airport_ident": "TBPB",
+            "type": "TWR",
+            "description": "ADAMS TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302726",
+        "code": "BB",
+        "name": "Barbados",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Barbados",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303055",
+        "code": "BB-01",
+        "local_code": "01",
+        "name": "Christ Church",
+        "continent": "NA",
+        "iso_country": "BB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Christ_Church",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85990",
+            "filename": "Adams_VOR-DME_BB",
+            "ident": "BGI",
+            "name": "Adams",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "13.074999809265137",
+            "longitude_deg": "-59.4838981628418",
+            "elevation_ft": "169",
+            "iso_country": "BB",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-13.007",
+            "magnetic_variation_deg": "-15.11",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "TBPB"
+        },
+        {
+            "id": "85991",
+            "filename": "Adams_NDB_BB",
+            "ident": "BGI",
+            "name": "Adams",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "13.07129955291748",
+            "longitude_deg": "-59.490501403808594",
+            "elevation_ft": "169",
+            "iso_country": "BB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.108",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "TBPB"
+        }
+    ]
+}

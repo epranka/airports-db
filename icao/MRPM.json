@@ -1,0 +1,72 @@
+{
+    "id": "4812",
+    "ident": "MRPM",
+    "type": "medium_airport",
+    "name": "Palmar Sur Airport",
+    "latitude_deg": "8.951029777526855",
+    "longitude_deg": "-83.46859741210938",
+    "elevation_ft": "49",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-P",
+    "municipality": "Palmar Sur",
+    "scheduled_service": "yes",
+    "gps_code": "MRPM",
+    "iata_code": "PMZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Palmar_Sur_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235376",
+            "airport_ref": "4812",
+            "airport_ident": "MRPM",
+            "length_ft": "4593",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "8.94571",
+            "le_longitude_deg": "-83.472",
+            "le_elevation_ft": "49",
+            "le_heading_degT": "32.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "8.95634",
+            "he_longitude_deg": "-83.4651",
+            "he_elevation_ft": "49",
+            "he_heading_degT": "212.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51591",
+            "airport_ref": "4812",
+            "airport_ident": "MRPM",
+            "type": "RDO",
+            "description": "COCO RDO",
+            "frequency_mhz": "126.8"
+        }
+    ],
+    "country": {
+        "id": "302731",
+        "code": "CR",
+        "name": "Costa Rica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
+        "keywords": "Aeropuertos de Costa Rica"
+    },
+    "region": {
+        "id": "303496",
+        "code": "CR-P",
+        "local_code": "P",
+        "name": "Puntarenas",
+        "continent": "NA",
+        "iso_country": "CR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Puntarenas",
+        "keywords": ""
+    }
+}

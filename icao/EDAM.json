@@ -1,0 +1,88 @@
+{
+    "id": "2189",
+    "ident": "EDAM",
+    "type": "small_airport",
+    "name": "Flugplatz Merseburg",
+    "latitude_deg": "51.363056",
+    "longitude_deg": "11.940833",
+    "elevation_ft": "341",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-ST",
+    "municipality": "Merseburg",
+    "scheduled_service": "no",
+    "gps_code": "EDAM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236195",
+            "airport_ref": "2189",
+            "airport_ident": "EDAM",
+            "length_ft": "3740",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "51.3622",
+            "le_longitude_deg": "11.9328",
+            "le_elevation_ft": "340",
+            "le_heading_degT": "81",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "51.3638",
+            "he_longitude_deg": "11.9489",
+            "he_elevation_ft": "340",
+            "he_heading_degT": "261",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52929",
+            "airport_ref": "2189",
+            "airport_ident": "EDAM",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "52930",
+            "airport_ref": "2189",
+            "airport_ident": "EDAM",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "52931",
+            "airport_ref": "2189",
+            "airport_ident": "EDAM",
+            "type": "RDR",
+            "description": "BERLIN RADAR",
+            "frequency_mhz": "124.175"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303561",
+        "code": "DE-ST",
+        "local_code": "ST",
+        "name": "Saxony-Anhalt",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony-Anhalt",
+        "keywords": "Sachsen-Anhalt"
+    }
+}

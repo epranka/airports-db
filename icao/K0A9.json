@@ -1,0 +1,80 @@
+{
+    "id": "18347",
+    "ident": "K0A9",
+    "type": "small_airport",
+    "name": "Elizabethton Municipal Airport",
+    "latitude_deg": "36.37120056152344",
+    "longitude_deg": "-82.17330169677734",
+    "elevation_ft": "1593",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Elizabethton",
+    "scheduled_service": "no",
+    "gps_code": "K0A9",
+    "iata_code": "",
+    "local_code": "0A9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242766",
+            "airport_ref": "18347",
+            "airport_ident": "K0A9",
+            "length_ft": "4529",
+            "width_ft": "70",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "36.3679",
+            "le_longitude_deg": "-82.1799",
+            "le_elevation_ft": "1556",
+            "le_heading_degT": "57.6",
+            "le_displaced_threshold_ft": "97",
+            "he_ident": "24",
+            "he_latitude_deg": "36.3745",
+            "he_longitude_deg": "-82.1669",
+            "he_elevation_ft": "1592",
+            "he_heading_degT": "336",
+            "he_displaced_threshold_ft": "429"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64591",
+            "airport_ref": "18347",
+            "airport_ident": "K0A9",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.675"
+        },
+        {
+            "id": "64592",
+            "airport_ref": "18347",
+            "airport_ident": "K0A9",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

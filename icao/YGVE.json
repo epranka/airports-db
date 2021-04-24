@@ -1,0 +1,88 @@
+{
+    "id": "38375",
+    "ident": "YGVE",
+    "type": "small_airport",
+    "name": "Glendevie Airport",
+    "latitude_deg": "-43.22999954223633",
+    "longitude_deg": "147.01199340820312",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YGVE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258690",
+            "airport_ref": "38375",
+            "airport_ident": "YGVE",
+            "length_ft": "1998",
+            "width_ft": "",
+            "surface": "G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "73128",
+            "airport_ref": "38375",
+            "airport_ident": "YGVE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.15"
+        },
+        {
+            "id": "73129",
+            "airport_ref": "38375",
+            "airport_ident": "YGVE",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "73130",
+            "airport_ref": "38375",
+            "airport_ident": "YGVE",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "134.2"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302973",
+        "code": "AU-TAS",
+        "local_code": "TAS",
+        "name": "Tasmania",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
+        "keywords": ""
+    }
+}

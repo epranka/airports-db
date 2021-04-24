@@ -1,0 +1,110 @@
+{
+    "id": "20064",
+    "ident": "KHMT",
+    "type": "small_airport",
+    "name": "Hemet Ryan Airport",
+    "latitude_deg": "33.7340011597",
+    "longitude_deg": "-117.023002625",
+    "elevation_ft": "1512",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Hemet",
+    "scheduled_service": "no",
+    "gps_code": "KHMT",
+    "iata_code": "HMT",
+    "local_code": "HMT",
+    "home_link": "http://www.rchmtra.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hemet-Ryan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244821",
+            "airport_ref": "20064",
+            "airport_ident": "KHMT",
+            "length_ft": "2045",
+            "width_ft": "25",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "33.7339",
+            "le_longitude_deg": "-117.025",
+            "le_elevation_ft": "1506",
+            "le_heading_degT": "63.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "33.7364",
+            "he_longitude_deg": "-117.019",
+            "he_elevation_ft": "1510",
+            "he_heading_degT": "243.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244822",
+            "airport_ref": "20064",
+            "airport_ident": "KHMT",
+            "length_ft": "4314",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "33.7307",
+            "le_longitude_deg": "-117.029",
+            "le_elevation_ft": "1499",
+            "le_heading_degT": "62.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "33.7361",
+            "he_longitude_deg": "-117.017",
+            "he_elevation_ft": "1508",
+            "he_heading_degT": "242.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68950",
+            "airport_ref": "20064",
+            "airport_ident": "KHMT",
+            "type": "A/D",
+            "description": "MARCH APP/DEP",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "68951",
+            "airport_ref": "20064",
+            "airport_ident": "KHMT",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "68952",
+            "airport_ref": "20064",
+            "airport_ident": "KHMT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

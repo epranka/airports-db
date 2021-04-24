@@ -1,0 +1,96 @@
+{
+    "id": "2983",
+    "ident": "FQSG",
+    "type": "small_airport",
+    "name": "Songo Airport",
+    "latitude_deg": "-15.602700233459473",
+    "longitude_deg": "32.77320098876953",
+    "elevation_ft": "2904",
+    "continent": "AF",
+    "iso_country": "MZ",
+    "iso_region": "MZ-T",
+    "municipality": "Songo",
+    "scheduled_service": "no",
+    "gps_code": "FQSG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237840",
+            "airport_ref": "2983",
+            "airport_ident": "FQSG",
+            "length_ft": "2953",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-15.5989",
+            "le_longitude_deg": "32.7717",
+            "le_elevation_ft": "2904",
+            "le_heading_degT": "159",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-15.6065",
+            "he_longitude_deg": "32.7747",
+            "he_elevation_ft": "2894",
+            "he_heading_degT": "339",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55638",
+            "airport_ref": "2983",
+            "airport_ident": "FQSG",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302590",
+        "code": "MZ",
+        "name": "Mozambique",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mozambique",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304849",
+        "code": "MZ-T",
+        "local_code": "T",
+        "name": "Tete Province",
+        "continent": "AF",
+        "iso_country": "MZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tete_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93829",
+            "filename": "Songo_NDB_MZ",
+            "ident": "SO",
+            "name": "Songo",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "-15.583700180053711",
+            "longitude_deg": "32.765899658203125",
+            "elevation_ft": "",
+            "iso_country": "MZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.367",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "FQSG"
+        }
+    ]
+}

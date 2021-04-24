@@ -1,0 +1,120 @@
+{
+    "id": "5416",
+    "ident": "PATQ",
+    "type": "medium_airport",
+    "name": "Atqasuk Edward Burnell Sr Memorial Airport",
+    "latitude_deg": "70.46704",
+    "longitude_deg": "-157.436013",
+    "elevation_ft": "96",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Atqasuk",
+    "scheduled_service": "no",
+    "gps_code": "PATQ",
+    "iata_code": "ATK",
+    "local_code": "ATK",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Atqasuk_Edward_Burnell_Sr._Memorial_Airport",
+    "keywords": "Z46",
+    "runways": [
+        {
+            "id": "239654",
+            "airport_ref": "5416",
+            "airport_ident": "PATQ",
+            "length_ft": "4370",
+            "width_ft": "90",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "70.4662",
+            "le_longitude_deg": "-157.453",
+            "le_elevation_ft": "96",
+            "le_heading_degT": "81",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "70.468",
+            "he_longitude_deg": "-157.418",
+            "he_elevation_ft": "94",
+            "he_heading_degT": "261",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58637",
+            "airport_ref": "5416",
+            "airport_ident": "PATQ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "58638",
+            "airport_ref": "5416",
+            "airport_ident": "PATQ",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "135.3"
+        },
+        {
+            "id": "58639",
+            "airport_ref": "5416",
+            "airport_ident": "PATQ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "58640",
+            "airport_ref": "5416",
+            "airport_ident": "PATQ",
+            "type": "FSS",
+            "description": "BARROW RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85663",
+            "filename": "Atqasuk_NDB_US",
+            "ident": "ATK",
+            "name": "Atqasuk",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "70.46910095214844",
+            "longitude_deg": "-157.427001953125",
+            "elevation_ft": "93",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "19.494",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PATQ"
+        }
+    ]
+}

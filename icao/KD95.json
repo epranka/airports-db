@@ -1,0 +1,110 @@
+{
+    "id": "19613",
+    "ident": "KD95",
+    "type": "small_airport",
+    "name": "Dupont-Lapeer Airport",
+    "latitude_deg": "43.066600799561",
+    "longitude_deg": "-83.272300720215",
+    "elevation_ft": "834",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Lapeer",
+    "scheduled_service": "no",
+    "gps_code": "D95",
+    "iata_code": "",
+    "local_code": "D95",
+    "home_link": "http://www.mayfieldtownship.com/Airport.html",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244677",
+            "airport_ref": "19613",
+            "airport_ident": "KD95",
+            "length_ft": "1900",
+            "width_ft": "150",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "43.0653",
+            "le_longitude_deg": "-83.2744",
+            "le_elevation_ft": "832",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "27",
+            "he_latitude_deg": "43.0653",
+            "he_longitude_deg": "-83.2672",
+            "he_elevation_ft": "824",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244678",
+            "airport_ref": "19613",
+            "airport_ident": "KD95",
+            "length_ft": "3800",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "834",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "829",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68627",
+            "airport_ref": "19613",
+            "airport_ident": "KD95",
+            "type": "A/D",
+            "description": "FLINT APP/DEP",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "68628",
+            "airport_ref": "19613",
+            "airport_ident": "KD95",
+            "type": "RDO",
+            "description": "LANSING RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "68629",
+            "airport_ref": "19613",
+            "airport_ident": "KD95",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

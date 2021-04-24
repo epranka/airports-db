@@ -1,0 +1,152 @@
+{
+    "id": "2506",
+    "ident": "EGXW",
+    "type": "medium_airport",
+    "name": "RAF Waddington",
+    "latitude_deg": "53.1661987305",
+    "longitude_deg": "-0.523810982704",
+    "elevation_ft": "231",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Waddington",
+    "scheduled_service": "no",
+    "gps_code": "EGXW",
+    "iata_code": "WTN",
+    "local_code": "",
+    "home_link": "http://www.raf.mod.uk/rafwaddington",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Waddington",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239504",
+            "airport_ref": "2506",
+            "airport_ident": "EGXW",
+            "length_ft": "9000",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "53.1547",
+            "le_longitude_deg": "-0.531481",
+            "le_elevation_ft": "227",
+            "le_heading_degT": "22",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "53.1776",
+            "he_longitude_deg": "-0.516331",
+            "he_elevation_ft": "220",
+            "he_heading_degT": "202",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58342",
+            "airport_ref": "2506",
+            "airport_ident": "EGXW",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "250.85"
+        },
+        {
+            "id": "58343",
+            "airport_ref": "2506",
+            "airport_ident": "EGXW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "29.167"
+        },
+        {
+            "id": "58344",
+            "airport_ref": "2506",
+            "airport_ident": "EGXW",
+            "type": "CAC",
+            "description": "CAC",
+            "frequency_mhz": "27.777"
+        },
+        {
+            "id": "58345",
+            "airport_ref": "2506",
+            "airport_ident": "EGXW",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "58346",
+            "airport_ref": "2506",
+            "airport_ident": "EGXW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "342.12"
+        },
+        {
+            "id": "58347",
+            "airport_ref": "2506",
+            "airport_ident": "EGXW",
+            "type": "MISC",
+            "description": "ZONE",
+            "frequency_mhz": "127.35"
+        },
+        {
+            "id": "58348",
+            "airport_ref": "2506",
+            "airport_ident": "EGXW",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "386.625"
+        },
+        {
+            "id": "58349",
+            "airport_ref": "2506",
+            "airport_ident": "EGXW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "256.67"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95366",
+            "filename": "Waddington_TACAN_GB",
+            "ident": "WAD",
+            "name": "Waddington",
+            "type": "TACAN",
+            "frequency_khz": "117100",
+            "latitude_deg": "53.16529846191406",
+            "longitude_deg": "-0.5268329977989197",
+            "elevation_ft": "231",
+            "iso_country": "GB",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.419",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGXW"
+        }
+    ]
+}

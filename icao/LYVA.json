@@ -1,0 +1,72 @@
+{
+    "id": "308320",
+    "ident": "LYVA",
+    "type": "small_airport",
+    "name": "Divci Airport",
+    "latitude_deg": "44.297817",
+    "longitude_deg": "20.021913",
+    "elevation_ft": "469",
+    "continent": "EU",
+    "iso_country": "RS",
+    "iso_region": "RS-09",
+    "municipality": "Valjevo",
+    "scheduled_service": "no",
+    "gps_code": "LYVA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Valjevo_Airport",
+    "keywords": "QWV, Valjevo Airport",
+    "runways": [
+        {
+            "id": "308321",
+            "airport_ref": "308320",
+            "airport_ident": "LYVA",
+            "length_ft": "4100",
+            "width_ft": "150",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "308322",
+            "airport_ref": "308320",
+            "airport_ident": "LYVA",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302713",
+        "code": "RS",
+        "name": "Serbia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
+        "keywords": "Serb"
+    },
+    "region": {
+        "id": "306599",
+        "code": "RS-09",
+        "local_code": "09",
+        "name": "Kolubara",
+        "continent": "EU",
+        "iso_country": "RS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kolubara",
+        "keywords": ""
+    }
+}

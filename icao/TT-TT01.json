@@ -1,0 +1,88 @@
+{
+    "id": "40554",
+    "ident": "TT-TT01",
+    "type": "small_airport",
+    "name": "Camden Airfield",
+    "latitude_deg": "10.4263",
+    "longitude_deg": "-61.439701",
+    "elevation_ft": "75",
+    "continent": "NA",
+    "iso_country": "TT",
+    "iso_region": "TT-CTT",
+    "municipality": "Couva",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "TT01",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Camden_Airstrip",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "328041",
+            "airport_ref": "40554",
+            "airport_ident": "TT-TT01",
+            "length_ft": "4301",
+            "width_ft": "50",
+            "surface": "RWY 10 is Smooth Asphalt for 2670' then Rough Asphalt and Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "10.2534",
+            "le_longitude_deg": "61.2643",
+            "le_elevation_ft": "60",
+            "le_heading_degT": "104",
+            "le_displaced_threshold_ft": "140",
+            "he_ident": "28",
+            "he_latitude_deg": "10.2532",
+            "he_longitude_deg": "61.2622",
+            "he_elevation_ft": "60",
+            "he_heading_degT": "284",
+            "he_displaced_threshold_ft": "323"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "328033",
+            "airport_ref": "40554",
+            "airport_ident": "TT-TT01",
+            "type": "CTAF",
+            "description": "Charlie Tango",
+            "frequency_mhz": "129.9"
+        },
+        {
+            "id": "328044",
+            "airport_ref": "40554",
+            "airport_ident": "TT-TT01",
+            "type": "Flight Planning",
+            "description": "Piarco Tower Ops",
+            "frequency_mhz": "0"
+        },
+        {
+            "id": "328043",
+            "airport_ref": "40554",
+            "airport_ident": "TT-TT01",
+            "type": "Piarco Apch",
+            "description": "Piarco Approach",
+            "frequency_mhz": "119"
+        }
+    ],
+    "country": {
+        "id": "302754",
+        "code": "TT",
+        "name": "Trinidad and Tobago",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305920",
+        "code": "TT-CTT",
+        "local_code": "CTT",
+        "name": "Couva-Tabaquite-Talparo",
+        "continent": "NA",
+        "iso_country": "TT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Couva-Tabaquite-Talparo",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": "20270",
+    "ident": "KK89",
+    "type": "small_airport",
+    "name": "Macon Fowler Memorial Airport",
+    "latitude_deg": "39.728699",
+    "longitude_deg": "-92.4645",
+    "elevation_ft": "874",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Macon",
+    "scheduled_service": "no",
+    "gps_code": "KK89",
+    "iata_code": "",
+    "local_code": "K89",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244881",
+            "airport_ref": "20270",
+            "airport_ident": "KK89",
+            "length_ft": "3300",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "39.7244",
+            "le_longitude_deg": "-92.4592",
+            "le_elevation_ft": "874",
+            "le_heading_degT": "20",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "39.7329",
+            "he_longitude_deg": "-92.4552",
+            "he_elevation_ft": "869",
+            "he_heading_degT": "200",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69081",
+            "airport_ref": "20270",
+            "airport_ident": "KK89",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "125.25"
+        },
+        {
+            "id": "69082",
+            "airport_ref": "20270",
+            "airport_ident": "KK89",
+            "type": "RCO",
+            "description": "COLUMBIA RDO",
+            "frequency_mhz": "112.9"
+        },
+        {
+            "id": "69083",
+            "airport_ref": "20270",
+            "airport_ident": "KK89",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

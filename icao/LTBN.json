@@ -1,0 +1,104 @@
+{
+    "id": "4537",
+    "ident": "LTBN",
+    "type": "small_airport",
+    "name": "Kütahya Airport",
+    "latitude_deg": "39.426700592041016",
+    "longitude_deg": "30.01689910888672",
+    "elevation_ft": "3026",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-43",
+    "municipality": "Kütahya",
+    "scheduled_service": "no",
+    "gps_code": "LTBN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239263",
+            "airport_ref": "4537",
+            "airport_ident": "LTBN",
+            "length_ft": "4950",
+            "width_ft": "132",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "39.433",
+            "le_longitude_deg": "30.0137",
+            "le_elevation_ft": "3022",
+            "le_heading_degT": "159",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "39.4204",
+            "he_longitude_deg": "30.0201",
+            "he_elevation_ft": "3026",
+            "he_heading_degT": "339",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57887",
+            "airport_ref": "4537",
+            "airport_ident": "LTBN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "25.125"
+        },
+        {
+            "id": "57888",
+            "airport_ref": "4537",
+            "airport_ident": "LTBN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305878",
+        "code": "TR-43",
+        "local_code": "43",
+        "name": "Kütahya Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kütahya_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90062",
+            "filename": "Kutahya_TACAN_TR",
+            "ident": "KUT",
+            "name": "Kutahya",
+            "type": "TACAN",
+            "frequency_khz": "110900",
+            "latitude_deg": "39.429901123046875",
+            "longitude_deg": "30.01289939880371",
+            "elevation_ft": "3072",
+            "iso_country": "TR",
+            "dme_frequency_khz": "110900",
+            "dme_channel": "046X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.106",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTBN"
+        }
+    ]
+}

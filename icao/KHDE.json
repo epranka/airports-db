@@ -1,0 +1,110 @@
+{
+    "id": "20036",
+    "ident": "KHDE",
+    "type": "small_airport",
+    "name": "Brewster Field",
+    "latitude_deg": "40.452099",
+    "longitude_deg": "-99.336502",
+    "elevation_ft": "2313",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Holdrege",
+    "scheduled_service": "no",
+    "gps_code": "KHDE",
+    "iata_code": "HDE",
+    "local_code": "HDE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240424",
+            "airport_ref": "20036",
+            "airport_ident": "KHDE",
+            "length_ft": "1769",
+            "width_ft": "300",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "40.4519",
+            "le_longitude_deg": "-99.3368",
+            "le_elevation_ft": "2306",
+            "le_heading_degT": "126",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "40.4491",
+            "he_longitude_deg": "-99.3316",
+            "he_elevation_ft": "2310",
+            "he_heading_degT": "306",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240425",
+            "airport_ref": "20036",
+            "airport_ident": "KHDE",
+            "length_ft": "4701",
+            "width_ft": "75",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.459",
+            "le_longitude_deg": "-99.3359",
+            "le_elevation_ft": "2306",
+            "le_heading_degT": "189.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "40.4463",
+            "he_longitude_deg": "-99.3387",
+            "he_elevation_ft": "2308",
+            "he_heading_degT": "9.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59941",
+            "airport_ref": "20036",
+            "airport_ident": "KHDE",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.325"
+        },
+        {
+            "id": "59942",
+            "airport_ref": "20036",
+            "airport_ident": "KHDE",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "132.7"
+        },
+        {
+            "id": "59943",
+            "airport_ref": "20036",
+            "airport_ident": "KHDE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

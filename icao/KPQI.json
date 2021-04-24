@@ -1,0 +1,142 @@
+{
+    "id": "3787",
+    "ident": "KPQI",
+    "type": "medium_airport",
+    "name": "Presque Isle International Airport",
+    "latitude_deg": "46.688999",
+    "longitude_deg": "-68.0448",
+    "elevation_ft": "534",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Presque Isle",
+    "scheduled_service": "yes",
+    "gps_code": "KPQI",
+    "iata_code": "PQI",
+    "local_code": "PQI",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Presque_Isle_International_Airport",
+    "keywords": "Northern Maine Regional",
+    "runways": [
+        {
+            "id": "241432",
+            "airport_ref": "3787",
+            "airport_ident": "KPQI",
+            "length_ft": "7440",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "46.6812",
+            "le_longitude_deg": "-68.0456",
+            "le_elevation_ft": "454",
+            "le_heading_degT": "346.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "46.701",
+            "he_longitude_deg": "-68.0529",
+            "he_elevation_ft": "534",
+            "he_heading_degT": "166.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241433",
+            "airport_ref": "3787",
+            "airport_ident": "KPQI",
+            "length_ft": "5994",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "46.6843",
+            "le_longitude_deg": "-68.0508",
+            "le_elevation_ft": "473",
+            "le_heading_degT": "75.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "46.6884",
+            "he_longitude_deg": "-68.0277",
+            "he_elevation_ft": "473",
+            "he_heading_degT": "255.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61850",
+            "airport_ref": "3787",
+            "airport_ident": "KPQI",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.025"
+        },
+        {
+            "id": "61851",
+            "airport_ref": "3787",
+            "airport_ident": "KPQI",
+            "type": "CLD",
+            "description": "BOSTON CLNC DEL",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "61852",
+            "airport_ref": "3787",
+            "airport_ident": "KPQI",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "124.75"
+        },
+        {
+            "id": "61853",
+            "airport_ref": "3787",
+            "airport_ident": "KPQI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306097",
+        "code": "US-ME",
+        "local_code": "ME",
+        "name": "Maine",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92652",
+            "filename": "Excal_NDB_US",
+            "ident": "PQ",
+            "name": "Excal",
+            "type": "NDB",
+            "frequency_khz": "278",
+            "latitude_deg": "46.610198974609375",
+            "longitude_deg": "-68.0186996459961",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.24",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KPQI"
+        }
+    ]
+}

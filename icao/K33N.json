@@ -1,0 +1,104 @@
+{
+    "id": "18643",
+    "ident": "K33N",
+    "type": "small_airport",
+    "name": "Delaware Airpark",
+    "latitude_deg": "39.21839904789999",
+    "longitude_deg": "-75.59639739990001",
+    "elevation_ft": "56",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-DE",
+    "municipality": "Dover/Cheswold",
+    "scheduled_service": "no",
+    "gps_code": "33N",
+    "iata_code": "",
+    "local_code": "33N",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Delaware_Airpark",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243991",
+            "airport_ref": "18643",
+            "airport_ident": "K33N",
+            "length_ft": "3582",
+            "width_ft": "60",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "39.2169",
+            "le_longitude_deg": "-75.6027",
+            "le_elevation_ft": "54",
+            "le_heading_degT": "73",
+            "le_displaced_threshold_ft": "1005",
+            "he_ident": "27",
+            "he_latitude_deg": "39.2197",
+            "he_longitude_deg": "-75.5906",
+            "he_elevation_ft": "44",
+            "he_heading_degT": "253",
+            "he_displaced_threshold_ft": "350"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67172",
+            "airport_ref": "18643",
+            "airport_ident": "K33N",
+            "type": "APP",
+            "description": "DOVER APP",
+            "frequency_mhz": "132.425"
+        },
+        {
+            "id": "67173",
+            "airport_ref": "18643",
+            "airport_ident": "K33N",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.55"
+        },
+        {
+            "id": "67174",
+            "airport_ref": "18643",
+            "airport_ident": "K33N",
+            "type": "DEP",
+            "description": "DOVER DEP",
+            "frequency_mhz": "32.3"
+        },
+        {
+            "id": "67175",
+            "airport_ref": "18643",
+            "airport_ident": "K33N",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "111.4"
+        },
+        {
+            "id": "67176",
+            "airport_ref": "18643",
+            "airport_ident": "K33N",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306084",
+        "code": "US-DE",
+        "local_code": "DE",
+        "name": "Delaware",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Delaware",
+        "keywords": ""
+    }
+}

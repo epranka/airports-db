@@ -1,0 +1,118 @@
+{
+    "id": "20317",
+    "ident": "KLAA",
+    "type": "small_airport",
+    "name": "Southeast Colorado Regional Airport",
+    "latitude_deg": "38.064852",
+    "longitude_deg": "-102.683201",
+    "elevation_ft": "3706",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Lamar",
+    "scheduled_service": "no",
+    "gps_code": "KLAA",
+    "iata_code": "LAA",
+    "local_code": "LAA",
+    "home_link": "http://www.ci.lamar.co.us/index.asp?Type=B_BASIC&SEC={C91FC3CC-5A83-4F9C-9AF7-A96F374C2EE5}&DE=",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lamar_Municipal_Airport",
+    "keywords": "Lamar Municipal",
+    "runways": [
+        {
+            "id": "243889",
+            "airport_ref": "20317",
+            "airport_ident": "KLAA",
+            "length_ft": "5001",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "38.0739",
+            "le_longitude_deg": "-102.694",
+            "le_elevation_ft": "3683",
+            "le_heading_degT": "89.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "38.074",
+            "he_longitude_deg": "-102.676",
+            "he_elevation_ft": "3689",
+            "he_heading_degT": "269.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243890",
+            "airport_ref": "20317",
+            "airport_ident": "KLAA",
+            "length_ft": "6304",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.0749",
+            "le_longitude_deg": "-102.69",
+            "le_elevation_ft": "3679",
+            "le_heading_degT": "189.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.0578",
+            "he_longitude_deg": "-102.693",
+            "he_elevation_ft": "3706",
+            "he_heading_degT": "9.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66966",
+            "airport_ref": "20317",
+            "airport_ident": "KLAA",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.625"
+        },
+        {
+            "id": "66967",
+            "airport_ref": "20317",
+            "airport_ident": "KLAA",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "133.4"
+        },
+        {
+            "id": "66968",
+            "airport_ref": "20317",
+            "airport_ident": "KLAA",
+            "type": "RDO",
+            "description": "DENVER RDO",
+            "frequency_mhz": "116.9"
+        },
+        {
+            "id": "66969",
+            "airport_ref": "20317",
+            "airport_ident": "KLAA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

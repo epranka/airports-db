@@ -1,0 +1,80 @@
+{
+    "id": "27900",
+    "ident": "YPSH",
+    "type": "small_airport",
+    "name": "Penneshaw Airport",
+    "latitude_deg": "-35.7558462874",
+    "longitude_deg": "137.962875366",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Ironstone",
+    "scheduled_service": "no",
+    "gps_code": "YPSH",
+    "iata_code": "PEA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259250",
+            "airport_ref": "27900",
+            "airport_ident": "YPSH",
+            "length_ft": "2985",
+            "width_ft": "",
+            "surface": "N",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74323",
+            "airport_ref": "27900",
+            "airport_ident": "YPSH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "74324",
+            "airport_ref": "27900",
+            "airport_ident": "YPSH",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": ""
+    }
+}

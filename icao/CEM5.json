@@ -1,0 +1,96 @@
+{
+    "id": "876",
+    "ident": "CEM5",
+    "type": "small_airport",
+    "name": "Swan Hills Airport",
+    "latitude_deg": "54.670799255371094",
+    "longitude_deg": "-115.41500091552734",
+    "elevation_ft": "3473",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Swan Hills",
+    "scheduled_service": "no",
+    "gps_code": "CEM5",
+    "iata_code": "",
+    "local_code": "CEM5",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Swan_Hills_Airport",
+    "keywords": "EM5",
+    "runways": [
+        {
+            "id": "234769",
+            "airport_ref": "876",
+            "airport_ident": "CEM5",
+            "length_ft": "4500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "54.6742",
+            "le_longitude_deg": "-115.423",
+            "le_elevation_ft": "3473",
+            "le_heading_degT": "124",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "54.6672",
+            "he_longitude_deg": "-115.406",
+            "he_elevation_ft": "3473",
+            "he_heading_degT": "304",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50446",
+            "airport_ref": "876",
+            "airport_ident": "CEM5",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85099",
+            "filename": "Swan_Hills_NDB_CA",
+            "ident": "4O",
+            "name": "Swan Hills",
+            "type": "NDB",
+            "frequency_khz": "251",
+            "latitude_deg": "54.67499923706055",
+            "longitude_deg": "-115.42400360107422",
+            "elevation_ft": "3473",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.062",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CEM5"
+        }
+    ]
+}

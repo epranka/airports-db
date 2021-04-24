@@ -1,0 +1,128 @@
+{
+    "id": "5358",
+    "ident": "PAEM",
+    "type": "medium_airport",
+    "name": "Emmonak Airport",
+    "latitude_deg": "62.78609848",
+    "longitude_deg": "-164.4909973",
+    "elevation_ft": "13",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Emmonak",
+    "scheduled_service": "yes",
+    "gps_code": "PAEM",
+    "iata_code": "EMK",
+    "local_code": "ENM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Emmonak_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239710",
+            "airport_ref": "5358",
+            "airport_ident": "PAEM",
+            "length_ft": "4601",
+            "width_ft": "100",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "62.7924",
+            "le_longitude_deg": "-164.492",
+            "le_elevation_ft": "6",
+            "le_heading_degT": "176.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "62.7799",
+            "he_longitude_deg": "-164.49",
+            "he_elevation_ft": "6",
+            "he_heading_degT": "356.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58809",
+            "airport_ref": "5358",
+            "airport_ident": "PAEM",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.35"
+        },
+        {
+            "id": "58810",
+            "airport_ref": "5358",
+            "airport_ident": "PAEM",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "132.5"
+        },
+        {
+            "id": "58811",
+            "airport_ref": "5358",
+            "airport_ident": "PAEM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "58812",
+            "airport_ref": "5358",
+            "airport_ident": "PAEM",
+            "type": "FSS",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "58813",
+            "airport_ref": "5358",
+            "airport_ident": "PAEM",
+            "type": "MISC",
+            "description": "TWEB",
+            "frequency_mhz": "177.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87762",
+            "filename": "Emmonak_VOR-DME_US",
+            "ident": "ENM",
+            "name": "Emmonak",
+            "type": "VOR-DME",
+            "frequency_khz": "117800",
+            "latitude_deg": "62.78459930419922",
+            "longitude_deg": "-164.48800659179688",
+            "elevation_ft": "5",
+            "iso_country": "US",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.001",
+            "magnetic_variation_deg": "13.521",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PAEM"
+        }
+    ]
+}

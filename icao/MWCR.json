@@ -1,0 +1,150 @@
+{
+    "id": "4862",
+    "ident": "MWCR",
+    "type": "large_airport",
+    "name": "Owen Roberts International Airport",
+    "latitude_deg": "19.292800903299998",
+    "longitude_deg": "-81.3576965332",
+    "elevation_ft": "8",
+    "continent": "NA",
+    "iso_country": "KY",
+    "iso_region": "KY-U-A",
+    "municipality": "Georgetown",
+    "scheduled_service": "yes",
+    "gps_code": "MWCR",
+    "iata_code": "GCM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Owen_Roberts_International_Airport",
+    "keywords": "Grand Cayman, George Town",
+    "runways": [
+        {
+            "id": "235262",
+            "airport_ref": "4862",
+            "airport_ident": "MWCR",
+            "length_ft": "7021",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "19.2904",
+            "le_longitude_deg": "-81.3676",
+            "le_elevation_ft": "8",
+            "le_heading_degT": "76",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "19.2951",
+            "he_longitude_deg": "-81.3479",
+            "he_elevation_ft": "6",
+            "he_heading_degT": "256",
+            "he_displaced_threshold_ft": "400"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51375",
+            "airport_ref": "4862",
+            "airport_ident": "MWCR",
+            "type": "A/D",
+            "description": "GRAND CAYMAN APP",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "51376",
+            "airport_ref": "4862",
+            "airport_ident": "MWCR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "51377",
+            "airport_ref": "4862",
+            "airport_ident": "MWCR",
+            "type": "CNTR",
+            "description": "KINGSTON CON",
+            "frequency_mhz": "128.1"
+        },
+        {
+            "id": "51378",
+            "airport_ref": "4862",
+            "airport_ident": "MWCR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51379",
+            "airport_ref": "4862",
+            "airport_ident": "MWCR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118"
+        }
+    ],
+    "country": {
+        "id": "302743",
+        "code": "KY",
+        "name": "Cayman Islands",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cayman_Islands",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304423",
+        "code": "KY-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "KY",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88301",
+            "filename": "Grand_Cayman_VOR-DME_KY",
+            "ident": "GCM",
+            "name": "Grand Cayman",
+            "type": "VOR-DME",
+            "frequency_khz": "115600",
+            "latitude_deg": "19.289400100708008",
+            "longitude_deg": "-81.37200164794922",
+            "elevation_ft": "8",
+            "iso_country": "KY",
+            "dme_frequency_khz": "115600",
+            "dme_channel": "103X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.001",
+            "magnetic_variation_deg": "-3.325",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MWCR"
+        },
+        {
+            "id": "96038",
+            "filename": "Grand_Cayman_NDB_KY",
+            "ident": "ZIY",
+            "name": "Grand Cayman",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "19.28580093383789",
+            "longitude_deg": "-81.38580322265625",
+            "elevation_ft": "6",
+            "iso_country": "KY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.319",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "MWCR"
+        }
+    ]
+}

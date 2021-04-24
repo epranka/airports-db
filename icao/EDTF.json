@@ -1,0 +1,80 @@
+{
+    "id": "2274",
+    "ident": "EDTF",
+    "type": "small_airport",
+    "name": "Freiburg i. Br. Airport",
+    "latitude_deg": "48.022777557400005",
+    "longitude_deg": "7.83249998093",
+    "elevation_ft": "801",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Freiburg im Breisgau",
+    "scheduled_service": "no",
+    "gps_code": "EDTF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.city-flugplatz-freiburg.de/",
+    "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_Freiburg",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236289",
+            "airport_ref": "2274",
+            "airport_ident": "EDTF",
+            "length_ft": "4068",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "48.0279",
+            "le_longitude_deg": "7.82969",
+            "le_elevation_ft": "799",
+            "le_heading_degT": "160",
+            "le_displaced_threshold_ft": "820",
+            "he_ident": "34",
+            "he_latitude_deg": "48.0174",
+            "he_longitude_deg": "7.83547",
+            "he_elevation_ft": "799",
+            "he_heading_degT": "340",
+            "he_displaced_threshold_ft": "853"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53200",
+            "airport_ref": "2274",
+            "airport_ident": "EDTF",
+            "type": "AFIS",
+            "description": "LANGEN INFO",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "53201",
+            "airport_ref": "2274",
+            "airport_ident": "EDTF",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "118.25"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
+    }
+}

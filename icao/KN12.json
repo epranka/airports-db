@@ -1,0 +1,88 @@
+{
+    "id": "20598",
+    "ident": "KN12",
+    "type": "small_airport",
+    "name": "Lakewood Airport",
+    "latitude_deg": "40.06679916381836",
+    "longitude_deg": "-74.17769622802734",
+    "elevation_ft": "43",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Lakewood",
+    "scheduled_service": "no",
+    "gps_code": "KN12",
+    "iata_code": "",
+    "local_code": "N12",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243934",
+            "airport_ref": "20598",
+            "airport_ident": "KN12",
+            "length_ft": "2912",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "40.0641",
+            "le_longitude_deg": "-74.1815",
+            "le_elevation_ft": "43",
+            "le_heading_degT": "47.2",
+            "le_displaced_threshold_ft": "264",
+            "he_ident": "24",
+            "he_latitude_deg": "40.0695",
+            "he_longitude_deg": "-74.1739",
+            "he_elevation_ft": "33",
+            "he_heading_degT": "227.2",
+            "he_displaced_threshold_ft": "247"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67065",
+            "airport_ref": "20598",
+            "airport_ident": "KN12",
+            "type": "A/D",
+            "description": "MC GUIRE APP/DEP",
+            "frequency_mhz": "124.15"
+        },
+        {
+            "id": "67066",
+            "airport_ref": "20598",
+            "airport_ident": "KN12",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "113.4"
+        },
+        {
+            "id": "67067",
+            "airport_ref": "20598",
+            "airport_ident": "KN12",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    }
+}

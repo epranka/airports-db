@@ -1,0 +1,142 @@
+{
+    "id": "5640",
+    "ident": "RKPD",
+    "type": "medium_airport",
+    "name": "Jeongseok Airport",
+    "latitude_deg": "33.3996009827",
+    "longitude_deg": "126.711997986",
+    "elevation_ft": "1171",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-49",
+    "municipality": "Jeju Island",
+    "scheduled_service": "no",
+    "gps_code": "RKPD",
+    "iata_code": "JDG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jeongseok_Airport",
+    "keywords": "Cheju",
+    "runways": [
+        {
+            "id": "237292",
+            "airport_ref": "5640",
+            "airport_ident": "RKPD",
+            "length_ft": "7589",
+            "width_ft": "149",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "33.3829",
+            "le_longitude_deg": "126.712",
+            "le_elevation_ft": "1102",
+            "le_heading_degT": "360",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "33.4037",
+            "he_longitude_deg": "126.712",
+            "he_elevation_ft": "1166",
+            "he_heading_degT": "180",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "237293",
+            "airport_ref": "5640",
+            "airport_ident": "RKPD",
+            "length_ft": "4974",
+            "width_ft": "80",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "33.4039",
+            "le_longitude_deg": "126.708",
+            "le_elevation_ft": "1170",
+            "le_heading_degT": "142.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "33.3931",
+            "he_longitude_deg": "126.718",
+            "he_elevation_ft": "1144",
+            "he_heading_degT": "322.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54892",
+            "airport_ref": "5640",
+            "airport_ident": "RKPD",
+            "type": "APP",
+            "description": "JEJU APP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "54893",
+            "airport_ref": "5640",
+            "airport_ident": "RKPD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.25"
+        },
+        {
+            "id": "54894",
+            "airport_ref": "5640",
+            "airport_ident": "RKPD",
+            "type": "DEP",
+            "description": "JEJU DEP",
+            "frequency_mhz": "121.2"
+        },
+        {
+            "id": "54895",
+            "airport_ref": "5640",
+            "airport_ident": "RKPD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "130.5"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304415",
+        "code": "KR-49",
+        "local_code": "49",
+        "name": "Jejudo",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jejudo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89462",
+            "filename": "Jedong_VOR-DME_KR",
+            "ident": "JDG",
+            "name": "Jedong",
+            "type": "VOR-DME",
+            "frequency_khz": "117900",
+            "latitude_deg": "33.39739990234375",
+            "longitude_deg": "126.70999908447266",
+            "elevation_ft": "1171",
+            "iso_country": "KR",
+            "dme_frequency_khz": "117900",
+            "dme_channel": "126X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.011",
+            "magnetic_variation_deg": "-6.306",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKPD"
+        }
+    ]
+}

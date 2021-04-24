@@ -1,0 +1,118 @@
+{
+    "id": "19384",
+    "ident": "KBKT",
+    "type": "small_airport",
+    "name": "Allen C Perkinson Blackstone Army Air Field",
+    "latitude_deg": "37.0741996765",
+    "longitude_deg": "-77.9574966431",
+    "elevation_ft": "439",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Blackstone",
+    "scheduled_service": "no",
+    "gps_code": "KBKT",
+    "iata_code": "BKT",
+    "local_code": "BKT",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Blackstone_Army_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240321",
+            "airport_ref": "19384",
+            "airport_ident": "KBKT",
+            "length_ft": "4032",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "37.07",
+            "le_longitude_deg": "-77.963",
+            "le_elevation_ft": "417",
+            "le_heading_degT": "0.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "37.081",
+            "he_longitude_deg": "-77.9628",
+            "he_elevation_ft": "426",
+            "he_heading_degT": "180.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240322",
+            "airport_ref": "19384",
+            "airport_ident": "KBKT",
+            "length_ft": "4632",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "37.0687",
+            "le_longitude_deg": "-77.957",
+            "le_elevation_ft": "429",
+            "le_heading_degT": "34.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "37.0792",
+            "he_longitude_deg": "-77.948",
+            "he_elevation_ft": "438",
+            "he_heading_degT": "214.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59768",
+            "airport_ref": "19384",
+            "airport_ident": "KBKT",
+            "type": "CNTR",
+            "description": "WASHINGTON CNTR",
+            "frequency_mhz": "118.75"
+        },
+        {
+            "id": "59769",
+            "airport_ref": "19384",
+            "airport_ident": "KBKT",
+            "type": "OPS",
+            "description": "RANGE OPS",
+            "frequency_mhz": "38.3"
+        },
+        {
+            "id": "59770",
+            "airport_ref": "19384",
+            "airport_ident": "KBKT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "38.3"
+        },
+        {
+            "id": "59771",
+            "airport_ref": "19384",
+            "airport_ident": "KBKT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    }
+}

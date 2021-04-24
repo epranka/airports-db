@@ -1,0 +1,80 @@
+{
+    "id": "5938",
+    "ident": "SBMG",
+    "type": "medium_airport",
+    "name": "Regional de Maringá - Sílvio Name Júnior Airport",
+    "latitude_deg": "-23.47606",
+    "longitude_deg": "-52.016187",
+    "elevation_ft": "1788",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Maringá",
+    "scheduled_service": "yes",
+    "gps_code": "SBMG",
+    "iata_code": "MGF",
+    "local_code": "PR0004",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Maring%C3%A1_Domestic_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233864",
+            "airport_ref": "5938",
+            "airport_ident": "SBMG",
+            "length_ft": "6890",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49574",
+            "airport_ref": "5938",
+            "airport_ident": "SBMG",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "131.95"
+        },
+        {
+            "id": "325549",
+            "airport_ref": "5938",
+            "airport_ident": "SBMG",
+            "type": "TWR",
+            "description": "Torre Maringá",
+            "frequency_mhz": "118.75"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303216",
+        "code": "BR-PR",
+        "local_code": "PR",
+        "name": "Paraná",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
+        "keywords": ""
+    }
+}

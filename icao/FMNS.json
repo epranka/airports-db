@@ -1,0 +1,104 @@
+{
+    "id": "2923",
+    "ident": "FMNS",
+    "type": "medium_airport",
+    "name": "Sambava Airport",
+    "latitude_deg": "-14.2786",
+    "longitude_deg": "50.174702",
+    "elevation_ft": "20",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-D",
+    "municipality": "Sambava",
+    "scheduled_service": "yes",
+    "gps_code": "FMNS",
+    "iata_code": "SVB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sambava_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237518",
+            "airport_ref": "2923",
+            "airport_ident": "FMNS",
+            "length_ft": "4577",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-14.2739",
+            "le_longitude_deg": "50.1717",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "151.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-14.285",
+            "he_longitude_deg": "50.1778",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "331.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55239",
+            "airport_ref": "2923",
+            "airport_ident": "FMNS",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "548.4"
+        },
+        {
+            "id": "55240",
+            "airport_ref": "2923",
+            "airport_ident": "FMNS",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "119.6"
+        }
+    ],
+    "country": {
+        "id": "302585",
+        "code": "MG",
+        "name": "Madagascar",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madagascar",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304624",
+        "code": "MG-D",
+        "local_code": "D",
+        "name": "Antsiranana",
+        "continent": "AF",
+        "iso_country": "MG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antsiranana",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93339",
+            "filename": "Sambava_NDB_MG",
+            "ident": "SA",
+            "name": "Sambava",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "-14.27869987487793",
+            "longitude_deg": "50.17720031738281",
+            "elevation_ft": "",
+            "iso_country": "MG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.524",
+            "usageType": "HI",
+            "power": "MEDIUM",
+            "associated_airport": "FMNS"
+        }
+    ]
+}

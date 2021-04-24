@@ -1,0 +1,88 @@
+{
+    "id": "19869",
+    "ident": "KFIG",
+    "type": "small_airport",
+    "name": "Clearfield Lawrence Airport",
+    "latitude_deg": "41.04859924316406",
+    "longitude_deg": "-78.41310119628906",
+    "elevation_ft": "1516",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Clearfield",
+    "scheduled_service": "no",
+    "gps_code": "KFIG",
+    "iata_code": "",
+    "local_code": "FIG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241749",
+            "airport_ref": "19869",
+            "airport_ident": "KFIG",
+            "length_ft": "4500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "41.0506",
+            "le_longitude_deg": "-78.4208",
+            "le_elevation_ft": "1516",
+            "le_heading_degT": "109",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "41.0466",
+            "he_longitude_deg": "-78.4054",
+            "he_elevation_ft": "1516",
+            "he_heading_degT": "289",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62487",
+            "airport_ref": "19869",
+            "airport_ident": "KFIG",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "62488",
+            "airport_ref": "19869",
+            "airport_ident": "KFIG",
+            "type": "CNTR",
+            "description": "NEW YORK CNTR",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "62489",
+            "airport_ref": "19869",
+            "airport_ident": "KFIG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.725"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "id": "3618",
+    "ident": "KJAC",
+    "type": "medium_airport",
+    "name": "Jackson Hole Airport",
+    "latitude_deg": "43.6072998046875",
+    "longitude_deg": "-110.73799896240234",
+    "elevation_ft": "6451",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Jackson",
+    "scheduled_service": "yes",
+    "gps_code": "KJAC",
+    "iata_code": "JAC",
+    "local_code": "JAC",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jackson_Hole_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241529",
+            "airport_ref": "3618",
+            "airport_ident": "KJAC",
+            "length_ft": "6300",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "43.5992",
+            "le_longitude_deg": "-110.742",
+            "le_elevation_ft": "6413",
+            "le_heading_degT": "19.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "43.6155",
+            "he_longitude_deg": "-110.734",
+            "he_elevation_ft": "6451",
+            "he_heading_degT": "199.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62063",
+            "airport_ref": "3618",
+            "airport_ident": "KJAC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.625"
+        },
+        {
+            "id": "62064",
+            "airport_ref": "3618",
+            "airport_ident": "KJAC",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.175"
+        },
+        {
+            "id": "62065",
+            "airport_ref": "3618",
+            "airport_ident": "KJAC",
+            "type": "CNTR",
+            "description": "SALT LAKE CNTR",
+            "frequency_mhz": "133.25"
+        },
+        {
+            "id": "62066",
+            "airport_ref": "3618",
+            "airport_ident": "KJAC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.075"
+        },
+        {
+            "id": "62067",
+            "airport_ref": "3618",
+            "airport_ident": "KJAC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "124.55"
+        },
+        {
+            "id": "62068",
+            "airport_ref": "3618",
+            "airport_ident": "KJAC",
+            "type": "RDO",
+            "description": "CASPER RDO",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "62069",
+            "airport_ref": "3618",
+            "airport_ident": "KJAC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.075"
+        },
+        {
+            "id": "62070",
+            "airport_ref": "3618",
+            "airport_ident": "KJAC",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306127",
+        "code": "US-WY",
+        "local_code": "WY",
+        "name": "Wyoming",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89428",
+            "filename": "Jackson_VOR-DME_US",
+            "ident": "JAC",
+            "name": "Jackson",
+            "type": "VOR-DME",
+            "frequency_khz": "115400",
+            "latitude_deg": "43.62099838256836",
+            "longitude_deg": "-110.73200225830078",
+            "elevation_ft": "6452",
+            "iso_country": "US",
+            "dme_frequency_khz": "115400",
+            "dme_channel": "101X",
+            "dme_latitude_deg": "43.6214",
+            "dme_longitude_deg": "-110.733",
+            "dme_elevation_ft": "6452",
+            "slaved_variation_deg": "13.006",
+            "magnetic_variation_deg": "12.559",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KJAC"
+        }
+    ]
+}

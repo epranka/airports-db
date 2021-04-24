@@ -1,0 +1,72 @@
+{
+    "id": "4841",
+    "ident": "MUKW",
+    "type": "medium_airport",
+    "name": "Kawama Airport",
+    "latitude_deg": "23.124001",
+    "longitude_deg": "-81.301598",
+    "elevation_ft": "16",
+    "continent": "NA",
+    "iso_country": "CU",
+    "iso_region": "CU-04",
+    "municipality": "Varadero",
+    "scheduled_service": "no",
+    "gps_code": "MUKW",
+    "iata_code": "VRO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kawama_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235427",
+            "airport_ref": "4841",
+            "airport_ident": "MUKW",
+            "length_ft": "4850",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "23.1208",
+            "le_longitude_deg": "-81.3079",
+            "le_elevation_ft": "16",
+            "le_heading_degT": "61",
+            "le_displaced_threshold_ft": "305",
+            "he_ident": "24",
+            "he_latitude_deg": "23.1272",
+            "he_longitude_deg": "-81.2953",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "241",
+            "he_displaced_threshold_ft": "305"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51673",
+            "airport_ref": "4841",
+            "airport_ident": "MUKW",
+            "type": "AFIS",
+            "description": "INFORMACION",
+            "frequency_mhz": "130.1"
+        }
+    ],
+    "country": {
+        "id": "302732",
+        "code": "CU",
+        "name": "Cuba",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuba",
+        "keywords": "Aeropuertos de Cuba"
+    },
+    "region": {
+        "id": "303502",
+        "code": "CU-04",
+        "local_code": "04",
+        "name": "Matanzas Province",
+        "continent": "NA",
+        "iso_country": "CU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Matanzas_Province",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "4619",
+    "ident": "LZMC",
+    "type": "medium_airport",
+    "name": "Kuchyňa Air Base",
+    "latitude_deg": "48.402000427246094",
+    "longitude_deg": "17.11840057373047",
+    "elevation_ft": "679",
+    "continent": "EU",
+    "iso_country": "SK",
+    "iso_region": "SK-BL",
+    "municipality": "Malacky",
+    "scheduled_service": "no",
+    "gps_code": "LZMC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237434",
+            "airport_ref": "4619",
+            "airport_ident": "LZMC",
+            "length_ft": "8158",
+            "width_ft": "185",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "48.3913",
+            "le_longitude_deg": "17.1133",
+            "le_elevation_ft": "",
+            "le_heading_degT": "18",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "48.4127",
+            "he_longitude_deg": "17.1235",
+            "he_elevation_ft": "",
+            "he_heading_degT": "198",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55184",
+            "airport_ref": "4619",
+            "airport_ident": "LZMC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "55185",
+            "airport_ref": "4619",
+            "airport_ident": "LZMC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.25"
+        }
+    ],
+    "country": {
+        "id": "302717",
+        "code": "SK",
+        "name": "Slovakia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovakia",
+        "keywords": "letisko Slovenska"
+    },
+    "region": {
+        "id": "305592",
+        "code": "SK-BL",
+        "local_code": "BL",
+        "name": "Bratislava",
+        "continent": "EU",
+        "iso_country": "SK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bratislava",
+        "keywords": "Bratislavský kraj"
+    },
+    "navaids": [
+        {
+            "id": "93212",
+            "filename": "Malacky_NDB_SK",
+            "ident": "RP",
+            "name": "Malacky",
+            "type": "NDB",
+            "frequency_khz": "477",
+            "latitude_deg": "48.47439956665039",
+            "longitude_deg": "17.15250015258789",
+            "elevation_ft": "",
+            "iso_country": "SK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.006",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "LZMC"
+        }
+    ]
+}

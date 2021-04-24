@@ -1,0 +1,96 @@
+{
+    "id": "28120",
+    "ident": "EHAL",
+    "type": "small_airport",
+    "name": "Ameland Airfield",
+    "latitude_deg": "53.453612",
+    "longitude_deg": "5.678396",
+    "elevation_ft": "11",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-FR",
+    "municipality": "Ameland",
+    "scheduled_service": "no",
+    "gps_code": "EHAL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.ehal.nl/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ameland_Airport",
+    "keywords": "Aachen",
+    "runways": [
+        {
+            "id": "260145",
+            "airport_ref": "28120",
+            "airport_ident": "EHAL",
+            "length_ft": "2625",
+            "width_ft": "82",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75286",
+            "airport_ref": "28120",
+            "airport_ident": "EHAL",
+            "type": "APP",
+            "description": "RAPCON North",
+            "frequency_mhz": "132.03"
+        },
+        {
+            "id": "75287",
+            "airport_ref": "28120",
+            "airport_ident": "EHAL",
+            "type": "FIR",
+            "description": "Dutch MIL",
+            "frequency_mhz": "132.355"
+        },
+        {
+            "id": "75284",
+            "airport_ref": "28120",
+            "airport_ident": "EHAL",
+            "type": "INFO",
+            "description": "Ameland Radio",
+            "frequency_mhz": "118.355"
+        },
+        {
+            "id": "75285",
+            "airport_ref": "28120",
+            "airport_ident": "EHAL",
+            "type": "TWR",
+            "description": "Leeuwarden tower",
+            "frequency_mhz": "120.705"
+        }
+    ],
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland,Luchthavens van Nederland"
+    },
+    "region": {
+        "id": "304934",
+        "code": "NL-FR",
+        "local_code": "FR",
+        "name": "Friesland",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Friesland",
+        "keywords": ""
+    }
+}

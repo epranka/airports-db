@@ -1,0 +1,110 @@
+{
+    "id": "18497",
+    "ident": "KOBI",
+    "type": "small_airport",
+    "name": "Woodbine Municipal Airport",
+    "latitude_deg": "39.219200134277344",
+    "longitude_deg": "-74.7947998046875",
+    "elevation_ft": "42",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Woodbine",
+    "scheduled_service": "no",
+    "gps_code": "KOBI",
+    "iata_code": "",
+    "local_code": "OBI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Formerly 1N4",
+    "runways": [
+        {
+            "id": "239955",
+            "airport_ref": "18497",
+            "airport_ident": "KOBI",
+            "length_ft": "3304",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "39.214",
+            "le_longitude_deg": "-74.7972",
+            "le_elevation_ft": "25",
+            "le_heading_degT": "360",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "39.223",
+            "he_longitude_deg": "-74.7972",
+            "he_elevation_ft": "42",
+            "he_heading_degT": "180",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "250384",
+            "airport_ref": "18497",
+            "airport_ident": "KOBI",
+            "length_ft": "3073",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "39.2219",
+            "le_longitude_deg": "-74.7972",
+            "le_elevation_ft": "40",
+            "le_heading_degT": "120",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "39.2176",
+            "he_longitude_deg": "-74.7878",
+            "he_elevation_ft": "36",
+            "he_heading_degT": "300",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59236",
+            "airport_ref": "18497",
+            "airport_ident": "KOBI",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "59237",
+            "airport_ref": "18497",
+            "airport_ident": "KOBI",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "115.2"
+        },
+        {
+            "id": "59238",
+            "airport_ref": "18497",
+            "airport_ident": "KOBI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    }
+}

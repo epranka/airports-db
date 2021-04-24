@@ -1,0 +1,174 @@
+{
+    "id": "3600",
+    "ident": "KHYA",
+    "type": "medium_airport",
+    "name": "Barnstable Municipal Boardman Polando Field",
+    "latitude_deg": "41.66930008",
+    "longitude_deg": "-70.28040314",
+    "elevation_ft": "54",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "Hyannis",
+    "scheduled_service": "yes",
+    "gps_code": "KHYA",
+    "iata_code": "HYA",
+    "local_code": "HYA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Barnstable_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246020",
+            "airport_ref": "3600",
+            "airport_ident": "KHYA",
+            "length_ft": "5425",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "41.6646",
+            "le_longitude_deg": "-70.2828",
+            "le_elevation_ft": "45",
+            "le_heading_degT": "49.7",
+            "le_displaced_threshold_ft": "406",
+            "he_ident": "24",
+            "he_latitude_deg": "41.6742",
+            "he_longitude_deg": "-70.2676",
+            "he_elevation_ft": "39",
+            "he_heading_degT": "229.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "246021",
+            "airport_ref": "3600",
+            "airport_ident": "KHYA",
+            "length_ft": "5252",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "41.6748",
+            "le_longitude_deg": "-70.2919",
+            "le_elevation_ft": "54",
+            "le_heading_degT": "139.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "41.6638",
+            "he_longitude_deg": "-70.2795",
+            "he_elevation_ft": "44",
+            "he_heading_degT": "319.9",
+            "he_displaced_threshold_ft": "150"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71587",
+            "airport_ref": "3600",
+            "airport_ident": "KHYA",
+            "type": "A/D",
+            "description": "CAPE APP/DEP",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "71588",
+            "airport_ref": "3600",
+            "airport_ident": "KHYA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "71589",
+            "airport_ref": "3600",
+            "airport_ident": "KHYA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.15"
+        },
+        {
+            "id": "71590",
+            "airport_ref": "3600",
+            "airport_ident": "KHYA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "71591",
+            "airport_ref": "3600",
+            "airport_ident": "KHYA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71592",
+            "airport_ref": "3600",
+            "airport_ident": "KHYA",
+            "type": "RDO",
+            "description": "BRIDGEPORT RDO",
+            "frequency_mhz": "126.425"
+        },
+        {
+            "id": "71593",
+            "airport_ref": "3600",
+            "airport_ident": "KHYA",
+            "type": "TWR",
+            "description": "HYANNIS TWR",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "71594",
+            "airport_ref": "3600",
+            "airport_ident": "KHYA",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306095",
+        "code": "US-MA",
+        "local_code": "MA",
+        "name": "Massachusetts",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89082",
+            "filename": "Bogey_NDB_US",
+            "ident": "HY",
+            "name": "Bogey",
+            "type": "NDB",
+            "frequency_khz": "342",
+            "latitude_deg": "41.71590042114258",
+            "longitude_deg": "-70.20279693603516",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.337",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KHYA"
+        }
+    ]
+}

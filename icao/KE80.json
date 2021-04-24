@@ -1,0 +1,102 @@
+{
+    "id": "19709",
+    "ident": "KE80",
+    "type": "small_airport",
+    "name": "Belen Regional Airport",
+    "latitude_deg": "34.645198",
+    "longitude_deg": "-106.834",
+    "elevation_ft": "5194",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Belen",
+    "scheduled_service": "no",
+    "gps_code": "KBRG",
+    "iata_code": "",
+    "local_code": "BRG",
+    "home_link": "http://www.belen-nm.gov/departments/alex_mun_airport/alexMunicipalAirport.htm",
+    "wikipedia_link": "",
+    "keywords": "E80, Alexander Municipal Airport",
+    "runways": [
+        {
+            "id": "241796",
+            "airport_ref": "19709",
+            "airport_ident": "KE80",
+            "length_ft": "6601",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "34.6388",
+            "le_longitude_deg": "-106.841",
+            "le_elevation_ft": "5194",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "34.6516",
+            "he_longitude_deg": "-106.826",
+            "he_elevation_ft": "5174",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "329322",
+            "airport_ref": "19709",
+            "airport_ident": "KE80",
+            "length_ft": "5280",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "34.6518",
+            "le_longitude_deg": "-106.846",
+            "le_elevation_ft": "5200",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "34.9416",
+            "he_longitude_deg": "-106.833",
+            "he_elevation_ft": "5176",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62581",
+            "airport_ref": "19709",
+            "airport_ident": "KE80",
+            "type": "A/D",
+            "description": "ALBUQUERQUE APP/DEP",
+            "frequency_mhz": "123.9"
+        },
+        {
+            "id": "62582",
+            "airport_ref": "19709",
+            "airport_ident": "KE80",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    }
+}

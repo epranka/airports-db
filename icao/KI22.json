@@ -1,0 +1,102 @@
+{
+    "id": "20125",
+    "ident": "KI22",
+    "type": "small_airport",
+    "name": "Randolph County Airport",
+    "latitude_deg": "40.16889953613281",
+    "longitude_deg": "-84.92569732666016",
+    "elevation_ft": "1119",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Winchester",
+    "scheduled_service": "no",
+    "gps_code": "KI22",
+    "iata_code": "",
+    "local_code": "I22",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245361",
+            "airport_ref": "20125",
+            "airport_ident": "KI22",
+            "length_ft": "3977",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "40.1672",
+            "le_longitude_deg": "-84.9337",
+            "le_elevation_ft": "1115",
+            "le_heading_degT": "72.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "40.1705",
+            "he_longitude_deg": "-84.9202",
+            "he_elevation_ft": "1117",
+            "he_heading_degT": "252.7",
+            "he_displaced_threshold_ft": "194"
+        },
+        {
+            "id": "245362",
+            "airport_ref": "20125",
+            "airport_ident": "KI22",
+            "length_ft": "1960",
+            "width_ft": "105",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "40.1692",
+            "le_longitude_deg": "-84.9267",
+            "le_elevation_ft": "1119",
+            "le_heading_degT": "91.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "40.1691",
+            "he_longitude_deg": "-84.9196",
+            "he_elevation_ft": "1118",
+            "he_heading_degT": "271.9",
+            "he_displaced_threshold_ft": "302"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70150",
+            "airport_ref": "20125",
+            "airport_ident": "KI22",
+            "type": "A/D",
+            "description": "DAYTON APP/DEP",
+            "frequency_mhz": "134.45"
+        },
+        {
+            "id": "70151",
+            "airport_ref": "20125",
+            "airport_ident": "KI22",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

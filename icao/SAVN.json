@@ -1,0 +1,96 @@
+{
+    "id": "5826",
+    "ident": "SAVN",
+    "type": "small_airport",
+    "name": "Antoine de Saint Exupéry Airport",
+    "latitude_deg": "-40.7512",
+    "longitude_deg": "-65.0343",
+    "elevation_ft": "85",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-R",
+    "municipality": "San Antonio Oeste",
+    "scheduled_service": "yes",
+    "gps_code": "SAVN",
+    "iata_code": "OES",
+    "local_code": "SAN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Antoine_de_Saint_Exupéry_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233010",
+            "airport_ref": "5826",
+            "airport_ident": "SAVN",
+            "length_ft": "5905",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-40.7465",
+            "le_longitude_deg": "-65.0431",
+            "le_elevation_ft": "",
+            "le_heading_degT": "125.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-40.7559",
+            "he_longitude_deg": "-65.0257",
+            "he_elevation_ft": "",
+            "he_heading_degT": "305.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48431",
+            "airport_ref": "5826",
+            "airport_ident": "SAVN",
+            "type": "A/G",
+            "description": "SAN ANTONIO OEST RDO",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302946",
+        "code": "AR-R",
+        "local_code": "R",
+        "name": "Río Negro Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/R%C3%ADo_Negro_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93380",
+            "filename": "San_Antonio_Oeste_NDB_AR",
+            "ident": "SAN",
+            "name": "San Antonio Oeste",
+            "type": "NDB",
+            "frequency_khz": "220",
+            "latitude_deg": "-40.76470184326172",
+            "longitude_deg": "-65.0342025756836",
+            "elevation_ft": "85",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.299",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SAVN"
+        }
+    ]
+}

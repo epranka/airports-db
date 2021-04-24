@@ -1,0 +1,72 @@
+{
+    "id": "19432",
+    "ident": "KC02",
+    "type": "small_airport",
+    "name": "Grand Geneva Resort Airport",
+    "latitude_deg": "42.614899",
+    "longitude_deg": "-88.389603",
+    "elevation_ft": "835",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Lake Geneva",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "XES",
+    "local_code": "C02",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239885",
+            "airport_ref": "19432",
+            "airport_ident": "KC02",
+            "length_ft": "3830",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "42.6118",
+            "le_longitude_deg": "-88.3953",
+            "le_elevation_ft": "835",
+            "le_heading_degT": "53.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "42.6181",
+            "he_longitude_deg": "-88.3839",
+            "he_elevation_ft": "835",
+            "he_heading_degT": "233.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59135",
+            "airport_ref": "19432",
+            "airport_ident": "KC02",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

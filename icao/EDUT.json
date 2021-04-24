@@ -1,0 +1,80 @@
+{
+    "id": "2282",
+    "ident": "EDUT",
+    "type": "closed",
+    "name": "Flugplatz Templin/Groß Dölln",
+    "latitude_deg": "53.028258",
+    "longitude_deg": "13.54022",
+    "elevation_ft": "174",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BR",
+    "municipality": "Templin",
+    "scheduled_service": "no",
+    "gps_code": "EDUT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "http://de.wikipedia.org/wiki/EDUT",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236149",
+            "airport_ref": "2282",
+            "airport_ident": "EDUT",
+            "length_ft": "3281",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "53.0288",
+            "le_longitude_deg": "13.5088",
+            "le_elevation_ft": "202",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "53.0288",
+            "he_longitude_deg": "13.5237",
+            "he_elevation_ft": "202",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52802",
+            "airport_ref": "2282",
+            "airport_ident": "EDUT",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "52803",
+            "airport_ref": "2282",
+            "airport_ident": "EDUT",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "123.475"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303547",
+        "code": "DE-BR",
+        "local_code": "BR",
+        "name": "Brandenburg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
+        "keywords": ""
+    }
+}

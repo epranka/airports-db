@@ -1,0 +1,80 @@
+{
+    "id": "19365",
+    "ident": "KBFA",
+    "type": "small_airport",
+    "name": "Boyne Mountain Airport",
+    "latitude_deg": "45.16579818725586",
+    "longitude_deg": "-84.92410278320312",
+    "elevation_ft": "719",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Boyne Falls",
+    "scheduled_service": "no",
+    "gps_code": "KBFA",
+    "iata_code": "",
+    "local_code": "BFA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245264",
+            "airport_ref": "19365",
+            "airport_ident": "KBFA",
+            "length_ft": "5200",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "45.1728",
+            "le_longitude_deg": "-84.9259",
+            "le_elevation_ft": "719",
+            "le_heading_degT": "169.3",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "35",
+            "he_latitude_deg": "45.1588",
+            "he_longitude_deg": "-84.9222",
+            "he_elevation_ft": "719",
+            "he_heading_degT": "349.3",
+            "he_displaced_threshold_ft": "500"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69934",
+            "airport_ref": "19365",
+            "airport_ident": "KBFA",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "134.6"
+        },
+        {
+            "id": "69935",
+            "airport_ref": "19365",
+            "airport_ident": "KBFA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

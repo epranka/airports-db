@@ -1,0 +1,104 @@
+{
+    "id": "5104",
+    "ident": "OEPC",
+    "type": "small_airport",
+    "name": "Pump Station 3 Airport",
+    "latitude_deg": "25.1745",
+    "longitude_deg": "47.4884",
+    "elevation_ft": "1740",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-04",
+    "municipality": "Wasea",
+    "scheduled_service": "no",
+    "gps_code": "OEPC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238635",
+            "airport_ref": "5104",
+            "airport_ident": "OEPC",
+            "length_ft": "8005",
+            "width_ft": "115",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "25.1832",
+            "le_longitude_deg": "47.481",
+            "le_elevation_ft": "1734",
+            "le_heading_degT": "142",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "25.1659",
+            "he_longitude_deg": "47.4958",
+            "he_elevation_ft": "1741",
+            "he_heading_degT": "322",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56893",
+            "airport_ref": "5104",
+            "airport_ident": "OEPC",
+            "type": "A/G",
+            "description": "DISPATCH",
+            "frequency_mhz": "138.25"
+        },
+        {
+            "id": "56894",
+            "airport_ref": "5104",
+            "airport_ident": "OEPC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305363",
+        "code": "SA-04",
+        "local_code": "04",
+        "name": "Ash Sharqiyah Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ash_Sharqiyah_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92716",
+            "filename": "Pump_Station_3_NDB_SA",
+            "ident": "PS3",
+            "name": "Pump Station 3",
+            "type": "NDB",
+            "frequency_khz": "315",
+            "latitude_deg": "25.16830062866211",
+            "longitude_deg": "47.496498107910156",
+            "elevation_ft": "1740",
+            "iso_country": "SA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.235",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OEPC"
+        }
+    ]
+}

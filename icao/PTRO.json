@@ -1,0 +1,96 @@
+{
+    "id": "5501",
+    "ident": "PTRO",
+    "type": "medium_airport",
+    "name": "Babelthuap Airport",
+    "latitude_deg": "7.36731",
+    "longitude_deg": "134.544236",
+    "elevation_ft": "176",
+    "continent": "OC",
+    "iso_country": "PW",
+    "iso_region": "PW-004",
+    "municipality": "Babelthuap Island",
+    "scheduled_service": "yes",
+    "gps_code": "PTRO",
+    "iata_code": "ROR",
+    "local_code": "ROR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Palau_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238374",
+            "airport_ref": "5501",
+            "airport_ident": "PTRO",
+            "length_ft": "7200",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "7.36789",
+            "le_longitude_deg": "134.534",
+            "le_elevation_ft": "176",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "7.36741",
+            "he_longitude_deg": "134.554",
+            "he_elevation_ft": "171",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56367",
+            "airport_ref": "5501",
+            "airport_ident": "PTRO",
+            "type": "FSS",
+            "description": "KOROR RDO",
+            "frequency_mhz": "123.6"
+        }
+    ],
+    "country": {
+        "id": "302780",
+        "code": "PW",
+        "name": "Palau",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Palau",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306429",
+        "code": "PW-004",
+        "local_code": "004",
+        "name": "Airai",
+        "continent": "OC",
+        "iso_country": "PW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Airai",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93201",
+            "filename": "Koror_NDB-DME_PW",
+            "ident": "ROR",
+            "name": "Koror",
+            "type": "NDB-DME",
+            "frequency_khz": "371",
+            "latitude_deg": "7.368770122528076",
+            "longitude_deg": "134.5500030517578",
+            "elevation_ft": "182",
+            "iso_country": "PW",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "7.36876",
+            "dme_longitude_deg": "134.55",
+            "dme_elevation_ft": "191",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.029",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PTRO"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "20352",
+    "ident": "KLLJ",
+    "type": "small_airport",
+    "name": "Challis Airport",
+    "latitude_deg": "44.522999",
+    "longitude_deg": "-114.218002",
+    "elevation_ft": "5072",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Challis",
+    "scheduled_service": "no",
+    "gps_code": "KLLJ",
+    "iata_code": "CHL",
+    "local_code": "LLJ",
+    "home_link": "http://itd.idaho.gov/aero/Facility%20Directory/launchAirportData.asp?value=LLJ",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Challis_Airport",
+    "keywords": "U15",
+    "runways": [
+        {
+            "id": "244417",
+            "airport_ref": "20352",
+            "airport_ident": "KLLJ",
+            "length_ft": "4600",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "44.5292",
+            "le_longitude_deg": "-114.217",
+            "le_elevation_ft": "4999",
+            "le_heading_degT": "182",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "44.5167",
+            "he_longitude_deg": "-114.218",
+            "he_elevation_ft": "5072",
+            "he_heading_degT": "2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68054",
+            "airport_ref": "20352",
+            "airport_ident": "KLLJ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "68055",
+            "airport_ref": "20352",
+            "airport_ident": "KLLJ",
+            "type": "CNTR",
+            "description": "SALT LAKE CITY CNTR",
+            "frequency_mhz": "128.05"
+        },
+        {
+            "id": "68056",
+            "airport_ref": "20352",
+            "airport_ident": "KLLJ",
+            "type": "RDO",
+            "description": "BOISE RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "68057",
+            "airport_ref": "20352",
+            "airport_ident": "KLLJ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": ""
+    }
+}

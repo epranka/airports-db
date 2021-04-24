@@ -1,0 +1,80 @@
+{
+    "id": "27185",
+    "ident": "YYND",
+    "type": "small_airport",
+    "name": "Yuendumu Airport",
+    "latitude_deg": "-22.254199981689453",
+    "longitude_deg": "131.78199768066406",
+    "elevation_ft": "2205",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YYND",
+    "iata_code": "YUE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233422",
+            "airport_ref": "27185",
+            "airport_ident": "YYND",
+            "length_ft": "4724",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-22.2522",
+            "le_longitude_deg": "131.775",
+            "le_elevation_ft": "",
+            "le_heading_degT": "127.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-22.26",
+            "he_longitude_deg": "131.786",
+            "he_elevation_ft": "",
+            "he_heading_degT": "307.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49018",
+            "airport_ref": "27185",
+            "airport_ident": "YYND",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49019",
+            "airport_ref": "27185",
+            "airport_ident": "YYND",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "119.8"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

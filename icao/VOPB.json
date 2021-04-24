@@ -1,0 +1,120 @@
+{
+    "id": "26620",
+    "ident": "VOPB",
+    "type": "medium_airport",
+    "name": "Vir Savarkar International Airport",
+    "latitude_deg": "11.641200065612793",
+    "longitude_deg": "92.72969818115234",
+    "elevation_ft": "14",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-AN",
+    "municipality": "Port Blair",
+    "scheduled_service": "yes",
+    "gps_code": "VOPB",
+    "iata_code": "IXZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vir_Savarkar_Airport",
+    "keywords": "Port Blair Airport, Port Blair Air Force Station",
+    "runways": [
+        {
+            "id": "236784",
+            "airport_ref": "26620",
+            "airport_ident": "VOPB",
+            "length_ft": "10795",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "11.6292",
+            "le_longitude_deg": "92.7208",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "36",
+            "le_displaced_threshold_ft": "1960",
+            "he_ident": "22",
+            "he_latitude_deg": "11.6531",
+            "he_longitude_deg": "92.7387",
+            "he_elevation_ft": "58",
+            "he_heading_degT": "216",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53966",
+            "airport_ref": "26620",
+            "airport_ident": "VOPB",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "658.3"
+        },
+        {
+            "id": "53967",
+            "airport_ref": "26620",
+            "airport_ident": "VOPB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "53968",
+            "airport_ref": "26620",
+            "airport_ident": "VOPB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.4"
+        },
+        {
+            "id": "53969",
+            "airport_ref": "26620",
+            "airport_ident": "VOPB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304164",
+        "code": "IN-AN",
+        "local_code": "AN",
+        "name": "Andaman and Nicobar Islands",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92635",
+            "filename": "Port_Blair_VOR-DME_IN",
+            "ident": "PPB",
+            "name": "Port Blair",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "11.649700164794922",
+            "longitude_deg": "92.74720001220703",
+            "elevation_ft": "16",
+            "iso_country": "IN",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.011",
+            "magnetic_variation_deg": "-1.057",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOPB"
+        }
+    ]
+}

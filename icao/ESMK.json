@@ -1,0 +1,96 @@
+{
+    "id": "2664",
+    "ident": "ESMK",
+    "type": "medium_airport",
+    "name": "Kristianstad Airport",
+    "latitude_deg": "55.92169952392578",
+    "longitude_deg": "14.08549976348877",
+    "elevation_ft": "76",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-M",
+    "municipality": "Kristianstad",
+    "scheduled_service": "yes",
+    "gps_code": "ESMK",
+    "iata_code": "KID",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kristianstad_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239006",
+            "airport_ref": "2664",
+            "airport_ident": "ESMK",
+            "length_ft": "7267",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "55.9118",
+            "le_longitude_deg": "14.0833",
+            "le_elevation_ft": "76",
+            "le_heading_degT": "7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "55.9316",
+            "he_longitude_deg": "14.0877",
+            "he_elevation_ft": "73",
+            "he_heading_degT": "187",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57428",
+            "airport_ref": "2664",
+            "airport_ident": "ESMK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "129.35"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305422",
+        "code": "SE-M",
+        "local_code": "M",
+        "name": "Skåne län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Skåne_län",
+        "keywords": "Skåne County, Scania"
+    },
+    "navaids": [
+        {
+            "id": "91912",
+            "filename": "Kristianstad_NDB_SE",
+            "ident": "OEM",
+            "name": "Kristianstad",
+            "type": "NDB",
+            "frequency_khz": "363",
+            "latitude_deg": "55.98970031738281",
+            "longitude_deg": "14.100799560546875",
+            "elevation_ft": "",
+            "iso_country": "SE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.306",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ESMK"
+        }
+    ]
+}

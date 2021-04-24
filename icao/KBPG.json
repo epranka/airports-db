@@ -1,0 +1,118 @@
+{
+    "id": "19400",
+    "ident": "KBPG",
+    "type": "small_airport",
+    "name": "Big Spring Mc Mahon-Wrinkle Airport",
+    "latitude_deg": "32.212601",
+    "longitude_deg": "-101.522003",
+    "elevation_ft": "2573",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Big Spring",
+    "scheduled_service": "no",
+    "gps_code": "KBPG",
+    "iata_code": "HCA",
+    "local_code": "BPG",
+    "home_link": "http://www.mybigspring.com/pages/airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Big_Spring_McMahon-Wrinkle_Airport",
+    "keywords": "21XS, T49, Webb Air Force Base, Webb AFB",
+    "runways": [
+        {
+            "id": "243653",
+            "airport_ref": "19400",
+            "airport_ident": "KBPG",
+            "length_ft": "4601",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "32.2061",
+            "le_longitude_deg": "-101.529",
+            "le_elevation_ft": "2547",
+            "le_heading_degT": "66.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "32.2111",
+            "he_longitude_deg": "-101.515",
+            "he_elevation_ft": "2573",
+            "he_heading_degT": "246.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243654",
+            "airport_ref": "19400",
+            "airport_ident": "KBPG",
+            "length_ft": "8802",
+            "width_ft": "100",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "32.2268",
+            "le_longitude_deg": "-101.521",
+            "le_elevation_ft": "2550",
+            "le_heading_degT": "181.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "32.2026",
+            "he_longitude_deg": "-101.522",
+            "he_elevation_ft": "2562",
+            "he_heading_degT": "1.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66472",
+            "airport_ref": "19400",
+            "airport_ident": "KBPG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.025"
+        },
+        {
+            "id": "66473",
+            "airport_ref": "19400",
+            "airport_ident": "KBPG",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "133.7"
+        },
+        {
+            "id": "66474",
+            "airport_ref": "19400",
+            "airport_ident": "KBPG",
+            "type": "FSS",
+            "description": "SAN ANGELO RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "66475",
+            "airport_ref": "19400",
+            "airport_ident": "KBPG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

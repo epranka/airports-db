@@ -1,0 +1,80 @@
+{
+    "id": "2548",
+    "ident": "EKMB",
+    "type": "medium_airport",
+    "name": "Lolland Falster Maribo Airport",
+    "latitude_deg": "54.699299",
+    "longitude_deg": "11.4401",
+    "elevation_ft": "16",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-85",
+    "municipality": "Lolland Falster / Maribo",
+    "scheduled_service": "no",
+    "gps_code": "EKMB",
+    "iata_code": "MRW",
+    "local_code": "",
+    "home_link": "http://www.lollandfalsterairport.dk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lolland_Falster_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235470",
+            "airport_ref": "2548",
+            "airport_ident": "EKMB",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "54.7001",
+            "le_longitude_deg": "11.4292",
+            "le_elevation_ft": "16",
+            "le_heading_degT": "97",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "54.6988",
+            "he_longitude_deg": "11.4477",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "277",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51738",
+            "airport_ref": "2548",
+            "airport_ident": "EKMB",
+            "type": "AFIS",
+            "description": "MARIBO AFIS",
+            "frequency_mhz": "118.975"
+        },
+        {
+            "id": "51739",
+            "airport_ref": "2548",
+            "airport_ident": "EKMB",
+            "type": "INFO",
+            "description": "COPENHAGEN INFO",
+            "frequency_mhz": "127.075"
+        }
+    ],
+    "country": {
+        "id": "302682",
+        "code": "DK",
+        "name": "Denmark",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
+        "keywords": "Lufthavnene i Danmark"
+    },
+    "region": {
+        "id": "306325",
+        "code": "DK-85",
+        "local_code": "85",
+        "name": "Zealand",
+        "continent": "EU",
+        "iso_country": "DK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zealand",
+        "keywords": "Sjælland"
+    }
+}

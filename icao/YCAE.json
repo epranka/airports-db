@@ -1,0 +1,88 @@
+{
+    "id": "38272",
+    "ident": "YCAE",
+    "type": "small_airport",
+    "name": "Campbell Town Airport",
+    "latitude_deg": "-41.96722412109375",
+    "longitude_deg": "147.53054809570312",
+    "elevation_ft": "710",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YCAE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258385",
+            "airport_ref": "38272",
+            "airport_ident": "YCAE",
+            "length_ft": "3280",
+            "width_ft": "",
+            "surface": "H",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72424",
+            "airport_ref": "38272",
+            "airport_ident": "YCAE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "72425",
+            "airport_ref": "38272",
+            "airport_ident": "YCAE",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "72426",
+            "airport_ref": "38272",
+            "airport_ident": "YCAE",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.55"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302973",
+        "code": "AU-TAS",
+        "local_code": "TAS",
+        "name": "Tasmania",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
+        "keywords": ""
+    }
+}

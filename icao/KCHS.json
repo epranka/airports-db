@@ -1,0 +1,228 @@
+{
+    "id": "3450",
+    "ident": "KCHS",
+    "type": "large_airport",
+    "name": "Charleston International Airport",
+    "latitude_deg": "32.898602",
+    "longitude_deg": "-80.040497",
+    "elevation_ft": "46",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Charleston",
+    "scheduled_service": "yes",
+    "gps_code": "KCHS",
+    "iata_code": "CHS",
+    "local_code": "CHS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Charleston_International_Airport",
+    "keywords": "Charleston Air Force Base",
+    "runways": [
+        {
+            "id": "245051",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "length_ft": "7004",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "32.8848",
+            "le_longitude_deg": "-80.0456",
+            "le_elevation_ft": "21",
+            "le_heading_degT": "24.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "32.9023",
+            "he_longitude_deg": "-80.0362",
+            "he_elevation_ft": "41",
+            "he_heading_degT": "204.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245052",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "length_ft": "9001",
+            "width_ft": "200",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "32.913",
+            "le_longitude_deg": "-80.0481",
+            "le_elevation_ft": "43",
+            "le_heading_degT": "147.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "32.8922",
+            "he_longitude_deg": "-80.0323",
+            "he_elevation_ft": "39",
+            "he_heading_degT": "327.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69487",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "30.692"
+        },
+        {
+            "id": "69486",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "69488",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.75"
+        },
+        {
+            "id": "69489",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "69490",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "69491",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "69492",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "type": "PMSV",
+            "description": "PMSV  METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "69493",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "type": "POST",
+            "description": "CONSOLIDATED COMD",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "69494",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "69495",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "type": "RDO",
+            "description": "ANDERSON RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "69496",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "69497",
+            "airport_ref": "3450",
+            "airport_ident": "KCHS",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306116",
+        "code": "US-SC",
+        "local_code": "SC",
+        "name": "South Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86749",
+            "filename": "Ashly_NDB_US",
+            "ident": "CH",
+            "name": "Ashly",
+            "type": "NDB",
+            "frequency_khz": "329",
+            "latitude_deg": "32.97629928588867",
+            "longitude_deg": "-80.09750366210938",
+            "elevation_ft": "36",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.034",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KCHS"
+        },
+        {
+            "id": "86777",
+            "filename": "Charleston_VORTAC_US",
+            "ident": "CHS",
+            "name": "Charleston",
+            "type": "VORTAC",
+            "frequency_khz": "113500",
+            "latitude_deg": "32.8942985534668",
+            "longitude_deg": "-80.03780364990234",
+            "elevation_ft": "39",
+            "iso_country": "US",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.001",
+            "magnetic_variation_deg": "-7.049",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KCHS"
+        }
+    ]
+}

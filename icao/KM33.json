@@ -1,0 +1,88 @@
+{
+    "id": "20427",
+    "ident": "KM33",
+    "type": "small_airport",
+    "name": "Music City Executive Airport",
+    "latitude_deg": "36.375076",
+    "longitude_deg": "-86.408414",
+    "elevation_ft": "583",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Gallatin",
+    "scheduled_service": "no",
+    "gps_code": "KXNX",
+    "iata_code": "",
+    "local_code": "XNX",
+    "home_link": "https://www.musiccityexecutiveairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sumner_County_Regional_Airport",
+    "keywords": "M33, Sumner County Regional",
+    "runways": [
+        {
+            "id": "243289",
+            "airport_ref": "20427",
+            "airport_ident": "KM33",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "36.3836",
+            "le_longitude_deg": "-86.4101",
+            "le_elevation_ft": "584",
+            "le_heading_degT": "171.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "36.3701",
+            "he_longitude_deg": "-86.4074",
+            "he_elevation_ft": "542",
+            "he_heading_degT": "351.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65656",
+            "airport_ref": "20427",
+            "airport_ident": "KM33",
+            "type": "A/D",
+            "description": "NASHVILLE APP/DEP",
+            "frequency_mhz": "128.45"
+        },
+        {
+            "id": "65657",
+            "airport_ref": "20427",
+            "airport_ident": "KM33",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "132.725"
+        },
+        {
+            "id": "65658",
+            "airport_ref": "20427",
+            "airport_ident": "KM33",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "1954",
+    "ident": "CYWY",
+    "type": "medium_airport",
+    "name": "Wrigley Airport",
+    "latitude_deg": "63.20940017700195",
+    "longitude_deg": "-123.43699645996094",
+    "elevation_ft": "489",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NT",
+    "municipality": "Wrigley",
+    "scheduled_service": "no",
+    "gps_code": "CYWY",
+    "iata_code": "YWY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wrigley_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235095",
+            "airport_ref": "1954",
+            "airport_ident": "CYWY",
+            "length_ft": "3500",
+            "width_ft": "100",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "63.2126",
+            "le_longitude_deg": "-123.445",
+            "le_elevation_ft": "474",
+            "le_heading_degT": "131.4",
+            "le_displaced_threshold_ft": "495",
+            "he_ident": "29",
+            "he_latitude_deg": "63.2063",
+            "he_longitude_deg": "-123.429",
+            "he_elevation_ft": "489",
+            "he_heading_degT": "311.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51056",
+            "airport_ref": "1954",
+            "airport_ident": "CYWY",
+            "type": "ATF",
+            "description": "MANDATORY FREQ",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51057",
+            "airport_ref": "1954",
+            "airport_ident": "CYWY",
+            "type": "RDO",
+            "description": "ARPT RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303300",
+        "code": "CA-NT",
+        "local_code": "NT",
+        "name": "Northwest Territories",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
+        "keywords": ""
+    }
+}

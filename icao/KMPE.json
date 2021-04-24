@@ -1,0 +1,88 @@
+{
+    "id": "20546",
+    "ident": "KMPE",
+    "type": "small_airport",
+    "name": "Philadelphia Municipal Airport",
+    "latitude_deg": "32.7994",
+    "longitude_deg": "-89.125999",
+    "elevation_ft": "458",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Philadelphia",
+    "scheduled_service": "no",
+    "gps_code": "KMPE",
+    "iata_code": "",
+    "local_code": "MPE",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Philadelphia_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240354",
+            "airport_ref": "20546",
+            "airport_ident": "KMPE",
+            "length_ft": "5000",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "32.8063",
+            "le_longitude_deg": "-89.1252",
+            "le_elevation_ft": "440",
+            "le_heading_degT": "185.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "32.7926",
+            "he_longitude_deg": "-89.1267",
+            "he_elevation_ft": "458",
+            "he_heading_degT": "5.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59818",
+            "airport_ref": "20546",
+            "airport_ident": "KMPE",
+            "type": "ASOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.725"
+        },
+        {
+            "id": "59819",
+            "airport_ref": "20546",
+            "airport_ident": "KMPE",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "132.75"
+        },
+        {
+            "id": "59820",
+            "airport_ref": "20546",
+            "airport_ident": "KMPE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "21089",
+    "ident": "KSMS",
+    "type": "small_airport",
+    "name": "Sumter Airport",
+    "latitude_deg": "33.994998931885",
+    "longitude_deg": "-80.361297607422",
+    "elevation_ft": "182",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Sumter",
+    "scheduled_service": "no",
+    "gps_code": "KSMS",
+    "iata_code": "SUM",
+    "local_code": "SMS",
+    "home_link": "http://www.sumtersc.gov/airport.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sumter_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241805",
+            "airport_ref": "21089",
+            "airport_ident": "KSMS",
+            "length_ft": "5501",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "33.9902",
+            "le_longitude_deg": "-80.3677",
+            "le_elevation_ft": "178",
+            "le_heading_degT": "43.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "34.0012",
+            "he_longitude_deg": "-80.3553",
+            "he_elevation_ft": "182",
+            "he_heading_degT": "223.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241806",
+            "airport_ref": "21089",
+            "airport_ident": "KSMS",
+            "length_ft": "3081",
+            "width_ft": "120",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "33.9968",
+            "le_longitude_deg": "-80.3647",
+            "le_elevation_ft": "182",
+            "le_heading_degT": "134",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "33.9909",
+            "he_longitude_deg": "-80.3574",
+            "he_elevation_ft": "182",
+            "he_heading_degT": "314",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62595",
+            "airport_ref": "21089",
+            "airport_ident": "KSMS",
+            "type": "A/D",
+            "description": "SHAW APP/DEP",
+            "frequency_mhz": "125.4"
+        },
+        {
+            "id": "62596",
+            "airport_ref": "21089",
+            "airport_ident": "KSMS",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "118.075"
+        },
+        {
+            "id": "62597",
+            "airport_ref": "21089",
+            "airport_ident": "KSMS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306116",
+        "code": "US-SC",
+        "local_code": "SC",
+        "name": "South Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
+        "keywords": ""
+    }
+}

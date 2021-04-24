@@ -1,0 +1,150 @@
+{
+    "id": "21340",
+    "ident": "KVUJ",
+    "type": "small_airport",
+    "name": "Stanly County Airport",
+    "latitude_deg": "35.416698455811",
+    "longitude_deg": "-80.150802612305",
+    "elevation_ft": "609",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Albemarle",
+    "scheduled_service": "no",
+    "gps_code": "KVUJ",
+    "iata_code": "",
+    "local_code": "VUJ",
+    "home_link": "http://www.stanlycountyairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Stanly_County_Airport",
+    "keywords": "6A6",
+    "runways": [
+        {
+            "id": "243795",
+            "airport_ref": "21340",
+            "airport_ident": "KVUJ",
+            "length_ft": "3500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04L",
+            "le_latitude_deg": "35.4149",
+            "le_longitude_deg": "-80.1544",
+            "le_elevation_ft": "593",
+            "le_heading_degT": "38.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22R",
+            "he_latitude_deg": "35.4225",
+            "he_longitude_deg": "-80.1473",
+            "he_elevation_ft": "582",
+            "he_heading_degT": "218.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243794",
+            "airport_ref": "21340",
+            "airport_ident": "KVUJ",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04R",
+            "le_latitude_deg": "35.4096",
+            "le_longitude_deg": "-80.1569",
+            "le_elevation_ft": "609",
+            "le_heading_degT": "40.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22L",
+            "he_latitude_deg": "35.421",
+            "he_longitude_deg": "-80.1448",
+            "he_elevation_ft": "609",
+            "he_heading_degT": "220.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66769",
+            "airport_ref": "21340",
+            "airport_ident": "KVUJ",
+            "type": "A/D",
+            "description": "CHARLOTTE APP/DEP",
+            "frequency_mhz": "128.32"
+        },
+        {
+            "id": "66770",
+            "airport_ref": "21340",
+            "airport_ident": "KVUJ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "128.175"
+        },
+        {
+            "id": "66771",
+            "airport_ref": "21340",
+            "airport_ident": "KVUJ",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "66772",
+            "airport_ref": "21340",
+            "airport_ident": "KVUJ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.275"
+        },
+        {
+            "id": "66773",
+            "airport_ref": "21340",
+            "airport_ident": "KVUJ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "66774",
+            "airport_ref": "21340",
+            "airport_ident": "KVUJ",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "37.612"
+        },
+        {
+            "id": "66775",
+            "airport_ref": "21340",
+            "airport_ident": "KVUJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.275"
+        },
+        {
+            "id": "66776",
+            "airport_ref": "21340",
+            "airport_ident": "KVUJ",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

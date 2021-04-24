@@ -1,0 +1,142 @@
+{
+    "id": "4238",
+    "ident": "LFST",
+    "type": "medium_airport",
+    "name": "Strasbourg Airport",
+    "latitude_deg": "48.538299560546875",
+    "longitude_deg": "7.628230094909668",
+    "elevation_ft": "505",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "Strasbourg",
+    "scheduled_service": "yes",
+    "gps_code": "LFST",
+    "iata_code": "SXB",
+    "local_code": "",
+    "home_link": "http://www.strasbourg.aeroport.fr/E/index.php",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Strasbourg_Airport",
+    "keywords": "BA 124",
+    "runways": [
+        {
+            "id": "235892",
+            "airport_ref": "4238",
+            "airport_ident": "LFST",
+            "length_ft": "7874",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "48.5312",
+            "le_longitude_deg": "7.61603",
+            "le_elevation_ft": "503",
+            "le_heading_degT": "48.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "48.5454",
+            "he_longitude_deg": "7.64044",
+            "he_elevation_ft": "491",
+            "he_heading_degT": "228.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52327",
+            "airport_ref": "4238",
+            "airport_ident": "LFST",
+            "type": "APP",
+            "description": "STRASBOURG APP",
+            "frequency_mhz": "119.45"
+        },
+        {
+            "id": "52328",
+            "airport_ref": "4238",
+            "airport_ident": "LFST",
+            "type": "ATIS",
+            "description": "STRASBOURG ATIS",
+            "frequency_mhz": "126.925"
+        },
+        {
+            "id": "52329",
+            "airport_ref": "4238",
+            "airport_ident": "LFST",
+            "type": "GND",
+            "description": "STRASBOURG GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "52330",
+            "airport_ref": "4238",
+            "airport_ident": "LFST",
+            "type": "TWR",
+            "description": "STRASBOURG TWR",
+            "frequency_mhz": "126.875"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306353",
+        "code": "FR-GES",
+        "local_code": "GES",
+        "name": "Grand Est",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93398",
+            "filename": "Saverne_VOR-DME_FR",
+            "ident": "SAV",
+            "name": "Saverne",
+            "type": "VOR-DME",
+            "frequency_khz": "110450",
+            "latitude_deg": "48.796199798583984",
+            "longitude_deg": "7.447979927062988",
+            "elevation_ft": "831",
+            "iso_country": "FR",
+            "dme_frequency_khz": "110450",
+            "dme_channel": "041Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "0.299",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFST"
+        },
+        {
+            "id": "94010",
+            "filename": "Strasbourg_VOR-DME_FR",
+            "ident": "STR",
+            "name": "Strasbourg",
+            "type": "VOR-DME",
+            "frequency_khz": "115600",
+            "latitude_deg": "48.505401611328125",
+            "longitude_deg": "7.571969985961914",
+            "elevation_ft": "586",
+            "iso_country": "FR",
+            "dme_frequency_khz": "115600",
+            "dme_channel": "103X",
+            "dme_latitude_deg": "48.5056",
+            "dme_longitude_deg": "7.57083",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "0.329",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFST"
+        }
+    ]
+}

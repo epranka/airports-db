@@ -1,0 +1,80 @@
+{
+    "id": "18639",
+    "ident": "K32S",
+    "type": "small_airport",
+    "name": "Stevensville Airport",
+    "latitude_deg": "46.52510070800781",
+    "longitude_deg": "-114.0530014038086",
+    "elevation_ft": "3610",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Stevensville",
+    "scheduled_service": "no",
+    "gps_code": "K32S",
+    "iata_code": "",
+    "local_code": "32S",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244289",
+            "airport_ref": "18639",
+            "airport_ident": "K32S",
+            "length_ft": "3800",
+            "width_ft": "60",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "46.5287",
+            "le_longitude_deg": "-114.058",
+            "le_elevation_ft": "3535",
+            "le_heading_degT": "133",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "46.5215",
+            "he_longitude_deg": "-114.047",
+            "he_elevation_ft": "3610",
+            "he_heading_degT": "313",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67784",
+            "airport_ref": "18639",
+            "airport_ident": "K32S",
+            "type": "A/D",
+            "description": "SPOKANE APP/DEP",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "67785",
+            "airport_ref": "18639",
+            "airport_ident": "K32S",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306102",
+        "code": "US-MT",
+        "local_code": "MT",
+        "name": "Montana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "26940",
+    "ident": "YBWX",
+    "type": "small_airport",
+    "name": "Barrow Island Airport",
+    "latitude_deg": "-20.86440086364746",
+    "longitude_deg": "115.40599822998047",
+    "elevation_ft": "26",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBWX",
+    "iata_code": "BWB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233491",
+            "airport_ref": "26940",
+            "airport_ident": "YBWX",
+            "length_ft": "6234",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "-20.869",
+            "le_longitude_deg": "115.403",
+            "le_elevation_ft": "25",
+            "le_heading_degT": "27",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "-20.8536",
+            "he_longitude_deg": "115.411",
+            "he_elevation_ft": "17",
+            "he_heading_degT": "207",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49121",
+            "airport_ref": "26940",
+            "airport_ident": "YBWX",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "49122",
+            "airport_ref": "26940",
+            "airport_ident": "YBWX",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "122.4"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86489",
+            "filename": "Barrow_Island_NDB_AU",
+            "ident": "BWX",
+            "name": "Barrow Island",
+            "type": "NDB",
+            "frequency_khz": "206",
+            "latitude_deg": "-20.856300354003906",
+            "longitude_deg": "115.40599822998047",
+            "elevation_ft": "26",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.062",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YBWX"
+        }
+    ]
+}

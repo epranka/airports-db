@@ -1,0 +1,112 @@
+{
+    "id": "2901",
+    "ident": "FMCH",
+    "type": "medium_airport",
+    "name": "Prince Said Ibrahim International Airport",
+    "latitude_deg": "-11.5337",
+    "longitude_deg": "43.2719",
+    "elevation_ft": "93",
+    "continent": "AF",
+    "iso_country": "KM",
+    "iso_region": "KM-G",
+    "municipality": "Moroni",
+    "scheduled_service": "yes",
+    "gps_code": "FMCH",
+    "iata_code": "HAH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Prince_Said_Ibrahim_International_Airport",
+    "keywords": "Hahaia",
+    "runways": [
+        {
+            "id": "235275",
+            "airport_ref": "2901",
+            "airport_ident": "FMCH",
+            "length_ft": "9514",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-11.5466",
+            "le_longitude_deg": "43.2696",
+            "le_elevation_ft": "66",
+            "le_heading_degT": "10",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "-11.5207",
+            "he_longitude_deg": "43.2741",
+            "he_elevation_ft": "79",
+            "he_heading_degT": "190",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51396",
+            "airport_ref": "2901",
+            "airport_ident": "FMCH",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "465.7"
+        },
+        {
+            "id": "323254",
+            "airport_ref": "2901",
+            "airport_ident": "FMCH",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "51397",
+            "airport_ref": "2901",
+            "airport_ident": "FMCH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302580",
+        "code": "KM",
+        "name": "Comoros",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Comoros",
+        "keywords": "جزر القمر"
+    },
+    "region": {
+        "id": "304382",
+        "code": "KM-G",
+        "local_code": "G",
+        "name": "Grande Comore Ngazidja",
+        "continent": "AF",
+        "iso_country": "KM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grande_Comore_Ngazidja",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88710",
+            "filename": "Prince_Said_Ibrahim_VOR-DME_KM",
+            "ident": "HAI",
+            "name": "Prince Said Ibrahim",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "-11.515000343322754",
+            "longitude_deg": "43.27669906616211",
+            "elevation_ft": "103",
+            "iso_country": "KM",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-6.177",
+            "usageType": "HI",
+            "power": "HIGH",
+            "associated_airport": "FMCH"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "id": "5350",
+    "ident": "PADE",
+    "type": "medium_airport",
+    "name": "Deering Airport",
+    "latitude_deg": "66.069603",
+    "longitude_deg": "-162.766006",
+    "elevation_ft": "21",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Deering",
+    "scheduled_service": "no",
+    "gps_code": "PADE",
+    "iata_code": "DRG",
+    "local_code": "DEE",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Deering_Airport",
+    "keywords": "0Z0",
+    "runways": [
+        {
+            "id": "239661",
+            "airport_ref": "5350",
+            "airport_ident": "PADE",
+            "length_ft": "3300",
+            "width_ft": "75",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "66.0652",
+            "le_longitude_deg": "-162.774",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "37.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "66.0723",
+            "he_longitude_deg": "-162.76",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "217.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239662",
+            "airport_ref": "5350",
+            "airport_ident": "PADE",
+            "length_ft": "2640",
+            "width_ft": "75",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "66.0717",
+            "le_longitude_deg": "-162.774",
+            "le_elevation_ft": "21",
+            "le_heading_degT": "126.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "66.0674",
+            "he_longitude_deg": "-162.76",
+            "he_elevation_ft": "12",
+            "he_heading_degT": "306.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58661",
+            "airport_ref": "5350",
+            "airport_ident": "PADE",
+            "type": "A/D",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "58662",
+            "airport_ref": "5350",
+            "airport_ident": "PADE",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.5"
+        },
+        {
+            "id": "58663",
+            "airport_ref": "5350",
+            "airport_ident": "PADE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    }
+}

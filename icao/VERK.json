@@ -1,0 +1,72 @@
+{
+    "id": "26520",
+    "ident": "VERK",
+    "type": "medium_airport",
+    "name": "Rourkela Airport",
+    "latitude_deg": "22.256701",
+    "longitude_deg": "84.814598",
+    "elevation_ft": "659",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-OR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "VERK",
+    "iata_code": "RRK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rourkela_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236644",
+            "airport_ref": "26520",
+            "airport_ident": "VERK",
+            "length_ft": "5987",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "22.2565",
+            "le_longitude_deg": "84.8057",
+            "le_elevation_ft": "",
+            "le_heading_degT": "89.3",
+            "le_displaced_threshold_ft": "673",
+            "he_ident": "27",
+            "he_latitude_deg": "22.2568",
+            "he_longitude_deg": "84.8234",
+            "he_elevation_ft": "",
+            "he_heading_degT": "269.3",
+            "he_displaced_threshold_ft": "445"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "313668",
+            "airport_ref": "26520",
+            "airport_ident": "VERK",
+            "type": "TWR",
+            "description": "ROURKELA TOWER",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304188",
+        "code": "IN-OR",
+        "local_code": "OR",
+        "name": "Odisha",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Orissa",
+        "keywords": "Orissa"
+    }
+}

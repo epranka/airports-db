@@ -1,0 +1,104 @@
+{
+    "id": "27134",
+    "ident": "YSCO",
+    "type": "small_airport",
+    "name": "Scone Airport",
+    "latitude_deg": "-32.037200927734375",
+    "longitude_deg": "150.83200073242188",
+    "elevation_ft": "745",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YSCO",
+    "iata_code": "NSO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233214",
+            "airport_ref": "27134",
+            "airport_ident": "YSCO",
+            "length_ft": "4606",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-32.0358",
+            "le_longitude_deg": "150.827",
+            "le_elevation_ft": "741",
+            "le_heading_degT": "124.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "-32.0429",
+            "he_longitude_deg": "150.84",
+            "he_elevation_ft": "705",
+            "he_heading_degT": "304.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48691",
+            "airport_ref": "27134",
+            "airport_ident": "YSCO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "48692",
+            "airport_ref": "27134",
+            "airport_ident": "YSCO",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "124.8"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93459",
+            "filename": "Scone_NDB_AU",
+            "ident": "SCO",
+            "name": "Scone",
+            "type": "NDB",
+            "frequency_khz": "209",
+            "latitude_deg": "-32.034698486328125",
+            "longitude_deg": "150.83099365234375",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.523",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YSCO"
+        }
+    ]
+}

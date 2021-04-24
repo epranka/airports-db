@@ -1,0 +1,96 @@
+{
+    "id": "6337",
+    "ident": "SVVP",
+    "type": "medium_airport",
+    "name": "Valle de La Pascua Airport",
+    "latitude_deg": "9.22202777863",
+    "longitude_deg": "-65.9935836792",
+    "elevation_ft": "410",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-J",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SVVP",
+    "iata_code": "VDP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Valle_de_la_Pascua_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246056",
+            "airport_ref": "6337",
+            "airport_ident": "SVVP",
+            "length_ft": "4921",
+            "width_ft": "164",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "9.21994",
+            "le_longitude_deg": "-66.0002",
+            "le_elevation_ft": "",
+            "le_heading_degT": "72.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "9.22408",
+            "he_longitude_deg": "-65.987",
+            "he_elevation_ft": "",
+            "he_heading_degT": "252.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71642",
+            "airport_ref": "6337",
+            "airport_ident": "SVVP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.65"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306174",
+        "code": "VE-J",
+        "local_code": "J",
+        "name": "Guárico State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gu%C3%A1rico",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95244",
+            "filename": "Valle_De_La_Pascua_VOR-DME_VE",
+            "ident": "VPA",
+            "name": "Valle De La Pascua",
+            "type": "VOR-DME",
+            "frequency_khz": "117800",
+            "latitude_deg": "9.228919982910156",
+            "longitude_deg": "-65.98390197753906",
+            "elevation_ft": "410",
+            "iso_country": "VE",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.365",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVVP"
+        }
+    ]
+}

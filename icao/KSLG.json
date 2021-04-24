@@ -1,0 +1,88 @@
+{
+    "id": "21079",
+    "ident": "KSLG",
+    "type": "small_airport",
+    "name": "Smith Field",
+    "latitude_deg": "36.19189835",
+    "longitude_deg": "-94.48999786",
+    "elevation_ft": "1191",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Siloam Springs",
+    "scheduled_service": "no",
+    "gps_code": "KSLG",
+    "iata_code": "SLG",
+    "local_code": "SLG",
+    "home_link": "http://www.siloamsprings.com/departments/airport/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245849",
+            "airport_ref": "21079",
+            "airport_ident": "KSLG",
+            "length_ft": "4999",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "36.1987",
+            "le_longitude_deg": "-94.4892",
+            "le_elevation_ft": "1190",
+            "le_heading_degT": "185.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "36.185",
+            "he_longitude_deg": "-94.4908",
+            "he_elevation_ft": "1174",
+            "he_heading_degT": "5.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71191",
+            "airport_ref": "21079",
+            "airport_ident": "KSLG",
+            "type": "A/D",
+            "description": "RAZORBACK APP/DEP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "71192",
+            "airport_ref": "21079",
+            "airport_ident": "KSLG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "71193",
+            "airport_ref": "21079",
+            "airport_ident": "KSLG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

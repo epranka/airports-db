@@ -1,0 +1,104 @@
+{
+    "id": "19791",
+    "ident": "KEZM",
+    "type": "small_airport",
+    "name": "Heart of Georgia Regional Airport",
+    "latitude_deg": "32.21419906616211",
+    "longitude_deg": "-83.12799835205078",
+    "elevation_ft": "304",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Eastman",
+    "scheduled_service": "no",
+    "gps_code": "KEZM",
+    "iata_code": "",
+    "local_code": "EZM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241032",
+            "airport_ref": "19791",
+            "airport_ident": "KEZM",
+            "length_ft": "6506",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "32.2078",
+            "le_longitude_deg": "-83.1315",
+            "le_elevation_ft": "295",
+            "le_heading_degT": "15",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "32.225",
+            "he_longitude_deg": "-83.1259",
+            "he_elevation_ft": "298",
+            "he_heading_degT": "195",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61014",
+            "airport_ref": "19791",
+            "airport_ident": "KEZM",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "319472",
+            "airport_ref": "19791",
+            "airport_ident": "KEZM",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "119.425"
+        },
+        {
+            "id": "319471",
+            "airport_ref": "19791",
+            "airport_ident": "KEZM",
+            "type": "GROUND",
+            "description": "",
+            "frequency_mhz": "121.175"
+        },
+        {
+            "id": "319473",
+            "airport_ref": "19791",
+            "airport_ident": "KEZM",
+            "type": "TOWER/CTAF",
+            "description": "",
+            "frequency_mhz": "124.55"
+        },
+        {
+            "id": "61016",
+            "airport_ref": "19791",
+            "airport_ident": "KEZM",
+            "type": "UNIC",
+            "description": "",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

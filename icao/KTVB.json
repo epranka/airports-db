@@ -1,0 +1,80 @@
+{
+    "id": "21231",
+    "ident": "KTVB",
+    "type": "small_airport",
+    "name": "Cabool Memorial Airport",
+    "latitude_deg": "37.13240051269531",
+    "longitude_deg": "-92.08399963378906",
+    "elevation_ft": "1220",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Cabool",
+    "scheduled_service": "no",
+    "gps_code": "KTVB",
+    "iata_code": "",
+    "local_code": "TVB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241397",
+            "airport_ref": "21231",
+            "airport_ident": "KTVB",
+            "length_ft": "3002",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "37.129",
+            "le_longitude_deg": "-92.0868",
+            "le_elevation_ft": "1220",
+            "le_heading_degT": "32.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "37.1359",
+            "he_longitude_deg": "-92.0812",
+            "he_elevation_ft": "1206",
+            "he_heading_degT": "212.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61754",
+            "airport_ref": "21231",
+            "airport_ident": "KTVB",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "133.8"
+        },
+        {
+            "id": "61755",
+            "airport_ref": "21231",
+            "airport_ident": "KTVB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

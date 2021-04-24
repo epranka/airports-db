@@ -1,0 +1,104 @@
+{
+    "id": "4415",
+    "ident": "LLET",
+    "type": "closed",
+    "name": "Eilat Airport",
+    "latitude_deg": "29.559945",
+    "longitude_deg": "34.959612",
+    "elevation_ft": "42",
+    "continent": "AS",
+    "iso_country": "IL",
+    "iso_region": "IL-D",
+    "municipality": "Eilat",
+    "scheduled_service": "no",
+    "gps_code": "LLET",
+    "iata_code": "ETH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Eilat_Airport",
+    "keywords": "J. Hozman",
+    "runways": [
+        {
+            "id": "236968",
+            "airport_ref": "4415",
+            "airport_ident": "LLET",
+            "length_ft": "6234",
+            "width_ft": "89",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "29.5537",
+            "le_longitude_deg": "34.9555",
+            "le_elevation_ft": "16",
+            "le_heading_degT": "28",
+            "le_displaced_threshold_ft": "945",
+            "he_ident": "21",
+            "he_latitude_deg": "29.5688",
+            "he_longitude_deg": "34.9647",
+            "he_elevation_ft": "42",
+            "he_heading_degT": "208",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54138",
+            "airport_ref": "4415",
+            "airport_ident": "LLET",
+            "type": "ATIS",
+            "description": "INFO",
+            "frequency_mhz": "132.55"
+        },
+        {
+            "id": "54139",
+            "airport_ref": "4415",
+            "airport_ident": "LLET",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.8"
+        }
+    ],
+    "country": {
+        "id": "302633",
+        "code": "IL",
+        "name": "Israel",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Israel",
+        "keywords": "שדות התעופה של ישראל"
+    },
+    "region": {
+        "id": "304156",
+        "code": "IL-D",
+        "local_code": "D",
+        "name": "Southern District",
+        "continent": "AS",
+        "iso_country": "IL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_District_(Israel)",
+        "keywords": "Mehoz HaDarom"
+    },
+    "navaids": [
+        {
+            "id": "90484",
+            "filename": "Eilot_VOR-DME_IL",
+            "ident": "LOT",
+            "name": "Eilot",
+            "type": "VOR-DME",
+            "frequency_khz": "112000",
+            "latitude_deg": "29.607799530029297",
+            "longitude_deg": "34.97560119628906",
+            "elevation_ft": "200",
+            "iso_country": "IL",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.276",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LLET"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "769",
+    "ident": "CCP2",
+    "type": "small_airport",
+    "name": "Exploits Valley Botwood Airport",
+    "latitude_deg": "49.055999755859375",
+    "longitude_deg": "-55.44770050048828",
+    "elevation_ft": "365",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NL",
+    "municipality": "Exploits Valley",
+    "scheduled_service": "no",
+    "gps_code": "CCP2",
+    "iata_code": "",
+    "local_code": "CCP2",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Exploits_Valley_(Botwood)_Airport",
+    "keywords": "CP2",
+    "runways": [
+        {
+            "id": "260317",
+            "airport_ref": "769",
+            "airport_ident": "CCP2",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "UNK",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "365",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "350",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "234653",
+            "airport_ref": "769",
+            "airport_ident": "CCP2",
+            "length_ft": "3930",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "49.052",
+            "le_longitude_deg": "-55.4535",
+            "le_elevation_ft": "365",
+            "le_heading_degT": "41",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "49.0602",
+            "he_longitude_deg": "-55.4425",
+            "he_elevation_ft": "350",
+            "he_heading_degT": "221",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50224",
+            "airport_ref": "769",
+            "airport_ident": "CCP2",
+            "type": "A/D",
+            "description": "GANDER CNTR",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "50225",
+            "airport_ref": "769",
+            "airport_ident": "CCP2",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303298",
+        "code": "CA-NL",
+        "local_code": "NL",
+        "name": "Newfoundland and Labrador",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
+        "keywords": ""
+    }
+}

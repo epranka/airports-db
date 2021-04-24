@@ -1,0 +1,96 @@
+{
+    "id": "4822",
+    "ident": "MTCA",
+    "type": "medium_airport",
+    "name": "Les Cayes Airport",
+    "latitude_deg": "18.271099090576172",
+    "longitude_deg": "-73.78829956054688",
+    "elevation_ft": "203",
+    "continent": "NA",
+    "iso_country": "HT",
+    "iso_region": "HT-SD",
+    "municipality": "Les Cayes",
+    "scheduled_service": "yes",
+    "gps_code": "MTCA",
+    "iata_code": "CYA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Les_Cayes_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236407",
+            "airport_ref": "4822",
+            "airport_ident": "MTCA",
+            "length_ft": "3220",
+            "width_ft": "80",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "18.2699",
+            "le_longitude_deg": "-73.7929",
+            "le_elevation_ft": "",
+            "le_heading_degT": "75",
+            "le_displaced_threshold_ft": "260",
+            "he_ident": "26",
+            "he_latitude_deg": "18.2723",
+            "he_longitude_deg": "-73.7836",
+            "he_elevation_ft": "",
+            "he_heading_degT": "255",
+            "he_displaced_threshold_ft": "285"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53472",
+            "airport_ref": "4822",
+            "airport_ident": "MTCA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302740",
+        "code": "HT",
+        "name": "Haiti",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haiti",
+        "keywords": "Aéroports de Haïti"
+    },
+    "region": {
+        "id": "304052",
+        "code": "HT-SD",
+        "local_code": "SD",
+        "name": "Sud Department",
+        "continent": "NA",
+        "iso_country": "HT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sud_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86598",
+            "filename": "Cayes_NDB_HT",
+            "ident": "CAY",
+            "name": "Cayes",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "18.26729965209961",
+            "longitude_deg": "-73.78299713134766",
+            "elevation_ft": "",
+            "iso_country": "HT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.116",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "MTCA"
+        }
+    ]
+}

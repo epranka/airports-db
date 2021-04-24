@@ -1,0 +1,56 @@
+{
+    "id": "43192",
+    "ident": "VHST",
+    "type": "heliport",
+    "name": "Shun Tak Heliport",
+    "latitude_deg": "22.288868",
+    "longitude_deg": "114.152369",
+    "elevation_ft": "107",
+    "continent": "AS",
+    "iso_country": "HK",
+    "iso_region": "HK-U-A",
+    "municipality": "Central and Western, Hong Kong Island",
+    "scheduled_service": "yes",
+    "gps_code": "VHST",
+    "iata_code": "HHP",
+    "local_code": "",
+    "home_link": "http://www.skyshuttlehk.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong-Macau_Ferry_Pier,_Hong_Kong#Heliport",
+    "keywords": "",
+    "freqs": [
+        {
+            "id": "75397",
+            "airport_ref": "43192",
+            "airport_ident": "VHST",
+            "type": "STAR",
+            "description": "Shun Tak Heliport Radio",
+            "frequency_mhz": "131"
+        },
+        {
+            "id": "75398",
+            "airport_ref": "43192",
+            "airport_ident": "VHST",
+            "type": "ZNC",
+            "description": "Zone Control",
+            "frequency_mhz": "120.6"
+        }
+    ],
+    "country": {
+        "id": "302631",
+        "code": "HK",
+        "name": "Hong Kong",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304005",
+        "code": "HK-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "HK",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

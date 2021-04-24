@@ -1,0 +1,72 @@
+{
+    "id": "18333",
+    "ident": "K08C",
+    "type": "small_airport",
+    "name": "Riverview Airport",
+    "latitude_deg": "42.935902",
+    "longitude_deg": "-85.805",
+    "elevation_ft": "603",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Georgetown Township",
+    "scheduled_service": "no",
+    "gps_code": "K08C",
+    "iata_code": "",
+    "local_code": "08C",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245716",
+            "airport_ref": "18333",
+            "airport_ident": "K08C",
+            "length_ft": "3920",
+            "width_ft": "49",
+            "surface": "ASPH-F",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "42.9401",
+            "le_longitude_deg": "-85.8099",
+            "le_elevation_ft": "603",
+            "le_heading_degT": "140",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "42.9335",
+            "he_longitude_deg": "-85.7995",
+            "he_elevation_ft": "603",
+            "he_heading_degT": "344.9",
+            "he_displaced_threshold_ft": "1196"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70912",
+            "airport_ref": "18333",
+            "airport_ident": "K08C",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

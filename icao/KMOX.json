@@ -1,0 +1,118 @@
+{
+    "id": "20545",
+    "ident": "KMOX",
+    "type": "small_airport",
+    "name": "Morris Municipal - Charlie Schmidt Airport",
+    "latitude_deg": "45.56600189",
+    "longitude_deg": "-95.96720123",
+    "elevation_ft": "1138",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Morris",
+    "scheduled_service": "no",
+    "gps_code": "KMOX",
+    "iata_code": "",
+    "local_code": "MOX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245113",
+            "airport_ref": "20545",
+            "airport_ident": "KMOX",
+            "length_ft": "2640",
+            "width_ft": "150",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "45.5657",
+            "le_longitude_deg": "-95.9728",
+            "le_elevation_ft": "1123",
+            "le_heading_degT": "49",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "45.5705",
+            "he_longitude_deg": "-95.9651",
+            "he_elevation_ft": "1138",
+            "he_heading_degT": "229",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245114",
+            "airport_ref": "20545",
+            "airport_ident": "KMOX",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "45.569",
+            "le_longitude_deg": "-95.9706",
+            "le_elevation_ft": "1128",
+            "le_heading_degT": "144",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "45.5601",
+            "he_longitude_deg": "-95.9615",
+            "he_elevation_ft": "1124",
+            "he_heading_degT": "324",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69603",
+            "airport_ref": "20545",
+            "airport_ident": "KMOX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "109.6"
+        },
+        {
+            "id": "69604",
+            "airport_ref": "20545",
+            "airport_ident": "KMOX",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "69605",
+            "airport_ref": "20545",
+            "airport_ident": "KMOX",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "69606",
+            "airport_ref": "20545",
+            "airport_ident": "KMOX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

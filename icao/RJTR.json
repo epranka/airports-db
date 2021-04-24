@@ -1,0 +1,112 @@
+{
+    "id": "5626",
+    "ident": "RJTR",
+    "type": "heliport",
+    "name": "Camp Zama Kastner Army Heliport",
+    "latitude_deg": "35.512771",
+    "longitude_deg": "139.393437",
+    "elevation_ft": "360",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-14",
+    "municipality": "Sagamihara / Zama",
+    "scheduled_service": "no",
+    "gps_code": "RJTR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Camp_Zama",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237243",
+            "airport_ref": "5626",
+            "airport_ident": "RJTR",
+            "length_ft": "1910",
+            "width_ft": "52",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "35.5112",
+            "le_longitude_deg": "139.393",
+            "le_elevation_ft": "350",
+            "le_heading_degT": "9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "35.5164",
+            "he_longitude_deg": "139.394",
+            "he_elevation_ft": "360",
+            "he_heading_degT": "189",
+            "he_displaced_threshold_ft": "865"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54802",
+            "airport_ref": "5626",
+            "airport_ident": "RJTR",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "36.8"
+        },
+        {
+            "id": "54803",
+            "airport_ref": "5626",
+            "airport_ident": "RJTR",
+            "type": "PMSV",
+            "description": "YOKOTA METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "54804",
+            "airport_ref": "5626",
+            "airport_ident": "RJTR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304299",
+        "code": "JP-14",
+        "local_code": "14",
+        "name": "Kanagawa Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kanagawa",
+        "keywords": "Kanto"
+    },
+    "navaids": [
+        {
+            "id": "95572",
+            "filename": "Kastner_NDB-DME_JP",
+            "ident": "XR",
+            "name": "Kastner",
+            "type": "NDB-DME",
+            "frequency_khz": "379",
+            "latitude_deg": "35.51499938964844",
+            "longitude_deg": "139.39500427246094",
+            "elevation_ft": "368",
+            "iso_country": "JP",
+            "dme_frequency_khz": "109800",
+            "dme_channel": "035X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.549",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "RJTR"
+        }
+    ]
+}

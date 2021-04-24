@@ -1,0 +1,110 @@
+{
+    "id": "18586",
+    "ident": "K2G9",
+    "type": "small_airport",
+    "name": "Somerset County Airport",
+    "latitude_deg": "40.03910065",
+    "longitude_deg": "-79.01460266",
+    "elevation_ft": "2275",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Somerset",
+    "scheduled_service": "no",
+    "gps_code": "K2G9",
+    "iata_code": "",
+    "local_code": "2G9",
+    "home_link": "http://www.co.somerset.pa.us/airport/",
+    "wikipedia_link": "",
+    "keywords": "Joseph W. Martin Field",
+    "runways": [
+        {
+            "id": "244095",
+            "airport_ref": "18586",
+            "airport_ident": "K2G9",
+            "length_ft": "2695",
+            "width_ft": "204",
+            "surface": "ASPH-TURF-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "40.04",
+            "le_longitude_deg": "-79.017",
+            "le_elevation_ft": "",
+            "le_heading_degT": "140.1",
+            "le_displaced_threshold_ft": "295",
+            "he_ident": "32",
+            "he_latitude_deg": "40.0344",
+            "he_longitude_deg": "-79.0108",
+            "he_elevation_ft": "",
+            "he_heading_degT": "247",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244094",
+            "airport_ref": "18586",
+            "airport_ident": "K2G9",
+            "length_ft": "5002",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "7",
+            "le_latitude_deg": "40.035",
+            "le_longitude_deg": "-79.0224",
+            "le_elevation_ft": "2275",
+            "le_heading_degT": "56",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "40.0427",
+            "he_longitude_deg": "-79.0076",
+            "he_elevation_ft": "2202",
+            "he_heading_degT": "236",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67379",
+            "airport_ref": "18586",
+            "airport_ident": "K2G9",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.8"
+        },
+        {
+            "id": "67380",
+            "airport_ref": "18586",
+            "airport_ident": "K2G9",
+            "type": "CNTR",
+            "description": "CLEVELAND CNTR",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "67381",
+            "airport_ref": "18586",
+            "airport_ident": "K2G9",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

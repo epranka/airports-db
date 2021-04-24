@@ -1,0 +1,80 @@
+{
+    "id": "18387",
+    "ident": "K0R3",
+    "type": "small_airport",
+    "name": "Abbeville Chris Crusta Memorial Airport",
+    "latitude_deg": "29.97579956",
+    "longitude_deg": "-92.084198",
+    "elevation_ft": "16",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Abbeville",
+    "scheduled_service": "no",
+    "gps_code": "KIYA",
+    "iata_code": "",
+    "local_code": "IYA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Abbeville_Chris_Crusta_Memorial_Airport",
+    "keywords": "0R3",
+    "runways": [
+        {
+            "id": "245574",
+            "airport_ref": "18387",
+            "airport_ident": "K0R3",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "29.9821",
+            "le_longitude_deg": "-92.0871",
+            "le_elevation_ft": "16",
+            "le_heading_degT": "159",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "29.9694",
+            "he_longitude_deg": "-92.0814",
+            "he_elevation_ft": "14",
+            "he_heading_degT": "339",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70624",
+            "airport_ref": "18387",
+            "airport_ident": "K0R3",
+            "type": "A/D",
+            "description": "LAFAYETTE APP/DEP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "70625",
+            "airport_ref": "18387",
+            "airport_ident": "K0R3",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

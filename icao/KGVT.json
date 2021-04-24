@@ -1,0 +1,142 @@
+{
+    "id": "19988",
+    "ident": "KGVT",
+    "type": "small_airport",
+    "name": "Majors Airport",
+    "latitude_deg": "33.0677986145",
+    "longitude_deg": "-96.0652999878",
+    "elevation_ft": "535",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Greenville",
+    "scheduled_service": "no",
+    "gps_code": "KGVT",
+    "iata_code": "GVT",
+    "local_code": "GVT",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Majors_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244228",
+            "airport_ref": "19988",
+            "airport_ident": "KGVT",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "13",
+            "le_latitude_deg": "33.0744",
+            "le_longitude_deg": "-96.0675",
+            "le_elevation_ft": "",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "33.0647",
+            "he_longitude_deg": "-96.0558",
+            "he_elevation_ft": "",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244229",
+            "airport_ref": "19988",
+            "airport_ident": "KGVT",
+            "length_ft": "8030",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "33.0789",
+            "le_longitude_deg": "-96.0652",
+            "le_elevation_ft": "520",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "33.0568",
+            "he_longitude_deg": "-96.0655",
+            "he_elevation_ft": "524",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67658",
+            "airport_ref": "19988",
+            "airport_ident": "KGVT",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.425"
+        },
+        {
+            "id": "67659",
+            "airport_ref": "19988",
+            "airport_ident": "KGVT",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "132.85"
+        },
+        {
+            "id": "67660",
+            "airport_ref": "19988",
+            "airport_ident": "KGVT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.65"
+        },
+        {
+            "id": "67661",
+            "airport_ref": "19988",
+            "airport_ident": "KGVT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "67662",
+            "airport_ref": "19988",
+            "airport_ident": "KGVT",
+            "type": "OPS",
+            "description": "AFMCLO FLT",
+            "frequency_mhz": "34.96"
+        },
+        {
+            "id": "67663",
+            "airport_ref": "19988",
+            "airport_ident": "KGVT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.65"
+        },
+        {
+            "id": "67664",
+            "airport_ref": "19988",
+            "airport_ident": "KGVT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

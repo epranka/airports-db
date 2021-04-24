@@ -1,0 +1,56 @@
+{
+    "id": "28485",
+    "ident": "HKNK",
+    "type": "small_airport",
+    "name": "Nakuru Airport",
+    "latitude_deg": "-0.298067",
+    "longitude_deg": "36.159302",
+    "elevation_ft": "6234",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-700",
+    "municipality": "Nakuru",
+    "scheduled_service": "yes",
+    "gps_code": "HKNK",
+    "iata_code": "NUU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nakuru_Airport",
+    "keywords": "",
+    "freqs": [
+        {
+            "id": "310998",
+            "airport_ref": "28485",
+            "airport_ident": "HKNK",
+            "type": "Air to Air Local",
+            "description": "Pilot contact when in the area",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "310999",
+            "airport_ref": "28485",
+            "airport_ident": "HKNK",
+            "type": "Tropic Air Ops",
+            "description": "Call for info",
+            "frequency_mhz": "119.2"
+        }
+    ],
+    "country": {
+        "id": "302579",
+        "code": "KE",
+        "name": "Kenya",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kenya",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304340",
+        "code": "KE-700",
+        "local_code": "700",
+        "name": "Rift Valley Province",
+        "continent": "AF",
+        "iso_country": "KE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rift_Valley_Province",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "3519",
+    "ident": "KEWB",
+    "type": "medium_airport",
+    "name": "New Bedford Regional Airport",
+    "latitude_deg": "41.67610168457031",
+    "longitude_deg": "-70.95690155029297",
+    "elevation_ft": "80",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MA",
+    "municipality": "New Bedford",
+    "scheduled_service": "yes",
+    "gps_code": "KEWB",
+    "iata_code": "EWB",
+    "local_code": "EWB",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/New_Bedford_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241877",
+            "airport_ref": "3519",
+            "airport_ident": "KEWB",
+            "length_ft": "4997",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "41.6717",
+            "le_longitude_deg": "-70.9645",
+            "le_elevation_ft": "66",
+            "le_heading_degT": "38.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "41.6824",
+            "he_longitude_deg": "-70.9531",
+            "he_elevation_ft": "78",
+            "he_heading_degT": "218.3",
+            "he_displaced_threshold_ft": "413"
+        },
+        {
+            "id": "241878",
+            "airport_ref": "3519",
+            "airport_ident": "KEWB",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "41.6803",
+            "le_longitude_deg": "-70.9639",
+            "le_elevation_ft": "77",
+            "le_heading_degT": "128.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "41.6718",
+            "he_longitude_deg": "-70.9496",
+            "he_elevation_ft": "67",
+            "he_heading_degT": "308.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62753",
+            "airport_ref": "3519",
+            "airport_ident": "KEWB",
+            "type": "A/D",
+            "description": "PROVIDENCE APP/DEP",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "62754",
+            "airport_ref": "3519",
+            "airport_ident": "KEWB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "62755",
+            "airport_ref": "3519",
+            "airport_ident": "KEWB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "62756",
+            "airport_ref": "3519",
+            "airport_ident": "KEWB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "62757",
+            "airport_ref": "3519",
+            "airport_ident": "KEWB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "62758",
+            "airport_ref": "3519",
+            "airport_ident": "KEWB",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306095",
+        "code": "US-MA",
+        "local_code": "MA",
+        "name": "Massachusetts",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87876",
+            "filename": "Nefor_NDB_US",
+            "ident": "EW",
+            "name": "Nefor",
+            "type": "NDB",
+            "frequency_khz": "274",
+            "latitude_deg": "41.62160110473633",
+            "longitude_deg": "-71.0177001953125",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.081",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KEWB"
+        }
+    ]
+}

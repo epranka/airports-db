@@ -1,0 +1,118 @@
+{
+    "id": "26945",
+    "ident": "YCBG",
+    "type": "small_airport",
+    "name": "Hobart Cambridge Airport",
+    "latitude_deg": "-42.826698303222656",
+    "longitude_deg": "147.47500610351562",
+    "elevation_ft": "67",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YCBG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cambridge_Aerodrome",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233160",
+            "airport_ref": "26945",
+            "airport_ident": "YCBG",
+            "length_ft": "3661",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "-42.828",
+            "le_longitude_deg": "147.472",
+            "le_elevation_ft": "",
+            "le_heading_degT": "108",
+            "le_displaced_threshold_ft": "620",
+            "he_ident": "27",
+            "he_latitude_deg": "-42.8305",
+            "he_longitude_deg": "147.484",
+            "he_elevation_ft": "",
+            "he_heading_degT": "288",
+            "he_displaced_threshold_ft": "315"
+        },
+        {
+            "id": "233161",
+            "airport_ref": "26945",
+            "airport_ident": "YCBG",
+            "length_ft": "2900",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-42.8217",
+            "le_longitude_deg": "147.473",
+            "le_elevation_ft": "67",
+            "le_heading_degT": "156",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-42.8298",
+            "he_longitude_deg": "147.479",
+            "he_elevation_ft": "67",
+            "he_heading_degT": "336",
+            "he_displaced_threshold_ft": "338"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48618",
+            "airport_ref": "26945",
+            "airport_ident": "YCBG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.45"
+        },
+        {
+            "id": "48619",
+            "airport_ref": "26945",
+            "airport_ident": "YCBG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "48620",
+            "airport_ref": "26945",
+            "airport_ident": "YCBG",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "125.55"
+        },
+        {
+            "id": "48621",
+            "airport_ref": "26945",
+            "airport_ident": "YCBG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302973",
+        "code": "AU-TAS",
+        "local_code": "TAS",
+        "name": "Tasmania",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
+        "keywords": ""
+    }
+}

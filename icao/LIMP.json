@@ -1,0 +1,104 @@
+{
+    "id": "4347",
+    "ident": "LIMP",
+    "type": "medium_airport",
+    "name": "Parma Airport",
+    "latitude_deg": "44.824501",
+    "longitude_deg": "10.2964",
+    "elevation_ft": "161",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Parma",
+    "scheduled_service": "yes",
+    "gps_code": "LIMP",
+    "iata_code": "PMF",
+    "local_code": "PR03",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Parma_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237033",
+            "airport_ref": "4347",
+            "airport_ident": "LIMP",
+            "length_ft": "6962",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "44.8177",
+            "le_longitude_deg": "10.2931",
+            "le_elevation_ft": "158",
+            "le_heading_degT": "17",
+            "le_displaced_threshold_ft": "702",
+            "he_ident": "20",
+            "he_latitude_deg": "44.8359",
+            "he_longitude_deg": "10.3011",
+            "he_elevation_ft": "146",
+            "he_heading_degT": "197",
+            "he_displaced_threshold_ft": "597"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54273",
+            "airport_ref": "4347",
+            "airport_ident": "LIMP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "126.55"
+        },
+        {
+            "id": "54274",
+            "airport_ref": "4347",
+            "airport_ident": "LIMP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.45"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306367",
+        "code": "IT-45",
+        "local_code": "45",
+        "name": "Emilia-Romagna",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Emilia-Romagna",
+        "keywords": "ER"
+    },
+    "navaids": [
+        {
+            "id": "92278",
+            "filename": "Parma_NDB_IT",
+            "ident": "PAR",
+            "name": "Parma",
+            "type": "NDB",
+            "frequency_khz": "306",
+            "latitude_deg": "44.82229995727539",
+            "longitude_deg": "10.293299674987793",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.202",
+            "usageType": "RNAV",
+            "power": "LOW",
+            "associated_airport": "LIMP"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "id": "19669",
+    "ident": "KDVN",
+    "type": "small_airport",
+    "name": "Davenport Municipal Airport",
+    "latitude_deg": "41.61029816",
+    "longitude_deg": "-90.58830261",
+    "elevation_ft": "751",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Davenport",
+    "scheduled_service": "no",
+    "gps_code": "KDVN",
+    "iata_code": "DVN",
+    "local_code": "DVN",
+    "home_link": "http://www.cityofdavenportiowa.com/department/?fDD=47-0",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Davenport_Municipal_Airport_(Iowa)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243224",
+            "airport_ref": "19669",
+            "airport_ident": "KDVN",
+            "length_ft": "4001",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "41.6075",
+            "le_longitude_deg": "-90.592",
+            "le_elevation_ft": "747",
+            "le_heading_degT": "29.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "41.617",
+            "he_longitude_deg": "-90.5847",
+            "he_elevation_ft": "749",
+            "he_heading_degT": "209.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243225",
+            "airport_ref": "19669",
+            "airport_ident": "KDVN",
+            "length_ft": "5501",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "41.6154",
+            "le_longitude_deg": "-90.5934",
+            "le_elevation_ft": "751",
+            "le_heading_degT": "149.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "41.6023",
+            "he_longitude_deg": "-90.5832",
+            "he_elevation_ft": "743",
+            "he_heading_degT": "329.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65520",
+            "airport_ref": "19669",
+            "airport_ident": "KDVN",
+            "type": "A/D",
+            "description": "QUAD CITY APP/DEP",
+            "frequency_mhz": "125.95"
+        },
+        {
+            "id": "65521",
+            "airport_ref": "19669",
+            "airport_ident": "KDVN",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.175"
+        },
+        {
+            "id": "65522",
+            "airport_ref": "19669",
+            "airport_ident": "KDVN",
+            "type": "CLD",
+            "description": "QUAD CITY CLNC DEL",
+            "frequency_mhz": "118.35"
+        },
+        {
+            "id": "65523",
+            "airport_ref": "19669",
+            "airport_ident": "KDVN",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "36.1"
+        },
+        {
+            "id": "65524",
+            "airport_ref": "19669",
+            "airport_ident": "KDVN",
+            "type": "RDO",
+            "description": "FORT DODGE RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "65525",
+            "airport_ref": "19669",
+            "airport_ident": "KDVN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

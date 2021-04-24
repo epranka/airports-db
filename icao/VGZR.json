@@ -1,0 +1,150 @@
+{
+    "id": "26534",
+    "ident": "VGZR",
+    "type": "large_airport",
+    "name": "Hazrat Shahjalal International Airport",
+    "latitude_deg": "23.843347",
+    "longitude_deg": "90.397783",
+    "elevation_ft": "30",
+    "continent": "AS",
+    "iso_country": "BD",
+    "iso_region": "BD-3",
+    "municipality": "Dhaka",
+    "scheduled_service": "yes",
+    "gps_code": "VGHS",
+    "iata_code": "DAC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shahjalal_International_Airport",
+    "keywords": "VGZR, Zia International Airport, Dacca International Airport, Hazrat Shahjalal International Airport",
+    "runways": [
+        {
+            "id": "233681",
+            "airport_ref": "26534",
+            "airport_ident": "VGZR",
+            "length_ft": "11500",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "23.855",
+            "le_longitude_deg": "90.3885",
+            "le_elevation_ft": "27",
+            "le_heading_degT": "144",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "23.8317",
+            "he_longitude_deg": "90.4069",
+            "he_elevation_ft": "27",
+            "he_heading_degT": "324",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49423",
+            "airport_ref": "26534",
+            "airport_ident": "VGZR",
+            "type": "APP",
+            "description": "DHAKA APP",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "49424",
+            "airport_ref": "26534",
+            "airport_ident": "VGZR",
+            "type": "ATIS",
+            "description": "DHAKA ATIS",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "49425",
+            "airport_ref": "26534",
+            "airport_ident": "VGZR",
+            "type": "GND",
+            "description": "DHAKA GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "49426",
+            "airport_ref": "26534",
+            "airport_ident": "VGZR",
+            "type": "RDO",
+            "description": "DHAKA RDO",
+            "frequency_mhz": "294.7"
+        },
+        {
+            "id": "49427",
+            "airport_ref": "26534",
+            "airport_ident": "VGZR",
+            "type": "TWR",
+            "description": "DHAKA TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302622",
+        "code": "BD",
+        "name": "Bangladesh",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bangladesh",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306742",
+        "code": "BD-3",
+        "local_code": "3",
+        "name": "Dhaka Division",
+        "continent": "AS",
+        "iso_country": "BD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dhaka_Division",
+        "keywords": "Dhaka bibhag"
+    },
+    "navaids": [
+        {
+            "id": "87253",
+            "filename": "Dhaka_VOR-DME_BD",
+            "ident": "DAC",
+            "name": "Dhaka",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "23.82469940185547",
+            "longitude_deg": "90.41259765625",
+            "elevation_ft": "49",
+            "iso_country": "BD",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.292",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VGZR"
+        },
+        {
+            "id": "87306",
+            "filename": "Dhaka_NDB_BD",
+            "ident": "DCN",
+            "name": "Dhaka",
+            "type": "NDB",
+            "frequency_khz": "298",
+            "latitude_deg": "23.842899322509766",
+            "longitude_deg": "90.4177017211914",
+            "elevation_ft": "",
+            "iso_country": "BD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.291",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VGZR"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "4478",
+    "ident": "LRCT",
+    "type": "medium_airport",
+    "name": "Câmpia Turzii Air Base",
+    "latitude_deg": "46.50230026245117",
+    "longitude_deg": "23.885900497436523",
+    "elevation_ft": "1083",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-CJ",
+    "municipality": "Câmpia Turzii",
+    "scheduled_service": "no",
+    "gps_code": "LRCT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.roaf.ro/en/unitati/bz71_en.php",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RoAF_71st_Air_Base",
+    "keywords": "Campia Turzii, Luna Airport, RoAF 71st Air Base",
+    "runways": [
+        {
+            "id": "238388",
+            "airport_ref": "4478",
+            "airport_ident": "LRCT",
+            "length_ft": "8202",
+            "width_ft": "164",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "46.5126",
+            "le_longitude_deg": "23.8793",
+            "le_elevation_ft": "",
+            "le_heading_degT": "156",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "46.492",
+            "he_longitude_deg": "23.8926",
+            "he_elevation_ft": "",
+            "he_heading_degT": "336",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56403",
+            "airport_ref": "4478",
+            "airport_ident": "LRCT",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "129"
+        },
+        {
+            "id": "56404",
+            "airport_ref": "4478",
+            "airport_ident": "LRCT",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "129"
+        },
+        {
+            "id": "56405",
+            "airport_ref": "4478",
+            "airport_ident": "LRCT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "129"
+        }
+    ],
+    "country": {
+        "id": "302712",
+        "code": "RO",
+        "name": "Romania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
+        "keywords": "Aeroporturi din România"
+    },
+    "region": {
+        "id": "305229",
+        "code": "RO-CJ",
+        "local_code": "CJ",
+        "name": "Cluj",
+        "continent": "EU",
+        "iso_country": "RO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cluj",
+        "keywords": "Transylvania, Transylvanian Region"
+    }
+}

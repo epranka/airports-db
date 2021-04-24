@@ -1,0 +1,96 @@
+{
+    "id": "4698",
+    "ident": "MMCM",
+    "type": "medium_airport",
+    "name": "Chetumal International Airport",
+    "latitude_deg": "18.50469970703125",
+    "longitude_deg": "-88.32679748535156",
+    "elevation_ft": "39",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-ROO",
+    "municipality": "Chetumal",
+    "scheduled_service": "yes",
+    "gps_code": "MMCM",
+    "iata_code": "CTM",
+    "local_code": "",
+    "home_link": "http://chetumal.asa.gob.mx/wb/webasa/chetumal_aeropuertos",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chetumal_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237675",
+            "airport_ref": "4698",
+            "airport_ident": "MMCM",
+            "length_ft": "7244",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "18.5077",
+            "le_longitude_deg": "-88.3367",
+            "le_elevation_ft": "39",
+            "le_heading_degT": "108.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "18.5016",
+            "he_longitude_deg": "-88.3169",
+            "he_elevation_ft": "26",
+            "he_heading_degT": "288.1",
+            "he_displaced_threshold_ft": "869"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55419",
+            "airport_ref": "4698",
+            "airport_ident": "MMCM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304812",
+        "code": "MX-ROO",
+        "local_code": "ROO",
+        "name": "Quintana Roo",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quintana_Roo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87089",
+            "filename": "Chetumal_VOR-DME_MX",
+            "ident": "CTM",
+            "name": "Chetumal",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "18.509300231933594",
+            "longitude_deg": "-88.33370208740234",
+            "elevation_ft": "39",
+            "iso_country": "MX",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.002",
+            "magnetic_variation_deg": "0.519",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMCM"
+        }
+    ]
+}

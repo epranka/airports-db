@@ -1,0 +1,96 @@
+{
+    "id": "21227",
+    "ident": "KTTA",
+    "type": "small_airport",
+    "name": "Sanford-Lee County Regional Airport",
+    "latitude_deg": "35.58369827",
+    "longitude_deg": "-79.10079956",
+    "elevation_ft": "246",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Sanford",
+    "scheduled_service": "no",
+    "gps_code": "KTTA",
+    "iata_code": "",
+    "local_code": "TTA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sanford-Lee_County_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240296",
+            "airport_ref": "21227",
+            "airport_ident": "KTTA",
+            "length_ft": "6570",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "35.5739",
+            "le_longitude_deg": "-79.1052",
+            "le_elevation_ft": "246",
+            "le_heading_degT": "20.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "35.5908",
+            "he_longitude_deg": "-79.0975",
+            "he_elevation_ft": "230",
+            "he_heading_degT": "200.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59741",
+            "airport_ref": "21227",
+            "airport_ident": "KTTA",
+            "type": "A/D",
+            "description": "RALEIGH APP DEP",
+            "frequency_mhz": "135.35"
+        },
+        {
+            "id": "59742",
+            "airport_ref": "21227",
+            "airport_ident": "KTTA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.625"
+        },
+        {
+            "id": "59743",
+            "airport_ref": "21227",
+            "airport_ident": "KTTA",
+            "type": "CLD",
+            "description": "RALEIGH CLNC DEL",
+            "frequency_mhz": "135.075"
+        },
+        {
+            "id": "59744",
+            "airport_ref": "21227",
+            "airport_ident": "KTTA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.075"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

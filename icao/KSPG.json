@@ -1,0 +1,134 @@
+{
+    "id": "21101",
+    "ident": "KSPG",
+    "type": "small_airport",
+    "name": "Albert Whitted Airport",
+    "latitude_deg": "27.7651",
+    "longitude_deg": "-82.626999",
+    "elevation_ft": "7",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "St Petersburg",
+    "scheduled_service": "no",
+    "gps_code": "KSPG",
+    "iata_code": "SPG",
+    "local_code": "SPG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Albert_Whitted_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241779",
+            "airport_ref": "21101",
+            "airport_ident": "KSPG",
+            "length_ft": "3677",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "27.7632",
+            "le_longitude_deg": "-82.6336",
+            "le_elevation_ft": "7",
+            "le_heading_degT": "62",
+            "le_displaced_threshold_ft": "558",
+            "he_ident": "25",
+            "he_latitude_deg": "27.7679",
+            "he_longitude_deg": "-82.6236",
+            "he_elevation_ft": "6",
+            "he_heading_degT": "242",
+            "he_displaced_threshold_ft": "263"
+        },
+        {
+            "id": "241780",
+            "airport_ref": "21101",
+            "airport_ident": "KSPG",
+            "length_ft": "2864",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "27.7685",
+            "le_longitude_deg": "-82.6249",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "27.7606",
+            "he_longitude_deg": "-82.6249",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62545",
+            "airport_ref": "21101",
+            "airport_ident": "KSPG",
+            "type": "A/D",
+            "description": "TAMPA APP/DEP",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "62546",
+            "airport_ref": "21101",
+            "airport_ident": "KSPG",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.875"
+        },
+        {
+            "id": "62547",
+            "airport_ref": "21101",
+            "airport_ident": "KSPG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "62548",
+            "airport_ref": "21101",
+            "airport_ident": "KSPG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "62549",
+            "airport_ref": "21101",
+            "airport_ident": "KSPG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "62550",
+            "airport_ref": "21101",
+            "airport_ident": "KSPG",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

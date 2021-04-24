@@ -1,0 +1,96 @@
+{
+    "id": "1951",
+    "ident": "CYWM",
+    "type": "small_airport",
+    "name": "Athabasca Airport",
+    "latitude_deg": "54.743099212646484",
+    "longitude_deg": "-113.20500183105469",
+    "elevation_ft": "1971",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Athabasca",
+    "scheduled_service": "no",
+    "gps_code": "CYWM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.athabascacounty.com/Safety%20and%20Utilities/AthabascaAirport.asp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Athabasca_Airport",
+    "keywords": "YWM",
+    "runways": [
+        {
+            "id": "234438",
+            "airport_ref": "1951",
+            "airport_ident": "CYWM",
+            "length_ft": "4000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "54.7486",
+            "le_longitude_deg": "-113.204",
+            "le_elevation_ft": "1966",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "54.7378",
+            "he_longitude_deg": "-113.204",
+            "he_elevation_ft": "1971",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49883",
+            "airport_ref": "1951",
+            "airport_ident": "CYWM",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95538",
+            "filename": "Athabasca_NDB-DME_CA",
+            "ident": "X2",
+            "name": "Athabasca",
+            "type": "NDB-DME",
+            "frequency_khz": "329",
+            "latitude_deg": "54.73749923706055",
+            "longitude_deg": "-113.19999694824219",
+            "elevation_ft": "1990",
+            "iso_country": "CA",
+            "dme_frequency_khz": "108600",
+            "dme_channel": "023X",
+            "dme_latitude_deg": "54.7372",
+            "dme_longitude_deg": "-113.2",
+            "dme_elevation_ft": "1990",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.025",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYWM"
+        }
+    ]
+}

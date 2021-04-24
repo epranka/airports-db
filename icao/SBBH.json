@@ -1,0 +1,158 @@
+{
+    "id": "5869",
+    "ident": "SBBH",
+    "type": "medium_airport",
+    "name": "Pampulha - Carlos Drummond de Andrade Airport",
+    "latitude_deg": "-19.851200103759766",
+    "longitude_deg": "-43.950599670410156",
+    "elevation_ft": "2589",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Belo Horizonte",
+    "scheduled_service": "yes",
+    "gps_code": "SBBH",
+    "iata_code": "PLU",
+    "local_code": "",
+    "home_link": "http://www.infraero.gov.br/usa/aero_prev_home.php?ai=204",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pampulha_Domestic_Airport",
+    "keywords": "BHZ",
+    "runways": [
+        {
+            "id": "234312",
+            "airport_ref": "5869",
+            "airport_ident": "SBBH",
+            "length_ft": "8333",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49800",
+            "airport_ref": "5869",
+            "airport_ident": "SBBH",
+            "type": "APP",
+            "description": "BELO HORIZONTE APP",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "49801",
+            "airport_ref": "5869",
+            "airport_ident": "SBBH",
+            "type": "ATIS",
+            "description": "BELO HORIZONTE ATIS",
+            "frequency_mhz": "127.45"
+        },
+        {
+            "id": "49802",
+            "airport_ref": "5869",
+            "airport_ident": "SBBH",
+            "type": "CLD",
+            "description": "BELO HORIZONTE TRAFF",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "49803",
+            "airport_ref": "5869",
+            "airport_ident": "SBBH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "49804",
+            "airport_ref": "5869",
+            "airport_ident": "SBBH",
+            "type": "OPS",
+            "description": "SAO PAULO OPS",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "49805",
+            "airport_ref": "5869",
+            "airport_ident": "SBBH",
+            "type": "TWR",
+            "description": "BELO HORIZONTE TWR",
+            "frequency_mhz": "118"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303209",
+        "code": "BR-MG",
+        "local_code": "MG",
+        "name": "Minas Gerais",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86031",
+            "filename": "Belo_Horizonte_VOR-DME_BR",
+            "ident": "BHZ",
+            "name": "Belo Horizonte",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "-19.835800170898438",
+            "longitude_deg": "-44.00360107421875",
+            "elevation_ft": "2889",
+            "iso_country": "BR",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.393",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "SBBH"
+        },
+        {
+            "id": "86032",
+            "filename": "Belo_Horizonte_NDB_BR",
+            "ident": "BHZ",
+            "name": "Belo Horizonte",
+            "type": "NDB",
+            "frequency_khz": "520",
+            "latitude_deg": "-19.853300094604492",
+            "longitude_deg": "-43.9547004699707",
+            "elevation_ft": "2589",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.424",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBBH"
+        }
+    ]
+}

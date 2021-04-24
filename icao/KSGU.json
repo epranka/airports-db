@@ -1,0 +1,104 @@
+{
+    "id": "21065",
+    "ident": "KSGU",
+    "type": "medium_airport",
+    "name": "St George Regional Airport",
+    "latitude_deg": "37.036389",
+    "longitude_deg": "-113.510306",
+    "elevation_ft": "2941",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "St George",
+    "scheduled_service": "yes",
+    "gps_code": "KSGU",
+    "iata_code": "SGU",
+    "local_code": "SGU",
+    "home_link": "http://www.sgcity.org/departments/publicworks/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/St._George_Regional_Airport",
+    "keywords": "DXZ",
+    "runways": [
+        {
+            "id": "340164",
+            "airport_ref": "21065",
+            "airport_ident": "KSGU",
+            "length_ft": "9300",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "1",
+            "le_latitude_deg": "37.0246",
+            "le_longitude_deg": "-113.517",
+            "le_elevation_ft": "2832",
+            "le_heading_degT": "23",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "37.0481",
+            "he_longitude_deg": "-113.504",
+            "he_elevation_ft": "2884",
+            "he_heading_degT": "203",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62889",
+            "airport_ref": "21065",
+            "airport_ident": "KSGU",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.075"
+        },
+        {
+            "id": "62890",
+            "airport_ref": "21065",
+            "airport_ident": "KSGU",
+            "type": "CLD",
+            "description": "LOS ANGELES CLNC DEL",
+            "frequency_mhz": "133.3"
+        },
+        {
+            "id": "62891",
+            "airport_ref": "21065",
+            "airport_ident": "KSGU",
+            "type": "CNTR",
+            "description": "LOS ANGELES CNTR",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "62892",
+            "airport_ref": "21065",
+            "airport_ident": "KSGU",
+            "type": "RDO",
+            "description": "CEDAR CITY RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "62893",
+            "airport_ref": "21065",
+            "airport_ident": "KSGU",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306121",
+        "code": "US-UT",
+        "local_code": "UT",
+        "name": "Utah",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "27383",
+    "ident": "YBIN",
+    "type": "small_airport",
+    "name": "Biggenden Airport",
+    "latitude_deg": "-25.524999618530273",
+    "longitude_deg": "152.0500030517578",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBIN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258293",
+            "airport_ref": "27383",
+            "airport_ident": "YBIN",
+            "length_ft": "2965",
+            "width_ft": "",
+            "surface": "G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72244",
+            "airport_ref": "27383",
+            "airport_ident": "YBIN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "72245",
+            "airport_ref": "27383",
+            "airport_ident": "YBIN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

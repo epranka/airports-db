@@ -1,0 +1,174 @@
+{
+    "id": "2472",
+    "ident": "EGQS",
+    "type": "medium_airport",
+    "name": "RAF Lossiemouth",
+    "latitude_deg": "57.7052001953125",
+    "longitude_deg": "-3.339169979095459",
+    "elevation_ft": "42",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Lossiemouth",
+    "scheduled_service": "no",
+    "gps_code": "EGQS",
+    "iata_code": "LMO",
+    "local_code": "",
+    "home_link": "http://www.raf.mod.uk/raflossiemouth/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Lossiemouth",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239452",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "length_ft": "9091",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "57.698",
+            "le_longitude_deg": "-3.35342",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "43.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "57.716",
+            "he_longitude_deg": "-3.32131",
+            "he_elevation_ft": "24",
+            "he_heading_degT": "223.7",
+            "he_displaced_threshold_ft": "305"
+        },
+        {
+            "id": "239453",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "length_ft": "6066",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "57.7073",
+            "le_longitude_deg": "-3.34384",
+            "le_elevation_ft": "39",
+            "le_heading_degT": "96.5",
+            "le_displaced_threshold_ft": "321",
+            "he_ident": "28",
+            "he_latitude_deg": "57.7054",
+            "he_longitude_deg": "-3.31301",
+            "he_elevation_ft": "37",
+            "he_heading_degT": "276.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58224",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "58225",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "26.477"
+        },
+        {
+            "id": "58226",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "119.35"
+        },
+        {
+            "id": "58227",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "DIR",
+            "description": "DIRECTOR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "58228",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "58229",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "OPS",
+            "description": "OPERATIONS",
+            "frequency_mhz": "36.93"
+        },
+        {
+            "id": "58230",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "RDR",
+            "description": "RDR",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "58231",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306377",
+        "code": "GB-SCT",
+        "local_code": "SCT",
+        "name": "Scotland",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
+        "keywords": "keep"
+    },
+    "navaids": [
+        {
+            "id": "90011",
+            "filename": "Kinloss_TACAN_GB",
+            "ident": "KSS",
+            "name": "Kinloss",
+            "type": "TACAN",
+            "frequency_khz": "109800",
+            "latitude_deg": "57.6593017578125",
+            "longitude_deg": "-3.5351099967956543",
+            "elevation_ft": "75",
+            "iso_country": "GB",
+            "dme_frequency_khz": "109800",
+            "dme_channel": "035X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.012",
+            "magnetic_variation_deg": "-4.546",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGQS"
+        }
+    ]
+}

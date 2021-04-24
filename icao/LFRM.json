@@ -1,0 +1,96 @@
+{
+    "id": "4217",
+    "ident": "LFRM",
+    "type": "medium_airport",
+    "name": "Le Mans-Arnage Airport",
+    "latitude_deg": "47.94860076904297",
+    "longitude_deg": "0.20166699588298798",
+    "elevation_ft": "194",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-PDL",
+    "municipality": "Le Mans/Arnage",
+    "scheduled_service": "no",
+    "gps_code": "LFRM",
+    "iata_code": "LME",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236048",
+            "airport_ref": "4217",
+            "airport_ident": "LFRM",
+            "length_ft": "4658",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "47.9419",
+            "le_longitude_deg": "0.197989",
+            "le_elevation_ft": "160",
+            "le_heading_degT": "20",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "47.9538",
+            "he_longitude_deg": "0.204592",
+            "he_elevation_ft": "182",
+            "he_heading_degT": "200",
+            "he_displaced_threshold_ft": "918"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52622",
+            "airport_ref": "4217",
+            "airport_ident": "LFRM",
+            "type": "TWR",
+            "description": "LE MANS TWR",
+            "frequency_mhz": "125.9"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306336",
+        "code": "FR-PDL",
+        "local_code": "PDL",
+        "name": "Pays-de-la-Loire",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pays-de-la-Loire",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90410",
+            "filename": "Le_Mans_NDB_FR",
+            "ident": "LM",
+            "name": "Le Mans",
+            "type": "NDB",
+            "frequency_khz": "326",
+            "latitude_deg": "47.89360046386719",
+            "longitude_deg": "0.17138899862766266",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.418",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LFRM"
+        }
+    ]
+}

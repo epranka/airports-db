@@ -1,0 +1,126 @@
+{
+    "id": "5296",
+    "ident": "ORSH",
+    "type": "medium_airport",
+    "name": "Al Sahra Army Air Field",
+    "latitude_deg": "34.673199",
+    "longitude_deg": "43.542999",
+    "elevation_ft": "451",
+    "continent": "AS",
+    "iso_country": "IQ",
+    "iso_region": "IQ-SD",
+    "municipality": "Tikrit",
+    "scheduled_service": "no",
+    "gps_code": "ORSH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Camp Speicher",
+    "runways": [
+        {
+            "id": "237103",
+            "airport_ref": "5296",
+            "airport_ident": "ORSH",
+            "length_ft": "7341",
+            "width_ft": "165",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "14L",
+            "le_latitude_deg": "34.6883",
+            "le_longitude_deg": "43.545",
+            "le_elevation_ft": "438",
+            "le_heading_degT": "142.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32R",
+            "he_latitude_deg": "34.6723",
+            "he_longitude_deg": "43.5599",
+            "he_elevation_ft": "427",
+            "he_heading_degT": "322.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "237102",
+            "airport_ref": "5296",
+            "airport_ident": "ORSH",
+            "length_ft": "10225",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14R",
+            "le_latitude_deg": "34.6793",
+            "le_longitude_deg": "43.5259",
+            "le_elevation_ft": "450",
+            "le_heading_degT": "142.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32L",
+            "he_latitude_deg": "34.657",
+            "he_longitude_deg": "43.5466",
+            "he_elevation_ft": "432",
+            "he_heading_degT": "322.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54426",
+            "airport_ref": "5296",
+            "airport_ident": "ORSH",
+            "type": "APP",
+            "description": "KIRKUK APP",
+            "frequency_mhz": "129.75"
+        },
+        {
+            "id": "54427",
+            "airport_ref": "5296",
+            "airport_ident": "ORSH",
+            "type": "ARR",
+            "description": "BAGHDAD ARR",
+            "frequency_mhz": "128.2"
+        },
+        {
+            "id": "54428",
+            "airport_ref": "5296",
+            "airport_ident": "ORSH",
+            "type": "GCA",
+            "description": "SPEICHER GCA",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "54429",
+            "airport_ref": "5296",
+            "airport_ident": "ORSH",
+            "type": "POST",
+            "description": "KINGFISH QUEBEC",
+            "frequency_mhz": "22.817"
+        },
+        {
+            "id": "54430",
+            "airport_ref": "5296",
+            "airport_ident": "ORSH",
+            "type": "TWR",
+            "description": "SPEICHER TWR",
+            "frequency_mhz": "141.55"
+        }
+    ],
+    "country": {
+        "id": "302636",
+        "code": "IQ",
+        "name": "Iraq",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iraq",
+        "keywords": "مطارات العراق"
+    },
+    "region": {
+        "id": "304214",
+        "code": "IQ-SD",
+        "local_code": "SD",
+        "name": "Salah ad Din Governorate",
+        "continent": "AS",
+        "iso_country": "IQ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Salah_ad_Din_Governorate",
+        "keywords": "صلاح الدين"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "20242",
+    "ident": "KK19",
+    "type": "small_airport",
+    "name": "Albany Municipal Airport",
+    "latitude_deg": "40.262199401855",
+    "longitude_deg": "-94.338996887207",
+    "elevation_ft": "886",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Albany",
+    "scheduled_service": "no",
+    "gps_code": "K19",
+    "iata_code": "",
+    "local_code": "K19",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Albany_Municipal_Airport_(Missouri)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240145",
+            "airport_ref": "20242",
+            "airport_ident": "KK19",
+            "length_ft": "3300",
+            "width_ft": "50",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "40.2575",
+            "le_longitude_deg": "-94.3411",
+            "le_elevation_ft": "",
+            "le_heading_degT": "12.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "40.2664",
+            "he_longitude_deg": "-94.3386",
+            "he_elevation_ft": "",
+            "he_heading_degT": "192.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59539",
+            "airport_ref": "20242",
+            "airport_ident": "KK19",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

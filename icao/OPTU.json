@@ -1,0 +1,104 @@
+{
+    "id": "5283",
+    "ident": "OPTU",
+    "type": "medium_airport",
+    "name": "Turbat International Airport",
+    "latitude_deg": "25.986400604248047",
+    "longitude_deg": "63.03020095825195",
+    "elevation_ft": "498",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-BA",
+    "municipality": "Turbat",
+    "scheduled_service": "yes",
+    "gps_code": "OPTU",
+    "iata_code": "TUK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Turbat_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238217",
+            "airport_ref": "5283",
+            "airport_ident": "OPTU",
+            "length_ft": "6000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "25.9854",
+            "le_longitude_deg": "63.0212",
+            "le_elevation_ft": "483",
+            "le_heading_degT": "83.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "25.9874",
+            "he_longitude_deg": "63.0392",
+            "he_elevation_ft": "498",
+            "he_heading_degT": "263.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56178",
+            "airport_ref": "5283",
+            "airport_ident": "OPTU",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "56179",
+            "airport_ref": "5283",
+            "airport_ident": "OPTU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302657",
+        "code": "PK",
+        "name": "Pakistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pakistan",
+        "keywords": "پاکستان کے ہوائی اڈوں"
+    },
+    "region": {
+        "id": "305135",
+        "code": "PK-BA",
+        "local_code": "BA",
+        "name": "Balochistan",
+        "continent": "AS",
+        "iso_country": "PK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balochistan",
+        "keywords": "Baluchistan"
+    },
+    "navaids": [
+        {
+            "id": "94659",
+            "filename": "Turbat_NDB_PK",
+            "ident": "TU",
+            "name": "Turbat",
+            "type": "NDB",
+            "frequency_khz": "237",
+            "latitude_deg": "25.990100860595703",
+            "longitude_deg": "63.02980041503906",
+            "elevation_ft": "533",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.546",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OPTU"
+        }
+    ]
+}

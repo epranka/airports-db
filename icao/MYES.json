@@ -1,0 +1,72 @@
+{
+    "id": "4945",
+    "ident": "MYES",
+    "type": "medium_airport",
+    "name": "Staniel Cay Airport",
+    "latitude_deg": "24.169099807739258",
+    "longitude_deg": "-76.43910217285156",
+    "elevation_ft": "5",
+    "continent": "NA",
+    "iso_country": "BS",
+    "iso_region": "BS-EX",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "MYES",
+    "iata_code": "TYM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233642",
+            "airport_ref": "4945",
+            "airport_ident": "MYES",
+            "length_ft": "3030",
+            "width_ft": "75",
+            "surface": "BIT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "24.1731",
+            "le_longitude_deg": "-76.4403",
+            "le_elevation_ft": "",
+            "le_heading_degT": "164",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "24.1651",
+            "he_longitude_deg": "-76.4378",
+            "he_elevation_ft": "",
+            "he_heading_degT": "344",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49369",
+            "airport_ref": "4945",
+            "airport_ident": "MYES",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302728",
+        "code": "BS",
+        "name": "Bahamas",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahamas",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303230",
+        "code": "BS-EX",
+        "local_code": "EX",
+        "name": "Exuma",
+        "continent": "NA",
+        "iso_country": "BS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Exuma",
+        "keywords": ""
+    }
+}

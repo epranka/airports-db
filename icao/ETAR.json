@@ -1,0 +1,182 @@
+{
+    "id": "2718",
+    "ident": "ETAR",
+    "type": "large_airport",
+    "name": "Ramstein Air Base",
+    "latitude_deg": "49.4369010925293",
+    "longitude_deg": "7.600279808044434",
+    "elevation_ft": "776",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Ramstein",
+    "scheduled_service": "no",
+    "gps_code": "ETAR",
+    "iata_code": "RMS",
+    "local_code": "",
+    "home_link": "http://www.ramstein.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ramstein_Air_Base",
+    "keywords": "Landstuhl Air Base",
+    "runways": [
+        {
+            "id": "236180",
+            "airport_ref": "2718",
+            "airport_ident": "ETAR",
+            "length_ft": "10498",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "49.4326",
+            "le_longitude_deg": "7.57883",
+            "le_elevation_ft": "761",
+            "le_heading_degT": "82.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "49.4364",
+            "he_longitude_deg": "7.62254",
+            "he_elevation_ft": "776",
+            "he_heading_degT": "262.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "236181",
+            "airport_ref": "2718",
+            "airport_ident": "ETAR",
+            "length_ft": "9278",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "09",
+            "le_latitude_deg": "49.4361",
+            "le_longitude_deg": "7.58092",
+            "le_elevation_ft": "769",
+            "le_heading_degT": "86.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "49.4377",
+            "he_longitude_deg": "7.6197",
+            "he_elevation_ft": "782",
+            "he_heading_degT": "266.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52879",
+            "airport_ref": "2718",
+            "airport_ident": "ETAR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.275"
+        },
+        {
+            "id": "52880",
+            "airport_ref": "2718",
+            "airport_ident": "ETAR",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "140.9"
+        },
+        {
+            "id": "52881",
+            "airport_ref": "2718",
+            "airport_ident": "ETAR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.775"
+        },
+        {
+            "id": "52882",
+            "airport_ref": "2718",
+            "airport_ident": "ETAR",
+            "type": "OPS",
+            "description": "AMC AIRLIFT AMCC",
+            "frequency_mhz": "131.975"
+        },
+        {
+            "id": "52883",
+            "airport_ref": "2718",
+            "airport_ident": "ETAR",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "28.442"
+        },
+        {
+            "id": "52884",
+            "airport_ref": "2718",
+            "airport_ident": "ETAR",
+            "type": "POST",
+            "description": "WING COMD POST",
+            "frequency_mhz": "37.267"
+        },
+        {
+            "id": "52885",
+            "airport_ref": "2718",
+            "airport_ident": "ETAR",
+            "type": "PTD",
+            "description": "DISPATCH",
+            "frequency_mhz": "36.912"
+        },
+        {
+            "id": "52886",
+            "airport_ref": "2718",
+            "airport_ident": "ETAR",
+            "type": "RDR",
+            "description": "LANGEN RADAR",
+            "frequency_mhz": "129.675"
+        },
+        {
+            "id": "52887",
+            "airport_ref": "2718",
+            "airport_ident": "ETAR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "133.2"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303557",
+        "code": "DE-RP",
+        "local_code": "RP",
+        "name": "Rhineland-Palatinate",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rhineland-Palatinate",
+        "keywords": "Rheinland-Pfalz"
+    },
+    "navaids": [
+        {
+            "id": "93147",
+            "filename": "Ramstein_TACAN_DE",
+            "ident": "RMS",
+            "name": "Ramstein",
+            "type": "TACAN",
+            "frequency_khz": "113400",
+            "latitude_deg": "49.43470001220703",
+            "longitude_deg": "7.5856499671936035",
+            "elevation_ft": "762",
+            "iso_country": "DE",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.305",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETAR"
+        }
+    ]
+}

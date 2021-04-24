@@ -1,0 +1,110 @@
+{
+    "id": "19488",
+    "ident": "KCGC",
+    "type": "small_airport",
+    "name": "Crystal River Airport",
+    "latitude_deg": "28.867300033569336",
+    "longitude_deg": "-82.57129669189453",
+    "elevation_ft": "9",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Crystal River",
+    "scheduled_service": "no",
+    "gps_code": "KCGC",
+    "iata_code": "",
+    "local_code": "CGC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244384",
+            "airport_ref": "19488",
+            "airport_ident": "KCGC",
+            "length_ft": "4555",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "28.8673",
+            "le_longitude_deg": "-82.5784",
+            "le_elevation_ft": "7",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "28.8672",
+            "he_longitude_deg": "-82.5642",
+            "he_elevation_ft": "9",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244385",
+            "airport_ref": "19488",
+            "airport_ident": "KCGC",
+            "length_ft": "3020",
+            "width_ft": "100",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "28.8728",
+            "le_longitude_deg": "-82.579",
+            "le_elevation_ft": "9",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "517",
+            "he_ident": "36",
+            "he_latitude_deg": "28.8644",
+            "he_longitude_deg": "-82.579",
+            "he_elevation_ft": "9",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "840"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67979",
+            "airport_ref": "19488",
+            "airport_ident": "KCGC",
+            "type": "A/D",
+            "description": "JACKSONVILLE APP/DEP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "67980",
+            "airport_ref": "19488",
+            "airport_ident": "KCGC",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "67981",
+            "airport_ref": "19488",
+            "airport_ident": "KCGC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.725"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

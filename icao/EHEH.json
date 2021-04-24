@@ -1,0 +1,150 @@
+{
+    "id": "2518",
+    "ident": "EHEH",
+    "type": "large_airport",
+    "name": "Eindhoven Airport",
+    "latitude_deg": "51.4500999451",
+    "longitude_deg": "5.37452983856",
+    "elevation_ft": "74",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-NB",
+    "municipality": "Eindhoven",
+    "scheduled_service": "yes",
+    "gps_code": "EHEH",
+    "iata_code": "EIN",
+    "local_code": "",
+    "home_link": "http://www.eindhovenairport.nl/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Eindhoven_Airport",
+    "keywords": "Welschap Airport",
+    "runways": [
+        {
+            "id": "237941",
+            "airport_ref": "2518",
+            "airport_ident": "EHEH",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "51.4391",
+            "le_longitude_deg": "5.36213",
+            "le_elevation_ft": "73",
+            "le_heading_degT": "35",
+            "le_displaced_threshold_ft": "821",
+            "he_ident": "21",
+            "he_latitude_deg": "51.4612",
+            "he_longitude_deg": "5.38689",
+            "he_elevation_ft": "67",
+            "he_heading_degT": "215",
+            "he_displaced_threshold_ft": "821"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55778",
+            "airport_ref": "2518",
+            "airport_ident": "EHEH",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "123.18"
+        },
+        {
+            "id": "55779",
+            "airport_ref": "2518",
+            "airport_ident": "EHEH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.03"
+        },
+        {
+            "id": "55780",
+            "airport_ref": "2518",
+            "airport_ident": "EHEH",
+            "type": "DIR",
+            "description": "ARRIVAL",
+            "frequency_mhz": "124.53"
+        },
+        {
+            "id": "55781",
+            "airport_ref": "2518",
+            "airport_ident": "EHEH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.93"
+        },
+        {
+            "id": "55782",
+            "airport_ref": "2518",
+            "airport_ident": "EHEH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "131.005"
+        }
+    ],
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland,Luchthavens van Nederland"
+    },
+    "region": {
+        "id": "304938",
+        "code": "NL-NB",
+        "local_code": "NB",
+        "name": "Noord-Brabant",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Brabant",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87692",
+            "filename": "Eindhoven_NDB_NL",
+            "ident": "EHN",
+            "name": "Eindhoven",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "51.46780014038086",
+            "longitude_deg": "5.394999980926514",
+            "elevation_ft": "59",
+            "iso_country": "NL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.193",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EHEH"
+        },
+        {
+            "id": "87693",
+            "filename": "Eindhoven_TACAN_NL",
+            "ident": "EHV",
+            "name": "Eindhoven",
+            "type": "TACAN",
+            "frequency_khz": "117200",
+            "latitude_deg": "51.44810104370117",
+            "longitude_deg": "5.375",
+            "elevation_ft": "81",
+            "iso_country": "NL",
+            "dme_frequency_khz": "117200",
+            "dme_channel": "119X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-0.196",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EHEH"
+        }
+    ]
+}

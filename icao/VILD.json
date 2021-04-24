@@ -1,0 +1,104 @@
+{
+    "id": "26568",
+    "ident": "VILD",
+    "type": "medium_airport",
+    "name": "Ludhiana Airport",
+    "latitude_deg": "30.854700088500977",
+    "longitude_deg": "75.95259857177734",
+    "elevation_ft": "834",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-PB",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "VILD",
+    "iata_code": "LUH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sahnewal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236722",
+            "airport_ref": "26568",
+            "airport_ident": "VILD",
+            "length_ft": "4800",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "30.8579",
+            "le_longitude_deg": "75.9459",
+            "le_elevation_ft": "833",
+            "le_heading_degT": "119",
+            "le_displaced_threshold_ft": "185",
+            "he_ident": "30",
+            "he_latitude_deg": "30.8515",
+            "he_longitude_deg": "75.9593",
+            "he_elevation_ft": "833",
+            "he_heading_degT": "299",
+            "he_displaced_threshold_ft": "225"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53901",
+            "airport_ref": "26568",
+            "airport_ident": "VILD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "75418",
+            "airport_ref": "26568",
+            "airport_ident": "VILD",
+            "type": "watch hours 1030",
+            "description": "",
+            "frequency_mhz": "0"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304189",
+        "code": "IN-PB",
+        "local_code": "PB",
+        "name": "Punjab",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90242",
+            "filename": "Ludhiana_NDB_IN",
+            "ident": "LD",
+            "name": "Ludhiana",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "30.859500885009766",
+            "longitude_deg": "75.9646987915039",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.123",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VILD"
+        }
+    ]
+}

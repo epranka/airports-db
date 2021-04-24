@@ -1,0 +1,136 @@
+{
+    "id": "3982",
+    "ident": "LCRA",
+    "type": "large_airport",
+    "name": "RAF Akrotiri",
+    "latitude_deg": "34.590401",
+    "longitude_deg": "32.9879",
+    "elevation_ft": "76",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-U-A",
+    "municipality": "Akrotiri",
+    "scheduled_service": "no",
+    "gps_code": "LCRA",
+    "iata_code": "AKT",
+    "local_code": "",
+    "home_link": "http://www.raf.mod.uk/rafakrotiri/passengerinformation/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Akrotiri",
+    "keywords": "Royal Air Force,",
+    "runways": [
+        {
+            "id": "235444",
+            "airport_ref": "3982",
+            "airport_ident": "LCRA",
+            "length_ft": "9002",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "34.5942",
+            "le_longitude_deg": "32.9735",
+            "le_elevation_ft": "71",
+            "le_heading_degT": "108",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "34.5867",
+            "he_longitude_deg": "33.002",
+            "he_elevation_ft": "76",
+            "he_heading_degT": "288",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51693",
+            "airport_ref": "3982",
+            "airport_ident": "LCRA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51694",
+            "airport_ref": "3982",
+            "airport_ident": "LCRA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "28.82"
+        },
+        {
+            "id": "51695",
+            "airport_ref": "3982",
+            "airport_ident": "LCRA",
+            "type": "DIR",
+            "description": "DIRECTOR",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51696",
+            "airport_ref": "3982",
+            "airport_ident": "LCRA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "26.1"
+        },
+        {
+            "id": "51697",
+            "airport_ref": "3982",
+            "airport_ident": "LCRA",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "23.405"
+        },
+        {
+            "id": "51698",
+            "airport_ref": "3982",
+            "airport_ident": "LCRA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "303830",
+        "code": "GB-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "",
+        "keywords": "keep"
+    },
+    "navaids": [
+        {
+            "id": "85375",
+            "filename": "Akrotiri_TACAN_CY",
+            "ident": "AKR",
+            "name": "Akrotiri",
+            "type": "TACAN",
+            "frequency_khz": "116000",
+            "latitude_deg": "34.57939910888672",
+            "longitude_deg": "32.962799072265625",
+            "elevation_ft": "237",
+            "iso_country": "CY",
+            "dme_frequency_khz": "116000",
+            "dme_channel": "107X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.515",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LCRA"
+        }
+    ]
+}

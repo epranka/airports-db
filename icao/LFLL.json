@@ -1,0 +1,150 @@
+{
+    "id": "4137",
+    "ident": "LFLL",
+    "type": "large_airport",
+    "name": "Lyon Saint-Exupéry Airport",
+    "latitude_deg": "45.725556",
+    "longitude_deg": "5.081111",
+    "elevation_ft": "821",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Lyon",
+    "scheduled_service": "yes",
+    "gps_code": "LFLL",
+    "iata_code": "LYS",
+    "local_code": "",
+    "home_link": "https://www.lyonaeroports.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Saint-Exup%C3%A9ry_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235875",
+            "airport_ref": "4137",
+            "airport_ident": "LFLL",
+            "length_ft": "8760",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17L",
+            "le_latitude_deg": "45.7349",
+            "le_longitude_deg": "5.09187",
+            "le_elevation_ft": "780",
+            "le_heading_degT": "175",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35R",
+            "he_latitude_deg": "45.711",
+            "he_longitude_deg": "5.09478",
+            "he_elevation_ft": "821",
+            "he_heading_degT": "355",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "235874",
+            "airport_ref": "4137",
+            "airport_ident": "LFLL",
+            "length_ft": "13124",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17R",
+            "le_latitude_deg": "45.7466",
+            "le_longitude_deg": "5.08594",
+            "le_elevation_ft": "758",
+            "le_heading_degT": "175",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35L",
+            "he_latitude_deg": "45.7107",
+            "he_longitude_deg": "5.0903",
+            "he_elevation_ft": "813",
+            "he_heading_degT": "355",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52290",
+            "airport_ref": "4137",
+            "airport_ident": "LFLL",
+            "type": "A/D",
+            "description": "Lyon approach",
+            "frequency_mhz": "136.075"
+        },
+        {
+            "id": "52291",
+            "airport_ref": "4137",
+            "airport_ident": "LFLL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.175"
+        },
+        {
+            "id": "52292",
+            "airport_ref": "4137",
+            "airport_ident": "LFLL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.825"
+        },
+        {
+            "id": "52294",
+            "airport_ref": "4137",
+            "airport_ident": "LFLL",
+            "type": "PFLT",
+            "description": "PREFLIGHT",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "52295",
+            "airport_ref": "4137",
+            "airport_ident": "LFLL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.45"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306351",
+        "code": "FR-ARA",
+        "local_code": "ARA",
+        "name": "Auvergne-Rhône-Alpes",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90547",
+            "filename": "Lyon_Saint_Exupery_VOR-DME_FR",
+            "ident": "LSE",
+            "name": "Lyon/Saint Exupery",
+            "type": "VOR-DME",
+            "frequency_khz": "114750",
+            "latitude_deg": "45.74549865722656",
+            "longitude_deg": "5.090579986572266",
+            "elevation_ft": "821",
+            "iso_country": "FR",
+            "dme_frequency_khz": "114750",
+            "dme_channel": "094Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-0.006",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFLL"
+        }
+    ]
+}

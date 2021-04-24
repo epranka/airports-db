@@ -1,0 +1,112 @@
+{
+    "id": "2871",
+    "ident": "FCPP",
+    "type": "medium_airport",
+    "name": "Antonio Agostinho-Neto International Airport",
+    "latitude_deg": "-4.81603",
+    "longitude_deg": "11.8866",
+    "elevation_ft": "55",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-5",
+    "municipality": "Pointe Noire",
+    "scheduled_service": "yes",
+    "gps_code": "FCPP",
+    "iata_code": "PNR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Agostinho-Neto_International_Airport",
+    "keywords": "Pointe Noire",
+    "runways": [
+        {
+            "id": "235125",
+            "airport_ref": "2871",
+            "airport_ident": "FCPP",
+            "length_ft": "8530",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "-4.80462",
+            "le_longitude_deg": "11.8838",
+            "le_elevation_ft": "54",
+            "le_heading_degT": "166",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "-4.82743",
+            "he_longitude_deg": "11.8894",
+            "he_elevation_ft": "52",
+            "he_heading_degT": "346",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51108",
+            "airport_ref": "2871",
+            "airport_ident": "FCPP",
+            "type": "A/G",
+            "description": "A/G",
+            "frequency_mhz": "549.3"
+        },
+        {
+            "id": "51109",
+            "airport_ref": "2871",
+            "airport_ident": "FCPP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "51110",
+            "airport_ref": "2871",
+            "airport_ident": "FCPP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.3"
+        }
+    ],
+    "country": {
+        "id": "302563",
+        "code": "CG",
+        "name": "Congo (Brazzaville)",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Congo_(Brazzaville)",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303346",
+        "code": "CG-5",
+        "local_code": "5",
+        "name": "Kouilou Department",
+        "continent": "AF",
+        "iso_country": "CG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kouilou_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89357",
+            "filename": "Pointe_Noire_VOR_CG",
+            "ident": "IT",
+            "name": "Pointe Noire",
+            "type": "VOR",
+            "frequency_khz": "114100",
+            "latitude_deg": "-4.8232197761535645",
+            "longitude_deg": "11.887399673461914",
+            "elevation_ft": "55",
+            "iso_country": "CG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.284",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FCPP"
+        }
+    ]
+}

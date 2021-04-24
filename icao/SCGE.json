@@ -1,0 +1,96 @@
+{
+    "id": "6022",
+    "ident": "SCGE",
+    "type": "small_airport",
+    "name": "María Dolores Airport",
+    "latitude_deg": "-37.40169906616211",
+    "longitude_deg": "-72.42539978027344",
+    "elevation_ft": "374",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-BI",
+    "municipality": "Los Angeles",
+    "scheduled_service": "no",
+    "gps_code": "SCGE",
+    "iata_code": "LSQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235218",
+            "airport_ref": "6022",
+            "airport_ident": "SCGE",
+            "length_ft": "5577",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-37.3941",
+            "le_longitude_deg": "-72.4246",
+            "le_elevation_ft": "363",
+            "le_heading_degT": "185.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-37.4094",
+            "he_longitude_deg": "-72.4263",
+            "he_elevation_ft": "370",
+            "he_heading_degT": "5.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51312",
+            "airport_ref": "6022",
+            "airport_ident": "SCGE",
+            "type": "INFO",
+            "description": "LOS ANGELES INFO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303401",
+        "code": "CL-BI",
+        "local_code": "BI",
+        "name": "Bío-Bío Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bío-Bío_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90715",
+            "filename": "Los_Angeles_VOR_CL",
+            "ident": "MAD",
+            "name": "Los Angeles",
+            "type": "VOR",
+            "frequency_khz": "112900",
+            "latitude_deg": "-37.406700134277344",
+            "longitude_deg": "-72.42469787597656",
+            "elevation_ft": "374",
+            "iso_country": "CL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.058",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SCGE"
+        }
+    ]
+}

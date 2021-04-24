@@ -1,0 +1,110 @@
+{
+    "id": "18489",
+    "ident": "KORK",
+    "type": "small_airport",
+    "name": "North Little Rock Municipal Airport",
+    "latitude_deg": "34.83309937",
+    "longitude_deg": "-92.25409698",
+    "elevation_ft": "545",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "North Little Rock",
+    "scheduled_service": "no",
+    "gps_code": "KORK",
+    "iata_code": "",
+    "local_code": "ORK",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/North_Little_Rock_Municipal_Airport",
+    "keywords": "1M1",
+    "runways": [
+        {
+            "id": "244697",
+            "airport_ref": "18489",
+            "airport_ident": "KORK",
+            "length_ft": "5002",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "34.8286",
+            "le_longitude_deg": "-92.259",
+            "le_elevation_ft": "541",
+            "le_heading_degT": "55",
+            "le_displaced_threshold_ft": "1000",
+            "he_ident": "23",
+            "he_latitude_deg": "34.8364",
+            "he_longitude_deg": "-92.2453",
+            "he_elevation_ft": "518",
+            "he_heading_degT": "235",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244698",
+            "airport_ref": "18489",
+            "airport_ident": "KORK",
+            "length_ft": "3019",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "34.8383",
+            "le_longitude_deg": "-92.2574",
+            "le_elevation_ft": "544",
+            "le_heading_degT": "179.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "34.8301",
+            "he_longitude_deg": "-92.2574",
+            "he_elevation_ft": "541",
+            "he_heading_degT": "359.7",
+            "he_displaced_threshold_ft": "500"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68660",
+            "airport_ref": "18489",
+            "airport_ident": "KORK",
+            "type": "A/D",
+            "description": "LITTLE ROCK APP/DEP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "68661",
+            "airport_ref": "18489",
+            "airport_ident": "KORK",
+            "type": "CLD",
+            "description": "LITTLE ROCK CLNC DEL",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "68662",
+            "airport_ref": "18489",
+            "airport_ident": "KORK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.07"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

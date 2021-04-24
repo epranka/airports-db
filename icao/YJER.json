@@ -1,0 +1,88 @@
+{
+    "id": "27652",
+    "ident": "YJER",
+    "type": "small_airport",
+    "name": "Jerilderie Airport",
+    "latitude_deg": "-35.369998931884766",
+    "longitude_deg": "145.72500610351562",
+    "elevation_ft": "110",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YJER",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258769",
+            "airport_ref": "27652",
+            "airport_ident": "YJER",
+            "length_ft": "3700",
+            "width_ft": "",
+            "surface": "B",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "73294",
+            "airport_ref": "27652",
+            "airport_ident": "YJER",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "73296",
+            "airport_ref": "27652",
+            "airport_ident": "YJER",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "73295",
+            "airport_ref": "27652",
+            "airport_ident": "YJER",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.3"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    }
+}

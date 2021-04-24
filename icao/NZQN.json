@@ -1,0 +1,158 @@
+{
+    "id": "5051",
+    "ident": "NZQN",
+    "type": "medium_airport",
+    "name": "Queenstown International Airport",
+    "latitude_deg": "-45.021099",
+    "longitude_deg": "168.738998",
+    "elevation_ft": "1171",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "Queenstown",
+    "scheduled_service": "yes",
+    "gps_code": "NZQN",
+    "iata_code": "ZQN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Queenstown_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238105",
+            "airport_ref": "5051",
+            "airport_ident": "NZQN",
+            "length_ft": "6204",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "-45.0218",
+            "le_longitude_deg": "168.735",
+            "le_elevation_ft": "1160",
+            "le_heading_degT": "76",
+            "le_displaced_threshold_ft": "196",
+            "he_ident": "23",
+            "he_latitude_deg": "-45.0178",
+            "he_longitude_deg": "168.758",
+            "he_elevation_ft": "1171",
+            "he_heading_degT": "256",
+            "he_displaced_threshold_ft": "171"
+        },
+        {
+            "id": "238107",
+            "airport_ref": "5051",
+            "airport_ident": "NZQN",
+            "length_ft": "3097",
+            "width_ft": "197",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-45.0189",
+            "le_longitude_deg": "168.741",
+            "le_elevation_ft": "1168",
+            "le_heading_degT": "164.5",
+            "le_displaced_threshold_ft": "33",
+            "he_ident": "32",
+            "he_latitude_deg": "-45.0267",
+            "he_longitude_deg": "168.744",
+            "he_elevation_ft": "1159",
+            "he_heading_degT": "344.5",
+            "he_displaced_threshold_ft": "66"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56029",
+            "airport_ref": "5051",
+            "airport_ident": "NZQN",
+            "type": "AFIS",
+            "description": "FIS",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "56030",
+            "airport_ref": "5051",
+            "airport_ident": "NZQN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "56031",
+            "airport_ref": "5051",
+            "airport_ident": "NZQN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.4"
+        },
+        {
+            "id": "56032",
+            "airport_ref": "5051",
+            "airport_ident": "NZQN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "56033",
+            "airport_ref": "5051",
+            "airport_ident": "NZQN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "56034",
+            "airport_ref": "5051",
+            "airport_ident": "NZQN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302776",
+        "code": "NZ",
+        "name": "New Zealand",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Zealand",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304979",
+        "code": "NZ-OTA",
+        "local_code": "OTA",
+        "name": "Otago Region",
+        "continent": "OC",
+        "iso_country": "NZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Otago",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93568",
+            "filename": "Slope_Hill_VOR-DME_NZ",
+            "ident": "SH",
+            "name": "Slope Hill",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "-44.984100341796875",
+            "longitude_deg": "168.7830047607422",
+            "elevation_ft": "1394",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "23.007",
+            "magnetic_variation_deg": "23.484",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NZQN"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "2295",
+    "ident": "EDXR",
+    "type": "small_airport",
+    "name": "Rendsburg-Schachtholm Airfield",
+    "latitude_deg": "54.220001",
+    "longitude_deg": "9.599444",
+    "elevation_ft": "23",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-SH",
+    "municipality": "Rendsburg",
+    "scheduled_service": "no",
+    "gps_code": "EDXR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236251",
+            "airport_ref": "2295",
+            "airport_ident": "EDXR",
+            "length_ft": "3150",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "54.2174",
+            "le_longitude_deg": "9.59662",
+            "le_elevation_ft": "23",
+            "le_heading_degT": "35",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "54.2245",
+            "he_longitude_deg": "9.60496",
+            "he_elevation_ft": "23",
+            "he_heading_degT": "215",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "236252",
+            "airport_ref": "2295",
+            "airport_ident": "EDXR",
+            "length_ft": "1969",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "54.2195",
+            "le_longitude_deg": "9.59825",
+            "le_elevation_ft": "",
+            "le_heading_degT": "119",
+            "le_displaced_threshold_ft": "295",
+            "he_ident": "30",
+            "he_latitude_deg": "54.2169",
+            "he_longitude_deg": "9.60633",
+            "he_elevation_ft": "",
+            "he_heading_degT": "299",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53085",
+            "airport_ref": "2295",
+            "airport_ident": "EDXR",
+            "type": "AFIS",
+            "description": "BREMEN INFO",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "53086",
+            "airport_ref": "2295",
+            "airport_ident": "EDXR",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "123.655"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303558",
+        "code": "DE-SH",
+        "local_code": "SH",
+        "name": "Schleswig-Holstein",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Schleswig-Holstein",
+        "keywords": ""
+    }
+}

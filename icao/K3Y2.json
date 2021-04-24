@@ -1,0 +1,80 @@
+{
+    "id": "18753",
+    "ident": "K3Y2",
+    "type": "small_airport",
+    "name": "George L Scott Municipal Airport",
+    "latitude_deg": "42.98509979248047",
+    "longitude_deg": "-91.79060363769531",
+    "elevation_ft": "1232",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "West Union",
+    "scheduled_service": "no",
+    "gps_code": "K3Y2",
+    "iata_code": "",
+    "local_code": "3Y2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241642",
+            "airport_ref": "18753",
+            "airport_ident": "K3Y2",
+            "length_ft": "4248",
+            "width_ft": "50",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "42.9909",
+            "le_longitude_deg": "-91.7916",
+            "le_elevation_ft": "1232",
+            "le_heading_degT": "172.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "42.9793",
+            "he_longitude_deg": "-91.7896",
+            "he_elevation_ft": "1195",
+            "he_heading_degT": "352.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62292",
+            "airport_ref": "18753",
+            "airport_ident": "K3Y2",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "62293",
+            "airport_ref": "18753",
+            "airport_ident": "K3Y2",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "4104",
+    "ident": "LFGA",
+    "type": "medium_airport",
+    "name": "Colmar-Houssen Airport",
+    "latitude_deg": "48.109901428222656",
+    "longitude_deg": "7.359010219573975",
+    "elevation_ft": "628",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "Colmar/Houssen",
+    "scheduled_service": "no",
+    "gps_code": "LFGA",
+    "iata_code": "CMR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235857",
+            "airport_ref": "4104",
+            "airport_ident": "LFGA",
+            "length_ft": "5282",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "48.1026",
+            "le_longitude_deg": "7.35689",
+            "le_elevation_ft": "627",
+            "le_heading_degT": "11",
+            "le_displaced_threshold_ft": "689",
+            "he_ident": "19",
+            "he_latitude_deg": "48.1167",
+            "he_longitude_deg": "7.36102",
+            "he_elevation_ft": "612",
+            "he_heading_degT": "191",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52258",
+            "airport_ref": "4104",
+            "airport_ident": "LFGA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306353",
+        "code": "FR-GES",
+        "local_code": "GES",
+        "name": "Grand Est",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
+        "keywords": ""
+    }
+}

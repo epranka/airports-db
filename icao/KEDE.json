@@ -1,0 +1,110 @@
+{
+    "id": "19723",
+    "ident": "KEDE",
+    "type": "small_airport",
+    "name": "Northeastern Regional Airport",
+    "latitude_deg": "36.027698516799994",
+    "longitude_deg": "-76.56710052490001",
+    "elevation_ft": "20",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Edenton",
+    "scheduled_service": "no",
+    "gps_code": "KEDE",
+    "iata_code": "EDE",
+    "local_code": "EDE",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Northeastern_Regional_Airport",
+    "keywords": "MCAS Edenton, NAAS Edenton",
+    "runways": [
+        {
+            "id": "240825",
+            "airport_ref": "19723",
+            "airport_ident": "KEDE",
+            "length_ft": "6000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "36.0204",
+            "le_longitude_deg": "-76.5698",
+            "le_elevation_ft": "18",
+            "le_heading_degT": "359.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "36.0368",
+            "he_longitude_deg": "-76.5698",
+            "he_elevation_ft": "19",
+            "he_heading_degT": "179.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240826",
+            "airport_ref": "19723",
+            "airport_ident": "KEDE",
+            "length_ft": "3757",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "05",
+            "le_latitude_deg": "36.0227",
+            "le_longitude_deg": "-76.5673",
+            "le_elevation_ft": "17",
+            "le_heading_degT": "44.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "36.03",
+            "he_longitude_deg": "-76.5583",
+            "he_elevation_ft": "17",
+            "he_heading_degT": "224.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60579",
+            "airport_ref": "19723",
+            "airport_ident": "KEDE",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "60580",
+            "airport_ref": "19723",
+            "airport_ident": "KEDE",
+            "type": "CNTR",
+            "description": "WASHINGTON CNTR",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "60581",
+            "airport_ref": "19723",
+            "airport_ident": "KEDE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

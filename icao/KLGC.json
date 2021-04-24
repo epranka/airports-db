@@ -1,0 +1,126 @@
+{
+    "id": "20334",
+    "ident": "KLGC",
+    "type": "small_airport",
+    "name": "LaGrange Callaway Airport",
+    "latitude_deg": "33.0089",
+    "longitude_deg": "-85.072601",
+    "elevation_ft": "693",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Lagrange",
+    "scheduled_service": "no",
+    "gps_code": "KLGC",
+    "iata_code": "LGC",
+    "local_code": "LGC",
+    "home_link": "http://lagrangeairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/LaGrange_Callaway_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244264",
+            "airport_ref": "20334",
+            "airport_ident": "KLGC",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "33.0043",
+            "le_longitude_deg": "-85.0768",
+            "le_elevation_ft": "678",
+            "le_heading_degT": "24",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "33.0168",
+            "he_longitude_deg": "-85.0701",
+            "he_elevation_ft": "684",
+            "he_heading_degT": "204",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244265",
+            "airport_ref": "20334",
+            "airport_ident": "KLGC",
+            "length_ft": "5600",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "33.0119",
+            "le_longitude_deg": "-85.0792",
+            "le_elevation_ft": "680",
+            "le_heading_degT": "127",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "33.0027",
+            "he_longitude_deg": "-85.0645",
+            "he_elevation_ft": "675",
+            "he_heading_degT": "307",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67732",
+            "airport_ref": "20334",
+            "airport_ident": "KLGC",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "67733",
+            "airport_ref": "20334",
+            "airport_ident": "KLGC",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "126.325"
+        },
+        {
+            "id": "67734",
+            "airport_ref": "20334",
+            "airport_ident": "KLGC",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "67735",
+            "airport_ref": "20334",
+            "airport_ident": "KLGC",
+            "type": "RDO",
+            "description": "MACON RDO",
+            "frequency_mhz": "115.6"
+        },
+        {
+            "id": "67736",
+            "airport_ref": "20334",
+            "airport_ident": "KLGC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.975"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

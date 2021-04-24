@@ -1,0 +1,88 @@
+{
+    "id": "24199",
+    "ident": "PAOO",
+    "type": "small_airport",
+    "name": "Toksook Bay Airport",
+    "latitude_deg": "60.54140091",
+    "longitude_deg": "-165.0870056",
+    "elevation_ft": "59",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Toksook Bay",
+    "scheduled_service": "no",
+    "gps_code": "PAOO",
+    "iata_code": "OOK",
+    "local_code": "OOK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239709",
+            "airport_ref": "24199",
+            "airport_ident": "PAOO",
+            "length_ft": "3218",
+            "width_ft": "60",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "60.5457",
+            "le_longitude_deg": "-165.088",
+            "le_elevation_ft": "59",
+            "le_heading_degT": "176.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "60.5369",
+            "he_longitude_deg": "-165.087",
+            "he_elevation_ft": "37",
+            "he_heading_degT": "356.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58806",
+            "airport_ref": "24199",
+            "airport_ident": "PAOO",
+            "type": "A/D",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "58807",
+            "airport_ref": "24199",
+            "airport_ident": "PAOO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "58808",
+            "airport_ref": "24199",
+            "airport_ident": "PAOO",
+            "type": "RDO",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.6"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    }
+}

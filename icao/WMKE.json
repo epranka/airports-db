@@ -1,0 +1,104 @@
+{
+    "id": "26870",
+    "ident": "WMKE",
+    "type": "medium_airport",
+    "name": "Kerteh Airport",
+    "latitude_deg": "4.537220001220703",
+    "longitude_deg": "103.427001953125",
+    "elevation_ft": "18",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-11",
+    "municipality": "Kerteh",
+    "scheduled_service": "no",
+    "gps_code": "WMKE",
+    "iata_code": "KTE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237822",
+            "airport_ref": "26870",
+            "airport_ident": "WMKE",
+            "length_ft": "4446",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "4.54307",
+            "le_longitude_deg": "103.425",
+            "le_elevation_ft": "18",
+            "le_heading_degT": "163",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "4.53138",
+            "he_longitude_deg": "103.429",
+            "he_elevation_ft": "18",
+            "he_heading_degT": "343",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55600",
+            "airport_ref": "26870",
+            "airport_ident": "WMKE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "55601",
+            "airport_ref": "26870",
+            "airport_ident": "WMKE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.3"
+        }
+    ],
+    "country": {
+        "id": "302653",
+        "code": "MY",
+        "name": "Malaysia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
+        "keywords": "Lapangan Terbang Malaysia"
+    },
+    "region": {
+        "id": "304833",
+        "code": "MY-11",
+        "local_code": "11",
+        "name": "Terengganu",
+        "continent": "AS",
+        "iso_country": "MY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Terengganu",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95165",
+            "filename": "Kerteh_VOR-DME_MY",
+            "ident": "VKE",
+            "name": "Kerteh",
+            "type": "VOR-DME",
+            "frequency_khz": "117100",
+            "latitude_deg": "4.548059940338135",
+            "longitude_deg": "103.4229965209961",
+            "elevation_ft": "20",
+            "iso_country": "MY",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.039",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WMKE"
+        }
+    ]
+}

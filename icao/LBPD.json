@@ -1,0 +1,96 @@
+{
+    "id": "3976",
+    "ident": "LBPD",
+    "type": "medium_airport",
+    "name": "Plovdiv International Airport",
+    "latitude_deg": "42.067799",
+    "longitude_deg": "24.8508",
+    "elevation_ft": "597",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-16",
+    "municipality": "Plovdiv",
+    "scheduled_service": "yes",
+    "gps_code": "LBPD",
+    "iata_code": "PDV",
+    "local_code": "",
+    "home_link": "http://www.plovdivairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Plovdiv_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234416",
+            "airport_ref": "3976",
+            "airport_ident": "LBPD",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "42.0746",
+            "le_longitude_deg": "24.8388",
+            "le_elevation_ft": "564",
+            "le_heading_degT": "127",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "42.061",
+            "he_longitude_deg": "24.8629",
+            "he_elevation_ft": "597",
+            "he_heading_degT": "307",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49860",
+            "airport_ref": "3976",
+            "airport_ident": "LBPD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.6"
+        }
+    ],
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303141",
+        "code": "BG-16",
+        "local_code": "16",
+        "name": "Plovdiv Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Plovdiv_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92347",
+            "filename": "Plovdiv_VOR-DME_BG",
+            "ident": "PDV",
+            "name": "Plovdiv",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "42.05329895019531",
+            "longitude_deg": "24.876100540161133",
+            "elevation_ft": "590",
+            "iso_country": "BG",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.506",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LBPD"
+        }
+    ]
+}

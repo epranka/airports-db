@@ -1,0 +1,142 @@
+{
+    "id": "20741",
+    "ident": "KOLS",
+    "type": "medium_airport",
+    "name": "Nogales International Airport",
+    "latitude_deg": "31.4177",
+    "longitude_deg": "-110.848",
+    "elevation_ft": "3955",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Nogales",
+    "scheduled_service": "no",
+    "gps_code": "KOLS",
+    "iata_code": "OLS",
+    "local_code": "OLS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nogales_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244861",
+            "airport_ref": "20741",
+            "airport_ident": "KOLS",
+            "length_ft": "7199",
+            "width_ft": "90",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "31.4109",
+            "le_longitude_deg": "-110.856",
+            "le_elevation_ft": "3836",
+            "le_heading_degT": "46.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "31.4245",
+            "he_longitude_deg": "-110.84",
+            "he_elevation_ft": "3923",
+            "he_heading_degT": "226.2",
+            "he_displaced_threshold_ft": "910"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69040",
+            "airport_ref": "20741",
+            "airport_ident": "KOLS",
+            "type": "A/D",
+            "description": "TUCSON APP DEP",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "69041",
+            "airport_ref": "20741",
+            "airport_ident": "KOLS",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "69042",
+            "airport_ref": "20741",
+            "airport_ident": "KOLS",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "69043",
+            "airport_ref": "20741",
+            "airport_ident": "KOLS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87773",
+            "filename": "Nogales_NDB_US",
+            "ident": "ENZ",
+            "name": "Nogales",
+            "type": "NDB",
+            "frequency_khz": "394",
+            "latitude_deg": "31.42140007019043",
+            "longitude_deg": "-110.84600067138672",
+            "elevation_ft": "3915",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.494",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KOLS"
+        },
+        {
+            "id": "92006",
+            "filename": "Nogales_VOR-DME_US",
+            "ident": "OLS",
+            "name": "Nogales",
+            "type": "VOR-DME",
+            "frequency_khz": "108200",
+            "latitude_deg": "31.415000915527344",
+            "longitude_deg": "-110.8489990234375",
+            "elevation_ft": "3870",
+            "iso_country": "US",
+            "dme_frequency_khz": "108200",
+            "dme_channel": "019X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.001",
+            "magnetic_variation_deg": "10.494",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KOLS"
+        }
+    ]
+}

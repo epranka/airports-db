@@ -1,0 +1,120 @@
+{
+    "id": "4530",
+    "ident": "LTBG",
+    "type": "medium_airport",
+    "name": "Bandırma Airport",
+    "latitude_deg": "40.318001",
+    "longitude_deg": "27.977699",
+    "elevation_ft": "170",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-10",
+    "municipality": "Bandırma",
+    "scheduled_service": "no",
+    "gps_code": "LTBG",
+    "iata_code": "BDM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239267",
+            "airport_ref": "4530",
+            "airport_ident": "LTBG",
+            "length_ft": "9865",
+            "width_ft": "147",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.3317",
+            "le_longitude_deg": "27.9781",
+            "le_elevation_ft": "170",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "40.3047",
+            "he_longitude_deg": "27.9774",
+            "he_elevation_ft": "138",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57894",
+            "airport_ref": "4530",
+            "airport_ident": "LTBG",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "57895",
+            "airport_ref": "4530",
+            "airport_ident": "LTBG",
+            "type": "ATIS",
+            "description": "INFO",
+            "frequency_mhz": "38.92"
+        },
+        {
+            "id": "57896",
+            "airport_ref": "4530",
+            "airport_ident": "LTBG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "25.125"
+        },
+        {
+            "id": "57897",
+            "airport_ref": "4530",
+            "airport_ident": "LTBG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305845",
+        "code": "TR-10",
+        "local_code": "10",
+        "name": "Balıkesir Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balıkesir_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85909",
+            "filename": "Bandirma_TACAN_TR",
+            "ident": "BDM",
+            "name": "Bandirma",
+            "type": "TACAN",
+            "frequency_khz": "111000",
+            "latitude_deg": "40.301300048828125",
+            "longitude_deg": "27.9783992767334",
+            "elevation_ft": "167",
+            "iso_country": "TR",
+            "dme_frequency_khz": "111000",
+            "dme_channel": "047X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.032",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTBG"
+        }
+    ]
+}

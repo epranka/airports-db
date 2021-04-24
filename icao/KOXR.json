@@ -1,0 +1,104 @@
+{
+    "id": "20785",
+    "ident": "KOXR",
+    "type": "medium_airport",
+    "name": "Oxnard Airport",
+    "latitude_deg": "34.200801849365",
+    "longitude_deg": "-119.20700073242",
+    "elevation_ft": "45",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Oxnard",
+    "scheduled_service": "no",
+    "gps_code": "KOXR",
+    "iata_code": "OXR",
+    "local_code": "OXR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Oxnard_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241017",
+            "airport_ref": "20785",
+            "airport_ident": "KOXR",
+            "length_ft": "5953",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "34.2009",
+            "le_longitude_deg": "-119.217",
+            "le_elevation_ft": "34",
+            "le_heading_degT": "90.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "34.2007",
+            "he_longitude_deg": "-119.197",
+            "he_elevation_ft": "41",
+            "he_heading_degT": "270.5",
+            "he_displaced_threshold_ft": "1377"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60988",
+            "airport_ref": "20785",
+            "airport_ident": "KOXR",
+            "type": "A/D",
+            "description": "PT MUGU APP/DEP",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "60989",
+            "airport_ref": "20785",
+            "airport_ident": "KOXR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "60990",
+            "airport_ref": "20785",
+            "airport_ident": "KOXR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "134.95"
+        },
+        {
+            "id": "60991",
+            "airport_ref": "20785",
+            "airport_ident": "KOXR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "60992",
+            "airport_ref": "20785",
+            "airport_ident": "KOXR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "134.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

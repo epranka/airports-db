@@ -1,0 +1,96 @@
+{
+    "id": "4739",
+    "ident": "MMPC",
+    "type": "small_airport",
+    "name": "Ingeniero Juan Guillermo Villasana Airport",
+    "latitude_deg": "20.0774",
+    "longitude_deg": "-98.782501",
+    "elevation_ft": "7600",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-HID",
+    "municipality": "Pachuca",
+    "scheduled_service": "no",
+    "gps_code": "MMPC",
+    "iata_code": "",
+    "local_code": "PCA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237702",
+            "airport_ref": "4739",
+            "airport_ident": "MMPC",
+            "length_ft": "6825",
+            "width_ft": "85",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "20.0697",
+            "le_longitude_deg": "-98.788",
+            "le_elevation_ft": "",
+            "le_heading_degT": "33.5",
+            "le_displaced_threshold_ft": "656",
+            "he_ident": "21",
+            "he_latitude_deg": "20.0852",
+            "he_longitude_deg": "-98.7769",
+            "he_elevation_ft": "",
+            "he_heading_degT": "213.5",
+            "he_displaced_threshold_ft": "865"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55447",
+            "airport_ref": "4739",
+            "airport_ident": "MMPC",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304802",
+        "code": "MX-HID",
+        "local_code": "HID",
+        "name": "Hidalgo",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hidalgo_(state)",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92309",
+            "filename": "Pachuca_VOR-DME_MX",
+            "ident": "PCA",
+            "name": "Pachuca",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "20.131799697875977",
+            "longitude_deg": "-98.68440246582031",
+            "elevation_ft": "4950",
+            "iso_country": "MX",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.009",
+            "magnetic_variation_deg": "5.485",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMPC"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "8082",
+    "ident": "18AZ",
+    "type": "small_airport",
+    "name": "Sky Ranch At Carefree Airport",
+    "latitude_deg": "33.818536",
+    "longitude_deg": "-111.898327",
+    "elevation_ft": "2568",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Carefree",
+    "scheduled_service": "no",
+    "gps_code": "18AZ",
+    "iata_code": "",
+    "local_code": "18AZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "carefree, skyranch",
+    "runways": [
+        {
+            "id": "245678",
+            "airport_ref": "8082",
+            "airport_ident": "18AZ",
+            "length_ft": "4037",
+            "width_ft": "50",
+            "surface": "ASPH",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "33.8164",
+            "le_longitude_deg": "-111.904",
+            "le_elevation_ft": "2490",
+            "le_heading_degT": "72.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "33.8197",
+            "he_longitude_deg": "-111.892",
+            "he_elevation_ft": "2568",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "500"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70821",
+            "airport_ref": "8082",
+            "airport_ident": "18AZ",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.975"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

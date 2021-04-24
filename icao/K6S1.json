@@ -1,0 +1,72 @@
+{
+    "id": "19009",
+    "ident": "K6S1",
+    "type": "small_airport",
+    "name": "Bridger Municipal Airport",
+    "latitude_deg": "45.291675038",
+    "longitude_deg": "-108.921632767",
+    "elevation_ft": "3720",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Bridger",
+    "scheduled_service": "no",
+    "gps_code": "K6S1",
+    "iata_code": "",
+    "local_code": "6S1",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240645",
+            "airport_ref": "19009",
+            "airport_ident": "K6S1",
+            "length_ft": "3400",
+            "width_ft": "42",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "45.2964",
+            "le_longitude_deg": "-108.926",
+            "le_elevation_ft": "",
+            "le_heading_degT": "174",
+            "le_displaced_threshold_ft": "120",
+            "he_ident": "34",
+            "he_latitude_deg": "45.2869",
+            "he_longitude_deg": "-108.925",
+            "he_elevation_ft": "",
+            "he_heading_degT": "354",
+            "he_displaced_threshold_ft": "475"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60298",
+            "airport_ref": "19009",
+            "airport_ident": "K6S1",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306102",
+        "code": "US-MT",
+        "local_code": "MT",
+        "name": "Montana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
+        "keywords": ""
+    }
+}

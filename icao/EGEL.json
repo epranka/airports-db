@@ -1,0 +1,72 @@
+{
+    "id": "44408",
+    "ident": "EGEL",
+    "type": "small_airport",
+    "name": "Coll Airport",
+    "latitude_deg": "56.6018981934",
+    "longitude_deg": "-6.61778020859",
+    "elevation_ft": "21",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Coll Island",
+    "scheduled_service": "no",
+    "gps_code": "EGEL",
+    "iata_code": "COL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "260435",
+            "airport_ref": "44408",
+            "airport_ident": "EGEL",
+            "length_ft": "1640",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "23",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "203",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75218",
+            "airport_ref": "44408",
+            "airport_ident": "EGEL",
+            "type": "A/G",
+            "description": "Coll Radio",
+            "frequency_mhz": "125"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306377",
+        "code": "GB-SCT",
+        "local_code": "SCT",
+        "name": "Scotland",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
+        "keywords": "keep"
+    }
+}

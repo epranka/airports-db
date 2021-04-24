@@ -1,0 +1,80 @@
+{
+    "id": "19162",
+    "ident": "K94K",
+    "type": "small_airport",
+    "name": "Cassville Municipal Airport",
+    "latitude_deg": "36.6973991394043",
+    "longitude_deg": "-93.90049743652344",
+    "elevation_ft": "1482",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Cassville",
+    "scheduled_service": "no",
+    "gps_code": "K94K",
+    "iata_code": "",
+    "local_code": "94K",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242959",
+            "airport_ref": "19162",
+            "airport_ident": "K94K",
+            "length_ft": "3600",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "36.6974",
+            "le_longitude_deg": "-93.9067",
+            "le_elevation_ft": "1482",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "36.6974",
+            "he_longitude_deg": "-93.8944",
+            "he_elevation_ft": "1471",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65009",
+            "airport_ref": "19162",
+            "airport_ident": "K94K",
+            "type": "A/D",
+            "description": "SPRINGFIELD APP/DEP",
+            "frequency_mhz": "124.95"
+        },
+        {
+            "id": "65010",
+            "airport_ref": "19162",
+            "airport_ident": "K94K",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

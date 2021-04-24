@@ -1,0 +1,104 @@
+{
+    "id": "6173",
+    "ident": "SKUL",
+    "type": "medium_airport",
+    "name": "Heriberto Gíl Martínez Airport",
+    "latitude_deg": "4.08836",
+    "longitude_deg": "-76.2351",
+    "elevation_ft": "3132",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-VAC",
+    "municipality": "Tuluá",
+    "scheduled_service": "no",
+    "gps_code": "SKUL",
+    "iata_code": "ULQ",
+    "local_code": "ULQ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Heriberto_G%C3%ADl_Mart%C3%ADnez_Airport",
+    "keywords": "Farfan Airport",
+    "runways": [
+        {
+            "id": "235286",
+            "airport_ref": "6173",
+            "airport_ident": "SKUL",
+            "length_ft": "3495",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "4.08364",
+            "le_longitude_deg": "-76.2361",
+            "le_elevation_ft": "",
+            "le_heading_degT": "11.4",
+            "le_displaced_threshold_ft": "212",
+            "he_ident": "19",
+            "he_latitude_deg": "4.09308",
+            "he_longitude_deg": "-76.2342",
+            "he_elevation_ft": "",
+            "he_heading_degT": "191.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51410",
+            "airport_ref": "6173",
+            "airport_ident": "SKUL",
+            "type": "APP",
+            "description": "CALI APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "51411",
+            "airport_ref": "6173",
+            "airport_ident": "SKUL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303488",
+        "code": "CO-VAC",
+        "local_code": "VAC",
+        "name": "Valle del Cauca Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valle_del_Cauca_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94891",
+            "filename": "Tulua_VOR-DME_CO",
+            "ident": "ULQ",
+            "name": "Tulua",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "4.090000152587891",
+            "longitude_deg": "-76.22360229492188",
+            "elevation_ft": "3132",
+            "iso_country": "CO",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.004",
+            "magnetic_variation_deg": "-4.036",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKUL"
+        }
+    ]
+}

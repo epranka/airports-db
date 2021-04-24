@@ -1,0 +1,120 @@
+{
+    "id": "2000",
+    "ident": "CYZU",
+    "type": "medium_airport",
+    "name": "Whitecourt Airport",
+    "latitude_deg": "54.14390182495117",
+    "longitude_deg": "-115.78700256347656",
+    "elevation_ft": "2567",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Whitecourt",
+    "scheduled_service": "no",
+    "gps_code": "CYZU",
+    "iata_code": "YZU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Whitecourt_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234835",
+            "airport_ref": "2000",
+            "airport_ident": "CYZU",
+            "length_ft": "5800",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "54.1484",
+            "le_longitude_deg": "-115.798",
+            "le_elevation_ft": "2557",
+            "le_heading_degT": "125",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "54.1393",
+            "he_longitude_deg": "-115.776",
+            "he_elevation_ft": "2556",
+            "he_heading_degT": "305",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50555",
+            "airport_ref": "2000",
+            "airport_ident": "CYZU",
+            "type": "A/G",
+            "description": "MF WHITECOURT RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50556",
+            "airport_ref": "2000",
+            "airport_ident": "CYZU",
+            "type": "CNTR",
+            "description": "EDMONTON CNTR",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "50557",
+            "airport_ref": "2000",
+            "airport_ident": "CYZU",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50558",
+            "airport_ref": "2000",
+            "airport_ident": "CYZU",
+            "type": "RCO",
+            "description": "EDMONTON RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95946",
+            "filename": "Whitecourt_VOR-DME_CA",
+            "ident": "YZU",
+            "name": "Whitecourt",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "54.145599365234375",
+            "longitude_deg": "-115.7969970703125",
+            "elevation_ft": "2604",
+            "iso_country": "CA",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "19.001",
+            "magnetic_variation_deg": "18.039",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYZU"
+        }
+    ]
+}

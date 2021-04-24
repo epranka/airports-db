@@ -1,0 +1,110 @@
+{
+    "id": "19570",
+    "ident": "KCVX",
+    "type": "small_airport",
+    "name": "Charlevoix Municipal Airport",
+    "latitude_deg": "45.3047981262207",
+    "longitude_deg": "-85.2748031616211",
+    "elevation_ft": "669",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Charlevoix",
+    "scheduled_service": "no",
+    "gps_code": "KCVX",
+    "iata_code": "",
+    "local_code": "CVX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245117",
+            "airport_ref": "19570",
+            "airport_ident": "KCVX",
+            "length_ft": "1280",
+            "width_ft": "200",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "45.3036",
+            "le_longitude_deg": "-85.2712",
+            "le_elevation_ft": "649",
+            "le_heading_degT": "45.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "45.3061",
+            "he_longitude_deg": "-85.2676",
+            "he_elevation_ft": "",
+            "he_heading_degT": "225.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245118",
+            "airport_ref": "19570",
+            "airport_ident": "KCVX",
+            "length_ft": "4550",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "45.3042",
+            "le_longitude_deg": "-85.2858",
+            "le_elevation_ft": "669",
+            "le_heading_degT": "84.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "45.3053",
+            "he_longitude_deg": "-85.2682",
+            "he_elevation_ft": "643",
+            "he_heading_degT": "264.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69609",
+            "airport_ref": "19570",
+            "airport_ident": "KCVX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "69610",
+            "airport_ref": "19570",
+            "airport_ident": "KCVX",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "134.6"
+        },
+        {
+            "id": "69611",
+            "airport_ref": "19570",
+            "airport_ident": "KCVX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "19892",
+    "ident": "KFPK",
+    "type": "small_airport",
+    "name": "Fitch H Beach Airport",
+    "latitude_deg": "42.574501037597656",
+    "longitude_deg": "-84.8114013671875",
+    "elevation_ft": "891",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Charlotte",
+    "scheduled_service": "no",
+    "gps_code": "KFPK",
+    "iata_code": "",
+    "local_code": "FPK",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fitch_H._Beach_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244938",
+            "airport_ref": "19892",
+            "airport_ident": "KFPK",
+            "length_ft": "3500",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "42.57",
+            "le_longitude_deg": "-84.8137",
+            "le_elevation_ft": "880",
+            "le_heading_degT": "20.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "42.579",
+            "he_longitude_deg": "-84.8091",
+            "he_elevation_ft": "891",
+            "he_heading_degT": "200.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244939",
+            "airport_ref": "19892",
+            "airport_ident": "KFPK",
+            "length_ft": "2318",
+            "width_ft": "100",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "42.5759",
+            "le_longitude_deg": "-84.8158",
+            "le_elevation_ft": "",
+            "le_heading_degT": "140",
+            "le_displaced_threshold_ft": "575",
+            "he_ident": "32",
+            "he_latitude_deg": "42.571",
+            "he_longitude_deg": "-84.8103",
+            "he_elevation_ft": "",
+            "he_heading_degT": "320",
+            "he_displaced_threshold_ft": "189"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69217",
+            "airport_ref": "19892",
+            "airport_ident": "KFPK",
+            "type": "A/D",
+            "description": "LANSING APP/DEP",
+            "frequency_mhz": "118.65"
+        },
+        {
+            "id": "69218",
+            "airport_ref": "19892",
+            "airport_ident": "KFPK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.075"
+        },
+        {
+            "id": "69219",
+            "airport_ref": "19892",
+            "airport_ident": "KFPK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

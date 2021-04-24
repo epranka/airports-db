@@ -1,0 +1,80 @@
+{
+    "id": "21440",
+    "ident": "KZEF",
+    "type": "small_airport",
+    "name": "Elkin Municipal Airport",
+    "latitude_deg": "36.279998779296875",
+    "longitude_deg": "-80.78610229492188",
+    "elevation_ft": "1068",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Elkin",
+    "scheduled_service": "no",
+    "gps_code": "KZEF",
+    "iata_code": "",
+    "local_code": "ZEF",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Elkin_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242696",
+            "airport_ref": "21440",
+            "airport_ident": "KZEF",
+            "length_ft": "4003",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "36.2778",
+            "le_longitude_deg": "-80.7923",
+            "le_elevation_ft": "1067",
+            "le_heading_degT": "66.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "36.2822",
+            "he_longitude_deg": "-80.7798",
+            "he_elevation_ft": "1037",
+            "he_heading_degT": "246.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64448",
+            "airport_ref": "21440",
+            "airport_ident": "KZEF",
+            "type": "CNTR",
+            "description": "ATLANTA  CNTR",
+            "frequency_mhz": "125.15"
+        },
+        {
+            "id": "64449",
+            "airport_ref": "21440",
+            "airport_ident": "KZEF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

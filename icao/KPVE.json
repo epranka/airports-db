@@ -1,0 +1,96 @@
+{
+    "id": "20886",
+    "ident": "KPVE",
+    "type": "small_airport",
+    "name": "Beech River Regional Airport",
+    "latitude_deg": "35.65639877319336",
+    "longitude_deg": "-88.19539642333984",
+    "elevation_ft": "488",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Lexington-Parsons",
+    "scheduled_service": "no",
+    "gps_code": "KPVE",
+    "iata_code": "",
+    "local_code": "PVE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239844",
+            "airport_ref": "20886",
+            "airport_ident": "KPVE",
+            "length_ft": "6000",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "35.6483",
+            "le_longitude_deg": "-88.1974",
+            "le_elevation_ft": "446",
+            "le_heading_degT": "11.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "35.6644",
+            "he_longitude_deg": "-88.1933",
+            "he_elevation_ft": "488",
+            "he_heading_degT": "191.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59061",
+            "airport_ref": "20886",
+            "airport_ident": "KPVE",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "125.85"
+        },
+        {
+            "id": "59062",
+            "airport_ref": "20886",
+            "airport_ident": "KPVE",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.125"
+        },
+        {
+            "id": "59063",
+            "airport_ref": "20886",
+            "airport_ident": "KPVE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123"
+        },
+        {
+            "id": "59064",
+            "airport_ref": "20886",
+            "airport_ident": "KPVE",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

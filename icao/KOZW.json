@@ -1,0 +1,96 @@
+{
+    "id": "20790",
+    "ident": "KOZW",
+    "type": "small_airport",
+    "name": "Livingston County Spencer J. Hardy Airport",
+    "latitude_deg": "42.62919998",
+    "longitude_deg": "-83.98210144",
+    "elevation_ft": "962",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Howell",
+    "scheduled_service": "no",
+    "gps_code": "KOZW",
+    "iata_code": "",
+    "local_code": "OZW",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Livingston_County_Spencer_J._Hardy_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243124",
+            "airport_ref": "20790",
+            "airport_ident": "KOZW",
+            "length_ft": "5002",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "42.6336",
+            "le_longitude_deg": "-83.9896",
+            "le_elevation_ft": "962",
+            "le_heading_degT": "127.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "42.6253",
+            "he_longitude_deg": "-83.9748",
+            "he_elevation_ft": "943",
+            "he_heading_degT": "307.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65319",
+            "airport_ref": "20790",
+            "airport_ident": "KOZW",
+            "type": "APP",
+            "description": "DETROIT APP",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "65320",
+            "airport_ref": "20790",
+            "airport_ident": "KOZW",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.875"
+        },
+        {
+            "id": "65321",
+            "airport_ref": "20790",
+            "airport_ident": "KOZW",
+            "type": "DEP",
+            "description": "DETROIT DEP",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "65322",
+            "airport_ref": "20790",
+            "airport_ident": "KOZW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

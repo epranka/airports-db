@@ -1,0 +1,150 @@
+{
+    "id": "20850",
+    "ident": "KPNE",
+    "type": "medium_airport",
+    "name": "Northeast Philadelphia Airport",
+    "latitude_deg": "40.081902",
+    "longitude_deg": "-75.010597",
+    "elevation_ft": "120",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Philadelphia",
+    "scheduled_service": "yes",
+    "gps_code": "KPNE",
+    "iata_code": "PNE",
+    "local_code": "PNE",
+    "home_link": "http://www.phl.org/pne/pne.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Northeast_Philadelphia_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244456",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "length_ft": "7000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "40.0775",
+            "le_longitude_deg": "-75.0203",
+            "le_elevation_ft": "111",
+            "le_heading_degT": "48.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "40.0903",
+            "he_longitude_deg": "-75.0015",
+            "he_elevation_ft": "114",
+            "he_heading_degT": "228.3",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244457",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "40.0845",
+            "le_longitude_deg": "-75.0158",
+            "le_elevation_ft": "121",
+            "le_heading_degT": "140.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "40.0739",
+            "he_longitude_deg": "-75.0045",
+            "he_elevation_ft": "109",
+            "he_heading_degT": "320.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68136",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "A/D",
+            "description": "PHILADELPHIA APP/DEP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "68137",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "121.15"
+        },
+        {
+            "id": "68138",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "127.25"
+        },
+        {
+            "id": "68139",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "68140",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "68141",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "RDO",
+            "description": "WILLIAMSPORT RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "68142",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "68143",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

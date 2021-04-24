@@ -1,0 +1,96 @@
+{
+    "id": "3036",
+    "ident": "FYTM",
+    "type": "medium_airport",
+    "name": "Tsumeb Airport",
+    "latitude_deg": "-19.26189994812",
+    "longitude_deg": "17.732500076294",
+    "elevation_ft": "4353",
+    "continent": "AF",
+    "iso_country": "NA",
+    "iso_region": "NA-OT",
+    "municipality": "Tsumeb",
+    "scheduled_service": "no",
+    "gps_code": "FYTM",
+    "iata_code": "TSB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tsumeb_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246201",
+            "airport_ref": "3036",
+            "airport_ident": "FYTM",
+            "length_ft": "4823",
+            "width_ft": "56",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-19.2598",
+            "le_longitude_deg": "17.7256",
+            "le_elevation_ft": "",
+            "le_heading_degT": "108",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-19.264",
+            "he_longitude_deg": "17.7394",
+            "he_elevation_ft": "",
+            "he_heading_degT": "288",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71787",
+            "airport_ref": "3036",
+            "airport_ident": "FYTM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.8"
+        }
+    ],
+    "country": {
+        "id": "302591",
+        "code": "NA",
+        "name": "Namibia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Namibia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304862",
+        "code": "NA-OT",
+        "local_code": "OT",
+        "name": "Oshikoto Region",
+        "continent": "AF",
+        "iso_country": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oshikoto_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94445",
+            "filename": "Tsumeb_NDB_NA",
+            "ident": "TM",
+            "name": "Tsumeb",
+            "type": "NDB",
+            "frequency_khz": "267",
+            "latitude_deg": "-19.257200241088867",
+            "longitude_deg": "17.725799560546875",
+            "elevation_ft": "4353",
+            "iso_country": "NA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.163",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FYTM"
+        }
+    ]
+}

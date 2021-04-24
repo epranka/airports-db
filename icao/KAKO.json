@@ -1,0 +1,96 @@
+{
+    "id": "19272",
+    "ident": "KAKO",
+    "type": "small_airport",
+    "name": "Colorado Plains Regional Airport",
+    "latitude_deg": "40.1755981445",
+    "longitude_deg": "-103.222000122",
+    "elevation_ft": "4714",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Akron",
+    "scheduled_service": "no",
+    "gps_code": "KAKO",
+    "iata_code": "AKO",
+    "local_code": "AKO",
+    "home_link": "http://www.co.washington.co.us/airport.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado_Plains_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239657",
+            "airport_ref": "19272",
+            "airport_ident": "KAKO",
+            "length_ft": "7000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "40.1803",
+            "le_longitude_deg": "-103.233",
+            "le_elevation_ft": "4714",
+            "le_heading_degT": "119.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "40.1709",
+            "he_longitude_deg": "-103.211",
+            "he_elevation_ft": "4668",
+            "he_heading_degT": "299.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58648",
+            "airport_ref": "19272",
+            "airport_ident": "KAKO",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.575"
+        },
+        {
+            "id": "58649",
+            "airport_ref": "19272",
+            "airport_ident": "KAKO",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "133.95"
+        },
+        {
+            "id": "58650",
+            "airport_ref": "19272",
+            "airport_ident": "KAKO",
+            "type": "RCO",
+            "description": "AKRON RCO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "58651",
+            "airport_ref": "19272",
+            "airport_ident": "KAKO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

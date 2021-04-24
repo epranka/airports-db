@@ -1,0 +1,80 @@
+{
+    "id": "18721",
+    "ident": "K3M9",
+    "type": "small_airport",
+    "name": "Warren Municipal Airport",
+    "latitude_deg": "33.56039810180664",
+    "longitude_deg": "-92.08540344238281",
+    "elevation_ft": "235",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Warren",
+    "scheduled_service": "no",
+    "gps_code": "K3M9",
+    "iata_code": "",
+    "local_code": "3M9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243854",
+            "airport_ref": "18721",
+            "airport_ident": "K3M9",
+            "length_ft": "3829",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "33.5563",
+            "le_longitude_deg": "-92.0892",
+            "le_elevation_ft": "197",
+            "le_heading_degT": "37.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "33.5646",
+            "he_longitude_deg": "-92.0816",
+            "he_elevation_ft": "235",
+            "he_heading_degT": "217.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66890",
+            "airport_ref": "18721",
+            "airport_ident": "K3M9",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "135.875"
+        },
+        {
+            "id": "66891",
+            "airport_ref": "18721",
+            "airport_ident": "K3M9",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

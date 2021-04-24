@@ -1,0 +1,128 @@
+{
+    "id": "20639",
+    "ident": "KNFW",
+    "type": "medium_airport",
+    "name": "NAS Fort Worth JRB / Carswell Field",
+    "latitude_deg": "32.769199",
+    "longitude_deg": "-97.441498",
+    "elevation_ft": "650",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth",
+    "scheduled_service": "no",
+    "gps_code": "KNFW",
+    "iata_code": "FWH",
+    "local_code": "NFW",
+    "home_link": "http://www.cnic.navy.mil/regions/cnrse/installations/nas_jrb_fort_worth.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Naval_Air_Station_Joint_Reserve_Base_Fort_Worth",
+    "keywords": "Carswell AFB, Tarrant Field",
+    "runways": [
+        {
+            "id": "241041",
+            "airport_ref": "20639",
+            "airport_ident": "KNFW",
+            "length_ft": "12000",
+            "width_ft": "200",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "32.7857",
+            "le_longitude_deg": "-97.4414",
+            "le_elevation_ft": "622",
+            "le_heading_degT": "180.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "32.7527",
+            "he_longitude_deg": "-97.4417",
+            "he_elevation_ft": "650",
+            "he_heading_degT": "0.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61033",
+            "airport_ref": "20639",
+            "airport_ident": "KNFW",
+            "type": "A/D",
+            "description": "RGNL APP/DEP",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "61034",
+            "airport_ref": "20639",
+            "airport_ident": "KNFW",
+            "type": "ARR",
+            "description": "NAVY FORT WORTH ARR",
+            "frequency_mhz": "128.775"
+        },
+        {
+            "id": "61035",
+            "airport_ref": "20639",
+            "airport_ident": "KNFW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "27.357"
+        },
+        {
+            "id": "61036",
+            "airport_ref": "20639",
+            "airport_ident": "KNFW",
+            "type": "GND",
+            "description": "NAVY FORT WORTH GND",
+            "frequency_mhz": "126.4"
+        },
+        {
+            "id": "61037",
+            "airport_ref": "20639",
+            "airport_ident": "KNFW",
+            "type": "MISC",
+            "description": "LOCKHEED",
+            "frequency_mhz": "28.41"
+        },
+        {
+            "id": "61038",
+            "airport_ref": "20639",
+            "airport_ident": "KNFW",
+            "type": "OPS",
+            "description": "BASE OPS",
+            "frequency_mhz": "29.177"
+        },
+        {
+            "id": "61039",
+            "airport_ref": "20639",
+            "airport_ident": "KNFW",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.255"
+        },
+        {
+            "id": "61040",
+            "airport_ref": "20639",
+            "airport_ident": "KNFW",
+            "type": "TWR",
+            "description": "NAVY FORT WORTH TWR",
+            "frequency_mhz": "120.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

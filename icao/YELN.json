@@ -1,0 +1,80 @@
+{
+    "id": "27546",
+    "ident": "YELN",
+    "type": "small_airport",
+    "name": "Elliston Airport",
+    "latitude_deg": "-33.638301849365234",
+    "longitude_deg": "134.89999389648438",
+    "elevation_ft": "20",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "http://www.elliston.sa.gov.au",
+    "scheduled_service": "no",
+    "gps_code": "YELN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/District_Council_of_Elliston",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258585",
+            "airport_ref": "27546",
+            "airport_ident": "YELN",
+            "length_ft": "3937",
+            "width_ft": "",
+            "surface": "N",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72898",
+            "airport_ref": "27546",
+            "airport_ident": "YELN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "72899",
+            "airport_ref": "27546",
+            "airport_ident": "YELN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "128.6"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": ""
+    }
+}

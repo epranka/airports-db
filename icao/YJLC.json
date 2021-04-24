@@ -1,0 +1,104 @@
+{
+    "id": "27020",
+    "ident": "YJLC",
+    "type": "small_airport",
+    "name": "Julia Creek Airport",
+    "latitude_deg": "-20.66830062866211",
+    "longitude_deg": "141.72300720214844",
+    "elevation_ft": "404",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "YJLC",
+    "iata_code": "JCK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Julia_Creek_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233235",
+            "airport_ref": "27020",
+            "airport_ident": "YJLC",
+            "length_ft": "4600",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-20.6664",
+            "le_longitude_deg": "141.712",
+            "le_elevation_ft": "402",
+            "le_heading_degT": "107",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "-20.6701",
+            "he_longitude_deg": "141.725",
+            "he_elevation_ft": "402",
+            "he_heading_degT": "287",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48725",
+            "airport_ref": "27020",
+            "airport_ident": "YJLC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48726",
+            "airport_ref": "27020",
+            "airport_ident": "YJLC",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "123.95"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89508",
+            "filename": "Julia_Creek_NDB_AU",
+            "ident": "JLC",
+            "name": "Julia Creek",
+            "type": "NDB",
+            "frequency_khz": "206",
+            "latitude_deg": "-20.665000915527344",
+            "longitude_deg": "141.7239990234375",
+            "elevation_ft": "404",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.449",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YJLC"
+        }
+    ]
+}

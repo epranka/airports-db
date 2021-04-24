@@ -1,0 +1,72 @@
+{
+    "id": "3164",
+    "ident": "HAGN",
+    "type": "medium_airport",
+    "name": "Gonder Airport",
+    "latitude_deg": "12.51990032196045",
+    "longitude_deg": "37.433998107910156",
+    "elevation_ft": "6449",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-AM",
+    "municipality": "Gondar",
+    "scheduled_service": "yes",
+    "gps_code": "HAGN",
+    "iata_code": "GDQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gondar_Airport",
+    "keywords": "Azezo",
+    "runways": [
+        {
+            "id": "235674",
+            "airport_ref": "3164",
+            "airport_ident": "HAGN",
+            "length_ft": "9072",
+            "width_ft": "145",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "12.5322",
+            "le_longitude_deg": "37.4318",
+            "le_elevation_ft": "6512",
+            "le_heading_degT": "170",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "12.5076",
+            "he_longitude_deg": "37.4363",
+            "he_elevation_ft": "6270",
+            "he_heading_degT": "350",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51996",
+            "airport_ref": "3164",
+            "airport_ident": "HAGN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        }
+    ],
+    "country": {
+        "id": "302572",
+        "code": "ET",
+        "name": "Ethiopia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ethiopia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303789",
+        "code": "ET-AM",
+        "local_code": "AM",
+        "name": "Amhara Region",
+        "continent": "AF",
+        "iso_country": "ET",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amhara_Region",
+        "keywords": ""
+    }
+}

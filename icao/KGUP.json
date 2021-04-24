@@ -1,0 +1,112 @@
+{
+    "id": "3572",
+    "ident": "KGUP",
+    "type": "medium_airport",
+    "name": "Gallup Municipal Airport",
+    "latitude_deg": "35.511100769",
+    "longitude_deg": "-108.789001465",
+    "elevation_ft": "6472",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Gallup",
+    "scheduled_service": "no",
+    "gps_code": "KGUP",
+    "iata_code": "GUP",
+    "local_code": "GUP",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gallup_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241762",
+            "airport_ref": "3572",
+            "airport_ident": "KGUP",
+            "length_ft": "7316",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "35.5083",
+            "le_longitude_deg": "-108.801",
+            "le_elevation_ft": "6465",
+            "le_heading_degT": "73.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "35.5138",
+            "he_longitude_deg": "-108.777",
+            "he_elevation_ft": "6472",
+            "he_heading_degT": "253.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62515",
+            "airport_ref": "3572",
+            "airport_ident": "KGUP",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "62516",
+            "airport_ref": "3572",
+            "airport_ident": "KGUP",
+            "type": "RDO",
+            "description": "ALBUQUERQUE RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "62517",
+            "airport_ref": "3572",
+            "airport_ident": "KGUP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88632",
+            "filename": "Gallup_VORTAC_US",
+            "ident": "GUP",
+            "name": "Gallup",
+            "type": "VORTAC",
+            "frequency_khz": "115100",
+            "latitude_deg": "35.47600173950195",
+            "longitude_deg": "-108.87300109863281",
+            "elevation_ft": "7053",
+            "iso_country": "US",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.001",
+            "magnetic_variation_deg": "10.474",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KGUP"
+        }
+    ]
+}

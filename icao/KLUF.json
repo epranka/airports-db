@@ -1,0 +1,174 @@
+{
+    "id": "3658",
+    "ident": "KLUF",
+    "type": "large_airport",
+    "name": "Luke Air Force Base",
+    "latitude_deg": "33.534999847399995",
+    "longitude_deg": "-112.383003235",
+    "elevation_ft": "1085",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Glendale",
+    "scheduled_service": "no",
+    "gps_code": "KLUF",
+    "iata_code": "LUF",
+    "local_code": "LUF",
+    "home_link": "http://www.luke.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Luke_Air_Force_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241194",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "length_ft": "10012",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03L",
+            "le_latitude_deg": "33.523",
+            "le_longitude_deg": "-112.399",
+            "le_elevation_ft": "1077",
+            "le_heading_degT": "42.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21R",
+            "he_latitude_deg": "33.5432",
+            "he_longitude_deg": "-112.376",
+            "he_elevation_ft": "1084",
+            "he_heading_degT": "222.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241193",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "length_ft": "9904",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03R",
+            "le_latitude_deg": "33.5268",
+            "le_longitude_deg": "-112.39",
+            "le_elevation_ft": "1071",
+            "le_heading_degT": "42.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21L",
+            "he_latitude_deg": "33.5469",
+            "he_longitude_deg": "-112.368",
+            "he_elevation_ft": "1084",
+            "he_heading_degT": "222.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61325",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "61326",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.925"
+        },
+        {
+            "id": "61327",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126.25"
+        },
+        {
+            "id": "61328",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "133.175"
+        },
+        {
+            "id": "61329",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "26.74"
+        },
+        {
+            "id": "61330",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "34.94"
+        },
+        {
+            "id": "61331",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "61332",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.1"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90597",
+            "filename": "Luke_TACAN_US",
+            "ident": "LUF",
+            "name": "Luke",
+            "type": "TACAN",
+            "frequency_khz": "113000",
+            "latitude_deg": "33.53770065307617",
+            "longitude_deg": "-112.37999725341797",
+            "elevation_ft": "1076",
+            "iso_country": "US",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "13.01",
+            "magnetic_variation_deg": "11.377",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KLUF"
+        }
+    ]
+}

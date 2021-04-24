@@ -1,0 +1,158 @@
+{
+    "id": "26751",
+    "ident": "WADD",
+    "type": "large_airport",
+    "name": "Ngurah Rai (Bali) International Airport",
+    "latitude_deg": "-8.7481698989868",
+    "longitude_deg": "115.16699981689",
+    "elevation_ft": "14",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-BA",
+    "municipality": "Denpasar-Bali Island",
+    "scheduled_service": "yes",
+    "gps_code": "WADD",
+    "iata_code": "DPS",
+    "local_code": "",
+    "home_link": "http://www.angkasapura1.co.id/eng/location/bali.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ngurah_Rai_Airport",
+    "keywords": "WRRR",
+    "runways": [
+        {
+            "id": "236518",
+            "airport_ref": "26751",
+            "airport_ident": "WADD",
+            "length_ft": "9790",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "-8.74871",
+            "le_longitude_deg": "115.154",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "88",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "-8.74763",
+            "he_longitude_deg": "115.181",
+            "he_elevation_ft": "12",
+            "he_heading_degT": "268",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53648",
+            "airport_ref": "26751",
+            "airport_ident": "WADD",
+            "type": "APP",
+            "description": "DIRECTOR",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "53649",
+            "airport_ref": "26751",
+            "airport_ident": "WADD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "53650",
+            "airport_ref": "26751",
+            "airport_ident": "WADD",
+            "type": "GND",
+            "description": "NGURAH GND",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "53651",
+            "airport_ref": "26751",
+            "airport_ident": "WADD",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "8.88"
+        },
+        {
+            "id": "313278",
+            "airport_ref": "26751",
+            "airport_ident": "WADD",
+            "type": "TMA",
+            "description": "RADAR",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "53652",
+            "airport_ref": "26751",
+            "airport_ident": "WADD",
+            "type": "TWR",
+            "description": "NGURAH TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304098",
+        "code": "ID-BA",
+        "local_code": "BA",
+        "name": "Bali",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bali",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86153",
+            "filename": "Bali_VOR-DME_ID",
+            "ident": "BLI",
+            "name": "Bali",
+            "type": "VOR-DME",
+            "frequency_khz": "116200",
+            "latitude_deg": "-8.750570297241211",
+            "longitude_deg": "115.16300201416016",
+            "elevation_ft": "14",
+            "iso_country": "ID",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.382",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WADD"
+        },
+        {
+            "id": "92069",
+            "filename": "Bali_NDB_ID",
+            "ident": "OR",
+            "name": "Bali",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "-8.744279861450195",
+            "longitude_deg": "115.17400360107422",
+            "elevation_ft": "14",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.383",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WADD"
+        }
+    ]
+}

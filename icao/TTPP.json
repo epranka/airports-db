@@ -1,0 +1,166 @@
+{
+    "id": "6410",
+    "ident": "TTPP",
+    "type": "medium_airport",
+    "name": "Piarco International Airport",
+    "latitude_deg": "10.595399856567383",
+    "longitude_deg": "-61.33720016479492",
+    "elevation_ft": "58",
+    "continent": "NA",
+    "iso_country": "TT",
+    "iso_region": "TT-TUP",
+    "municipality": "Port of Spain",
+    "scheduled_service": "yes",
+    "gps_code": "TTPP",
+    "iata_code": "POS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Piarco_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239134",
+            "airport_ref": "6410",
+            "airport_ident": "TTPP",
+            "length_ft": "10500",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "10.5953",
+            "le_longitude_deg": "-61.3519",
+            "le_elevation_ft": "30",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "10.5954",
+            "he_longitude_deg": "-61.3226",
+            "he_elevation_ft": "58",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57602",
+            "airport_ref": "6410",
+            "airport_ident": "TTPP",
+            "type": "ACC",
+            "description": "ACC",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "57603",
+            "airport_ref": "6410",
+            "airport_ident": "TTPP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "57604",
+            "airport_ref": "6410",
+            "airport_ident": "TTPP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "57605",
+            "airport_ref": "6410",
+            "airport_ident": "TTPP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "57606",
+            "airport_ref": "6410",
+            "airport_ident": "TTPP",
+            "type": "MISC",
+            "description": "APRON",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "57607",
+            "airport_ref": "6410",
+            "airport_ident": "TTPP",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "552.6"
+        },
+        {
+            "id": "57608",
+            "airport_ref": "6410",
+            "airport_ident": "TTPP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302754",
+        "code": "TT",
+        "name": "Trinidad and Tobago",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305932",
+        "code": "TT-TUP",
+        "local_code": "TUP",
+        "name": "Tunapuna-Piarco",
+        "continent": "NA",
+        "iso_country": "TT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tunapuna-Piarco",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92616",
+            "filename": "Piarco_VOR-DME_TT",
+            "ident": "POS",
+            "name": "Piarco",
+            "type": "VOR-DME",
+            "frequency_khz": "116900",
+            "latitude_deg": "10.46619987487793",
+            "longitude_deg": "-61.39189910888672",
+            "elevation_ft": "60",
+            "iso_country": "TT",
+            "dme_frequency_khz": "116900",
+            "dme_channel": "116X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.007",
+            "magnetic_variation_deg": "-14.134",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "TTPP"
+        },
+        {
+            "id": "94588",
+            "filename": "Piarco_NDB_TT",
+            "ident": "TRI",
+            "name": "Piarco",
+            "type": "NDB",
+            "frequency_khz": "382",
+            "latitude_deg": "10.593400001525879",
+            "longitude_deg": "-61.42210006713867",
+            "elevation_ft": "57",
+            "iso_country": "TT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.129",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "TTPP"
+        }
+    ]
+}

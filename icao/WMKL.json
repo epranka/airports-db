@@ -1,0 +1,142 @@
+{
+    "id": "26875",
+    "ident": "WMKL",
+    "type": "medium_airport",
+    "name": "Langkawi International Airport",
+    "latitude_deg": "6.329730033874512",
+    "longitude_deg": "99.72869873046875",
+    "elevation_ft": "29",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-02",
+    "municipality": "Langkawi",
+    "scheduled_service": "yes",
+    "gps_code": "WMKL",
+    "iata_code": "LGK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Langkawi_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237813",
+            "airport_ref": "26875",
+            "airport_ident": "WMKL",
+            "length_ft": "12500",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "6.31551",
+            "le_longitude_deg": "99.7189",
+            "le_elevation_ft": "21",
+            "le_heading_degT": "34",
+            "le_displaced_threshold_ft": "2000",
+            "he_ident": "21",
+            "he_latitude_deg": "6.34394",
+            "he_longitude_deg": "99.7384",
+            "he_elevation_ft": "29",
+            "he_heading_degT": "214",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55568",
+            "airport_ref": "26875",
+            "airport_ident": "WMKL",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "55569",
+            "airport_ref": "26875",
+            "airport_ident": "WMKL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.2"
+        },
+        {
+            "id": "55570",
+            "airport_ref": "26875",
+            "airport_ident": "WMKL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "55571",
+            "airport_ref": "26875",
+            "airport_ident": "WMKL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302653",
+        "code": "MY",
+        "name": "Malaysia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
+        "keywords": "Lapangan Terbang Malaysia"
+    },
+    "region": {
+        "id": "304824",
+        "code": "MY-02",
+        "local_code": "02",
+        "name": "Kedah",
+        "continent": "AS",
+        "iso_country": "MY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kedah",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90376",
+            "filename": "Langkawi_NDB_MY",
+            "ident": "LK",
+            "name": "Langkawi",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "6.320559978485107",
+            "longitude_deg": "99.72779846191406",
+            "elevation_ft": "",
+            "iso_country": "MY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.239",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WMKL"
+        },
+        {
+            "id": "95246",
+            "filename": "Langkawi_VOR-DME_MY",
+            "ident": "VPL",
+            "name": "Langkawi",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "6.355420112609863",
+            "longitude_deg": "99.74739837646484",
+            "elevation_ft": "57",
+            "iso_country": "MY",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.238",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "WMKL"
+        }
+    ]
+}

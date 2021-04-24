@@ -1,0 +1,72 @@
+{
+    "id": "19861",
+    "ident": "KFFA",
+    "type": "small_airport",
+    "name": "First Flight Airport",
+    "latitude_deg": "36.0181999207",
+    "longitude_deg": "-75.67130279540001",
+    "elevation_ft": "13",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Kill Devil Hills",
+    "scheduled_service": "no",
+    "gps_code": "KFFA",
+    "iata_code": "FFA",
+    "local_code": "FFA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/First_Flight_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241793",
+            "airport_ref": "19861",
+            "airport_ident": "KFFA",
+            "length_ft": "3000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "36.0146",
+            "le_longitude_deg": "-75.6735",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "24",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "36.0221",
+            "he_longitude_deg": "-75.6693",
+            "he_elevation_ft": "9",
+            "he_heading_degT": "204",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62575",
+            "airport_ref": "19861",
+            "airport_ident": "KFFA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

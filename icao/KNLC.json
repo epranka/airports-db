@@ -1,0 +1,150 @@
+{
+    "id": "20647",
+    "ident": "KNLC",
+    "type": "medium_airport",
+    "name": "Lemoore Naval Air Station (Reeves Field) Airport",
+    "latitude_deg": "36.33300018",
+    "longitude_deg": "-119.9520035",
+    "elevation_ft": "232",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Lemoore",
+    "scheduled_service": "no",
+    "gps_code": "KNLC",
+    "iata_code": "NLC",
+    "local_code": "NLC",
+    "home_link": "http://www.cnic.navy.mil/regions/cnrsw/installations/nas_lemoore.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Naval_Air_Station_Lemoore",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241282",
+            "airport_ref": "20647",
+            "airport_ident": "KNLC",
+            "length_ft": "13502",
+            "width_ft": "200",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14L",
+            "le_latitude_deg": "36.3642",
+            "le_longitude_deg": "-119.961",
+            "le_elevation_ft": "221",
+            "le_heading_degT": "156",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32R",
+            "he_latitude_deg": "36.3303",
+            "he_longitude_deg": "-119.942",
+            "he_elevation_ft": "226",
+            "he_heading_degT": "336",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241281",
+            "airport_ref": "20647",
+            "airport_ident": "KNLC",
+            "length_ft": "13502",
+            "width_ft": "200",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14R",
+            "le_latitude_deg": "36.336",
+            "le_longitude_deg": "-119.962",
+            "le_elevation_ft": "232",
+            "le_heading_degT": "156",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32L",
+            "he_latitude_deg": "36.3021",
+            "he_longitude_deg": "-119.944",
+            "he_elevation_ft": "231",
+            "he_heading_degT": "336",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61536",
+            "airport_ref": "20647",
+            "airport_ident": "KNLC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "61537",
+            "airport_ref": "20647",
+            "airport_ident": "KNLC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "26.76"
+        },
+        {
+            "id": "61538",
+            "airport_ref": "20647",
+            "airport_ident": "KNLC",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "61539",
+            "airport_ref": "20647",
+            "airport_ident": "KNLC",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "61540",
+            "airport_ref": "20647",
+            "airport_ident": "KNLC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "61541",
+            "airport_ref": "20647",
+            "airport_ident": "KNLC",
+            "type": "OPS",
+            "description": "BASE OPS",
+            "frequency_mhz": "29.93"
+        },
+        {
+            "id": "61542",
+            "airport_ref": "20647",
+            "airport_ident": "KNLC",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "31.7"
+        },
+        {
+            "id": "61543",
+            "airport_ref": "20647",
+            "airport_ident": "KNLC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.3"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

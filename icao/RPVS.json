@@ -1,0 +1,72 @@
+{
+    "id": "5746",
+    "ident": "RPVS",
+    "type": "medium_airport",
+    "name": "Evelio Javier Airport",
+    "latitude_deg": "10.765999794",
+    "longitude_deg": "121.932998657",
+    "elevation_ft": "23",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-ANT",
+    "municipality": "San Jose",
+    "scheduled_service": "no",
+    "gps_code": "RPVS",
+    "iata_code": "EUQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Evelio_Javier_Airport",
+    "keywords": "Antique Airport",
+    "runways": [
+        {
+            "id": "238476",
+            "airport_ref": "5746",
+            "airport_ident": "RPVS",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "PEM",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "10.7715",
+            "le_longitude_deg": "121.933",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "10.7606",
+            "he_longitude_deg": "121.933",
+            "he_elevation_ft": "23",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56541",
+            "airport_ref": "5746",
+            "airport_ident": "RPVS",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305060",
+        "code": "PH-ANT",
+        "local_code": "ANT",
+        "name": "Antique Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antique_Province",
+        "keywords": ""
+    }
+}

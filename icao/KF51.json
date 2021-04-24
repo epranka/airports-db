@@ -1,0 +1,80 @@
+{
+    "id": "19823",
+    "ident": "KF51",
+    "type": "small_airport",
+    "name": "Winnsboro Municipal Airport",
+    "latitude_deg": "32.93880081176758",
+    "longitude_deg": "-95.27890014648438",
+    "elevation_ft": "513",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Winnsboro",
+    "scheduled_service": "no",
+    "gps_code": "KF51",
+    "iata_code": "",
+    "local_code": "F51",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244335",
+            "airport_ref": "19823",
+            "airport_ident": "KF51",
+            "length_ft": "3213",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "32.9346",
+            "le_longitude_deg": "-95.2805",
+            "le_elevation_ft": "493",
+            "le_heading_degT": "18",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "32.943",
+            "he_longitude_deg": "-95.2773",
+            "he_elevation_ft": "513",
+            "he_heading_degT": "198",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67863",
+            "airport_ref": "19823",
+            "airport_ident": "KF51",
+            "type": "A/D",
+            "description": "LONGVIEW APP/DEP",
+            "frequency_mhz": "128.75"
+        },
+        {
+            "id": "67864",
+            "airport_ref": "19823",
+            "airport_ident": "KF51",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "id": "3780",
+    "ident": "KPLB",
+    "type": "closed",
+    "name": "Clinton County Airport",
+    "latitude_deg": "44.6875",
+    "longitude_deg": "-73.52449798583984",
+    "elevation_ft": "371",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Plattsburgh",
+    "scheduled_service": "no",
+    "gps_code": "KPLB",
+    "iata_code": "PLB",
+    "local_code": "PLB",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clinton_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245764",
+            "airport_ref": "3780",
+            "airport_ident": "KPLB",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "44.6799",
+            "le_longitude_deg": "-73.5258",
+            "le_elevation_ft": "346",
+            "le_heading_degT": "354.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "44.6936",
+            "he_longitude_deg": "-73.5275",
+            "he_elevation_ft": "363",
+            "he_heading_degT": "174.6",
+            "he_displaced_threshold_ft": "635"
+        },
+        {
+            "id": "245765",
+            "airport_ref": "3780",
+            "airport_ident": "KPLB",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "44.6927",
+            "le_longitude_deg": "-73.5298",
+            "le_elevation_ft": "371",
+            "le_heading_degT": "129.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "44.6839",
+            "he_longitude_deg": "-73.515",
+            "he_elevation_ft": "328",
+            "he_heading_degT": "309.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71016",
+            "airport_ref": "3780",
+            "airport_ident": "KPLB",
+            "type": "A/D",
+            "description": "BURLINGTON APP/DEP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "71017",
+            "airport_ref": "3780",
+            "airport_ident": "KPLB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "133.525"
+        },
+        {
+            "id": "71018",
+            "airport_ref": "3780",
+            "airport_ident": "KPLB",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "71019",
+            "airport_ref": "3780",
+            "airport_ident": "KPLB",
+            "type": "RDO",
+            "description": "BURLINGTON RDO",
+            "frequency_mhz": "116.9"
+        },
+        {
+            "id": "71020",
+            "airport_ref": "3780",
+            "airport_ident": "KPLB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92510",
+            "filename": "Plattsburgh_VORTAC_US",
+            "ident": "PLB",
+            "name": "Plattsburgh",
+            "type": "VORTAC",
+            "frequency_khz": "116900",
+            "latitude_deg": "44.684898376464844",
+            "longitude_deg": "-73.52269744873047",
+            "elevation_ft": "343",
+            "iso_country": "US",
+            "dme_frequency_khz": "116900",
+            "dme_channel": "116X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-15.003",
+            "magnetic_variation_deg": "-14.55",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KPLB"
+        }
+    ]
+}

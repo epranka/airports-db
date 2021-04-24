@@ -1,0 +1,80 @@
+{
+    "id": "20074",
+    "ident": "KHPT",
+    "type": "small_airport",
+    "name": "Hampton Municipal Airport",
+    "latitude_deg": "42.7237014771",
+    "longitude_deg": "-93.22630310059999",
+    "elevation_ft": "1176",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Hampton",
+    "scheduled_service": "no",
+    "gps_code": "KHPT",
+    "iata_code": "HPT",
+    "local_code": "HPT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244659",
+            "airport_ref": "20074",
+            "airport_ident": "KHPT",
+            "length_ft": "4018",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "42.7292",
+            "le_longitude_deg": "-93.2263",
+            "le_elevation_ft": "1176",
+            "le_heading_degT": "180.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "42.7182",
+            "he_longitude_deg": "-93.2264",
+            "he_elevation_ft": "1158",
+            "he_heading_degT": "0.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68589",
+            "airport_ref": "20074",
+            "airport_ident": "KHPT",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "68590",
+            "airport_ref": "20074",
+            "airport_ident": "KHPT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "id": "6404",
+    "ident": "TNCC",
+    "type": "large_airport",
+    "name": "Hato International Airport",
+    "latitude_deg": "12.1889",
+    "longitude_deg": "-68.959801",
+    "elevation_ft": "29",
+    "continent": "NA",
+    "iso_country": "CW",
+    "iso_region": "CW-U-A",
+    "municipality": "Willemstad",
+    "scheduled_service": "yes",
+    "gps_code": "TNCC",
+    "iata_code": "CUR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hato_International_Airport",
+    "keywords": "Curaçao",
+    "runways": [
+        {
+            "id": "238001",
+            "airport_ref": "6404",
+            "airport_ident": "TNCC",
+            "length_ft": "11188",
+            "width_ft": "197",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "12.1921",
+            "le_longitude_deg": "-68.9751",
+            "le_elevation_ft": "25",
+            "le_heading_degT": "102.2",
+            "le_displaced_threshold_ft": "2723",
+            "he_ident": "29",
+            "he_latitude_deg": "12.1856",
+            "he_longitude_deg": "-68.9445",
+            "he_elevation_ft": "29",
+            "he_heading_degT": "282.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55895",
+            "airport_ref": "6404",
+            "airport_ident": "TNCC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "55896",
+            "airport_ref": "6404",
+            "airport_ident": "TNCC",
+            "type": "MISC",
+            "description": "CATS SVC",
+            "frequency_mhz": "131.8"
+        },
+        {
+            "id": "55897",
+            "airport_ref": "6404",
+            "airport_ident": "TNCC",
+            "type": "OPS",
+            "description": "DUTCH OPS CALL HO",
+            "frequency_mhz": "24.02"
+        },
+        {
+            "id": "55898",
+            "airport_ref": "6404",
+            "airport_ident": "TNCC",
+            "type": "POST",
+            "description": "IGUANA OPS",
+            "frequency_mhz": "25"
+        },
+        {
+            "id": "55899",
+            "airport_ref": "6404",
+            "airport_ident": "TNCC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302762",
+        "code": "CW",
+        "name": "Curaçao",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cura%C3%A7ao",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306901",
+        "code": "CW-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "CW",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89027",
+            "filename": "Hato_TACAN_AN",
+            "ident": "HTO",
+            "name": "Hato",
+            "type": "TACAN",
+            "frequency_khz": "134100",
+            "latitude_deg": "12.1899995803833",
+            "longitude_deg": "-68.95500183105469",
+            "elevation_ft": "45",
+            "iso_country": "BQ",
+            "dme_frequency_khz": "134100",
+            "dme_channel": "068X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.001",
+            "magnetic_variation_deg": "-10.105",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "TNCC"
+        },
+        {
+            "id": "92467",
+            "filename": "Curacao_VOR-DME_AN",
+            "ident": "PJG",
+            "name": "Curacao",
+            "type": "VOR-DME",
+            "frequency_khz": "116700",
+            "latitude_deg": "12.201199531555176",
+            "longitude_deg": "-69.0094985961914",
+            "elevation_ft": "29",
+            "iso_country": "BQ",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.001",
+            "magnetic_variation_deg": "-10.086",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "TNCC"
+        }
+    ]
+}

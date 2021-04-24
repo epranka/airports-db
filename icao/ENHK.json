@@ -1,0 +1,96 @@
+{
+    "id": "2580",
+    "ident": "ENHK",
+    "type": "small_airport",
+    "name": "Hasvik Airport",
+    "latitude_deg": "70.486701965332",
+    "longitude_deg": "22.139699935913",
+    "elevation_ft": "21",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-20",
+    "municipality": "Hasvik",
+    "scheduled_service": "yes",
+    "gps_code": "ENHK",
+    "iata_code": "HAA",
+    "local_code": "",
+    "home_link": "https://avinor.no/en/airport/hasvik-airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hasvik_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237985",
+            "airport_ref": "2580",
+            "airport_ident": "ENHK",
+            "length_ft": "3179",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "70.4884",
+            "le_longitude_deg": "22.1305",
+            "le_elevation_ft": "19",
+            "le_heading_degT": "118.8",
+            "le_displaced_threshold_ft": "199",
+            "he_ident": "29",
+            "he_latitude_deg": "70.4842",
+            "he_longitude_deg": "22.1532",
+            "he_elevation_ft": "10",
+            "he_heading_degT": "298.8",
+            "he_displaced_threshold_ft": "362"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55871",
+            "airport_ref": "2580",
+            "airport_ident": "ENHK",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "119.9"
+        }
+    ],
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "304963",
+        "code": "NO-20",
+        "local_code": "20",
+        "name": "Finnmark",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finnmark",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88858",
+            "filename": "Hasvik_NDB_NO",
+            "ident": "HK",
+            "name": "Hasvik",
+            "type": "NDB",
+            "frequency_khz": "386",
+            "latitude_deg": "70.48979949951172",
+            "longitude_deg": "22.13249969482422",
+            "elevation_ft": "",
+            "iso_country": "NO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.201",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "ENHK"
+        }
+    ]
+}

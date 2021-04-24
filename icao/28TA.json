@@ -1,0 +1,80 @@
+{
+    "id": "9223",
+    "ident": "28TA",
+    "type": "small_airport",
+    "name": "Duval County Ranch Co Airport",
+    "latitude_deg": "27.83359909",
+    "longitude_deg": "-98.71700287",
+    "elevation_ft": "665",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Freer",
+    "scheduled_service": "no",
+    "gps_code": "28TA",
+    "iata_code": "",
+    "local_code": "28TA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242174",
+            "airport_ref": "9223",
+            "airport_ident": "28TA",
+            "length_ft": "10280",
+            "width_ft": "34",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "27.8444",
+            "le_longitude_deg": "-98.7272",
+            "le_elevation_ft": "",
+            "le_heading_degT": "140",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "27.8228",
+            "he_longitude_deg": "-98.7067",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63365",
+            "airport_ref": "9223",
+            "airport_ident": "28TA",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "126.625"
+        },
+        {
+            "id": "63366",
+            "airport_ref": "9223",
+            "airport_ident": "28TA",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

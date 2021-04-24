@@ -1,0 +1,142 @@
+{
+    "id": "5441",
+    "ident": "PHBK",
+    "type": "medium_airport",
+    "name": "Barking Sands Airport",
+    "latitude_deg": "22.022800445599998",
+    "longitude_deg": "-159.785003662",
+    "elevation_ft": "23",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-HI",
+    "municipality": "Kekaha",
+    "scheduled_service": "no",
+    "gps_code": "PHBK",
+    "iata_code": "BKH",
+    "local_code": "BKH",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pacific_Missile_Range_Facility",
+    "keywords": "Pacific Missle Range Facility Barking Sands, Kauai",
+    "runways": [
+        {
+            "id": "244812",
+            "airport_ref": "5441",
+            "airport_ident": "PHBK",
+            "length_ft": "6006",
+            "width_ft": "146",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "22.0309",
+            "le_longitude_deg": "-159.787",
+            "le_elevation_ft": "23",
+            "le_heading_degT": "170",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "22.0146",
+            "he_longitude_deg": "-159.784",
+            "he_elevation_ft": "21",
+            "he_heading_degT": "350",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68918",
+            "airport_ref": "5441",
+            "airport_ident": "PHBK",
+            "type": "CNTR",
+            "description": "HONOLULU CNTR",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "68919",
+            "airport_ref": "5441",
+            "airport_ident": "PHBK",
+            "type": "OPS",
+            "description": "RANGE OUTRIDER",
+            "frequency_mhz": "32.285"
+        },
+        {
+            "id": "68920",
+            "airport_ref": "5441",
+            "airport_ident": "PHBK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "68921",
+            "airport_ref": "5441",
+            "airport_ident": "PHBK",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306087",
+        "code": "US-HI",
+        "local_code": "HI",
+        "name": "Hawaii",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91477",
+            "filename": "Barking_Sands_TACAN_US",
+            "ident": "NBS",
+            "name": "Barking Sands",
+            "type": "TACAN",
+            "frequency_khz": "112600",
+            "latitude_deg": "22.037599563598633",
+            "longitude_deg": "-159.78500366210938",
+            "elevation_ft": "10",
+            "iso_country": "US",
+            "dme_frequency_khz": "112600",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.005",
+            "magnetic_variation_deg": "9.574",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "PHBK"
+        },
+        {
+            "id": "93843",
+            "filename": "South_Kauai_VORTAC_US",
+            "ident": "SOK",
+            "name": "South Kauai",
+            "type": "VORTAC",
+            "frequency_khz": "115400",
+            "latitude_deg": "21.900400161743164",
+            "longitude_deg": "-159.5290069580078",
+            "elevation_ft": "630",
+            "iso_country": "US",
+            "dme_frequency_khz": "115400",
+            "dme_channel": "101X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.001",
+            "magnetic_variation_deg": "9.572",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PHBK"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "44926",
+    "ident": "RU-0231",
+    "type": "small_airport",
+    "name": "Vatulino Airfield",
+    "latitude_deg": "55.661964",
+    "longitude_deg": "36.139039",
+    "elevation_ft": "689",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MOS",
+    "municipality": "Ruza",
+    "scheduled_service": "no",
+    "gps_code": "UUMW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.ak-vatulino.ru",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Ватулино, Batulino",
+    "runways": [
+        {
+            "id": "307664",
+            "airport_ref": "44926",
+            "airport_ident": "RU-0231",
+            "length_ft": "2952",
+            "width_ft": "197",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "307662",
+            "airport_ref": "44926",
+            "airport_ident": "RU-0231",
+            "type": "CTAF",
+            "description": "Vatulino start",
+            "frequency_mhz": "125.55"
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305304",
+        "code": "RU-MOS",
+        "local_code": "MOS",
+        "name": "Moscow Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Moscow_Oblast",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "23322",
+    "ident": "NV11",
+    "type": "small_airport",
+    "name": "Yucca Airstrip",
+    "latitude_deg": "36.94580078125",
+    "longitude_deg": "-116.03800201416",
+    "elevation_ft": "3919",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Mercury",
+    "scheduled_service": "no",
+    "gps_code": "NV11",
+    "iata_code": "UCC",
+    "local_code": "NV11",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yucca_Airstrip",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240334",
+            "airport_ref": "23322",
+            "airport_ident": "NV11",
+            "length_ft": "9000",
+            "width_ft": "200",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "36.9566",
+            "le_longitude_deg": "-116.045",
+            "le_elevation_ft": "3919",
+            "le_heading_degT": "151.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "36.9349",
+            "he_longitude_deg": "-116.03",
+            "he_elevation_ft": "3919",
+            "he_heading_degT": "331.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59790",
+            "airport_ref": "23322",
+            "airport_ident": "NV11",
+            "type": "APP",
+            "description": "DREAMLAND APP",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306109",
+        "code": "US-NV",
+        "local_code": "NV",
+        "name": "Nevada",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
+        "keywords": ""
+    }
+}

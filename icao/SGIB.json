@@ -1,0 +1,104 @@
+{
+    "id": "6092",
+    "ident": "SGIB",
+    "type": "small_airport",
+    "name": "Itaipú Airport",
+    "latitude_deg": "-25.407519",
+    "longitude_deg": "-54.619377",
+    "elevation_ft": "762",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-10",
+    "municipality": "Itaipú",
+    "scheduled_service": "no",
+    "gps_code": "SGIB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Itaipu_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238112",
+            "airport_ref": "6092",
+            "airport_ident": "SGIB",
+            "length_ft": "4987",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "-25.4143",
+            "le_longitude_deg": "-54.6219",
+            "le_elevation_ft": "762",
+            "le_heading_degT": "19.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "-25.4014",
+            "he_longitude_deg": "-54.6169",
+            "he_elevation_ft": "738",
+            "he_heading_degT": "199.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56042",
+            "airport_ref": "6092",
+            "airport_ident": "SGIB",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "56043",
+            "airport_ref": "6092",
+            "airport_ident": "SGIB",
+            "type": "TWR",
+            "description": "GUARANI APP",
+            "frequency_mhz": "119.3"
+        }
+    ],
+    "country": {
+        "id": "302799",
+        "code": "PY",
+        "name": "Paraguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
+        "keywords": "Aeropuertos de Paraguay"
+    },
+    "region": {
+        "id": "305190",
+        "code": "PY-10",
+        "local_code": "10",
+        "name": "Alto Paraná Department",
+        "continent": "SA",
+        "iso_country": "PY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alto_Paran%C3%A1_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89371",
+            "filename": "Itaipu_NDB_PY",
+            "ident": "ITU",
+            "name": "Itaipu",
+            "type": "NDB",
+            "frequency_khz": "225",
+            "latitude_deg": "-25.408599853515625",
+            "longitude_deg": "-54.621700286865234",
+            "elevation_ft": "762",
+            "iso_country": "PY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.159",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "SGIB"
+        }
+    ]
+}

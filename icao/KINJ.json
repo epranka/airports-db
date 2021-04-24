@@ -1,0 +1,88 @@
+{
+    "id": "20178",
+    "ident": "KINJ",
+    "type": "small_airport",
+    "name": "Hillsboro Municipal Airport",
+    "latitude_deg": "32.0835",
+    "longitude_deg": "-97.097198",
+    "elevation_ft": "686",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Hillsboro",
+    "scheduled_service": "no",
+    "gps_code": "KINJ",
+    "iata_code": "",
+    "local_code": "INJ",
+    "home_link": "https://www.hillsborotx.org/departments/Airport/municipal-airport-faq",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hillsboro_Municipal_Airport_(Texas)",
+    "keywords": "5T5",
+    "runways": [
+        {
+            "id": "243763",
+            "airport_ref": "20178",
+            "airport_ident": "KINJ",
+            "length_ft": "4000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "32.0888",
+            "le_longitude_deg": "-97.0989",
+            "le_elevation_ft": "686",
+            "le_heading_degT": "164.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "32.0782",
+            "he_longitude_deg": "-97.0955",
+            "he_elevation_ft": "676",
+            "he_heading_degT": "344.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66695",
+            "airport_ref": "20178",
+            "airport_ident": "KINJ",
+            "type": "A/D",
+            "description": "WACO APP/DEP",
+            "frequency_mhz": "135.2"
+        },
+        {
+            "id": "66696",
+            "airport_ref": "20178",
+            "airport_ident": "KINJ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.725"
+        },
+        {
+            "id": "66697",
+            "airport_ref": "20178",
+            "airport_ident": "KINJ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

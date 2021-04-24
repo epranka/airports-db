@@ -1,0 +1,142 @@
+{
+    "id": "26463",
+    "ident": "VCBI",
+    "type": "large_airport",
+    "name": "Bandaranaike International Colombo Airport",
+    "latitude_deg": "7.180759906768799",
+    "longitude_deg": "79.88410186767578",
+    "elevation_ft": "30",
+    "continent": "AS",
+    "iso_country": "LK",
+    "iso_region": "LK-1",
+    "municipality": "Colombo",
+    "scheduled_service": "yes",
+    "gps_code": "VCBI",
+    "iata_code": "CMB",
+    "local_code": "",
+    "home_link": "http://www.airport.lk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bandaranaike_International_Airport",
+    "keywords": "RAF Negombo, Katunayake International Airport",
+    "runways": [
+        {
+            "id": "235115",
+            "airport_ref": "26463",
+            "airport_ident": "VCBI",
+            "length_ft": "10991",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "7.16874",
+            "le_longitude_deg": "79.8749",
+            "le_elevation_ft": "24",
+            "le_heading_degT": "37",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "7.19277",
+            "he_longitude_deg": "79.8933",
+            "he_elevation_ft": "27",
+            "he_heading_degT": "217",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51092",
+            "airport_ref": "26463",
+            "airport_ident": "VCBI",
+            "type": "APP",
+            "description": "COLOMBO APP",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "51093",
+            "airport_ref": "26463",
+            "airport_ident": "VCBI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "51094",
+            "airport_ref": "26463",
+            "airport_ident": "VCBI",
+            "type": "GND",
+            "description": "COLOMBO GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51095",
+            "airport_ref": "26463",
+            "airport_ident": "VCBI",
+            "type": "TWR",
+            "description": "COLOMBO TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302648",
+        "code": "LK",
+        "name": "Sri Lanka",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sri_Lanka",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306760",
+        "code": "LK-1",
+        "local_code": "1",
+        "name": "Western Province",
+        "continent": "AS",
+        "iso_country": "LK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Province,_Sri_Lanka",
+        "keywords": "Basnahira Palata"
+    },
+    "navaids": [
+        {
+            "id": "86916",
+            "filename": "Bandaranaike_NDB_LK",
+            "ident": "CNL",
+            "name": "Bandaranaike",
+            "type": "NDB",
+            "frequency_khz": "315",
+            "latitude_deg": "7.268589973449707",
+            "longitude_deg": "79.95089721679688",
+            "elevation_ft": "",
+            "iso_country": "LK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.406",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "VCBI"
+        },
+        {
+            "id": "89662",
+            "filename": "Bandaranaike_VOR-DME_LK",
+            "ident": "KAT",
+            "name": "Bandaranaike",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "7.1612701416015625",
+            "longitude_deg": "79.86849975585938",
+            "elevation_ft": "29",
+            "iso_country": "LK",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-2.42",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VCBI"
+        }
+    ]
+}

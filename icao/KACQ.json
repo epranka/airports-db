@@ -1,0 +1,88 @@
+{
+    "id": "19231",
+    "ident": "KACQ",
+    "type": "small_airport",
+    "name": "Waseca Municipal Airport",
+    "latitude_deg": "44.07350158691406",
+    "longitude_deg": "-93.55290222167969",
+    "elevation_ft": "1126",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Waseca",
+    "scheduled_service": "no",
+    "gps_code": "KACQ",
+    "iata_code": "",
+    "local_code": "ACQ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244134",
+            "airport_ref": "19231",
+            "airport_ident": "KACQ",
+            "length_ft": "3398",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "44.0777",
+            "le_longitude_deg": "-93.5558",
+            "le_elevation_ft": "1126",
+            "le_heading_degT": "154",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "44.0693",
+            "he_longitude_deg": "-93.5501",
+            "he_elevation_ft": "1119",
+            "he_heading_degT": "334",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67443",
+            "airport_ref": "19231",
+            "airport_ident": "KACQ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "37.1"
+        },
+        {
+            "id": "67444",
+            "airport_ref": "19231",
+            "airport_ident": "KACQ",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "67445",
+            "airport_ref": "19231",
+            "airport_ident": "KACQ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

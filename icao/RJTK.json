@@ -1,0 +1,104 @@
+{
+    "id": "5622",
+    "ident": "RJTK",
+    "type": "medium_airport",
+    "name": "JGSDF Kisarazu Airfield",
+    "latitude_deg": "35.3983",
+    "longitude_deg": "139.910004",
+    "elevation_ft": "10",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-12",
+    "municipality": "Kisarazu",
+    "scheduled_service": "no",
+    "gps_code": "RJTK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237174",
+            "airport_ref": "5622",
+            "airport_ident": "RJTK",
+            "length_ft": "6004",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "35.3903",
+            "le_longitude_deg": "139.907",
+            "le_elevation_ft": "10",
+            "le_heading_degT": "15.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "35.4062",
+            "he_longitude_deg": "139.913",
+            "he_elevation_ft": "10",
+            "he_heading_degT": "195.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54600",
+            "airport_ref": "5622",
+            "airport_ident": "RJTK",
+            "type": "APP",
+            "description": "TOKYO APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "54601",
+            "airport_ref": "5622",
+            "airport_ident": "RJTK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304297",
+        "code": "JP-12",
+        "local_code": "12",
+        "name": "Chiba Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chiba",
+        "keywords": "Kanto"
+    },
+    "navaids": [
+        {
+            "id": "90102",
+            "filename": "Kisarazu_VOR-DME_JP",
+            "ident": "KZE",
+            "name": "Kisarazu",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "35.402400970458984",
+            "longitude_deg": "139.9029998779297",
+            "elevation_ft": "45",
+            "iso_country": "JP",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-6.483",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RJTK"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "29142",
+    "ident": "EGHG",
+    "type": "small_airport",
+    "name": "Yeovil/Westland Aerodrome",
+    "latitude_deg": "50.939998626708984",
+    "longitude_deg": "-2.6586101055145264",
+    "elevation_ft": "202",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Yeovil",
+    "scheduled_service": "no",
+    "gps_code": "EGHG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yeovil/Westland_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "249230",
+            "airport_ref": "29142",
+            "airport_ident": "EGHG",
+            "length_ft": "3878",
+            "width_ft": "121",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "193",
+            "le_heading_degT": "94",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "175",
+            "he_heading_degT": "274",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72004",
+            "airport_ref": "29142",
+            "airport_ident": "EGHG",
+            "type": "A/G",
+            "description": "Yeovil Westland A/G",
+            "frequency_mhz": "125.4"
+        },
+        {
+            "id": "72006",
+            "airport_ref": "29142",
+            "airport_ident": "EGHG",
+            "type": "RAD/APP",
+            "description": "Yeovil Westland RAD/APP",
+            "frequency_mhz": "130.8"
+        },
+        {
+            "id": "72005",
+            "airport_ref": "29142",
+            "airport_ident": "EGHG",
+            "type": "TWR",
+            "description": "Yeovil Westland TWR",
+            "frequency_mhz": "125.4"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

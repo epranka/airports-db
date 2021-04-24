@@ -1,0 +1,80 @@
+{
+    "id": "20740",
+    "ident": "KOLG",
+    "type": "small_airport",
+    "name": "Solon Springs Municipal Airport",
+    "latitude_deg": "46.31480026245117",
+    "longitude_deg": "-91.81639862060547",
+    "elevation_ft": "1102",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Solon Springs",
+    "scheduled_service": "no",
+    "gps_code": "KOLG",
+    "iata_code": "",
+    "local_code": "OLG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242609",
+            "airport_ref": "20740",
+            "airport_ident": "KOLG",
+            "length_ft": "3100",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "46.3105",
+            "le_longitude_deg": "-91.8172",
+            "le_elevation_ft": "1101",
+            "le_heading_degT": "7.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "46.319",
+            "he_longitude_deg": "-91.8156",
+            "he_elevation_ft": "1100",
+            "he_heading_degT": "187.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64279",
+            "airport_ref": "20740",
+            "airport_ident": "KOLG",
+            "type": "A/D",
+            "description": "DULUTH APP/DEP",
+            "frequency_mhz": "125.45"
+        },
+        {
+            "id": "64280",
+            "airport_ref": "20740",
+            "airport_ident": "KOLG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

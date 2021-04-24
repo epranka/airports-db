@@ -1,0 +1,110 @@
+{
+    "id": "20157",
+    "ident": "KIEN",
+    "type": "small_airport",
+    "name": "Pine Ridge Airport",
+    "latitude_deg": "43.0224990845",
+    "longitude_deg": "-102.511001587",
+    "elevation_ft": "3333",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Pine Ridge",
+    "scheduled_service": "no",
+    "gps_code": "KIEN",
+    "iata_code": "XPR",
+    "local_code": "IEN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pine_Ridge_Airport",
+    "keywords": "6V2, SFD, KSFD",
+    "runways": [
+        {
+            "id": "242568",
+            "airport_ref": "20157",
+            "airport_ident": "KIEN",
+            "length_ft": "3003",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "43.0236",
+            "le_longitude_deg": "-102.524",
+            "le_elevation_ft": "3278",
+            "le_heading_degT": "76.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "43.0255",
+            "he_longitude_deg": "-102.513",
+            "he_elevation_ft": "3300",
+            "he_heading_degT": "256.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242569",
+            "airport_ref": "20157",
+            "airport_ident": "KIEN",
+            "length_ft": "5000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "43.0256",
+            "le_longitude_deg": "-102.514",
+            "le_elevation_ft": "3298",
+            "le_heading_degT": "129",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "43.017",
+            "he_longitude_deg": "-102.499",
+            "he_elevation_ft": "3331",
+            "he_heading_degT": "309",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64212",
+            "airport_ref": "20157",
+            "airport_ident": "KIEN",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "126.775"
+        },
+        {
+            "id": "64213",
+            "airport_ref": "20157",
+            "airport_ident": "KIEN",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "127.95"
+        },
+        {
+            "id": "64214",
+            "airport_ref": "20157",
+            "airport_ident": "KIEN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306117",
+        "code": "US-SD",
+        "local_code": "SD",
+        "name": "South Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
+        "keywords": ""
+    }
+}

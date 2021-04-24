@@ -1,0 +1,120 @@
+{
+    "id": "5392",
+    "ident": "PANV",
+    "type": "medium_airport",
+    "name": "Anvik Airport",
+    "latitude_deg": "62.646702",
+    "longitude_deg": "-160.190994",
+    "elevation_ft": "291",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Anvik",
+    "scheduled_service": "yes",
+    "gps_code": "PANV",
+    "iata_code": "ANV",
+    "local_code": "ANV",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Anvik_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239704",
+            "airport_ref": "5392",
+            "airport_ident": "PANV",
+            "length_ft": "2960",
+            "width_ft": "75",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "62.6507",
+            "le_longitude_deg": "-160.19",
+            "le_elevation_ft": "297",
+            "le_heading_degT": "187",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "62.6427",
+            "he_longitude_deg": "-160.192",
+            "he_elevation_ft": "309",
+            "he_heading_degT": "7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58795",
+            "airport_ref": "5392",
+            "airport_ident": "PANV",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.55"
+        },
+        {
+            "id": "58796",
+            "airport_ref": "5392",
+            "airport_ident": "PANV",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "135.7"
+        },
+        {
+            "id": "58797",
+            "airport_ref": "5392",
+            "airport_ident": "PANV",
+            "type": "FSS",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "58798",
+            "airport_ref": "5392",
+            "airport_ident": "PANV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85510",
+            "filename": "Anvik_NDB-DME_US",
+            "ident": "ANV",
+            "name": "Anvik",
+            "type": "NDB-DME",
+            "frequency_khz": "365",
+            "latitude_deg": "62.64139938354492",
+            "longitude_deg": "-160.19000244140625",
+            "elevation_ft": "358",
+            "iso_country": "US",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "62.6415",
+            "dme_longitude_deg": "-160.189",
+            "dme_elevation_ft": "358",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.061",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PANV"
+        }
+    ]
+}

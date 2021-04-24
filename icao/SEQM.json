@@ -1,0 +1,104 @@
+{
+    "id": "308273",
+    "ident": "SEQM",
+    "type": "large_airport",
+    "name": "Mariscal Sucre International Airport",
+    "latitude_deg": "-0.129166666667",
+    "longitude_deg": "-78.3575",
+    "elevation_ft": "7841",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-P",
+    "municipality": "Quito",
+    "scheduled_service": "yes",
+    "gps_code": "SEQM",
+    "iata_code": "UIO",
+    "local_code": "UIO",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mariscal_Sucre_International_Airport",
+    "keywords": "Nuevo Aeropuerto Internacional Mariscal Sucre",
+    "runways": [
+        {
+            "id": "308279",
+            "airport_ref": "308273",
+            "airport_ident": "SEQM",
+            "length_ft": "13445",
+            "width_ft": "148",
+            "surface": "Paviment hard",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "7776",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "7910",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "308274",
+            "airport_ref": "308273",
+            "airport_ident": "SEQM",
+            "type": "APPR",
+            "description": "Quito Approach",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "308275",
+            "airport_ref": "308273",
+            "airport_ident": "SEQM",
+            "type": "APPR2",
+            "description": "Quito Approach",
+            "frequency_mhz": "121.2"
+        },
+        {
+            "id": "308276",
+            "airport_ref": "308273",
+            "airport_ident": "SEQM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "308277",
+            "airport_ref": "308273",
+            "airport_ident": "SEQM",
+            "type": "GRD",
+            "description": "Quito Ground",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "308278",
+            "airport_ref": "308273",
+            "airport_ident": "SEQM",
+            "type": "TWR",
+            "description": "Quito Tower",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303665",
+        "code": "EC-P",
+        "local_code": "P",
+        "name": "Pichincha Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pichincha_Province",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "id": "3621",
+    "ident": "KJBR",
+    "type": "medium_airport",
+    "name": "Jonesboro Municipal Airport",
+    "latitude_deg": "35.83169937133789",
+    "longitude_deg": "-90.64640045166016",
+    "elevation_ft": "262",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Jonesboro",
+    "scheduled_service": "yes",
+    "gps_code": "KJBR",
+    "iata_code": "JBR",
+    "local_code": "JBR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jonesboro_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242314",
+            "airport_ref": "3621",
+            "airport_ident": "KJBR",
+            "length_ft": "6200",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "35.8288",
+            "le_longitude_deg": "-90.6512",
+            "le_elevation_ft": "254",
+            "le_heading_degT": "50.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "35.8397",
+            "he_longitude_deg": "-90.6352",
+            "he_elevation_ft": "258",
+            "he_heading_degT": "230.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242315",
+            "airport_ref": "3621",
+            "airport_ident": "KJBR",
+            "length_ft": "4099",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "35.8318",
+            "le_longitude_deg": "-90.6562",
+            "le_elevation_ft": "262",
+            "le_heading_degT": "134.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "35.8239",
+            "he_longitude_deg": "-90.6464",
+            "he_elevation_ft": "251",
+            "he_heading_degT": "314.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63678",
+            "airport_ref": "3621",
+            "airport_ident": "KJBR",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "63679",
+            "airport_ref": "3621",
+            "airport_ident": "KJBR",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "120.075"
+        },
+        {
+            "id": "63680",
+            "airport_ref": "3621",
+            "airport_ident": "KJBR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "63681",
+            "airport_ref": "3621",
+            "airport_ident": "KJBR",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "63682",
+            "airport_ref": "3621",
+            "airport_ident": "KJBR",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89451",
+            "filename": "Jonesboro_VOR-DME_US",
+            "ident": "JBR",
+            "name": "Jonesboro",
+            "type": "VOR-DME",
+            "frequency_khz": "108600",
+            "latitude_deg": "35.874900817871094",
+            "longitude_deg": "-90.5885009765625",
+            "elevation_ft": "247",
+            "iso_country": "US",
+            "dme_frequency_khz": "108600",
+            "dme_channel": "023X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "0.144",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KJBR"
+        }
+    ]
+}

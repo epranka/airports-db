@@ -1,0 +1,80 @@
+{
+    "id": "18545",
+    "ident": "K24J",
+    "type": "small_airport",
+    "name": "Suwannee County Airport",
+    "latitude_deg": "30.300100326538086",
+    "longitude_deg": "-83.02469635009766",
+    "elevation_ft": "104",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Live Oak",
+    "scheduled_service": "no",
+    "gps_code": "K24J",
+    "iata_code": "",
+    "local_code": "24J",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240477",
+            "airport_ref": "18545",
+            "airport_ident": "K24J",
+            "length_ft": "4037",
+            "width_ft": "75",
+            "surface": "ASPH-F",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "30.2981",
+            "le_longitude_deg": "-83.0307",
+            "le_elevation_ft": "101",
+            "le_heading_degT": "69",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "30.3021",
+            "he_longitude_deg": "-83.0187",
+            "he_elevation_ft": "103",
+            "he_heading_degT": "249",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60043",
+            "airport_ref": "18545",
+            "airport_ident": "K24J",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.225"
+        },
+        {
+            "id": "60044",
+            "airport_ref": "18545",
+            "airport_ident": "K24J",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

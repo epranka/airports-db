@@ -1,0 +1,112 @@
+{
+    "id": "19999",
+    "ident": "KGYR",
+    "type": "small_airport",
+    "name": "Phoenix Goodyear Airport",
+    "latitude_deg": "33.4225006104",
+    "longitude_deg": "-112.375999451",
+    "elevation_ft": "968",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Goodyear",
+    "scheduled_service": "no",
+    "gps_code": "KGYR",
+    "iata_code": "GYR",
+    "local_code": "GYR",
+    "home_link": "http://goodyearairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Phoenix_Goodyear_Airport",
+    "keywords": "NAS Litchfield Park",
+    "runways": [
+        {
+            "id": "241752",
+            "airport_ref": "19999",
+            "airport_ident": "KGYR",
+            "length_ft": "8500",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "33.4136",
+            "le_longitude_deg": "-112.385",
+            "le_elevation_ft": "968",
+            "le_heading_degT": "38",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "33.4319",
+            "he_longitude_deg": "-112.368",
+            "he_elevation_ft": "968",
+            "he_heading_degT": "218",
+            "he_displaced_threshold_ft": "2100"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62494",
+            "airport_ref": "19999",
+            "airport_ident": "KGYR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.35"
+        },
+        {
+            "id": "62495",
+            "airport_ref": "19999",
+            "airport_ident": "KGYR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "62496",
+            "airport_ref": "19999",
+            "airport_ident": "KGYR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "62497",
+            "airport_ref": "19999",
+            "airport_ident": "KGYR",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "62498",
+            "airport_ref": "19999",
+            "airport_ident": "KGYR",
+            "type": "TWR",
+            "description": "GOODYEAR TWR",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "62499",
+            "airport_ref": "19999",
+            "airport_ident": "KGYR",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

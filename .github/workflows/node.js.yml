@@ -27,7 +27,7 @@ jobs:
     - name: Fetch latest
       run: |
         npm install
-        npm run build --if-present
+        npm run build
     - name: Commit
       run: |
         git config --local user.email "github-actions[bot]@noreplay.com"

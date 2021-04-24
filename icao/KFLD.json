@@ -1,0 +1,118 @@
+{
+    "id": "19876",
+    "ident": "KFLD",
+    "type": "small_airport",
+    "name": "Fond du Lac County Airport",
+    "latitude_deg": "43.7711982727",
+    "longitude_deg": "-88.48840332030001",
+    "elevation_ft": "808",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Fond du Lac",
+    "scheduled_service": "no",
+    "gps_code": "KFLD",
+    "iata_code": "FLD",
+    "local_code": "FLD",
+    "home_link": "http://www.fdlco.wi.gov/departments/departments-a-e/airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fond_du_Lac_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244179",
+            "airport_ref": "19876",
+            "airport_ident": "KFLD",
+            "length_ft": "3602",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "43.7716",
+            "le_longitude_deg": "-88.4989",
+            "le_elevation_ft": "808",
+            "le_heading_degT": "92",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "43.7713",
+            "he_longitude_deg": "-88.4853",
+            "he_elevation_ft": "788",
+            "he_heading_degT": "272",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244180",
+            "airport_ref": "19876",
+            "airport_ident": "KFLD",
+            "length_ft": "5941",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "43.7791",
+            "le_longitude_deg": "-88.4862",
+            "le_elevation_ft": "783",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "43.7628",
+            "he_longitude_deg": "-88.4862",
+            "he_elevation_ft": "794",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67537",
+            "airport_ref": "19876",
+            "airport_ident": "KFLD",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "67538",
+            "airport_ref": "19876",
+            "airport_ident": "KFLD",
+            "type": "CNTR",
+            "description": "CHICAGO CNTR",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "67539",
+            "airport_ref": "19876",
+            "airport_ident": "KFLD",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "67540",
+            "airport_ref": "19876",
+            "airport_ident": "KFLD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

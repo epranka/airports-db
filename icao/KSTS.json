@@ -1,0 +1,134 @@
+{
+    "id": "21114",
+    "ident": "KSTS",
+    "type": "medium_airport",
+    "name": "Charles M. Schulz Sonoma County Airport",
+    "latitude_deg": "38.50899887",
+    "longitude_deg": "-122.8130035",
+    "elevation_ft": "128",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Santa Rosa",
+    "scheduled_service": "yes",
+    "gps_code": "KSTS",
+    "iata_code": "STS",
+    "local_code": "STS",
+    "home_link": "http://www.sonomacountyairport.org/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Charles_M._Schulz_-_Sonoma_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243495",
+            "airport_ref": "21114",
+            "airport_ident": "KSTS",
+            "length_ft": "5202",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "38.5032",
+            "le_longitude_deg": "-122.821",
+            "le_elevation_ft": "129",
+            "le_heading_degT": "29",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "38.5157",
+            "he_longitude_deg": "-122.812",
+            "he_elevation_ft": "113",
+            "he_heading_degT": "209",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243496",
+            "airport_ref": "21114",
+            "airport_ident": "KSTS",
+            "length_ft": "6000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "38.5175",
+            "le_longitude_deg": "-122.814",
+            "le_elevation_ft": "111",
+            "le_heading_degT": "157",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "38.5023",
+            "he_longitude_deg": "-122.806",
+            "he_elevation_ft": "120",
+            "he_heading_degT": "337",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66118",
+            "airport_ref": "21114",
+            "airport_ident": "KSTS",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "66119",
+            "airport_ref": "21114",
+            "airport_ident": "KSTS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.55"
+        },
+        {
+            "id": "66120",
+            "airport_ref": "21114",
+            "airport_ident": "KSTS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "66121",
+            "airport_ref": "21114",
+            "airport_ident": "KSTS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "66122",
+            "airport_ref": "21114",
+            "airport_ident": "KSTS",
+            "type": "TWR",
+            "description": "SANTA ROSA TWR",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "66123",
+            "airport_ref": "21114",
+            "airport_ident": "KSTS",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

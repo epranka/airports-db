@@ -1,0 +1,112 @@
+{
+    "id": "4745",
+    "ident": "MMPR",
+    "type": "large_airport",
+    "name": "Licenciado Gustavo Díaz Ordaz International Airport",
+    "latitude_deg": "20.680099487304688",
+    "longitude_deg": "-105.25399780273438",
+    "elevation_ft": "23",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-JAL",
+    "municipality": "Puerto Vallarta",
+    "scheduled_service": "yes",
+    "gps_code": "MMPR",
+    "iata_code": "PVR",
+    "local_code": "",
+    "home_link": "http://vallarta.aeropuertosgap.com.mx/index.php?lang=eng",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lic._Gustavo_D%C3%ADaz_Ordaz_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237792",
+            "airport_ref": "4745",
+            "airport_ident": "MMPR",
+            "length_ft": "10171",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "20.6705",
+            "le_longitude_deg": "-105.265",
+            "le_elevation_ft": "23",
+            "le_heading_degT": "47",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "20.6896",
+            "he_longitude_deg": "-105.243",
+            "he_elevation_ft": "23",
+            "he_heading_degT": "227",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55537",
+            "airport_ref": "4745",
+            "airport_ident": "MMPR",
+            "type": "APP",
+            "description": "VALLARTA APP",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "55538",
+            "airport_ref": "4745",
+            "airport_ident": "MMPR",
+            "type": "ATIS",
+            "description": "VALLARTA ATIS",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "55539",
+            "airport_ref": "4745",
+            "airport_ident": "MMPR",
+            "type": "TWR",
+            "description": "VALLARTA TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304803",
+        "code": "MX-JAL",
+        "local_code": "JAL",
+        "name": "Jalisco",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jalisco",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92819",
+            "filename": "Vallarta_VOR-DME_MX",
+            "ident": "PVR",
+            "name": "Vallarta",
+            "type": "VOR-DME",
+            "frequency_khz": "116600",
+            "latitude_deg": "20.673099517822266",
+            "longitude_deg": "-105.25700378417969",
+            "elevation_ft": "23",
+            "iso_country": "MX",
+            "dme_frequency_khz": "116600",
+            "dme_channel": "113X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.006",
+            "magnetic_variation_deg": "8.028",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMPR"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "4072",
+    "ident": "LFBR",
+    "type": "small_airport",
+    "name": "Aérodrome de Muret - Lherm",
+    "latitude_deg": "43.448898",
+    "longitude_deg": "1.26333",
+    "elevation_ft": "622",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Muret/Lherm",
+    "scheduled_service": "no",
+    "gps_code": "LFBR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.muret-lherm.aero",
+    "wikipedia_link": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Muret_-_Lherm",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235931",
+            "airport_ref": "4072",
+            "airport_ident": "LFBR",
+            "length_ft": "3609",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "43.4514",
+            "le_longitude_deg": "1.25762",
+            "le_elevation_ft": "619",
+            "le_heading_degT": "117",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "43.4469",
+            "he_longitude_deg": "1.26976",
+            "he_elevation_ft": "621",
+            "he_heading_degT": "297",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52397",
+            "airport_ref": "4072",
+            "airport_ident": "LFBR",
+            "type": "APP",
+            "description": "TOULOUSE APP",
+            "frequency_mhz": "125.175"
+        },
+        {
+            "id": "52398",
+            "airport_ref": "4072",
+            "airport_ident": "LFBR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.575"
+        },
+        {
+            "id": "52399",
+            "airport_ref": "4072",
+            "airport_ident": "LFBR",
+            "type": "GND",
+            "description": "MURET GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "52400",
+            "airport_ref": "4072",
+            "airport_ident": "LFBR",
+            "type": "TWR",
+            "description": "MURET TWR",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306341",
+        "code": "FR-OCC",
+        "local_code": "OCC",
+        "name": "Occitanie",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occitanie",
+        "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "id": "19599",
+    "ident": "KD39",
+    "type": "small_airport",
+    "name": "Sauk Centre Municipal Airport",
+    "latitude_deg": "45.706600189208984",
+    "longitude_deg": "-94.93340301513672",
+    "elevation_ft": "1244",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Sauk Centre",
+    "scheduled_service": "no",
+    "gps_code": "KD39",
+    "iata_code": "",
+    "local_code": "D39",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243994",
+            "airport_ref": "19599",
+            "airport_ident": "KD39",
+            "length_ft": "2270",
+            "width_ft": "140",
+            "surface": "TURF-P",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "45.7088",
+            "le_longitude_deg": "-94.938",
+            "le_elevation_ft": "1244",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "45.7087",
+            "he_longitude_deg": "-94.9294",
+            "he_elevation_ft": "1244",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243995",
+            "airport_ref": "19599",
+            "airport_ident": "KD39",
+            "length_ft": "3300",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "45.709",
+            "le_longitude_deg": "-94.9364",
+            "le_elevation_ft": "1234",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "45.7011",
+            "he_longitude_deg": "-94.9301",
+            "he_elevation_ft": "1234",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67180",
+            "airport_ref": "19599",
+            "airport_ident": "KD39",
+            "type": "A/D",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "67181",
+            "airport_ref": "19599",
+            "airport_ident": "KD39",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

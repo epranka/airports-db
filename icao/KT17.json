@@ -1,0 +1,72 @@
+{
+    "id": "21139",
+    "ident": "KT17",
+    "type": "small_airport",
+    "name": "New Gulf Airport",
+    "latitude_deg": "29.272999",
+    "longitude_deg": "-95.886869",
+    "elevation_ft": "100",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "New Gulf",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "1TX4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "T17, Boling-Lago",
+    "runways": [
+        {
+            "id": "240662",
+            "airport_ref": "21139",
+            "airport_ident": "KT17",
+            "length_ft": "4400",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "29.2816",
+            "le_longitude_deg": "-95.8916",
+            "le_elevation_ft": "",
+            "le_heading_degT": "154.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "29.2707",
+            "he_longitude_deg": "-95.8856",
+            "he_elevation_ft": "",
+            "he_heading_degT": "334.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60308",
+            "airport_ref": "21139",
+            "airport_ident": "KT17",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

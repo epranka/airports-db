@@ -1,0 +1,96 @@
+{
+    "id": "4302",
+    "ident": "LHPP",
+    "type": "medium_airport",
+    "name": "Pécs-Pogány Airport",
+    "latitude_deg": "45.990898",
+    "longitude_deg": "18.240996",
+    "elevation_ft": "1000",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-BA",
+    "municipality": "Pécs-Pogány",
+    "scheduled_service": "yes",
+    "gps_code": "LHPP",
+    "iata_code": "PEV",
+    "local_code": "",
+    "home_link": "http://www.airport-pecs.hu/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/P%C3%A9cs-Pog%C3%A1ny_International_Airport",
+    "keywords": "Pecs South Airport",
+    "runways": [
+        {
+            "id": "236445",
+            "airport_ref": "4302",
+            "airport_ident": "LHPP",
+            "length_ft": "4922",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "45.9956",
+            "le_longitude_deg": "18.2383",
+            "le_elevation_ft": "650",
+            "le_heading_degT": "157.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "45.9831",
+            "he_longitude_deg": "18.2458",
+            "he_elevation_ft": "640",
+            "he_heading_degT": "337.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53540",
+            "airport_ref": "4302",
+            "airport_ident": "LHPP",
+            "type": "AFIS",
+            "description": "POGANY INFO",
+            "frequency_mhz": "126.9"
+        }
+    ],
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304055",
+        "code": "HU-BA",
+        "local_code": "BA",
+        "name": "Baranya",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baranya",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92629",
+            "filename": "Pecs-Pogany_NDB_HU",
+            "ident": "PP",
+            "name": "Pecs-Pogany",
+            "type": "NDB",
+            "frequency_khz": "412",
+            "latitude_deg": "46.00579833984375",
+            "longitude_deg": "18.232799530029297",
+            "elevation_ft": "",
+            "iso_country": "HU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.057",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LHPP"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "5736",
+    "ident": "RPVE",
+    "type": "medium_airport",
+    "name": "Godofredo P. Ramos Airport",
+    "latitude_deg": "11.9245",
+    "longitude_deg": "121.954002",
+    "elevation_ft": "7",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-AKL",
+    "municipality": "Malay",
+    "scheduled_service": "yes",
+    "gps_code": "RPVE",
+    "iata_code": "MPH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Godofredo_P._Ramos_Airport",
+    "keywords": "Godofredo P. Ramos Airport",
+    "runways": [
+        {
+            "id": "238478",
+            "airport_ref": "5736",
+            "airport_ident": "RPVE",
+            "length_ft": "5905",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "11.9226",
+            "le_longitude_deg": "121.95",
+            "le_elevation_ft": "",
+            "le_heading_degT": "64",
+            "le_displaced_threshold_ft": "330",
+            "he_ident": "24",
+            "he_latitude_deg": "11.9265",
+            "he_longitude_deg": "121.958",
+            "he_elevation_ft": "",
+            "he_heading_degT": "244",
+            "he_displaced_threshold_ft": "190"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56542",
+            "airport_ref": "5736",
+            "airport_ident": "RPVE",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "520.5"
+        },
+        {
+            "id": "56543",
+            "airport_ref": "5736",
+            "airport_ident": "RPVE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305058",
+        "code": "PH-AKL",
+        "local_code": "AKL",
+        "name": "Aklan Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aklan_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87074",
+            "filename": "Caticlan_NDB_PH",
+            "ident": "CT",
+            "name": "Caticlan",
+            "type": "NDB",
+            "frequency_khz": "379",
+            "latitude_deg": "11.925000190734863",
+            "longitude_deg": "121.95800018310547",
+            "elevation_ft": "",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.484",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPVE"
+        }
+    ]
+}

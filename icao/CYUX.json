@@ -1,0 +1,182 @@
+{
+    "id": "1930",
+    "ident": "CYUX",
+    "type": "medium_airport",
+    "name": "Hall Beach Airport",
+    "latitude_deg": "68.77610015869999",
+    "longitude_deg": "-81.2425",
+    "elevation_ft": "30",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Hall Beach",
+    "scheduled_service": "yes",
+    "gps_code": "CYUX",
+    "iata_code": "YUX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hall_Beach_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235070",
+            "airport_ref": "1930",
+            "airport_ident": "CYUX",
+            "length_ft": "5410",
+            "width_ft": "150",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12T",
+            "le_latitude_deg": "68.7803",
+            "le_longitude_deg": "-81.2606",
+            "le_elevation_ft": "27",
+            "le_heading_degT": "124",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30T",
+            "he_latitude_deg": "68.772",
+            "he_longitude_deg": "-81.2267",
+            "he_elevation_ft": "18",
+            "he_heading_degT": "304",
+            "he_displaced_threshold_ft": "192"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50996",
+            "airport_ref": "1930",
+            "airport_ident": "CYUX",
+            "type": "APRT RDO",
+            "description": "Hall Beach, (V), 12-24Z",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50995",
+            "airport_ref": "1930",
+            "airport_ident": "CYUX",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "311322",
+            "airport_ref": "1930",
+            "airport_ident": "CYUX",
+            "type": "MF",
+            "description": "Hall Beach radio/traffic, 5nm below 3100,",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50998",
+            "airport_ref": "1930",
+            "airport_ident": "CYUX",
+            "type": "MIL",
+            "description": "Miltary operations",
+            "frequency_mhz": "228.9"
+        },
+        {
+            "id": "311318",
+            "airport_ref": "1930",
+            "airport_ident": "CYUX",
+            "type": "MIL",
+            "description": "Military operations",
+            "frequency_mhz": "256.6"
+        },
+        {
+            "id": "311319",
+            "airport_ref": "1930",
+            "airport_ident": "CYUX",
+            "type": "MIL",
+            "description": "Military operations",
+            "frequency_mhz": "263.2"
+        },
+        {
+            "id": "311320",
+            "airport_ref": "1930",
+            "airport_ident": "CYUX",
+            "type": "MIL",
+            "description": "Military operations",
+            "frequency_mhz": "364.2"
+        },
+        {
+            "id": "50994",
+            "airport_ref": "1930",
+            "airport_ident": "CYUX",
+            "type": "RCO",
+            "description": "Artic radio (FISE), (E)",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "311321",
+            "airport_ref": "1930",
+            "airport_ident": "CYUX",
+            "type": "RCO",
+            "description": "Artic radio (FISE), (E)",
+            "frequency_mhz": "364.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303301",
+        "code": "CA-NU",
+        "local_code": "NU",
+        "name": "Nunavut",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95000",
+            "filename": "Hall_Beach_NDB_CA",
+            "ident": "UX",
+            "name": "Hall Beach",
+            "type": "NDB",
+            "frequency_khz": "378",
+            "latitude_deg": "68.76719665527344",
+            "longitude_deg": "-81.25640106201172",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-34.25",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYUX"
+        },
+        {
+            "id": "95875",
+            "filename": "Hall_Beach_VOR-DME_CA",
+            "ident": "YUX",
+            "name": "Hall Beach",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "68.7782974243164",
+            "longitude_deg": "-81.2394027709961",
+            "elevation_ft": "53",
+            "iso_country": "CA",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.005",
+            "magnetic_variation_deg": "-34.275",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYUX"
+        }
+    ]
+}

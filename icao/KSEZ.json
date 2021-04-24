@@ -1,0 +1,96 @@
+{
+    "id": "21055",
+    "ident": "KSEZ",
+    "type": "small_airport",
+    "name": "Sedona Airport",
+    "latitude_deg": "34.848598480225",
+    "longitude_deg": "-111.78800201416",
+    "elevation_ft": "4830",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Sedona",
+    "scheduled_service": "no",
+    "gps_code": "KSEZ",
+    "iata_code": "SDX",
+    "local_code": "SEZ",
+    "home_link": "http://sedonaairport.org/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sedona_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241376",
+            "airport_ref": "21055",
+            "airport_ident": "KSEZ",
+            "length_ft": "5129",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "34.8437",
+            "le_longitude_deg": "-111.795",
+            "le_elevation_ft": "4736",
+            "le_heading_degT": "45.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "34.8535",
+            "he_longitude_deg": "-111.782",
+            "he_elevation_ft": "4827",
+            "he_heading_degT": "225.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61711",
+            "airport_ref": "21055",
+            "airport_ident": "KSEZ",
+            "type": "A/D",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "61712",
+            "airport_ref": "21055",
+            "airport_ident": "KSEZ",
+            "type": "AWOS",
+            "description": "AWOS 2",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "61713",
+            "airport_ref": "21055",
+            "airport_ident": "KSEZ",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "61714",
+            "airport_ref": "21055",
+            "airport_ident": "KSEZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

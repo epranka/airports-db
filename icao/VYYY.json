@@ -1,0 +1,142 @@
+{
+    "id": "26744",
+    "ident": "VYYY",
+    "type": "large_airport",
+    "name": "Yangon International Airport",
+    "latitude_deg": "16.907300949099998",
+    "longitude_deg": "96.1332015991",
+    "elevation_ft": "109",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-06",
+    "municipality": "Yangon",
+    "scheduled_service": "yes",
+    "gps_code": "VYYY",
+    "iata_code": "RGN",
+    "local_code": "",
+    "home_link": "http://www.yangonairportonline.com",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yangon_International_Airport",
+    "keywords": "Rangoon",
+    "runways": [
+        {
+            "id": "233724",
+            "airport_ref": "26744",
+            "airport_ident": "VYYY",
+            "length_ft": "11200",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "16.898",
+            "le_longitude_deg": "96.1269",
+            "le_elevation_ft": "109",
+            "le_heading_degT": "33.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "16.9166",
+            "he_longitude_deg": "96.1395",
+            "he_elevation_ft": "65",
+            "he_heading_degT": "213.1",
+            "he_displaced_threshold_ft": "275"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49506",
+            "airport_ref": "26744",
+            "airport_ident": "VYYY",
+            "type": "APP",
+            "description": "MINGALADON APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "49507",
+            "airport_ref": "26744",
+            "airport_ident": "VYYY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "49508",
+            "airport_ref": "26744",
+            "airport_ident": "VYYY",
+            "type": "GND",
+            "description": "MINGALADON GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49509",
+            "airport_ref": "26744",
+            "airport_ident": "VYYY",
+            "type": "TWR",
+            "description": "MINGALADON TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302649",
+        "code": "MM",
+        "name": "Burma",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
+        "keywords": "Myanmar"
+    },
+    "region": {
+        "id": "304671",
+        "code": "MM-06",
+        "local_code": "06",
+        "name": "Yangon Division",
+        "continent": "AS",
+        "iso_country": "MM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yangon_Division",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90843",
+            "filename": "Mingaladon_NDB_MM",
+            "ident": "MDS",
+            "name": "Mingaladon",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "16.87459945678711",
+            "longitude_deg": "96.10980224609375",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.459",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VYYY"
+        },
+        {
+            "id": "95677",
+            "filename": "Yangon_NDB_MM",
+            "ident": "YGN",
+            "name": "Yangon",
+            "type": "NDB",
+            "frequency_khz": "265",
+            "latitude_deg": "17.0762996673584",
+            "longitude_deg": "96.23819732666016",
+            "elevation_ft": "41",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.456",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VYYY"
+        }
+    ]
+}

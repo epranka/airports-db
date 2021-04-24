@@ -1,0 +1,110 @@
+{
+    "id": "19782",
+    "ident": "KEVW",
+    "type": "medium_airport",
+    "name": "Evanston-Uinta County Airport-Burns Field",
+    "latitude_deg": "41.27479935",
+    "longitude_deg": "-111.0350037",
+    "elevation_ft": "7143",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Evanston",
+    "scheduled_service": "no",
+    "gps_code": "KEVW",
+    "iata_code": "EVW",
+    "local_code": "EVW",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242048",
+            "airport_ref": "19782",
+            "airport_ident": "KEVW",
+            "length_ft": "7300",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "41.2708",
+            "le_longitude_deg": "-111.047",
+            "le_elevation_ft": "7131",
+            "le_heading_degT": "66.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "41.2787",
+            "he_longitude_deg": "-111.022",
+            "he_elevation_ft": "7133",
+            "he_heading_degT": "246.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242049",
+            "airport_ref": "19782",
+            "airport_ident": "KEVW",
+            "length_ft": "7300",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "05R",
+            "le_latitude_deg": "41.271",
+            "le_longitude_deg": "-111.044",
+            "le_elevation_ft": "7163",
+            "le_heading_degT": "66.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23L",
+            "he_latitude_deg": "41.2789",
+            "he_longitude_deg": "-111.02",
+            "he_elevation_ft": "7128",
+            "he_heading_degT": "246.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63099",
+            "airport_ref": "19782",
+            "airport_ident": "KEVW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "63100",
+            "airport_ref": "19782",
+            "airport_ident": "KEVW",
+            "type": "CNTR",
+            "description": "SALT LAKE CITY CNTR",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "63101",
+            "airport_ref": "19782",
+            "airport_ident": "KEVW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306127",
+        "code": "US-WY",
+        "local_code": "WY",
+        "name": "Wyoming",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
+        "keywords": ""
+    }
+}

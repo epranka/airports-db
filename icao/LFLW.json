@@ -1,0 +1,72 @@
+{
+    "id": "4146",
+    "ident": "LFLW",
+    "type": "medium_airport",
+    "name": "Aurillac Airport",
+    "latitude_deg": "44.89139938354492",
+    "longitude_deg": "2.4219400882720947",
+    "elevation_ft": "2096",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Aurillac",
+    "scheduled_service": "yes",
+    "gps_code": "LFLW",
+    "iata_code": "AUR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Aurillac_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235834",
+            "airport_ref": "4146",
+            "airport_ident": "LFLW",
+            "length_ft": "5577",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "44.8979",
+            "le_longitude_deg": "2.41694",
+            "le_elevation_ft": "2096",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "44.885",
+            "he_longitude_deg": "2.42744",
+            "he_elevation_ft": "2049",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52223",
+            "airport_ref": "4146",
+            "airport_ident": "LFLW",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.325"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306351",
+        "code": "FR-ARA",
+        "local_code": "ARA",
+        "name": "Auvergne-Rhône-Alpes",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
+        "keywords": ""
+    }
+}

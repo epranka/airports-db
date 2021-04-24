@@ -1,0 +1,96 @@
+{
+    "id": "5191",
+    "ident": "OINR",
+    "type": "medium_airport",
+    "name": "Ramsar Airport",
+    "latitude_deg": "36.9099006652832",
+    "longitude_deg": "50.67959976196289",
+    "elevation_ft": "-70",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-21",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "OINR",
+    "iata_code": "RZR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ramsar_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236849",
+            "airport_ref": "5191",
+            "airport_ident": "OINR",
+            "length_ft": "4920",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "36.9143",
+            "le_longitude_deg": "50.6732",
+            "le_elevation_ft": "-70",
+            "le_heading_degT": "130.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "36.9055",
+            "he_longitude_deg": "50.686",
+            "he_elevation_ft": "-70",
+            "he_heading_degT": "310.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54012",
+            "airport_ref": "5191",
+            "airport_ident": "OINR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304238",
+        "code": "IR-21",
+        "local_code": "21",
+        "name": "Mazandaran Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mazandaran_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93252",
+            "filename": "Ramsar_NDB-DME_IR",
+            "ident": "RSR",
+            "name": "Ramsar",
+            "type": "NDB-DME",
+            "frequency_khz": "332",
+            "latitude_deg": "36.903499603271484",
+            "longitude_deg": "50.68040084838867",
+            "elevation_ft": "-21",
+            "iso_country": "IR",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.235",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OINR"
+        }
+    ]
+}

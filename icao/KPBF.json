@@ -1,0 +1,104 @@
+{
+    "id": "20807",
+    "ident": "KPBF",
+    "type": "medium_airport",
+    "name": "Pine Bluff Regional Airport, Grider Field",
+    "latitude_deg": "34.1731",
+    "longitude_deg": "-91.9356",
+    "elevation_ft": "206",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Pine Bluff",
+    "scheduled_service": "no",
+    "gps_code": "KPBF",
+    "iata_code": "PBF",
+    "local_code": "PBF",
+    "home_link": "http://www.pbaviation.com",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Grider_Field",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240061",
+            "airport_ref": "20807",
+            "airport_ident": "KPBF",
+            "length_ft": "5998",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "34.1828",
+            "le_longitude_deg": "-91.9356",
+            "le_elevation_ft": "204",
+            "le_heading_degT": "179.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "34.1663",
+            "he_longitude_deg": "-91.9356",
+            "he_elevation_ft": "199",
+            "he_heading_degT": "359.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59396",
+            "airport_ref": "20807",
+            "airport_ident": "KPBF",
+            "type": "A/D",
+            "description": "LITTLE ROCK APP/DEP",
+            "frequency_mhz": "119.85"
+        },
+        {
+            "id": "59397",
+            "airport_ref": "20807",
+            "airport_ident": "KPBF",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.775"
+        },
+        {
+            "id": "59398",
+            "airport_ref": "20807",
+            "airport_ident": "KPBF",
+            "type": "CLD",
+            "description": "LITTLE ROCK CLNC DEL",
+            "frequency_mhz": "119.85"
+        },
+        {
+            "id": "59399",
+            "airport_ref": "20807",
+            "airport_ident": "KPBF",
+            "type": "RDO",
+            "description": "JONESBORO RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "59400",
+            "airport_ref": "20807",
+            "airport_ident": "KPBF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

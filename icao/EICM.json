@@ -1,0 +1,112 @@
+{
+    "id": "2531",
+    "ident": "EICM",
+    "type": "medium_airport",
+    "name": "Galway Airport",
+    "latitude_deg": "53.300201416015625",
+    "longitude_deg": "-8.941590309143066",
+    "elevation_ft": "81",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-G",
+    "municipality": "Galway",
+    "scheduled_service": "yes",
+    "gps_code": "EICM",
+    "iata_code": "GWY",
+    "local_code": "",
+    "home_link": "http://www.galwayairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Galway_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235646",
+            "airport_ref": "2531",
+            "airport_ident": "EICM",
+            "length_ft": "4003",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "53.2988",
+            "le_longitude_deg": "-8.95053",
+            "le_elevation_ft": "65",
+            "le_heading_degT": "75",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "53.3015",
+            "he_longitude_deg": "-8.93291",
+            "he_elevation_ft": "81",
+            "he_heading_degT": "255",
+            "he_displaced_threshold_ft": "249"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51950",
+            "airport_ref": "2531",
+            "airport_ident": "EICM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "121.825"
+        },
+        {
+            "id": "51951",
+            "airport_ref": "2531",
+            "airport_ident": "EICM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.825"
+        },
+        {
+            "id": "51952",
+            "airport_ref": "2531",
+            "airport_ident": "EICM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302694",
+        "code": "IE",
+        "name": "Ireland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
+        "keywords": "Eire"
+    },
+    "region": {
+        "id": "304135",
+        "code": "IE-G",
+        "local_code": "G",
+        "name": "County Galway",
+        "continent": "EU",
+        "iso_country": "IE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Galway",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87042",
+            "filename": "Galway_NDB_IE",
+            "ident": "CRN",
+            "name": "Galway",
+            "type": "NDB",
+            "frequency_khz": "342",
+            "latitude_deg": "53.299400329589844",
+            "longitude_deg": "-8.940879821777344",
+            "elevation_ft": "",
+            "iso_country": "IE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.102",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "EICM"
+        }
+    ]
+}

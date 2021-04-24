@@ -1,0 +1,110 @@
+{
+    "id": "18499",
+    "ident": "KXLL",
+    "type": "small_airport",
+    "name": "Allentown Queen City Municipal Airport",
+    "latitude_deg": "40.570105",
+    "longitude_deg": "-75.486763",
+    "elevation_ft": "399",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Allentown",
+    "scheduled_service": "no",
+    "gps_code": "KXLL",
+    "iata_code": "",
+    "local_code": "XLL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Allentown_Queen_City_Municipal_Airport",
+    "keywords": "Formerly 1N9, JVU, KJVU, Convair Field",
+    "runways": [
+        {
+            "id": "241362",
+            "airport_ref": "18499",
+            "airport_ident": "KXLL",
+            "length_ft": "3950",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "40.5667",
+            "le_longitude_deg": "-75.4961",
+            "le_elevation_ft": "386",
+            "le_heading_degT": "59.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "40.5722",
+            "he_longitude_deg": "-75.4839",
+            "he_elevation_ft": "387",
+            "he_heading_degT": "239.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241363",
+            "airport_ref": "18499",
+            "airport_ident": "KXLL",
+            "length_ft": "3159",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "40.5744",
+            "le_longitude_deg": "-75.4936",
+            "le_elevation_ft": "386",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "40.5683",
+            "he_longitude_deg": "-75.4856",
+            "he_elevation_ft": "399",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61688",
+            "airport_ref": "18499",
+            "airport_ident": "KXLL",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "61689",
+            "airport_ref": "18499",
+            "airport_ident": "KXLL",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "61690",
+            "airport_ref": "18499",
+            "airport_ident": "KXLL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

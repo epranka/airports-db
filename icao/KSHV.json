@@ -1,0 +1,134 @@
+{
+    "id": "3882",
+    "ident": "KSHV",
+    "type": "medium_airport",
+    "name": "Shreveport Regional Airport",
+    "latitude_deg": "32.446602",
+    "longitude_deg": "-93.8256",
+    "elevation_ft": "258",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Shreveport",
+    "scheduled_service": "yes",
+    "gps_code": "KSHV",
+    "iata_code": "SHV",
+    "local_code": "SHV",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shreveport_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242502",
+            "airport_ref": "3882",
+            "airport_ident": "KSHV",
+            "length_ft": "6202",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "32.4451",
+            "le_longitude_deg": "-93.8329",
+            "le_elevation_ft": "237",
+            "le_heading_degT": "60.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "32.4533",
+            "he_longitude_deg": "-93.8154",
+            "he_elevation_ft": "228",
+            "he_heading_degT": "240.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242503",
+            "airport_ref": "3882",
+            "airport_ident": "KSHV",
+            "length_ft": "8351",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "32.4538",
+            "le_longitude_deg": "-93.8349",
+            "le_elevation_ft": "258",
+            "le_heading_degT": "143",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "32.4356",
+            "he_longitude_deg": "-93.8185",
+            "he_elevation_ft": "220",
+            "he_heading_degT": "323",
+            "he_displaced_threshold_ft": "375"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64060",
+            "airport_ref": "3882",
+            "airport_ident": "KSHV",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "64061",
+            "airport_ref": "3882",
+            "airport_ident": "KSHV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.45"
+        },
+        {
+            "id": "64062",
+            "airport_ref": "3882",
+            "airport_ident": "KSHV",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.65"
+        },
+        {
+            "id": "64063",
+            "airport_ref": "3882",
+            "airport_ident": "KSHV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "64064",
+            "airport_ref": "3882",
+            "airport_ident": "KSHV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "64065",
+            "airport_ref": "3882",
+            "airport_ident": "KSHV",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

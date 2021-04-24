@@ -1,0 +1,72 @@
+{
+    "id": "4182",
+    "ident": "LFOZ",
+    "type": "small_airport",
+    "name": "Orléans – Saint-Denis-de-l'Hôtel Airport",
+    "latitude_deg": "47.8969",
+    "longitude_deg": "2.16333",
+    "elevation_ft": "396",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-CVL",
+    "municipality": "Orléans",
+    "scheduled_service": "no",
+    "gps_code": "LFOZ",
+    "iata_code": "ORE",
+    "local_code": "",
+    "home_link": "https://orleans.aeroport.fr/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Orl%C3%A9ans_%E2%80%93_Saint-Denis-de-l%27H%C3%B4tel_Airport",
+    "keywords": "Aéroport du Loiret",
+    "runways": [
+        {
+            "id": "235873",
+            "airport_ref": "4182",
+            "airport_ident": "LFOZ",
+            "length_ft": "5250",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "47.8941",
+            "le_longitude_deg": "2.15734",
+            "le_elevation_ft": "390",
+            "le_heading_degT": "53",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "47.9017",
+            "he_longitude_deg": "2.17221",
+            "he_elevation_ft": "396",
+            "he_heading_degT": "233",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52289",
+            "airport_ref": "4182",
+            "airport_ident": "LFOZ",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "122.4"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306347",
+        "code": "FR-CVL",
+        "local_code": "CVL",
+        "name": "Centre-Val de Loire",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Centre-Val_de_Loire",
+        "keywords": ""
+    }
+}

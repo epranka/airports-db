@@ -1,0 +1,96 @@
+{
+    "id": "2126",
+    "ident": "DRRT",
+    "type": "medium_airport",
+    "name": "Tahoua Airport",
+    "latitude_deg": "14.875699996948242",
+    "longitude_deg": "5.265359878540039",
+    "elevation_ft": "1266",
+    "continent": "AF",
+    "iso_country": "NE",
+    "iso_region": "NE-5",
+    "municipality": "Tahoua",
+    "scheduled_service": "no",
+    "gps_code": "DRRT",
+    "iata_code": "THZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237883",
+            "airport_ref": "2126",
+            "airport_ident": "DRRT",
+            "length_ft": "7053",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "14.8708",
+            "le_longitude_deg": "5.25679",
+            "le_elevation_ft": "1253",
+            "le_heading_degT": "59.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "14.8806",
+            "he_longitude_deg": "5.27393",
+            "he_elevation_ft": "1266",
+            "he_heading_degT": "239.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55692",
+            "airport_ref": "2126",
+            "airport_ident": "DRRT",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302592",
+        "code": "NE",
+        "name": "Niger",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Niger",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304873",
+        "code": "NE-5",
+        "local_code": "5",
+        "name": "Tahoua Region",
+        "continent": "AF",
+        "iso_country": "NE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tahoua_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94165",
+            "filename": "Tahoua_NDB_NE",
+            "ident": "TA",
+            "name": "Tahoua",
+            "type": "NDB",
+            "frequency_khz": "347",
+            "latitude_deg": "14.879500389099121",
+            "longitude_deg": "5.269899845123291",
+            "elevation_ft": "1325",
+            "iso_country": "NE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.271",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "DRRT"
+        }
+    ]
+}

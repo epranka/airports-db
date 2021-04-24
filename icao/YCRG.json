@@ -1,0 +1,104 @@
+{
+    "id": "26964",
+    "ident": "YCRG",
+    "type": "medium_airport",
+    "name": "Corryong Airport",
+    "latitude_deg": "-36.18280029296875",
+    "longitude_deg": "147.88800048828125",
+    "elevation_ft": "963",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YCRG",
+    "iata_code": "CYG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Corryong_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233456",
+            "airport_ref": "26964",
+            "airport_ident": "YCRG",
+            "length_ft": "4596",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-36.1853",
+            "le_longitude_deg": "147.88",
+            "le_elevation_ft": "962",
+            "le_heading_degT": "72",
+            "le_displaced_threshold_ft": "256",
+            "he_ident": "24",
+            "he_latitude_deg": "-36.1815",
+            "he_longitude_deg": "147.894",
+            "he_elevation_ft": "949",
+            "he_heading_degT": "252",
+            "he_displaced_threshold_ft": "288"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49066",
+            "airport_ref": "26964",
+            "airport_ident": "YCRG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49067",
+            "airport_ref": "26964",
+            "airport_ident": "YCRG",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "125.2"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302975",
+        "code": "AU-VIC",
+        "local_code": "VIC",
+        "name": "Victoria",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87029",
+            "filename": "Corryong_NDB_AU",
+            "ident": "CRG",
+            "name": "Corryong",
+            "type": "NDB",
+            "frequency_khz": "386",
+            "latitude_deg": "-36.14849853515625",
+            "longitude_deg": "147.86199951171875",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.144",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YCRG"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "20232",
+    "ident": "KJYO",
+    "type": "small_airport",
+    "name": "Leesburg Executive Airport",
+    "latitude_deg": "39.077999",
+    "longitude_deg": "-77.557503",
+    "elevation_ft": "389",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Leesburg",
+    "scheduled_service": "no",
+    "gps_code": "KJYO",
+    "iata_code": "",
+    "local_code": "JYO",
+    "home_link": "http://www.leesburgva.gov/government/departments/airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Leesburg_Executive_Airport",
+    "keywords": "ADIZ",
+    "runways": [
+        {
+            "id": "244386",
+            "airport_ref": "20232",
+            "airport_ident": "KJYO",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "39.0851",
+            "le_longitude_deg": "-77.5606",
+            "le_elevation_ft": "377",
+            "le_heading_degT": "161",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "39.0708",
+            "he_longitude_deg": "-77.5544",
+            "he_elevation_ft": "387",
+            "he_heading_degT": "341",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67982",
+            "airport_ref": "20232",
+            "airport_ident": "KJYO",
+            "type": "A/D",
+            "description": "POTOMAC APP/DEP",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "67983",
+            "airport_ref": "20232",
+            "airport_ident": "KJYO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "125.225"
+        },
+        {
+            "id": "67984",
+            "airport_ref": "20232",
+            "airport_ident": "KJYO",
+            "type": "CLD",
+            "description": "POTOMAC CLNC DEL",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "67985",
+            "airport_ref": "20232",
+            "airport_ident": "KJYO",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "67986",
+            "airport_ref": "20232",
+            "airport_ident": "KJYO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.975"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    }
+}

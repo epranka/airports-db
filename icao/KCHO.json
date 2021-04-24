@@ -1,0 +1,152 @@
+{
+    "id": "3449",
+    "ident": "KCHO",
+    "type": "medium_airport",
+    "name": "Charlottesville Albemarle Airport",
+    "latitude_deg": "38.13859939575195",
+    "longitude_deg": "-78.4529037475586",
+    "elevation_ft": "639",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Charlottesville",
+    "scheduled_service": "yes",
+    "gps_code": "KCHO",
+    "iata_code": "CHO",
+    "local_code": "CHO",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Charlottesville-Albemarle_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243593",
+            "airport_ref": "3449",
+            "airport_ident": "KCHO",
+            "length_ft": "6001",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "38.131",
+            "le_longitude_deg": "-78.4568",
+            "le_elevation_ft": "639",
+            "le_heading_degT": "22",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "38.1463",
+            "he_longitude_deg": "-78.4489",
+            "he_elevation_ft": "620",
+            "he_heading_degT": "202",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66336",
+            "airport_ref": "3449",
+            "airport_ident": "KCHO",
+            "type": "A/D",
+            "description": "POTOMAC APP/DEP",
+            "frequency_mhz": "132.85"
+        },
+        {
+            "id": "66337",
+            "airport_ref": "3449",
+            "airport_ident": "KCHO",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "66338",
+            "airport_ref": "3449",
+            "airport_ident": "KCHO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "66339",
+            "airport_ref": "3449",
+            "airport_ident": "KCHO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "66340",
+            "airport_ref": "3449",
+            "airport_ident": "KCHO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "66341",
+            "airport_ref": "3449",
+            "airport_ident": "KCHO",
+            "type": "RDO",
+            "description": "LEESBURG RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "66342",
+            "airport_ref": "3449",
+            "airport_ident": "KCHO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "66343",
+            "airport_ref": "3449",
+            "airport_ident": "KCHO",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85748",
+            "filename": "Azalea_Park_NDB_US",
+            "ident": "AZS",
+            "name": "Azalea Park",
+            "type": "NDB",
+            "frequency_khz": "336",
+            "latitude_deg": "38.01020050048828",
+            "longitude_deg": "-78.51809692382812",
+            "elevation_ft": "378",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.241",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCHO"
+        }
+    ]
+}

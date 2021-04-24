@@ -1,0 +1,88 @@
+{
+    "id": "19875",
+    "ident": "KFKS",
+    "type": "small_airport",
+    "name": "Frankfort Dow Memorial Field",
+    "latitude_deg": "44.62519836425781",
+    "longitude_deg": "-86.20079803466797",
+    "elevation_ft": "633",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Frankfort",
+    "scheduled_service": "no",
+    "gps_code": "KFKS",
+    "iata_code": "",
+    "local_code": "FKS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240768",
+            "airport_ref": "19875",
+            "airport_ident": "KFKS",
+            "length_ft": "4050",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "44.6294",
+            "le_longitude_deg": "-86.2059",
+            "le_elevation_ft": "623",
+            "le_heading_degT": "139.3",
+            "le_displaced_threshold_ft": "1094",
+            "he_ident": "33",
+            "he_latitude_deg": "44.621",
+            "he_longitude_deg": "-86.1958",
+            "he_elevation_ft": "606",
+            "he_heading_degT": "319.3",
+            "he_displaced_threshold_ft": "111"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60456",
+            "airport_ref": "19875",
+            "airport_ident": "KFKS",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "60457",
+            "airport_ref": "19875",
+            "airport_ident": "KFKS",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "132.9"
+        },
+        {
+            "id": "60458",
+            "airport_ref": "19875",
+            "airport_ident": "KFKS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

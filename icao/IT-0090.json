@@ -1,0 +1,72 @@
+{
+    "id": "315663",
+    "ident": "IT-0090",
+    "type": "small_airport",
+    "name": "Aviosuperfice Mensanello",
+    "latitude_deg": "43.372874",
+    "longitude_deg": "11.120749",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "Colle di val d'Elsa (SI)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SIMEN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Mensanello",
+    "runways": [
+        {
+            "id": "324406",
+            "airport_ref": "315663",
+            "airport_ident": "IT-0090",
+            "length_ft": "2300",
+            "width_ft": "100",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "640",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "2300",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "640",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "2300"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "324407",
+            "airport_ref": "315663",
+            "airport_ident": "IT-0090",
+            "type": "AFIS",
+            "description": "MENSANELLO",
+            "frequency_mhz": "130"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306357",
+        "code": "IT-52",
+        "local_code": "52",
+        "name": "Tuscany",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tuscany",
+        "keywords": "TC"
+    }
+}

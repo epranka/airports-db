@@ -1,0 +1,166 @@
+{
+    "id": "3931",
+    "ident": "KTUP",
+    "type": "medium_airport",
+    "name": "Tupelo Regional Airport",
+    "latitude_deg": "34.26810073852539",
+    "longitude_deg": "-88.7698974609375",
+    "elevation_ft": "346",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Tupelo",
+    "scheduled_service": "yes",
+    "gps_code": "KTUP",
+    "iata_code": "TUP",
+    "local_code": "TUP",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tupelo_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242116",
+            "airport_ref": "3931",
+            "airport_ident": "KTUP",
+            "length_ft": "6500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "34.277",
+            "le_longitude_deg": "-88.7699",
+            "le_elevation_ft": "342",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "34.2592",
+            "he_longitude_deg": "-88.7699",
+            "he_elevation_ft": "346",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63251",
+            "airport_ref": "3931",
+            "airport_ident": "KTUP",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "133.525"
+        },
+        {
+            "id": "63252",
+            "airport_ref": "3931",
+            "airport_ident": "KTUP",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "63253",
+            "airport_ref": "3931",
+            "airport_ident": "KTUP",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.775"
+        },
+        {
+            "id": "63254",
+            "airport_ref": "3931",
+            "airport_ident": "KTUP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.825"
+        },
+        {
+            "id": "63255",
+            "airport_ref": "3931",
+            "airport_ident": "KTUP",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "33.5"
+        },
+        {
+            "id": "63256",
+            "airport_ref": "3931",
+            "airport_ident": "KTUP",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "63257",
+            "airport_ref": "3931",
+            "airport_ident": "KTUP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.775"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92134",
+            "filename": "Tupelo_VOR-DME_US",
+            "ident": "OTB",
+            "name": "Tupelo",
+            "type": "VOR-DME",
+            "frequency_khz": "109800",
+            "latitude_deg": "34.223899841308594",
+            "longitude_deg": "-88.79730224609375",
+            "elevation_ft": "360",
+            "iso_country": "US",
+            "dme_frequency_khz": "109800",
+            "dme_channel": "035X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.001",
+            "magnetic_variation_deg": "-0.531",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KTUP"
+        },
+        {
+            "id": "94663",
+            "filename": "Veron_NDB_US",
+            "ident": "TU",
+            "name": "Veron",
+            "type": "NDB",
+            "frequency_khz": "420",
+            "latitude_deg": "34.180301666259766",
+            "longitude_deg": "-88.7686996459961",
+            "elevation_ft": "325",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.54",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KTUP"
+        }
+    ]
+}

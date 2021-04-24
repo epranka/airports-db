@@ -1,0 +1,72 @@
+{
+    "id": "5542",
+    "ident": "RJCA",
+    "type": "small_airport",
+    "name": "JGSDF Camp Asahikawa Airfield",
+    "latitude_deg": "43.794734",
+    "longitude_deg": "142.365432",
+    "elevation_ft": "377",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-01",
+    "municipality": "Asahikawa",
+    "scheduled_service": "no",
+    "gps_code": "RJCA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Asahikawa_Air_Field",
+    "keywords": "Camp Asahikawa, RJCA",
+    "runways": [
+        {
+            "id": "237236",
+            "airport_ref": "5542",
+            "airport_ident": "RJCA",
+            "length_ft": "2624",
+            "width_ft": "164",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "43.7932",
+            "le_longitude_deg": "142.36",
+            "le_elevation_ft": "377",
+            "le_heading_degT": "73.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "43.7953",
+            "he_longitude_deg": "142.369",
+            "he_elevation_ft": "377",
+            "he_heading_degT": "253.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54788",
+            "airport_ref": "5542",
+            "airport_ident": "RJCA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304286",
+        "code": "JP-01",
+        "local_code": "01",
+        "name": "Hokkaidō Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hokkaido",
+        "keywords": "Hokkaido"
+    }
+}

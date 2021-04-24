@@ -1,0 +1,80 @@
+{
+    "id": "28509",
+    "ident": "EDRF",
+    "type": "small_airport",
+    "name": "Bad Dürkheim Airport",
+    "latitude_deg": "49.47305679321289",
+    "longitude_deg": "8.196389198303223",
+    "elevation_ft": "351",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Bad Dürkheim",
+    "scheduled_service": "no",
+    "gps_code": "EDRF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "323092",
+            "airport_ref": "28509",
+            "airport_ident": "EDRF",
+            "length_ft": "1968",
+            "width_ft": "65",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "351",
+            "le_heading_degT": "75",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "351",
+            "he_heading_degT": "255",
+            "he_displaced_threshold_ft": "394"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "328910",
+            "airport_ref": "28509",
+            "airport_ident": "EDRF",
+            "type": "AFIS",
+            "description": "LANGEN INFORMATION",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "328909",
+            "airport_ref": "28509",
+            "airport_ident": "EDRF",
+            "type": "INFO",
+            "description": "DUERKHEIM INFO",
+            "frequency_mhz": "122.405"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303557",
+        "code": "DE-RP",
+        "local_code": "RP",
+        "name": "Rhineland-Palatinate",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rhineland-Palatinate",
+        "keywords": "Rheinland-Pfalz"
+    }
+}

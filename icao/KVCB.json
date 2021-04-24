@@ -1,0 +1,88 @@
+{
+    "id": "21314",
+    "ident": "KVCB",
+    "type": "small_airport",
+    "name": "Nut Tree Airport",
+    "latitude_deg": "38.376800537109375",
+    "longitude_deg": "-121.96199798583984",
+    "elevation_ft": "117",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Vacaville",
+    "scheduled_service": "no",
+    "gps_code": "KVCB",
+    "iata_code": "",
+    "local_code": "VCB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243982",
+            "airport_ref": "21314",
+            "airport_ident": "KVCB",
+            "length_ft": "4700",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "38.3724",
+            "le_longitude_deg": "-121.966",
+            "le_elevation_ft": "116",
+            "le_heading_degT": "34",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "38.3831",
+            "he_longitude_deg": "-121.957",
+            "he_elevation_ft": "113",
+            "he_heading_degT": "214",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67150",
+            "airport_ref": "21314",
+            "airport_ident": "KVCB",
+            "type": "A/D",
+            "description": "TRAVIS APP/DEP",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "67151",
+            "airport_ref": "21314",
+            "airport_ident": "KVCB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "134.75"
+        },
+        {
+            "id": "67152",
+            "airport_ref": "21314",
+            "airport_ident": "KVCB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.85"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

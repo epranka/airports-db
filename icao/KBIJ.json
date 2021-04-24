@@ -1,0 +1,120 @@
+{
+    "id": "19378",
+    "ident": "KBIJ",
+    "type": "small_airport",
+    "name": "Early County Airport",
+    "latitude_deg": "31.397499084472656",
+    "longitude_deg": "-84.8947982788086",
+    "elevation_ft": "214",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Blakely",
+    "scheduled_service": "no",
+    "gps_code": "KBIJ",
+    "iata_code": "",
+    "local_code": "BIJ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242243",
+            "airport_ref": "19378",
+            "airport_ident": "KBIJ",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "31.3926",
+            "le_longitude_deg": "-84.9015",
+            "le_elevation_ft": "214",
+            "le_heading_degT": "50",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "31.4024",
+            "he_longitude_deg": "-84.8881",
+            "he_elevation_ft": "205",
+            "he_heading_degT": "230",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63503",
+            "airport_ref": "19378",
+            "airport_ident": "KBIJ",
+            "type": "A/D",
+            "description": "CAIRNS APP/DEP",
+            "frequency_mhz": "125.4"
+        },
+        {
+            "id": "63504",
+            "airport_ref": "19378",
+            "airport_ident": "KBIJ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.475"
+        },
+        {
+            "id": "63505",
+            "airport_ref": "19378",
+            "airport_ident": "KBIJ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "63506",
+            "airport_ref": "19378",
+            "airport_ident": "KBIJ",
+            "type": "GCO",
+            "description": "MACON FSS",
+            "frequency_mhz": "121.725"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89392",
+            "filename": "Blaak_NDB_US",
+            "ident": "IWJ",
+            "name": "Blaak",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "31.455699920654297",
+            "longitude_deg": "-84.81909942626953",
+            "elevation_ft": "253",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.221",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KBIJ"
+        }
+    ]
+}

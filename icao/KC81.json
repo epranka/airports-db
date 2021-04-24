@@ -1,0 +1,102 @@
+{
+    "id": "19455",
+    "ident": "KC81",
+    "type": "small_airport",
+    "name": "Campbell Airport",
+    "latitude_deg": "42.32460021972656",
+    "longitude_deg": "-88.0740966796875",
+    "elevation_ft": "788",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Grayslake",
+    "scheduled_service": "no",
+    "gps_code": "KC81",
+    "iata_code": "",
+    "local_code": "C81",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Campbell_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243814",
+            "airport_ref": "19455",
+            "airport_ident": "KC81",
+            "length_ft": "3573",
+            "width_ft": "40",
+            "surface": "COP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "42.3225",
+            "le_longitude_deg": "-88.0797",
+            "le_elevation_ft": "779",
+            "le_heading_degT": "58.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "42.3277",
+            "he_longitude_deg": "-88.0685",
+            "he_elevation_ft": "778",
+            "he_heading_degT": "238.2",
+            "he_displaced_threshold_ft": "301"
+        },
+        {
+            "id": "243815",
+            "airport_ref": "19455",
+            "airport_ident": "KC81",
+            "length_ft": "3270",
+            "width_ft": "40",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "42.324",
+            "le_longitude_deg": "-88.0801",
+            "le_elevation_ft": "777",
+            "le_heading_degT": "90.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "42.324",
+            "he_longitude_deg": "-88.068",
+            "he_elevation_ft": "788",
+            "he_heading_degT": "270.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66823",
+            "airport_ref": "19455",
+            "airport_ident": "KC81",
+            "type": "A/D",
+            "description": "CHICAGO APP/DEP",
+            "frequency_mhz": "120.55"
+        },
+        {
+            "id": "66824",
+            "airport_ref": "19455",
+            "airport_ident": "KC81",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

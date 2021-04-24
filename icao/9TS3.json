@@ -1,0 +1,104 @@
+{
+    "id": "15989",
+    "ident": "9TS3",
+    "type": "closed",
+    "name": "Simaron Ranch Airport",
+    "latitude_deg": "30.1483",
+    "longitude_deg": "-95.966904",
+    "elevation_ft": "310",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Waller",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "9TS3",
+    "runways": [
+        {
+            "id": "244373",
+            "airport_ref": "15989",
+            "airport_ident": "9TS3",
+            "length_ft": "3000",
+            "width_ft": "25",
+            "surface": "ASPH",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "30.1523",
+            "le_longitude_deg": "-95.9677",
+            "le_elevation_ft": "",
+            "le_heading_degT": "170",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "30.1442",
+            "he_longitude_deg": "-95.9661",
+            "he_elevation_ft": "",
+            "he_heading_degT": "187.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67953",
+            "airport_ref": "15989",
+            "airport_ident": "9TS3",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "126.625"
+        },
+        {
+            "id": "67954",
+            "airport_ref": "15989",
+            "airport_ident": "9TS3",
+            "type": "MISC",
+            "description": "FOR RWY LGT",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94487",
+            "filename": "Navasota_VORTAC_US",
+            "ident": "TNV",
+            "name": "Navasota",
+            "type": "VORTAC",
+            "frequency_khz": "115900",
+            "latitude_deg": "30.28849983215332",
+            "longitude_deg": "-96.05819702148438",
+            "elevation_ft": "230",
+            "iso_country": "US",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.008",
+            "magnetic_variation_deg": "4.167",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "9TS3"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "4798",
+    "ident": "MRCC",
+    "type": "medium_airport",
+    "name": "Coto 47 Airport",
+    "latitude_deg": "8.60155963897705",
+    "longitude_deg": "-82.96859741210938",
+    "elevation_ft": "26",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-P",
+    "municipality": "Corredores",
+    "scheduled_service": "yes",
+    "gps_code": "MRCC",
+    "iata_code": "OTR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235370",
+            "airport_ref": "4798",
+            "airport_ident": "MRCC",
+            "length_ft": "3281",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "8.60612",
+            "le_longitude_deg": "-82.9686",
+            "le_elevation_ft": "",
+            "le_heading_degT": "180.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "8.597",
+            "he_longitude_deg": "-82.9686",
+            "he_elevation_ft": "",
+            "he_heading_degT": "0.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51582",
+            "airport_ref": "4798",
+            "airport_ident": "MRCC",
+            "type": "RDO",
+            "description": "COCO RDO",
+            "frequency_mhz": "126.8"
+        }
+    ],
+    "country": {
+        "id": "302731",
+        "code": "CR",
+        "name": "Costa Rica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
+        "keywords": "Aeropuertos de Costa Rica"
+    },
+    "region": {
+        "id": "303496",
+        "code": "CR-P",
+        "local_code": "P",
+        "name": "Puntarenas",
+        "continent": "NA",
+        "iso_country": "CR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Puntarenas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86972",
+            "filename": "Coto_47_NDB_CR",
+            "ident": "COT",
+            "name": "Coto 47",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "8.60278034210205",
+            "longitude_deg": "-82.96810150146484",
+            "elevation_ft": "26",
+            "iso_country": "CR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.339",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MRCC"
+        }
+    ]
+}

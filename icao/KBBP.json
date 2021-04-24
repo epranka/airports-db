@@ -1,0 +1,88 @@
+{
+    "id": "19354",
+    "ident": "KBBP",
+    "type": "small_airport",
+    "name": "Marlboro County Jetport H.E. Avent Field",
+    "latitude_deg": "34.62170029",
+    "longitude_deg": "-79.73439789",
+    "elevation_ft": "147",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Bennettsville",
+    "scheduled_service": "no",
+    "gps_code": "KBBP",
+    "iata_code": "BTN",
+    "local_code": "BBP",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Marlboro_County_Jetport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239744",
+            "airport_ref": "19354",
+            "airport_ident": "KBBP",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "34.618",
+            "le_longitude_deg": "-79.7413",
+            "le_elevation_ft": "138",
+            "le_heading_degT": "57",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "34.6255",
+            "he_longitude_deg": "-79.7274",
+            "he_elevation_ft": "144",
+            "he_heading_degT": "237",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58890",
+            "airport_ref": "19354",
+            "airport_ident": "KBBP",
+            "type": "A/D",
+            "description": "FLORENCE APP/DEP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "58891",
+            "airport_ref": "19354",
+            "airport_ident": "KBBP",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "123.825"
+        },
+        {
+            "id": "58892",
+            "airport_ref": "19354",
+            "airport_ident": "KBBP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306116",
+        "code": "US-SC",
+        "local_code": "SC",
+        "name": "South Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
+        "keywords": ""
+    }
+}

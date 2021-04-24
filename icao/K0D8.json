@@ -1,0 +1,102 @@
+{
+    "id": "18354",
+    "ident": "K0D8",
+    "type": "small_airport",
+    "name": "Gettysburg Municipal Airport",
+    "latitude_deg": "44.98669815",
+    "longitude_deg": "-99.95279694",
+    "elevation_ft": "2062",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Gettysburg",
+    "scheduled_service": "no",
+    "gps_code": "K0D8",
+    "iata_code": "",
+    "local_code": "0D8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243883",
+            "airport_ref": "18354",
+            "airport_ident": "K0D8",
+            "length_ft": "2505",
+            "width_ft": "150",
+            "surface": "TURF-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "44.9855",
+            "le_longitude_deg": "-99.959",
+            "le_elevation_ft": "2049",
+            "le_heading_degT": "53",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "44.99",
+            "he_longitude_deg": "-99.9507",
+            "he_elevation_ft": "2062",
+            "he_heading_degT": "233",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243884",
+            "airport_ref": "18354",
+            "airport_ident": "K0D8",
+            "length_ft": "4400",
+            "width_ft": "75",
+            "surface": "ASPH-E",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "44.9909",
+            "le_longitude_deg": "-99.9567",
+            "le_elevation_ft": "2059",
+            "le_heading_degT": "143",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "44.9812",
+            "he_longitude_deg": "-99.9465",
+            "he_elevation_ft": "2055",
+            "he_heading_degT": "323",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66955",
+            "airport_ref": "18354",
+            "airport_ident": "K0D8",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "66956",
+            "airport_ref": "18354",
+            "airport_ident": "K0D8",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306117",
+        "code": "US-SD",
+        "local_code": "SD",
+        "name": "South Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
+        "keywords": ""
+    }
+}

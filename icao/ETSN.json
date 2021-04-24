@@ -1,0 +1,128 @@
+{
+    "id": "2755",
+    "ident": "ETSN",
+    "type": "medium_airport",
+    "name": "Neuburg AFB",
+    "latitude_deg": "48.710999",
+    "longitude_deg": "11.2115",
+    "elevation_ft": "1249",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Neuburg (Donau)",
+    "scheduled_service": "no",
+    "gps_code": "ETSN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236197",
+            "airport_ref": "2755",
+            "airport_ident": "ETSN",
+            "length_ft": "8005",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "48.7112",
+            "le_longitude_deg": "11.195",
+            "le_elevation_ft": "1249",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "48.7108",
+            "he_longitude_deg": "11.2282",
+            "he_elevation_ft": "1246",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52938",
+            "airport_ref": "2755",
+            "airport_ident": "ETSN",
+            "type": "ACC",
+            "description": "MUNCHEN CON",
+            "frequency_mhz": "136.525"
+        },
+        {
+            "id": "52940",
+            "airport_ref": "2755",
+            "airport_ident": "ETSN",
+            "type": "RDR",
+            "description": "DONAU RADAR",
+            "frequency_mhz": "34.4"
+        },
+        {
+            "id": "52939",
+            "airport_ref": "2755",
+            "airport_ident": "ETSN",
+            "type": "RDR",
+            "description": "DONAU RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "52942",
+            "airport_ref": "2755",
+            "airport_ident": "ETSN",
+            "type": "TWR",
+            "description": "DONAU TWR",
+            "frequency_mhz": "24.04"
+        },
+        {
+            "id": "52941",
+            "airport_ref": "2755",
+            "airport_ident": "ETSN",
+            "type": "TWR",
+            "description": "DONAU TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    },
+    "navaids": [
+        {
+            "id": "91515",
+            "filename": "Neuburg_TACAN_DE",
+            "ident": "NEU",
+            "name": "Neuburg",
+            "type": "TACAN",
+            "frequency_khz": "108900",
+            "latitude_deg": "48.712501525878906",
+            "longitude_deg": "11.211000442504883",
+            "elevation_ft": "1296",
+            "iso_country": "DE",
+            "dme_frequency_khz": "108900",
+            "dme_channel": "026X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.327",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETSN"
+        }
+    ]
+}

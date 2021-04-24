@@ -1,0 +1,120 @@
+{
+    "id": "20945",
+    "ident": "KRNM",
+    "type": "small_airport",
+    "name": "Ramona Airport",
+    "latitude_deg": "33.0392",
+    "longitude_deg": "-116.915001",
+    "elevation_ft": "1395",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Ramona",
+    "scheduled_service": "no",
+    "gps_code": "KRNM",
+    "iata_code": "",
+    "local_code": "RNM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ramona_Airport",
+    "keywords": "L39",
+    "runways": [
+        {
+            "id": "242257",
+            "airport_ref": "20945",
+            "airport_ident": "KRNM",
+            "length_ft": "5001",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "33.0403",
+            "le_longitude_deg": "-116.923",
+            "le_elevation_ft": "1386",
+            "le_heading_degT": "100",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "33.038",
+            "he_longitude_deg": "-116.907",
+            "he_elevation_ft": "1395",
+            "he_heading_degT": "280",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63536",
+            "airport_ref": "20945",
+            "airport_ident": "KRNM",
+            "type": "APP",
+            "description": "SOCAL APP",
+            "frequency_mhz": "132.2"
+        },
+        {
+            "id": "63537",
+            "airport_ref": "20945",
+            "airport_ident": "KRNM",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "132.025"
+        },
+        {
+            "id": "63538",
+            "airport_ref": "20945",
+            "airport_ident": "KRNM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.025"
+        },
+        {
+            "id": "63539",
+            "airport_ref": "20945",
+            "airport_ident": "KRNM",
+            "type": "DEP",
+            "description": "SOCAL DEP",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "63540",
+            "airport_ref": "20945",
+            "airport_ident": "KRNM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "63541",
+            "airport_ref": "20945",
+            "airport_ident": "KRNM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.875"
+        },
+        {
+            "id": "63542",
+            "airport_ref": "20945",
+            "airport_ident": "KRNM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

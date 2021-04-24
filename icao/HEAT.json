@@ -1,0 +1,112 @@
+{
+    "id": "3177",
+    "ident": "HEAT",
+    "type": "medium_airport",
+    "name": "Asyut International Airport",
+    "latitude_deg": "27.050823",
+    "longitude_deg": "31.016303",
+    "elevation_ft": "748",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-AST",
+    "municipality": "Asyut",
+    "scheduled_service": "yes",
+    "gps_code": "HEAT",
+    "iata_code": "ATZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Assiut_Airport",
+    "keywords": "Assiut",
+    "runways": [
+        {
+            "id": "235583",
+            "airport_ref": "3177",
+            "airport_ident": "HEAT",
+            "length_ft": "9905",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "27.0552",
+            "le_longitude_deg": "31.0003",
+            "le_elevation_ft": "737",
+            "le_heading_degT": "129.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "27.0378",
+            "he_longitude_deg": "31.0237",
+            "he_elevation_ft": "772",
+            "he_heading_degT": "309.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51875",
+            "airport_ref": "3177",
+            "airport_ident": "HEAT",
+            "type": "EMR",
+            "description": "FIRE",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51876",
+            "airport_ref": "3177",
+            "airport_ident": "HEAT",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "585.9"
+        },
+        {
+            "id": "51877",
+            "airport_ref": "3177",
+            "airport_ident": "HEAT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303693",
+        "code": "EG-AST",
+        "local_code": "AST",
+        "name": "Asyut Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Asyut_Governorate",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85634",
+            "filename": "Asyut_VOR-DME_EG",
+            "ident": "AST",
+            "name": "Asyut",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "27.031200408935547",
+            "longitude_deg": "31.032499313354492",
+            "elevation_ft": "850",
+            "iso_country": "EG",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.053",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HEAT"
+        }
+    ]
+}

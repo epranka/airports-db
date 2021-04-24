@@ -1,0 +1,136 @@
+{
+    "id": "6498",
+    "ident": "UMKK",
+    "type": "medium_airport",
+    "name": "Khrabrovo Airport",
+    "latitude_deg": "54.88999938964844",
+    "longitude_deg": "20.592599868774414",
+    "elevation_ft": "42",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KGD",
+    "municipality": "Kaliningrad",
+    "scheduled_service": "yes",
+    "gps_code": "UMKK",
+    "iata_code": "KGD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Khrabrovo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238564",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "length_ft": "10991",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "54.8855",
+            "le_longitude_deg": "20.5748",
+            "le_elevation_ft": "42",
+            "le_heading_degT": "66",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "54.8978",
+            "he_longitude_deg": "20.6224",
+            "he_elevation_ft": "31",
+            "he_heading_degT": "246",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56737",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "type": "GND",
+            "description": "KALININGRAD GND",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "56738",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "type": "MISC",
+            "description": "KALININGGRAD TRANSIT",
+            "frequency_mhz": "131.7"
+        },
+        {
+            "id": "56739",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "type": "PMSV",
+            "description": "KALININGRAD METEO",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "56740",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "type": "RDR",
+            "description": "KALININGRAD RADAR",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "56741",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "type": "TWR",
+            "description": "KALININGRAD TWR",
+            "frequency_mhz": "129.425"
+        },
+        {
+            "id": "310278",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "type": "VOR-DME",
+            "description": "KRD",
+            "frequency_mhz": "117.05"
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305286",
+        "code": "RU-KGD",
+        "local_code": "KGD",
+        "name": "Kaliningrad Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kaliningrad_Oblast",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89951",
+            "filename": "Kaliningrad_NDB_RU",
+            "ident": "KR",
+            "name": "Kaliningrad",
+            "type": "NDB",
+            "frequency_khz": "840",
+            "latitude_deg": "54.90999984741211",
+            "longitude_deg": "20.67169952392578",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.354",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UMKK"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "19645",
+    "ident": "KDNN",
+    "type": "small_airport",
+    "name": "Dalton Municipal Airport",
+    "latitude_deg": "34.72290039",
+    "longitude_deg": "-84.87020111",
+    "elevation_ft": "709",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Dalton",
+    "scheduled_service": "no",
+    "gps_code": "KDNN",
+    "iata_code": "DNN",
+    "local_code": "DNN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dalton_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243923",
+            "airport_ref": "19645",
+            "airport_ident": "KDNN",
+            "length_ft": "5498",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "34.7285",
+            "le_longitude_deg": "-84.8765",
+            "le_elevation_ft": "708",
+            "le_heading_degT": "137",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "34.7174",
+            "he_longitude_deg": "-84.864",
+            "he_elevation_ft": "691",
+            "he_heading_degT": "317",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67039",
+            "airport_ref": "19645",
+            "airport_ident": "KDNN",
+            "type": "A/D",
+            "description": "CHATTANOOGA APP/DEP",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "67040",
+            "airport_ref": "19645",
+            "airport_ident": "KDNN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "127.65"
+        },
+        {
+            "id": "67041",
+            "airport_ref": "19645",
+            "airport_ident": "KDNN",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.25"
+        },
+        {
+            "id": "67042",
+            "airport_ref": "19645",
+            "airport_ident": "KDNN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.975"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

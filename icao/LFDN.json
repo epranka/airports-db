@@ -1,0 +1,80 @@
+{
+    "id": "4097",
+    "ident": "LFDN",
+    "type": "medium_airport",
+    "name": "Rochefort-Saint-Agnant (BA 721) Airport",
+    "latitude_deg": "45.88779830932617",
+    "longitude_deg": "-0.9830560088157654",
+    "elevation_ft": "60",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Rochefort/Saint-Agnant",
+    "scheduled_service": "no",
+    "gps_code": "LFDN",
+    "iata_code": "RCO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235917",
+            "airport_ref": "4097",
+            "airport_ident": "LFDN",
+            "length_ft": "7480",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "45.8962",
+            "le_longitude_deg": "-0.997261",
+            "le_elevation_ft": "60",
+            "le_heading_degT": "123",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "45.8851",
+            "he_longitude_deg": "-0.972519",
+            "he_elevation_ft": "53",
+            "he_heading_degT": "303",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52359",
+            "airport_ref": "4097",
+            "airport_ident": "LFDN",
+            "type": "AFIS",
+            "description": "ROCHEFORT INFO",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "52360",
+            "airport_ref": "4097",
+            "airport_ident": "LFDN",
+            "type": "TWR",
+            "description": "ROCHEFORT TWR",
+            "frequency_mhz": "119.3"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306352",
+        "code": "FR-NAQ",
+        "local_code": "NAQ",
+        "name": "Nouvelle-Aquitaine",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
+        "keywords": "Limousin, Poitou-Charentes"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "id": "4380",
+    "ident": "LIRQ",
+    "type": "medium_airport",
+    "name": "Peretola Airport",
+    "latitude_deg": "43.810001",
+    "longitude_deg": "11.2051",
+    "elevation_ft": "142",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-52",
+    "municipality": "Firenze",
+    "scheduled_service": "yes",
+    "gps_code": "LIRQ",
+    "iata_code": "FLR",
+    "local_code": "FI04",
+    "home_link": "http://www.aeroporto.firenze.it/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Florence_Airport,_Peretola",
+    "keywords": "Florence, Firenze, Amerigo Vespucci Airport",
+    "runways": [
+        {
+            "id": "236979",
+            "airport_ref": "4380",
+            "airport_ident": "LIRQ",
+            "length_ft": "5425",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "43.8051",
+            "le_longitude_deg": "11.1974",
+            "le_elevation_ft": "123",
+            "le_heading_degT": "48",
+            "le_displaced_threshold_ft": "492",
+            "he_ident": "23",
+            "he_latitude_deg": "43.8149",
+            "he_longitude_deg": "11.2128",
+            "he_elevation_ft": "132",
+            "he_heading_degT": "228",
+            "he_displaced_threshold_ft": "2287"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54153",
+            "airport_ref": "4380",
+            "airport_ident": "LIRQ",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "126.075"
+        },
+        {
+            "id": "54154",
+            "airport_ref": "4380",
+            "airport_ident": "LIRQ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "129.35"
+        },
+        {
+            "id": "54155",
+            "airport_ref": "4380",
+            "airport_ident": "LIRQ",
+            "type": "TWR",
+            "description": "FIRENZE TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306357",
+        "code": "IT-52",
+        "local_code": "52",
+        "name": "Tuscany",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tuscany",
+        "keywords": "TC"
+    },
+    "navaids": [
+        {
+            "id": "92699",
+            "filename": "Peretola_VOR-DME_IT",
+            "ident": "PRT",
+            "name": "Peretola",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "43.81039810180664",
+            "longitude_deg": "11.201499938964844",
+            "elevation_ft": "157",
+            "iso_country": "IT",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.322",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIRQ"
+        }
+    ]
+}

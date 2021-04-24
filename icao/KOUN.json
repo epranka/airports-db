@@ -1,0 +1,142 @@
+{
+    "id": "20771",
+    "ident": "KOUN",
+    "type": "small_airport",
+    "name": "University of Oklahoma Westheimer Airport",
+    "latitude_deg": "35.2456",
+    "longitude_deg": "-97.472099",
+    "elevation_ft": "1182",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Norman",
+    "scheduled_service": "no",
+    "gps_code": "KOUN",
+    "iata_code": "OUN",
+    "local_code": "OUN",
+    "home_link": "http://www.ou.edu/airport.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/University_of_Oklahoma_Westheimer_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241997",
+            "airport_ref": "20771",
+            "airport_ident": "KOUN",
+            "length_ft": "4747",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "35.2362",
+            "le_longitude_deg": "-97.4758",
+            "le_elevation_ft": "1175",
+            "le_heading_degT": "36.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "35.2467",
+            "he_longitude_deg": "-97.4664",
+            "he_elevation_ft": "1179",
+            "he_heading_degT": "216.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241998",
+            "airport_ref": "20771",
+            "airport_ident": "KOUN",
+            "length_ft": "5200",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "35.2564",
+            "le_longitude_deg": "-97.4731",
+            "le_elevation_ft": "1181",
+            "le_heading_degT": "179.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "35.2422",
+            "he_longitude_deg": "-97.473",
+            "he_elevation_ft": "1177",
+            "he_heading_degT": "359.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62970",
+            "airport_ref": "20771",
+            "airport_ident": "KOUN",
+            "type": "A/D",
+            "description": "OKE CITY APP/DEP",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "62971",
+            "airport_ref": "20771",
+            "airport_ident": "KOUN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.55"
+        },
+        {
+            "id": "62972",
+            "airport_ref": "20771",
+            "airport_ident": "KOUN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "62973",
+            "airport_ref": "20771",
+            "airport_ident": "KOUN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "62974",
+            "airport_ref": "20771",
+            "airport_ident": "KOUN",
+            "type": "RDO",
+            "description": "MC ALESTER RDO",
+            "frequency_mhz": "122.15"
+        },
+        {
+            "id": "62975",
+            "airport_ref": "20771",
+            "airport_ident": "KOUN",
+            "type": "TWR",
+            "description": "WESTHEIMER TWR",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "62976",
+            "airport_ref": "20771",
+            "airport_ident": "KOUN",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

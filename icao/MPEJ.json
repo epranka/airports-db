@@ -1,0 +1,120 @@
+{
+    "id": "4790",
+    "ident": "MPEJ",
+    "type": "medium_airport",
+    "name": "Enrique Adolfo Jimenez Airport",
+    "latitude_deg": "9.356639862060547",
+    "longitude_deg": "-79.86740112304688",
+    "elevation_ft": "25",
+    "continent": "NA",
+    "iso_country": "PA",
+    "iso_region": "PA-3",
+    "municipality": "Colón",
+    "scheduled_service": "yes",
+    "gps_code": "MPEJ",
+    "iata_code": "ONX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238303",
+            "airport_ref": "4790",
+            "airport_ident": "MPEJ",
+            "length_ft": "8858",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "9.37278",
+            "le_longitude_deg": "-79.8669",
+            "le_elevation_ft": "23",
+            "le_heading_degT": "182",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "9.34833",
+            "he_longitude_deg": "-79.8678",
+            "he_elevation_ft": "25",
+            "he_heading_degT": "2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56258",
+            "airport_ref": "4790",
+            "airport_ident": "MPEJ",
+            "type": "APP",
+            "description": "PANAMA APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "56259",
+            "airport_ref": "4790",
+            "airport_ident": "MPEJ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "56260",
+            "airport_ref": "4790",
+            "airport_ident": "MPEJ",
+            "type": "TWR",
+            "description": "JIMENEZ TWR",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "56261",
+            "airport_ref": "4790",
+            "airport_ident": "MPEJ",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302749",
+        "code": "PA",
+        "name": "Panama",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Panama",
+        "keywords": "Aeropuertos de Panamá"
+    },
+    "region": {
+        "id": "304998",
+        "code": "PA-3",
+        "local_code": "3",
+        "name": "Colón Province",
+        "continent": "NA",
+        "iso_country": "PA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colón_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88078",
+            "filename": "Enrique_Jimenez_VOR-DME_PA",
+            "ident": "FNC",
+            "name": "Enrique Jimenez",
+            "type": "VOR-DME",
+            "frequency_khz": "109000",
+            "latitude_deg": "9.362420082092285",
+            "longitude_deg": "-79.8656005859375",
+            "elevation_ft": "25",
+            "iso_country": "PA",
+            "dme_frequency_khz": "109000",
+            "dme_channel": "027X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.385",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "MPEJ"
+        }
+    ]
+}

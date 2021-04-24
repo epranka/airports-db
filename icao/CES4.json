@@ -1,0 +1,96 @@
+{
+    "id": "896",
+    "ident": "CES4",
+    "type": "small_airport",
+    "name": "Westlock Airport",
+    "latitude_deg": "54.1422004699707",
+    "longitude_deg": "-113.74099731445312",
+    "elevation_ft": "2214",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Westlock",
+    "scheduled_service": "no",
+    "gps_code": "CES4",
+    "iata_code": "",
+    "local_code": "CES4",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Westlock_Airport",
+    "keywords": "ES4",
+    "runways": [
+        {
+            "id": "235006",
+            "airport_ref": "896",
+            "airport_ident": "CES4",
+            "length_ft": "3000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "54.1442",
+            "le_longitude_deg": "-113.747",
+            "le_elevation_ft": "",
+            "le_heading_degT": "118",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "28",
+            "he_latitude_deg": "54.1403",
+            "he_longitude_deg": "-113.735",
+            "he_elevation_ft": "",
+            "he_heading_degT": "298",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50881",
+            "airport_ref": "896",
+            "airport_ident": "CES4",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85151",
+            "filename": "Westlock_NDB-DME_CA",
+            "ident": "9Z",
+            "name": "Westlock",
+            "type": "NDB-DME",
+            "frequency_khz": "236",
+            "latitude_deg": "54.14310073852539",
+            "longitude_deg": "-113.74800109863281",
+            "elevation_ft": "2230",
+            "iso_country": "CA",
+            "dme_frequency_khz": "108800",
+            "dme_channel": "025X",
+            "dme_latitude_deg": "54.1431",
+            "dme_longitude_deg": "-113.749",
+            "dme_elevation_ft": "2230",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.069",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CES4"
+        }
+    ]
+}

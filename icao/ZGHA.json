@@ -1,0 +1,142 @@
+{
+    "id": "27195",
+    "ident": "ZGHA",
+    "type": "large_airport",
+    "name": "Changsha Huanghua International Airport",
+    "latitude_deg": "28.189199447599997",
+    "longitude_deg": "113.220001221",
+    "elevation_ft": "217",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-43",
+    "municipality": "Changsha",
+    "scheduled_service": "yes",
+    "gps_code": "ZGHA",
+    "iata_code": "CSX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Changsha_Huanghua_International_Airport",
+    "keywords": "长沙黄花国际机场",
+    "runways": [
+        {
+            "id": "335156",
+            "airport_ref": "27195",
+            "airport_ident": "ZGHA",
+            "length_ft": "12467",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18L",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "212",
+            "le_heading_degT": "177",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36R",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "188",
+            "he_heading_degT": "357",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "235193",
+            "airport_ref": "27195",
+            "airport_ident": "ZGHA",
+            "length_ft": "10499",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18R",
+            "le_latitude_deg": "28.2009",
+            "le_longitude_deg": "113.219",
+            "le_elevation_ft": "217",
+            "le_heading_degT": "177",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36L",
+            "he_latitude_deg": "28.1774",
+            "he_longitude_deg": "113.22",
+            "he_elevation_ft": "197",
+            "he_heading_degT": "357",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51257",
+            "airport_ref": "27195",
+            "airport_ident": "ZGHA",
+            "type": "APP",
+            "description": "CHANGSHU",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "51258",
+            "airport_ref": "27195",
+            "airport_ident": "ZGHA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.8"
+        },
+        {
+            "id": "51259",
+            "airport_ref": "27195",
+            "airport_ident": "ZGHA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "51260",
+            "airport_ref": "27195",
+            "airport_ident": "ZGHA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.55"
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303439",
+        "code": "CN-43",
+        "local_code": "43",
+        "name": "Hunan Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hunan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87071",
+            "filename": "Changsha_VOR-DME_CN",
+            "ident": "CSX",
+            "name": "Changsha",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "28.20330047607422",
+            "longitude_deg": "113.21700286865234",
+            "elevation_ft": "289",
+            "iso_country": "CN",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.091",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZGHA"
+        }
+    ]
+}

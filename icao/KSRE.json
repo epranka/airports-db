@@ -1,0 +1,110 @@
+{
+    "id": "21108",
+    "ident": "KSRE",
+    "type": "small_airport",
+    "name": "Seminole Municipal Airport",
+    "latitude_deg": "35.27470016479492",
+    "longitude_deg": "-96.67520141601562",
+    "elevation_ft": "1024",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Seminole",
+    "scheduled_service": "no",
+    "gps_code": "KSRE",
+    "iata_code": "",
+    "local_code": "SRE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244374",
+            "airport_ref": "21108",
+            "airport_ident": "KSRE",
+            "length_ft": "2000",
+            "width_ft": "150",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "35.2702",
+            "le_longitude_deg": "-96.6786",
+            "le_elevation_ft": "995",
+            "le_heading_degT": "36",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "35.2746",
+            "he_longitude_deg": "-96.6746",
+            "he_elevation_ft": "1012",
+            "he_heading_degT": "216",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244375",
+            "airport_ref": "21108",
+            "airport_ident": "KSRE",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "35.2824",
+            "le_longitude_deg": "-96.677",
+            "le_elevation_ft": "1024",
+            "le_heading_degT": "166",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "35.2691",
+            "he_longitude_deg": "-96.6728",
+            "he_elevation_ft": "1000",
+            "he_heading_degT": "346",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67955",
+            "airport_ref": "21108",
+            "airport_ident": "KSRE",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.625"
+        },
+        {
+            "id": "67956",
+            "airport_ref": "21108",
+            "airport_ident": "KSRE",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "132.2"
+        },
+        {
+            "id": "67957",
+            "airport_ref": "21108",
+            "airport_ident": "KSRE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

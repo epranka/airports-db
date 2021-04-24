@@ -1,0 +1,104 @@
+{
+    "id": "5105",
+    "ident": "OEPF",
+    "type": "small_airport",
+    "name": "Pump Station 6 Airport",
+    "latitude_deg": "24.71030044555664",
+    "longitude_deg": "44.964500427246094",
+    "elevation_ft": "2530",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-01",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "OEPF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238684",
+            "airport_ref": "5105",
+            "airport_ident": "OEPF",
+            "length_ft": "8005",
+            "width_ft": "115",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "24.7211",
+            "le_longitude_deg": "44.9621",
+            "le_elevation_ft": "2534",
+            "le_heading_degT": "168.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "24.6996",
+            "he_longitude_deg": "44.967",
+            "he_elevation_ft": "2524",
+            "he_heading_degT": "348.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56993",
+            "airport_ref": "5105",
+            "airport_ident": "OEPF",
+            "type": "A/G",
+            "description": "DISPATCH",
+            "frequency_mhz": "138.25"
+        },
+        {
+            "id": "56994",
+            "airport_ref": "5105",
+            "airport_ident": "OEPF",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305360",
+        "code": "SA-01",
+        "local_code": "01",
+        "name": "Riyadh Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Riyadh_Region",
+        "keywords": "Riyad"
+    },
+    "navaids": [
+        {
+            "id": "92717",
+            "filename": "Pump_Station_6_NDB_SA",
+            "ident": "PS6",
+            "name": "Pump Station 6",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "24.700000762939453",
+            "longitude_deg": "44.968299865722656",
+            "elevation_ft": "2530",
+            "iso_country": "SA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.359",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OEPF"
+        }
+    ]
+}

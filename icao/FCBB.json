@@ -1,0 +1,112 @@
+{
+    "id": "2868",
+    "ident": "FCBB",
+    "type": "medium_airport",
+    "name": "Maya-Maya Airport",
+    "latitude_deg": "-4.251699924468994",
+    "longitude_deg": "15.253000259399414",
+    "elevation_ft": "1048",
+    "continent": "AF",
+    "iso_country": "CG",
+    "iso_region": "CG-12",
+    "municipality": "Brazzaville",
+    "scheduled_service": "yes",
+    "gps_code": "FCBB",
+    "iata_code": "BZV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Maya-Maya_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235126",
+            "airport_ref": "2868",
+            "airport_ident": "FCBB",
+            "length_ft": "10827",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "-4.25882",
+            "le_longitude_deg": "15.2417",
+            "le_elevation_ft": "1030",
+            "le_heading_degT": "50",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "-4.23964",
+            "he_longitude_deg": "15.2645",
+            "he_elevation_ft": "1047",
+            "he_heading_degT": "230",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51111",
+            "airport_ref": "2868",
+            "airport_ident": "FCBB",
+            "type": "ACC",
+            "description": "BRAZZAVILLE CON",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "51112",
+            "airport_ref": "2868",
+            "airport_ident": "FCBB",
+            "type": "INFO",
+            "description": "BRAZZAVILLE INFO",
+            "frequency_mhz": "549.3"
+        },
+        {
+            "id": "51113",
+            "airport_ref": "2868",
+            "airport_ident": "FCBB",
+            "type": "TWR",
+            "description": "BRAZZAVILLE TWR",
+            "frequency_mhz": "121.1"
+        }
+    ],
+    "country": {
+        "id": "302563",
+        "code": "CG",
+        "name": "Congo (Brazzaville)",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Congo_(Brazzaville)",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303341",
+        "code": "CG-12",
+        "local_code": "12",
+        "name": "Pool Department",
+        "continent": "AF",
+        "iso_country": "CG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pool_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86508",
+            "filename": "Brazzaville_Maya_Maya_VOR-DME_CG",
+            "ident": "BZ",
+            "name": "Brazzaville Maya Maya",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "-4.245610237121582",
+            "longitude_deg": "15.263799667358398",
+            "elevation_ft": "1048",
+            "iso_country": "CG",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.122",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FCBB"
+        }
+    ]
+}

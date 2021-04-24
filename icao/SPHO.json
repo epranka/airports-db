@@ -1,0 +1,104 @@
+{
+    "id": "6214",
+    "ident": "SPHO",
+    "type": "medium_airport",
+    "name": "Coronel FAP Alfredo Mendivil Duarte Airport",
+    "latitude_deg": "-13.154800415039062",
+    "longitude_deg": "-74.20439910888672",
+    "elevation_ft": "8917",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-AYA",
+    "municipality": "Ayacucho",
+    "scheduled_service": "yes",
+    "gps_code": "SPHO",
+    "iata_code": "AYP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Coronel_FAP_Alfredo_Mendivil_Duarte_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238136",
+            "airport_ref": "6214",
+            "airport_ident": "SPHO",
+            "length_ft": "9186",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-13.1665",
+            "le_longitude_deg": "-74.2094",
+            "le_elevation_ft": "8917",
+            "le_heading_degT": "22.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "-13.1431",
+            "he_longitude_deg": "-74.1995",
+            "he_elevation_ft": "8994",
+            "he_heading_degT": "202.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56071",
+            "airport_ref": "6214",
+            "airport_ident": "SPHO",
+            "type": "RDO",
+            "description": "AYACUCHO RDO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "56072",
+            "airport_ref": "6214",
+            "airport_ident": "SPHO",
+            "type": "TWR",
+            "description": "AYACUCHO TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Perú",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305011",
+        "code": "PE-AYA",
+        "local_code": "AYA",
+        "name": "Ayacucho Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ayacucho_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85732",
+            "filename": "Ayacucho_NDB_PE",
+            "ident": "AYA",
+            "name": "Ayacucho",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "-13.151900291442871",
+            "longitude_deg": "-74.2052993774414",
+            "elevation_ft": "8994",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.455",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SPHO"
+        }
+    ]
+}

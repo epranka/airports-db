@@ -1,0 +1,80 @@
+{
+    "id": "20628",
+    "ident": "KN94",
+    "type": "small_airport",
+    "name": "Carlisle Airport",
+    "latitude_deg": "40.18790054321289",
+    "longitude_deg": "-77.17430114746094",
+    "elevation_ft": "510",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Carlisle",
+    "scheduled_service": "no",
+    "gps_code": "KN94",
+    "iata_code": "",
+    "local_code": "N94",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245763",
+            "airport_ref": "20628",
+            "airport_ident": "KN94",
+            "length_ft": "4008",
+            "width_ft": "40",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "40.1881",
+            "le_longitude_deg": "-77.1814",
+            "le_elevation_ft": "502",
+            "le_heading_degT": "91.7",
+            "le_displaced_threshold_ft": "106",
+            "he_ident": "28",
+            "he_latitude_deg": "40.1878",
+            "he_longitude_deg": "-77.1671",
+            "he_elevation_ft": "510",
+            "he_heading_degT": "271.7",
+            "he_displaced_threshold_ft": "100"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71014",
+            "airport_ref": "20628",
+            "airport_ident": "KN94",
+            "type": "A/D",
+            "description": "HARRISBURG APP/DEP",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "71015",
+            "airport_ref": "20628",
+            "airport_ident": "KN94",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

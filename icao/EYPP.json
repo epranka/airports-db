@@ -1,0 +1,96 @@
+{
+    "id": "2763",
+    "ident": "EYPP",
+    "type": "medium_airport",
+    "name": "Panevėžys Air Base",
+    "latitude_deg": "55.729400634765625",
+    "longitude_deg": "24.460800170898438",
+    "elevation_ft": "197",
+    "continent": "EU",
+    "iso_country": "LT",
+    "iso_region": "LT-PN",
+    "municipality": "Panevėžys",
+    "scheduled_service": "no",
+    "gps_code": "EYPP",
+    "iata_code": "PNV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Panev%C4%97%C5%BEys_Air_Base",
+    "keywords": "Pajuostis, Tulpė",
+    "runways": [
+        {
+            "id": "237431",
+            "airport_ref": "2763",
+            "airport_ident": "EYPP",
+            "length_ft": "6562",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "55.7361",
+            "le_longitude_deg": "24.4506",
+            "le_elevation_ft": "190",
+            "le_heading_degT": "137",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "55.7228",
+            "he_longitude_deg": "24.4722",
+            "he_elevation_ft": "190",
+            "he_heading_degT": "317",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55177",
+            "airport_ref": "2763",
+            "airport_ident": "EYPP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.55"
+        }
+    ],
+    "country": {
+        "id": "302700",
+        "code": "LT",
+        "name": "Lithuania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304498",
+        "code": "LT-PN",
+        "local_code": "PN",
+        "name": "Panevėžys County",
+        "continent": "EU",
+        "iso_country": "LT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Panev%C4%97%C5%BEys_County",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92235",
+            "filename": "Pajuostis_NDB_LT",
+            "ident": "PA",
+            "name": "Pajuostis",
+            "type": "NDB",
+            "frequency_khz": "515",
+            "latitude_deg": "55.76110076904297",
+            "longitude_deg": "24.411100387573242",
+            "elevation_ft": "",
+            "iso_country": "LT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.539",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EYPP"
+        }
+    ]
+}

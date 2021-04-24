@@ -1,0 +1,96 @@
+{
+    "id": "2799",
+    "ident": "FAKZ",
+    "type": "medium_airport",
+    "name": "Kleinsee Airport",
+    "latitude_deg": "-29.6884002686",
+    "longitude_deg": "17.093999862700002",
+    "elevation_ft": "270",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Kleinsee",
+    "scheduled_service": "no",
+    "gps_code": "FAKZ",
+    "iata_code": "KLZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kleinzee_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238793",
+            "airport_ref": "2799",
+            "airport_ident": "FAKZ",
+            "length_ft": "4921",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-29.6951",
+            "le_longitude_deg": "17.0934",
+            "le_elevation_ft": "259",
+            "le_heading_degT": "4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "-29.6817",
+            "he_longitude_deg": "17.0946",
+            "he_elevation_ft": "256",
+            "he_heading_degT": "184",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57093",
+            "airport_ref": "2799",
+            "airport_ident": "FAKZ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306299",
+        "code": "ZA-NC",
+        "local_code": "NC",
+        "name": "Northern Cape",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Cape",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90101",
+            "filename": "Kleinsee_NDB_ZA",
+            "ident": "KZ",
+            "name": "Kleinsee",
+            "type": "NDB",
+            "frequency_khz": "213",
+            "latitude_deg": "-29.644100189208984",
+            "longitude_deg": "17.09779930114746",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.175",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAKZ"
+        }
+    ]
+}

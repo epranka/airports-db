@@ -1,0 +1,88 @@
+{
+    "id": "19372",
+    "ident": "KBGF",
+    "type": "small_airport",
+    "name": "Winchester Municipal Airport",
+    "latitude_deg": "35.1775016784668",
+    "longitude_deg": "-86.06620025634766",
+    "elevation_ft": "979",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Winchester",
+    "scheduled_service": "no",
+    "gps_code": "KBGF",
+    "iata_code": "",
+    "local_code": "BGF",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242793",
+            "airport_ref": "19372",
+            "airport_ident": "KBGF",
+            "length_ft": "5003",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "35.1844",
+            "le_longitude_deg": "-86.0659",
+            "le_elevation_ft": "971",
+            "le_heading_degT": "181.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "35.1707",
+            "he_longitude_deg": "-86.0664",
+            "he_elevation_ft": "975",
+            "he_heading_degT": "1.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64649",
+            "airport_ref": "19372",
+            "airport_ident": "KBGF",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.675"
+        },
+        {
+            "id": "64650",
+            "airport_ref": "19372",
+            "airport_ident": "KBGF",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "126.75"
+        },
+        {
+            "id": "64651",
+            "airport_ref": "19372",
+            "airport_ident": "KBGF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

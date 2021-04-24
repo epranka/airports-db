@@ -1,0 +1,80 @@
+{
+    "id": "27018",
+    "ident": "YJAB",
+    "type": "small_airport",
+    "name": "Jabiru Airport",
+    "latitude_deg": "-12.658300399780273",
+    "longitude_deg": "132.89300537109375",
+    "elevation_ft": "85",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YJAB",
+    "iata_code": "JAB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233520",
+            "airport_ref": "27018",
+            "airport_ident": "YJAB",
+            "length_ft": "4670",
+            "width_ft": "100",
+            "surface": "PER",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "-12.6575",
+            "le_longitude_deg": "132.888",
+            "le_elevation_ft": "72",
+            "le_heading_degT": "95",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "-12.6586",
+            "he_longitude_deg": "132.901",
+            "he_elevation_ft": "69",
+            "he_heading_degT": "275",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49168",
+            "airport_ref": "27018",
+            "airport_ident": "YJAB",
+            "type": "CTAF",
+            "description": "KAKADU AREA CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49169",
+            "airport_ref": "27018",
+            "airport_ident": "YJAB",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "124.1"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

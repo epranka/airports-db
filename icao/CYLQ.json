@@ -1,0 +1,104 @@
+{
+    "id": "1804",
+    "ident": "CYLQ",
+    "type": "small_airport",
+    "name": "La Tuque Airport",
+    "latitude_deg": "47.4096984863",
+    "longitude_deg": "-72.7889022827",
+    "elevation_ft": "548",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "La Tuque",
+    "scheduled_service": "no",
+    "gps_code": "CYLQ",
+    "iata_code": "YLQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/La_Tuque_Airport",
+    "keywords": "YLQ",
+    "runways": [
+        {
+            "id": "234688",
+            "airport_ref": "1804",
+            "airport_ident": "CYLQ",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "47.4028",
+            "le_longitude_deg": "-72.7875",
+            "le_elevation_ft": "",
+            "le_heading_degT": "352.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "47.4164",
+            "he_longitude_deg": "-72.79",
+            "he_elevation_ft": "",
+            "he_heading_degT": "172.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50292",
+            "airport_ref": "1804",
+            "airport_ident": "CYLQ",
+            "type": "CNTR",
+            "description": "MONTREAL CNTR",
+            "frequency_mhz": "134.5"
+        },
+        {
+            "id": "50293",
+            "airport_ref": "1804",
+            "airport_ident": "CYLQ",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    },
+    "navaids": [
+        {
+            "id": "95739",
+            "filename": "La_Tuque_NDB_CA",
+            "ident": "YLQ",
+            "name": "La Tuque",
+            "type": "NDB",
+            "frequency_khz": "289",
+            "latitude_deg": "47.416099548339844",
+            "longitude_deg": "-72.7863998413086",
+            "elevation_ft": "548",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.326",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYLQ"
+        }
+    ]
+}

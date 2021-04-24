@@ -1,0 +1,150 @@
+{
+    "id": "5897",
+    "ident": "SBEG",
+    "type": "large_airport",
+    "name": "Eduardo Gomes International Airport",
+    "latitude_deg": "-3.03861",
+    "longitude_deg": "-60.049702",
+    "elevation_ft": "264",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Manaus",
+    "scheduled_service": "yes",
+    "gps_code": "SBEG",
+    "iata_code": "MAO",
+    "local_code": "",
+    "home_link": "https://www4.infraero.gov.br/aeroportos/aeroporto-internacional-de-manaus-eduardo-gomes/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Eduardo_Gomes_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234094",
+            "airport_ref": "5897",
+            "airport_ident": "SBEG",
+            "length_ft": "8858",
+            "width_ft": "148",
+            "surface": "ASPH 71/F/C/X/T",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "252",
+            "le_heading_degT": "106",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "263",
+            "he_heading_degT": "286",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49658",
+            "airport_ref": "5897",
+            "airport_ident": "SBEG",
+            "type": "APP",
+            "description": "MANAUS APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "49659",
+            "airport_ref": "5897",
+            "airport_ident": "SBEG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.65"
+        },
+        {
+            "id": "49660",
+            "airport_ref": "5897",
+            "airport_ident": "SBEG",
+            "type": "GND",
+            "description": "EDUARDO GOMES GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49661",
+            "airport_ref": "5897",
+            "airport_ident": "SBEG",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "49662",
+            "airport_ref": "5897",
+            "airport_ident": "SBEG",
+            "type": "TWR",
+            "description": "EDUARDO GOMES TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303201",
+        "code": "BR-AM",
+        "local_code": "AM",
+        "name": "Amazonas",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90736",
+            "filename": "Manaus_NDB_BR",
+            "ident": "MAN",
+            "name": "Manaus",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "-3.041830062866211",
+            "longitude_deg": "-60.051998138427734",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.152",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBEG"
+        },
+        {
+            "id": "90735",
+            "filename": "Manaus_VOR-DME_BR",
+            "ident": "MNS",
+            "name": "Manaus",
+            "type": "VOR-DME",
+            "frequency_khz": "115800",
+            "latitude_deg": "-3.040007",
+            "longitude_deg": "-60.054787",
+            "elevation_ft": "108",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-12",
+            "magnetic_variation_deg": "-14.1",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBEG"
+        }
+    ]
+}

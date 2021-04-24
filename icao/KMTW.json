@@ -1,0 +1,118 @@
+{
+    "id": "20569",
+    "ident": "KMTW",
+    "type": "small_airport",
+    "name": "Manitowoc County Airport",
+    "latitude_deg": "44.128799",
+    "longitude_deg": "-87.680602",
+    "elevation_ft": "651",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Manitowoc",
+    "scheduled_service": "no",
+    "gps_code": "KMTW",
+    "iata_code": "MTW",
+    "local_code": "MTW",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Manitowoc_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241983",
+            "airport_ref": "20569",
+            "airport_ident": "KMTW",
+            "length_ft": "3343",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "44.1292",
+            "le_longitude_deg": "-87.6843",
+            "le_elevation_ft": "651",
+            "le_heading_degT": "70",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "44.1323",
+            "he_longitude_deg": "-87.6723",
+            "he_elevation_ft": "638",
+            "he_heading_degT": "250",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241984",
+            "airport_ref": "20569",
+            "airport_ident": "KMTW",
+            "length_ft": "5002",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "44.1342",
+            "le_longitude_deg": "-87.6838",
+            "le_elevation_ft": "646",
+            "le_heading_degT": "170",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "44.1207",
+            "he_longitude_deg": "-87.6805",
+            "he_elevation_ft": "650",
+            "he_heading_degT": "350",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62943",
+            "airport_ref": "20569",
+            "airport_ident": "KMTW",
+            "type": "A/D",
+            "description": "GREEN BAY APP/DEP",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "62944",
+            "airport_ref": "20569",
+            "airport_ident": "KMTW",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "111"
+        },
+        {
+            "id": "62945",
+            "airport_ref": "20569",
+            "airport_ident": "KMTW",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "111"
+        },
+        {
+            "id": "62946",
+            "airport_ref": "20569",
+            "airport_ident": "KMTW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

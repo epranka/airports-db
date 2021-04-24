@@ -1,0 +1,104 @@
+{
+    "id": "4011",
+    "ident": "LEGR",
+    "type": "medium_airport",
+    "name": "Federico Garcia Lorca Airport",
+    "latitude_deg": "37.18870162963867",
+    "longitude_deg": "-3.777359962463379",
+    "elevation_ft": "1860",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "Granada",
+    "scheduled_service": "yes",
+    "gps_code": "LEGR",
+    "iata_code": "GRX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238936",
+            "airport_ref": "4011",
+            "airport_ident": "LEGR",
+            "length_ft": "9514",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "37.1886",
+            "le_longitude_deg": "-3.79369",
+            "le_elevation_ft": "1842",
+            "le_heading_degT": "89.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "37.1889",
+            "he_longitude_deg": "-3.76103",
+            "he_elevation_ft": "1860",
+            "he_heading_degT": "269.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57322",
+            "airport_ref": "4011",
+            "airport_ident": "LEGR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57323",
+            "airport_ref": "4011",
+            "airport_ident": "LEGR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.85"
+        }
+    ],
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303729",
+        "code": "ES-AN",
+        "local_code": "AN",
+        "name": "Andalucía",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andalucía",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88310",
+            "filename": "Granada_VOR-DME_ES",
+            "ident": "GDA",
+            "name": "Granada",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "37.18320083618164",
+            "longitude_deg": "-3.990910053253174",
+            "elevation_ft": "1991",
+            "iso_country": "ES",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.118",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "LEGR"
+        }
+    ]
+}

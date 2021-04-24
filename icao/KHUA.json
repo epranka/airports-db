@@ -1,0 +1,150 @@
+{
+    "id": "3596",
+    "ident": "KHUA",
+    "type": "medium_airport",
+    "name": "Redstone Army Air Field",
+    "latitude_deg": "34.67869949",
+    "longitude_deg": "-86.68479919",
+    "elevation_ft": "684",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Redstone Arsnl Huntsville",
+    "scheduled_service": "no",
+    "gps_code": "KHUA",
+    "iata_code": "HUA",
+    "local_code": "HUA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Redstone_Army_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240861",
+            "airport_ref": "3596",
+            "airport_ident": "KHUA",
+            "length_ft": "7300",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "34.6885",
+            "le_longitude_deg": "-86.687",
+            "le_elevation_ft": "685",
+            "le_heading_degT": "169",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "34.6688",
+            "he_longitude_deg": "-86.6826",
+            "he_elevation_ft": "655",
+            "he_heading_degT": "349",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60662",
+            "airport_ref": "3596",
+            "airport_ident": "KHUA",
+            "type": "A/D",
+            "description": "HUNTSVILLE APP/DEP",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "60663",
+            "airport_ref": "3596",
+            "airport_ident": "KHUA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "60664",
+            "airport_ref": "3596",
+            "airport_ident": "KHUA",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "60665",
+            "airport_ref": "3596",
+            "airport_ident": "KHUA",
+            "type": "OPS",
+            "description": "BASE OPS",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "60666",
+            "airport_ref": "3596",
+            "airport_ident": "KHUA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89037",
+            "filename": "Redstone_NDB_US",
+            "ident": "HUA",
+            "name": "Redstone",
+            "type": "NDB",
+            "frequency_khz": "287",
+            "latitude_deg": "34.69850158691406",
+            "longitude_deg": "-86.68800354003906",
+            "elevation_ft": "676",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.321",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KHUA"
+        },
+        {
+            "id": "93229",
+            "filename": "Rocket_VORTAC_US",
+            "ident": "RQZ",
+            "name": "Rocket",
+            "type": "VORTAC",
+            "frequency_khz": "112200",
+            "latitude_deg": "34.79710006713867",
+            "longitude_deg": "-86.63390350341797",
+            "elevation_ft": "1200",
+            "iso_country": "US",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "-2.355",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KHUA"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "632",
+    "ident": "CAM5",
+    "type": "small_airport",
+    "name": "Houston Airport",
+    "latitude_deg": "54.4392009821",
+    "longitude_deg": "-126.778879166",
+    "elevation_ft": "2150",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Houston",
+    "scheduled_service": "no",
+    "gps_code": "CAM5",
+    "iata_code": "",
+    "local_code": "CAM5",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Houston_Airport_(British_Columbia)",
+    "keywords": "AM5",
+    "runways": [
+        {
+            "id": "235029",
+            "airport_ref": "632",
+            "airport_ident": "CAM5",
+            "length_ft": "3900",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "54.438",
+            "le_longitude_deg": "-126.788",
+            "le_elevation_ft": "",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "54.4287",
+            "he_longitude_deg": "-126.779",
+            "he_elevation_ft": "",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50919",
+            "airport_ref": "632",
+            "airport_ident": "CAM5",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95917",
+            "filename": "Houston_VOR-DME_CA",
+            "ident": "YYD",
+            "name": "Houston",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "54.45220184326172",
+            "longitude_deg": "-126.6510009765625",
+            "elevation_ft": "4189",
+            "iso_country": "CA",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "25.001",
+            "magnetic_variation_deg": "21.02",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CAM5"
+        }
+    ]
+}

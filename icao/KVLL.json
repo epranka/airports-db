@@ -1,0 +1,88 @@
+{
+    "id": "21329",
+    "ident": "KVLL",
+    "type": "small_airport",
+    "name": "Oakland Troy Airport",
+    "latitude_deg": "42.54290009",
+    "longitude_deg": "-83.17790222",
+    "elevation_ft": "727",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Troy",
+    "scheduled_service": "no",
+    "gps_code": "KVLL",
+    "iata_code": "",
+    "local_code": "VLL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242754",
+            "airport_ref": "21329",
+            "airport_ident": "KVLL",
+            "length_ft": "3550",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "42.5429",
+            "le_longitude_deg": "-83.1845",
+            "le_elevation_ft": "729",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "42.543",
+            "he_longitude_deg": "-83.1713",
+            "he_elevation_ft": "701",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64571",
+            "airport_ref": "21329",
+            "airport_ident": "KVLL",
+            "type": "A/D",
+            "description": "DETROIT APP/DEP",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "64572",
+            "airport_ref": "21329",
+            "airport_ident": "KVLL",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.475"
+        },
+        {
+            "id": "64573",
+            "airport_ref": "21329",
+            "airport_ident": "KVLL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

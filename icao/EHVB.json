@@ -1,0 +1,158 @@
+{
+    "id": "2527",
+    "ident": "EHVB",
+    "type": "closed",
+    "name": "Valkenburg Naval Air Base",
+    "latitude_deg": "52.166099548300004",
+    "longitude_deg": "4.41794013977",
+    "elevation_ft": "1",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-ZH",
+    "municipality": "Leiden",
+    "scheduled_service": "no",
+    "gps_code": "EHVB",
+    "iata_code": "LID",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Valkenburg_Naval_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237933",
+            "airport_ref": "2527",
+            "airport_ident": "EHVB",
+            "length_ft": "8006",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "52.1593",
+            "le_longitude_deg": "4.404",
+            "le_elevation_ft": "1",
+            "le_heading_degT": "52",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "52.173",
+            "he_longitude_deg": "4.432",
+            "he_elevation_ft": "1",
+            "he_heading_degT": "232",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "237934",
+            "airport_ref": "2527",
+            "airport_ident": "EHVB",
+            "length_ft": "4920",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "52.1752",
+            "le_longitude_deg": "4.42333",
+            "le_elevation_ft": "1",
+            "le_heading_degT": "163",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "52.1623",
+            "he_longitude_deg": "4.42985",
+            "he_elevation_ft": "1",
+            "he_heading_degT": "343",
+            "he_displaced_threshold_ft": "327"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55756",
+            "airport_ref": "2527",
+            "airport_ident": "EHVB",
+            "type": "A/G",
+            "description": "PBV",
+            "frequency_mhz": "312.8"
+        },
+        {
+            "id": "55757",
+            "airport_ref": "2527",
+            "airport_ident": "EHVB",
+            "type": "APP",
+            "description": "ROTTERDAM APP",
+            "frequency_mhz": "127.025"
+        },
+        {
+            "id": "55758",
+            "airport_ref": "2527",
+            "airport_ident": "EHVB",
+            "type": "INFO",
+            "description": "DUTCH MIL INFO",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "55759",
+            "airport_ref": "2527",
+            "airport_ident": "EHVB",
+            "type": "OPS",
+            "description": "FALCON CREST",
+            "frequency_mhz": "26.092"
+        },
+        {
+            "id": "55760",
+            "airport_ref": "2527",
+            "airport_ident": "EHVB",
+            "type": "RDR",
+            "description": "SCHIPHOL APP",
+            "frequency_mhz": "119.05"
+        },
+        {
+            "id": "55761",
+            "airport_ref": "2527",
+            "airport_ident": "EHVB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland,Luchthavens van Nederland"
+    },
+    "region": {
+        "id": "304943",
+        "code": "NL-ZH",
+        "local_code": "ZH",
+        "name": "Zuid-Holland",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zuid-Holland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95056",
+            "filename": "Valkenburg_TACAN_NL",
+            "ident": "VBG",
+            "name": "Valkenburg",
+            "type": "TACAN",
+            "frequency_khz": "111200",
+            "latitude_deg": "52.161399841308594",
+            "longitude_deg": "4.414169788360596",
+            "elevation_ft": "1",
+            "iso_country": "NL",
+            "dme_frequency_khz": "111200",
+            "dme_channel": "049X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-0.434",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EHVB"
+        }
+    ]
+}

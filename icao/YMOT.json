@@ -1,0 +1,88 @@
+{
+    "id": "31890",
+    "ident": "YMOT",
+    "type": "small_airport",
+    "name": "Moreton Airport",
+    "latitude_deg": "-12.444199562099998",
+    "longitude_deg": "142.638000488",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Moreton",
+    "scheduled_service": "no",
+    "gps_code": "YMOT",
+    "iata_code": "MET",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259052",
+            "airport_ref": "31890",
+            "airport_ident": "YMOT",
+            "length_ft": "3937",
+            "width_ft": "",
+            "surface": "G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "73909",
+            "airport_ref": "31890",
+            "airport_ident": "YMOT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "73910",
+            "airport_ref": "31890",
+            "airport_ident": "YMOT",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "73911",
+            "airport_ref": "31890",
+            "airport_ident": "YMOT",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "127.1"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

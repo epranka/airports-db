@@ -1,0 +1,110 @@
+{
+    "id": "18681",
+    "ident": "K3CU",
+    "type": "small_airport",
+    "name": "Cable Union Airport",
+    "latitude_deg": "46.19419860839844",
+    "longitude_deg": "-91.24639892578125",
+    "elevation_ft": "1360",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Cable",
+    "scheduled_service": "no",
+    "gps_code": "K3CU",
+    "iata_code": "",
+    "local_code": "3CU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244079",
+            "airport_ref": "18681",
+            "airport_ident": "K3CU",
+            "length_ft": "2840",
+            "width_ft": "200",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "46.1955",
+            "le_longitude_deg": "-91.2561",
+            "le_elevation_ft": "",
+            "le_heading_degT": "77.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "46.1972",
+            "he_longitude_deg": "-91.2452",
+            "he_elevation_ft": "",
+            "he_heading_degT": "257.8",
+            "he_displaced_threshold_ft": "500"
+        },
+        {
+            "id": "244080",
+            "airport_ref": "18681",
+            "airport_ident": "K3CU",
+            "length_ft": "3709",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "46.1992",
+            "le_longitude_deg": "-91.2483",
+            "le_elevation_ft": "1346",
+            "le_heading_degT": "164.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "46.1893",
+            "he_longitude_deg": "-91.2445",
+            "he_elevation_ft": "1359",
+            "he_heading_degT": "344.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67341",
+            "airport_ref": "18681",
+            "airport_ident": "K3CU",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "126.45"
+        },
+        {
+            "id": "67342",
+            "airport_ref": "18681",
+            "airport_ident": "K3CU",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "113.4"
+        },
+        {
+            "id": "67343",
+            "airport_ref": "18681",
+            "airport_ident": "K3CU",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

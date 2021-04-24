@@ -1,0 +1,104 @@
+{
+    "id": "26809",
+    "ident": "WBGJ",
+    "type": "medium_airport",
+    "name": "Limbang Airport",
+    "latitude_deg": "4.808300018310547",
+    "longitude_deg": "115.01000213623047",
+    "elevation_ft": "14",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-13",
+    "municipality": "Limbang",
+    "scheduled_service": "yes",
+    "gps_code": "WBGJ",
+    "iata_code": "LMN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Limbang_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237808",
+            "airport_ref": "26809",
+            "airport_ident": "WBGJ",
+            "length_ft": "4922",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "4.80286",
+            "le_longitude_deg": "115.006",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "36.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "4.81374",
+            "he_longitude_deg": "115.014",
+            "he_elevation_ft": "12",
+            "he_heading_degT": "216.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55550",
+            "airport_ref": "26809",
+            "airport_ident": "WBGJ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "55551",
+            "airport_ref": "26809",
+            "airport_ident": "WBGJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.3"
+        }
+    ],
+    "country": {
+        "id": "302653",
+        "code": "MY",
+        "name": "Malaysia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
+        "keywords": "Lapangan Terbang Malaysia"
+    },
+    "region": {
+        "id": "304835",
+        "code": "MY-13",
+        "local_code": "13",
+        "name": "Sarawak",
+        "continent": "AS",
+        "iso_country": "MY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sarawak",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95186",
+            "filename": "Limbang_VOR-DME_MY",
+            "ident": "VLG",
+            "name": "Limbang",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "4.7972798347473145",
+            "longitude_deg": "115.00199890136719",
+            "elevation_ft": "14",
+            "iso_country": "MY",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.283",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WBGJ"
+        }
+    ]
+}

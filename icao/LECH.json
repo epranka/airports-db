@@ -1,0 +1,80 @@
+{
+    "id": "300859",
+    "ident": "LECH",
+    "type": "medium_airport",
+    "name": "Castellón-Costa Azahar Airport",
+    "latitude_deg": "40.213889",
+    "longitude_deg": "0.073333",
+    "elevation_ft": "1182",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CS",
+    "municipality": "Castellón de la Plana",
+    "scheduled_service": "yes",
+    "gps_code": "LECH",
+    "iata_code": "CDT",
+    "local_code": "",
+    "home_link": "https://www.aeroportcastello.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Castell%C3%B3n%E2%80%93Costa_Azahar_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "335835",
+            "airport_ref": "300859",
+            "airport_ident": "LECH",
+            "length_ft": "8858",
+            "width_ft": "147",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "40.2075",
+            "le_longitude_deg": "0.060245",
+            "le_elevation_ft": "1093",
+            "le_heading_degT": "57",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "40.2207",
+            "he_longitude_deg": "0.086913",
+            "he_elevation_ft": "1181",
+            "he_heading_degT": "237",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "335836",
+            "airport_ref": "300859",
+            "airport_ident": "LECH",
+            "type": "LECH_TWR",
+            "description": "Castellon Tower",
+            "frequency_mhz": "120.675"
+        },
+        {
+            "id": "335837",
+            "airport_ref": "300859",
+            "airport_ident": "LECH",
+            "type": "LEVC_N_TACC",
+            "description": "Valencia Approach",
+            "frequency_mhz": "120.1"
+        }
+    ],
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303744",
+        "code": "ES-CS",
+        "local_code": "CS",
+        "name": "Castellón",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castellón",
+        "keywords": ""
+    }
+}

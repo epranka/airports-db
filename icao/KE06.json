@@ -1,0 +1,102 @@
+{
+    "id": "19684",
+    "ident": "KE06",
+    "type": "small_airport",
+    "name": "Lea County-Zip Franklin Memorial Airport",
+    "latitude_deg": "32.95389938",
+    "longitude_deg": "-103.4089966",
+    "elevation_ft": "3979",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Lovington",
+    "scheduled_service": "no",
+    "gps_code": "E06",
+    "iata_code": "",
+    "local_code": "E06",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lea_County-Zip_Franklin_Memorial_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240485",
+            "airport_ref": "19684",
+            "airport_ident": "KE06",
+            "length_ft": "6000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "32.9487",
+            "le_longitude_deg": "-103.414",
+            "le_elevation_ft": "3976",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "32.9604",
+            "he_longitude_deg": "-103.401",
+            "he_elevation_ft": "3967",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240486",
+            "airport_ref": "19684",
+            "airport_ident": "KE06",
+            "length_ft": "4409",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "32.9576",
+            "le_longitude_deg": "-103.415",
+            "le_elevation_ft": "3979",
+            "le_heading_degT": "138",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "32.9486",
+            "he_longitude_deg": "-103.406",
+            "he_elevation_ft": "3970",
+            "he_heading_degT": "318",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60047",
+            "airport_ref": "19684",
+            "airport_ident": "KE06",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "133.1"
+        },
+        {
+            "id": "60048",
+            "airport_ref": "19684",
+            "airport_ident": "KE06",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    }
+}

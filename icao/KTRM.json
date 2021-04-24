@@ -1,0 +1,118 @@
+{
+    "id": "21222",
+    "ident": "KTRM",
+    "type": "medium_airport",
+    "name": "Jacqueline Cochran Regional Airport",
+    "latitude_deg": "33.62670135498",
+    "longitude_deg": "-116.16000366211",
+    "elevation_ft": "-115",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Palm Springs",
+    "scheduled_service": "no",
+    "gps_code": "KTRM",
+    "iata_code": "TRM",
+    "local_code": "TRM",
+    "home_link": "http://www.rcjcra.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jacqueline_Cochran_Regional_Airport",
+    "keywords": "Thermal Airport, Desert Resorts Regional Airport, Thermal AAF",
+    "runways": [
+        {
+            "id": "245474",
+            "airport_ref": "21222",
+            "airport_ident": "KTRM",
+            "length_ft": "4995",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "33.6302",
+            "le_longitude_deg": "-116.171",
+            "le_elevation_ft": "-116",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "33.6205",
+            "he_longitude_deg": "-116.159",
+            "he_elevation_ft": "-131",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245475",
+            "airport_ref": "21222",
+            "airport_ident": "KTRM",
+            "length_ft": "8500",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "33.6391",
+            "le_longitude_deg": "-116.156",
+            "le_elevation_ft": "-115",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "33.6158",
+            "he_longitude_deg": "-116.156",
+            "he_elevation_ft": "-135",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70405",
+            "airport_ref": "21222",
+            "airport_ident": "KTRM",
+            "type": "A/D",
+            "description": "PALM SPRINGS APP/DEP",
+            "frequency_mhz": "135.275"
+        },
+        {
+            "id": "70406",
+            "airport_ref": "21222",
+            "airport_ident": "KTRM",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "70407",
+            "airport_ref": "21222",
+            "airport_ident": "KTRM",
+            "type": "RDO",
+            "description": "RIVERSIDE RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "70408",
+            "airport_ref": "21222",
+            "airport_ident": "KTRM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

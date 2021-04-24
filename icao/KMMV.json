@@ -1,0 +1,158 @@
+{
+    "id": "3699",
+    "ident": "KMMV",
+    "type": "medium_airport",
+    "name": "Mc Minnville Municipal Airport",
+    "latitude_deg": "45.19440079",
+    "longitude_deg": "-123.1360016",
+    "elevation_ft": "163",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Mc Minnville",
+    "scheduled_service": "no",
+    "gps_code": "KMMV",
+    "iata_code": "",
+    "local_code": "MMV",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/McMinnville_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246010",
+            "airport_ref": "3699",
+            "airport_ident": "KMMV",
+            "length_ft": "5420",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "45.1918",
+            "le_longitude_deg": "-123.148",
+            "le_elevation_ft": "161",
+            "le_heading_degT": "57",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "45.1998",
+            "he_longitude_deg": "-123.131",
+            "he_elevation_ft": "161",
+            "he_heading_degT": "237",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "246011",
+            "airport_ref": "3699",
+            "airport_ident": "KMMV",
+            "length_ft": "4676",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "45.1993",
+            "le_longitude_deg": "-123.131",
+            "le_elevation_ft": "161",
+            "le_heading_degT": "186",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "45.1865",
+            "he_longitude_deg": "-123.133",
+            "he_elevation_ft": "163",
+            "he_heading_degT": "6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71545",
+            "airport_ref": "3699",
+            "airport_ident": "KMMV",
+            "type": "A/D",
+            "description": "PORTLAND APP/DEP",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "71546",
+            "airport_ref": "3699",
+            "airport_ident": "KMMV",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.675"
+        },
+        {
+            "id": "71547",
+            "airport_ref": "3699",
+            "airport_ident": "KMMV",
+            "type": "CLD",
+            "description": "PORTLAND CLNC DEL",
+            "frequency_mhz": "118.35"
+        },
+        {
+            "id": "71548",
+            "airport_ref": "3699",
+            "airport_ident": "KMMV",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "71549",
+            "airport_ref": "3699",
+            "airport_ident": "KMMV",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "71550",
+            "airport_ref": "3699",
+            "airport_ident": "KMMV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306113",
+        "code": "US-OR",
+        "local_code": "OR",
+        "name": "Oregon",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91087",
+            "filename": "Minne_NDB_US",
+            "ident": "MM",
+            "name": "Minne",
+            "type": "NDB",
+            "frequency_khz": "383",
+            "latitude_deg": "45.24610137939453",
+            "longitude_deg": "-123.02999877929688",
+            "elevation_ft": "159",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.017",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KMMV"
+        }
+    ]
+}

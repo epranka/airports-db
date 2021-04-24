@@ -1,0 +1,72 @@
+{
+    "id": "20688",
+    "ident": "KO42",
+    "type": "small_airport",
+    "name": "Woodlake Airport",
+    "latitude_deg": "36.398799896240234",
+    "longitude_deg": "-119.10700225830078",
+    "elevation_ft": "425",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Woodlake",
+    "scheduled_service": "no",
+    "gps_code": "KO42",
+    "iata_code": "",
+    "local_code": "O42",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Woodlake_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241770",
+            "airport_ref": "20688",
+            "airport_ident": "KO42",
+            "length_ft": "3320",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "36.3989",
+            "le_longitude_deg": "-119.113",
+            "le_elevation_ft": "422",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "525",
+            "he_ident": "25",
+            "he_latitude_deg": "36.3989",
+            "he_longitude_deg": "-119.102",
+            "he_elevation_ft": "425",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": "600"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62534",
+            "airport_ref": "20688",
+            "airport_ident": "KO42",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "20556",
+    "ident": "KMQW",
+    "type": "small_airport",
+    "name": "Telfair Wheeler Airport",
+    "latitude_deg": "32.09579849243164",
+    "longitude_deg": "-82.87999725341797",
+    "elevation_ft": "202",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Mc Rae",
+    "scheduled_service": "no",
+    "gps_code": "KMQW",
+    "iata_code": "",
+    "local_code": "MQW",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241603",
+            "airport_ref": "20556",
+            "airport_ident": "KMQW",
+            "length_ft": "4030",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "32.0907",
+            "le_longitude_deg": "-82.8825",
+            "le_elevation_ft": "202",
+            "le_heading_degT": "23",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "32.1009",
+            "he_longitude_deg": "-82.8775",
+            "he_elevation_ft": "185",
+            "he_heading_degT": "203",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62212",
+            "airport_ref": "20556",
+            "airport_ident": "KMQW",
+            "type": "A/D",
+            "description": "JACKSONVILLE CNTR",
+            "frequency_mhz": "132.3"
+        },
+        {
+            "id": "62213",
+            "airport_ref": "20556",
+            "airport_ident": "KMQW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

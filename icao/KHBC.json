@@ -1,0 +1,88 @@
+{
+    "id": "20026",
+    "ident": "KHBC",
+    "type": "small_airport",
+    "name": "Mohall Municipal Airport",
+    "latitude_deg": "48.76839828491211",
+    "longitude_deg": "-101.53700256347656",
+    "elevation_ft": "1649",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Mohall",
+    "scheduled_service": "no",
+    "gps_code": "KHBC",
+    "iata_code": "",
+    "local_code": "HBC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242363",
+            "airport_ref": "20026",
+            "airport_ident": "KHBC",
+            "length_ft": "3121",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "48.7716",
+            "le_longitude_deg": "-101.541",
+            "le_elevation_ft": "1645",
+            "le_heading_degT": "140",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "48.7651",
+            "he_longitude_deg": "-101.533",
+            "he_elevation_ft": "1647",
+            "he_heading_degT": "320",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63786",
+            "airport_ref": "20026",
+            "airport_ident": "KHBC",
+            "type": "APP",
+            "description": "MINOT APP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "63787",
+            "airport_ref": "20026",
+            "airport_ident": "KHBC",
+            "type": "DEP",
+            "description": "MINOT DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "63788",
+            "airport_ref": "20026",
+            "airport_ident": "KHBC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306104",
+        "code": "US-ND",
+        "local_code": "ND",
+        "name": "North Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
+        "keywords": ""
+    }
+}

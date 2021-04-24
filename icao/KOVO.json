@@ -1,0 +1,118 @@
+{
+    "id": "20774",
+    "ident": "KOVO",
+    "type": "small_airport",
+    "name": "North Vernon Airport",
+    "latitude_deg": "39.04560089",
+    "longitude_deg": "-85.6053009",
+    "elevation_ft": "757",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "North Vernon",
+    "scheduled_service": "no",
+    "gps_code": "KOVO",
+    "iata_code": "",
+    "local_code": "OVO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243482",
+            "airport_ref": "20774",
+            "airport_ident": "KOVO",
+            "length_ft": "5002",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "39.0403",
+            "le_longitude_deg": "-85.6105",
+            "le_elevation_ft": "758",
+            "le_heading_degT": "47.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "39.0495",
+            "he_longitude_deg": "-85.5975",
+            "he_elevation_ft": "756",
+            "he_heading_degT": "227.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243483",
+            "airport_ref": "20774",
+            "airport_ident": "KOVO",
+            "length_ft": "2730",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "39.0494",
+            "le_longitude_deg": "-85.6108",
+            "le_elevation_ft": "752",
+            "le_heading_degT": "152.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "39.0428",
+            "he_longitude_deg": "-85.6064",
+            "he_elevation_ft": "757",
+            "he_heading_degT": "332.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66094",
+            "airport_ref": "20774",
+            "airport_ident": "KOVO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.625"
+        },
+        {
+            "id": "66095",
+            "airport_ref": "20774",
+            "airport_ident": "KOVO",
+            "type": "CNTR",
+            "description": "INDIANAPOLIS CNTR",
+            "frequency_mhz": "124.775"
+        },
+        {
+            "id": "66096",
+            "airport_ref": "20774",
+            "airport_ident": "KOVO",
+            "type": "RDO",
+            "description": "TERRE HAUTE RDO",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "66097",
+            "airport_ref": "20774",
+            "airport_ident": "KOVO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

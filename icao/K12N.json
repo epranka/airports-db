@@ -1,0 +1,88 @@
+{
+    "id": "18411",
+    "ident": "K12N",
+    "type": "small_airport",
+    "name": "Aeroflex-Andover Airport",
+    "latitude_deg": "41.0085983276",
+    "longitude_deg": "-74.7379989624",
+    "elevation_ft": "583",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Andover",
+    "scheduled_service": "no",
+    "gps_code": "K12N",
+    "iata_code": "",
+    "local_code": "12N",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240349",
+            "airport_ref": "18411",
+            "airport_ident": "K12N",
+            "length_ft": "1981",
+            "width_ft": "50",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "41.0061",
+            "le_longitude_deg": "-74.7393",
+            "le_elevation_ft": "582",
+            "le_heading_degT": "21",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "41.0112",
+            "he_longitude_deg": "-74.7367",
+            "he_elevation_ft": "582",
+            "he_heading_degT": "201",
+            "he_displaced_threshold_ft": "699"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59807",
+            "airport_ref": "18411",
+            "airport_ident": "K12N",
+            "type": "A/D",
+            "description": "NEW YORK APP/DEP",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "59808",
+            "airport_ref": "18411",
+            "airport_ident": "K12N",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "109.6"
+        },
+        {
+            "id": "59809",
+            "airport_ref": "18411",
+            "airport_ident": "K12N",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    }
+}

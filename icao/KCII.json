@@ -1,0 +1,110 @@
+{
+    "id": "19499",
+    "ident": "KCII",
+    "type": "small_airport",
+    "name": "Choteau Airport",
+    "latitude_deg": "47.82830047607422",
+    "longitude_deg": "-112.16799926757812",
+    "elevation_ft": "3947",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Choteau",
+    "scheduled_service": "no",
+    "gps_code": "KCII",
+    "iata_code": "",
+    "local_code": "CII",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242143",
+            "airport_ref": "19499",
+            "airport_ident": "KCII",
+            "length_ft": "3700",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "47.8233",
+            "le_longitude_deg": "-112.173",
+            "le_elevation_ft": "3947",
+            "le_heading_degT": "67",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "47.8274",
+            "he_longitude_deg": "-112.159",
+            "he_elevation_ft": "3939",
+            "he_heading_degT": "247",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242144",
+            "airport_ref": "19499",
+            "airport_ident": "KCII",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "47.837",
+            "le_longitude_deg": "-112.174",
+            "le_elevation_ft": "3942",
+            "le_heading_degT": "160",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "47.8241",
+            "he_longitude_deg": "-112.167",
+            "he_elevation_ft": "3941",
+            "he_heading_degT": "340",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63302",
+            "airport_ref": "19499",
+            "airport_ident": "KCII",
+            "type": "CNTR",
+            "description": "SALT LAKE CITY CNTR",
+            "frequency_mhz": "133.4"
+        },
+        {
+            "id": "63303",
+            "airport_ref": "19499",
+            "airport_ident": "KCII",
+            "type": "FSS",
+            "description": "GREAT FALLS RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "63304",
+            "airport_ref": "19499",
+            "airport_ident": "KCII",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306102",
+        "code": "US-MT",
+        "local_code": "MT",
+        "name": "Montana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
+        "keywords": ""
+    }
+}

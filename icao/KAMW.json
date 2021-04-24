@@ -1,0 +1,118 @@
+{
+    "id": "19280",
+    "ident": "KAMW",
+    "type": "small_airport",
+    "name": "Ames Municipal Airport",
+    "latitude_deg": "41.992001",
+    "longitude_deg": "-93.621803",
+    "elevation_ft": "956",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Ames",
+    "scheduled_service": "no",
+    "gps_code": "KAMW",
+    "iata_code": "AMW",
+    "local_code": "AMW",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ames_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245895",
+            "airport_ref": "19280",
+            "airport_ident": "KAMW",
+            "length_ft": "5700",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "41.9827",
+            "le_longitude_deg": "-93.6248",
+            "le_elevation_ft": "955",
+            "le_heading_degT": "16.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "41.9977",
+            "he_longitude_deg": "-93.6188",
+            "he_elevation_ft": "919",
+            "he_heading_degT": "196.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245896",
+            "airport_ref": "19280",
+            "airport_ident": "KAMW",
+            "length_ft": "3492",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "41.9985",
+            "le_longitude_deg": "-93.6264",
+            "le_elevation_ft": "925",
+            "le_heading_degT": "136.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "41.9916",
+            "he_longitude_deg": "-93.6175",
+            "he_elevation_ft": "920",
+            "he_heading_degT": "316.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71301",
+            "airport_ref": "19280",
+            "airport_ident": "KAMW",
+            "type": "A/D",
+            "description": "DES MOINES APP/DEP",
+            "frequency_mhz": "123.9"
+        },
+        {
+            "id": "71302",
+            "airport_ref": "19280",
+            "airport_ident": "KAMW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "132.025"
+        },
+        {
+            "id": "71303",
+            "airport_ref": "19280",
+            "airport_ident": "KAMW",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "71304",
+            "airport_ref": "19280",
+            "airport_ident": "KAMW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

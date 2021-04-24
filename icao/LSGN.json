@@ -1,0 +1,72 @@
+{
+    "id": "29497",
+    "ident": "LSGN",
+    "type": "small_airport",
+    "name": "Neuchatel Airport",
+    "latitude_deg": "46.9575004578",
+    "longitude_deg": "6.86471986771",
+    "elevation_ft": "1427",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-NE",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LSGN",
+    "iata_code": "QNC",
+    "local_code": "",
+    "home_link": "http://www.neuchatel-airport.ch",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "250742",
+            "airport_ref": "29497",
+            "airport_ident": "LSGN",
+            "length_ft": "2295",
+            "width_ft": "66",
+            "surface": "CONCRETE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "1434",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "1424",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75247",
+            "airport_ref": "29497",
+            "airport_ident": "LSGN",
+            "type": "AFIS",
+            "description": "",
+            "frequency_mhz": "123.6"
+        }
+    ],
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303364",
+        "code": "CH-NE",
+        "local_code": "NE",
+        "name": "Canton of Neuchâtel",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Neuchâtel",
+        "keywords": ""
+    }
+}

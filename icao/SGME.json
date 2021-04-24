@@ -1,0 +1,96 @@
+{
+    "id": "6093",
+    "ident": "SGME",
+    "type": "medium_airport",
+    "name": "Dr. Luis Maria Argaña International Airport",
+    "latitude_deg": "-22.049999237060547",
+    "longitude_deg": "-60.619998931884766",
+    "elevation_ft": "553",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-19",
+    "municipality": "Mariscal Estigarribia",
+    "scheduled_service": "no",
+    "gps_code": "SGME",
+    "iata_code": "ESG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dr._Luis_Maria_Arga%C3%B1a_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238116",
+            "airport_ref": "6093",
+            "airport_ident": "SGME",
+            "length_ft": "11483",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-22.0608",
+            "le_longitude_deg": "-60.621",
+            "le_elevation_ft": "549",
+            "le_heading_degT": "357.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-22.0292",
+            "he_longitude_deg": "-60.6223",
+            "he_elevation_ft": "552",
+            "he_heading_degT": "177.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56049",
+            "airport_ref": "6093",
+            "airport_ident": "SGME",
+            "type": "RDO",
+            "description": "MARISCAL RDO",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302799",
+        "code": "PY",
+        "name": "Paraguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
+        "keywords": "Aeropuertos de Paraguay"
+    },
+    "region": {
+        "id": "305197",
+        "code": "PY-19",
+        "local_code": "19",
+        "name": "Boquerón Department",
+        "continent": "SA",
+        "iso_country": "PY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Boquer%C3%B3n_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90798",
+            "filename": "Mariscal_Estigarribia_NDB_PY",
+            "ident": "MCL",
+            "name": "Mariscal Estigarribia",
+            "type": "NDB",
+            "frequency_khz": "381",
+            "latitude_deg": "-22.042499542236328",
+            "longitude_deg": "-60.61690139770508",
+            "elevation_ft": "682",
+            "iso_country": "PY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.301",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SGME"
+        }
+    ]
+}

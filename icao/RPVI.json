@@ -1,0 +1,104 @@
+{
+    "id": "5739",
+    "ident": "RPVI",
+    "type": "medium_airport",
+    "name": "Iloilo International Airport",
+    "latitude_deg": "10.833017",
+    "longitude_deg": "122.493358",
+    "elevation_ft": "27",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-ILI",
+    "municipality": "Iloilo (Cabatuan)",
+    "scheduled_service": "yes",
+    "gps_code": "RPVI",
+    "iata_code": "ILO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Iloilo_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238437",
+            "airport_ref": "5739",
+            "airport_ident": "RPVI",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "132",
+            "le_heading_degT": "24",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "204",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56504",
+            "airport_ref": "5739",
+            "airport_ident": "RPVI",
+            "type": "A/D",
+            "description": "BACOLOD APP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "56505",
+            "airport_ref": "5739",
+            "airport_ident": "RPVI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.4"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305087",
+        "code": "PH-ILI",
+        "local_code": "ILI",
+        "name": "Iloilo Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iloilo_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89289",
+            "filename": "Iloilo_VOR-DME_PH",
+            "ident": "IOO",
+            "name": "Iloilo",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "10.709500312805176",
+            "longitude_deg": "122.54199981689453",
+            "elevation_ft": "27",
+            "iso_country": "PH",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.343",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPVI"
+        }
+    ]
+}

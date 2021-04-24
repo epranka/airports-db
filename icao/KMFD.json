@@ -1,0 +1,174 @@
+{
+    "id": "3677",
+    "ident": "KMFD",
+    "type": "medium_airport",
+    "name": "Mansfield Lahm Regional Airport",
+    "latitude_deg": "40.82139968869999",
+    "longitude_deg": "-82.5166015625",
+    "elevation_ft": "1297",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Mansfield",
+    "scheduled_service": "no",
+    "gps_code": "KMFD",
+    "iata_code": "MFD",
+    "local_code": "MFD",
+    "home_link": "http://www.ci.mansfield.oh.us/index.php/lahm-airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mansfield_Lahm_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239852",
+            "airport_ref": "3677",
+            "airport_ident": "KMFD",
+            "length_ft": "6795",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "40.8115",
+            "le_longitude_deg": "-82.5248",
+            "le_elevation_ft": "1287",
+            "le_heading_degT": "46.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "40.8243",
+            "he_longitude_deg": "-82.5069",
+            "he_elevation_ft": "1276",
+            "he_heading_degT": "226.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239853",
+            "airport_ref": "3677",
+            "airport_ident": "KMFD",
+            "length_ft": "9001",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "40.8331",
+            "le_longitude_deg": "-82.5283",
+            "le_elevation_ft": "1245",
+            "le_heading_degT": "136.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "40.815",
+            "he_longitude_deg": "-82.5061",
+            "he_elevation_ft": "1290",
+            "he_heading_degT": "316.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59086",
+            "airport_ref": "3677",
+            "airport_ident": "KMFD",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "59087",
+            "airport_ref": "3677",
+            "airport_ident": "KMFD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "59088",
+            "airport_ref": "3677",
+            "airport_ident": "KMFD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "59089",
+            "airport_ref": "3677",
+            "airport_ident": "KMFD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "59090",
+            "airport_ref": "3677",
+            "airport_ident": "KMFD",
+            "type": "POST",
+            "description": "HERC COMD POST",
+            "frequency_mhz": "29.75"
+        },
+        {
+            "id": "59091",
+            "airport_ref": "3677",
+            "airport_ident": "KMFD",
+            "type": "RDO",
+            "description": "CLEVELAND RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "59092",
+            "airport_ref": "3677",
+            "airport_ident": "KMFD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "59093",
+            "airport_ref": "3677",
+            "airport_ident": "KMFD",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90890",
+            "filename": "Manns_NDB_US",
+            "ident": "MF",
+            "name": "Manns",
+            "type": "NDB",
+            "frequency_khz": "372",
+            "latitude_deg": "40.7661018371582",
+            "longitude_deg": "-82.44499969482422",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.108",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMFD"
+        }
+    ]
+}

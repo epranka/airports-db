@@ -1,0 +1,150 @@
+{
+    "id": "21288",
+    "ident": "KUES",
+    "type": "small_airport",
+    "name": "Waukesha County Airport",
+    "latitude_deg": "43.041000366211",
+    "longitude_deg": "-88.237098693848",
+    "elevation_ft": "911",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Waukesha",
+    "scheduled_service": "no",
+    "gps_code": "KUES",
+    "iata_code": "UES",
+    "local_code": "UES",
+    "home_link": "https://www.waukeshacounty.gov/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Waukesha_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241511",
+            "airport_ref": "21288",
+            "airport_ident": "KUES",
+            "length_ft": "5848",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "43.0439",
+            "le_longitude_deg": "-88.2497",
+            "le_elevation_ft": "897",
+            "le_heading_degT": "102",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "43.0406",
+            "he_longitude_deg": "-88.2283",
+            "he_elevation_ft": "906",
+            "he_heading_degT": "282",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241512",
+            "airport_ref": "21288",
+            "airport_ident": "KUES",
+            "length_ft": "3598",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "43.0439",
+            "le_longitude_deg": "-88.2332",
+            "le_elevation_ft": "906",
+            "le_heading_degT": "177.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "43.0341",
+            "he_longitude_deg": "-88.2345",
+            "he_elevation_ft": "911",
+            "he_heading_degT": "357.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62026",
+            "airport_ref": "21288",
+            "airport_ident": "KUES",
+            "type": "A/D",
+            "description": "MILWAUKEE APP/DEP",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "62027",
+            "airport_ref": "21288",
+            "airport_ident": "KUES",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.875"
+        },
+        {
+            "id": "62028",
+            "airport_ref": "21288",
+            "airport_ident": "KUES",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.875"
+        },
+        {
+            "id": "62029",
+            "airport_ref": "21288",
+            "airport_ident": "KUES",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "62030",
+            "airport_ref": "21288",
+            "airport_ident": "KUES",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "62031",
+            "airport_ref": "21288",
+            "airport_ident": "KUES",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "62032",
+            "airport_ref": "21288",
+            "airport_ident": "KUES",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "62033",
+            "airport_ref": "21288",
+            "airport_ident": "KUES",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

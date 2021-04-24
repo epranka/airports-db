@@ -1,0 +1,166 @@
+{
+    "id": "3843",
+    "ident": "KRDM",
+    "type": "medium_airport",
+    "name": "Roberts Field",
+    "latitude_deg": "44.2541008",
+    "longitude_deg": "-121.1500015",
+    "elevation_ft": "3080",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Redmond",
+    "scheduled_service": "yes",
+    "gps_code": "KRDM",
+    "iata_code": "RDM",
+    "local_code": "RDM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Roberts_Field",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245832",
+            "airport_ref": "3843",
+            "airport_ident": "KRDM",
+            "length_ft": "7040",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "44.2495",
+            "le_longitude_deg": "-121.162",
+            "le_elevation_ft": "3070",
+            "le_heading_degT": "60",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "44.2591",
+            "he_longitude_deg": "-121.138",
+            "he_elevation_ft": "3050",
+            "he_heading_degT": "240",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245833",
+            "airport_ref": "3843",
+            "airport_ident": "KRDM",
+            "length_ft": "6998",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "44.2589",
+            "le_longitude_deg": "-121.161",
+            "le_elevation_ft": "3041",
+            "le_heading_degT": "122",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "44.2488",
+            "he_longitude_deg": "-121.138",
+            "he_elevation_ft": "3077",
+            "he_heading_degT": "302",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71150",
+            "airport_ref": "3843",
+            "airport_ident": "KRDM",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "71151",
+            "airport_ref": "3843",
+            "airport_ident": "KRDM",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "128.15"
+        },
+        {
+            "id": "71152",
+            "airport_ref": "3843",
+            "airport_ident": "KRDM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "71153",
+            "airport_ref": "3843",
+            "airport_ident": "KRDM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "71154",
+            "airport_ref": "3843",
+            "airport_ident": "KRDM",
+            "type": "RDO",
+            "description": "MC MINNVILLE RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "71155",
+            "airport_ref": "3843",
+            "airport_ident": "KRDM",
+            "type": "TWR",
+            "description": "REDMOND TWR",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "71156",
+            "airport_ref": "3843",
+            "airport_ident": "KRDM",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306113",
+        "code": "US-OR",
+        "local_code": "OR",
+        "name": "Oregon",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93018",
+            "filename": "Bodey_NDB_US",
+            "ident": "RD",
+            "name": "Bodey",
+            "type": "NDB",
+            "frequency_khz": "411",
+            "latitude_deg": "44.30799865722656",
+            "longitude_deg": "-121.01899719238281",
+            "elevation_ft": "3009",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.211",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KRDM"
+        }
+    ]
+}

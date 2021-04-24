@@ -1,0 +1,128 @@
+{
+    "id": "5407",
+    "ident": "PASH",
+    "type": "medium_airport",
+    "name": "Shishmaref Airport",
+    "latitude_deg": "66.249604",
+    "longitude_deg": "-166.089112",
+    "elevation_ft": "12",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Shishmaref",
+    "scheduled_service": "no",
+    "gps_code": "PASH",
+    "iata_code": "SHH",
+    "local_code": "SHH",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shishmaref_Airport",
+    "keywords": "K09",
+    "runways": [
+        {
+            "id": "240854",
+            "airport_ref": "5407",
+            "airport_ident": "PASH",
+            "length_ft": "5000",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "66.2465",
+            "le_longitude_deg": "-166.105",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "63",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "66.2526",
+            "he_longitude_deg": "-166.074",
+            "he_elevation_ft": "12",
+            "he_heading_degT": "243",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60639",
+            "airport_ref": "5407",
+            "airport_ident": "PASH",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "60640",
+            "airport_ref": "5407",
+            "airport_ident": "PASH",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "60641",
+            "airport_ref": "5407",
+            "airport_ident": "PASH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123"
+        },
+        {
+            "id": "60642",
+            "airport_ref": "5407",
+            "airport_ident": "PASH",
+            "type": "FSS",
+            "description": "NOME RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "60643",
+            "airport_ref": "5407",
+            "airport_ident": "PASH",
+            "type": "MISC",
+            "description": "TWEB",
+            "frequency_mhz": "36.5"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93582",
+            "filename": "Shishmaref_NDB_US",
+            "ident": "SHH",
+            "name": "Shishmaref",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "66.2582015991211",
+            "longitude_deg": "-166.05299377441406",
+            "elevation_ft": "8",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.388",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PASH"
+        }
+    ]
+}

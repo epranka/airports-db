@@ -1,0 +1,104 @@
+{
+    "id": "27197",
+    "ident": "ZGNN",
+    "type": "large_airport",
+    "name": "Nanning Wuxu Airport",
+    "latitude_deg": "22.608299",
+    "longitude_deg": "108.171997",
+    "elevation_ft": "421",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-45",
+    "municipality": "Nanning (Jiangnan)",
+    "scheduled_service": "yes",
+    "gps_code": "ZGNN",
+    "iata_code": "NNG",
+    "local_code": "",
+    "home_link": "http://www.nnairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nanning_Wuxu_International_Airport",
+    "keywords": "南宁吴圩机场, Nanning Wuxu Air Base",
+    "runways": [
+        {
+            "id": "235197",
+            "airport_ref": "27197",
+            "airport_ident": "ZGNN",
+            "length_ft": "8858",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "22.5996",
+            "le_longitude_deg": "108.163",
+            "le_elevation_ft": "417",
+            "le_heading_degT": "46.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "22.6163",
+            "he_longitude_deg": "108.182",
+            "he_elevation_ft": "420",
+            "he_heading_degT": "226.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51271",
+            "airport_ref": "27197",
+            "airport_ident": "ZGNN",
+            "type": "GND",
+            "description": "NANNING GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "51272",
+            "airport_ref": "27197",
+            "airport_ident": "ZGNN",
+            "type": "TWR",
+            "description": "NANNING TWR",
+            "frequency_mhz": "130"
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303441",
+        "code": "CN-45",
+        "local_code": "45",
+        "name": "Guangxi Autonomous Region",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guangxi",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91647",
+            "filename": "Nanning_VOR-DME_CN",
+            "ident": "NNG",
+            "name": "Nanning",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "22.625",
+            "longitude_deg": "108.1969985961914",
+            "elevation_ft": "420",
+            "iso_country": "CN",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.346",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZGNN"
+        }
+    ]
+}

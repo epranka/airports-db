@@ -1,0 +1,88 @@
+{
+    "id": "20296",
+    "ident": "KL35",
+    "type": "small_airport",
+    "name": "Big Bear City Airport",
+    "latitude_deg": "34.2638015747",
+    "longitude_deg": "-116.856002808",
+    "elevation_ft": "6752",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Big Bear",
+    "scheduled_service": "no",
+    "gps_code": "L35",
+    "iata_code": "RBF",
+    "local_code": "L35",
+    "home_link": "http://www.bigbearcityairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Big_Bear_City_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242821",
+            "airport_ref": "20296",
+            "airport_ident": "KL35",
+            "length_ft": "5850",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "34.2636",
+            "le_longitude_deg": "-116.864",
+            "le_elevation_ft": "6750",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "370",
+            "he_ident": "26",
+            "he_latitude_deg": "34.2637",
+            "he_longitude_deg": "-116.845",
+            "he_elevation_ft": "6751",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": "600"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64710",
+            "airport_ref": "20296",
+            "airport_ident": "KL35",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.925"
+        },
+        {
+            "id": "64711",
+            "airport_ref": "20296",
+            "airport_ident": "KL35",
+            "type": "CNTR",
+            "description": "LOS ANGELES CNTR",
+            "frequency_mhz": "126.35"
+        },
+        {
+            "id": "64712",
+            "airport_ref": "20296",
+            "airport_ident": "KL35",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.725"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "11355",
+    "ident": "4AZ7",
+    "type": "closed",
+    "name": "San Carlos Airport",
+    "latitude_deg": "33.3778",
+    "longitude_deg": "-110.461998",
+    "elevation_ft": "2896",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "San Carlos",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "4AZ7",
+    "runways": [
+        {
+            "id": "243534",
+            "airport_ref": "11355",
+            "airport_ident": "4AZ7",
+            "length_ft": "7335",
+            "width_ft": "70",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "33.3817",
+            "le_longitude_deg": "-110.465",
+            "le_elevation_ft": "2896",
+            "le_heading_degT": "144.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "33.3653",
+            "he_longitude_deg": "-110.451",
+            "he_elevation_ft": "2805",
+            "he_heading_degT": "303",
+            "he_displaced_threshold_ft": "197"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66205",
+            "airport_ref": "11355",
+            "airport_ident": "4AZ7",
+            "type": "FSS",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "66206",
+            "airport_ref": "11355",
+            "airport_ident": "4AZ7",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": ""
+    }
+}

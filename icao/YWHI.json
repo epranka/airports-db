@@ -1,0 +1,88 @@
+{
+    "id": "38641",
+    "ident": "YWHI",
+    "type": "small_airport",
+    "name": "Whitsunday Island Airport",
+    "latitude_deg": "-20.27611",
+    "longitude_deg": "148.755",
+    "elevation_ft": "40",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YWHI",
+    "iata_code": "WSY",
+    "local_code": "",
+    "home_link": "http://www.whitsundayairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Whitsunday_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259513",
+            "airport_ref": "38641",
+            "airport_ident": "YWHI",
+            "length_ft": "3608",
+            "width_ft": "",
+            "surface": "G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74929",
+            "airport_ref": "38641",
+            "airport_ident": "YWHI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "135.5"
+        },
+        {
+            "id": "74930",
+            "airport_ref": "38641",
+            "airport_ident": "YWHI",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "74931",
+            "airport_ref": "38641",
+            "airport_ident": "YWHI",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.9"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "30012",
+    "ident": "FLKS",
+    "type": "small_airport",
+    "name": "Kasama Airport",
+    "latitude_deg": "-10.216699600219727",
+    "longitude_deg": "31.13330078125",
+    "elevation_ft": "4541",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-05",
+    "municipality": "Kasama",
+    "scheduled_service": "no",
+    "gps_code": "FLKS",
+    "iata_code": "KAA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "260302",
+            "airport_ref": "30012",
+            "airport_ident": "FLKS",
+            "length_ft": "6148",
+            "width_ft": "",
+            "surface": "Gravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "4498",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "4536",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "307502",
+            "airport_ref": "30012",
+            "airport_ident": "FLKS",
+            "type": "FLKS",
+            "description": "Kasama Radio",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302611",
+        "code": "ZM",
+        "name": "Zambia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zambia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306382",
+        "code": "ZM-05",
+        "local_code": "05",
+        "name": "Northern Province",
+        "continent": "AF",
+        "iso_country": "ZM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Province,_Zambia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89997",
+            "filename": "Kasama_NDB_ZM",
+            "ident": "KS",
+            "name": "Kasama",
+            "type": "NDB",
+            "frequency_khz": "367",
+            "latitude_deg": "-10.21679973602295",
+            "longitude_deg": "31.1466007232666",
+            "elevation_ft": "",
+            "iso_country": "ZM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.44",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FLKS"
+        }
+    ]
+}

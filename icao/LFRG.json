@@ -1,0 +1,120 @@
+{
+    "id": "4211",
+    "ident": "LFRG",
+    "type": "medium_airport",
+    "name": "Deauville-Saint-Gatien Airport",
+    "latitude_deg": "49.3652992249",
+    "longitude_deg": "0.154305994511",
+    "elevation_ft": "479",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NOR",
+    "municipality": "Deauville",
+    "scheduled_service": "no",
+    "gps_code": "LFRG",
+    "iata_code": "DOL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Deauville_-_Saint-Gatien_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235962",
+            "airport_ref": "4211",
+            "airport_ident": "LFRG",
+            "length_ft": "8366",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "49.3705",
+            "le_longitude_deg": "0.138714",
+            "le_elevation_ft": "472",
+            "le_heading_degT": "117",
+            "le_displaced_threshold_ft": "1476",
+            "he_ident": "30",
+            "he_latitude_deg": "49.3601",
+            "he_longitude_deg": "0.169933",
+            "he_elevation_ft": "466",
+            "he_heading_degT": "297",
+            "he_displaced_threshold_ft": "1378"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52471",
+            "airport_ref": "4211",
+            "airport_ident": "LFRG",
+            "type": "APP",
+            "description": "DEAUVILLE APP",
+            "frequency_mhz": "120.35"
+        },
+        {
+            "id": "52472",
+            "airport_ref": "4211",
+            "airport_ident": "LFRG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "136.15"
+        },
+        {
+            "id": "52473",
+            "airport_ref": "4211",
+            "airport_ident": "LFRG",
+            "type": "INFO",
+            "description": "DEAUVILLE INFO",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "52474",
+            "airport_ref": "4211",
+            "airport_ident": "LFRG",
+            "type": "TWR",
+            "description": "DEAUVILLE TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306343",
+        "code": "FR-NOR",
+        "local_code": "NOR",
+        "name": "Normandy",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Normandy",
+        "keywords": "Haute-Normandie"
+    },
+    "navaids": [
+        {
+            "id": "87570",
+            "filename": "Deauville_VOR_FR",
+            "ident": "DVL",
+            "name": "Deauville",
+            "type": "VOR",
+            "frequency_khz": "110200",
+            "latitude_deg": "49.310699462890625",
+            "longitude_deg": "0.31272199749946594",
+            "elevation_ft": "497",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-1.492",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFRG"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "18764",
+    "ident": "K42A",
+    "type": "small_airport",
+    "name": "Melbourne Municipal John E Miller Field",
+    "latitude_deg": "36.07099915",
+    "longitude_deg": "-91.83010101",
+    "elevation_ft": "735",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Melbourne",
+    "scheduled_service": "no",
+    "gps_code": "K42A",
+    "iata_code": "",
+    "local_code": "42A",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243024",
+            "airport_ref": "18764",
+            "airport_ident": "K42A",
+            "length_ft": "4003",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "36.0663",
+            "le_longitude_deg": "-91.8337",
+            "le_elevation_ft": "733",
+            "le_heading_degT": "32",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "36.0757",
+            "he_longitude_deg": "-91.8266",
+            "he_elevation_ft": "706",
+            "he_heading_degT": "212",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65137",
+            "airport_ref": "18764",
+            "airport_ident": "K42A",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "65138",
+            "airport_ref": "18764",
+            "airport_ident": "K42A",
+            "type": "DEP",
+            "description": "MEMPHIS CTR",
+            "frequency_mhz": "126.85"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

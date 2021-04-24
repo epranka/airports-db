@@ -1,0 +1,80 @@
+{
+    "id": "21286",
+    "ident": "KUDD",
+    "type": "small_airport",
+    "name": "Bermuda Dunes Airport",
+    "latitude_deg": "33.748401641846",
+    "longitude_deg": "-116.27500152588",
+    "elevation_ft": "73",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Palm Springs",
+    "scheduled_service": "no",
+    "gps_code": "KUDD",
+    "iata_code": "UDD",
+    "local_code": "UDD",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bermuda_Dunes_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244890",
+            "airport_ref": "21286",
+            "airport_ident": "KUDD",
+            "length_ft": "5002",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "33.7514",
+            "le_longitude_deg": "-116.282",
+            "le_elevation_ft": "73",
+            "le_heading_degT": "116",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "33.7454",
+            "he_longitude_deg": "-116.267",
+            "he_elevation_ft": "45",
+            "he_heading_degT": "296",
+            "he_displaced_threshold_ft": "300"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69111",
+            "airport_ref": "21286",
+            "airport_ident": "KUDD",
+            "type": "A/D",
+            "description": "PALM SPRINGS APP/DEP",
+            "frequency_mhz": "135.275"
+        },
+        {
+            "id": "69112",
+            "airport_ref": "21286",
+            "airport_ident": "KUDD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

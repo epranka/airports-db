@@ -1,0 +1,104 @@
+{
+    "id": "19333",
+    "ident": "KAWM",
+    "type": "small_airport",
+    "name": "West Memphis Municipal Airport",
+    "latitude_deg": "35.1351013184",
+    "longitude_deg": "-90.2343978882",
+    "elevation_ft": "212",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "West Memphis",
+    "scheduled_service": "no",
+    "gps_code": "KAWM",
+    "iata_code": "AWM",
+    "local_code": "AWM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/West_Memphis_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243510",
+            "airport_ref": "19333",
+            "airport_ident": "KAWM",
+            "length_ft": "6003",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "35.1433",
+            "le_longitude_deg": "-90.2344",
+            "le_elevation_ft": "212",
+            "le_heading_degT": "180.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "35.1268",
+            "he_longitude_deg": "-90.2345",
+            "he_elevation_ft": "212",
+            "he_heading_degT": "0.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66148",
+            "airport_ref": "19333",
+            "airport_ident": "KAWM",
+            "type": "APP",
+            "description": "MEMPHIS APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "66149",
+            "airport_ref": "19333",
+            "airport_ident": "KAWM",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.175"
+        },
+        {
+            "id": "66150",
+            "airport_ref": "19333",
+            "airport_ident": "KAWM",
+            "type": "CLD",
+            "description": "MEMPHIS CLNC DEL",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "66151",
+            "airport_ref": "19333",
+            "airport_ident": "KAWM",
+            "type": "DEP",
+            "description": "MEMPHIS DEP",
+            "frequency_mhz": "124.65"
+        },
+        {
+            "id": "66152",
+            "airport_ref": "19333",
+            "airport_ident": "KAWM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

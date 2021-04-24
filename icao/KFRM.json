@@ -1,0 +1,118 @@
+{
+    "id": "19895",
+    "ident": "KFRM",
+    "type": "small_airport",
+    "name": "Fairmont Municipal Airport",
+    "latitude_deg": "43.643901825",
+    "longitude_deg": "-94.4156036377",
+    "elevation_ft": "1162",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Fairmont",
+    "scheduled_service": "no",
+    "gps_code": "KFRM",
+    "iata_code": "FRM",
+    "local_code": "FRM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fairmont_Municipal_Airport_(Minnesota)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240064",
+            "airport_ref": "19895",
+            "airport_ident": "KFRM",
+            "length_ft": "3300",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "43.6397",
+            "le_longitude_deg": "-94.4151",
+            "le_elevation_ft": "1159",
+            "le_heading_degT": "28",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "43.6477",
+            "he_longitude_deg": "-94.4093",
+            "he_elevation_ft": "1158",
+            "he_heading_degT": "208",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240065",
+            "airport_ref": "19895",
+            "airport_ident": "KFRM",
+            "length_ft": "5505",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "43.6493",
+            "le_longitude_deg": "-94.4251",
+            "le_elevation_ft": "1158",
+            "le_heading_degT": "134.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "43.6388",
+            "he_longitude_deg": "-94.4102",
+            "he_elevation_ft": "1160",
+            "he_heading_degT": "314.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59403",
+            "airport_ref": "19895",
+            "airport_ident": "KFRM",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "110.2"
+        },
+        {
+            "id": "59404",
+            "airport_ref": "19895",
+            "airport_ident": "KFRM",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "59405",
+            "airport_ref": "19895",
+            "airport_ident": "KFRM",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "110.2"
+        },
+        {
+            "id": "59406",
+            "airport_ref": "19895",
+            "airport_ident": "KFRM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": "19972",
+    "ident": "KGPH",
+    "type": "small_airport",
+    "name": "Midwest National Air Center Airport",
+    "latitude_deg": "39.33250046",
+    "longitude_deg": "-94.30960083",
+    "elevation_ft": "777",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Mosby",
+    "scheduled_service": "no",
+    "gps_code": "KGPH",
+    "iata_code": "",
+    "local_code": "GPH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240882",
+            "airport_ref": "19972",
+            "airport_ident": "KGPH",
+            "length_ft": "5504",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "39.34",
+            "le_longitude_deg": "-94.3084",
+            "le_elevation_ft": "777",
+            "le_heading_degT": "187",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "39.325",
+            "he_longitude_deg": "-94.3109",
+            "he_elevation_ft": "775",
+            "he_heading_degT": "7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60689",
+            "airport_ref": "19972",
+            "airport_ident": "KGPH",
+            "type": "A/D",
+            "description": "KANSAS CITY APP/DEP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "60690",
+            "airport_ref": "19972",
+            "airport_ident": "KGPH",
+            "type": "CLD",
+            "description": "KANAS CITY",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "60691",
+            "airport_ref": "19972",
+            "airport_ident": "KGPH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

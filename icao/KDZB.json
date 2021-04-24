@@ -1,0 +1,96 @@
+{
+    "id": "11812",
+    "ident": "KDZB",
+    "type": "small_airport",
+    "name": "Horseshoe Bay Resort Airpark",
+    "latitude_deg": "30.52709961",
+    "longitude_deg": "-98.35870361",
+    "elevation_ft": "1093",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Horseshoe Bay",
+    "scheduled_service": "no",
+    "gps_code": "KDZB",
+    "iata_code": "",
+    "local_code": "DZB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "4XS7",
+    "runways": [
+        {
+            "id": "244336",
+            "airport_ref": "11812",
+            "airport_ident": "KDZB",
+            "length_ft": "5978",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "30.5353",
+            "le_longitude_deg": "-98.3586",
+            "le_elevation_ft": "1070",
+            "le_heading_degT": "181.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "30.5188",
+            "he_longitude_deg": "-98.3589",
+            "he_elevation_ft": "1117",
+            "he_heading_degT": "1.1",
+            "he_displaced_threshold_ft": "400"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67865",
+            "airport_ref": "11812",
+            "airport_ident": "KDZB",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90898",
+            "filename": "Horseshoe_Bay_Resort_NDB_US",
+            "ident": "MFS",
+            "name": "Horseshoe Bay Resort",
+            "type": "NDB",
+            "frequency_khz": "403",
+            "latitude_deg": "30.5231990814209",
+            "longitude_deg": "-98.35780334472656",
+            "elevation_ft": "1117",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.34",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KDZB"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "19393",
+    "ident": "KBMQ",
+    "type": "small_airport",
+    "name": "Burnet Municipal Kate Craddock Field",
+    "latitude_deg": "30.73889923095703",
+    "longitude_deg": "-98.23860168457031",
+    "elevation_ft": "1284",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Burnet",
+    "scheduled_service": "no",
+    "gps_code": "KBMQ",
+    "iata_code": "",
+    "local_code": "BMQ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242500",
+            "airport_ref": "19393",
+            "airport_ident": "KBMQ",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "30.7323",
+            "le_longitude_deg": "-98.2408",
+            "le_elevation_ft": "1259",
+            "le_heading_degT": "16.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "30.7455",
+            "he_longitude_deg": "-98.2364",
+            "he_elevation_ft": "1284",
+            "he_heading_degT": "196.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64055",
+            "airport_ref": "19393",
+            "airport_ident": "KBMQ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "64056",
+            "airport_ref": "19393",
+            "airport_ident": "KBMQ",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "64057",
+            "airport_ref": "19393",
+            "airport_ident": "KBMQ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

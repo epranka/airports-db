@@ -1,0 +1,80 @@
+{
+    "id": "18862",
+    "ident": "K4Y4",
+    "type": "small_airport",
+    "name": "Lakes of the North Airport",
+    "latitude_deg": "44.912498474121094",
+    "longitude_deg": "-84.87640380859375",
+    "elevation_ft": "1286",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Gaylord",
+    "scheduled_service": "no",
+    "gps_code": "K4Y4",
+    "iata_code": "",
+    "local_code": "4Y4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242176",
+            "airport_ref": "18862",
+            "airport_ident": "K4Y4",
+            "length_ft": "4285",
+            "width_ft": "40",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "44.909",
+            "le_longitude_deg": "-84.883",
+            "le_elevation_ft": "1286",
+            "le_heading_degT": "53",
+            "le_displaced_threshold_ft": "400",
+            "he_ident": "23",
+            "he_latitude_deg": "44.916",
+            "he_longitude_deg": "-84.8698",
+            "he_elevation_ft": "1286",
+            "he_heading_degT": "233",
+            "he_displaced_threshold_ft": "450"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63369",
+            "airport_ref": "18862",
+            "airport_ident": "K4Y4",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "63370",
+            "airport_ref": "18862",
+            "airport_ident": "K4Y4",
+            "type": "FSS",
+            "description": "LANSING RDO",
+            "frequency_mhz": "122.55"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

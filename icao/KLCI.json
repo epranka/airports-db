@@ -1,0 +1,104 @@
+{
+    "id": "20325",
+    "ident": "KLCI",
+    "type": "small_airport",
+    "name": "Laconia Municipal Airport",
+    "latitude_deg": "43.572701",
+    "longitude_deg": "-71.4189",
+    "elevation_ft": "545",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Laconia / Gilford",
+    "scheduled_service": "no",
+    "gps_code": "KLCI",
+    "iata_code": "LCI",
+    "local_code": "LCI",
+    "home_link": "http://www.laconiaairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Laconia_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243949",
+            "airport_ref": "20325",
+            "airport_ident": "KLCI",
+            "length_ft": "5286",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "43.57",
+            "le_longitude_deg": "-71.4281",
+            "le_elevation_ft": "545",
+            "le_heading_degT": "67.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "43.5755",
+            "he_longitude_deg": "-71.4097",
+            "he_elevation_ft": "518",
+            "he_heading_degT": "247.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67089",
+            "airport_ref": "20325",
+            "airport_ident": "KLCI",
+            "type": "A/D",
+            "description": "BOSTON APP/DEP",
+            "frequency_mhz": "127.35"
+        },
+        {
+            "id": "67090",
+            "airport_ref": "20325",
+            "airport_ident": "KLCI",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.525"
+        },
+        {
+            "id": "67091",
+            "airport_ref": "20325",
+            "airport_ident": "KLCI",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.85"
+        },
+        {
+            "id": "67092",
+            "airport_ref": "20325",
+            "airport_ident": "KLCI",
+            "type": "RDO",
+            "description": "CONCORD RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "67093",
+            "airport_ref": "20325",
+            "airport_ident": "KLCI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306106",
+        "code": "US-NH",
+        "local_code": "NH",
+        "name": "New Hampshire",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Hampshire",
+        "keywords": ""
+    }
+}

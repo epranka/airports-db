@@ -1,0 +1,172 @@
+{
+    "id": "2008",
+    "ident": "CZBB",
+    "type": "medium_airport",
+    "name": "Boundary Bay Airport",
+    "latitude_deg": "49.0742",
+    "longitude_deg": "-123.012001",
+    "elevation_ft": "6",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Vancouver",
+    "scheduled_service": "no",
+    "gps_code": "CZBB",
+    "iata_code": "YDT",
+    "local_code": "",
+    "home_link": "http://http://czbb.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Boundary_Bay_Airport",
+    "keywords": "ZBB",
+    "runways": [
+        {
+            "id": "234798",
+            "airport_ref": "2008",
+            "airport_ident": "CZBB",
+            "length_ft": "4865",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "03",
+            "le_latitude_deg": "49.0667",
+            "le_longitude_deg": "-123.007",
+            "le_elevation_ft": "",
+            "le_heading_degT": "50.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "49.0781",
+            "he_longitude_deg": "-122.996",
+            "he_elevation_ft": "",
+            "he_heading_degT": "230.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "234799",
+            "airport_ref": "2008",
+            "airport_ident": "CZBB",
+            "length_ft": "5606",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "49.0781",
+            "le_longitude_deg": "-123.02",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "49.0779",
+            "he_longitude_deg": "-122.996",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": "600"
+        },
+        {
+            "id": "234800",
+            "airport_ref": "2008",
+            "airport_ident": "CZBB",
+            "length_ft": "5605",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "49.0782",
+            "le_longitude_deg": "-123.019",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "144",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "49.0699",
+            "he_longitude_deg": "-123.01",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "324",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50496",
+            "airport_ref": "2008",
+            "airport_ident": "CZBB",
+            "type": "A/D",
+            "description": "VANCOUVER ARR/DEP",
+            "frequency_mhz": "132.3"
+        },
+        {
+            "id": "50498",
+            "airport_ref": "2008",
+            "airport_ident": "CZBB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "50499",
+            "airport_ref": "2008",
+            "airport_ident": "CZBB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "50497",
+            "airport_ref": "2008",
+            "airport_ident": "CZBB",
+            "type": "MF",
+            "description": "Bay Traffic, below 2000ASL 07-15Z",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "311368",
+            "airport_ref": "2008",
+            "airport_ident": "CZBB",
+            "type": "TML",
+            "description": "Vancouver Terminal, above 2000ASL",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "50500",
+            "airport_ref": "2008",
+            "airport_ident": "CZBB",
+            "type": "TWR",
+            "description": "Bay Tower (Inner), to 2000ASL, 15-07z",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "298352",
+            "airport_ref": "2008",
+            "airport_ident": "CZBB",
+            "type": "TWR",
+            "description": "Bay Tower (Outer), to 2000ASL 15-07Z",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "329524",
+            "airport_ref": "2008",
+            "airport_ident": "CZBB",
+            "type": "Unicom",
+            "description": "Bay Fuel (0700-1930 Local)",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "5623",
+    "ident": "RJTL",
+    "type": "medium_airport",
+    "name": "JMSDF Shimofusa Air Base",
+    "latitude_deg": "35.798901",
+    "longitude_deg": "140.011002",
+    "elevation_ft": "98",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-12",
+    "municipality": "Matsudo",
+    "scheduled_service": "no",
+    "gps_code": "RJTL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237150",
+            "airport_ref": "5623",
+            "airport_ident": "RJTL",
+            "length_ft": "7380",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "35.7888",
+            "le_longitude_deg": "140.012",
+            "le_elevation_ft": "98",
+            "le_heading_degT": "359",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "35.8091",
+            "he_longitude_deg": "140.012",
+            "he_elevation_ft": "98",
+            "he_heading_degT": "179",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54529",
+            "airport_ref": "5623",
+            "airport_ident": "RJTL",
+            "type": "APP",
+            "description": "TOKYO APP",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "54530",
+            "airport_ref": "5623",
+            "airport_ident": "RJTL",
+            "type": "DEP",
+            "description": "TOKYO DEP",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "54531",
+            "airport_ref": "5623",
+            "airport_ident": "RJTL",
+            "type": "GCA",
+            "description": "PAR",
+            "frequency_mhz": "30.22"
+        },
+        {
+            "id": "54532",
+            "airport_ref": "5623",
+            "airport_ident": "RJTL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "138.3"
+        },
+        {
+            "id": "54533",
+            "airport_ref": "5623",
+            "airport_ident": "RJTL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "138.3"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304297",
+        "code": "JP-12",
+        "local_code": "12",
+        "name": "Chiba Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chiba",
+        "keywords": "Kanto"
+    },
+    "navaids": [
+        {
+            "id": "93592",
+            "filename": "Shimofusa_TACAN_JP",
+            "ident": "SHT",
+            "name": "Shimofusa",
+            "type": "TACAN",
+            "frequency_khz": "108200",
+            "latitude_deg": "35.80189895629883",
+            "longitude_deg": "140.00999450683594",
+            "elevation_ft": "130",
+            "iso_country": "JP",
+            "dme_frequency_khz": "108200",
+            "dme_channel": "019X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-6.557",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RJTL"
+        }
+    ]
+}

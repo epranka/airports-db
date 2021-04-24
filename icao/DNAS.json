@@ -1,0 +1,80 @@
+{
+    "id": "300781",
+    "ident": "DNAS",
+    "type": "medium_airport",
+    "name": "Asaba International Airport",
+    "latitude_deg": "6.204167",
+    "longitude_deg": "6.665278",
+    "elevation_ft": "305",
+    "continent": "AF",
+    "iso_country": "NG",
+    "iso_region": "NG-DE",
+    "municipality": "Asaba",
+    "scheduled_service": "no",
+    "gps_code": "DNAS",
+    "iata_code": "ABB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Asaba_International_Airport",
+    "keywords": "Onitsha",
+    "runways": [
+        {
+            "id": "327493",
+            "airport_ref": "300781",
+            "airport_ident": "DNAS",
+            "length_ft": "11155",
+            "width_ft": "190",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310644",
+            "airport_ref": "300781",
+            "airport_ident": "DNAS",
+            "type": "SAB - VOR",
+            "description": "",
+            "frequency_mhz": "112.6"
+        },
+        {
+            "id": "310643",
+            "airport_ref": "300781",
+            "airport_ident": "DNAS",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302593",
+        "code": "NG",
+        "name": "Nigeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nigeria",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304885",
+        "code": "NG-DE",
+        "local_code": "DE",
+        "name": "Delta",
+        "continent": "AF",
+        "iso_country": "NG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Delta",
+        "keywords": ""
+    }
+}

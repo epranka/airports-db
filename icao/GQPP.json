@@ -1,0 +1,104 @@
+{
+    "id": "3138",
+    "ident": "GQPP",
+    "type": "medium_airport",
+    "name": "Nouadhibou International Airport",
+    "latitude_deg": "20.9330997467041",
+    "longitude_deg": "-17.030000686645508",
+    "elevation_ft": "24",
+    "continent": "AF",
+    "iso_country": "MR",
+    "iso_region": "MR-08",
+    "municipality": "Nouadhibou",
+    "scheduled_service": "yes",
+    "gps_code": "GQPP",
+    "iata_code": "NDB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nouadhibou_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237617",
+            "airport_ref": "3138",
+            "airport_ident": "GQPP",
+            "length_ft": "7961",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "20.9223",
+            "le_longitude_deg": "-17.0328",
+            "le_elevation_ft": "4",
+            "le_heading_degT": "14",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "20.9435",
+            "he_longitude_deg": "-17.027",
+            "he_elevation_ft": "7",
+            "he_heading_degT": "194",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55352",
+            "airport_ref": "3138",
+            "airport_ident": "GQPP",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "886.1"
+        },
+        {
+            "id": "55353",
+            "airport_ref": "3138",
+            "airport_ident": "GQPP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.8"
+        }
+    ],
+    "country": {
+        "id": "302587",
+        "code": "MR",
+        "name": "Mauritania",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mauritania",
+        "keywords": "مطارات موريتانيا"
+    },
+    "region": {
+        "id": "304714",
+        "code": "MR-08",
+        "local_code": "08",
+        "name": "Dakhlet Nouadhibou Region",
+        "continent": "AF",
+        "iso_country": "MR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dakhlet_Nouadhibou_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92351",
+            "filename": "Nouadhibou_VOR-DME_MR",
+            "ident": "PE",
+            "name": "Nouadhibou",
+            "type": "VOR-DME",
+            "frequency_khz": "113500",
+            "latitude_deg": "20.914400100708008",
+            "longitude_deg": "-17.03499984741211",
+            "elevation_ft": "16",
+            "iso_country": "MR",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.314",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GQPP"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "27269",
+    "ident": "EFRA",
+    "type": "small_airport",
+    "name": "Rautavaara Airfield",
+    "latitude_deg": "63.424198",
+    "longitude_deg": "28.124201",
+    "elevation_ft": "476",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-15",
+    "municipality": "Rautavaara",
+    "scheduled_service": "no",
+    "gps_code": "EFRA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rautavaara_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310813",
+            "airport_ref": "27269",
+            "airport_ident": "EFRA",
+            "length_ft": "1640",
+            "width_ft": "49",
+            "surface": "SAN",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "310812",
+            "airport_ref": "27269",
+            "airport_ident": "EFRA",
+            "length_ft": "4035",
+            "width_ft": "75",
+            "surface": "Oilgravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "63.4314",
+            "le_longitude_deg": "28.1263",
+            "le_elevation_ft": "",
+            "le_heading_degT": "185.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "63.4203",
+            "he_longitude_deg": "28.1239",
+            "he_elevation_ft": "",
+            "he_heading_degT": "5.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310811",
+            "airport_ref": "27269",
+            "airport_ident": "EFRA",
+            "type": "ACC Sector",
+            "description": "Tampere radar",
+            "frequency_mhz": "135.525"
+        },
+        {
+            "id": "310810",
+            "airport_ref": "27269",
+            "airport_ident": "EFRA",
+            "type": "RDO",
+            "description": "Rautavaara traffic",
+            "frequency_mhz": "123.65"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336516",
+        "code": "FI-15",
+        "local_code": "15",
+        "name": "Northern Savonia Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Savo",
+        "keywords": ""
+    }
+}

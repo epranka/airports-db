@@ -1,0 +1,96 @@
+{
+    "id": "41471",
+    "ident": "WITA",
+    "type": "small_airport",
+    "name": "Teuku Cut Ali Airport",
+    "latitude_deg": "3.1707",
+    "longitude_deg": "97.2869",
+    "elevation_ft": "17",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-AC",
+    "municipality": "Tapak Tuan-Sumatra Island",
+    "scheduled_service": "no",
+    "gps_code": "WITA",
+    "iata_code": "TPK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "http://id.wikipedia.org/wiki/Bandar_Udara_Teuku_Cut_Ali",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "311287",
+            "airport_ref": "41471",
+            "airport_ident": "WITA",
+            "length_ft": "4170",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "311288",
+            "airport_ref": "41471",
+            "airport_ident": "WITA",
+            "type": "FIS",
+            "description": "",
+            "frequency_mhz": "112.8"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304097",
+        "code": "ID-AC",
+        "local_code": "AC",
+        "name": "Aceh",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aceh",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94533",
+            "filename": "Tapak_Tuan_NDB_ID",
+            "ident": "TP",
+            "name": "Tapak Tuan",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "3.1659200191497803",
+            "longitude_deg": "97.28589630126953",
+            "elevation_ft": "13",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.456",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WITA"
+        }
+    ]
+}

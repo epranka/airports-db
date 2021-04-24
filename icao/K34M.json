@@ -1,0 +1,72 @@
+{
+    "id": "18650",
+    "ident": "K34M",
+    "type": "small_airport",
+    "name": "Campbell Municipal Airport",
+    "latitude_deg": "36.48619842529297",
+    "longitude_deg": "-90.0083999633789",
+    "elevation_ft": "284",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Campbell",
+    "scheduled_service": "no",
+    "gps_code": "K34M",
+    "iata_code": "",
+    "local_code": "34M",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243848",
+            "airport_ref": "18650",
+            "airport_ident": "K34M",
+            "length_ft": "3000",
+            "width_ft": "50",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "36.4903",
+            "le_longitude_deg": "-90.0156",
+            "le_elevation_ft": "",
+            "le_heading_degT": "176.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "36.4819",
+            "he_longitude_deg": "-90.015",
+            "he_elevation_ft": "",
+            "he_heading_degT": "356.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66879",
+            "airport_ref": "18650",
+            "airport_ident": "K34M",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

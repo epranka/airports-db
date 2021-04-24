@@ -1,0 +1,96 @@
+{
+    "id": "20602",
+    "ident": "KN23",
+    "type": "small_airport",
+    "name": "Sidney Municipal Airport",
+    "latitude_deg": "42.302600860596",
+    "longitude_deg": "-75.416000366211",
+    "elevation_ft": "1027",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Sidney",
+    "scheduled_service": "no",
+    "gps_code": "N23",
+    "iata_code": "SXY",
+    "local_code": "N23",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sidney_Municipal_Airport_(New_York)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243767",
+            "airport_ref": "20602",
+            "airport_ident": "KN23",
+            "length_ft": "4204",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "42.2995",
+            "le_longitude_deg": "-75.4226",
+            "le_elevation_ft": "",
+            "le_heading_degT": "58",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "42.3056",
+            "he_longitude_deg": "-75.4093",
+            "he_elevation_ft": "1022",
+            "he_heading_degT": "238",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66703",
+            "airport_ref": "20602",
+            "airport_ident": "KN23",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.275"
+        },
+        {
+            "id": "66704",
+            "airport_ref": "20602",
+            "airport_ident": "KN23",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "133.25"
+        },
+        {
+            "id": "66705",
+            "airport_ref": "20602",
+            "airport_ident": "KN23",
+            "type": "RDO",
+            "description": "BUFFALO RDO",
+            "frequency_mhz": "112.6"
+        },
+        {
+            "id": "66706",
+            "airport_ref": "20602",
+            "airport_ident": "KN23",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

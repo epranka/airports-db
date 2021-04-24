@@ -1,0 +1,128 @@
+{
+    "id": "5567",
+    "ident": "RJFM",
+    "type": "medium_airport",
+    "name": "Miyazaki Airport",
+    "latitude_deg": "31.877199173",
+    "longitude_deg": "131.449005127",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-45",
+    "municipality": "Miyazaki",
+    "scheduled_service": "yes",
+    "gps_code": "RJFM",
+    "iata_code": "KMI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Miyazaki_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237200",
+            "airport_ref": "5567",
+            "airport_ident": "RJFM",
+            "length_ft": "8200",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "31.8762",
+            "le_longitude_deg": "131.435",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "85.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "31.8781",
+            "he_longitude_deg": "131.462",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "265.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54681",
+            "airport_ref": "5567",
+            "airport_ident": "RJFM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "54682",
+            "airport_ref": "5567",
+            "airport_ident": "RJFM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "54683",
+            "airport_ref": "5567",
+            "airport_ident": "RJFM",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "54684",
+            "airport_ref": "5567",
+            "airport_ident": "RJFM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "54685",
+            "airport_ref": "5567",
+            "airport_ident": "RJFM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304330",
+        "code": "JP-45",
+        "local_code": "45",
+        "name": "Miyazaki Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Miyazaki",
+        "keywords": "Kyushu and Okinawa"
+    },
+    "navaids": [
+        {
+            "id": "91419",
+            "filename": "Miyazaki_VOR-DME_JP",
+            "ident": "MZE",
+            "name": "Miyazaki",
+            "type": "VOR-DME",
+            "frequency_khz": "112400",
+            "latitude_deg": "31.878700256347656",
+            "longitude_deg": "131.43699645996094",
+            "elevation_ft": "32",
+            "iso_country": "JP",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.011",
+            "magnetic_variation_deg": "-6.141",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJFM"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "20973",
+    "ident": "KRWF",
+    "type": "medium_airport",
+    "name": "Redwood Falls Municipal Airport",
+    "latitude_deg": "44.54719925",
+    "longitude_deg": "-95.08229828",
+    "elevation_ft": "1024",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Redwood Falls",
+    "scheduled_service": "no",
+    "gps_code": "KRWF",
+    "iata_code": "RWF",
+    "local_code": "RWF",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245837",
+            "airport_ref": "20973",
+            "airport_ident": "KRWF",
+            "length_ft": "2050",
+            "width_ft": "200",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "44.5446",
+            "le_longitude_deg": "-95.0848",
+            "le_elevation_ft": "1017",
+            "le_heading_degT": "56",
+            "le_displaced_threshold_ft": "325",
+            "he_ident": "23",
+            "he_latitude_deg": "44.5478",
+            "he_longitude_deg": "-95.0783",
+            "he_elevation_ft": "1018",
+            "he_heading_degT": "236",
+            "he_displaced_threshold_ft": "175"
+        },
+        {
+            "id": "245838",
+            "airport_ref": "20973",
+            "airport_ident": "KRWF",
+            "length_ft": "4001",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "44.5511",
+            "le_longitude_deg": "-95.0887",
+            "le_elevation_ft": "1016",
+            "le_heading_degT": "128",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "44.5444",
+            "he_longitude_deg": "-95.0766",
+            "he_elevation_ft": "1021",
+            "he_heading_degT": "308",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71163",
+            "airport_ref": "20973",
+            "airport_ident": "KRWF",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "126.575"
+        },
+        {
+            "id": "71164",
+            "airport_ref": "20973",
+            "airport_ident": "KRWF",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "71165",
+            "airport_ref": "20973",
+            "airport_ident": "KRWF",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "71166",
+            "airport_ref": "20973",
+            "airport_ident": "KRWF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "1960",
+    "ident": "CYXK",
+    "type": "medium_airport",
+    "name": "Rimouski Airport",
+    "latitude_deg": "48.47809982299805",
+    "longitude_deg": "-68.49690246582031",
+    "elevation_ft": "82",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Rimouski",
+    "scheduled_service": "no",
+    "gps_code": "CYXK",
+    "iata_code": "YXK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rimouski_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234954",
+            "airport_ref": "1960",
+            "airport_ident": "CYXK",
+            "length_ft": "4600",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "48.4739",
+            "le_longitude_deg": "-68.5039",
+            "le_elevation_ft": "75",
+            "le_heading_degT": "48.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "48.4822",
+            "he_longitude_deg": "-68.4897",
+            "he_elevation_ft": "71",
+            "he_heading_degT": "228.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50793",
+            "airport_ref": "1960",
+            "airport_ident": "CYXK",
+            "type": "RDO",
+            "description": "MF MONT JOLI RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    },
+    "navaids": [
+        {
+            "id": "95904",
+            "filename": "Rimouski_NDB_CA",
+            "ident": "YXK",
+            "name": "Rimouski",
+            "type": "NDB",
+            "frequency_khz": "373",
+            "latitude_deg": "48.477699279785156",
+            "longitude_deg": "-68.50309753417969",
+            "elevation_ft": "82",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.064",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYXK"
+        }
+    ]
+}

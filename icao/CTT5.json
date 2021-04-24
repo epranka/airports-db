@@ -1,0 +1,72 @@
+{
+    "id": "1617",
+    "ident": "CTT5",
+    "type": "small_airport",
+    "name": "La Romaine Airport",
+    "latitude_deg": "50.259701",
+    "longitude_deg": "-60.679401",
+    "elevation_ft": "90",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "La Romaine",
+    "scheduled_service": "no",
+    "gps_code": "CTT5",
+    "iata_code": "ZGS",
+    "local_code": "CTT5",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/La_Romaine_Airport",
+    "keywords": "TT5, Gethsemani",
+    "runways": [
+        {
+            "id": "234433",
+            "airport_ref": "1617",
+            "airport_ident": "CTT5",
+            "length_ft": "3938",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "50.2599",
+            "le_longitude_deg": "-60.6824",
+            "le_elevation_ft": "90",
+            "le_heading_degT": "93.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "50.2593",
+            "he_longitude_deg": "-60.6656",
+            "he_elevation_ft": "90",
+            "he_heading_degT": "273.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49877",
+            "airport_ref": "1617",
+            "airport_ident": "CTT5",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "18434",
+    "ident": "K17N",
+    "type": "small_airport",
+    "name": "Cross Keys Airport",
+    "latitude_deg": "39.705501556396484",
+    "longitude_deg": "-75.03299713134766",
+    "elevation_ft": "162",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Cross Keys",
+    "scheduled_service": "no",
+    "gps_code": "K17N",
+    "iata_code": "",
+    "local_code": "17N",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243978",
+            "airport_ref": "18434",
+            "airport_ident": "K17N",
+            "length_ft": "3500",
+            "width_ft": "50",
+            "surface": "ASPH-P",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "39.7042",
+            "le_longitude_deg": "-75.039",
+            "le_elevation_ft": "137",
+            "le_heading_degT": "74",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "39.7068",
+            "he_longitude_deg": "-75.027",
+            "he_elevation_ft": "161",
+            "he_heading_degT": "254",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67140",
+            "airport_ref": "18434",
+            "airport_ident": "K17N",
+            "type": "A/D",
+            "description": "PHILY APP/DEP",
+            "frequency_mhz": "127.35"
+        },
+        {
+            "id": "67141",
+            "airport_ref": "18434",
+            "airport_ident": "K17N",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    }
+}

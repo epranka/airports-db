@@ -1,0 +1,160 @@
+{
+    "id": "2497",
+    "ident": "EGXC",
+    "type": "medium_airport",
+    "name": "RAF Coningsby",
+    "latitude_deg": "53.0929985046",
+    "longitude_deg": "-0.166014000773",
+    "elevation_ft": "25",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Coningsby",
+    "scheduled_service": "no",
+    "gps_code": "EGXC",
+    "iata_code": "QCY",
+    "local_code": "",
+    "home_link": "http://www.raf.mod.uk/rafconingsby",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Coningsby",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239446",
+            "airport_ref": "2497",
+            "airport_ident": "EGXC",
+            "length_ft": "9003",
+            "width_ft": "200",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "53.0893",
+            "le_longitude_deg": "-0.185564",
+            "le_elevation_ft": "19",
+            "le_heading_degT": "72",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "53.097",
+            "he_longitude_deg": "-0.146692",
+            "he_elevation_ft": "25",
+            "he_heading_degT": "252",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58201",
+            "airport_ref": "2497",
+            "airport_ident": "EGXC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "307805",
+            "airport_ref": "2497",
+            "airport_ident": "EGXC",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "282.72"
+        },
+        {
+            "id": "58202",
+            "airport_ref": "2497",
+            "airport_ident": "EGXC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "280.3"
+        },
+        {
+            "id": "58203",
+            "airport_ref": "2497",
+            "airport_ident": "EGXC",
+            "type": "CAC",
+            "description": "CAC",
+            "frequency_mhz": "27.777"
+        },
+        {
+            "id": "58204",
+            "airport_ref": "2497",
+            "airport_ident": "EGXC",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "376.35"
+        },
+        {
+            "id": "58205",
+            "airport_ref": "2497",
+            "airport_ident": "EGXC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "307806",
+            "airport_ref": "2497",
+            "airport_ident": "EGXC",
+            "type": "grn",
+            "description": "",
+            "frequency_mhz": "279.7"
+        },
+        {
+            "id": "58206",
+            "airport_ref": "2497",
+            "airport_ident": "EGXC",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "23.467"
+        },
+        {
+            "id": "58207",
+            "airport_ref": "2497",
+            "airport_ident": "EGXC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.675"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86735",
+            "filename": "Coningsby_TACAN_GB",
+            "ident": "CGY",
+            "name": "Coningsby",
+            "type": "TACAN",
+            "frequency_khz": "111100",
+            "latitude_deg": "53.090999603271484",
+            "longitude_deg": "-0.16897499561309814",
+            "elevation_ft": "24",
+            "iso_country": "GB",
+            "dme_frequency_khz": "111100",
+            "dme_channel": "048X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.011",
+            "magnetic_variation_deg": "-2.328",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGXC"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "id": "5237",
+    "ident": "OMFJ",
+    "type": "medium_airport",
+    "name": "Fujairah International Airport",
+    "latitude_deg": "25.112199783325195",
+    "longitude_deg": "56.32400131225586",
+    "elevation_ft": "152",
+    "continent": "AS",
+    "iso_country": "AE",
+    "iso_region": "AE-FU",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "OMFJ",
+    "iata_code": "FJR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fujairah_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232770",
+            "airport_ref": "5237",
+            "airport_ident": "OMFJ",
+            "length_ft": "12303",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "25.1186",
+            "le_longitude_deg": "56.307",
+            "le_elevation_ft": "134",
+            "le_heading_degT": "112.4",
+            "le_displaced_threshold_ft": "2296",
+            "he_ident": "29",
+            "he_latitude_deg": "25.1057",
+            "he_longitude_deg": "56.3414",
+            "he_elevation_ft": "49",
+            "he_heading_degT": "292.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48222",
+            "airport_ref": "5237",
+            "airport_ident": "OMFJ",
+            "type": "APP",
+            "description": "RADAR",
+            "frequency_mhz": "129.4"
+        },
+        {
+            "id": "48223",
+            "airport_ref": "5237",
+            "airport_ident": "OMFJ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "114.7"
+        },
+        {
+            "id": "48224",
+            "airport_ref": "5237",
+            "airport_ident": "OMFJ",
+            "type": "DEP",
+            "description": "DUBAI DEPARTURE",
+            "frequency_mhz": "125.45"
+        },
+        {
+            "id": "48225",
+            "airport_ref": "5237",
+            "airport_ident": "OMFJ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "119.45"
+        },
+        {
+            "id": "48226",
+            "airport_ref": "5237",
+            "airport_ident": "OMFJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.6"
+        }
+    ],
+    "country": {
+        "id": "302618",
+        "code": "AE",
+        "name": "United Arab Emirates",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+        "keywords": "UAE,مطارات في الإمارات العربية المتحدة"
+    },
+    "region": {
+        "id": "302822",
+        "code": "AE-FU",
+        "local_code": "FU",
+        "name": "Fujairah Emirate",
+        "continent": "AS",
+        "iso_country": "AE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fujairah",
+        "keywords": "Al Fujayrah"
+    },
+    "navaids": [
+        {
+            "id": "88013",
+            "filename": "Fujairah_VOR-DME_AE",
+            "ident": "FJR",
+            "name": "Fujairah",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "25.101699829101562",
+            "longitude_deg": "56.351898193359375",
+            "elevation_ft": "54",
+            "iso_country": "AE",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.23",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OMFJ"
+        },
+        {
+            "id": "88191",
+            "filename": "Fujairah_NDB_AE",
+            "ident": "FUJ",
+            "name": "Fujairah",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "25.10219955444336",
+            "longitude_deg": "56.35060119628906",
+            "elevation_ft": "",
+            "iso_country": "AE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.214",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OMFJ"
+        }
+    ]
+}

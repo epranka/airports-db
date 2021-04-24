@@ -1,0 +1,80 @@
+{
+    "id": "26930",
+    "ident": "YBRY",
+    "type": "small_airport",
+    "name": "Barimunya Airport",
+    "latitude_deg": "-22.673900604248",
+    "longitude_deg": "119.16600036621",
+    "elevation_ft": "2082",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBRY",
+    "iata_code": "BYP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Barimunya_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233093",
+            "airport_ref": "26930",
+            "airport_ident": "YBRY",
+            "length_ft": "6365",
+            "width_ft": "99",
+            "surface": "PER",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-22.6697",
+            "le_longitude_deg": "119.154",
+            "le_elevation_ft": "2056",
+            "le_heading_degT": "103",
+            "le_displaced_threshold_ft": "197",
+            "he_ident": "28",
+            "he_latitude_deg": "-22.6737",
+            "he_longitude_deg": "119.172",
+            "he_elevation_ft": "2056",
+            "he_heading_degT": "283",
+            "he_displaced_threshold_ft": "197"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48517",
+            "airport_ref": "26930",
+            "airport_ident": "YBRY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48518",
+            "airport_ref": "26930",
+            "airport_ident": "YBRY",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "123.4"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": ""
+    }
+}

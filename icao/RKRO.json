@@ -1,0 +1,80 @@
+{
+    "id": "5650",
+    "ident": "RKRO",
+    "type": "small_airport",
+    "name": "Pocheon G 217 Airport",
+    "latitude_deg": "37.865283",
+    "longitude_deg": "127.177327",
+    "elevation_ft": "328",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-41",
+    "municipality": "Pocheon",
+    "scheduled_service": "no",
+    "gps_code": "RKRO",
+    "iata_code": "QJP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "RKRO, QJP, G 217, G-217, Pocheon",
+    "runways": [
+        {
+            "id": "237321",
+            "airport_ref": "5650",
+            "airport_ident": "RKRO",
+            "length_ft": "3640",
+            "width_ft": "80",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "37.8625",
+            "le_longitude_deg": "127.171",
+            "le_elevation_ft": "328",
+            "le_heading_degT": "35.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "37.8705",
+            "he_longitude_deg": "127.178",
+            "he_elevation_ft": "328",
+            "he_heading_degT": "215.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55001",
+            "airport_ref": "5650",
+            "airport_ident": "RKRO",
+            "type": "ACP",
+            "description": "BRICKWALL",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "55002",
+            "airport_ref": "5650",
+            "airport_ident": "RKRO",
+            "type": "TWR",
+            "description": "PO CHEON",
+            "frequency_mhz": "36.1"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304407",
+        "code": "KR-41",
+        "local_code": "41",
+        "name": "Gyeonggido",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeonggido",
+        "keywords": ""
+    }
+}

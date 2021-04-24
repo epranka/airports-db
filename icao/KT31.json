@@ -1,0 +1,72 @@
+{
+    "id": "21146",
+    "ident": "KT31",
+    "type": "small_airport",
+    "name": "Aero Country Airport",
+    "latitude_deg": "33.2085",
+    "longitude_deg": "-96.741898",
+    "elevation_ft": "792",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "McKinney",
+    "scheduled_service": "no",
+    "gps_code": "KT31",
+    "iata_code": "",
+    "local_code": "T31",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240678",
+            "airport_ref": "21146",
+            "airport_ident": "KT31",
+            "length_ft": "4305",
+            "width_ft": "40",
+            "surface": "COP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "33.2144",
+            "le_longitude_deg": "-96.7419",
+            "le_elevation_ft": "",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "35",
+            "he_latitude_deg": "33.2025",
+            "he_longitude_deg": "-96.7419",
+            "he_elevation_ft": "",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "250"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60329",
+            "airport_ref": "21146",
+            "airport_ident": "KT31",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "20619",
+    "ident": "KCKZ",
+    "type": "small_airport",
+    "name": "Pennridge Airport",
+    "latitude_deg": "40.389198303222656",
+    "longitude_deg": "-75.29049682617188",
+    "elevation_ft": "568",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Perkasie",
+    "scheduled_service": "no",
+    "gps_code": "KCKZ",
+    "iata_code": "",
+    "local_code": "CKZ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pennridge_Airport",
+    "keywords": "Formerly N70",
+    "runways": [
+        {
+            "id": "241494",
+            "airport_ref": "20619",
+            "airport_ident": "KCKZ",
+            "length_ft": "4215",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "40.3872",
+            "le_longitude_deg": "-75.2976",
+            "le_elevation_ft": "520",
+            "le_heading_degT": "69.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "40.3912",
+            "he_longitude_deg": "-75.2834",
+            "he_elevation_ft": "568",
+            "he_heading_degT": "249.6",
+            "he_displaced_threshold_ft": "360"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61981",
+            "airport_ref": "20619",
+            "airport_ident": "KCKZ",
+            "type": "A/D",
+            "description": "PHILADELPHIA APP/DEP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "61982",
+            "airport_ref": "20619",
+            "airport_ident": "KCKZ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "108.85"
+        },
+        {
+            "id": "61983",
+            "airport_ref": "20619",
+            "airport_ident": "KCKZ",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "61984",
+            "airport_ref": "20619",
+            "airport_ident": "KCKZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

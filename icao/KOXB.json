@@ -1,0 +1,110 @@
+{
+    "id": "20781",
+    "ident": "KOXB",
+    "type": "small_airport",
+    "name": "Ocean City Municipal Airport",
+    "latitude_deg": "38.310398101807",
+    "longitude_deg": "-75.124000549316",
+    "elevation_ft": "11",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Ocean City",
+    "scheduled_service": "no",
+    "gps_code": "KOXB",
+    "iata_code": "OCE",
+    "local_code": "OXB",
+    "home_link": "http://oceancitymd.gov/oc/departments/public-works/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ocean_City_Municipal_Airport_(Maryland)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243992",
+            "airport_ref": "20781",
+            "airport_ident": "KOXB",
+            "length_ft": "3201",
+            "width_ft": "75",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "38.3065",
+            "le_longitude_deg": "-75.1277",
+            "le_elevation_ft": "9",
+            "le_heading_degT": "10",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "38.3151",
+            "he_longitude_deg": "-75.1258",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "190",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243993",
+            "airport_ref": "20781",
+            "airport_ident": "KOXB",
+            "length_ft": "4072",
+            "width_ft": "75",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "38.314",
+            "le_longitude_deg": "-75.127",
+            "le_elevation_ft": "11",
+            "le_heading_degT": "133",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "38.3064",
+            "he_longitude_deg": "-75.1166",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "313",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67177",
+            "airport_ref": "20781",
+            "airport_ident": "KOXB",
+            "type": "A/D",
+            "description": "PATUXENT APP/DEP",
+            "frequency_mhz": "127.95"
+        },
+        {
+            "id": "67178",
+            "airport_ref": "20781",
+            "airport_ident": "KOXB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "67179",
+            "airport_ref": "20781",
+            "airport_ident": "KOXB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306096",
+        "code": "US-MD",
+        "local_code": "MD",
+        "name": "Maryland",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
+        "keywords": ""
+    }
+}

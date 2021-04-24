@@ -1,0 +1,72 @@
+{
+    "id": "6058",
+    "ident": "SEIB",
+    "type": "small_airport",
+    "name": "Atahualpa Airport",
+    "latitude_deg": "0.33841899037361145",
+    "longitude_deg": "-78.13639831542969",
+    "elevation_ft": "7304",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-I",
+    "municipality": "Ibarra",
+    "scheduled_service": "no",
+    "gps_code": "SEIB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235517",
+            "airport_ref": "6058",
+            "airport_ident": "SEIB",
+            "length_ft": "6365",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "0.330508",
+            "le_longitude_deg": "-78.1402",
+            "le_elevation_ft": "7304",
+            "le_heading_degT": "25.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "0.346331",
+            "he_longitude_deg": "-78.1327",
+            "he_elevation_ft": "7234",
+            "he_heading_degT": "205.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51812",
+            "airport_ref": "6058",
+            "airport_ident": "SEIB",
+            "type": "TWR",
+            "description": "IBARRA TWR",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303660",
+        "code": "EC-I",
+        "local_code": "I",
+        "name": "Imbabura Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Imbabura_Province",
+        "keywords": ""
+    }
+}

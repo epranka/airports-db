@@ -1,0 +1,120 @@
+{
+    "id": "6178",
+    "ident": "SKYP",
+    "type": "medium_airport",
+    "name": "El Yopal Airport",
+    "latitude_deg": "5.31911",
+    "longitude_deg": "-72.384",
+    "elevation_ft": "1028",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "El Yopal",
+    "scheduled_service": "yes",
+    "gps_code": "SKYP",
+    "iata_code": "EYP",
+    "local_code": "EYP",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/El_Alcarav%C3%A1n_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235279",
+            "airport_ref": "6178",
+            "airport_ident": "SKYP",
+            "length_ft": "8448",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "5.31088",
+            "le_longitude_deg": "-72.3922",
+            "le_elevation_ft": "1006",
+            "le_heading_degT": "45.1",
+            "le_displaced_threshold_ft": "492",
+            "he_ident": "23",
+            "he_latitude_deg": "5.32734",
+            "he_longitude_deg": "-72.3757",
+            "he_elevation_ft": "1028",
+            "he_heading_degT": "225.1",
+            "he_displaced_threshold_ft": "574"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51400",
+            "airport_ref": "6178",
+            "airport_ident": "SKYP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "51401",
+            "airport_ref": "6178",
+            "airport_ident": "SKYP",
+            "type": "INFO",
+            "description": "FIS",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "51402",
+            "airport_ref": "6178",
+            "airport_ident": "SKYP",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "655.3"
+        },
+        {
+            "id": "51403",
+            "airport_ref": "6178",
+            "airport_ident": "SKYP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303465",
+        "code": "CO-CAS",
+        "local_code": "CAS",
+        "name": "Casanare Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Casanare_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87889",
+            "filename": "El_Yopal_VOR-DME_CO",
+            "ident": "EYP",
+            "name": "El Yopal",
+            "type": "VOR-DME",
+            "frequency_khz": "115600",
+            "latitude_deg": "5.276939868927002",
+            "longitude_deg": "-72.42579650878906",
+            "elevation_ft": "903",
+            "iso_country": "CO",
+            "dme_frequency_khz": "115600",
+            "dme_channel": "103X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-6.526",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SKYP"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "20577",
+    "ident": "KMVN",
+    "type": "small_airport",
+    "name": "Mt. Vernon Outland Airport",
+    "latitude_deg": "38.323399",
+    "longitude_deg": "-88.858803",
+    "elevation_ft": "480",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Mount Vernon",
+    "scheduled_service": "no",
+    "gps_code": "KMVN",
+    "iata_code": "",
+    "local_code": "MVN",
+    "home_link": "http://www.mtvernonairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mount_Vernon_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242558",
+            "airport_ref": "20577",
+            "airport_ident": "KMVN",
+            "length_ft": "6498",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "38.3178",
+            "le_longitude_deg": "-88.8668",
+            "le_elevation_ft": "468",
+            "le_heading_degT": "50",
+            "le_displaced_threshold_ft": "773",
+            "he_ident": "23",
+            "he_latitude_deg": "38.3293",
+            "he_longitude_deg": "-88.8494",
+            "he_elevation_ft": "468",
+            "he_heading_degT": "230",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242559",
+            "airport_ref": "20577",
+            "airport_ident": "KMVN",
+            "length_ft": "3149",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "38.3267",
+            "le_longitude_deg": "-88.8621",
+            "le_elevation_ft": "480",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "38.3192",
+            "he_longitude_deg": "-88.8566",
+            "he_elevation_ft": "458",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64177",
+            "airport_ref": "20577",
+            "airport_ident": "KMVN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "113.8"
+        },
+        {
+            "id": "64178",
+            "airport_ref": "20577",
+            "airport_ident": "KMVN",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "64179",
+            "airport_ref": "20577",
+            "airport_ident": "KMVN",
+            "type": "RDO",
+            "description": "ST LOUIS RDO",
+            "frequency_mhz": "113.8"
+        },
+        {
+            "id": "64180",
+            "airport_ref": "20577",
+            "airport_ident": "KMVN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

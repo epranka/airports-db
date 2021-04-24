@@ -1,0 +1,120 @@
+{
+    "id": "5422",
+    "ident": "PAWI",
+    "type": "medium_airport",
+    "name": "Wainwright Airport",
+    "latitude_deg": "70.6380004883",
+    "longitude_deg": "-159.994995117",
+    "elevation_ft": "41",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Wainwright",
+    "scheduled_service": "no",
+    "gps_code": "PAWI",
+    "iata_code": "AIN",
+    "local_code": "AWI",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wainwright_Airport_(Alaska)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240855",
+            "airport_ref": "5422",
+            "airport_ident": "PAWI",
+            "length_ft": "4494",
+            "width_ft": "90",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "70.6357",
+            "le_longitude_deg": "-160.012",
+            "le_elevation_ft": "37",
+            "le_heading_degT": "67",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "70.6404",
+            "he_longitude_deg": "-159.978",
+            "he_elevation_ft": "36",
+            "he_heading_degT": "247",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60644",
+            "airport_ref": "5422",
+            "airport_ident": "PAWI",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "132.25"
+        },
+        {
+            "id": "60645",
+            "airport_ref": "5422",
+            "airport_ident": "PAWI",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "135.3"
+        },
+        {
+            "id": "60646",
+            "airport_ref": "5422",
+            "airport_ident": "PAWI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "60647",
+            "airport_ref": "5422",
+            "airport_ident": "PAWI",
+            "type": "FSS",
+            "description": "FAIRBANKS RDO",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94874",
+            "filename": "Wainwright_Village_NDB_US",
+            "ident": "UKK",
+            "name": "Wainwright Village",
+            "type": "NDB",
+            "frequency_khz": "338",
+            "latitude_deg": "70.63760375976562",
+            "longitude_deg": "-160.00900268554688",
+            "elevation_ft": "36",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.213",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PAWI"
+        }
+    ]
+}

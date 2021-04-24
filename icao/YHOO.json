@@ -1,0 +1,104 @@
+{
+    "id": "27622",
+    "ident": "YHOO",
+    "type": "small_airport",
+    "name": "Hooker Creek Airport",
+    "latitude_deg": "-18.3367004395",
+    "longitude_deg": "130.638000488",
+    "elevation_ft": "320",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Lajamanu",
+    "scheduled_service": "yes",
+    "gps_code": "YHOO",
+    "iata_code": "HOK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hooker_Creek_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258721",
+            "airport_ref": "27622",
+            "airport_ident": "YHOO",
+            "length_ft": "5118",
+            "width_ft": "",
+            "surface": "X",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "1032",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "1028",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "73193",
+            "airport_ref": "27622",
+            "airport_ident": "YHOO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "73194",
+            "airport_ref": "27622",
+            "airport_ident": "YHOO",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "134.2"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88961",
+            "filename": "Hooker_Creek_NDB_AU",
+            "ident": "HOO",
+            "name": "Hooker Creek",
+            "type": "NDB",
+            "frequency_khz": "398",
+            "latitude_deg": "-18.330799102783203",
+            "longitude_deg": "130.63699340820312",
+            "elevation_ft": "1050",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.559",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YHOO"
+        }
+    ]
+}

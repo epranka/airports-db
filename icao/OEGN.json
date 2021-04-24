@@ -1,0 +1,104 @@
+{
+    "id": "5090",
+    "ident": "OEGN",
+    "type": "medium_airport",
+    "name": "Jizan Regional Airport / King Abdullah bin Abdulaziz Airport",
+    "latitude_deg": "16.9011",
+    "longitude_deg": "42.5858",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-09",
+    "municipality": "Jizan",
+    "scheduled_service": "yes",
+    "gps_code": "OEGN",
+    "iata_code": "GIZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jizan_Regional_Airport",
+    "keywords": "Gizan",
+    "runways": [
+        {
+            "id": "238651",
+            "airport_ref": "5090",
+            "airport_ident": "OEGN",
+            "length_ft": "10006",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "16.913",
+            "le_longitude_deg": "42.5786",
+            "le_elevation_ft": "16",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "16.8891",
+            "he_longitude_deg": "42.5929",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56927",
+            "airport_ref": "5090",
+            "airport_ident": "OEGN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "56928",
+            "airport_ref": "5090",
+            "airport_ident": "OEGN",
+            "type": "TWR",
+            "description": "JAZAN TWR",
+            "frequency_mhz": "118"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305368",
+        "code": "SA-09",
+        "local_code": "09",
+        "name": "Jlzan Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jlzan_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88420",
+            "filename": "Jazan_VORTAC_SA",
+            "ident": "GIZ",
+            "name": "Jazan",
+            "type": "VORTAC",
+            "frequency_khz": "117700",
+            "latitude_deg": "16.907699584960938",
+            "longitude_deg": "42.577598571777344",
+            "elevation_ft": "14",
+            "iso_country": "SA",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "2.044",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OEGN"
+        }
+    ]
+}

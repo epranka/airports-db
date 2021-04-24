@@ -1,0 +1,80 @@
+{
+    "id": "28035",
+    "ident": "YWBS",
+    "type": "small_airport",
+    "name": "Warraber Island Airport",
+    "latitude_deg": "-10.20829963684082",
+    "longitude_deg": "142.8249969482422",
+    "elevation_ft": "3",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Sue Islet",
+    "scheduled_service": "yes",
+    "gps_code": "YWBS",
+    "iata_code": "SYU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Warraber_Island_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259491",
+            "airport_ref": "28035",
+            "airport_ident": "YWBS",
+            "length_ft": "2362",
+            "width_ft": "",
+            "surface": "N",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74877",
+            "airport_ref": "28035",
+            "airport_ident": "YWBS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "74878",
+            "airport_ref": "28035",
+            "airport_ident": "YWBS",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.7"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

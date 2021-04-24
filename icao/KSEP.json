@@ -1,0 +1,110 @@
+{
+    "id": "21051",
+    "ident": "KSEP",
+    "type": "small_airport",
+    "name": "Stephenville Clark Regional Airport",
+    "latitude_deg": "32.215301513672",
+    "longitude_deg": "-98.177696228027",
+    "elevation_ft": "1321",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Stephenville",
+    "scheduled_service": "no",
+    "gps_code": "KSEP",
+    "iata_code": "SEP",
+    "local_code": "SEP",
+    "home_link": "http://www.stephenvilletx.gov/city-services/airport/airport-stephenville-aviation/",
+    "wikipedia_link": "",
+    "keywords": "Clark Field",
+    "runways": [
+        {
+            "id": "239967",
+            "airport_ref": "21051",
+            "airport_ident": "KSEP",
+            "length_ft": "2502",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "03",
+            "le_latitude_deg": "32.2128",
+            "le_longitude_deg": "-98.1831",
+            "le_elevation_ft": "1303",
+            "le_heading_degT": "39",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "32.2181",
+            "he_longitude_deg": "-98.178",
+            "he_elevation_ft": "1315",
+            "he_heading_degT": "219",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239968",
+            "airport_ref": "21051",
+            "airport_ident": "KSEP",
+            "length_ft": "4200",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "32.2203",
+            "le_longitude_deg": "-98.1812",
+            "le_elevation_ft": "1321",
+            "le_heading_degT": "149.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "32.2104",
+            "he_longitude_deg": "-98.1742",
+            "he_elevation_ft": "1289",
+            "he_heading_degT": "329.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59263",
+            "airport_ref": "21051",
+            "airport_ident": "KSEP",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.075"
+        },
+        {
+            "id": "59264",
+            "airport_ref": "21051",
+            "airport_ident": "KSEP",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "127.15"
+        },
+        {
+            "id": "59265",
+            "airport_ref": "21051",
+            "airport_ident": "KSEP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

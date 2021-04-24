@@ -1,0 +1,150 @@
+{
+    "id": "20101",
+    "ident": "KHWD",
+    "type": "small_airport",
+    "name": "Hayward Executive Airport",
+    "latitude_deg": "37.659198761",
+    "longitude_deg": "-122.122001648",
+    "elevation_ft": "52",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Hayward",
+    "scheduled_service": "no",
+    "gps_code": "KHWD",
+    "iata_code": "HWD",
+    "local_code": "HWD",
+    "home_link": "http://www.hayward-ca.gov/CITY-GOVERNMENT/DEPARTMENTS/PUBLIC-WORKS-ET/HEA/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hayward_Executive_Airport",
+    "keywords": "Hayward Air Terminal",
+    "runways": [
+        {
+            "id": "245013",
+            "airport_ref": "20101",
+            "airport_ident": "KHWD",
+            "length_ft": "3107",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10L",
+            "le_latitude_deg": "37.6625",
+            "le_longitude_deg": "-122.127",
+            "le_elevation_ft": "28",
+            "le_heading_degT": "120",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28R",
+            "he_latitude_deg": "37.6582",
+            "he_longitude_deg": "-122.118",
+            "he_elevation_ft": "37",
+            "he_heading_degT": "300",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245012",
+            "airport_ref": "20101",
+            "airport_ident": "KHWD",
+            "length_ft": "5694",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10R",
+            "le_latitude_deg": "37.662",
+            "le_longitude_deg": "-122.13",
+            "le_elevation_ft": "29",
+            "le_heading_degT": "119.8",
+            "le_displaced_threshold_ft": "816",
+            "he_ident": "28L",
+            "he_latitude_deg": "37.6543",
+            "he_longitude_deg": "-122.113",
+            "he_elevation_ft": "50",
+            "he_heading_degT": "299.8",
+            "he_displaced_threshold_ft": "676"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69387",
+            "airport_ref": "20101",
+            "airport_ident": "KHWD",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "35.41"
+        },
+        {
+            "id": "69386",
+            "airport_ref": "20101",
+            "airport_ident": "KHWD",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "69388",
+            "airport_ref": "20101",
+            "airport_ident": "KHWD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "69389",
+            "airport_ref": "20101",
+            "airport_ident": "KHWD",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "128.05"
+        },
+        {
+            "id": "69390",
+            "airport_ref": "20101",
+            "airport_ident": "KHWD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "69391",
+            "airport_ref": "20101",
+            "airport_ident": "KHWD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "69392",
+            "airport_ref": "20101",
+            "airport_ident": "KHWD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "69393",
+            "airport_ref": "20101",
+            "airport_ident": "KHWD",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

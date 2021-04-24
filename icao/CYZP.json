@@ -1,0 +1,120 @@
+{
+    "id": "1996",
+    "ident": "CYZP",
+    "type": "medium_airport",
+    "name": "Sandspit Airport",
+    "latitude_deg": "53.25429916379999",
+    "longitude_deg": "-131.813995361",
+    "elevation_ft": "21",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Sandspit",
+    "scheduled_service": "yes",
+    "gps_code": "CYZP",
+    "iata_code": "YZP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sandspit_Airport",
+    "keywords": "Queen Charlotte Islands, Haida Gwaii",
+    "runways": [
+        {
+            "id": "234838",
+            "airport_ref": "1996",
+            "airport_ident": "CYZP",
+            "length_ft": "5120",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "53.26",
+            "le_longitude_deg": "-131.821",
+            "le_elevation_ft": "17",
+            "le_heading_degT": "144",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "53.2486",
+            "he_longitude_deg": "-131.807",
+            "he_elevation_ft": "21",
+            "he_heading_degT": "324",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50565",
+            "airport_ref": "1996",
+            "airport_ident": "CYZP",
+            "type": "A/G",
+            "description": "TERRACE RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50566",
+            "airport_ref": "1996",
+            "airport_ident": "CYZP",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "50567",
+            "airport_ref": "1996",
+            "airport_ident": "CYZP",
+            "type": "CNTR",
+            "description": "VANCOUVER CNTR",
+            "frequency_mhz": "133.4"
+        },
+        {
+            "id": "50568",
+            "airport_ref": "1996",
+            "airport_ident": "CYZP",
+            "type": "RCO",
+            "description": "PACIFIC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95942",
+            "filename": "Sandspit_VORTAC_CA",
+            "ident": "YZP",
+            "name": "Sandspit",
+            "type": "VORTAC",
+            "frequency_khz": "114100",
+            "latitude_deg": "53.252201080322266",
+            "longitude_deg": "-131.8070068359375",
+            "elevation_ft": "30",
+            "iso_country": "CA",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "25.001",
+            "magnetic_variation_deg": "20.479",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYZP"
+        }
+    ]
+}

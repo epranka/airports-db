@@ -1,0 +1,110 @@
+{
+    "id": "20396",
+    "ident": "KLXN",
+    "type": "small_airport",
+    "name": "Jim Kelly Field",
+    "latitude_deg": "40.791000366199995",
+    "longitude_deg": "-99.7772979736",
+    "elevation_ft": "2413",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Lexington",
+    "scheduled_service": "no",
+    "gps_code": "KLXN",
+    "iata_code": "LXN",
+    "local_code": "LXN",
+    "home_link": "http://www.cityoflex.com/index.aspx?page=46",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jim_Kelly_Field",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242160",
+            "airport_ref": "20396",
+            "airport_ident": "KLXN",
+            "length_ft": "3200",
+            "width_ft": "250",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "40.7853",
+            "le_longitude_deg": "-99.7754",
+            "le_elevation_ft": "2400",
+            "le_heading_degT": "18.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "40.7936",
+            "he_longitude_deg": "-99.7718",
+            "he_elevation_ft": "2406",
+            "he_heading_degT": "198.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242161",
+            "airport_ref": "20396",
+            "airport_ident": "KLXN",
+            "length_ft": "5489",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "40.797",
+            "le_longitude_deg": "-99.7832",
+            "le_elevation_ft": "2413",
+            "le_heading_degT": "143.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "40.785",
+            "he_longitude_deg": "-99.7713",
+            "he_elevation_ft": "2403",
+            "he_heading_degT": "323.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63337",
+            "airport_ref": "20396",
+            "airport_ident": "KLXN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.025"
+        },
+        {
+            "id": "63338",
+            "airport_ref": "20396",
+            "airport_ident": "KLXN",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "132.7"
+        },
+        {
+            "id": "63339",
+            "airport_ref": "20396",
+            "airport_ident": "KLXN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

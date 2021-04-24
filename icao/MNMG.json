@@ -1,0 +1,142 @@
+{
+    "id": "4774",
+    "ident": "MNMG",
+    "type": "medium_airport",
+    "name": "Augusto C. Sandino (Managua) International Airport",
+    "latitude_deg": "12.141500473022461",
+    "longitude_deg": "-86.16819763183594",
+    "elevation_ft": "194",
+    "continent": "NA",
+    "iso_country": "NI",
+    "iso_region": "NI-MN",
+    "municipality": "Managua",
+    "scheduled_service": "yes",
+    "gps_code": "MNMG",
+    "iata_code": "MGA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Augusto_C._Sandino_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238004",
+            "airport_ref": "4774",
+            "airport_ident": "MNMG",
+            "length_ft": "8012",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "12.1427",
+            "le_longitude_deg": "-86.1793",
+            "le_elevation_ft": "194",
+            "le_heading_degT": "97",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "12.1402",
+            "he_longitude_deg": "-86.157",
+            "he_elevation_ft": "192",
+            "he_heading_degT": "277",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55901",
+            "airport_ref": "4774",
+            "airport_ident": "MNMG",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "55902",
+            "airport_ref": "4774",
+            "airport_ident": "MNMG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "55903",
+            "airport_ref": "4774",
+            "airport_ident": "MNMG",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "55904",
+            "airport_ref": "4774",
+            "airport_ident": "MNMG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302748",
+        "code": "NI",
+        "name": "Nicaragua",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nicaragua",
+        "keywords": "Aeropuertos de Nicaragua"
+    },
+    "region": {
+        "id": "304925",
+        "code": "NI-MN",
+        "local_code": "MN",
+        "name": "Managua",
+        "continent": "NA",
+        "iso_country": "NI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Managua",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90911",
+            "filename": "Managua_VOR-DME_NI",
+            "ident": "MGA",
+            "name": "Managua",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "12.139699935913086",
+            "longitude_deg": "-86.17420196533203",
+            "elevation_ft": "194",
+            "iso_country": "NI",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.398",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MNMG"
+        },
+        {
+            "id": "95769",
+            "filename": "Managua_NDB_NI",
+            "ident": "YNP",
+            "name": "Managua",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "12.142000198364258",
+            "longitude_deg": "-86.15889739990234",
+            "elevation_ft": "194",
+            "iso_country": "NI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.392",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MNMG"
+        }
+    ]
+}

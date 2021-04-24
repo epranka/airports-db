@@ -1,0 +1,136 @@
+{
+    "id": "1950",
+    "ident": "CYWL",
+    "type": "medium_airport",
+    "name": "Williams Lake Airport",
+    "latitude_deg": "52.1831016541",
+    "longitude_deg": "-122.054000854",
+    "elevation_ft": "3085",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Williams Lake",
+    "scheduled_service": "yes",
+    "gps_code": "CYWL",
+    "iata_code": "YWL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Williams_Lake_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234956",
+            "airport_ref": "1950",
+            "airport_ident": "CYWL",
+            "length_ft": "7000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "52.1892",
+            "le_longitude_deg": "-122.064",
+            "le_elevation_ft": "3082",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "52.1758",
+            "he_longitude_deg": "-122.043",
+            "he_elevation_ft": "3074",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50797",
+            "airport_ref": "1950",
+            "airport_ident": "CYWL",
+            "type": "MF",
+            "description": "Williams Lake Radio, 5nm below 6100ASL excluding area below 2800",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50798",
+            "airport_ref": "1950",
+            "airport_ident": "CYWL",
+            "type": "PAL",
+            "description": "Vancouver Control",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "311335",
+            "airport_ref": "1950",
+            "airport_ident": "CYWL",
+            "type": "PAL",
+            "description": "Vancouver Control",
+            "frequency_mhz": "381.4"
+        },
+        {
+            "id": "50801",
+            "airport_ref": "1950",
+            "airport_ident": "CYWL",
+            "type": "RADIO",
+            "description": "Williams Lake Radio, (V)",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50800",
+            "airport_ref": "1950",
+            "airport_ident": "CYWL",
+            "type": "RCO",
+            "description": "Pacific Radio (FISE)",
+            "frequency_mhz": "123.275"
+        },
+        {
+            "id": "50799",
+            "airport_ref": "1950",
+            "airport_ident": "CYWL",
+            "type": "VDF",
+            "description": "VHF Direction Finding",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95893",
+            "filename": "Williams_Lake_VORTAC_CA",
+            "ident": "YWL",
+            "name": "Williams Lake",
+            "type": "VORTAC",
+            "frequency_khz": "113600",
+            "latitude_deg": "52.236900329589844",
+            "longitude_deg": "-122.16999816894531",
+            "elevation_ft": "3662",
+            "iso_country": "CA",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "23.001",
+            "magnetic_variation_deg": "19.207",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYWL"
+        }
+    ]
+}

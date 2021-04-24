@@ -1,0 +1,80 @@
+{
+    "id": "5651",
+    "ident": "RKRP",
+    "type": "small_airport",
+    "name": "Pa Ju (G 110) Airport",
+    "latitude_deg": "37.762912",
+    "longitude_deg": "126.792805",
+    "elevation_ft": "65",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-41",
+    "municipality": "Pa Ju",
+    "scheduled_service": "no",
+    "gps_code": "RKRP",
+    "iata_code": "",
+    "local_code": "RK45",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237366",
+            "airport_ref": "5651",
+            "airport_ident": "RKRP",
+            "length_ft": "1620",
+            "width_ft": "55",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "37.7646",
+            "le_longitude_deg": "126.792",
+            "le_elevation_ft": "",
+            "le_heading_degT": "155",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "37.7606",
+            "he_longitude_deg": "126.794",
+            "he_elevation_ft": "",
+            "he_heading_degT": "335",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55085",
+            "airport_ref": "5651",
+            "airport_ident": "RKRP",
+            "type": "FCC",
+            "description": "FCC EVENREACH",
+            "frequency_mhz": "36.9"
+        },
+        {
+            "id": "55086",
+            "airport_ref": "5651",
+            "airport_ident": "RKRP",
+            "type": "TWR",
+            "description": "PA JU TWR",
+            "frequency_mhz": "38"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304407",
+        "code": "KR-41",
+        "local_code": "41",
+        "name": "Gyeonggido",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeonggido",
+        "keywords": ""
+    }
+}

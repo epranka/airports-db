@@ -1,0 +1,72 @@
+{
+    "id": "5721",
+    "ident": "RPUM",
+    "type": "medium_airport",
+    "name": "Mamburao Airport",
+    "latitude_deg": "13.208100318908691",
+    "longitude_deg": "120.6050033569336",
+    "elevation_ft": "13",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-MDC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "RPUM",
+    "iata_code": "MBO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238442",
+            "airport_ref": "5721",
+            "airport_ident": "RPUM",
+            "length_ft": "4265",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "13.2138",
+            "le_longitude_deg": "120.604",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "165",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "13.2024",
+            "he_longitude_deg": "120.607",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "345",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56510",
+            "airport_ref": "5721",
+            "airport_ident": "RPUM",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305100",
+        "code": "PH-MDC",
+        "local_code": "MDC",
+        "name": "Occidental Mindoro Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occidental_Mindoro",
+        "keywords": ""
+    }
+}

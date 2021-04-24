@@ -1,0 +1,80 @@
+{
+    "id": "20010",
+    "ident": "KH35",
+    "type": "small_airport",
+    "name": "Clarksville Municipal Airport",
+    "latitude_deg": "35.470699310302734",
+    "longitude_deg": "-93.42720031738281",
+    "elevation_ft": "481",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Clarksville",
+    "scheduled_service": "no",
+    "gps_code": "KH35",
+    "iata_code": "",
+    "local_code": "H35",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245929",
+            "airport_ref": "20010",
+            "airport_ident": "KH35",
+            "length_ft": "4508",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "35.4712",
+            "le_longitude_deg": "-93.4347",
+            "le_elevation_ft": "449",
+            "le_heading_degT": "93.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "35.4702",
+            "he_longitude_deg": "-93.4196",
+            "he_elevation_ft": "481",
+            "he_heading_degT": "273.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71377",
+            "airport_ref": "20010",
+            "airport_ident": "KH35",
+            "type": "A/D",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "128.475"
+        },
+        {
+            "id": "71378",
+            "airport_ref": "20010",
+            "airport_ident": "KH35",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "5116",
+    "ident": "OERY",
+    "type": "medium_airport",
+    "name": "Riyadh Air Base",
+    "latitude_deg": "24.709800720214844",
+    "longitude_deg": "46.72520065307617",
+    "elevation_ft": "2082",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-01",
+    "municipality": "Riyadh",
+    "scheduled_service": "no",
+    "gps_code": "OERY",
+    "iata_code": "XXN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Riyadh_Air_Base",
+    "keywords": "Riyad",
+    "runways": [
+        {
+            "id": "238626",
+            "airport_ref": "5116",
+            "airport_ident": "OERY",
+            "length_ft": "13288",
+            "width_ft": "147",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "24.7051",
+            "le_longitude_deg": "46.7245",
+            "le_elevation_ft": "2045",
+            "le_heading_degT": "8",
+            "le_displaced_threshold_ft": "2461",
+            "he_ident": "19",
+            "he_latitude_deg": "24.7418",
+            "he_longitude_deg": "46.7302",
+            "he_elevation_ft": "2082",
+            "he_heading_degT": "188",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "238627",
+            "airport_ref": "5116",
+            "airport_ident": "OERY",
+            "length_ft": "11778",
+            "width_ft": "147",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "24.7227",
+            "le_longitude_deg": "46.6978",
+            "le_elevation_ft": "2053",
+            "le_heading_degT": "117.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "24.7078",
+            "he_longitude_deg": "46.7293",
+            "he_elevation_ft": "2046",
+            "he_heading_degT": "297.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56874",
+            "airport_ref": "5116",
+            "airport_ident": "OERY",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "56875",
+            "airport_ref": "5116",
+            "airport_ident": "OERY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "114.5"
+        },
+        {
+            "id": "56876",
+            "airport_ref": "5116",
+            "airport_ident": "OERY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "56877",
+            "airport_ref": "5116",
+            "airport_ident": "OERY",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "33.8"
+        },
+        {
+            "id": "56878",
+            "airport_ref": "5116",
+            "airport_ident": "OERY",
+            "type": "POST",
+            "description": "HOTEL 2",
+            "frequency_mhz": "730"
+        },
+        {
+            "id": "56879",
+            "airport_ref": "5116",
+            "airport_ident": "OERY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305360",
+        "code": "SA-01",
+        "local_code": "01",
+        "name": "Riyadh Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Riyadh_Region",
+        "keywords": "Riyad"
+    },
+    "navaids": [
+        {
+            "id": "93108",
+            "filename": "Riyadh_VORTAC_SA",
+            "ident": "RIY",
+            "name": "Riyadh",
+            "type": "VORTAC",
+            "frequency_khz": "114500",
+            "latitude_deg": "24.717599868774414",
+            "longitude_deg": "46.720699310302734",
+            "elevation_ft": "2018",
+            "iso_country": "SA",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.252",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OERY"
+        }
+    ]
+}

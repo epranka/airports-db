@@ -1,0 +1,80 @@
+{
+    "id": "20007",
+    "ident": "KH21",
+    "type": "small_airport",
+    "name": "Camdenton Memorial Airport",
+    "latitude_deg": "37.974024",
+    "longitude_deg": "-92.691254",
+    "elevation_ft": "1062",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Camdenton",
+    "scheduled_service": "no",
+    "gps_code": "KOZS",
+    "iata_code": "",
+    "local_code": "OZS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Camdenton_Memorial_Airport",
+    "keywords": "H21",
+    "runways": [
+        {
+            "id": "244455",
+            "airport_ref": "20007",
+            "airport_ident": "KH21",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "37.979",
+            "le_longitude_deg": "-92.6941",
+            "le_elevation_ft": "1050",
+            "le_heading_degT": "155",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "37.969",
+            "he_longitude_deg": "-92.6882",
+            "he_elevation_ft": "1062",
+            "he_heading_degT": "335",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68134",
+            "airport_ref": "20007",
+            "airport_ident": "KH21",
+            "type": "A/D",
+            "description": "MIZZU APP/DEP",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "68135",
+            "airport_ref": "20007",
+            "airport_ident": "KH21",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

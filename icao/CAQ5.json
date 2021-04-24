@@ -1,0 +1,72 @@
+{
+    "id": "637",
+    "ident": "CAQ5",
+    "type": "small_airport",
+    "name": "Nakusp Airport",
+    "latitude_deg": "50.26639938354492",
+    "longitude_deg": "-117.81300354003906",
+    "elevation_ft": "1689",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Nakusp",
+    "scheduled_service": "no",
+    "gps_code": "CAQ5",
+    "iata_code": "",
+    "local_code": "CAQ5",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nakusp_Airport",
+    "keywords": "AQ5",
+    "runways": [
+        {
+            "id": "234834",
+            "airport_ref": "637",
+            "airport_ident": "CAQ5",
+            "length_ft": "3000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "50.2694",
+            "le_longitude_deg": "-117.817",
+            "le_elevation_ft": "",
+            "le_heading_degT": "141",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "50.2631",
+            "he_longitude_deg": "-117.809",
+            "he_elevation_ft": "",
+            "he_heading_degT": "321",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50554",
+            "airport_ref": "637",
+            "airport_ident": "CAQ5",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    }
+}

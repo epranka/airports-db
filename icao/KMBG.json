@@ -1,0 +1,110 @@
+{
+    "id": "20474",
+    "ident": "KMBG",
+    "type": "medium_airport",
+    "name": "Mobridge Municipal Airport",
+    "latitude_deg": "45.54650116",
+    "longitude_deg": "-100.4079971",
+    "elevation_ft": "1716",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Mobridge",
+    "scheduled_service": "no",
+    "gps_code": "KMBG",
+    "iata_code": "MBG",
+    "local_code": "MBG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mobridge_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245074",
+            "airport_ref": "20474",
+            "airport_ident": "KMBG",
+            "length_ft": "4411",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "45.5501",
+            "le_longitude_deg": "-100.415",
+            "le_elevation_ft": "1702",
+            "le_heading_degT": "126.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "45.5429",
+            "he_longitude_deg": "-100.401",
+            "he_elevation_ft": "1699",
+            "he_heading_degT": "306.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245075",
+            "airport_ref": "20474",
+            "airport_ident": "KMBG",
+            "length_ft": "2400",
+            "width_ft": "250",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "45.5494",
+            "le_longitude_deg": "-100.403",
+            "le_elevation_ft": "1715",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "45.5428",
+            "he_longitude_deg": "-100.403",
+            "he_elevation_ft": "1691",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69540",
+            "airport_ref": "20474",
+            "airport_ident": "KMBG",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.425"
+        },
+        {
+            "id": "69541",
+            "airport_ref": "20474",
+            "airport_ident": "KMBG",
+            "type": "RDO",
+            "description": "HURON RDO",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "69542",
+            "airport_ref": "20474",
+            "airport_ident": "KMBG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306117",
+        "code": "US-SD",
+        "local_code": "SD",
+        "name": "South Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
+        "keywords": ""
+    }
+}

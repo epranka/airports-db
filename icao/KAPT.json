@@ -1,0 +1,80 @@
+{
+    "id": "19295",
+    "ident": "KAPT",
+    "type": "small_airport",
+    "name": "Marion County Brown Field",
+    "latitude_deg": "35.060699",
+    "longitude_deg": "-85.585297",
+    "elevation_ft": "641",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Jasper",
+    "scheduled_service": "no",
+    "gps_code": "KAPT",
+    "iata_code": "APT",
+    "local_code": "APT",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Marion_County_Airport_(Tennessee)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241337",
+            "airport_ref": "19295",
+            "airport_ident": "KAPT",
+            "length_ft": "3500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "35.0569",
+            "le_longitude_deg": "-85.5889",
+            "le_elevation_ft": "641",
+            "le_heading_degT": "38",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "35.0645",
+            "he_longitude_deg": "-85.5817",
+            "he_elevation_ft": "641",
+            "he_heading_degT": "218",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61641",
+            "airport_ref": "19295",
+            "airport_ident": "KAPT",
+            "type": "A/D",
+            "description": "CHATTANOOGA APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "61642",
+            "airport_ref": "19295",
+            "airport_ident": "KAPT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

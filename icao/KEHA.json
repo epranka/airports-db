@@ -1,0 +1,110 @@
+{
+    "id": "19739",
+    "ident": "KEHA",
+    "type": "small_airport",
+    "name": "Elkhart Morton County Airport",
+    "latitude_deg": "37.000702",
+    "longitude_deg": "-101.879997",
+    "elevation_ft": "3622",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Elkhart",
+    "scheduled_service": "no",
+    "gps_code": "KEHA",
+    "iata_code": "",
+    "local_code": "EHA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Elkhart%E2%80%93Morton_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242455",
+            "airport_ref": "19739",
+            "airport_ident": "KEHA",
+            "length_ft": "4900",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "36.9951",
+            "le_longitude_deg": "-101.884",
+            "le_elevation_ft": "3622",
+            "le_heading_degT": "48.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "37.0041",
+            "he_longitude_deg": "-101.872",
+            "he_elevation_ft": "3594",
+            "he_heading_degT": "228.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242456",
+            "airport_ref": "19739",
+            "airport_ident": "KEHA",
+            "length_ft": "4900",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "37.0086",
+            "le_longitude_deg": "-101.882",
+            "le_elevation_ft": "3605",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "36.9952",
+            "he_longitude_deg": "-101.882",
+            "he_elevation_ft": "3616",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63953",
+            "airport_ref": "19739",
+            "airport_ident": "KEHA",
+            "type": "A/D",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "63954",
+            "airport_ref": "19739",
+            "airport_ident": "KEHA",
+            "type": "AWOS",
+            "description": "AWOS 1",
+            "frequency_mhz": "118.025"
+        },
+        {
+            "id": "63955",
+            "airport_ref": "19739",
+            "airport_ident": "KEHA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

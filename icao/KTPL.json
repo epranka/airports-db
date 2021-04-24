@@ -1,0 +1,126 @@
+{
+    "id": "3927",
+    "ident": "KTPL",
+    "type": "medium_airport",
+    "name": "Draughon Miller Central Texas Regional Airport",
+    "latitude_deg": "31.15250015258789",
+    "longitude_deg": "-97.40779876708984",
+    "elevation_ft": "682",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Temple",
+    "scheduled_service": "no",
+    "gps_code": "KTPL",
+    "iata_code": "TPL",
+    "local_code": "TPL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243840",
+            "airport_ref": "3927",
+            "airport_ident": "KTPL",
+            "length_ft": "4740",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "31.1477",
+            "le_longitude_deg": "-97.4095",
+            "le_elevation_ft": "674",
+            "le_heading_degT": "27.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "31.1593",
+            "he_longitude_deg": "-97.4025",
+            "he_elevation_ft": "665",
+            "he_heading_degT": "207.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243841",
+            "airport_ref": "3927",
+            "airport_ident": "KTPL",
+            "length_ft": "6301",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "31.16",
+            "le_longitude_deg": "-97.4122",
+            "le_elevation_ft": "682",
+            "le_heading_degT": "162.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "31.1435",
+            "he_longitude_deg": "-97.4061",
+            "he_elevation_ft": "669",
+            "he_heading_degT": "342.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66859",
+            "airport_ref": "3927",
+            "airport_ident": "KTPL",
+            "type": "A/D",
+            "description": "GRAY APP/DEP",
+            "frequency_mhz": "120.075"
+        },
+        {
+            "id": "66860",
+            "airport_ref": "3927",
+            "airport_ident": "KTPL",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "134.975"
+        },
+        {
+            "id": "66861",
+            "airport_ref": "3927",
+            "airport_ident": "KTPL",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "66862",
+            "airport_ref": "3927",
+            "airport_ident": "KTPL",
+            "type": "RDO",
+            "description": "SAN ANGELO RDO",
+            "frequency_mhz": "110.4"
+        },
+        {
+            "id": "66863",
+            "airport_ref": "3927",
+            "airport_ident": "KTPL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

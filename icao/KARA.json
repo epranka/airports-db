@@ -1,0 +1,134 @@
+{
+    "id": "19301",
+    "ident": "KARA",
+    "type": "medium_airport",
+    "name": "Acadiana Regional Airport",
+    "latitude_deg": "30.0378",
+    "longitude_deg": "-91.883904",
+    "elevation_ft": "24",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "New Iberia",
+    "scheduled_service": "no",
+    "gps_code": "KARA",
+    "iata_code": "ARA",
+    "local_code": "ARA",
+    "home_link": "http://www.flyiberiaparish.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Acadiana_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240775",
+            "airport_ref": "19301",
+            "airport_ident": "KARA",
+            "length_ft": "8002",
+            "width_ft": "200",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "30.0485",
+            "le_longitude_deg": "-91.8866",
+            "le_elevation_ft": "24",
+            "le_heading_degT": "167.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "30.027",
+            "he_longitude_deg": "-91.8812",
+            "he_elevation_ft": "19",
+            "he_heading_degT": "347.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "250076",
+            "airport_ref": "19301",
+            "airport_ident": "KARA",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "WATER",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16W",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34W",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60472",
+            "airport_ref": "19301",
+            "airport_ident": "KARA",
+            "type": "A/D",
+            "description": "LAFAYETTE APP/DEP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "60473",
+            "airport_ref": "19301",
+            "airport_ident": "KARA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "60474",
+            "airport_ref": "19301",
+            "airport_ident": "KARA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "60475",
+            "airport_ref": "19301",
+            "airport_ident": "KARA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "60476",
+            "airport_ref": "19301",
+            "airport_ident": "KARA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "60477",
+            "airport_ref": "19301",
+            "airport_ident": "KARA",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

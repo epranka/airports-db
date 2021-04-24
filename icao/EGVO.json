@@ -1,0 +1,192 @@
+{
+    "id": "2494",
+    "ident": "EGVO",
+    "type": "medium_airport",
+    "name": "RAF Odiham",
+    "latitude_deg": "51.2341003418",
+    "longitude_deg": "-0.94282501936",
+    "elevation_ft": "405",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Odiham",
+    "scheduled_service": "no",
+    "gps_code": "EGVO",
+    "iata_code": "ODH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Odiham",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239444",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "length_ft": "6030",
+            "width_ft": "141",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "51.2345",
+            "le_longitude_deg": "-0.955886",
+            "le_elevation_ft": "395",
+            "le_heading_degT": "93",
+            "le_displaced_threshold_ft": "2",
+            "he_ident": "27",
+            "he_latitude_deg": "51.2338",
+            "he_longitude_deg": "-0.929628",
+            "he_elevation_ft": "391",
+            "he_heading_degT": "273",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58188",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "131.3"
+        },
+        {
+            "id": "307827",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "234.35"
+        },
+        {
+            "id": "58189",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "379.37"
+        },
+        {
+            "id": "58190",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "24.102"
+        },
+        {
+            "id": "58191",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "INFO",
+            "description": "FIS",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "58192",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "MISC",
+            "description": "FARNBOROUGH LARS",
+            "frequency_mhz": "125.25"
+        },
+        {
+            "id": "307828",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "RDR",
+            "description": "Talkdown",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "307829",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "RDR",
+            "description": "Talkdown",
+            "frequency_mhz": "278.22"
+        },
+        {
+            "id": "307830",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "RDR",
+            "description": "Talkdown",
+            "frequency_mhz": "385.4"
+        },
+        {
+            "id": "307831",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "RDR",
+            "description": "",
+            "frequency_mhz": "386.77"
+        },
+        {
+            "id": "58193",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "307832",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "257.8"
+        },
+        {
+            "id": "307833",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "258.72"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91895",
+            "filename": "Odiham_TACAN_GB",
+            "ident": "ODH",
+            "name": "Odiham",
+            "type": "TACAN",
+            "frequency_khz": "109600",
+            "latitude_deg": "51.2327995300293",
+            "longitude_deg": "-0.9484919905662537",
+            "elevation_ft": "410",
+            "iso_country": "GB",
+            "dme_frequency_khz": "109600",
+            "dme_channel": "033X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.328",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "EGVO"
+        }
+    ]
+}

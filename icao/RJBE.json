@@ -1,0 +1,120 @@
+{
+    "id": "5538",
+    "ident": "RJBE",
+    "type": "medium_airport",
+    "name": "Kobe Airport",
+    "latitude_deg": "34.6328010559082",
+    "longitude_deg": "135.2239990234375",
+    "elevation_ft": "22",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-28",
+    "municipality": "Kobe",
+    "scheduled_service": "yes",
+    "gps_code": "RJBE",
+    "iata_code": "UKB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kobe_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237119",
+            "airport_ref": "5538",
+            "airport_ident": "RJBE",
+            "length_ft": "8202",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "34.6316",
+            "le_longitude_deg": "135.21",
+            "le_elevation_ft": "27",
+            "le_heading_degT": "84.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "34.6338",
+            "he_longitude_deg": "135.237",
+            "he_elevation_ft": "26",
+            "he_heading_degT": "264.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54461",
+            "airport_ref": "5538",
+            "airport_ident": "RJBE",
+            "type": "APP",
+            "description": "KANSAI RADAR",
+            "frequency_mhz": "121.15"
+        },
+        {
+            "id": "54462",
+            "airport_ref": "5538",
+            "airport_ident": "RJBE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.075"
+        },
+        {
+            "id": "54463",
+            "airport_ref": "5538",
+            "airport_ident": "RJBE",
+            "type": "TCA",
+            "description": "KANSAI TCA",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "54464",
+            "airport_ref": "5538",
+            "airport_ident": "RJBE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304313",
+        "code": "JP-28",
+        "local_code": "28",
+        "name": "Hyōgo Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hyogo",
+        "keywords": "Kansai"
+    },
+    "navaids": [
+        {
+            "id": "89698",
+            "filename": "Kobe_VOR-DME_JP",
+            "ident": "KCE",
+            "name": "Kobe",
+            "type": "VOR-DME",
+            "frequency_khz": "111250",
+            "latitude_deg": "34.63100051879883",
+            "longitude_deg": "135.22799682617188",
+            "elevation_ft": "44",
+            "iso_country": "JP",
+            "dme_frequency_khz": "111250",
+            "dme_channel": "049Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.001",
+            "magnetic_variation_deg": "-7.017",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RJBE"
+        }
+    ]
+}

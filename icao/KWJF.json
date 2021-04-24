@@ -1,0 +1,128 @@
+{
+    "id": "21375",
+    "ident": "KWJF",
+    "type": "medium_airport",
+    "name": "General WM J Fox Airfield",
+    "latitude_deg": "34.74110031",
+    "longitude_deg": "-118.2190018",
+    "elevation_ft": "2351",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Lancaster",
+    "scheduled_service": "no",
+    "gps_code": "KWJF",
+    "iata_code": "WJF",
+    "local_code": "WJF",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/General_William_J._Fox_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242951",
+            "airport_ref": "21375",
+            "airport_ident": "KWJF",
+            "length_ft": "7201",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "34.738",
+            "le_longitude_deg": "-118.23",
+            "le_elevation_ft": "2350",
+            "le_heading_degT": "72.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "34.7441",
+            "he_longitude_deg": "-118.207",
+            "he_elevation_ft": "2335",
+            "he_heading_degT": "252.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64984",
+            "airport_ref": "21375",
+            "airport_ident": "KWJF",
+            "type": "A/D",
+            "description": "JOSHUA APP/DEP",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "64985",
+            "airport_ref": "21375",
+            "airport_ident": "KWJF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.3"
+        },
+        {
+            "id": "64986",
+            "airport_ref": "21375",
+            "airport_ident": "KWJF",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.875"
+        },
+        {
+            "id": "64987",
+            "airport_ref": "21375",
+            "airport_ident": "KWJF",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "64988",
+            "airport_ref": "21375",
+            "airport_ident": "KWJF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "64989",
+            "airport_ref": "21375",
+            "airport_ident": "KWJF",
+            "type": "RDO",
+            "description": "RIVERSIDE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "64990",
+            "airport_ref": "21375",
+            "airport_ident": "KWJF",
+            "type": "TWR",
+            "description": "FOX TWR",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "64991",
+            "airport_ref": "21375",
+            "airport_ident": "KWJF",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

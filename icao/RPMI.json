@@ -1,0 +1,72 @@
+{
+    "id": "5702",
+    "ident": "RPMI",
+    "type": "small_airport",
+    "name": "Maria Cristina Airport",
+    "latitude_deg": "8.13049",
+    "longitude_deg": "124.214996",
+    "elevation_ft": "1300",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-LAN",
+    "municipality": "Iligan",
+    "scheduled_service": "no",
+    "gps_code": "RPMI",
+    "iata_code": "IGN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Maria_Cristina_Airport",
+    "keywords": "Iligan Airport",
+    "runways": [
+        {
+            "id": "238441",
+            "airport_ref": "5702",
+            "airport_ident": "RPMI",
+            "length_ft": "4593",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "8.12458",
+            "le_longitude_deg": "124.213",
+            "le_elevation_ft": "",
+            "le_heading_degT": "20",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "8.1364",
+            "he_longitude_deg": "124.217",
+            "he_elevation_ft": "",
+            "he_heading_degT": "200",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56509",
+            "airport_ref": "5702",
+            "airport_ident": "RPMI",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305093",
+        "code": "PH-LAN",
+        "local_code": "LAN",
+        "name": "Lanao del Norte Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lanao_del_Norte_Province",
+        "keywords": ""
+    }
+}

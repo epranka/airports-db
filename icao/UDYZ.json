@@ -1,0 +1,96 @@
+{
+    "id": "6446",
+    "ident": "UDYZ",
+    "type": "large_airport",
+    "name": "Zvartnots International Airport",
+    "latitude_deg": "40.1473007202",
+    "longitude_deg": "44.3959007263",
+    "elevation_ft": "2838",
+    "continent": "AS",
+    "iso_country": "AM",
+    "iso_region": "AM-ER",
+    "municipality": "Yerevan",
+    "scheduled_service": "yes",
+    "gps_code": "UDYZ",
+    "iata_code": "EVN",
+    "local_code": "",
+    "home_link": "http://www.aia-zvartnots.aero/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Zvartnots_International_Airport",
+    "keywords": "UGEE, Erevan Airport, Erivan Airport, Аэропорт Звартноц, Аэропорт Ереван",
+    "runways": [
+        {
+            "id": "232879",
+            "airport_ref": "6446",
+            "airport_ident": "UDYZ",
+            "length_ft": "12629",
+            "width_ft": "184",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "40.1472",
+            "le_longitude_deg": "44.3733",
+            "le_elevation_ft": "2800",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "40.1474",
+            "he_longitude_deg": "44.4185",
+            "he_elevation_ft": "2838",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48318",
+            "airport_ref": "6446",
+            "airport_ident": "UDYZ",
+            "type": "APP",
+            "description": "YEREVAN APP",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "48319",
+            "airport_ref": "6446",
+            "airport_ident": "UDYZ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "48320",
+            "airport_ref": "6446",
+            "airport_ident": "UDYZ",
+            "type": "GND",
+            "description": "YEREVAN GND",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "48321",
+            "airport_ref": "6446",
+            "airport_ident": "UDYZ",
+            "type": "TWR",
+            "description": "YEREVAN TWR",
+            "frequency_mhz": "128"
+        }
+    ],
+    "country": {
+        "id": "302620",
+        "code": "AM",
+        "name": "Armenia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Armenia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302902",
+        "code": "AM-ER",
+        "local_code": "ER",
+        "name": "Yerevan (capital district)",
+        "continent": "AS",
+        "iso_country": "AM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yerevan",
+        "keywords": "Erevan"
+    }
+}

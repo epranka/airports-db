@@ -1,0 +1,128 @@
+{
+    "id": "5093",
+    "ident": "OEHL",
+    "type": "medium_airport",
+    "name": "Ha'il Airport",
+    "latitude_deg": "27.437901",
+    "longitude_deg": "41.686298",
+    "elevation_ft": "3331",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-06",
+    "municipality": "Ha'il",
+    "scheduled_service": "yes",
+    "gps_code": "OEHL",
+    "iata_code": "HAS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ha'il_Regional_Airport",
+    "keywords": "Hail Airport",
+    "runways": [
+        {
+            "id": "238679",
+            "airport_ref": "5093",
+            "airport_ident": "OEHL",
+            "length_ft": "12204",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "27.4547",
+            "le_longitude_deg": "41.6875",
+            "le_elevation_ft": "3299",
+            "le_heading_degT": "184",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "27.4212",
+            "he_longitude_deg": "41.6851",
+            "he_elevation_ft": "3331",
+            "he_heading_degT": "4",
+            "he_displaced_threshold_ft": "1164"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56983",
+            "airport_ref": "5093",
+            "airport_ident": "OEHL",
+            "type": "A/G",
+            "description": "SAUDIA RDO",
+            "frequency_mhz": "131.5"
+        },
+        {
+            "id": "56984",
+            "airport_ref": "5093",
+            "airport_ident": "OEHL",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "56985",
+            "airport_ref": "5093",
+            "airport_ident": "OEHL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "56986",
+            "airport_ref": "5093",
+            "airport_ident": "OEHL",
+            "type": "EMR",
+            "description": "FIRE RESCUE SVC",
+            "frequency_mhz": "133.5"
+        },
+        {
+            "id": "56987",
+            "airport_ref": "5093",
+            "airport_ident": "OEHL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305365",
+        "code": "SA-06",
+        "local_code": "06",
+        "name": "Ha'il Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ha'il_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88847",
+            "filename": "Hail_VORTAC_SA",
+            "ident": "HIL",
+            "name": "Hail",
+            "type": "VORTAC",
+            "frequency_khz": "113500",
+            "latitude_deg": "27.425100326538086",
+            "longitude_deg": "41.68280029296875",
+            "elevation_ft": "3324",
+            "iso_country": "SA",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.093",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OEHL"
+        }
+    ]
+}

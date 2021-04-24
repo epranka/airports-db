@@ -1,0 +1,96 @@
+{
+    "id": "3216",
+    "ident": "HKRE",
+    "type": "medium_airport",
+    "name": "Moi Air Base",
+    "latitude_deg": "-1.2772699594499999",
+    "longitude_deg": "36.8623008728",
+    "elevation_ft": "5336",
+    "continent": "AF",
+    "iso_country": "KE",
+    "iso_region": "KE-110",
+    "municipality": "Nairobi",
+    "scheduled_service": "no",
+    "gps_code": "HKRE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Moi_Air_Base",
+    "keywords": "RAF Eastleigh, Eastleigh Airport",
+    "runways": [
+        {
+            "id": "237268",
+            "airport_ref": "3216",
+            "airport_ident": "HKRE",
+            "length_ft": "7998",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-1.2832",
+            "le_longitude_deg": "36.8531",
+            "le_elevation_ft": "5380",
+            "le_heading_degT": "57",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "-1.27133",
+            "he_longitude_deg": "36.8716",
+            "he_elevation_ft": "5380",
+            "he_heading_degT": "237",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54842",
+            "airport_ref": "3216",
+            "airport_ident": "HKRE",
+            "type": "TWR",
+            "description": "EASTLEIGH TWR",
+            "frequency_mhz": "124.3"
+        }
+    ],
+    "country": {
+        "id": "302579",
+        "code": "KE",
+        "name": "Kenya",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kenya",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304334",
+        "code": "KE-110",
+        "local_code": "110",
+        "name": "Nairobi Province",
+        "continent": "AF",
+        "iso_country": "KE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nairobi",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87622",
+            "filename": "Eastleigh_NDB_KE",
+            "ident": "EA",
+            "name": "Eastleigh",
+            "type": "NDB",
+            "frequency_khz": "256",
+            "latitude_deg": "-1.2650500535964966",
+            "longitude_deg": "36.86790084838867",
+            "elevation_ft": "",
+            "iso_country": "KE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.035",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HKRE"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "5588",
+    "ident": "RJNW",
+    "type": "medium_airport",
+    "name": "Noto Satoyama Airport",
+    "latitude_deg": "37.293098",
+    "longitude_deg": "136.962006",
+    "elevation_ft": "718",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-17",
+    "municipality": "Wajima",
+    "scheduled_service": "yes",
+    "gps_code": "RJNW",
+    "iata_code": "NTQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Noto_Airport",
+    "keywords": "Noto, Wajima",
+    "runways": [
+        {
+            "id": "237117",
+            "airport_ref": "5588",
+            "airport_ident": "RJNW",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "37.2896",
+            "le_longitude_deg": "136.952",
+            "le_elevation_ft": "710",
+            "le_heading_degT": "66.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "37.2967",
+            "he_longitude_deg": "136.972",
+            "he_elevation_ft": "702",
+            "he_heading_degT": "246.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54458",
+            "airport_ref": "5588",
+            "airport_ident": "RJNW",
+            "type": "ACC",
+            "description": "TOKYO CON",
+            "frequency_mhz": "132.45"
+        },
+        {
+            "id": "54459",
+            "airport_ref": "5588",
+            "airport_ident": "RJNW",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.05"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304302",
+        "code": "JP-17",
+        "local_code": "17",
+        "name": "Ishikawa Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ishikawa",
+        "keywords": "Chubu"
+    },
+    "navaids": [
+        {
+            "id": "91740",
+            "filename": "Noto_VOR-DME_JP",
+            "ident": "NTE",
+            "name": "Noto",
+            "type": "VOR-DME",
+            "frequency_khz": "111450",
+            "latitude_deg": "37.290000915527344",
+            "longitude_deg": "136.96299743652344",
+            "elevation_ft": "786",
+            "iso_country": "JP",
+            "dme_frequency_khz": "111450",
+            "dme_channel": "051Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.482",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "RJNW"
+        }
+    ]
+}

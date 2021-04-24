@@ -1,0 +1,80 @@
+{
+    "id": "27171",
+    "ident": "YWIS",
+    "type": "small_airport",
+    "name": "Williamson Airport",
+    "latitude_deg": "-22.47330093383789",
+    "longitude_deg": "150.17799377441406",
+    "elevation_ft": "89",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YWIS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233086",
+            "airport_ref": "27171",
+            "airport_ident": "YWIS",
+            "length_ft": "5928",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-22.4666",
+            "le_longitude_deg": "150.175",
+            "le_elevation_ft": "",
+            "le_heading_degT": "151.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-22.4809",
+            "he_longitude_deg": "150.183",
+            "he_elevation_ft": "",
+            "he_heading_degT": "331.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48505",
+            "airport_ref": "27171",
+            "airport_ident": "YWIS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48506",
+            "airport_ref": "27171",
+            "airport_ident": "YWIS",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "119.55"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

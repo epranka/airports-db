@@ -1,0 +1,104 @@
+{
+    "id": "26892",
+    "ident": "YARG",
+    "type": "small_airport",
+    "name": "Argyle Airport",
+    "latitude_deg": "-16.6369",
+    "longitude_deg": "128.451004",
+    "elevation_ft": "522",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "YARG",
+    "iata_code": "GYL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Argyle_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233437",
+            "airport_ref": "26892",
+            "airport_ident": "YARG",
+            "length_ft": "7546",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-16.6448",
+            "le_longitude_deg": "128.447",
+            "le_elevation_ft": "522",
+            "le_heading_degT": "21",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-16.6254",
+            "he_longitude_deg": "128.454",
+            "he_elevation_ft": "505",
+            "he_heading_degT": "201",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49034",
+            "airport_ref": "26892",
+            "airport_ident": "YARG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "49035",
+            "airport_ref": "26892",
+            "airport_ident": "YARG",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "122.4"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85582",
+            "filename": "Argyle_VOR-DME_AU",
+            "ident": "ARG",
+            "name": "Argyle",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "-16.63170051574707",
+            "longitude_deg": "128.44900512695312",
+            "elevation_ft": "536",
+            "iso_country": "AU",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "-16.6347",
+            "dme_longitude_deg": "128.447",
+            "dme_elevation_ft": "536",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "3.244",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YARG"
+        }
+    ]
+}

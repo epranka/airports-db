@@ -1,0 +1,88 @@
+{
+    "id": "19447",
+    "ident": "KC62",
+    "type": "small_airport",
+    "name": "Kendallville Municipal Airport",
+    "latitude_deg": "41.47269821166992",
+    "longitude_deg": "-85.26080322265625",
+    "elevation_ft": "1005",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Kendallville",
+    "scheduled_service": "no",
+    "gps_code": "KC62",
+    "iata_code": "",
+    "local_code": "C62",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245736",
+            "airport_ref": "19447",
+            "airport_ident": "KC62",
+            "length_ft": "4400",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "41.4729",
+            "le_longitude_deg": "-85.2688",
+            "le_elevation_ft": "1000",
+            "le_heading_degT": "91.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "41.4725",
+            "he_longitude_deg": "-85.2528",
+            "he_elevation_ft": "1005",
+            "he_heading_degT": "271.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70954",
+            "airport_ref": "19447",
+            "airport_ident": "KC62",
+            "type": "A/D",
+            "description": "FORT WAYNE APP/DEP",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "70955",
+            "airport_ref": "19447",
+            "airport_ident": "KC62",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "70956",
+            "airport_ref": "19447",
+            "airport_ident": "KC62",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

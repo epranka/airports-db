@@ -1,0 +1,104 @@
+{
+    "id": "2682",
+    "ident": "ESNN",
+    "type": "medium_airport",
+    "name": "Sundsvall-Härnösand Airport",
+    "latitude_deg": "62.528099060058594",
+    "longitude_deg": "17.443899154663086",
+    "elevation_ft": "16",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Y",
+    "municipality": "Sundsvall/ Härnösand",
+    "scheduled_service": "yes",
+    "gps_code": "ESNN",
+    "iata_code": "SDL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sundsvall-H%C3%A4rn%C3%B6sand_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239000",
+            "airport_ref": "2682",
+            "airport_ident": "ESNN",
+            "length_ft": "6857",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "62.5366",
+            "le_longitude_deg": "17.4373",
+            "le_elevation_ft": "16",
+            "le_heading_degT": "160",
+            "le_displaced_threshold_ft": "492",
+            "he_ident": "34",
+            "he_latitude_deg": "62.5189",
+            "he_longitude_deg": "17.4511",
+            "he_elevation_ft": "12",
+            "he_heading_degT": "340",
+            "he_displaced_threshold_ft": "459"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57419",
+            "airport_ref": "2682",
+            "airport_ident": "ESNN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "57420",
+            "airport_ref": "2682",
+            "airport_ident": "ESNN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "129.55"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305431",
+        "code": "SE-Y",
+        "local_code": "Y",
+        "name": "Västernorrlands län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västernorrlands_län",
+        "keywords": "Västernorrland County"
+    },
+    "navaids": [
+        {
+            "id": "94043",
+            "filename": "Sundsvall_VOR-DME_SE",
+            "ident": "SUN",
+            "name": "Sundsvall",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "62.52840042114258",
+            "longitude_deg": "17.448699951171875",
+            "elevation_ft": "55",
+            "iso_country": "SE",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.001",
+            "magnetic_variation_deg": "4.226",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "ESNN"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "46333",
+    "ident": "RU-0408",
+    "type": "small_airport",
+    "name": "Kusino Airfield",
+    "latitude_deg": "59.4021564205",
+    "longitude_deg": "31.815547943099997",
+    "elevation_ft": "95",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-LEN",
+    "municipality": "Kusino",
+    "scheduled_service": "no",
+    "gps_code": "ULSI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.kusino.ru/",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Кусино, УЛСИ",
+    "runways": [
+        {
+            "id": "308183",
+            "airport_ref": "46333",
+            "airport_ident": "RU-0408",
+            "length_ft": "1400",
+            "width_ft": "65",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "187",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "308182",
+            "airport_ref": "46333",
+            "airport_ident": "RU-0408",
+            "type": "TWR",
+            "description": "\"Vektor\"",
+            "frequency_mhz": "120.15"
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305299",
+        "code": "RU-LEN",
+        "local_code": "LEN",
+        "name": "Leningrad Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Leningrad_Oblast",
+        "keywords": ""
+    }
+}

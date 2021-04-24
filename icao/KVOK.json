@@ -1,0 +1,144 @@
+{
+    "id": "3947",
+    "ident": "KVOK",
+    "type": "medium_airport",
+    "name": "Volk Field",
+    "latitude_deg": "43.938999176025",
+    "longitude_deg": "-90.253402709961",
+    "elevation_ft": "912",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Camp Douglas",
+    "scheduled_service": "no",
+    "gps_code": "KVOK",
+    "iata_code": "VOK",
+    "local_code": "VOK",
+    "home_link": "http://www.volkfield.ang.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Volk_Field_Air_National_Guard_Base",
+    "keywords": "Camp Williams,",
+    "runways": [
+        {
+            "id": "240555",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "length_ft": "9000",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "43.939",
+            "le_longitude_deg": "-90.2702",
+            "le_elevation_ft": "912",
+            "le_heading_degT": "89",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "43.9394",
+            "he_longitude_deg": "-90.2361",
+            "he_elevation_ft": "904",
+            "he_heading_degT": "269",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60130",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "135.25"
+        },
+        {
+            "id": "60131",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "60132",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "60133",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "MISC",
+            "description": "HARDWOOD RANGE",
+            "frequency_mhz": "132.025"
+        },
+        {
+            "id": "60134",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "OPS",
+            "description": "SHEBOYGAN RANGE",
+            "frequency_mhz": "26.04"
+        },
+        {
+            "id": "60135",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "60136",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.5"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95237",
+            "filename": "Volk_TACAN_US",
+            "ident": "VOK",
+            "name": "Volk",
+            "type": "TACAN",
+            "frequency_khz": "110400",
+            "latitude_deg": "43.942901611328125",
+            "longitude_deg": "-90.25900268554688",
+            "elevation_ft": "961",
+            "iso_country": "US",
+            "dme_frequency_khz": "110400",
+            "dme_channel": "041X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.008",
+            "magnetic_variation_deg": "-1.142",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KVOK"
+        }
+    ]
+}

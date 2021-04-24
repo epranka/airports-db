@@ -1,0 +1,80 @@
+{
+    "id": "21137",
+    "ident": "KT15",
+    "type": "small_airport",
+    "name": "Marlin Airport",
+    "latitude_deg": "31.340700149536133",
+    "longitude_deg": "-96.85199737548828",
+    "elevation_ft": "411",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Marlin",
+    "scheduled_service": "no",
+    "gps_code": "KT15",
+    "iata_code": "",
+    "local_code": "T15",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243708",
+            "airport_ref": "21137",
+            "airport_ident": "KT15",
+            "length_ft": "3021",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "31.3448",
+            "le_longitude_deg": "-96.8519",
+            "le_elevation_ft": "410",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "31.3365",
+            "he_longitude_deg": "-96.8521",
+            "he_elevation_ft": "402",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": "89"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66593",
+            "airport_ref": "21137",
+            "airport_ident": "KT15",
+            "type": "A/D",
+            "description": "WACO APP/DEP",
+            "frequency_mhz": "135.2"
+        },
+        {
+            "id": "66594",
+            "airport_ref": "21137",
+            "airport_ident": "KT15",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

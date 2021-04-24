@@ -1,0 +1,96 @@
+{
+    "id": "2908",
+    "ident": "FMMI",
+    "type": "large_airport",
+    "name": "Ivato Airport",
+    "latitude_deg": "-18.7969",
+    "longitude_deg": "47.478802",
+    "elevation_ft": "4198",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-T",
+    "municipality": "Antananarivo",
+    "scheduled_service": "yes",
+    "gps_code": "FMMI",
+    "iata_code": "TNR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ivato_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237532",
+            "airport_ref": "2908",
+            "airport_ident": "FMMI",
+            "length_ft": "10171",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-18.7948",
+            "le_longitude_deg": "47.4643",
+            "le_elevation_ft": "4197",
+            "le_heading_degT": "99",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "-18.7991",
+            "he_longitude_deg": "47.4933",
+            "he_elevation_ft": "4117",
+            "he_heading_degT": "279",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55256",
+            "airport_ref": "2908",
+            "airport_ident": "FMMI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.1"
+        }
+    ],
+    "country": {
+        "id": "302585",
+        "code": "MG",
+        "name": "Madagascar",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madagascar",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304627",
+        "code": "MG-T",
+        "local_code": "T",
+        "name": "Antananarivo",
+        "continent": "AF",
+        "iso_country": "MG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antananarivo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94488",
+            "filename": "Ivato_VOR-DME_MG",
+            "ident": "TNV",
+            "name": "Ivato",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "-18.803300857543945",
+            "longitude_deg": "47.518699645996094",
+            "elevation_ft": "4198",
+            "iso_country": "MG",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.584",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FMMI"
+        }
+    ]
+}

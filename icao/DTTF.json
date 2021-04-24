@@ -1,0 +1,104 @@
+{
+    "id": "2136",
+    "ident": "DTTF",
+    "type": "medium_airport",
+    "name": "Gafsa Ksar International Airport",
+    "latitude_deg": "34.422000885009766",
+    "longitude_deg": "8.822500228881836",
+    "elevation_ft": "1060",
+    "continent": "AF",
+    "iso_country": "TN",
+    "iso_region": "TN-71",
+    "municipality": "Gafsa",
+    "scheduled_service": "yes",
+    "gps_code": "DTTF",
+    "iata_code": "GAF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gafsa_-_Ksar_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239222",
+            "airport_ref": "2136",
+            "airport_ident": "DTTF",
+            "length_ft": "9514",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "34.4135",
+            "le_longitude_deg": "8.81076",
+            "le_elevation_ft": "1027",
+            "le_heading_degT": "48.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "34.4307",
+            "he_longitude_deg": "8.83427",
+            "he_elevation_ft": "1060",
+            "he_heading_degT": "228.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57803",
+            "airport_ref": "2136",
+            "airport_ident": "DTTF",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "57804",
+            "airport_ref": "2136",
+            "airport_ident": "DTTF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302606",
+        "code": "TN",
+        "name": "Tunisia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tunisia",
+        "keywords": "مطارات تونس"
+    },
+    "region": {
+        "id": "305828",
+        "code": "TN-71",
+        "local_code": "71",
+        "name": "Gafsa Governorate",
+        "continent": "AF",
+        "iso_country": "TN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gafsa_Governorate",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88248",
+            "filename": "Gafsa_VOR-DME_TN",
+            "ident": "GAF",
+            "name": "Gafsa",
+            "type": "VOR-DME",
+            "frequency_khz": "109000",
+            "latitude_deg": "34.42060089111328",
+            "longitude_deg": "8.824080467224121",
+            "elevation_ft": "1066",
+            "iso_country": "TN",
+            "dme_frequency_khz": "109000",
+            "dme_channel": "027X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.526",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "DTTF"
+        }
+    ]
+}

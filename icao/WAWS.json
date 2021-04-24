@@ -1,0 +1,96 @@
+{
+    "id": "26804",
+    "ident": "WAWS",
+    "type": "small_airport",
+    "name": "Soroako Airport",
+    "latitude_deg": "-2.5311999320983887",
+    "longitude_deg": "121.35800170898438",
+    "elevation_ft": "1388",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-SN",
+    "municipality": "Soroako-Celebes Island",
+    "scheduled_service": "no",
+    "gps_code": "WAWS",
+    "iata_code": "SQR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "WAAS",
+    "runways": [
+        {
+            "id": "236474",
+            "airport_ref": "26804",
+            "airport_ident": "WAWS",
+            "length_ft": "3340",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-2.52859",
+            "le_longitude_deg": "121.354",
+            "le_elevation_ft": "1388",
+            "le_heading_degT": "124.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-2.53381",
+            "he_longitude_deg": "121.361",
+            "he_elevation_ft": "1388",
+            "he_heading_degT": "304.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53591",
+            "airport_ref": "26804",
+            "airport_ident": "WAWS",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304123",
+        "code": "ID-SN",
+        "local_code": "SN",
+        "name": "Sulawesi Selatan",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Selatan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93337",
+            "filename": "Soroako_NDB_ID",
+            "ident": "SA",
+            "name": "Soroako",
+            "type": "NDB",
+            "frequency_khz": "205",
+            "latitude_deg": "-2.53193998336792",
+            "longitude_deg": "121.35800170898438",
+            "elevation_ft": "1387",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.281",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAWS"
+        }
+    ]
+}

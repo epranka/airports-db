@@ -1,0 +1,80 @@
+{
+    "id": "29210",
+    "ident": "EGYC",
+    "type": "closed",
+    "name": "RAF Coltishall",
+    "latitude_deg": "52.7547",
+    "longitude_deg": "1.35722",
+    "elevation_ft": "66",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Norwich",
+    "scheduled_service": "no",
+    "gps_code": "EGYC",
+    "iata_code": "CLF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Coltishall",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "252285",
+            "airport_ref": "29210",
+            "airport_ident": "EGYC",
+            "length_ft": "7500",
+            "width_ft": "1",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "54",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "66",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71915",
+            "airport_ref": "29210",
+            "airport_ident": "EGYC",
+            "type": "RAD/APP",
+            "description": "Coltishall RAD/APP",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "71914",
+            "airport_ref": "29210",
+            "airport_ident": "EGYC",
+            "type": "TWR",
+            "description": "Coltishall TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

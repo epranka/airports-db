@@ -1,0 +1,104 @@
+{
+    "id": "4314",
+    "ident": "LIBP",
+    "type": "medium_airport",
+    "name": "Abruzzo Airport",
+    "latitude_deg": "42.431702",
+    "longitude_deg": "14.1811",
+    "elevation_ft": "48",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-65",
+    "municipality": "Pescara",
+    "scheduled_service": "yes",
+    "gps_code": "LIBP",
+    "iata_code": "PSR",
+    "local_code": "PE01",
+    "home_link": "http://www.abruzzo-airport.it/eng/index.php",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Abruzzo_Airport",
+    "keywords": "Pescara, Abruzzo Pasquale Liberi International",
+    "runways": [
+        {
+            "id": "236975",
+            "airport_ref": "4314",
+            "airport_ident": "LIBP",
+            "length_ft": "7933",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "42.4228",
+            "le_longitude_deg": "14.172",
+            "le_elevation_ft": "46",
+            "le_heading_degT": "37.5",
+            "le_displaced_threshold_ft": "344",
+            "he_ident": "22",
+            "he_latitude_deg": "42.44",
+            "he_longitude_deg": "14.1899",
+            "he_elevation_ft": "27",
+            "he_heading_degT": "217.5",
+            "he_displaced_threshold_ft": "617"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54147",
+            "airport_ref": "4314",
+            "airport_ident": "LIBP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.05"
+        },
+        {
+            "id": "54148",
+            "airport_ref": "4314",
+            "airport_ident": "LIBP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.45"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306372",
+        "code": "IT-65",
+        "local_code": "65",
+        "name": "Abruzzi",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Abruzzi",
+        "keywords": "AB"
+    },
+    "navaids": [
+        {
+            "id": "92373",
+            "filename": "Pescara_VOR-DME_IT",
+            "ident": "PES",
+            "name": "Pescara",
+            "type": "VOR-DME",
+            "frequency_khz": "115900",
+            "latitude_deg": "42.436100006103516",
+            "longitude_deg": "14.184399604797363",
+            "elevation_ft": "30",
+            "iso_country": "IT",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "42.4353",
+            "dme_longitude_deg": "14.1842",
+            "dme_elevation_ft": "30",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "2.065",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "LIBP"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "21257",
+    "ident": "KU25",
+    "type": "small_airport",
+    "name": "Dubois Municipal Airport",
+    "latitude_deg": "43.548301696799996",
+    "longitude_deg": "-109.690002441",
+    "elevation_ft": "7291",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Dubois",
+    "scheduled_service": "no",
+    "gps_code": "KDUB",
+    "iata_code": "",
+    "local_code": "DUB",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dubois_Municipal_Airport_(Wyoming)",
+    "keywords": "U25",
+    "runways": [
+        {
+            "id": "240965",
+            "airport_ref": "21257",
+            "airport_ident": "KU25",
+            "length_ft": "6100",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "43.5522",
+            "le_longitude_deg": "-109.703",
+            "le_elevation_ft": "7272",
+            "le_heading_degT": "113",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "43.5457",
+            "he_longitude_deg": "-109.682",
+            "he_elevation_ft": "7238",
+            "he_heading_degT": "293",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60878",
+            "airport_ref": "21257",
+            "airport_ident": "KU25",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.275"
+        },
+        {
+            "id": "60879",
+            "airport_ref": "21257",
+            "airport_ident": "KU25",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306127",
+        "code": "US-WY",
+        "local_code": "WY",
+        "name": "Wyoming",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
+        "keywords": ""
+    }
+}

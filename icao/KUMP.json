@@ -1,0 +1,96 @@
+{
+    "id": "21296",
+    "ident": "KUMP",
+    "type": "small_airport",
+    "name": "Indianapolis Metropolitan Airport",
+    "latitude_deg": "39.93519974",
+    "longitude_deg": "-86.04499817",
+    "elevation_ft": "811",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Indianapolis",
+    "scheduled_service": "no",
+    "gps_code": "KUMP",
+    "iata_code": "",
+    "local_code": "UMP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242908",
+            "airport_ref": "21296",
+            "airport_ident": "KUMP",
+            "length_ft": "3850",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "39.9396",
+            "le_longitude_deg": "-86.0488",
+            "le_elevation_ft": "786",
+            "le_heading_degT": "145.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "39.9308",
+            "he_longitude_deg": "-86.0411",
+            "he_elevation_ft": "811",
+            "he_heading_degT": "325.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64886",
+            "airport_ref": "21296",
+            "airport_ident": "KUMP",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "127.15"
+        },
+        {
+            "id": "64887",
+            "airport_ref": "21296",
+            "airport_ident": "KUMP",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "33.8"
+        },
+        {
+            "id": "64888",
+            "airport_ref": "21296",
+            "airport_ident": "KUMP",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.625"
+        },
+        {
+            "id": "64889",
+            "airport_ref": "21296",
+            "airport_ident": "KUMP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

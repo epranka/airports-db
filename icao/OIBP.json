@@ -1,0 +1,96 @@
+{
+    "id": "5145",
+    "ident": "OIBP",
+    "type": "medium_airport",
+    "name": "Persian Gulf International Airport",
+    "latitude_deg": "27.379601",
+    "longitude_deg": "52.737701",
+    "elevation_ft": "27",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-06",
+    "municipality": "Asalouyeh",
+    "scheduled_service": "yes",
+    "gps_code": "OIBP",
+    "iata_code": "PGU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Persian_Gulf_Airport",
+    "keywords": "Khalije Fars, PSEEZ, Bandar Asalouyeh, Pars-Special-Zone,  عسلویه",
+    "runways": [
+        {
+            "id": "236847",
+            "airport_ref": "5145",
+            "airport_ident": "OIBP",
+            "length_ft": "13115",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "27.3909",
+            "le_longitude_deg": "52.7219",
+            "le_elevation_ft": "18",
+            "le_heading_degT": "128.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "27.3683",
+            "he_longitude_deg": "52.7534",
+            "he_elevation_ft": "27",
+            "he_heading_degT": "308.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54010",
+            "airport_ref": "5145",
+            "airport_ident": "OIBP",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.125"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304224",
+        "code": "IR-06",
+        "local_code": "06",
+        "name": "Bushehr Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bushehr_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92683",
+            "filename": "Persian_Gulf_NDB_IR",
+            "ident": "PRG",
+            "name": "Persian Gulf",
+            "type": "NDB",
+            "frequency_khz": "457",
+            "latitude_deg": "27.393199920654297",
+            "longitude_deg": "52.724998474121094",
+            "elevation_ft": "27",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.114",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "OIBP"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "18978",
+    "ident": "K6B9",
+    "type": "small_airport",
+    "name": "Skaneateles Aero Drome",
+    "latitude_deg": "42.914001",
+    "longitude_deg": "-76.440804",
+    "elevation_ft": "1038",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Skaneateles",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "6B9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242163",
+            "airport_ref": "18978",
+            "airport_ident": "K6B9",
+            "length_ft": "3322",
+            "width_ft": "120",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "42.9105",
+            "le_longitude_deg": "-76.4434",
+            "le_elevation_ft": "",
+            "le_heading_degT": "29",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "42.9187",
+            "he_longitude_deg": "-76.4372",
+            "he_elevation_ft": "",
+            "he_heading_degT": "209",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242164",
+            "airport_ref": "18978",
+            "airport_ident": "K6B9",
+            "length_ft": "3134",
+            "width_ft": "56",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "42.914",
+            "le_longitude_deg": "-76.4415",
+            "le_elevation_ft": "",
+            "le_heading_degT": "94",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "42.9134",
+            "he_longitude_deg": "-76.4298",
+            "he_elevation_ft": "",
+            "he_heading_degT": "274",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63340",
+            "airport_ref": "18978",
+            "airport_ident": "K6B9",
+            "type": "A/D",
+            "description": "SYRACUSE APP/DEP",
+            "frequency_mhz": "126.125"
+        },
+        {
+            "id": "63341",
+            "airport_ref": "18978",
+            "airport_ident": "K6B9",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

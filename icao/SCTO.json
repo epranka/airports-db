@@ -1,0 +1,72 @@
+{
+    "id": "6046",
+    "ident": "SCTO",
+    "type": "medium_airport",
+    "name": "Victoria Airport",
+    "latitude_deg": "-38.245601654052734",
+    "longitude_deg": "-72.34860229492188",
+    "elevation_ft": "1148",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-AR",
+    "municipality": "Victoria",
+    "scheduled_service": "no",
+    "gps_code": "SCTO",
+    "iata_code": "ZIC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235223",
+            "airport_ref": "6046",
+            "airport_ident": "SCTO",
+            "length_ft": "3478",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-38.2501",
+            "le_longitude_deg": "-72.3504",
+            "le_elevation_ft": "",
+            "le_heading_degT": "18",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-38.241",
+            "he_longitude_deg": "-72.3468",
+            "he_elevation_ft": "",
+            "he_heading_degT": "198",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51318",
+            "airport_ref": "6046",
+            "airport_ident": "SCTO",
+            "type": "MULT",
+            "description": "VICTORIA MULTI",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303399",
+        "code": "CL-AR",
+        "local_code": "AR",
+        "name": "Araucanía Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Araucanía_Region",
+        "keywords": ""
+    }
+}

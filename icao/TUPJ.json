@@ -1,0 +1,104 @@
+{
+    "id": "6411",
+    "ident": "TUPJ",
+    "type": "medium_airport",
+    "name": "Terrance B. Lettsome International Airport",
+    "latitude_deg": "18.444799423217773",
+    "longitude_deg": "-64.54299926757812",
+    "elevation_ft": "15",
+    "continent": "NA",
+    "iso_country": "VG",
+    "iso_region": "VG-U-A",
+    "municipality": "Road Town",
+    "scheduled_service": "yes",
+    "gps_code": "TUPJ",
+    "iata_code": "EIS",
+    "local_code": "",
+    "home_link": "http://www.bareboatsbvi.com/beef_island.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Terrance_B._Lettsome_International_Airport",
+    "keywords": "BVI, Beef Island Airport",
+    "runways": [
+        {
+            "id": "246158",
+            "airport_ref": "6411",
+            "airport_ident": "TUPJ",
+            "length_ft": "4642",
+            "width_ft": "89",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "18.4424",
+            "le_longitude_deg": "-64.5474",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "61",
+            "le_displaced_threshold_ft": "489",
+            "he_ident": "25",
+            "he_latitude_deg": "18.4487",
+            "he_longitude_deg": "-64.5358",
+            "he_elevation_ft": "7",
+            "he_heading_degT": "241",
+            "he_displaced_threshold_ft": "195"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71745",
+            "airport_ref": "6411",
+            "airport_ident": "TUPJ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71746",
+            "airport_ref": "6411",
+            "airport_ident": "TUPJ",
+            "type": "TWR",
+            "description": "BEEF ISLAND TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302757",
+        "code": "VG",
+        "name": "British Virgin Islands",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Virgin_Islands",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306191",
+        "code": "VG-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "VG",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85963",
+            "filename": "Beef_Island_NDB_VG",
+            "ident": "BFI",
+            "name": "Beef Island",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "18.44580078125",
+            "longitude_deg": "-64.53579711914062",
+            "elevation_ft": "15",
+            "iso_country": "VG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.201",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "TUPJ"
+        }
+    ]
+}

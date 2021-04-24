@@ -1,0 +1,112 @@
+{
+    "id": "27468",
+    "ident": "YCMW",
+    "type": "small_airport",
+    "name": "Camooweal Airport",
+    "latitude_deg": "-19.911699295043945",
+    "longitude_deg": "138.125",
+    "elevation_ft": "241",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YCMW",
+    "iata_code": "CML",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258440",
+            "airport_ref": "27468",
+            "airport_ident": "YCMW",
+            "length_ft": "3500",
+            "width_ft": "",
+            "surface": "B",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72545",
+            "airport_ref": "27468",
+            "airport_ident": "YCMW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "72546",
+            "airport_ref": "27468",
+            "airport_ident": "YCMW",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "72547",
+            "airport_ref": "27468",
+            "airport_ident": "YCMW",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.55"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86891",
+            "filename": "Camooweal_NDB_AU",
+            "ident": "CMW",
+            "name": "Camooweal",
+            "type": "NDB",
+            "frequency_khz": "254",
+            "latitude_deg": "-19.91469955444336",
+            "longitude_deg": "138.11700439453125",
+            "elevation_ft": "792",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.454",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YCMW"
+        }
+    ]
+}

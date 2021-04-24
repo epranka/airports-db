@@ -1,0 +1,80 @@
+{
+    "id": "2267",
+    "ident": "EDRT",
+    "type": "small_airport",
+    "name": "Trier-Föhren Airport",
+    "latitude_deg": "49.863888",
+    "longitude_deg": "6.7875",
+    "elevation_ft": "666",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-RP",
+    "municipality": "Trier",
+    "scheduled_service": "no",
+    "gps_code": "EDRT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236160",
+            "airport_ref": "2267",
+            "airport_ident": "EDRT",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "49.8596",
+            "le_longitude_deg": "6.78291",
+            "le_elevation_ft": "665",
+            "le_heading_degT": "42",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "49.8671",
+            "he_longitude_deg": "6.79487",
+            "he_elevation_ft": "665",
+            "he_heading_degT": "222",
+            "he_displaced_threshold_ft": "230"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52821",
+            "airport_ref": "2267",
+            "airport_ident": "EDRT",
+            "type": "AFIS",
+            "description": "LANGEN INFO",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "52822",
+            "airport_ref": "2267",
+            "airport_ident": "EDRT",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.05"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303557",
+        "code": "DE-RP",
+        "local_code": "RP",
+        "name": "Rhineland-Palatinate",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rhineland-Palatinate",
+        "keywords": "Rheinland-Pfalz"
+    }
+}

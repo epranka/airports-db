@@ -1,0 +1,142 @@
+{
+    "id": "1949",
+    "ident": "CYWK",
+    "type": "medium_airport",
+    "name": "Wabush Airport",
+    "latitude_deg": "52.92190170288086",
+    "longitude_deg": "-66.8644027709961",
+    "elevation_ft": "1808",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NL",
+    "municipality": "Wabush",
+    "scheduled_service": "yes",
+    "gps_code": "CYWK",
+    "iata_code": "YWK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wabush_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234689",
+            "airport_ref": "1949",
+            "airport_ident": "CYWK",
+            "length_ft": "6002",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "52.915",
+            "le_longitude_deg": "-66.8602",
+            "le_elevation_ft": "1794",
+            "le_heading_degT": "157",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "52.8999",
+            "he_longitude_deg": "-66.8496",
+            "he_elevation_ft": "1808",
+            "he_heading_degT": "337",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50294",
+            "airport_ref": "1949",
+            "airport_ident": "CYWK",
+            "type": "A/D",
+            "description": "MONTREAL CNTR",
+            "frequency_mhz": "132.25"
+        },
+        {
+            "id": "50295",
+            "airport_ref": "1949",
+            "airport_ident": "CYWK",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "50296",
+            "airport_ref": "1949",
+            "airport_ident": "CYWK",
+            "type": "RCO",
+            "description": "QUEBEC RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "50297",
+            "airport_ref": "1949",
+            "airport_ident": "CYWK",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303298",
+        "code": "CA-NL",
+        "local_code": "NL",
+        "name": "Newfoundland and Labrador",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95431",
+            "filename": "Wabush_NDB_CA",
+            "ident": "WK",
+            "name": "Wabush",
+            "type": "NDB",
+            "frequency_khz": "218",
+            "latitude_deg": "52.86180114746094",
+            "longitude_deg": "-66.83489990234375",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.144",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYWK"
+        },
+        {
+            "id": "95892",
+            "filename": "Wabush_VOR-DME_CA",
+            "ident": "YWK",
+            "name": "Wabush",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "52.96009826660156",
+            "longitude_deg": "-66.85350036621094",
+            "elevation_ft": "2267",
+            "iso_country": "CA",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-26.001",
+            "magnetic_variation_deg": "-22.178",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYWK"
+        }
+    ]
+}

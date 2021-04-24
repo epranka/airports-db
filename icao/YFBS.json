@@ -1,0 +1,104 @@
+{
+    "id": "26984",
+    "ident": "YFBS",
+    "type": "medium_airport",
+    "name": "Forbes Airport",
+    "latitude_deg": "-33.363602",
+    "longitude_deg": "147.934998",
+    "elevation_ft": "760",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Forbes",
+    "scheduled_service": "no",
+    "gps_code": "YFBS",
+    "iata_code": "FRB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Forbes_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233233",
+            "airport_ref": "26984",
+            "airport_ident": "YFBS",
+            "length_ft": "4029",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "-33.3618",
+            "le_longitude_deg": "147.921",
+            "le_elevation_ft": "757",
+            "le_heading_degT": "99",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "-33.3635",
+            "he_longitude_deg": "147.934",
+            "he_elevation_ft": "757",
+            "he_heading_degT": "279",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48714",
+            "airport_ref": "26984",
+            "airport_ident": "YFBS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48715",
+            "airport_ref": "26984",
+            "airport_ident": "YFBS",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "135.25"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87941",
+            "filename": "Forbes_NDB_AU",
+            "ident": "FBS",
+            "name": "Forbes",
+            "type": "NDB",
+            "frequency_khz": "486",
+            "latitude_deg": "-33.364200592041016",
+            "longitude_deg": "147.92799377441406",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.204",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YFBS"
+        }
+    ]
+}

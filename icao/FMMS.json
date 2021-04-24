@@ -1,0 +1,104 @@
+{
+    "id": "2910",
+    "ident": "FMMS",
+    "type": "medium_airport",
+    "name": "Sainte Marie Airport",
+    "latitude_deg": "-17.093901",
+    "longitude_deg": "49.8158",
+    "elevation_ft": "7",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-A",
+    "municipality": "Vohilava",
+    "scheduled_service": "yes",
+    "gps_code": "FMMS",
+    "iata_code": "SMS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Saints_Marie_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237527",
+            "airport_ref": "2910",
+            "airport_ident": "FMMS",
+            "length_ft": "3451",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-17.099",
+            "le_longitude_deg": "49.8167",
+            "le_elevation_ft": "",
+            "le_heading_degT": "353.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-17.0895",
+            "he_longitude_deg": "49.8156",
+            "he_elevation_ft": "",
+            "he_heading_degT": "173.9",
+            "he_displaced_threshold_ft": "290"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55250",
+            "airport_ref": "2910",
+            "airport_ident": "FMMS",
+            "type": "A/G",
+            "description": "AIR GND",
+            "frequency_mhz": "548.4"
+        },
+        {
+            "id": "55251",
+            "airport_ref": "2910",
+            "airport_ident": "FMMS",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "120.3"
+        }
+    ],
+    "country": {
+        "id": "302585",
+        "code": "MG",
+        "name": "Madagascar",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madagascar",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304623",
+        "code": "MG-A",
+        "local_code": "A",
+        "name": "Toamasina",
+        "continent": "AF",
+        "iso_country": "MG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Toamasina",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93759",
+            "filename": "Sainte_Marie_NDB_MG",
+            "ident": "SM",
+            "name": "Sainte Marie",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "-17.089099884033203",
+            "longitude_deg": "49.81650161743164",
+            "elevation_ft": "",
+            "iso_country": "MG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.405",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FMMS"
+        }
+    ]
+}

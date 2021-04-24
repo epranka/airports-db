@@ -1,0 +1,104 @@
+{
+    "id": "6268",
+    "ident": "SVCN",
+    "type": "medium_airport",
+    "name": "Canaima Airport",
+    "latitude_deg": "6.231988906860352",
+    "longitude_deg": "-62.85443115234375",
+    "elevation_ft": "1450",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "Canaima",
+    "scheduled_service": "yes",
+    "gps_code": "SVCN",
+    "iata_code": "CAJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246069",
+            "airport_ref": "6268",
+            "airport_ident": "SVCN",
+            "length_ft": "7070",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "6.2223",
+            "le_longitude_deg": "-62.8534",
+            "le_elevation_ft": "",
+            "le_heading_degT": "353.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "6.24167",
+            "he_longitude_deg": "-62.8555",
+            "he_elevation_ft": "",
+            "he_heading_degT": "173.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71656",
+            "airport_ref": "6268",
+            "airport_ident": "SVCN",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "131.2"
+        },
+        {
+            "id": "71657",
+            "airport_ref": "6268",
+            "airport_ident": "SVCN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306170",
+        "code": "VE-F",
+        "local_code": "F",
+        "name": "Bolívar State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86873",
+            "filename": "Canaima_VOR-DME_VE",
+            "ident": "CMA",
+            "name": "Canaima",
+            "type": "VOR-DME",
+            "frequency_khz": "117500",
+            "latitude_deg": "6.1997199058532715",
+            "longitude_deg": "-62.85029983520508",
+            "elevation_ft": "1469",
+            "iso_country": "VE",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-12.007",
+            "magnetic_variation_deg": "-13.12",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVCN"
+        }
+    ]
+}

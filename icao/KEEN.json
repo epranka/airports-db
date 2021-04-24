@@ -1,0 +1,142 @@
+{
+    "id": "3504",
+    "ident": "KEEN",
+    "type": "medium_airport",
+    "name": "Dillant Hopkins Airport",
+    "latitude_deg": "42.898399",
+    "longitude_deg": "-72.270798",
+    "elevation_ft": "488",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Keene",
+    "scheduled_service": "no",
+    "gps_code": "KEEN",
+    "iata_code": "EEN",
+    "local_code": "EEN",
+    "home_link": "https://ci.keene.nh.us/keene-dillant-hopkins-airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dillant-Hopkins_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240901",
+            "airport_ref": "3504",
+            "airport_ident": "KEEN",
+            "length_ft": "6201",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "42.8873",
+            "le_longitude_deg": "-72.2709",
+            "le_elevation_ft": "488",
+            "le_heading_degT": "3.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "42.9043",
+            "he_longitude_deg": "-72.2696",
+            "he_elevation_ft": "482",
+            "he_heading_degT": "183.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240902",
+            "airport_ref": "3504",
+            "airport_ident": "KEEN",
+            "length_ft": "4001",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "42.9057",
+            "le_longitude_deg": "-72.2776",
+            "le_elevation_ft": "472",
+            "le_heading_degT": "127.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "42.8991",
+            "he_longitude_deg": "-72.2657",
+            "he_elevation_ft": "478",
+            "he_heading_degT": "307.2",
+            "he_displaced_threshold_ft": "1100"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60728",
+            "airport_ref": "3504",
+            "airport_ident": "KEEN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "60729",
+            "airport_ref": "3504",
+            "airport_ident": "KEEN",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "123.75"
+        },
+        {
+            "id": "60730",
+            "airport_ref": "3504",
+            "airport_ident": "KEEN",
+            "type": "RDO",
+            "description": "BANGOR RDO",
+            "frequency_mhz": "109.4"
+        },
+        {
+            "id": "60731",
+            "airport_ref": "3504",
+            "airport_ident": "KEEN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306106",
+        "code": "US-NH",
+        "local_code": "NH",
+        "name": "New Hampshire",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Hampshire",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87672",
+            "filename": "Keene_VORTAC_US",
+            "ident": "EEN",
+            "name": "Keene",
+            "type": "VORTAC",
+            "frequency_khz": "109400",
+            "latitude_deg": "42.7943000793457",
+            "longitude_deg": "-72.29180145263672",
+            "elevation_ft": "1380",
+            "iso_country": "US",
+            "dme_frequency_khz": "109400",
+            "dme_channel": "031X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-14.001",
+            "magnetic_variation_deg": "-14.531",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KEEN"
+        }
+    ]
+}

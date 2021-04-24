@@ -1,0 +1,96 @@
+{
+    "id": "19661",
+    "ident": "KDTS",
+    "type": "small_airport",
+    "name": "Destin Executive Airport",
+    "latitude_deg": "30.40010071",
+    "longitude_deg": "-86.47149658",
+    "elevation_ft": "23",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Destin",
+    "scheduled_service": "no",
+    "gps_code": "KDTS",
+    "iata_code": "DSI",
+    "local_code": "DTS",
+    "home_link": "http://www.flydts.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Destin-Fort_Walton_Beach_Airport",
+    "keywords": "81J, Destin-Fort Walton Beach Airport",
+    "runways": [
+        {
+            "id": "242406",
+            "airport_ref": "19661",
+            "airport_ident": "KDTS",
+            "length_ft": "4999",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "30.4055",
+            "le_longitude_deg": "-86.4763",
+            "le_elevation_ft": "22",
+            "le_heading_degT": "142",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "30.3946",
+            "he_longitude_deg": "-86.4666",
+            "he_elevation_ft": "21",
+            "he_heading_degT": "322",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63869",
+            "airport_ref": "19661",
+            "airport_ident": "KDTS",
+            "type": "A/D",
+            "description": "EGLIN APP/DEP",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "63870",
+            "airport_ref": "19661",
+            "airport_ident": "KDTS",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "133.925"
+        },
+        {
+            "id": "63871",
+            "airport_ref": "19661",
+            "airport_ident": "KDTS",
+            "type": "CLD",
+            "description": "EGLIN CLNC DEL",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "63872",
+            "airport_ref": "19661",
+            "airport_ident": "KDTS",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123.075"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

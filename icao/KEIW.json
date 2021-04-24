@@ -1,0 +1,80 @@
+{
+    "id": "19743",
+    "ident": "KEIW",
+    "type": "small_airport",
+    "name": "County Memorial Airport",
+    "latitude_deg": "36.53530121",
+    "longitude_deg": "-89.59970093",
+    "elevation_ft": "296",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "New Madrid",
+    "scheduled_service": "no",
+    "gps_code": "KEIW",
+    "iata_code": "",
+    "local_code": "EIW",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242354",
+            "airport_ref": "19743",
+            "airport_ident": "KEIW",
+            "length_ft": "3203",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "36.5397",
+            "le_longitude_deg": "-89.5997",
+            "le_elevation_ft": "294",
+            "le_heading_degT": "179.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "36.5309",
+            "he_longitude_deg": "-89.5997",
+            "he_elevation_ft": "295",
+            "he_heading_degT": "359.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63757",
+            "airport_ref": "19743",
+            "airport_ident": "KEIW",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "133.65"
+        },
+        {
+            "id": "63758",
+            "airport_ref": "19743",
+            "airport_ident": "KEIW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "id": "27310",
+    "ident": "EIWT",
+    "type": "medium_airport",
+    "name": "Weston Airport",
+    "latitude_deg": "53.3521995544",
+    "longitude_deg": "-6.48611021042",
+    "elevation_ft": "150",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-KE",
+    "municipality": "Leixlip",
+    "scheduled_service": "no",
+    "gps_code": "EIWT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.westonairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Weston_Airport",
+    "keywords": "Dublin",
+    "runways": [
+        {
+            "id": "255234",
+            "airport_ref": "27310",
+            "airport_ident": "EIWT",
+            "length_ft": "3038",
+            "width_ft": "23",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "53.3512",
+            "le_longitude_deg": "-6.49207",
+            "le_elevation_ft": "154",
+            "le_heading_degT": "67.2",
+            "le_displaced_threshold_ft": "50",
+            "he_ident": "25",
+            "he_latitude_deg": "53.3534",
+            "he_longitude_deg": "-6.48466",
+            "he_elevation_ft": "152",
+            "he_heading_degT": "247.2",
+            "he_displaced_threshold_ft": "50"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "299118",
+            "airport_ref": "27310",
+            "airport_ident": "EIWT",
+            "type": "A/G",
+            "description": "Weston tower",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "299120",
+            "airport_ref": "27310",
+            "airport_ident": "EIWT",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "118.87"
+        },
+        {
+            "id": "299119",
+            "airport_ref": "27310",
+            "airport_ident": "EIWT",
+            "type": "ground",
+            "description": "Weston ground",
+            "frequency_mhz": "119.42"
+        }
+    ],
+    "country": {
+        "id": "302694",
+        "code": "IE",
+        "name": "Ireland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
+        "keywords": "Eire"
+    },
+    "region": {
+        "id": "304136",
+        "code": "IE-KE",
+        "local_code": "KE",
+        "name": "County Kildare",
+        "continent": "EU",
+        "iso_country": "IE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kildare",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95505",
+            "filename": "Weston_VOR-DME_IE",
+            "ident": "WST",
+            "name": "Weston",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "53.35300064086914",
+            "longitude_deg": "-6.494870185852051",
+            "elevation_ft": "200",
+            "iso_country": "IE",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.076",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "EIWT"
+        }
+    ]
+}

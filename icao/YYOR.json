@@ -1,0 +1,80 @@
+{
+    "id": "28094",
+    "ident": "YYOR",
+    "type": "small_airport",
+    "name": "Yorketown Airport",
+    "latitude_deg": "-35",
+    "longitude_deg": "137.61700439453125",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YYOR",
+    "iata_code": "ORR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259611",
+            "airport_ref": "28094",
+            "airport_ident": "YYOR",
+            "length_ft": "3740",
+            "width_ft": "295",
+            "surface": "Gravel",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75131",
+            "airport_ref": "28094",
+            "airport_ident": "YYOR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "75133",
+            "airport_ref": "28094",
+            "airport_ident": "YYOR",
+            "type": "PAL",
+            "description": "Pilot Activated Lighting",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": ""
+    }
+}

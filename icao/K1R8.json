@@ -1,0 +1,80 @@
+{
+    "id": "18511",
+    "ident": "K1R8",
+    "type": "small_airport",
+    "name": "Bay Minette Municipal Airport",
+    "latitude_deg": "30.870399475097656",
+    "longitude_deg": "-87.81929779052734",
+    "elevation_ft": "248",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Bay Minette",
+    "scheduled_service": "no",
+    "gps_code": "K1R8",
+    "iata_code": "",
+    "local_code": "1R8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245422",
+            "airport_ref": "18511",
+            "airport_ident": "K1R8",
+            "length_ft": "5500",
+            "width_ft": "79",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "30.8699",
+            "le_longitude_deg": "-87.8281",
+            "le_elevation_ft": "206",
+            "le_heading_degT": "86",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "30.8709",
+            "he_longitude_deg": "-87.8106",
+            "he_elevation_ft": "248",
+            "he_heading_degT": "266",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70290",
+            "airport_ref": "18511",
+            "airport_ident": "K1R8",
+            "type": "A/D",
+            "description": "MOBILE APP/DEP",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "70291",
+            "airport_ref": "18511",
+            "airport_ident": "K1R8",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

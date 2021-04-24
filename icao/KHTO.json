@@ -1,0 +1,118 @@
+{
+    "id": "20093",
+    "ident": "KHTO",
+    "type": "small_airport",
+    "name": "East Hampton Airport",
+    "latitude_deg": "40.95959854",
+    "longitude_deg": "-72.25180054",
+    "elevation_ft": "55",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "East Hampton",
+    "scheduled_service": "no",
+    "gps_code": "KHTO",
+    "iata_code": "HTO",
+    "local_code": "HTO",
+    "home_link": "http://www.town.east-hampton.ny.us/htmlpages/Airport/AirportHome.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/East_Hampton_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243479",
+            "airport_ref": "20093",
+            "airport_ident": "KHTO",
+            "length_ft": "4255",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "40.9589",
+            "le_longitude_deg": "-72.2603",
+            "le_elevation_ft": "55",
+            "le_heading_degT": "88.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "40.9591",
+            "he_longitude_deg": "-72.2449",
+            "he_elevation_ft": "31",
+            "he_heading_degT": "268.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243480",
+            "airport_ref": "20093",
+            "airport_ident": "KHTO",
+            "length_ft": "2223",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "40.9629",
+            "le_longitude_deg": "-72.2517",
+            "le_elevation_ft": "42",
+            "le_heading_degT": "149.2",
+            "le_displaced_threshold_ft": "57",
+            "he_ident": "34",
+            "he_latitude_deg": "40.9576",
+            "he_longitude_deg": "-72.2476",
+            "he_elevation_ft": "30",
+            "he_heading_degT": "329.2",
+            "he_displaced_threshold_ft": "106"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66086",
+            "airport_ref": "20093",
+            "airport_ident": "KHTO",
+            "type": "A/D",
+            "description": "NEW YORK APP/DEP",
+            "frequency_mhz": "132.25"
+        },
+        {
+            "id": "66087",
+            "airport_ref": "20093",
+            "airport_ident": "KHTO",
+            "type": "CLD",
+            "description": "NEW YORK CLNC DEL",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "66088",
+            "airport_ref": "20093",
+            "airport_ident": "KHTO",
+            "type": "RDO",
+            "description": "NEW YORK RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "66089",
+            "airport_ref": "20093",
+            "airport_ident": "KHTO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

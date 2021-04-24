@@ -1,0 +1,142 @@
+{
+    "id": "3484",
+    "ident": "KDDC",
+    "type": "medium_airport",
+    "name": "Dodge City Regional Airport",
+    "latitude_deg": "37.76340103149414",
+    "longitude_deg": "-99.9655990600586",
+    "elevation_ft": "2594",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Dodge City",
+    "scheduled_service": "yes",
+    "gps_code": "KDDC",
+    "iata_code": "DDC",
+    "local_code": "DDC",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dodge_City_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243430",
+            "airport_ref": "3484",
+            "airport_ident": "KDDC",
+            "length_ft": "4649",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "37.7554",
+            "le_longitude_deg": "-99.9678",
+            "le_elevation_ft": "2594",
+            "le_heading_degT": "32",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "37.7662",
+            "he_longitude_deg": "-99.9591",
+            "he_elevation_ft": "2562",
+            "he_heading_degT": "212",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243431",
+            "airport_ref": "3484",
+            "airport_ident": "KDDC",
+            "length_ft": "6899",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "37.7732",
+            "le_longitude_deg": "-99.972",
+            "le_elevation_ft": "2583",
+            "le_heading_degT": "154",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "37.7562",
+            "he_longitude_deg": "-99.9615",
+            "he_elevation_ft": "2590",
+            "he_heading_degT": "334",
+            "he_displaced_threshold_ft": "570"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65958",
+            "airport_ref": "3484",
+            "airport_ident": "KDDC",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "65959",
+            "airport_ref": "3484",
+            "airport_ident": "KDDC",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "65960",
+            "airport_ref": "3484",
+            "airport_ident": "KDDC",
+            "type": "RDO",
+            "description": "WICHITA RDO",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "65961",
+            "airport_ref": "3484",
+            "airport_ident": "KDDC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87315",
+            "filename": "Dodge_City_VORTAC_US",
+            "ident": "DDC",
+            "name": "Dodge City",
+            "type": "VORTAC",
+            "frequency_khz": "108200",
+            "latitude_deg": "37.85060119628906",
+            "longitude_deg": "-100.00599670410156",
+            "elevation_ft": "2565",
+            "iso_country": "US",
+            "dme_frequency_khz": "108200",
+            "dme_channel": "019X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.01",
+            "magnetic_variation_deg": "6.389",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KDDC"
+        }
+    ]
+}

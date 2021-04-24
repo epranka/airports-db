@@ -1,0 +1,72 @@
+{
+    "id": "17493",
+    "ident": "GA2",
+    "type": "small_airport",
+    "name": "Peach State Aerodrome",
+    "latitude_deg": "33.183534",
+    "longitude_deg": "-84.377997",
+    "elevation_ft": "926",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Williamson",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "GA2",
+    "home_link": "https://www.peachstateaero.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Peach_State_Airport",
+    "keywords": "Alexander Memorial Airport, Peach State Airport, Candler Field, Antique Acres",
+    "runways": [
+        {
+            "id": "257211",
+            "airport_ref": "17493",
+            "airport_ident": "GA2",
+            "length_ft": "2400",
+            "width_ft": "100",
+            "surface": "TURF-F",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "33.1835",
+            "le_longitude_deg": "-84.378",
+            "le_elevation_ft": "926",
+            "le_heading_degT": "128",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "33.1835",
+            "he_longitude_deg": "-84.378",
+            "he_elevation_ft": "926",
+            "he_heading_degT": "308",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "313646",
+            "airport_ref": "17493",
+            "airport_ident": "GA2",
+            "type": "UNICOM",
+            "description": "",
+            "frequency_mhz": "122.725"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

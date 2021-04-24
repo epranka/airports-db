@@ -1,0 +1,104 @@
+{
+    "id": "27083",
+    "ident": "YNGU",
+    "type": "medium_airport",
+    "name": "Ngukurr Airport",
+    "latitude_deg": "-14.722800254821777",
+    "longitude_deg": "134.7469940185547",
+    "elevation_ft": "45",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YNGU",
+    "iata_code": "RPM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233432",
+            "airport_ref": "27083",
+            "airport_ident": "YNGU",
+            "length_ft": "5020",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-14.7206",
+            "le_longitude_deg": "134.741",
+            "le_elevation_ft": "40",
+            "le_heading_degT": "115",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "-14.7263",
+            "he_longitude_deg": "134.754",
+            "he_elevation_ft": "33",
+            "he_heading_degT": "295",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49028",
+            "airport_ref": "27083",
+            "airport_ident": "YNGU",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49029",
+            "airport_ref": "27083",
+            "airport_ident": "YNGU",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "122.6"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91543",
+            "filename": "Ngukurr_NDB_AU",
+            "ident": "NGU",
+            "name": "Ngukurr",
+            "type": "NDB",
+            "frequency_khz": "233",
+            "latitude_deg": "-14.725000381469727",
+            "longitude_deg": "134.73899841308594",
+            "elevation_ft": "45",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.242",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YNGU"
+        }
+    ]
+}

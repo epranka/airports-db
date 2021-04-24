@@ -1,0 +1,176 @@
+{
+    "id": "3477",
+    "ident": "KDAA",
+    "type": "medium_airport",
+    "name": "Davison Army Air Field",
+    "latitude_deg": "38.715000152600005",
+    "longitude_deg": "-77.1809997559",
+    "elevation_ft": "73",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Fort Belvoir",
+    "scheduled_service": "no",
+    "gps_code": "KDAA",
+    "iata_code": "DAA",
+    "local_code": "DAA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Davison_Army_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244820",
+            "airport_ref": "3477",
+            "airport_ident": "KDAA",
+            "length_ft": "5618",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "38.7204",
+            "le_longitude_deg": "-77.1883",
+            "le_elevation_ft": "50",
+            "le_heading_degT": "133",
+            "le_displaced_threshold_ft": "687",
+            "he_ident": "32",
+            "he_latitude_deg": "38.7098",
+            "he_longitude_deg": "-77.174",
+            "he_elevation_ft": "69",
+            "he_heading_degT": "313",
+            "he_displaced_threshold_ft": "891"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68939",
+            "airport_ref": "3477",
+            "airport_ident": "KDAA",
+            "type": "APP",
+            "description": "POTOMAC APP",
+            "frequency_mhz": "119.85"
+        },
+        {
+            "id": "68940",
+            "airport_ref": "3477",
+            "airport_ident": "KDAA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.175"
+        },
+        {
+            "id": "68941",
+            "airport_ref": "3477",
+            "airport_ident": "KDAA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "24.52"
+        },
+        {
+            "id": "68942",
+            "airport_ref": "3477",
+            "airport_ident": "KDAA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.3"
+        },
+        {
+            "id": "68943",
+            "airport_ref": "3477",
+            "airport_ident": "KDAA",
+            "type": "DEP",
+            "description": "POTOMAC DEP",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "68944",
+            "airport_ref": "3477",
+            "airport_ident": "KDAA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "68945",
+            "airport_ref": "3477",
+            "airport_ident": "KDAA",
+            "type": "MISC",
+            "description": "ARNG OPS",
+            "frequency_mhz": "52.75"
+        },
+        {
+            "id": "68946",
+            "airport_ref": "3477",
+            "airport_ident": "KDAA",
+            "type": "OPS",
+            "description": "BASE OPS",
+            "frequency_mhz": "139.4"
+        },
+        {
+            "id": "68947",
+            "airport_ref": "3477",
+            "airport_ident": "KDAA",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "139.4"
+        },
+        {
+            "id": "68948",
+            "airport_ref": "3477",
+            "airport_ident": "KDAA",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "139.4"
+        },
+        {
+            "id": "68949",
+            "airport_ref": "3477",
+            "airport_ident": "KDAA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.3"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87252",
+            "filename": "Davee_NDB_US",
+            "ident": "DA",
+            "name": "Davee",
+            "type": "NDB",
+            "frequency_khz": "223",
+            "latitude_deg": "38.663299560546875",
+            "longitude_deg": "-77.10970306396484",
+            "elevation_ft": "54",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.339",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KDAA"
+        }
+    ]
+}

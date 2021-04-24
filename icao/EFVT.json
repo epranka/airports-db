@@ -1,0 +1,80 @@
+{
+    "id": "27271",
+    "ident": "EFVT",
+    "type": "small_airport",
+    "name": "Sulkaharju Airfield",
+    "latitude_deg": "63.3978",
+    "longitude_deg": "24.0306",
+    "elevation_ft": "400",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-07",
+    "municipality": "Veteli",
+    "scheduled_service": "no",
+    "gps_code": "EFVT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310821",
+            "airport_ref": "27271",
+            "airport_ident": "EFVT",
+            "length_ft": "2427",
+            "width_ft": "62",
+            "surface": "GRVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "63.3967",
+            "le_longitude_deg": "24.0237",
+            "le_elevation_ft": "",
+            "le_heading_degT": "72.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "63.3987",
+            "he_longitude_deg": "24.0377",
+            "he_elevation_ft": "",
+            "he_heading_degT": "252.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310820",
+            "airport_ref": "27271",
+            "airport_ident": "EFVT",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "310819",
+            "airport_ref": "27271",
+            "airport_ident": "EFVT",
+            "type": "RDO",
+            "description": "Sulkaharju traffic",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336508",
+        "code": "FI-07",
+        "local_code": "07",
+        "name": "Central Ostrobothnia Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Ostrobothnia",
+        "keywords": ""
+    }
+}

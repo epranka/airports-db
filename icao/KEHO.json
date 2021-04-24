@@ -1,0 +1,88 @@
+{
+    "id": "19740",
+    "ident": "KEHO",
+    "type": "small_airport",
+    "name": "Shelby-Cleveland County Regional Airport",
+    "latitude_deg": "35.25559998",
+    "longitude_deg": "-81.60099792",
+    "elevation_ft": "847",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Shelby",
+    "scheduled_service": "no",
+    "gps_code": "KEHO",
+    "iata_code": "",
+    "local_code": "EHO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241785",
+            "airport_ref": "19740",
+            "airport_ident": "KEHO",
+            "length_ft": "5002",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "35.2502",
+            "le_longitude_deg": "-81.6073",
+            "le_elevation_ft": "836",
+            "le_heading_degT": "46.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "35.26",
+            "he_longitude_deg": "-81.5946",
+            "he_elevation_ft": "839",
+            "he_heading_degT": "226.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62559",
+            "airport_ref": "19740",
+            "airport_ident": "KEHO",
+            "type": "A/D",
+            "description": "CHARLOTTE APP/DEP",
+            "frequency_mhz": "134.75"
+        },
+        {
+            "id": "62560",
+            "airport_ref": "19740",
+            "airport_ident": "KEHO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "62561",
+            "airport_ref": "19740",
+            "airport_ident": "KEHO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "20477",
+    "ident": "KMBT",
+    "type": "small_airport",
+    "name": "Murfreesboro Municipal Airport",
+    "latitude_deg": "35.87749863",
+    "longitude_deg": "-86.37750244",
+    "elevation_ft": "614",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Murfreesboro",
+    "scheduled_service": "no",
+    "gps_code": "KMBT",
+    "iata_code": "",
+    "local_code": "MBT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240981",
+            "airport_ref": "20477",
+            "airport_ident": "KMBT",
+            "length_ft": "4753",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "35.8828",
+            "le_longitude_deg": "-86.3773",
+            "le_elevation_ft": "600",
+            "le_heading_degT": "183",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "35.8721",
+            "he_longitude_deg": "-86.3778",
+            "he_elevation_ft": "615",
+            "he_heading_degT": "3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "319468",
+            "airport_ref": "20477",
+            "airport_ident": "KMBT",
+            "type": "A/D",
+            "description": "NASHVILLE APP/DEP",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "60904",
+            "airport_ref": "20477",
+            "airport_ident": "KMBT",
+            "type": "A/D",
+            "description": "NASHVILLE APP/DEP",
+            "frequency_mhz": "128.45"
+        },
+        {
+            "id": "60905",
+            "airport_ref": "20477",
+            "airport_ident": "KMBT",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.975"
+        },
+        {
+            "id": "319469",
+            "airport_ref": "20477",
+            "airport_ident": "KMBT",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "123.075"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

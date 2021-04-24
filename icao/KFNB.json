@@ -1,0 +1,88 @@
+{
+    "id": "19884",
+    "ident": "KFNB",
+    "type": "small_airport",
+    "name": "Brenner Field",
+    "latitude_deg": "40.078800201416016",
+    "longitude_deg": "-95.59200286865234",
+    "elevation_ft": "984",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Falls City",
+    "scheduled_service": "no",
+    "gps_code": "KFNB",
+    "iata_code": "",
+    "local_code": "FNB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243891",
+            "airport_ref": "19884",
+            "airport_ident": "KFNB",
+            "length_ft": "3999",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "40.0835",
+            "le_longitude_deg": "-95.5957",
+            "le_elevation_ft": "983",
+            "le_heading_degT": "148.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "40.0741",
+            "he_longitude_deg": "-95.5883",
+            "he_elevation_ft": "979",
+            "he_heading_degT": "328.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66970",
+            "airport_ref": "19884",
+            "airport_ident": "KFNB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.27"
+        },
+        {
+            "id": "66971",
+            "airport_ref": "19884",
+            "airport_ident": "KFNB",
+            "type": "FSS",
+            "description": "COLUMBUS RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "66972",
+            "airport_ref": "19884",
+            "airport_ident": "KFNB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

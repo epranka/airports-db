@@ -1,0 +1,104 @@
+{
+    "id": "3175",
+    "ident": "HEAL",
+    "type": "medium_airport",
+    "name": "El Alamein International Airport",
+    "latitude_deg": "30.92449951171875",
+    "longitude_deg": "28.46139907836914",
+    "elevation_ft": "143",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-MT",
+    "municipality": "El Alamein",
+    "scheduled_service": "no",
+    "gps_code": "HEAL",
+    "iata_code": "DBB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Al Alamain, Al Alamayn, العلمين‎",
+    "runways": [
+        {
+            "id": "235541",
+            "airport_ref": "3175",
+            "airport_ident": "HEAL",
+            "length_ft": "11479",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "30.9347",
+            "le_longitude_deg": "28.4476",
+            "le_elevation_ft": "143",
+            "le_heading_degT": "130",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "30.9141",
+            "he_longitude_deg": "28.4753",
+            "he_elevation_ft": "140",
+            "he_heading_degT": "310",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51836",
+            "airport_ref": "3175",
+            "airport_ident": "HEAL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51837",
+            "airport_ref": "3175",
+            "airport_ident": "HEAL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.4"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303710",
+        "code": "EG-MT",
+        "local_code": "MT",
+        "name": "Matruh Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Matruh_Governorate",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87288",
+            "filename": "El_Daba_VOR-DME_EG",
+            "ident": "DBA",
+            "name": "El Daba",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "31.01140022277832",
+            "longitude_deg": "28.466899871826172",
+            "elevation_ft": "110",
+            "iso_country": "EG",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.005",
+            "magnetic_variation_deg": "3.119",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HEAL"
+        }
+    ]
+}

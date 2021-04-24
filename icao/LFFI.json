@@ -1,0 +1,80 @@
+{
+    "id": "4102",
+    "ident": "LFFI",
+    "type": "small_airport",
+    "name": "Ancenis Airport",
+    "latitude_deg": "47.40810012817383",
+    "longitude_deg": "-1.1775000095367432",
+    "elevation_ft": "111",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-PDL",
+    "municipality": "Ancenis",
+    "scheduled_service": "no",
+    "gps_code": "LFFI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236063",
+            "airport_ref": "4102",
+            "airport_ident": "LFFI",
+            "length_ft": "3937",
+            "width_ft": "82",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "47.4066",
+            "le_longitude_deg": "-1.18517",
+            "le_elevation_ft": "111",
+            "le_heading_degT": "73",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "47.4098",
+            "he_longitude_deg": "-1.16996",
+            "he_elevation_ft": "88",
+            "he_heading_degT": "254",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52648",
+            "airport_ref": "4102",
+            "airport_ident": "LFFI",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "52649",
+            "airport_ref": "4102",
+            "airport_ident": "LFFI",
+            "type": "APP",
+            "description": "NANTES APP",
+            "frequency_mhz": "130.275"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306336",
+        "code": "FR-PDL",
+        "local_code": "PDL",
+        "name": "Pays-de-la-Loire",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pays-de-la-Loire",
+        "keywords": ""
+    }
+}

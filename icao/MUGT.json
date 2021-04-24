@@ -1,0 +1,104 @@
+{
+    "id": "4838",
+    "ident": "MUGT",
+    "type": "medium_airport",
+    "name": "Mariana Grajales Airport",
+    "latitude_deg": "20.08530044555664",
+    "longitude_deg": "-75.1583023071289",
+    "elevation_ft": "56",
+    "continent": "NA",
+    "iso_country": "CU",
+    "iso_region": "CU-14",
+    "municipality": "Guantánamo",
+    "scheduled_service": "yes",
+    "gps_code": "MUGT",
+    "iata_code": "GAO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mariana_Grajales_Airport",
+    "keywords": "Aerodromo los Caños",
+    "runways": [
+        {
+            "id": "235422",
+            "airport_ref": "4838",
+            "airport_ident": "MUGT",
+            "length_ft": "8025",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "20.096",
+            "le_longitude_deg": "-75.1613",
+            "le_elevation_ft": "56",
+            "le_heading_degT": "166",
+            "le_displaced_threshold_ft": "151",
+            "he_ident": "35",
+            "he_latitude_deg": "20.0746",
+            "he_longitude_deg": "-75.1555",
+            "he_elevation_ft": "36",
+            "he_heading_degT": "346",
+            "he_displaced_threshold_ft": "843"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51662",
+            "airport_ref": "4838",
+            "airport_ident": "MUGT",
+            "type": "A/G",
+            "description": "GUANTANAMO RDO",
+            "frequency_mhz": "340.7"
+        },
+        {
+            "id": "51663",
+            "airport_ref": "4838",
+            "airport_ident": "MUGT",
+            "type": "TWR",
+            "description": "GUANTANAMO TWR",
+            "frequency_mhz": "122.6"
+        }
+    ],
+    "country": {
+        "id": "302732",
+        "code": "CU",
+        "name": "Cuba",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuba",
+        "keywords": "Aeropuertos de Cuba"
+    },
+    "region": {
+        "id": "303512",
+        "code": "CU-14",
+        "local_code": "14",
+        "name": "Guantánamo Province",
+        "continent": "NA",
+        "iso_country": "CU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guant%C3%A1namo_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94845",
+            "filename": "Guantanamo_NDB_CU",
+            "ident": "UGT",
+            "name": "Guantanamo",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "20.078899383544922",
+            "longitude_deg": "-75.1583023071289",
+            "elevation_ft": "",
+            "iso_country": "CU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.403",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MUGT"
+        }
+    ]
+}

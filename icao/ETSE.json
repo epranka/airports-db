@@ -1,0 +1,104 @@
+{
+    "id": "2750",
+    "ident": "ETSE",
+    "type": "closed",
+    "name": "Erding Air Base",
+    "latitude_deg": "48.3223",
+    "longitude_deg": "11.9487",
+    "elevation_ft": "1515",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Erding",
+    "scheduled_service": "no",
+    "gps_code": "ETSE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Fliegerhorst_Erding",
+    "keywords": "Fliegerhorst Erding",
+    "runways": [
+        {
+            "id": "236169",
+            "airport_ref": "2750",
+            "airport_ident": "ETSE",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "48.3202",
+            "le_longitude_deg": "11.932",
+            "le_elevation_ft": "1512",
+            "le_heading_degT": "79",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "48.3247",
+            "he_longitude_deg": "11.9653",
+            "he_elevation_ft": "1491",
+            "he_heading_degT": "259",
+            "he_displaced_threshold_ft": "3937"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52842",
+            "airport_ref": "2750",
+            "airport_ident": "ETSE",
+            "type": "ACC",
+            "description": "MUNCHEN CON",
+            "frequency_mhz": "127.95"
+        },
+        {
+            "id": "52843",
+            "airport_ref": "2750",
+            "airport_ident": "ETSE",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    },
+    "navaids": [
+        {
+            "id": "87801",
+            "filename": "Erding_TACAN_DE",
+            "ident": "ERD",
+            "name": "Erding",
+            "type": "TACAN",
+            "frequency_khz": "113600",
+            "latitude_deg": "48.324798583984375",
+            "longitude_deg": "11.952799797058105",
+            "elevation_ft": "1545",
+            "iso_country": "DE",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.011",
+            "magnetic_variation_deg": "1.443",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ETSE"
+        }
+    ]
+}

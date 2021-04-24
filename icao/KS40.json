@@ -1,0 +1,80 @@
+{
+    "id": "21005",
+    "ident": "KS40",
+    "type": "small_airport",
+    "name": "Prosser Airport",
+    "latitude_deg": "46.21340179",
+    "longitude_deg": "-119.7910004",
+    "elevation_ft": "697",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Prosser",
+    "scheduled_service": "no",
+    "gps_code": "KS40",
+    "iata_code": "",
+    "local_code": "S40",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244370",
+            "airport_ref": "21005",
+            "airport_ident": "KS40",
+            "length_ft": "3450",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "46.2134",
+            "le_longitude_deg": "-119.798",
+            "le_elevation_ft": "696",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "46.2133",
+            "he_longitude_deg": "-119.785",
+            "he_elevation_ft": "680",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67946",
+            "airport_ref": "21005",
+            "airport_ident": "KS40",
+            "type": "RDO",
+            "description": "SEATTLE",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "67947",
+            "airport_ref": "21005",
+            "airport_ident": "KS40",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    }
+}

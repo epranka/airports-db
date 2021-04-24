@@ -1,0 +1,96 @@
+{
+    "id": "26461",
+    "ident": "VASU",
+    "type": "medium_airport",
+    "name": "Surat Airport",
+    "latitude_deg": "21.1140995026",
+    "longitude_deg": "72.7417984009",
+    "elevation_ft": "16",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-GJ",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "VASU",
+    "iata_code": "STV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236641",
+            "airport_ref": "26461",
+            "airport_ident": "VASU",
+            "length_ft": "9530",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "21.1104",
+            "le_longitude_deg": "72.7382",
+            "le_elevation_ft": "",
+            "le_heading_degT": "43",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "21.1177",
+            "he_longitude_deg": "72.7454",
+            "he_elevation_ft": "",
+            "he_heading_degT": "223",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53835",
+            "airport_ref": "26461",
+            "airport_ident": "VASU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304174",
+        "code": "IN-GJ",
+        "local_code": "GJ",
+        "name": "Gujarat",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gujarat",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94024",
+            "filename": "Surat_NDB_IN",
+            "ident": "SU",
+            "name": "Surat",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "21.115699768066406",
+            "longitude_deg": "72.7426986694336",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.302",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "VASU"
+        }
+    ]
+}

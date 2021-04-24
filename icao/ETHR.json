@@ -1,0 +1,72 @@
+{
+    "id": "2728",
+    "ident": "ETHR",
+    "type": "small_airport",
+    "name": "Sonderlandeplatz Roth",
+    "latitude_deg": "49.217499",
+    "longitude_deg": "11.1002",
+    "elevation_ft": "1268",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Roth",
+    "scheduled_service": "no",
+    "gps_code": "ETSR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://bwfsg.de/flugplatz/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236119",
+            "airport_ref": "2728",
+            "airport_ident": "ETHR",
+            "length_ft": "1755",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "49.2172",
+            "le_longitude_deg": "11.0963",
+            "le_elevation_ft": "1271",
+            "le_heading_degT": "84",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "49.2177",
+            "he_longitude_deg": "11.1038",
+            "he_elevation_ft": "1266",
+            "he_heading_degT": "264",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "333998",
+            "airport_ref": "2728",
+            "airport_ident": "ETHR",
+            "type": "Info",
+            "description": "Roth Info",
+            "frequency_mhz": "123.68"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    }
+}

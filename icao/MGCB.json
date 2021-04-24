@@ -1,0 +1,72 @@
+{
+    "id": "4643",
+    "ident": "MGCB",
+    "type": "medium_airport",
+    "name": "Coban Airport",
+    "latitude_deg": "15.468999862670898",
+    "longitude_deg": "-90.40670013427734",
+    "elevation_ft": "4339",
+    "continent": "NA",
+    "iso_country": "GT",
+    "iso_region": "GT-AV",
+    "municipality": "Coban",
+    "scheduled_service": "no",
+    "gps_code": "MGCB",
+    "iata_code": "CBV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236395",
+            "airport_ref": "4643",
+            "airport_ident": "MGCB",
+            "length_ft": "3340",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "15.4651",
+            "le_longitude_deg": "-90.4092",
+            "le_elevation_ft": "",
+            "le_heading_degT": "31.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "15.4729",
+            "he_longitude_deg": "-90.4043",
+            "he_elevation_ft": "",
+            "he_heading_degT": "211.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53450",
+            "airport_ref": "4643",
+            "airport_ident": "MGCB",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302738",
+        "code": "GT",
+        "name": "Guatemala",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guatemala",
+        "keywords": "Aeropuertos de Guatemala"
+    },
+    "region": {
+        "id": "303960",
+        "code": "GT-AV",
+        "local_code": "AV",
+        "name": "Alta Verapez Department",
+        "continent": "NA",
+        "iso_country": "GT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alta_Verapez_Department",
+        "keywords": ""
+    }
+}

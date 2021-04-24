@@ -1,0 +1,72 @@
+{
+    "id": "2606",
+    "ident": "EPCH",
+    "type": "small_airport",
+    "name": "Częstochowa-Rudniki",
+    "latitude_deg": "50.884998",
+    "longitude_deg": "19.2047",
+    "elevation_ft": "860",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-SL",
+    "municipality": "Częstochowa",
+    "scheduled_service": "no",
+    "gps_code": "EPRU",
+    "iata_code": "CZW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238247",
+            "airport_ref": "2606",
+            "airport_ident": "EPCH",
+            "length_ft": "6562",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "50.8836",
+            "le_longitude_deg": "19.1892",
+            "le_elevation_ft": "",
+            "le_heading_degT": "82.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "50.8858",
+            "he_longitude_deg": "19.2173",
+            "he_elevation_ft": "",
+            "he_heading_degT": "262.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56190",
+            "airport_ref": "2606",
+            "airport_ident": "EPCH",
+            "type": "AFIS",
+            "description": "AERO",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305156",
+        "code": "PL-SL",
+        "local_code": "SL",
+        "name": "Silesia",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Silesian_Voivodship",
+        "keywords": "Śląskie"
+    }
+}

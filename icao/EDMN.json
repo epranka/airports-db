@@ -1,0 +1,80 @@
+{
+    "id": "2251",
+    "ident": "EDMN",
+    "type": "small_airport",
+    "name": "Mindelheim-Mattsies Airfield",
+    "latitude_deg": "48.106945",
+    "longitude_deg": "10.525",
+    "elevation_ft": "1857",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Mindelheim",
+    "scheduled_service": "no",
+    "gps_code": "EDMN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Mindelheim-Mattsies",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236126",
+            "airport_ref": "2251",
+            "airport_ident": "EDMN",
+            "length_ft": "3770",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "48.1135",
+            "le_longitude_deg": "10.521",
+            "le_elevation_ft": "1857",
+            "le_heading_degT": "154",
+            "le_displaced_threshold_ft": "709",
+            "he_ident": "33",
+            "he_latitude_deg": "48.1042",
+            "he_longitude_deg": "10.5277",
+            "he_elevation_ft": "1857",
+            "he_heading_degT": "334",
+            "he_displaced_threshold_ft": "689"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52750",
+            "airport_ref": "2251",
+            "airport_ident": "EDMN",
+            "type": "AFIS",
+            "description": "MUNCHEN INFO",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "52751",
+            "airport_ref": "2251",
+            "airport_ident": "EDMN",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.975"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "4989",
+    "ident": "NTGJ",
+    "type": "medium_airport",
+    "name": "Totegegie Airport",
+    "latitude_deg": "-23.07990074157715",
+    "longitude_deg": "-134.88999938964844",
+    "elevation_ft": "7",
+    "continent": "OC",
+    "iso_country": "PF",
+    "iso_region": "PF-U-A",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "NTGJ",
+    "iata_code": "GMR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Totegegie_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235796",
+            "airport_ref": "4989",
+            "airport_ident": "NTGJ",
+            "length_ft": "6562",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-23.0733",
+            "le_longitude_deg": "-134.897",
+            "le_elevation_ft": "7",
+            "le_heading_degT": "136.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-23.0864",
+            "he_longitude_deg": "-134.884",
+            "he_elevation_ft": "7",
+            "he_heading_degT": "316.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52178",
+            "airport_ref": "4989",
+            "airport_ident": "NTGJ",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302777",
+        "code": "PF",
+        "name": "French Polynesia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/French_Polynesia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305033",
+        "code": "PF-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "PF",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90901",
+            "filename": "Totegegie_NDB_PF",
+            "ident": "MG",
+            "name": "Totegegie",
+            "type": "NDB",
+            "frequency_khz": "341",
+            "latitude_deg": "-23.09040069580078",
+            "longitude_deg": "-134.875",
+            "elevation_ft": "",
+            "iso_country": "PF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.256",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "NTGJ"
+        }
+    ]
+}

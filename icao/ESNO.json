@@ -1,0 +1,96 @@
+{
+    "id": "2683",
+    "ident": "ESNO",
+    "type": "medium_airport",
+    "name": "Örnsköldsvik Airport",
+    "latitude_deg": "63.40829849243164",
+    "longitude_deg": "18.989999771118164",
+    "elevation_ft": "354",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Y",
+    "municipality": "Örnsköldsvik",
+    "scheduled_service": "yes",
+    "gps_code": "ESNO",
+    "iata_code": "OER",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/%C3%96rnsk%C3%B6ldsvik_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238996",
+            "airport_ref": "2683",
+            "airport_ident": "ESNO",
+            "length_ft": "6607",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "63.414",
+            "le_longitude_deg": "18.9711",
+            "le_elevation_ft": "353",
+            "le_heading_degT": "122",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "63.4045",
+            "he_longitude_deg": "19.0054",
+            "he_elevation_ft": "331",
+            "he_heading_degT": "302",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57414",
+            "airport_ref": "2683",
+            "airport_ident": "ESNO",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "122.25"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305431",
+        "code": "SE-Y",
+        "local_code": "Y",
+        "name": "Västernorrlands län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västernorrlands_län",
+        "keywords": "Västernorrland County"
+    },
+    "navaids": [
+        {
+            "id": "92119",
+            "filename": "Ornskoldsvik_VOR-DME_SE",
+            "ident": "OSK",
+            "name": "Ornskoldsvik",
+            "type": "VOR-DME",
+            "frequency_khz": "115000",
+            "latitude_deg": "63.40610122680664",
+            "longitude_deg": "18.993600845336914",
+            "elevation_ft": "351",
+            "iso_country": "SE",
+            "dme_frequency_khz": "115000",
+            "dme_channel": "097X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.001",
+            "magnetic_variation_deg": "5.134",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "ESNO"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "20951",
+    "ident": "KROX",
+    "type": "small_airport",
+    "name": "Roseau Municipal Rudy Billberg Field",
+    "latitude_deg": "48.85599899",
+    "longitude_deg": "-95.6969986",
+    "elevation_ft": "1060",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Roseau",
+    "scheduled_service": "no",
+    "gps_code": "KROX",
+    "iata_code": "ROX",
+    "local_code": "ROX",
+    "home_link": "http://www.city.roseau.mn.us/index.asp?Type=B_BASIC&SEC=%7BAE9D09FA-04AA-46A5-AD2E-2F95D91128A2%7D",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244492",
+            "airport_ref": "20951",
+            "airport_ident": "KROX",
+            "length_ft": "2504",
+            "width_ft": "250",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "48.8519",
+            "le_longitude_deg": "-95.7",
+            "le_elevation_ft": "1059",
+            "le_heading_degT": "69",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "48.8544",
+            "he_longitude_deg": "-95.6903",
+            "he_elevation_ft": "1059",
+            "he_heading_degT": "249",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244493",
+            "airport_ref": "20951",
+            "airport_ident": "KROX",
+            "length_ft": "4400",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "48.8635",
+            "le_longitude_deg": "-95.7",
+            "le_elevation_ft": "1059",
+            "le_heading_degT": "167",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "48.8517",
+            "he_longitude_deg": "-95.696",
+            "he_elevation_ft": "1058",
+            "he_heading_degT": "347",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68210",
+            "airport_ref": "20951",
+            "airport_ident": "KROX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "108.8"
+        },
+        {
+            "id": "68211",
+            "airport_ref": "20951",
+            "airport_ident": "KROX",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "134.75"
+        },
+        {
+            "id": "68212",
+            "airport_ref": "20951",
+            "airport_ident": "KROX",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "68213",
+            "airport_ref": "20951",
+            "airport_ident": "KROX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "5985",
+    "ident": "SBTL",
+    "type": "medium_airport",
+    "name": "Telêmaco Borba Airport",
+    "latitude_deg": "-24.317801",
+    "longitude_deg": "-50.6516",
+    "elevation_ft": "2610",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Telêmaco Borba",
+    "scheduled_service": "no",
+    "gps_code": "SSVL",
+    "iata_code": "TEC",
+    "local_code": "PR0007",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SBTL",
+    "runways": [
+        {
+            "id": "234367",
+            "airport_ref": "5985",
+            "airport_ident": "SBTL",
+            "length_ft": "5906",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "2",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49841",
+            "airport_ref": "5985",
+            "airport_ident": "SBTL",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "131.6"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303216",
+        "code": "BR-PR",
+        "local_code": "PR",
+        "name": "Paraná",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94426",
+            "filename": "Telemaco_NDB_BR",
+            "ident": "TLB",
+            "name": "Telemaco",
+            "type": "NDB",
+            "frequency_khz": "285",
+            "latitude_deg": "-24.319000244140625",
+            "longitude_deg": "-50.653499603271484",
+            "elevation_ft": "2610",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.222",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBTL"
+        }
+    ]
+}

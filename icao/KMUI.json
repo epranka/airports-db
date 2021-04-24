@@ -1,0 +1,136 @@
+{
+    "id": "3714",
+    "ident": "KMUI",
+    "type": "medium_airport",
+    "name": "Muir Army Air Field (Fort Indiantown Gap) Airport",
+    "latitude_deg": "40.434799",
+    "longitude_deg": "-76.569397",
+    "elevation_ft": "488",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Fort Indiantown Gap(Annville)",
+    "scheduled_service": "no",
+    "gps_code": "KMUI",
+    "iata_code": "MUI",
+    "local_code": "MUI",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Muir_Army_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244946",
+            "airport_ref": "3714",
+            "airport_ident": "KMUI",
+            "length_ft": "3967",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "40.4325",
+            "le_longitude_deg": "-76.5751",
+            "le_elevation_ft": "489",
+            "le_heading_degT": "59.6",
+            "le_displaced_threshold_ft": "400",
+            "he_ident": "25",
+            "he_latitude_deg": "40.438",
+            "he_longitude_deg": "-76.5628",
+            "he_elevation_ft": "489",
+            "he_heading_degT": "239.6",
+            "he_displaced_threshold_ft": "100"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69238",
+            "airport_ref": "3714",
+            "airport_ident": "KMUI",
+            "type": "A/D",
+            "description": "HARRISBURG APP/DEP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "69239",
+            "airport_ref": "3714",
+            "airport_ident": "KMUI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "69240",
+            "airport_ref": "3714",
+            "airport_ident": "KMUI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.625"
+        },
+        {
+            "id": "69241",
+            "airport_ref": "3714",
+            "airport_ident": "KMUI",
+            "type": "MISC",
+            "description": "FLT FLW",
+            "frequency_mhz": "40.9"
+        },
+        {
+            "id": "69242",
+            "airport_ref": "3714",
+            "airport_ident": "KMUI",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "49.95"
+        },
+        {
+            "id": "69243",
+            "airport_ref": "3714",
+            "airport_ident": "KMUI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86521",
+            "filename": "Bellgrove_NDB_US",
+            "ident": "BZJ",
+            "name": "Bellgrove",
+            "type": "NDB",
+            "frequency_khz": "328",
+            "latitude_deg": "40.4359016418457",
+            "longitude_deg": "-76.5530014038086",
+            "elevation_ft": "518",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.285",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMUI"
+        }
+    ]
+}

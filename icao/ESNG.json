@@ -1,0 +1,96 @@
+{
+    "id": "2676",
+    "ident": "ESNG",
+    "type": "medium_airport",
+    "name": "Gällivare Airport",
+    "latitude_deg": "67.13240051269531",
+    "longitude_deg": "20.814599990844727",
+    "elevation_ft": "1027",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-BD",
+    "municipality": "Gällivare",
+    "scheduled_service": "yes",
+    "gps_code": "ESNG",
+    "iata_code": "GEV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/G%C3%A4llivare_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239016",
+            "airport_ref": "2676",
+            "airport_ident": "ESNG",
+            "length_ft": "5623",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "67.136",
+            "le_longitude_deg": "20.7972",
+            "le_elevation_ft": "1027",
+            "le_heading_degT": "117.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "67.1288",
+            "he_longitude_deg": "20.8321",
+            "he_elevation_ft": "970",
+            "he_heading_degT": "298",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57441",
+            "airport_ref": "2676",
+            "airport_ident": "ESNG",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305413",
+        "code": "SE-BD",
+        "local_code": "BD",
+        "name": "Norrbottena län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norrbottena_län",
+        "keywords": "Norrbotten County"
+    },
+    "navaids": [
+        {
+            "id": "91925",
+            "filename": "Gallivare_NDB_SE",
+            "ident": "OG",
+            "name": "Gallivare",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "67.10389709472656",
+            "longitude_deg": "20.95199966430664",
+            "elevation_ft": "",
+            "iso_country": "SE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.542",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ESNG"
+        }
+    ]
+}

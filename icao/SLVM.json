@@ -1,0 +1,104 @@
+{
+    "id": "6192",
+    "ident": "SLVM",
+    "type": "medium_airport",
+    "name": "Teniente Coronel Rafael Pabón Airport",
+    "latitude_deg": "-21.255199432399998",
+    "longitude_deg": "-63.4056015015",
+    "elevation_ft": "1305",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-T",
+    "municipality": "Villamontes",
+    "scheduled_service": "no",
+    "gps_code": "SLVM",
+    "iata_code": "VLM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tcnl._Rafael_Pab%C3%B3n_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233707",
+            "airport_ref": "6192",
+            "airport_ident": "SLVM",
+            "length_ft": "4918",
+            "width_ft": "115",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-21.2479",
+            "le_longitude_deg": "-63.4062",
+            "le_elevation_ft": "",
+            "le_heading_degT": "175.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-21.2614",
+            "he_longitude_deg": "-63.405",
+            "he_elevation_ft": "",
+            "he_heading_degT": "355.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49490",
+            "airport_ref": "6192",
+            "airport_ident": "SLVM",
+            "type": "RDO",
+            "description": "VILLAMONTES RDO",
+            "frequency_mhz": "662.2"
+        },
+        {
+            "id": "49491",
+            "airport_ref": "6192",
+            "airport_ident": "SLVM",
+            "type": "TWR",
+            "description": "VILLAMONTES TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302790",
+        "code": "BO",
+        "name": "Bolivia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolivia",
+        "keywords": "Aeropuertos de Bolivia"
+    },
+    "region": {
+        "id": "303197",
+        "code": "BO-T",
+        "local_code": "T",
+        "name": "Tarija Department",
+        "continent": "SA",
+        "iso_country": "BO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tarija_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95313",
+            "filename": "Villamontes_NDB_BO",
+            "ident": "VTS",
+            "name": "Villamontes",
+            "type": "NDB",
+            "frequency_khz": "219",
+            "latitude_deg": "-21.25469970703125",
+            "longitude_deg": "-63.406700134277344",
+            "elevation_ft": "1305",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.212",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SLVM"
+        }
+    ]
+}

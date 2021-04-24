@@ -1,0 +1,220 @@
+{
+    "id": "3920",
+    "ident": "KTEB",
+    "type": "medium_airport",
+    "name": "Teterboro Airport",
+    "latitude_deg": "40.85010147089999",
+    "longitude_deg": "-74.060798645",
+    "elevation_ft": "9",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Teterboro",
+    "scheduled_service": "no",
+    "gps_code": "KTEB",
+    "iata_code": "TEB",
+    "local_code": "TEB",
+    "home_link": "http://www.teb.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Teterboro_Airport",
+    "keywords": "Manhattan, New York City, NYC",
+    "runways": [
+        {
+            "id": "242706",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "length_ft": "7000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "40.8387",
+            "le_longitude_deg": "-74.0604",
+            "le_elevation_ft": "9",
+            "le_heading_degT": "3.2",
+            "le_displaced_threshold_ft": "771",
+            "he_ident": "19",
+            "he_latitude_deg": "40.8579",
+            "he_longitude_deg": "-74.059",
+            "he_elevation_ft": "7",
+            "he_heading_degT": "183.2",
+            "he_displaced_threshold_ft": "770"
+        },
+        {
+            "id": "242707",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "length_ft": "6013",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "40.8467",
+            "le_longitude_deg": "-74.0703",
+            "le_elevation_ft": "6",
+            "le_heading_degT": "48",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "40.8577",
+            "he_longitude_deg": "-74.0541",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "228",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64470",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "APP",
+            "description": "New York Approach",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "64471",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.025"
+        },
+        {
+            "id": "64472",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "CLD",
+            "description": "Teterboro Clearance",
+            "frequency_mhz": "128.05"
+        },
+        {
+            "id": "64473",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "DEP",
+            "description": "New York Departures, alternate frequency",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "75208",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "DEP",
+            "description": "New York Departures",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "64474",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "GND",
+            "description": "Teterboro Ground",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "64475",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "OPS",
+            "description": "ARPT OPS",
+            "frequency_mhz": "130.575"
+        },
+        {
+            "id": "64476",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "RDO",
+            "description": "Millville Radio, alternate frequency",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "75207",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "RDO",
+            "description": "Millville Radio",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "64477",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "TWR",
+            "description": "Teterboro Tower",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "75209",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "TWR",
+            "description": "Teterboro Tower, alternate frequency",
+            "frequency_mhz": "125.1"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94281",
+            "filename": "Torby_NDB_US",
+            "ident": "TE",
+            "name": "Torby",
+            "type": "NDB",
+            "frequency_khz": "214",
+            "latitude_deg": "40.80440139770508",
+            "longitude_deg": "-74.13249969482422",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.086",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KTEB"
+        },
+        {
+            "id": "94285",
+            "filename": "Teterboro_VOR-DME_US",
+            "ident": "TEB",
+            "name": "Teterboro",
+            "type": "VOR-DME",
+            "frequency_khz": "108400",
+            "latitude_deg": "40.84870147705078",
+            "longitude_deg": "-74.06220245361328",
+            "elevation_ft": "10",
+            "iso_country": "US",
+            "dme_frequency_khz": "108400",
+            "dme_channel": "021X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.001",
+            "magnetic_variation_deg": "-13.12",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KTEB"
+        }
+    ]
+}

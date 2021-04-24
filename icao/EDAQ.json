@@ -1,0 +1,88 @@
+{
+    "id": "2190",
+    "ident": "EDAQ",
+    "type": "small_airport",
+    "name": "Flugplatz Halle-Oppin",
+    "latitude_deg": "51.552223",
+    "longitude_deg": "12.053889",
+    "elevation_ft": "348",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-ST",
+    "municipality": "Oppin",
+    "scheduled_service": "no",
+    "gps_code": "EDAQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.flugplatz-halle-oppin.de/",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Halle-Oppin",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236124",
+            "airport_ref": "2190",
+            "airport_ident": "EDAQ",
+            "length_ft": "3675",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "51.5541",
+            "le_longitude_deg": "12.0453",
+            "le_elevation_ft": "347",
+            "le_heading_degT": "114.3",
+            "le_displaced_threshold_ft": "197",
+            "he_ident": "29",
+            "he_latitude_deg": "51.5499",
+            "he_longitude_deg": "12.06",
+            "he_elevation_ft": "347",
+            "he_heading_degT": "294.3",
+            "he_displaced_threshold_ft": "197"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52743",
+            "airport_ref": "2190",
+            "airport_ident": "EDAQ",
+            "type": "AAS",
+            "description": "München Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "52744",
+            "airport_ref": "2190",
+            "airport_ident": "EDAQ",
+            "type": "INFO",
+            "description": "OPPIN INFO",
+            "frequency_mhz": "135.15"
+        },
+        {
+            "id": "52745",
+            "airport_ref": "2190",
+            "airport_ident": "EDAQ",
+            "type": "RDR",
+            "description": "BERLIN RADAR",
+            "frequency_mhz": "124.175"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303561",
+        "code": "DE-ST",
+        "local_code": "ST",
+        "name": "Saxony-Anhalt",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony-Anhalt",
+        "keywords": "Sachsen-Anhalt"
+    }
+}

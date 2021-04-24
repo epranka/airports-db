@@ -1,0 +1,104 @@
+{
+    "id": "1552",
+    "ident": "CSR3",
+    "type": "small_airport",
+    "name": "Victoriaville Airport",
+    "latitude_deg": "46.11280059814453",
+    "longitude_deg": "-71.92890167236328",
+    "elevation_ft": "486",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Victoriaville",
+    "scheduled_service": "no",
+    "gps_code": "CSR3",
+    "iata_code": "",
+    "local_code": "CSR3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Victoriaville_Airport",
+    "keywords": "SR3",
+    "runways": [
+        {
+            "id": "235057",
+            "airport_ref": "1552",
+            "airport_ident": "CSR3",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "46.1089",
+            "le_longitude_deg": "-71.9344",
+            "le_elevation_ft": "470",
+            "le_heading_degT": "44.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "46.1167",
+            "he_longitude_deg": "-71.9233",
+            "he_elevation_ft": "486",
+            "he_heading_degT": "224.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50972",
+            "airport_ref": "1552",
+            "airport_ident": "CSR3",
+            "type": "A/D",
+            "description": "MONTREAL CNTR",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "50973",
+            "airport_ref": "1552",
+            "airport_ident": "CSR3",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    },
+    "navaids": [
+        {
+            "id": "87913",
+            "filename": "Victoriaville_NDB_CA",
+            "ident": "F8",
+            "name": "Victoriaville",
+            "type": "NDB",
+            "frequency_khz": "384",
+            "latitude_deg": "46.110599517822266",
+            "longitude_deg": "-71.9271011352539",
+            "elevation_ft": "486",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.247",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CSR3"
+        }
+    ]
+}

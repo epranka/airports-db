@@ -1,0 +1,150 @@
+{
+    "id": "21333",
+    "ident": "KVNY",
+    "type": "medium_airport",
+    "name": "Van Nuys Airport",
+    "latitude_deg": "34.209800720215",
+    "longitude_deg": "-118.48999786377",
+    "elevation_ft": "802",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Van Nuys",
+    "scheduled_service": "no",
+    "gps_code": "KVNY",
+    "iata_code": "VNY",
+    "local_code": "VNY",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Van_Nuys_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243931",
+            "airport_ref": "21333",
+            "airport_ident": "KVNY",
+            "length_ft": "4011",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16L",
+            "le_latitude_deg": "34.219",
+            "le_longitude_deg": "-118.49",
+            "le_elevation_ft": "791",
+            "le_heading_degT": "175.5",
+            "le_displaced_threshold_ft": "1431",
+            "he_ident": "34R",
+            "he_latitude_deg": "34.208",
+            "he_longitude_deg": "-118.489",
+            "he_elevation_ft": "772",
+            "he_heading_degT": "355.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243930",
+            "airport_ref": "21333",
+            "airport_ident": "KVNY",
+            "length_ft": "8001",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16R",
+            "le_latitude_deg": "34.2189",
+            "le_longitude_deg": "-118.491",
+            "le_elevation_ft": "793",
+            "le_heading_degT": "175.5",
+            "le_displaced_threshold_ft": "1431",
+            "he_ident": "34L",
+            "he_latitude_deg": "34.197",
+            "he_longitude_deg": "-118.489",
+            "he_elevation_ft": "746",
+            "he_heading_degT": "355.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67055",
+            "airport_ref": "21333",
+            "airport_ident": "KVNY",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "67056",
+            "airport_ref": "21333",
+            "airport_ident": "KVNY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.45"
+        },
+        {
+            "id": "67057",
+            "airport_ref": "21333",
+            "airport_ident": "KVNY",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126.6"
+        },
+        {
+            "id": "67058",
+            "airport_ref": "21333",
+            "airport_ident": "KVNY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "67059",
+            "airport_ref": "21333",
+            "airport_ident": "KVNY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "67060",
+            "airport_ref": "21333",
+            "airport_ident": "KVNY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "310489",
+            "airport_ref": "21333",
+            "airport_ident": "KVNY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "67061",
+            "airport_ref": "21333",
+            "airport_ident": "KVNY",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

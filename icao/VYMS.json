@@ -1,0 +1,96 @@
+{
+    "id": "26732",
+    "ident": "VYMS",
+    "type": "medium_airport",
+    "name": "Mong Hsat Airport",
+    "latitude_deg": "20.516799926757812",
+    "longitude_deg": "99.25679779052734",
+    "elevation_ft": "1875",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-17",
+    "municipality": "Mong Hsat",
+    "scheduled_service": "yes",
+    "gps_code": "VYMS",
+    "iata_code": "MOG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Monghsat_Airport",
+    "keywords": "Monghsat Airport",
+    "runways": [
+        {
+            "id": "233741",
+            "airport_ref": "26732",
+            "airport_ident": "VYMS",
+            "length_ft": "5000",
+            "width_ft": "102",
+            "surface": "BIT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "20.5205",
+            "le_longitude_deg": "99.2507",
+            "le_elevation_ft": "",
+            "le_heading_degT": "123",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "20.513",
+            "he_longitude_deg": "99.263",
+            "he_elevation_ft": "",
+            "he_heading_degT": "303",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49532",
+            "airport_ref": "26732",
+            "airport_ident": "VYMS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302649",
+        "code": "MM",
+        "name": "Burma",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
+        "keywords": "Myanmar"
+    },
+    "region": {
+        "id": "304679",
+        "code": "MM-17",
+        "local_code": "17",
+        "name": "Shan State",
+        "continent": "AS",
+        "iso_country": "MM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shan_State",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91259",
+            "filename": "Mong_Hsat_NDB_MM",
+            "ident": "MS",
+            "name": "Mong Hsat",
+            "type": "NDB",
+            "frequency_khz": "312",
+            "latitude_deg": "20.534400939941406",
+            "longitude_deg": "99.26270294189453",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.474",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VYMS"
+        }
+    ]
+}

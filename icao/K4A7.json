@@ -1,0 +1,96 @@
+{
+    "id": "18805",
+    "ident": "K4A7",
+    "type": "small_airport",
+    "name": "Atlanta Speedway Airport",
+    "latitude_deg": "33.389099",
+    "longitude_deg": "-84.332397",
+    "elevation_ft": "882",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Hampton",
+    "scheduled_service": "no",
+    "gps_code": "KHMP",
+    "iata_code": "",
+    "local_code": "HMP",
+    "home_link": "http://www.co.henry.ga.us/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clayton_County_Airport_-_Tara_Field",
+    "keywords": "Henry County Airport, 4A7, Atlanta South Regional Airport, Clayton County Airport – Tara Field, Bear Creek Airport",
+    "runways": [
+        {
+            "id": "240422",
+            "airport_ref": "18805",
+            "airport_ident": "K4A7",
+            "length_ft": "5500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "33.3855",
+            "le_longitude_deg": "-84.3384",
+            "le_elevation_ft": "852",
+            "le_heading_degT": "54",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "33.3943",
+            "he_longitude_deg": "-84.3237",
+            "he_elevation_ft": "882",
+            "he_heading_degT": "234",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59936",
+            "airport_ref": "18805",
+            "airport_ident": "K4A7",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "59937",
+            "airport_ref": "18805",
+            "airport_ident": "K4A7",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "124.825"
+        },
+        {
+            "id": "59938",
+            "airport_ref": "18805",
+            "airport_ident": "K4A7",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "59939",
+            "airport_ref": "18805",
+            "airport_ident": "K4A7",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.725"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

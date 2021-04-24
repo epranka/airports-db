@@ -1,0 +1,120 @@
+{
+    "id": "6379",
+    "ident": "TJBQ",
+    "type": "medium_airport",
+    "name": "Rafael Hernandez Airport",
+    "latitude_deg": "18.49489974975586",
+    "longitude_deg": "-67.12940216064453",
+    "elevation_ft": "237",
+    "continent": "NA",
+    "iso_country": "PR",
+    "iso_region": "PR-U-A",
+    "municipality": "Aguadilla",
+    "scheduled_service": "yes",
+    "gps_code": "TJBQ",
+    "iata_code": "BQN",
+    "local_code": "BQN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rafael_Hern%C3%A1ndez_Airport",
+    "keywords": "Ramey, TJFF",
+    "runways": [
+        {
+            "id": "238495",
+            "airport_ref": "6379",
+            "airport_ident": "TJBQ",
+            "length_ft": "11702",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "18.49",
+            "le_longitude_deg": "-67.1454",
+            "le_elevation_ft": "237",
+            "le_heading_degT": "72",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "18.4997",
+            "he_longitude_deg": "-67.1131",
+            "he_elevation_ft": "194",
+            "he_heading_degT": "252",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56582",
+            "airport_ref": "6379",
+            "airport_ident": "TJBQ",
+            "type": "A/D",
+            "description": "SAN JUAN CNTR",
+            "frequency_mhz": "135.7"
+        },
+        {
+            "id": "56583",
+            "airport_ref": "6379",
+            "airport_ident": "TJBQ",
+            "type": "MISC",
+            "description": "AIR CG",
+            "frequency_mhz": "34.5"
+        },
+        {
+            "id": "56584",
+            "airport_ref": "6379",
+            "airport_ident": "TJBQ",
+            "type": "RDO",
+            "description": "SAN JUAN RDO",
+            "frequency_mhz": "113.5"
+        },
+        {
+            "id": "56585",
+            "airport_ref": "6379",
+            "airport_ident": "TJBQ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302751",
+        "code": "PR",
+        "name": "Puerto Rico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Puerto_Rico",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305165",
+        "code": "PR-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "PR",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86285",
+            "filename": "Borinquen_VORTAC_PR",
+            "ident": "BQN",
+            "name": "Borinquen",
+            "type": "VORTAC",
+            "frequency_khz": "113500",
+            "latitude_deg": "18.49799919128418",
+            "longitude_deg": "-67.1083984375",
+            "elevation_ft": "214",
+            "iso_country": "PR",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.01",
+            "magnetic_variation_deg": "-12.045",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "TJBQ"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "id": "26666",
+    "ident": "VTSC",
+    "type": "medium_airport",
+    "name": "Narathiwat Airport",
+    "latitude_deg": "6.5199198722839355",
+    "longitude_deg": "101.74299621582031",
+    "elevation_ft": "16",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-96",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "VTSC",
+    "iata_code": "NAW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Narathiwat_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239182",
+            "airport_ref": "26666",
+            "airport_ident": "VTSC",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "6.51161",
+            "le_longitude_deg": "101.74",
+            "le_elevation_ft": "18",
+            "le_heading_degT": "23",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "6.52823",
+            "he_longitude_deg": "101.747",
+            "he_elevation_ft": "18",
+            "he_heading_degT": "203",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57730",
+            "airport_ref": "26666",
+            "airport_ident": "VTSC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.55"
+        },
+        {
+            "id": "57731",
+            "airport_ref": "26666",
+            "airport_ident": "VTSC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "38.3"
+        },
+        {
+            "id": "57732",
+            "airport_ref": "26666",
+            "airport_ident": "VTSC",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "657.7"
+        },
+        {
+            "id": "57733",
+            "airport_ref": "26666",
+            "airport_ident": "VTSC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305782",
+        "code": "TH-96",
+        "local_code": "96",
+        "name": "Narathiwat Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Narathiwat",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91736",
+            "filename": "Narathiwat_NDB_TH",
+            "ident": "NT",
+            "name": "Narathiwat",
+            "type": "NDB",
+            "frequency_khz": "383",
+            "latitude_deg": "6.522389888763428",
+            "longitude_deg": "101.7490005493164",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.111",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTSC"
+        },
+        {
+            "id": "91749",
+            "filename": "Narathiwat_VOR-DME_TH",
+            "ident": "NTW",
+            "name": "Narathiwat",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "6.527289867401123",
+            "longitude_deg": "101.74500274658203",
+            "elevation_ft": "18",
+            "iso_country": "TH",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.111",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTSC"
+        }
+    ]
+}

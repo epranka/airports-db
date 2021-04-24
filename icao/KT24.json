@@ -1,0 +1,80 @@
+{
+    "id": "21143",
+    "ident": "KT24",
+    "type": "small_airport",
+    "name": "Pineland Municipal Airport",
+    "latitude_deg": "31.23349952697754",
+    "longitude_deg": "-93.98190307617188",
+    "elevation_ft": "260",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Pineland",
+    "scheduled_service": "no",
+    "gps_code": "KT24",
+    "iata_code": "",
+    "local_code": "T24",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245533",
+            "airport_ref": "21143",
+            "airport_ident": "KT24",
+            "length_ft": "3700",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "31.2386",
+            "le_longitude_deg": "-93.9819",
+            "le_elevation_ft": "260",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "31.2286",
+            "he_longitude_deg": "-93.9819",
+            "he_elevation_ft": "",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70525",
+            "airport_ref": "21143",
+            "airport_ident": "KT24",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "126.625"
+        },
+        {
+            "id": "70526",
+            "airport_ref": "21143",
+            "airport_ident": "KT24",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

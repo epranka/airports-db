@@ -1,0 +1,88 @@
+{
+    "id": "19765",
+    "ident": "KEPM",
+    "type": "small_airport",
+    "name": "Eastport Municipal Airport",
+    "latitude_deg": "44.910099029541016",
+    "longitude_deg": "-67.01270294189453",
+    "elevation_ft": "45",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Eastport",
+    "scheduled_service": "no",
+    "gps_code": "KEPM",
+    "iata_code": "",
+    "local_code": "EPM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243245",
+            "airport_ref": "19765",
+            "airport_ident": "KEPM",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "44.9134",
+            "le_longitude_deg": "-67.0189",
+            "le_elevation_ft": "35",
+            "le_heading_degT": "127",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "44.9069",
+            "he_longitude_deg": "-67.0065",
+            "he_elevation_ft": "45",
+            "he_heading_degT": "307",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65566",
+            "airport_ref": "19765",
+            "airport_ident": "KEPM",
+            "type": "AWOS",
+            "description": "AWOS A",
+            "frequency_mhz": "26"
+        },
+        {
+            "id": "65567",
+            "airport_ref": "19765",
+            "airport_ident": "KEPM",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "124.25"
+        },
+        {
+            "id": "65568",
+            "airport_ref": "19765",
+            "airport_ident": "KEPM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306097",
+        "code": "US-ME",
+        "local_code": "ME",
+        "name": "Maine",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
+        "keywords": ""
+    }
+}

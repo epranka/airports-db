@@ -1,0 +1,166 @@
+{
+    "id": "2476",
+    "ident": "EGSS",
+    "type": "large_airport",
+    "name": "London Stansted Airport",
+    "latitude_deg": "51.8849983215",
+    "longitude_deg": "0.234999999404",
+    "elevation_ft": "348",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "London",
+    "scheduled_service": "yes",
+    "gps_code": "EGSS",
+    "iata_code": "STN",
+    "local_code": "",
+    "home_link": "http://www.stanstedairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/London_Stansted_Airport",
+    "keywords": "LON",
+    "runways": [
+        {
+            "id": "239531",
+            "airport_ref": "2476",
+            "airport_ident": "EGSS",
+            "length_ft": "10003",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "51.8751",
+            "le_longitude_deg": "0.219925",
+            "le_elevation_ft": "324",
+            "le_heading_degT": "44",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "51.8952",
+            "he_longitude_deg": "0.250044",
+            "he_elevation_ft": "348",
+            "he_heading_degT": "224",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58385",
+            "airport_ref": "2476",
+            "airport_ident": "EGSS",
+            "type": "APP",
+            "description": "Essex Radar",
+            "frequency_mhz": "120.625"
+        },
+        {
+            "id": "58386",
+            "airport_ref": "2476",
+            "airport_ident": "EGSS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.175"
+        },
+        {
+            "id": "58387",
+            "airport_ref": "2476",
+            "airport_ident": "EGSS",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "58388",
+            "airport_ref": "2476",
+            "airport_ident": "EGSS",
+            "type": "DIR",
+            "description": "DIRECTOR",
+            "frequency_mhz": "136.2"
+        },
+        {
+            "id": "58389",
+            "airport_ref": "2476",
+            "airport_ident": "EGSS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.725"
+        },
+        {
+            "id": "307872",
+            "airport_ref": "2476",
+            "airport_ident": "EGSS",
+            "type": "RDR",
+            "description": "Director",
+            "frequency_mhz": "136.2"
+        },
+        {
+            "id": "58390",
+            "airport_ref": "2476",
+            "airport_ident": "EGSS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.8"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86120",
+            "filename": "Barkway_VOR-DME_GB",
+            "ident": "BKY",
+            "name": "Barkway",
+            "type": "VOR-DME",
+            "frequency_khz": "116250",
+            "latitude_deg": "51.98970031738281",
+            "longitude_deg": "0.06194400042295456",
+            "elevation_ft": "486",
+            "iso_country": "GB",
+            "dme_frequency_khz": "116250",
+            "dme_channel": "109Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.001",
+            "magnetic_variation_deg": "-2.17",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGSS"
+        },
+        {
+            "id": "93948",
+            "filename": "Stansted_NDB_GB",
+            "ident": "SSD",
+            "name": "Stansted",
+            "type": "NDB",
+            "frequency_khz": "429",
+            "latitude_deg": "51.89459991455078",
+            "longitude_deg": "0.24503099918365479",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.12",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "EGSS"
+        }
+    ]
+}

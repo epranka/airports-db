@@ -1,0 +1,142 @@
+{
+    "id": "3590",
+    "ident": "KHQM",
+    "type": "medium_airport",
+    "name": "Bowerman Airport",
+    "latitude_deg": "46.971199035599994",
+    "longitude_deg": "-123.93699646",
+    "elevation_ft": "18",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Hoquiam",
+    "scheduled_service": "no",
+    "gps_code": "KHQM",
+    "iata_code": "HQM",
+    "local_code": "HQM",
+    "home_link": "http://www.portofgraysharbor.com/airport/airport.php",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bowerman_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242817",
+            "airport_ref": "3590",
+            "airport_ident": "KHQM",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "46.97",
+            "le_longitude_deg": "-123.946",
+            "le_elevation_ft": "18",
+            "le_heading_degT": "80",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "46.9724",
+            "he_longitude_deg": "-123.927",
+            "he_elevation_ft": "15",
+            "he_heading_degT": "260",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64697",
+            "airport_ref": "3590",
+            "airport_ident": "KHQM",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.775"
+        },
+        {
+            "id": "64698",
+            "airport_ref": "3590",
+            "airport_ident": "KHQM",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "128.3"
+        },
+        {
+            "id": "64699",
+            "airport_ref": "3590",
+            "airport_ident": "KHQM",
+            "type": "RDO",
+            "description": "SEATTLE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "64700",
+            "airport_ref": "3590",
+            "airport_ident": "KHQM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88979",
+            "filename": "Abern_NDB_US",
+            "ident": "HQ",
+            "name": "Abern",
+            "type": "NDB",
+            "frequency_khz": "236",
+            "latitude_deg": "46.987701416015625",
+            "longitude_deg": "-123.7979965209961",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.439",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KHQM"
+        },
+        {
+            "id": "88981",
+            "filename": "Hoquiam_VORTAC_US",
+            "ident": "HQM",
+            "name": "Hoquiam",
+            "type": "VORTAC",
+            "frequency_khz": "117700",
+            "latitude_deg": "46.946998596191406",
+            "longitude_deg": "-124.14900207519531",
+            "elevation_ft": "10",
+            "iso_country": "US",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "19.001",
+            "magnetic_variation_deg": "17.465",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KHQM"
+        }
+    ]
+}

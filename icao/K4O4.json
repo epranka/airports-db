@@ -1,0 +1,88 @@
+{
+    "id": "18840",
+    "ident": "K4O4",
+    "type": "small_airport",
+    "name": "McCurtain County Regional Airport",
+    "latitude_deg": "33.909401",
+    "longitude_deg": "-94.859398",
+    "elevation_ft": "472",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Idabel",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "4O4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239991",
+            "airport_ref": "18840",
+            "airport_ident": "K4O4",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "33.903",
+            "le_longitude_deg": "-94.8626",
+            "le_elevation_ft": "472",
+            "le_heading_degT": "23.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "33.9157",
+            "he_longitude_deg": "-94.8561",
+            "he_elevation_ft": "460",
+            "he_heading_degT": "203.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59305",
+            "airport_ref": "18840",
+            "airport_ident": "K4O4",
+            "type": "A/D",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "123.925"
+        },
+        {
+            "id": "59306",
+            "airport_ref": "18840",
+            "airport_ident": "K4O4",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "59307",
+            "airport_ref": "18840",
+            "airport_ident": "K4O4",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

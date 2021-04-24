@@ -1,0 +1,118 @@
+{
+    "id": "20809",
+    "ident": "KPBH",
+    "type": "small_airport",
+    "name": "Price County Airport",
+    "latitude_deg": "45.70899963378906",
+    "longitude_deg": "-90.40249633789062",
+    "elevation_ft": "1497",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Phillips",
+    "scheduled_service": "no",
+    "gps_code": "KPBH",
+    "iata_code": "",
+    "local_code": "PBH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242825",
+            "airport_ref": "20809",
+            "airport_ident": "KPBH",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "45.7049",
+            "le_longitude_deg": "-90.4034",
+            "le_elevation_ft": "1465",
+            "le_heading_degT": "8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "45.7185",
+            "he_longitude_deg": "-90.401",
+            "he_elevation_ft": "1497",
+            "he_heading_degT": "188",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242826",
+            "airport_ref": "20809",
+            "airport_ident": "KPBH",
+            "length_ft": "3950",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "45.7027",
+            "le_longitude_deg": "-90.4095",
+            "le_elevation_ft": "1465",
+            "le_heading_degT": "59",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "45.7083",
+            "he_longitude_deg": "-90.3963",
+            "he_elevation_ft": "1471",
+            "he_heading_degT": "239",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64723",
+            "airport_ref": "20809",
+            "airport_ident": "KPBH",
+            "type": "A/D",
+            "description": "MINNEAPOLIS APP/DEP",
+            "frequency_mhz": "133.65"
+        },
+        {
+            "id": "64724",
+            "airport_ref": "20809",
+            "airport_ident": "KPBH",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "125.875"
+        },
+        {
+            "id": "64725",
+            "airport_ref": "20809",
+            "airport_ident": "KPBH",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "64726",
+            "airport_ref": "20809",
+            "airport_ident": "KPBH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

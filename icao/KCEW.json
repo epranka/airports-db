@@ -1,0 +1,120 @@
+{
+    "id": "3445",
+    "ident": "KCEW",
+    "type": "medium_airport",
+    "name": "Bob Sikes Airport",
+    "latitude_deg": "30.778799057",
+    "longitude_deg": "-86.522102356",
+    "elevation_ft": "213",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Crestview",
+    "scheduled_service": "no",
+    "gps_code": "KCEW",
+    "iata_code": "CEW",
+    "local_code": "CEW",
+    "home_link": "http://www.flycew.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bob_Sikes_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241899",
+            "airport_ref": "3445",
+            "airport_ident": "KCEW",
+            "length_ft": "8005",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "30.7897",
+            "le_longitude_deg": "-86.5241",
+            "le_elevation_ft": "213",
+            "le_heading_degT": "171",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "30.768",
+            "he_longitude_deg": "-86.5201",
+            "he_elevation_ft": "153",
+            "he_heading_degT": "351",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62783",
+            "airport_ref": "3445",
+            "airport_ident": "KCEW",
+            "type": "A/D",
+            "description": "EGLIN APP/DEP",
+            "frequency_mhz": "124.05"
+        },
+        {
+            "id": "62784",
+            "airport_ref": "3445",
+            "airport_ident": "KCEW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "62785",
+            "airport_ref": "3445",
+            "airport_ident": "KCEW",
+            "type": "RDO",
+            "description": "GAINESVILLE RDO",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "62786",
+            "airport_ref": "3445",
+            "airport_ident": "KCEW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86680",
+            "filename": "Kobra_NDB_US",
+            "ident": "CE",
+            "name": "Kobra",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "30.8528995513916",
+            "longitude_deg": "-86.5365982055664",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.025",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCEW"
+        }
+    ]
+}

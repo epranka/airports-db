@@ -1,0 +1,110 @@
+{
+    "id": "4093",
+    "ident": "LFDH",
+    "type": "medium_airport",
+    "name": "Auch-Lamothe Airport",
+    "latitude_deg": "43.687801",
+    "longitude_deg": "0.601667",
+    "elevation_ft": "411",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Auch/Lamothe",
+    "scheduled_service": "no",
+    "gps_code": "LFDH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.auchaeroport.fr/ (dead link as of 17-sep-2017)",
+    "wikipedia_link": "https://fr.wikipedia.org/wiki/Aéroport_Auch_-_Gers",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "260343",
+            "airport_ref": "4093",
+            "airport_ident": "LFDH",
+            "length_ft": "6233",
+            "width_ft": "98",
+            "surface": "Concrete",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "401",
+            "le_heading_degT": "184",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "411",
+            "he_heading_degT": "4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "235954",
+            "airport_ref": "4093",
+            "airport_ident": "LFDH",
+            "length_ft": "6233",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "36",
+            "le_latitude_deg": "43.677",
+            "le_longitude_deg": "0.599197",
+            "le_elevation_ft": "411",
+            "le_heading_degT": "4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "18",
+            "he_latitude_deg": "43.6904",
+            "he_longitude_deg": "0.600358",
+            "he_elevation_ft": "401",
+            "he_heading_degT": "184",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52455",
+            "airport_ref": "4093",
+            "airport_ident": "LFDH",
+            "type": "AFIS",
+            "description": "AUCH INFO",
+            "frequency_mhz": "123"
+        },
+        {
+            "id": "52456",
+            "airport_ref": "4093",
+            "airport_ident": "LFDH",
+            "type": "APP",
+            "description": "PYRENEES APP",
+            "frequency_mhz": "121.175"
+        },
+        {
+            "id": "331862",
+            "airport_ref": "4093",
+            "airport_ident": "LFDH",
+            "type": "SIV",
+            "description": "Pyrénées Information",
+            "frequency_mhz": "126.625"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306341",
+        "code": "FR-OCC",
+        "local_code": "OCC",
+        "name": "Occitanie",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occitanie",
+        "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
+    }
+}

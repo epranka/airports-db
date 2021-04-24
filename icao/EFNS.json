@@ -1,0 +1,80 @@
+{
+    "id": "27270",
+    "ident": "EFNS",
+    "type": "small_airport",
+    "name": "Savikko Airfield",
+    "latitude_deg": "60.52",
+    "longitude_deg": "24.831699",
+    "elevation_ft": "233",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-18",
+    "municipality": "Nurmijärvi",
+    "scheduled_service": "no",
+    "gps_code": "EFNS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310818",
+            "airport_ref": "27270",
+            "airport_ident": "EFNS",
+            "length_ft": "1443",
+            "width_ft": "75",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "60.519",
+            "le_longitude_deg": "24.8293",
+            "le_elevation_ft": "",
+            "le_heading_degT": "60.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "60.521",
+            "he_longitude_deg": "24.8365",
+            "he_elevation_ft": "",
+            "he_heading_degT": "240.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310817",
+            "airport_ref": "27270",
+            "airport_ident": "EFNS",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "310816",
+            "airport_ref": "27270",
+            "airport_ident": "EFNS",
+            "type": "RDO",
+            "description": "Savikko traffic",
+            "frequency_mhz": "123.15"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336519",
+        "code": "FI-18",
+        "local_code": "18",
+        "name": "Uusimaa Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uusimaa",
+        "keywords": ""
+    }
+}

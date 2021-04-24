@@ -1,0 +1,110 @@
+{
+    "id": "19617",
+    "ident": "KDBN",
+    "type": "small_airport",
+    "name": "W H 'Bud' Barron Airport",
+    "latitude_deg": "32.56439972",
+    "longitude_deg": "-82.98529816",
+    "elevation_ft": "309",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Dublin",
+    "scheduled_service": "no",
+    "gps_code": "KDBN",
+    "iata_code": "DBN",
+    "local_code": "DBN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/W._H._'Bud'_Barron_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245645",
+            "airport_ref": "19617",
+            "airport_ident": "KDBN",
+            "length_ft": "6002",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "32.5573",
+            "le_longitude_deg": "-82.9849",
+            "le_elevation_ft": "291",
+            "le_heading_degT": "16",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "32.5731",
+            "he_longitude_deg": "-82.9794",
+            "he_elevation_ft": "304",
+            "he_heading_degT": "196",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245646",
+            "airport_ref": "19617",
+            "airport_ident": "KDBN",
+            "length_ft": "5004",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "32.5684",
+            "le_longitude_deg": "-82.9946",
+            "le_elevation_ft": "304",
+            "le_heading_degT": "136",
+            "le_displaced_threshold_ft": "591",
+            "he_ident": "32",
+            "he_latitude_deg": "32.5585",
+            "he_longitude_deg": "-82.9834",
+            "he_elevation_ft": "293",
+            "he_heading_degT": "316",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70760",
+            "airport_ref": "19617",
+            "airport_ident": "KDBN",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "70761",
+            "airport_ref": "19617",
+            "airport_ident": "KDBN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "70762",
+            "airport_ref": "19617",
+            "airport_ident": "KDBN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

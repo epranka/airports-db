@@ -1,0 +1,80 @@
+{
+    "id": "20819",
+    "ident": "KPEX",
+    "type": "small_airport",
+    "name": "Paynesville Municipal Airport",
+    "latitude_deg": "45.37229919433594",
+    "longitude_deg": "-94.74659729003906",
+    "elevation_ft": "1180",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Paynesville",
+    "scheduled_service": "no",
+    "gps_code": "KPEX",
+    "iata_code": "",
+    "local_code": "PEX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240210",
+            "airport_ref": "20819",
+            "airport_ident": "KPEX",
+            "length_ft": "3300",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "110",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "290",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59639",
+            "airport_ref": "20819",
+            "airport_ident": "KPEX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.35"
+        },
+        {
+            "id": "59640",
+            "airport_ref": "20819",
+            "airport_ident": "KPEX",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

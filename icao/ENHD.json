@@ -1,0 +1,104 @@
+{
+    "id": "2579",
+    "ident": "ENHD",
+    "type": "medium_airport",
+    "name": "Haugesund Airport",
+    "latitude_deg": "59.34529876709",
+    "longitude_deg": "5.2083601951599",
+    "elevation_ft": "86",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-11",
+    "municipality": "Karmøy",
+    "scheduled_service": "yes",
+    "gps_code": "ENHD",
+    "iata_code": "HAU",
+    "local_code": "",
+    "home_link": "https://avinor.no/en/airport/haugesund-airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Haugesund_Airport%2C_Karm%C3%B8y",
+    "keywords": "Karmoy",
+    "runways": [
+        {
+            "id": "237954",
+            "airport_ref": "2579",
+            "airport_ident": "ENHD",
+            "length_ft": "6957",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "59.3507",
+            "le_longitude_deg": "5.19754",
+            "le_elevation_ft": "61",
+            "le_heading_degT": "134",
+            "le_displaced_threshold_ft": "197",
+            "he_ident": "31",
+            "he_latitude_deg": "59.3374",
+            "he_longitude_deg": "5.2242",
+            "he_elevation_ft": "86",
+            "he_heading_degT": "314",
+            "he_displaced_threshold_ft": "197"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55804",
+            "airport_ref": "2579",
+            "airport_ident": "ENHD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.175"
+        },
+        {
+            "id": "55805",
+            "airport_ref": "2579",
+            "airport_ident": "ENHD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.5"
+        }
+    ],
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "304955",
+        "code": "NO-11",
+        "local_code": "11",
+        "name": "Rogaland",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rogaland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89969",
+            "filename": "Karmoy_VOR-DME_NO",
+            "ident": "KRM",
+            "name": "Karmoy",
+            "type": "VOR-DME",
+            "frequency_khz": "115150",
+            "latitude_deg": "59.346500396728516",
+            "longitude_deg": "5.201690196990967",
+            "elevation_ft": "102",
+            "iso_country": "NO",
+            "dme_frequency_khz": "115150",
+            "dme_channel": "098Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.001",
+            "magnetic_variation_deg": "-1.125",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ENHD"
+        }
+    ]
+}

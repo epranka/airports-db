@@ -1,0 +1,80 @@
+{
+    "id": "2647",
+    "ident": "ESFR",
+    "type": "medium_airport",
+    "name": "Råda Air Base",
+    "latitude_deg": "58.49810028076172",
+    "longitude_deg": "13.053199768066406",
+    "elevation_ft": "230",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Råda",
+    "scheduled_service": "no",
+    "gps_code": "ESFR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239033",
+            "airport_ref": "2647",
+            "airport_ident": "ESFR",
+            "length_ft": "6517",
+            "width_ft": "110",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "58.507",
+            "le_longitude_deg": "13.0546",
+            "le_elevation_ft": "240",
+            "le_heading_degT": "184.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "58.4892",
+            "he_longitude_deg": "13.0519",
+            "he_elevation_ft": "245",
+            "he_heading_degT": "4.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57460",
+            "airport_ref": "2647",
+            "airport_ident": "ESFR",
+            "type": "APP",
+            "description": "CON",
+            "frequency_mhz": "136.025"
+        },
+        {
+            "id": "57461",
+            "airport_ref": "2647",
+            "airport_ident": "ESFR",
+            "type": "INFO",
+            "description": "MIL INFO",
+            "frequency_mhz": "133.5"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305424",
+        "code": "SE-Q",
+        "local_code": "Q",
+        "name": "Västra Götalands län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västra_Götalands_län",
+        "keywords": "Västra Götaland County"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "id": "20184",
+    "ident": "KIPL",
+    "type": "medium_airport",
+    "name": "Imperial County Airport",
+    "latitude_deg": "32.834201812699995",
+    "longitude_deg": "-115.57900238",
+    "elevation_ft": "-54",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Imperial",
+    "scheduled_service": "no",
+    "gps_code": "KIPL",
+    "iata_code": "IPL",
+    "local_code": "IPL",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Imperial_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243604",
+            "airport_ref": "20184",
+            "airport_ident": "KIPL",
+            "length_ft": "4500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "32.8321",
+            "le_longitude_deg": "-115.59",
+            "le_elevation_ft": "-57",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "32.8321",
+            "he_longitude_deg": "-115.575",
+            "he_elevation_ft": "-57",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243605",
+            "airport_ref": "20184",
+            "airport_ident": "KIPL",
+            "length_ft": "5304",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "32.8425",
+            "le_longitude_deg": "-115.579",
+            "le_elevation_ft": "-58",
+            "le_heading_degT": "152.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "32.8296",
+            "he_longitude_deg": "-115.571",
+            "he_elevation_ft": "-56",
+            "he_heading_degT": "332.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66369",
+            "airport_ref": "20184",
+            "airport_ident": "KIPL",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "132.175"
+        },
+        {
+            "id": "66370",
+            "airport_ref": "20184",
+            "airport_ident": "KIPL",
+            "type": "CNTR",
+            "description": "LOS ANGELES CNTR",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "66371",
+            "airport_ref": "20184",
+            "airport_ident": "KIPL",
+            "type": "RDO",
+            "description": "SAN DIEGO RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "66372",
+            "airport_ref": "20184",
+            "airport_ident": "KIPL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

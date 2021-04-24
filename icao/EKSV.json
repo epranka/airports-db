@@ -1,0 +1,80 @@
+{
+    "id": "2556",
+    "ident": "EKSV",
+    "type": "medium_airport",
+    "name": "Skive Airport",
+    "latitude_deg": "56.550201416015625",
+    "longitude_deg": "9.172980308532715",
+    "elevation_ft": "74",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-82",
+    "municipality": "Skive",
+    "scheduled_service": "no",
+    "gps_code": "EKSV",
+    "iata_code": "SQW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235468",
+            "airport_ref": "2556",
+            "airport_ident": "EKSV",
+            "length_ft": "3933",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "56.5543",
+            "le_longitude_deg": "9.16665",
+            "le_elevation_ft": "69",
+            "le_heading_degT": "139",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "56.5461",
+            "he_longitude_deg": "9.17932",
+            "he_elevation_ft": "72",
+            "he_heading_degT": "319",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51734",
+            "airport_ref": "2556",
+            "airport_ident": "EKSV",
+            "type": "APP",
+            "description": "KARUP APP",
+            "frequency_mhz": "120.425"
+        },
+        {
+            "id": "51735",
+            "airport_ref": "2556",
+            "airport_ident": "EKSV",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "120"
+        }
+    ],
+    "country": {
+        "id": "302682",
+        "code": "DK",
+        "name": "Denmark",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
+        "keywords": "Lufthavnene i Danmark"
+    },
+    "region": {
+        "id": "306328",
+        "code": "DK-82",
+        "local_code": "82",
+        "name": "Central Jutland",
+        "continent": "EU",
+        "iso_country": "DK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Jutland",
+        "keywords": "Midtjylland"
+    }
+}

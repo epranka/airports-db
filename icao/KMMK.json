@@ -1,0 +1,96 @@
+{
+    "id": "20529",
+    "ident": "KMMK",
+    "type": "small_airport",
+    "name": "Meriden Markham Municipal Airport",
+    "latitude_deg": "41.50870132446289",
+    "longitude_deg": "-72.82949829101562",
+    "elevation_ft": "103",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Meriden",
+    "scheduled_service": "no",
+    "gps_code": "KMMK",
+    "iata_code": "",
+    "local_code": "MMK",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Meriden_Markham_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243790",
+            "airport_ref": "20529",
+            "airport_ident": "KMMK",
+            "length_ft": "3100",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "41.5128",
+            "le_longitude_deg": "-72.8313",
+            "le_elevation_ft": "103",
+            "le_heading_degT": "161.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "41.5047",
+            "he_longitude_deg": "-72.8277",
+            "he_elevation_ft": "99",
+            "he_heading_degT": "341.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66762",
+            "airport_ref": "20529",
+            "airport_ident": "KMMK",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "66763",
+            "airport_ref": "20529",
+            "airport_ident": "KMMK",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "134.925"
+        },
+        {
+            "id": "66764",
+            "airport_ref": "20529",
+            "airport_ident": "KMMK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "66765",
+            "airport_ref": "20529",
+            "airport_ident": "KMMK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306082",
+        "code": "US-CT",
+        "local_code": "CT",
+        "name": "Connecticut",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Connecticut",
+        "keywords": ""
+    }
+}

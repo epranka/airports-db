@@ -1,0 +1,120 @@
+{
+    "id": "4535",
+    "ident": "LTBL",
+    "type": "medium_airport",
+    "name": "Çiğli Airport",
+    "latitude_deg": "38.513",
+    "longitude_deg": "27.010099",
+    "elevation_ft": "16",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-35",
+    "municipality": "Kaklıç Mahallesi",
+    "scheduled_service": "no",
+    "gps_code": "LTBL",
+    "iata_code": "IGL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/%C3%87i%C4%9Fli_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239275",
+            "airport_ref": "4535",
+            "airport_ident": "LTBL",
+            "length_ft": "9821",
+            "width_ft": "147",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "38.5265",
+            "le_longitude_deg": "27.0087",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "176",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "38.4996",
+            "he_longitude_deg": "27.0114",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "356",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57911",
+            "airport_ref": "4535",
+            "airport_ident": "LTBL",
+            "type": "APP",
+            "description": "MENDERES APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "57912",
+            "airport_ref": "4535",
+            "airport_ident": "LTBL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "122.425"
+        },
+        {
+            "id": "57913",
+            "airport_ref": "4535",
+            "airport_ident": "LTBL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "57914",
+            "airport_ref": "4535",
+            "airport_ident": "LTBL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305870",
+        "code": "TR-35",
+        "local_code": "35",
+        "name": "İzmir Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/İzmir_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86799",
+            "filename": "Cigli_TACAN_TR",
+            "ident": "CIG",
+            "name": "Cigli",
+            "type": "TACAN",
+            "frequency_khz": "113600",
+            "latitude_deg": "38.49489974975586",
+            "longitude_deg": "27.00909996032715",
+            "elevation_ft": "52",
+            "iso_country": "TR",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.445",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTBL"
+        }
+    ]
+}

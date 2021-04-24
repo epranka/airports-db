@@ -1,0 +1,142 @@
+{
+    "id": "6363",
+    "ident": "TFFF",
+    "type": "medium_airport",
+    "name": "Martinique Aimé Césaire International Airport",
+    "latitude_deg": "14.590999603271484",
+    "longitude_deg": "-61.00320053100586",
+    "elevation_ft": "16",
+    "continent": "NA",
+    "iso_country": "MQ",
+    "iso_region": "MQ-U-A",
+    "municipality": "Fort-de-France",
+    "scheduled_service": "yes",
+    "gps_code": "TFFF",
+    "iata_code": "FDF",
+    "local_code": "",
+    "home_link": "http://www.martinique.aeroport.fr/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Martinique_Aim%C3%A9_C%C3%A9saire_International_Airport",
+    "keywords": "Le Lamentin Airport",
+    "runways": [
+        {
+            "id": "237540",
+            "airport_ref": "6363",
+            "airport_ident": "TFFF",
+            "length_ft": "10826",
+            "width_ft": "147",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "14.5884",
+            "le_longitude_deg": "-61.0183",
+            "le_elevation_ft": "10",
+            "le_heading_degT": "80",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "14.5936",
+            "he_longitude_deg": "-60.988",
+            "he_elevation_ft": "14",
+            "he_heading_degT": "260",
+            "he_displaced_threshold_ft": "984"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55264",
+            "airport_ref": "6363",
+            "airport_ident": "TFFF",
+            "type": "APP",
+            "description": "FORT DE FRANCE APP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "55265",
+            "airport_ref": "6363",
+            "airport_ident": "TFFF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.85"
+        },
+        {
+            "id": "55266",
+            "airport_ref": "6363",
+            "airport_ident": "TFFF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "55267",
+            "airport_ref": "6363",
+            "airport_ident": "TFFF",
+            "type": "TWR",
+            "description": "FORT DE FRANCE TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302745",
+        "code": "MQ",
+        "name": "Martinique",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Martinique",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304706",
+        "code": "MQ-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "MQ",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88097",
+            "filename": "Fort_De_France_VOR-DME_MQ",
+            "ident": "FOF",
+            "name": "Fort De France",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "14.590700149536133",
+            "longitude_deg": "-61.02280044555664",
+            "elevation_ft": "39",
+            "iso_country": "MQ",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-13.007",
+            "magnetic_variation_deg": "-14.359",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "TFFF"
+        },
+        {
+            "id": "88098",
+            "filename": "Fort_De_France_NDB_MQ",
+            "ident": "FOF",
+            "name": "Fort De France",
+            "type": "NDB",
+            "frequency_khz": "329",
+            "latitude_deg": "14.589099884033203",
+            "longitude_deg": "-61.00130081176758",
+            "elevation_ft": "",
+            "iso_country": "MQ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.364",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "TFFF"
+        }
+    ]
+}

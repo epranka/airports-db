@@ -1,0 +1,112 @@
+{
+    "id": "19865",
+    "ident": "KFFT",
+    "type": "small_airport",
+    "name": "Capital City Airport",
+    "latitude_deg": "38.18249893",
+    "longitude_deg": "-84.90470123",
+    "elevation_ft": "806",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Frankfort",
+    "scheduled_service": "no",
+    "gps_code": "KFFT",
+    "iata_code": "FFT",
+    "local_code": "FFT",
+    "home_link": "http://cca.ky.gov/Pages/default.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Capital_City_Airport_(Kentucky)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240893",
+            "airport_ref": "19865",
+            "airport_ident": "KFFT",
+            "length_ft": "5005",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "38.1795",
+            "le_longitude_deg": "-84.9125",
+            "le_elevation_ft": "803",
+            "le_heading_degT": "64",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "38.1855",
+            "he_longitude_deg": "-84.8969",
+            "he_elevation_ft": "785",
+            "he_heading_degT": "244",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60706",
+            "airport_ref": "19865",
+            "airport_ident": "KFFT",
+            "type": "A/D",
+            "description": "LEXINGTON APP/DEP",
+            "frequency_mhz": "120.75"
+        },
+        {
+            "id": "60707",
+            "airport_ref": "19865",
+            "airport_ident": "KFFT",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "60708",
+            "airport_ref": "19865",
+            "airport_ident": "KFFT",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "60709",
+            "airport_ref": "19865",
+            "airport_ident": "KFFT",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "41.15"
+        },
+        {
+            "id": "60710",
+            "airport_ref": "19865",
+            "airport_ident": "KFFT",
+            "type": "RDO",
+            "description": "LOUISVILLE RDO",
+            "frequency_mhz": "109.4"
+        },
+        {
+            "id": "60711",
+            "airport_ref": "19865",
+            "airport_ident": "KFFT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306093",
+        "code": "US-KY",
+        "local_code": "KY",
+        "name": "Kentucky",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
+        "keywords": ""
+    }
+}

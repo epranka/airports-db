@@ -1,0 +1,158 @@
+{
+    "id": "19550",
+    "ident": "KCRG",
+    "type": "medium_airport",
+    "name": "Jacksonville Executive at Craig Airport",
+    "latitude_deg": "30.3362998962",
+    "longitude_deg": "-81.51439666750001",
+    "elevation_ft": "41",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Jacksonville",
+    "scheduled_service": "no",
+    "gps_code": "KCRG",
+    "iata_code": "CRG",
+    "local_code": "CRG",
+    "home_link": "http://www.flyjacksonville.com/content.aspx?id=86",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jacksonville_Executive_at_Craig_Airport",
+    "keywords": "Craig Municipal Airport",
+    "runways": [
+        {
+            "id": "243433",
+            "airport_ref": "19550",
+            "airport_ident": "KCRG",
+            "length_ft": "4004",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "30.3289",
+            "le_longitude_deg": "-81.5189",
+            "le_elevation_ft": "40",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "30.3367",
+            "he_longitude_deg": "-81.51",
+            "he_elevation_ft": "40",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243434",
+            "airport_ref": "19550",
+            "airport_ident": "KCRG",
+            "length_ft": "3998",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "30.3438",
+            "le_longitude_deg": "-81.5189",
+            "le_elevation_ft": "32",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "30.336",
+            "he_longitude_deg": "-81.51",
+            "he_elevation_ft": "40",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65966",
+            "airport_ref": "19550",
+            "airport_ident": "KCRG",
+            "type": "APP",
+            "description": "JACKSONVILLE APP",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "65967",
+            "airport_ref": "19550",
+            "airport_ident": "KCRG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.4"
+        },
+        {
+            "id": "65968",
+            "airport_ref": "19550",
+            "airport_ident": "KCRG",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.35"
+        },
+        {
+            "id": "65969",
+            "airport_ref": "19550",
+            "airport_ident": "KCRG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "65970",
+            "airport_ref": "19550",
+            "airport_ident": "KCRG",
+            "type": "DEP",
+            "description": "JACKSONVILLE DEP",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "65971",
+            "airport_ref": "19550",
+            "airport_ident": "KCRG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "65972",
+            "airport_ref": "19550",
+            "airport_ident": "KCRG",
+            "type": "RDO",
+            "description": "GAINESVILLE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "65973",
+            "airport_ref": "19550",
+            "airport_ident": "KCRG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "65974",
+            "airport_ref": "19550",
+            "airport_ident": "KCRG",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

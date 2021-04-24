@@ -1,0 +1,72 @@
+{
+    "id": "6308",
+    "ident": "SVON",
+    "type": "small_airport",
+    "name": "Oro Negro Airport",
+    "latitude_deg": "10.330699920654297",
+    "longitude_deg": "-71.32250213623047",
+    "elevation_ft": "164",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-V",
+    "municipality": "Cabimas",
+    "scheduled_service": "no",
+    "gps_code": "SVON",
+    "iata_code": "CBS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246082",
+            "airport_ref": "6308",
+            "airport_ident": "SVON",
+            "length_ft": "6160",
+            "width_ft": "95",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "10.3254",
+            "le_longitude_deg": "-71.3296",
+            "le_elevation_ft": "",
+            "le_heading_degT": "56.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "10.3348",
+            "he_longitude_deg": "-71.3154",
+            "he_elevation_ft": "",
+            "he_heading_degT": "236.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71664",
+            "airport_ref": "6308",
+            "airport_ident": "SVON",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.15"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306186",
+        "code": "VE-V",
+        "local_code": "V",
+        "name": "Zulia State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zulia",
+        "keywords": ""
+    }
+}

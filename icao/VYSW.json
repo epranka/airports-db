@@ -1,0 +1,104 @@
+{
+    "id": "26740",
+    "ident": "VYSW",
+    "type": "medium_airport",
+    "name": "Sittwe Airport",
+    "latitude_deg": "20.132699966430664",
+    "longitude_deg": "92.87259674072266",
+    "elevation_ft": "27",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-16",
+    "municipality": "Sittwe",
+    "scheduled_service": "yes",
+    "gps_code": "VYSW",
+    "iata_code": "AKY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sittwe_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233715",
+            "airport_ref": "26740",
+            "airport_ident": "VYSW",
+            "length_ft": "6001",
+            "width_ft": "151",
+            "surface": "BIT",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "20.1347",
+            "le_longitude_deg": "92.8641",
+            "le_elevation_ft": "21",
+            "le_heading_degT": "104",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "20.1307",
+            "he_longitude_deg": "92.8812",
+            "he_elevation_ft": "28",
+            "he_heading_degT": "284",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49496",
+            "airport_ref": "26740",
+            "airport_ident": "VYSW",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "49497",
+            "airport_ref": "26740",
+            "airport_ident": "VYSW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302649",
+        "code": "MM",
+        "name": "Burma",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
+        "keywords": "Myanmar"
+    },
+    "region": {
+        "id": "304678",
+        "code": "MM-16",
+        "local_code": "16",
+        "name": "Rakhine State",
+        "continent": "AS",
+        "iso_country": "MM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rakhine_State",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94079",
+            "filename": "Sittwe_NDB_MM",
+            "ident": "SW",
+            "name": "Sittwe",
+            "type": "NDB",
+            "frequency_khz": "216",
+            "latitude_deg": "20.131000518798828",
+            "longitude_deg": "92.88349914550781",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.441",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VYSW"
+        }
+    ]
+}

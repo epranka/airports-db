@@ -1,0 +1,104 @@
+{
+    "id": "3133",
+    "ident": "GQNI",
+    "type": "small_airport",
+    "name": "Néma Airport",
+    "latitude_deg": "16.622",
+    "longitude_deg": "-7.3166",
+    "elevation_ft": "745",
+    "continent": "AF",
+    "iso_country": "MR",
+    "iso_region": "MR-01",
+    "municipality": "Néma",
+    "scheduled_service": "no",
+    "gps_code": "GQNI",
+    "iata_code": "EMN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/N%C3%A9ma_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237621",
+            "airport_ref": "3133",
+            "airport_ident": "GQNI",
+            "length_ft": "6890",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "16.6211",
+            "le_longitude_deg": "-7.32639",
+            "le_elevation_ft": "728",
+            "le_heading_degT": "84",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "16.6229",
+            "he_longitude_deg": "-7.30674",
+            "he_elevation_ft": "758",
+            "he_heading_degT": "264",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55357",
+            "airport_ref": "3133",
+            "airport_ident": "GQNI",
+            "type": "A/G",
+            "description": "VOICE RDO",
+            "frequency_mhz": "568"
+        },
+        {
+            "id": "55358",
+            "airport_ref": "3133",
+            "airport_ident": "GQNI",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302587",
+        "code": "MR",
+        "name": "Mauritania",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mauritania",
+        "keywords": "مطارات موريتانيا"
+    },
+    "region": {
+        "id": "304707",
+        "code": "MR-01",
+        "local_code": "01",
+        "name": "Hodh ech Chargui Region",
+        "continent": "AF",
+        "iso_country": "MR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hodh_ech_Chargui_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91626",
+            "filename": "Nema_VOR_MR",
+            "ident": "NM",
+            "name": "Nema",
+            "type": "VOR",
+            "frequency_khz": "115300",
+            "latitude_deg": "16.62380027770996",
+            "longitude_deg": "-7.261000156402588",
+            "elevation_ft": "",
+            "iso_country": "MR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.272",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GQNI"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "1713",
+    "ident": "CYDQ",
+    "type": "medium_airport",
+    "name": "Dawson Creek Airport",
+    "latitude_deg": "55.7422981262207",
+    "longitude_deg": "-120.18299865722656",
+    "elevation_ft": "2148",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Dawson Creek",
+    "scheduled_service": "yes",
+    "gps_code": "CYDQ",
+    "iata_code": "YDQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dawson_Creek_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234790",
+            "airport_ref": "1713",
+            "airport_ident": "CYDQ",
+            "length_ft": "5000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "55.7411",
+            "le_longitude_deg": "-120.194",
+            "le_elevation_ft": "2146",
+            "le_heading_degT": "85",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "55.7422",
+            "he_longitude_deg": "-120.169",
+            "he_elevation_ft": "2145",
+            "he_heading_degT": "265",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50482",
+            "airport_ref": "1713",
+            "airport_ident": "CYDQ",
+            "type": "A/G",
+            "description": "MF PEACE RIVER RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50483",
+            "airport_ref": "1713",
+            "airport_ident": "CYDQ",
+            "type": "RDO",
+            "description": "RCO",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    }
+}

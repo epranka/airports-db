@@ -1,0 +1,112 @@
+{
+    "id": "4397",
+    "ident": "LKKB",
+    "type": "medium_airport",
+    "name": "Kbely Air Base",
+    "latitude_deg": "50.12139892578125",
+    "longitude_deg": "14.543600082397461",
+    "elevation_ft": "939",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-PR",
+    "municipality": "Prague",
+    "scheduled_service": "no",
+    "gps_code": "LKKB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235701",
+            "airport_ref": "4397",
+            "airport_ident": "LKKB",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "50.1172",
+            "le_longitude_deg": "14.5313",
+            "le_elevation_ft": "939",
+            "le_heading_degT": "62",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "50.1255",
+            "he_longitude_deg": "14.556",
+            "he_elevation_ft": "916",
+            "he_heading_degT": "242",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52038",
+            "airport_ref": "4397",
+            "airport_ident": "LKKB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "124.68"
+        },
+        {
+            "id": "52039",
+            "airport_ref": "4397",
+            "airport_ident": "LKKB",
+            "type": "GCA",
+            "description": "PRECISION",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "52040",
+            "airport_ref": "4397",
+            "airport_ident": "LKKB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.88"
+        }
+    ],
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303541",
+        "code": "CZ-PR",
+        "local_code": "PR",
+        "name": "Prague (capital city)",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Prague",
+        "keywords": "Praha, hlavní město"
+    },
+    "navaids": [
+        {
+            "id": "89701",
+            "filename": "Kbely_NDB_CZ",
+            "ident": "KD",
+            "name": "Kbely",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "50.1525993347168",
+            "longitude_deg": "14.63659954071045",
+            "elevation_ft": "",
+            "iso_country": "CZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.282",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LKKB"
+        }
+    ]
+}

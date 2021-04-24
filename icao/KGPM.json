@@ -1,0 +1,104 @@
+{
+    "id": "19973",
+    "ident": "KGPM",
+    "type": "small_airport",
+    "name": "Grand Prairie Municipal Airport",
+    "latitude_deg": "32.69879913330078",
+    "longitude_deg": "-97.0468978881836",
+    "elevation_ft": "588",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Grand Prairie",
+    "scheduled_service": "no",
+    "gps_code": "KGPM",
+    "iata_code": "",
+    "local_code": "GPM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245820",
+            "airport_ref": "19973",
+            "airport_ident": "KGPM",
+            "length_ft": "4001",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "32.7043",
+            "le_longitude_deg": "-97.0469",
+            "le_elevation_ft": "589",
+            "le_heading_degT": "180.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "32.6933",
+            "he_longitude_deg": "-97.047",
+            "he_elevation_ft": "589",
+            "he_heading_degT": "0.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71125",
+            "airport_ref": "19973",
+            "airport_ident": "KGPM",
+            "type": "A/D",
+            "description": "RGNL APP/DEP",
+            "frequency_mhz": "135.975"
+        },
+        {
+            "id": "71126",
+            "airport_ref": "19973",
+            "airport_ident": "KGPM",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.475"
+        },
+        {
+            "id": "71127",
+            "airport_ref": "19973",
+            "airport_ident": "KGPM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.15"
+        },
+        {
+            "id": "71128",
+            "airport_ref": "19973",
+            "airport_ident": "KGPM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.55"
+        },
+        {
+            "id": "71129",
+            "airport_ref": "19973",
+            "airport_ident": "KGPM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "128.55"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

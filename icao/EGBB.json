@@ -1,0 +1,120 @@
+{
+    "id": "2389",
+    "ident": "EGBB",
+    "type": "large_airport",
+    "name": "Birmingham International Airport",
+    "latitude_deg": "52.453899383499994",
+    "longitude_deg": "-1.74802994728",
+    "elevation_ft": "327",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Birmingham",
+    "scheduled_service": "yes",
+    "gps_code": "EGBB",
+    "iata_code": "BHX",
+    "local_code": "",
+    "home_link": "http://www.bhx.co.uk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Birmingham_International_Airport_(United_Kingdom)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239421",
+            "airport_ref": "2389",
+            "airport_ident": "EGBB",
+            "length_ft": "10013",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "52.4656",
+            "le_longitude_deg": "-1.76111",
+            "le_elevation_ft": "305",
+            "le_heading_degT": "148",
+            "le_displaced_threshold_ft": "1069",
+            "he_ident": "33",
+            "he_latitude_deg": "52.4464",
+            "he_longitude_deg": "-1.73972",
+            "he_elevation_ft": "328",
+            "he_heading_degT": "328",
+            "he_displaced_threshold_ft": "987"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58157",
+            "airport_ref": "2389",
+            "airport_ident": "EGBB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "58158",
+            "airport_ref": "2389",
+            "airport_ident": "EGBB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "136.02"
+        },
+        {
+            "id": "58160",
+            "airport_ref": "2389",
+            "airport_ident": "EGBB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "58161",
+            "airport_ref": "2389",
+            "airport_ident": "EGBB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86030",
+            "filename": "Birmingham_NDB_GB",
+            "ident": "BHX",
+            "name": "Birmingham",
+            "type": "NDB",
+            "frequency_khz": "406",
+            "latitude_deg": "52.454498291015625",
+            "longitude_deg": "-1.7523900270462036",
+            "elevation_ft": "325",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.035",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGBB"
+        }
+    ]
+}

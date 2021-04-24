@@ -1,0 +1,80 @@
+{
+    "id": "27140",
+    "ident": "YSNB",
+    "type": "medium_airport",
+    "name": "Snake Bay Airport",
+    "latitude_deg": "-11.422800064086914",
+    "longitude_deg": "130.6540069580078",
+    "elevation_ft": "173",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YSNB",
+    "iata_code": "SNB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233104",
+            "airport_ref": "27140",
+            "airport_ident": "YSNB",
+            "length_ft": "4734",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "-11.4137",
+            "le_longitude_deg": "130.644",
+            "le_elevation_ft": "157",
+            "le_heading_degT": "129",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "-11.422",
+            "he_longitude_deg": "130.654",
+            "he_elevation_ft": "173",
+            "he_heading_degT": "309",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48534",
+            "airport_ref": "27140",
+            "airport_ident": "YSNB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48535",
+            "airport_ref": "27140",
+            "airport_ident": "YSNB",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "118.15"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": ""
+    }
+}

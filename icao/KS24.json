@@ -1,0 +1,88 @@
+{
+    "id": "20996",
+    "ident": "KS24",
+    "type": "small_airport",
+    "name": "Sandusky County Regional Airport",
+    "latitude_deg": "41.29570007",
+    "longitude_deg": "-83.03720093",
+    "elevation_ft": "665",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Fremont",
+    "scheduled_service": "no",
+    "gps_code": "S24",
+    "iata_code": "",
+    "local_code": "S24",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240320",
+            "airport_ref": "20996",
+            "airport_ident": "KS24",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "41.2919",
+            "le_longitude_deg": "-83.0459",
+            "le_elevation_ft": "665",
+            "le_heading_degT": "59.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "41.2995",
+            "he_longitude_deg": "-83.0286",
+            "he_elevation_ft": "657",
+            "he_heading_degT": "239.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59765",
+            "airport_ref": "20996",
+            "airport_ident": "KS24",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "59766",
+            "airport_ref": "20996",
+            "airport_ident": "KS24",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.575"
+        },
+        {
+            "id": "59767",
+            "airport_ref": "20996",
+            "airport_ident": "KS24",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": ""
+    }
+}

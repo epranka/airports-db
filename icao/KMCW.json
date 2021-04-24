@@ -1,0 +1,118 @@
+{
+    "id": "20482",
+    "ident": "KMCW",
+    "type": "medium_airport",
+    "name": "Mason City Municipal Airport",
+    "latitude_deg": "43.157798767100005",
+    "longitude_deg": "-93.3312988281",
+    "elevation_ft": "1213",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Mason City",
+    "scheduled_service": "no",
+    "gps_code": "KMCW",
+    "iata_code": "MCW",
+    "local_code": "MCW",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245315",
+            "airport_ref": "20482",
+            "airport_ident": "KMCW",
+            "length_ft": "5502",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "43.1598",
+            "le_longitude_deg": "-93.3439",
+            "le_elevation_ft": "1209",
+            "le_heading_degT": "124.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "43.1512",
+            "he_longitude_deg": "-93.327",
+            "he_elevation_ft": "1193",
+            "he_heading_degT": "304.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245316",
+            "airport_ref": "20482",
+            "airport_ident": "KMCW",
+            "length_ft": "6501",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "43.1686",
+            "le_longitude_deg": "-93.3277",
+            "le_elevation_ft": "1213",
+            "le_heading_degT": "179.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "43.1508",
+            "he_longitude_deg": "-93.3277",
+            "he_elevation_ft": "1193",
+            "he_heading_degT": "359.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70039",
+            "airport_ref": "20482",
+            "airport_ident": "KMCW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "70040",
+            "airport_ref": "20482",
+            "airport_ident": "KMCW",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "70041",
+            "airport_ref": "20482",
+            "airport_ident": "KMCW",
+            "type": "RDO",
+            "description": "FORT DODGE RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "70042",
+            "airport_ref": "20482",
+            "airport_ident": "KMCW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

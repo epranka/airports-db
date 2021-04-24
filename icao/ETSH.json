@@ -1,0 +1,150 @@
+{
+    "id": "2752",
+    "ident": "ETSH",
+    "type": "medium_airport",
+    "name": "Holzdorf Air Base",
+    "latitude_deg": "51.767799",
+    "longitude_deg": "13.1677",
+    "elevation_ft": "265",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ETSH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236136",
+            "airport_ref": "2752",
+            "airport_ident": "ETSH",
+            "length_ft": "7936",
+            "width_ft": "98",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "51.7685",
+            "le_longitude_deg": "13.1502",
+            "le_elevation_ft": "254",
+            "le_heading_degT": "93.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "51.7672",
+            "he_longitude_deg": "13.1852",
+            "he_elevation_ft": "263",
+            "he_heading_degT": "273.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52771",
+            "airport_ref": "2752",
+            "airport_ident": "ETSH",
+            "type": "A/D",
+            "description": "RADAR",
+            "frequency_mhz": "38.54"
+        },
+        {
+            "id": "52770",
+            "airport_ref": "2752",
+            "airport_ident": "ETSH",
+            "type": "A/D",
+            "description": "RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "52772",
+            "airport_ref": "2752",
+            "airport_ident": "ETSH",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "52773",
+            "airport_ref": "2752",
+            "airport_ident": "ETSH",
+            "type": "ARR",
+            "description": "BERLIN ARR",
+            "frequency_mhz": "126.425"
+        },
+        {
+            "id": "52774",
+            "airport_ref": "2752",
+            "airport_ident": "ETSH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303547",
+        "code": "DE-BR",
+        "local_code": "BR",
+        "name": "Brandenburg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88967",
+            "filename": "Holzdorf_TACAN_DE",
+            "ident": "HOZ",
+            "name": "Holzdorf",
+            "type": "TACAN",
+            "frequency_khz": "117250",
+            "latitude_deg": "51.766700744628906",
+            "longitude_deg": "13.199000358581543",
+            "elevation_ft": "261",
+            "iso_country": "DE",
+            "dme_frequency_khz": "117250",
+            "dme_channel": "119Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.006",
+            "magnetic_variation_deg": "2.067",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETSH"
+        },
+        {
+            "id": "88968",
+            "filename": "Holzdorf_NDB_DE",
+            "ident": "HOZ",
+            "name": "Holzdorf",
+            "type": "NDB",
+            "frequency_khz": "406",
+            "latitude_deg": "51.769798278808594",
+            "longitude_deg": "13.09749984741211",
+            "elevation_ft": "316",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.049",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "ETSH"
+        }
+    ]
+}

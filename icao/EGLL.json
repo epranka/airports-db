@@ -1,0 +1,230 @@
+{
+    "id": "2434",
+    "ident": "EGLL",
+    "type": "large_airport",
+    "name": "London Heathrow Airport",
+    "latitude_deg": "51.4706",
+    "longitude_deg": "-0.461941",
+    "elevation_ft": "83",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "London",
+    "scheduled_service": "yes",
+    "gps_code": "EGLL",
+    "iata_code": "LHR",
+    "local_code": "",
+    "home_link": "http://www.heathrowairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Heathrow_Airport",
+    "keywords": "LON, Londres",
+    "runways": [
+        {
+            "id": "239399",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "length_ft": "12799",
+            "width_ft": "164",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09L",
+            "le_latitude_deg": "51.4775",
+            "le_longitude_deg": "-0.489428",
+            "le_elevation_ft": "79",
+            "le_heading_degT": "89.6",
+            "le_displaced_threshold_ft": "1007",
+            "he_ident": "27R",
+            "he_latitude_deg": "51.4777",
+            "he_longitude_deg": "-0.433264",
+            "he_elevation_ft": "78",
+            "he_heading_degT": "269.6",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239398",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "length_ft": "12001",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09R",
+            "le_latitude_deg": "51.4649",
+            "le_longitude_deg": "-0.486772",
+            "le_elevation_ft": "75",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "1013",
+            "he_ident": "27L",
+            "he_latitude_deg": "51.465",
+            "he_longitude_deg": "-0.434075",
+            "he_elevation_ft": "77",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "323434",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "ATIS",
+            "description": "Heathrow ATIS",
+            "frequency_mhz": "113.75"
+        },
+        {
+            "id": "323435",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "ATIS",
+            "description": "Heathrow ATIS (Arrival)",
+            "frequency_mhz": "115.1"
+        },
+        {
+            "id": "319776",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "ATIS",
+            "description": "Heathrow ATIS (Departure)",
+            "frequency_mhz": "121.935"
+        },
+        {
+            "id": "319777",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "ATIS",
+            "description": "Heathrow ATIS",
+            "frequency_mhz": "128.075"
+        },
+        {
+            "id": "58109",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "CLD",
+            "description": "Heathrow Delivery",
+            "frequency_mhz": "121.975"
+        },
+        {
+            "id": "58107",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "DIR",
+            "description": "Heathrow Director",
+            "frequency_mhz": "119.725"
+        },
+        {
+            "id": "323436",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "DIR",
+            "description": "Heathrow Director",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "323437",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "DIR",
+            "description": "Heathrow Director",
+            "frequency_mhz": "127.525"
+        },
+        {
+            "id": "323438",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "DIR",
+            "description": "Heathrow Director",
+            "frequency_mhz": "134.975"
+        },
+        {
+            "id": "58110",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "GND",
+            "description": "Heathrow Ground",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "323431",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "GND",
+            "description": "Heathrow Ground",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "323430",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "GND",
+            "description": "Heathrow Ground",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "58111",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "TWR",
+            "description": "Heathrow Tower",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "323432",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "TWR",
+            "description": "Heathrow Tower",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "323433",
+            "airport_ref": "2434",
+            "airport_ident": "EGLL",
+            "type": "TWR",
+            "description": "Heathrow Tower",
+            "frequency_mhz": "124.475"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90474",
+            "filename": "London_VOR-DME_GB",
+            "ident": "LON",
+            "name": "London",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "51.48720169067383",
+            "longitude_deg": "-0.4666669964790344",
+            "elevation_ft": "110",
+            "iso_country": "GB",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.001",
+            "magnetic_variation_deg": "-2.243",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGLL"
+        }
+    ]
+}

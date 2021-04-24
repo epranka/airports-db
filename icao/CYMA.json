@@ -1,0 +1,112 @@
+{
+    "id": "1809",
+    "ident": "CYMA",
+    "type": "medium_airport",
+    "name": "Mayo Airport",
+    "latitude_deg": "63.61640167236328",
+    "longitude_deg": "-135.8679962158203",
+    "elevation_ft": "1653",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-YT",
+    "municipality": "Mayo",
+    "scheduled_service": "no",
+    "gps_code": "CYMA",
+    "iata_code": "YMA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mayo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235097",
+            "airport_ref": "1809",
+            "airport_ident": "CYMA",
+            "length_ft": "4856",
+            "width_ft": "100",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "63.6164",
+            "le_longitude_deg": "-135.883",
+            "le_elevation_ft": "1653",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "63.6164",
+            "he_longitude_deg": "-135.853",
+            "he_elevation_ft": "1639",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51059",
+            "airport_ref": "1809",
+            "airport_ident": "CYMA",
+            "type": "CNTR",
+            "description": "EDMONTON CNTR",
+            "frequency_mhz": "134.65"
+        },
+        {
+            "id": "51060",
+            "airport_ref": "1809",
+            "airport_ident": "CYMA",
+            "type": "RCO",
+            "description": "WHITEHORSE RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "51061",
+            "airport_ref": "1809",
+            "airport_ident": "CYMA",
+            "type": "RDO",
+            "description": "ARPT RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303307",
+        "code": "CA-YT",
+        "local_code": "YT",
+        "name": "Yukon",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yukon_Territory",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90694",
+            "filename": "Mayo_NDB_CA",
+            "ident": "MA",
+            "name": "Mayo",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "63.62860107421875",
+            "longitude_deg": "-135.89300537109375",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "25.259",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYMA"
+        }
+    ]
+}

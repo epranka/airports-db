@@ -1,0 +1,80 @@
+{
+    "id": "27248",
+    "ident": "EFFO",
+    "type": "small_airport",
+    "name": "Forssa Airfield",
+    "latitude_deg": "60.803683",
+    "longitude_deg": "23.650802",
+    "elevation_ft": "325",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-06",
+    "municipality": "Forssa",
+    "scheduled_service": "no",
+    "gps_code": "EFFO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Forssa_Airfield",
+    "keywords": "QVE",
+    "runways": [
+        {
+            "id": "310747",
+            "airport_ref": "27248",
+            "airport_ident": "EFFO",
+            "length_ft": "2690",
+            "width_ft": "59",
+            "surface": "ASPH/GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "60.8019",
+            "le_longitude_deg": "23.6474",
+            "le_elevation_ft": "325",
+            "le_heading_degT": "42.8",
+            "le_displaced_threshold_ft": "393",
+            "he_ident": "22",
+            "he_latitude_deg": "60.8063",
+            "he_longitude_deg": "23.6558",
+            "he_elevation_ft": "325",
+            "he_heading_degT": "222.8",
+            "he_displaced_threshold_ft": "65"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310746",
+            "airport_ref": "27248",
+            "airport_ident": "EFFO",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "310745",
+            "airport_ref": "27248",
+            "airport_ident": "EFFO",
+            "type": "RDO",
+            "description": "Forssa traffic",
+            "frequency_mhz": "123.15"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336507",
+        "code": "FI-06",
+        "local_code": "06",
+        "name": "Kanta-Häme Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kanta-H%C3%A4me",
+        "keywords": ""
+    }
+}

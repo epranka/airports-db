@@ -1,0 +1,102 @@
+{
+    "id": "2007",
+    "ident": "CZBA",
+    "type": "small_airport",
+    "name": "Burlington Executive",
+    "latitude_deg": "43.4414531515",
+    "longitude_deg": "-79.850102663",
+    "elevation_ft": "602",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Burlington",
+    "scheduled_service": "no",
+    "gps_code": "CZBA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.burlingtonairpark.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Burlington_Executive_Aerodrome",
+    "keywords": "ZBA",
+    "runways": [
+        {
+            "id": "234487",
+            "airport_ref": "2007",
+            "airport_ident": "CZBA",
+            "length_ft": "2464",
+            "width_ft": "50",
+            "surface": "asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "43.4408",
+            "le_longitude_deg": "-79.8544",
+            "le_elevation_ft": "590",
+            "le_heading_degT": "80",
+            "le_displaced_threshold_ft": "475",
+            "he_ident": "27",
+            "he_latitude_deg": "43.4419",
+            "he_longitude_deg": "-79.8461",
+            "he_elevation_ft": "591",
+            "he_heading_degT": "260",
+            "he_displaced_threshold_ft": "172"
+        },
+        {
+            "id": "234488",
+            "airport_ref": "2007",
+            "airport_ident": "CZBA",
+            "length_ft": "3775",
+            "width_ft": "75",
+            "surface": "Asphalt/Turf",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "43.445",
+            "le_longitude_deg": "-79.8547",
+            "le_elevation_ft": "601",
+            "le_heading_degT": "131",
+            "le_displaced_threshold_ft": "90",
+            "he_ident": "32",
+            "he_latitude_deg": "43.4384",
+            "he_longitude_deg": "-79.8442",
+            "he_elevation_ft": "592",
+            "he_heading_degT": "311",
+            "he_displaced_threshold_ft": "324"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49927",
+            "airport_ref": "2007",
+            "airport_ident": "CZBA",
+            "type": "DEP",
+            "description": "TORONTO CNTR",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "49928",
+            "airport_ref": "2007",
+            "airport_ident": "CZBA",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": ""
+    }
+}

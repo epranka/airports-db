@@ -1,0 +1,104 @@
+{
+    "id": "26987",
+    "ident": "YGAY",
+    "type": "small_airport",
+    "name": "Gayndah Airport",
+    "latitude_deg": "-25.61440086364746",
+    "longitude_deg": "151.61900329589844",
+    "elevation_ft": "369",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YGAY",
+    "iata_code": "GAH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233162",
+            "airport_ref": "26987",
+            "airport_ident": "YGAY",
+            "length_ft": "4150",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-25.6169",
+            "le_longitude_deg": "151.618",
+            "le_elevation_ft": "369",
+            "le_heading_degT": "67.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "-25.6125",
+            "he_longitude_deg": "151.63",
+            "he_elevation_ft": "358",
+            "he_heading_degT": "247.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48622",
+            "airport_ref": "26987",
+            "airport_ident": "YGAY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48623",
+            "airport_ref": "26987",
+            "airport_ident": "YGAY",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "124.1"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88269",
+            "filename": "Gayndah_NDB_AU",
+            "ident": "GAY",
+            "name": "Gayndah",
+            "type": "NDB",
+            "frequency_khz": "284",
+            "latitude_deg": "-25.594999313354492",
+            "longitude_deg": "151.67300415039062",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.164",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YGAY"
+        }
+    ]
+}

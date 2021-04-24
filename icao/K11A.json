@@ -1,0 +1,88 @@
+{
+    "id": "18404",
+    "ident": "K11A",
+    "type": "small_airport",
+    "name": "Clayton Municipal Airport",
+    "latitude_deg": "31.88330078125",
+    "longitude_deg": "-85.48490142822266",
+    "elevation_ft": "435",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Clayton",
+    "scheduled_service": "no",
+    "gps_code": "K11A",
+    "iata_code": "",
+    "local_code": "11A",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244889",
+            "airport_ref": "18404",
+            "airport_ident": "K11A",
+            "length_ft": "5010",
+            "width_ft": "80",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "31.8841",
+            "le_longitude_deg": "-85.4926",
+            "le_elevation_ft": "422",
+            "le_heading_degT": "97",
+            "le_displaced_threshold_ft": "279",
+            "he_ident": "27",
+            "he_latitude_deg": "31.8825",
+            "he_longitude_deg": "-85.4772",
+            "he_elevation_ft": "434",
+            "he_heading_degT": "277",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69108",
+            "airport_ref": "18404",
+            "airport_ident": "K11A",
+            "type": "A/D",
+            "description": "CAIRNS APP/DEP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "69109",
+            "airport_ref": "18404",
+            "airport_ident": "K11A",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.775"
+        },
+        {
+            "id": "69110",
+            "airport_ref": "18404",
+            "airport_ident": "K11A",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

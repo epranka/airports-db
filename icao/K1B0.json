@@ -1,0 +1,102 @@
+{
+    "id": "18450",
+    "ident": "K1B0",
+    "type": "small_airport",
+    "name": "Dexter Regional Airport",
+    "latitude_deg": "45.00410079956055",
+    "longitude_deg": "-69.23699951171875",
+    "elevation_ft": "533",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Dexter",
+    "scheduled_service": "no",
+    "gps_code": "K1B0",
+    "iata_code": "",
+    "local_code": "1B0",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244542",
+            "airport_ref": "18450",
+            "airport_ident": "K1B0",
+            "length_ft": "1600",
+            "width_ft": "300",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "07",
+            "le_latitude_deg": "45.0014",
+            "le_longitude_deg": "-69.2419",
+            "le_elevation_ft": "533",
+            "le_heading_degT": "48.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "45.0042",
+            "he_longitude_deg": "-69.2375",
+            "he_elevation_ft": "520",
+            "he_heading_degT": "228.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244543",
+            "airport_ref": "18450",
+            "airport_ident": "K1B0",
+            "length_ft": "3009",
+            "width_ft": "80",
+            "surface": "ASPH-F",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "45.0077",
+            "le_longitude_deg": "-69.2403",
+            "le_elevation_ft": "516",
+            "le_heading_degT": "139",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "45.0014",
+            "he_longitude_deg": "-69.2328",
+            "he_elevation_ft": "518",
+            "he_heading_degT": "319",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68329",
+            "airport_ref": "18450",
+            "airport_ident": "K1B0",
+            "type": "A/D",
+            "description": "BANGOR APP/DEP",
+            "frequency_mhz": "118.925"
+        },
+        {
+            "id": "68330",
+            "airport_ref": "18450",
+            "airport_ident": "K1B0",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306097",
+        "code": "US-ME",
+        "local_code": "ME",
+        "name": "Maine",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
+        "keywords": ""
+    }
+}

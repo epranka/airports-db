@@ -1,0 +1,104 @@
+{
+    "id": "5835",
+    "ident": "SAWH",
+    "type": "medium_airport",
+    "name": "Malvinas Argentinas Airport",
+    "latitude_deg": "-54.8433",
+    "longitude_deg": "-68.2958",
+    "elevation_ft": "102",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-V",
+    "municipality": "Ushuahia",
+    "scheduled_service": "yes",
+    "gps_code": "SAWH",
+    "iata_code": "USH",
+    "local_code": "USU",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ushuaia_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232913",
+            "airport_ref": "5835",
+            "airport_ident": "SAWH",
+            "length_ft": "9186",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "7",
+            "le_latitude_deg": "-54.8442",
+            "le_longitude_deg": "-68.3175",
+            "le_elevation_ft": "85",
+            "le_heading_degT": "86.2",
+            "le_displaced_threshold_ft": "591",
+            "he_ident": "25",
+            "he_latitude_deg": "-54.8424",
+            "he_longitude_deg": "-68.274",
+            "he_elevation_ft": "74",
+            "he_heading_degT": "266.2",
+            "he_displaced_threshold_ft": "525"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48352",
+            "airport_ref": "5835",
+            "airport_ident": "SAWH",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "48353",
+            "airport_ref": "5835",
+            "airport_ident": "SAWH",
+            "type": "TWR",
+            "description": "TWR/APP",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302951",
+        "code": "AR-V",
+        "local_code": "V",
+        "name": "Tierra del Fuego Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tierra_del_Fuego_Province_(Argentina)",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94969",
+            "filename": "Ushuaia_VOR_AR",
+            "ident": "USU",
+            "name": "Ushuaia",
+            "type": "VOR",
+            "frequency_khz": "113700",
+            "latitude_deg": "-54.83810043334961",
+            "longitude_deg": "-68.2842025756836",
+            "elevation_ft": "92",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "13.007",
+            "magnetic_variation_deg": "13.115",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAWH"
+        }
+    ]
+}

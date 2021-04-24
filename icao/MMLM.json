@@ -1,0 +1,96 @@
+{
+    "id": "4721",
+    "ident": "MMLM",
+    "type": "medium_airport",
+    "name": "Valle del Fuerte International Airport",
+    "latitude_deg": "25.6851997375",
+    "longitude_deg": "-109.081001282",
+    "elevation_ft": "16",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-SIN",
+    "municipality": "Los Mochis",
+    "scheduled_service": "yes",
+    "gps_code": "MMLM",
+    "iata_code": "LMM",
+    "local_code": "",
+    "home_link": "http://aeropuertosgap.com.mx/english/index-site.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Federal_del_Valle_del_Fuerte_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237775",
+            "airport_ref": "4721",
+            "airport_ident": "MMLM",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "25.6867",
+            "le_longitude_deg": "-109.09",
+            "le_elevation_ft": "16",
+            "le_heading_degT": "100",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "25.6836",
+            "he_longitude_deg": "-109.071",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "280",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55513",
+            "airport_ref": "4721",
+            "airport_ident": "MMLM",
+            "type": "TWR",
+            "description": "MOCHIS TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304813",
+        "code": "MX-SIN",
+        "local_code": "SIN",
+        "name": "Sinaloa",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sinaloa",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90419",
+            "filename": "Mochis_VOR-DME_MX",
+            "ident": "LMM",
+            "name": "Mochis",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "25.682600021362305",
+            "longitude_deg": "-109.0719985961914",
+            "elevation_ft": "16",
+            "iso_country": "MX",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.007",
+            "magnetic_variation_deg": "9.312",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMLM"
+        }
+    ]
+}

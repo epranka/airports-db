@@ -1,0 +1,104 @@
+{
+    "id": "6194",
+    "ident": "SLYA",
+    "type": "medium_airport",
+    "name": "Yacuiba Airport",
+    "latitude_deg": "-21.960899353027344",
+    "longitude_deg": "-63.65169906616211",
+    "elevation_ft": "2112",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-T",
+    "municipality": "Yacuíba",
+    "scheduled_service": "no",
+    "gps_code": "SLYA",
+    "iata_code": "BYC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yacuiba_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233705",
+            "airport_ref": "6194",
+            "airport_ident": "SLYA",
+            "length_ft": "6890",
+            "width_ft": "118",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-21.9698",
+            "le_longitude_deg": "-63.6552",
+            "le_elevation_ft": "",
+            "le_heading_degT": "20.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "-21.952",
+            "he_longitude_deg": "-63.6481",
+            "he_elevation_ft": "",
+            "he_heading_degT": "200.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49486",
+            "airport_ref": "6194",
+            "airport_ident": "SLYA",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "662.2"
+        },
+        {
+            "id": "49487",
+            "airport_ref": "6194",
+            "airport_ident": "SLYA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302790",
+        "code": "BO",
+        "name": "Bolivia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolivia",
+        "keywords": "Aeropuertos de Bolivia"
+    },
+    "region": {
+        "id": "303197",
+        "code": "BO-T",
+        "local_code": "T",
+        "name": "Tarija Department",
+        "continent": "SA",
+        "iso_country": "BO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tarija_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95607",
+            "filename": "Yacuiba_NDB_BO",
+            "ident": "YAC",
+            "name": "Yacuiba",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "-21.960100173950195",
+            "longitude_deg": "-63.6531982421875",
+            "elevation_ft": "2116",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.543",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SLYA"
+        }
+    ]
+}

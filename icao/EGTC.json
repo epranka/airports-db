@@ -1,0 +1,142 @@
+{
+    "id": "2480",
+    "ident": "EGTC",
+    "type": "medium_airport",
+    "name": "Cranfield Airport",
+    "latitude_deg": "52.072201",
+    "longitude_deg": "-0.616667",
+    "elevation_ft": "360",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Cranfield",
+    "scheduled_service": "no",
+    "gps_code": "EGTC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.cranfieldairport.co.uk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cranfield_Airport",
+    "keywords": "cranfield, milton keynes, bedford",
+    "runways": [
+        {
+            "id": "239381",
+            "airport_ref": "2480",
+            "airport_ident": "EGTC",
+            "length_ft": "5902",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "52.0652",
+            "le_longitude_deg": "-0.623598",
+            "le_elevation_ft": "358",
+            "le_heading_degT": "31.7",
+            "le_displaced_threshold_ft": "673",
+            "he_ident": "21",
+            "he_latitude_deg": "52.079",
+            "he_longitude_deg": "-0.609797",
+            "he_elevation_ft": "358",
+            "he_heading_degT": "211.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239382",
+            "airport_ref": "2480",
+            "airport_ident": "EGTC",
+            "length_ft": "2033",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "18",
+            "le_latitude_deg": "52.0733",
+            "le_longitude_deg": "-0.620944",
+            "le_elevation_ft": "",
+            "le_heading_degT": "175.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "52.0678",
+            "he_longitude_deg": "-0.620233",
+            "he_elevation_ft": "",
+            "he_heading_degT": "355.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58096",
+            "airport_ref": "2480",
+            "airport_ident": "EGTC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.85"
+        },
+        {
+            "id": "58097",
+            "airport_ref": "2480",
+            "airport_ident": "EGTC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "121.875"
+        },
+        {
+            "id": "307868",
+            "airport_ref": "2480",
+            "airport_ident": "EGTC",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "122.85"
+        },
+        {
+            "id": "58098",
+            "airport_ref": "2480",
+            "airport_ident": "EGTC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "134.925"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86702",
+            "filename": "Cranfield_VOR_GB",
+            "ident": "CFD",
+            "name": "Cranfield",
+            "type": "VOR",
+            "frequency_khz": "116500",
+            "latitude_deg": "52.07419967651367",
+            "longitude_deg": "-0.6107919812202454",
+            "elevation_ft": "357",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.001",
+            "magnetic_variation_deg": "-2.331",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGTC"
+        }
+    ]
+}

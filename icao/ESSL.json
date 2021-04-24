@@ -1,0 +1,72 @@
+{
+    "id": "2706",
+    "ident": "ESSL",
+    "type": "medium_airport",
+    "name": "Linköping City Airport",
+    "latitude_deg": "58.4062004089",
+    "longitude_deg": "15.680500030500001",
+    "elevation_ft": "172",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-E",
+    "municipality": "Linköping",
+    "scheduled_service": "yes",
+    "gps_code": "ESSL",
+    "iata_code": "LPI",
+    "local_code": "",
+    "home_link": "http://www.linkopingsflygplats.se/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Link%C3%B6ping_SAAB_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238981",
+            "airport_ref": "2706",
+            "airport_ident": "ESSL",
+            "length_ft": "6989",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "58.4099",
+            "le_longitude_deg": "15.6634",
+            "le_elevation_ft": "142",
+            "le_heading_degT": "112",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "58.4027",
+            "he_longitude_deg": "15.6971",
+            "he_elevation_ft": "172",
+            "he_heading_degT": "292",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57394",
+            "airport_ref": "2706",
+            "airport_ident": "ESSL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.805"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna i Sverige"
+    },
+    "region": {
+        "id": "305416",
+        "code": "SE-E",
+        "local_code": "E",
+        "name": "Östergötlands län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Östergötlands_län",
+        "keywords": "Östergötland County"
+    }
+}

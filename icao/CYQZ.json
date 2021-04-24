@@ -1,0 +1,88 @@
+{
+    "id": "1883",
+    "ident": "CYQZ",
+    "type": "medium_airport",
+    "name": "Quesnel Airport",
+    "latitude_deg": "53.026100158691406",
+    "longitude_deg": "-122.51000213623047",
+    "elevation_ft": "1789",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Quesnel",
+    "scheduled_service": "yes",
+    "gps_code": "CYQZ",
+    "iata_code": "YQZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Quesnel_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234861",
+            "airport_ref": "1883",
+            "airport_ident": "CYQZ",
+            "length_ft": "5500",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "53.0326",
+            "le_longitude_deg": "-122.517",
+            "le_elevation_ft": "1789",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "53.0196",
+            "he_longitude_deg": "-122.504",
+            "he_elevation_ft": "1783",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50612",
+            "airport_ref": "1883",
+            "airport_ident": "CYQZ",
+            "type": "A/G",
+            "description": "WILLIAMS LAKE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50613",
+            "airport_ref": "1883",
+            "airport_ident": "CYQZ",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "50614",
+            "airport_ref": "1883",
+            "airport_ident": "CYQZ",
+            "type": "RCO",
+            "description": "WILLIAMS LAKE RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    }
+}

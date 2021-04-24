@@ -1,0 +1,88 @@
+{
+    "id": "1992",
+    "ident": "CYZE",
+    "type": "medium_airport",
+    "name": "Gore Bay Manitoulin Airport",
+    "latitude_deg": "45.8853",
+    "longitude_deg": "-82.567802",
+    "elevation_ft": "623",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Gore Bay",
+    "scheduled_service": "no",
+    "gps_code": "CYZE",
+    "iata_code": "YZE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gore_Bay-Manitoulin_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234984",
+            "airport_ref": "1992",
+            "airport_ident": "CYZE",
+            "length_ft": "4900",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "45.8861",
+            "le_longitude_deg": "-82.5772",
+            "le_elevation_ft": "603",
+            "le_heading_degT": "97.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "45.8844",
+            "he_longitude_deg": "-82.5583",
+            "he_elevation_ft": "613",
+            "he_heading_degT": "277.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50853",
+            "airport_ref": "1992",
+            "airport_ident": "CYZE",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "128.725"
+        },
+        {
+            "id": "50854",
+            "airport_ref": "1992",
+            "airport_ident": "CYZE",
+            "type": "RCO",
+            "description": "LONDON RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "50855",
+            "airport_ref": "1992",
+            "airport_ident": "CYZE",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": ""
+    }
+}

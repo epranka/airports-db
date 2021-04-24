@@ -1,0 +1,134 @@
+{
+    "id": "20978",
+    "ident": "KRYM",
+    "type": "small_airport",
+    "name": "Ray S Miller Army Air Field",
+    "latitude_deg": "46.09120178222656",
+    "longitude_deg": "-94.3604965209961",
+    "elevation_ft": "1150",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Camp Ripley",
+    "scheduled_service": "no",
+    "gps_code": "KRYM",
+    "iata_code": "",
+    "local_code": "RYM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244520",
+            "airport_ref": "20978",
+            "airport_ident": "KRYM",
+            "length_ft": "6100",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "46.0971",
+            "le_longitude_deg": "-94.369",
+            "le_elevation_ft": "1151",
+            "le_heading_degT": "136",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "46.0853",
+            "he_longitude_deg": "-94.3521",
+            "he_elevation_ft": "1145",
+            "he_heading_degT": "316",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "249586",
+            "airport_ref": "20978",
+            "airport_ident": "KRYM",
+            "length_ft": "3500",
+            "width_ft": "80",
+            "surface": "GRAVEL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "132",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "312",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68272",
+            "airport_ref": "20978",
+            "airport_ident": "KRYM",
+            "type": "AWOS",
+            "description": "AWOS THREE",
+            "frequency_mhz": "148.35"
+        },
+        {
+            "id": "68273",
+            "airport_ref": "20978",
+            "airport_ident": "KRYM",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "68274",
+            "airport_ref": "20978",
+            "airport_ident": "KRYM",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "68275",
+            "airport_ref": "20978",
+            "airport_ident": "KRYM",
+            "type": "MISC",
+            "description": "RANGE CON",
+            "frequency_mhz": "36.1"
+        },
+        {
+            "id": "68276",
+            "airport_ref": "20978",
+            "airport_ident": "KRYM",
+            "type": "OPS",
+            "description": "MILLER OPS",
+            "frequency_mhz": "49.65"
+        },
+        {
+            "id": "68277",
+            "airport_ref": "20978",
+            "airport_ident": "KRYM",
+            "type": "TWR",
+            "description": "MILLER TWR",
+            "frequency_mhz": "49.2"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

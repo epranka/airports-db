@@ -1,0 +1,72 @@
+{
+    "id": "23370",
+    "ident": "NV72",
+    "type": "small_airport",
+    "name": "Sweetwater (USMC) Airport",
+    "latitude_deg": "38.509799957300004",
+    "longitude_deg": "-119.217002869",
+    "elevation_ft": "6837",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Wellington",
+    "scheduled_service": "no",
+    "gps_code": "NV72",
+    "iata_code": "",
+    "local_code": "NV72",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240865",
+            "airport_ref": "23370",
+            "airport_ident": "NV72",
+            "length_ft": "3700",
+            "width_ft": "60",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.5147",
+            "le_longitude_deg": "-119.215",
+            "le_elevation_ft": "6837",
+            "le_heading_degT": "196.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.5049",
+            "he_longitude_deg": "-119.219",
+            "he_elevation_ft": "6796",
+            "he_heading_degT": "16.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60670",
+            "airport_ref": "23370",
+            "airport_ident": "NV72",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306109",
+        "code": "US-NV",
+        "local_code": "NV",
+        "name": "Nevada",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
+        "keywords": ""
+    }
+}

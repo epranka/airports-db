@@ -1,0 +1,104 @@
+{
+    "id": "18795",
+    "ident": "48Y",
+    "type": "small_airport",
+    "name": "Piney Pinecreek Border Airport",
+    "latitude_deg": "48.99959945678711",
+    "longitude_deg": "-95.98259735107422",
+    "elevation_ft": "1078",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Pinecreek",
+    "scheduled_service": "no",
+    "gps_code": "48Y",
+    "iata_code": "",
+    "local_code": "48Y",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Piney_Pinecreek_Border_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245901",
+            "airport_ref": "18795",
+            "airport_ident": "48Y",
+            "length_ft": "3298",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "49.0036",
+            "le_longitude_deg": "-95.9857",
+            "le_elevation_ft": "1078",
+            "le_heading_degT": "153",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "48.9956",
+            "he_longitude_deg": "-95.9794",
+            "he_elevation_ft": "1066",
+            "he_heading_degT": "333",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71311",
+            "airport_ref": "18795",
+            "airport_ident": "48Y",
+            "type": "A/D",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "134.75"
+        },
+        {
+            "id": "71312",
+            "airport_ref": "18795",
+            "airport_ident": "48Y",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92386",
+            "filename": "Piney_Pinecreek_NDB_US",
+            "ident": "PFT",
+            "name": "Piney Pinecreek",
+            "type": "NDB",
+            "frequency_khz": "342",
+            "latitude_deg": "48.9922981262207",
+            "longitude_deg": "-95.97920227050781",
+            "elevation_ft": "1060",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.114",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "48Y"
+        }
+    ]
+}

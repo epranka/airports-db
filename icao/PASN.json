@@ -1,0 +1,128 @@
+{
+    "id": "5410",
+    "ident": "PASN",
+    "type": "medium_airport",
+    "name": "St Paul Island Airport",
+    "latitude_deg": "57.167301177978516",
+    "longitude_deg": "-170.22000122070312",
+    "elevation_ft": "63",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "St Paul Island",
+    "scheduled_service": "no",
+    "gps_code": "PASN",
+    "iata_code": "SNP",
+    "local_code": "SNP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239713",
+            "airport_ref": "5410",
+            "airport_ident": "PASN",
+            "length_ft": "6500",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "57.1761",
+            "le_longitude_deg": "-170.218",
+            "le_elevation_ft": "63",
+            "le_heading_degT": "190",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "57.1586",
+            "he_longitude_deg": "-170.223",
+            "he_elevation_ft": "36",
+            "he_heading_degT": "10",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58822",
+            "airport_ref": "5410",
+            "airport_ident": "PASN",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.75"
+        },
+        {
+            "id": "58823",
+            "airport_ref": "5410",
+            "airport_ident": "PASN",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "58824",
+            "airport_ref": "5410",
+            "airport_ident": "PASN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "58825",
+            "airport_ref": "5410",
+            "airport_ident": "PASN",
+            "type": "FSS",
+            "description": "COLD BAY RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "58826",
+            "airport_ref": "5410",
+            "airport_ident": "PASN",
+            "type": "MISC",
+            "description": "NWS OBSVR",
+            "frequency_mhz": "122"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93897",
+            "filename": "Saint_Paul_Island_NDB-DME_US",
+            "ident": "SPY",
+            "name": "Saint Paul Island",
+            "type": "NDB-DME",
+            "frequency_khz": "314",
+            "latitude_deg": "57.157798767089844",
+            "longitude_deg": "-170.2310028076172",
+            "elevation_ft": "43",
+            "iso_country": "US",
+            "dme_frequency_khz": "109900",
+            "dme_channel": "036X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.012",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PASN"
+        }
+    ]
+}

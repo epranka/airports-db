@@ -1,0 +1,80 @@
+{
+    "id": "27962",
+    "ident": "YSPT",
+    "type": "small_airport",
+    "name": "Southport Airport",
+    "latitude_deg": "-27.922054",
+    "longitude_deg": "153.372143",
+    "elevation_ft": "2",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YSPT",
+    "iata_code": "SHQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259361",
+            "airport_ref": "27962",
+            "airport_ident": "YSPT",
+            "length_ft": "2871",
+            "width_ft": "",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-27.9254",
+            "le_longitude_deg": "153.37",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "25",
+            "le_displaced_threshold_ft": "726",
+            "he_ident": "19",
+            "he_latitude_deg": "-27.9183",
+            "he_longitude_deg": "153.373",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "205",
+            "he_displaced_threshold_ft": "681"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74558",
+            "airport_ref": "27962",
+            "airport_ident": "YSPT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "74559",
+            "airport_ref": "27962",
+            "airport_ident": "YSPT",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.5"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

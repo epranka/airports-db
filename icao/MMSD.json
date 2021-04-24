@@ -1,0 +1,112 @@
+{
+    "id": "4750",
+    "ident": "MMSD",
+    "type": "large_airport",
+    "name": "Los Cabos International Airport",
+    "latitude_deg": "23.15180015563965",
+    "longitude_deg": "-109.72100067138672",
+    "elevation_ft": "374",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-BCS",
+    "municipality": "San José del Cabo",
+    "scheduled_service": "yes",
+    "gps_code": "MMSD",
+    "iata_code": "SJD",
+    "local_code": "",
+    "home_link": "http://loscabos.aeropuertosgap.com.mx/index.php?lang=eng",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Los_Cabos_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237695",
+            "airport_ref": "4750",
+            "airport_ident": "MMSD",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "23.1653",
+            "le_longitude_deg": "-109.723",
+            "le_elevation_ft": "374",
+            "le_heading_degT": "173.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "23.1384",
+            "he_longitude_deg": "-109.719",
+            "he_elevation_ft": "348",
+            "he_heading_degT": "353.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55438",
+            "airport_ref": "4750",
+            "airport_ident": "MMSD",
+            "type": "APP",
+            "description": "SAN JOSE APP",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "55439",
+            "airport_ref": "4750",
+            "airport_ident": "MMSD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "55440",
+            "airport_ref": "4750",
+            "airport_ident": "MMSD",
+            "type": "TWR",
+            "description": "SAN JOSE TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304792",
+        "code": "MX-BCS",
+        "local_code": "BCS",
+        "name": "Baja California Sur",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California_Sur",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93649",
+            "filename": "Cabos_VOR-DME_MX",
+            "ident": "SJD",
+            "name": "Cabos",
+            "type": "VOR-DME",
+            "frequency_khz": "114000",
+            "latitude_deg": "23.14620018005371",
+            "longitude_deg": "-109.72200012207031",
+            "elevation_ft": "374",
+            "iso_country": "MX",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.001",
+            "magnetic_variation_deg": "9.231",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMSD"
+        }
+    ]
+}

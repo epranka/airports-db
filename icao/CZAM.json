@@ -1,0 +1,96 @@
+{
+    "id": "2006",
+    "ident": "CZAM",
+    "type": "medium_airport",
+    "name": "Shuswap Regional Airport",
+    "latitude_deg": "50.682802",
+    "longitude_deg": "-119.228996",
+    "elevation_ft": "1751",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Salmon Arm",
+    "scheduled_service": "no",
+    "gps_code": "CZAM",
+    "iata_code": "YSN",
+    "local_code": "",
+    "home_link": "http://www.salmonarm.ca/index.aspx?nid=228",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Salmon_Arm_Airport",
+    "keywords": "AM4, Shuswap Regional Airport, Salmon Arm Airport",
+    "runways": [
+        {
+            "id": "234719",
+            "airport_ref": "2006",
+            "airport_ident": "CZAM",
+            "length_ft": "4260",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "50.6882",
+            "le_longitude_deg": "-119.232",
+            "le_elevation_ft": "1731",
+            "le_heading_degT": "158",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "50.6774",
+            "he_longitude_deg": "-119.225",
+            "he_elevation_ft": "1751",
+            "he_heading_degT": "338",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50347",
+            "airport_ref": "2006",
+            "airport_ident": "CZAM",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95027",
+            "filename": "Salmon_Arm_NDB-DME_CA",
+            "ident": "V6",
+            "name": "Salmon Arm",
+            "type": "NDB-DME",
+            "frequency_khz": "208",
+            "latitude_deg": "50.686100006103516",
+            "longitude_deg": "-119.23300170898438",
+            "elevation_ft": "1730",
+            "iso_country": "CA",
+            "dme_frequency_khz": "109000",
+            "dme_channel": "027X",
+            "dme_latitude_deg": "50.6856",
+            "dme_longitude_deg": "-119.243",
+            "dme_elevation_ft": "1730",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.003",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CZAM"
+        }
+    ]
+}

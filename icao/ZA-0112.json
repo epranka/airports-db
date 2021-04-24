@@ -1,0 +1,80 @@
+{
+    "id": "310578",
+    "ident": "ZA-0112",
+    "type": "small_airport",
+    "name": "Fly Inn Estate",
+    "latitude_deg": "-25.9711496926",
+    "longitude_deg": "28.3502766059",
+    "elevation_ft": "5300",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-GT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310581",
+            "airport_ref": "310578",
+            "airport_ident": "ZA-0112",
+            "length_ft": "3100",
+            "width_ft": "45",
+            "surface": "Grass/Concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-25.9746",
+            "le_longitude_deg": "28.3471",
+            "le_elevation_ft": "5194",
+            "le_heading_degT": "39",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "-25.9679",
+            "he_longitude_deg": "28.3533",
+            "he_elevation_ft": "5216",
+            "he_heading_degT": "219",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310579",
+            "airport_ref": "310578",
+            "airport_ident": "ZA-0112",
+            "type": "APP",
+            "description": "Waterkloof Approach",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "310580",
+            "airport_ref": "310578",
+            "airport_ident": "ZA-0112",
+            "type": "TWR/Radio",
+            "description": "Fly Inn Radio",
+            "frequency_mhz": "125.6"
+        }
+    ],
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306297",
+        "code": "ZA-GT",
+        "local_code": "GT",
+        "name": "Gauteng",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gauteng",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "id": "1982",
+    "ident": "CYYN",
+    "type": "medium_airport",
+    "name": "Swift Current Airport",
+    "latitude_deg": "50.291900634799994",
+    "longitude_deg": "-107.691001892",
+    "elevation_ft": "2680",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Swift Current",
+    "scheduled_service": "no",
+    "gps_code": "CYYN",
+    "iata_code": "YYN",
+    "local_code": "",
+    "home_link": "http://www.swiftcurrentairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Swift_Current_Airport",
+    "keywords": "YYN",
+    "runways": [
+        {
+            "id": "234613",
+            "airport_ref": "1982",
+            "airport_ident": "CYYN",
+            "length_ft": "2500",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "50.2889",
+            "le_longitude_deg": "-107.699",
+            "le_elevation_ft": "2680",
+            "le_heading_degT": "49.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "50.2933",
+            "he_longitude_deg": "-107.691",
+            "he_elevation_ft": "2661",
+            "he_heading_degT": "229.3",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "234614",
+            "airport_ref": "1982",
+            "airport_ident": "CYYN",
+            "length_ft": "4250",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "50.2967",
+            "le_longitude_deg": "-107.696",
+            "le_elevation_ft": "2650",
+            "le_heading_degT": "136",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "50.2883",
+            "he_longitude_deg": "-107.683",
+            "he_elevation_ft": "2667",
+            "he_heading_degT": "316",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50145",
+            "airport_ref": "1982",
+            "airport_ident": "CYYN",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50146",
+            "airport_ref": "1982",
+            "airport_ident": "CYYN",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "50147",
+            "airport_ref": "1982",
+            "airport_ident": "CYYN",
+            "type": "CNTR",
+            "description": "WINNIPEG CNTR",
+            "frequency_mhz": "132.8"
+        },
+        {
+            "id": "50148",
+            "airport_ref": "1982",
+            "airport_ident": "CYYN",
+            "type": "RCO",
+            "description": "EDMONTON RDO",
+            "frequency_mhz": "123.275"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303305",
+        "code": "CA-SK",
+        "local_code": "SK",
+        "name": "Saskatchewan",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95924",
+            "filename": "Swift_Current_VOR-DME_CA",
+            "ident": "YYN",
+            "name": "Swift Current",
+            "type": "VOR-DME",
+            "frequency_khz": "117400",
+            "latitude_deg": "50.29719924926758",
+            "longitude_deg": "-107.69100189208984",
+            "elevation_ft": "2680",
+            "iso_country": "CA",
+            "dme_frequency_khz": "117400",
+            "dme_channel": "121X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.001",
+            "magnetic_variation_deg": "12.378",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYYN"
+        }
+    ]
+}

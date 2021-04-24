@@ -1,0 +1,80 @@
+{
+    "id": "27008",
+    "ident": "YHOT",
+    "type": "medium_airport",
+    "name": "Mount Hotham Airport",
+    "latitude_deg": "-37.0475006104",
+    "longitude_deg": "147.333999634",
+    "elevation_ft": "4260",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "Mount Hotham",
+    "scheduled_service": "yes",
+    "gps_code": "YHOT",
+    "iata_code": "MHU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mount_Hotham_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233094",
+            "airport_ref": "27008",
+            "airport_ident": "YHOT",
+            "length_ft": "4762",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-37.0451",
+            "le_longitude_deg": "147.328",
+            "le_elevation_ft": "4259",
+            "le_heading_degT": "119.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "-37.0512",
+            "he_longitude_deg": "147.342",
+            "he_elevation_ft": "4229",
+            "he_heading_degT": "299.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48519",
+            "airport_ref": "27008",
+            "airport_ident": "YHOT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.75"
+        },
+        {
+            "id": "48520",
+            "airport_ref": "27008",
+            "airport_ident": "YHOT",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "125.2"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302975",
+        "code": "AU-VIC",
+        "local_code": "VIC",
+        "name": "Victoria",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
+        "keywords": ""
+    }
+}

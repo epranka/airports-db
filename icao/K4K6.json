@@ -1,0 +1,80 @@
+{
+    "id": "18831",
+    "ident": "K4K6",
+    "type": "small_airport",
+    "name": "Bloomfield Municipal Airport",
+    "latitude_deg": "40.73210144042969",
+    "longitude_deg": "-92.42829895019531",
+    "elevation_ft": "888",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Bloomfield",
+    "scheduled_service": "no",
+    "gps_code": "K4K6",
+    "iata_code": "",
+    "local_code": "4K6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244003",
+            "airport_ref": "18831",
+            "airport_ident": "K4K6",
+            "length_ft": "3401",
+            "width_ft": "50",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.7368",
+            "le_longitude_deg": "-92.4283",
+            "le_elevation_ft": "883",
+            "le_heading_degT": "179.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "40.7274",
+            "he_longitude_deg": "-92.4282",
+            "he_elevation_ft": "888",
+            "he_heading_degT": "359.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67194",
+            "airport_ref": "18831",
+            "airport_ident": "K4K6",
+            "type": "CNTR",
+            "description": "CHICAGO CNTR",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "67195",
+            "airport_ref": "18831",
+            "airport_ident": "K4K6",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

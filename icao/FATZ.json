@@ -1,0 +1,96 @@
+{
+    "id": "2845",
+    "ident": "FATZ",
+    "type": "medium_airport",
+    "name": "Tzaneen Airport",
+    "latitude_deg": "-23.8243999481",
+    "longitude_deg": "30.329299926799997",
+    "elevation_ft": "1914",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Tzaneen",
+    "scheduled_service": "no",
+    "gps_code": "FATZ",
+    "iata_code": "LTA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238714",
+            "airport_ref": "2845",
+            "airport_ident": "FATZ",
+            "length_ft": "4659",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-23.8285",
+            "le_longitude_deg": "30.3238",
+            "le_elevation_ft": "1914",
+            "le_heading_degT": "49",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "-23.8204",
+            "he_longitude_deg": "30.3348",
+            "he_elevation_ft": "1808",
+            "he_heading_degT": "229",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57029",
+            "airport_ref": "2845",
+            "airport_ident": "FATZ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.8"
+        }
+    ],
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306301",
+        "code": "ZA-NP",
+        "local_code": "NP",
+        "name": "Limpopo",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94745",
+            "filename": "Tzaneen_NDB_ZA",
+            "ident": "TZ",
+            "name": "Tzaneen",
+            "type": "NDB",
+            "frequency_khz": "213",
+            "latitude_deg": "-23.80229949951172",
+            "longitude_deg": "30.36079978942871",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.16",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FATZ"
+        }
+    ]
+}

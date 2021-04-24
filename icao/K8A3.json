@@ -1,0 +1,96 @@
+{
+    "id": "19116",
+    "ident": "K8A3",
+    "type": "small_airport",
+    "name": "Livingston Municipal Airport",
+    "latitude_deg": "36.41210174560547",
+    "longitude_deg": "-85.31159973144531",
+    "elevation_ft": "1372",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Livingston",
+    "scheduled_service": "no",
+    "gps_code": "K8A3",
+    "iata_code": "",
+    "local_code": "8A3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245735",
+            "airport_ref": "19116",
+            "airport_ident": "K8A3",
+            "length_ft": "3998",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "36.4076",
+            "le_longitude_deg": "-85.3153",
+            "le_elevation_ft": "1366",
+            "le_heading_degT": "33.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "36.4168",
+            "he_longitude_deg": "-85.3078",
+            "he_elevation_ft": "1372",
+            "he_heading_degT": "213.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70950",
+            "airport_ref": "19116",
+            "airport_ident": "K8A3",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "126.175"
+        },
+        {
+            "id": "70951",
+            "airport_ref": "19116",
+            "airport_ident": "K8A3",
+            "type": "CNTR",
+            "description": "INDIANAPOLIS CNTR",
+            "frequency_mhz": "121.325"
+        },
+        {
+            "id": "70952",
+            "airport_ref": "19116",
+            "airport_ident": "K8A3",
+            "type": "RDO",
+            "description": "NASHVILLE RDO",
+            "frequency_mhz": "108.4"
+        },
+        {
+            "id": "70953",
+            "airport_ref": "19116",
+            "airport_ident": "K8A3",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

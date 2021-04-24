@@ -1,0 +1,120 @@
+{
+    "id": "4571",
+    "ident": "LUKK",
+    "type": "medium_airport",
+    "name": "Chişinău International Airport",
+    "latitude_deg": "46.92770004272461",
+    "longitude_deg": "28.930999755859375",
+    "elevation_ft": "399",
+    "continent": "EU",
+    "iso_country": "MD",
+    "iso_region": "MD-C",
+    "municipality": "Chişinău",
+    "scheduled_service": "yes",
+    "gps_code": "LUKK",
+    "iata_code": "KIV",
+    "local_code": "",
+    "home_link": "http://www.airport.md/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chi%C5%9Fin%C4%83u_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237544",
+            "airport_ref": "4571",
+            "airport_ident": "LUKK",
+            "length_ft": "11779",
+            "width_ft": "145",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "46.9273",
+            "le_longitude_deg": "28.9074",
+            "le_elevation_ft": "399",
+            "le_heading_degT": "88",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "46.9283",
+            "he_longitude_deg": "28.9545",
+            "he_elevation_ft": "279",
+            "he_heading_degT": "268",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55273",
+            "airport_ref": "4571",
+            "airport_ident": "LUKK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "55274",
+            "airport_ref": "4571",
+            "airport_ident": "LUKK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "133.7"
+        },
+        {
+            "id": "55275",
+            "airport_ref": "4571",
+            "airport_ident": "LUKK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "55276",
+            "airport_ref": "4571",
+            "airport_ident": "LUKK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302704",
+        "code": "MD",
+        "name": "Moldova",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Moldova",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306450",
+        "code": "MD-C",
+        "local_code": "C",
+        "name": "Chişinău",
+        "continent": "EU",
+        "iso_country": "MD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chişinău",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86770",
+            "filename": "Chisinau_VOR-DME_MD",
+            "ident": "CHN",
+            "name": "Chisinau",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "46.92639923095703",
+            "longitude_deg": "28.899200439453125",
+            "elevation_ft": "418",
+            "iso_country": "MD",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.113",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LUKK"
+        }
+    ]
+}

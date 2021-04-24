@@ -1,0 +1,80 @@
+{
+    "id": "19004",
+    "ident": "K6M6",
+    "type": "small_airport",
+    "name": "Lewis County Regional Airport",
+    "latitude_deg": "40.12919998",
+    "longitude_deg": "-91.67829895",
+    "elevation_ft": "675",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Monticello",
+    "scheduled_service": "no",
+    "gps_code": "K6M6",
+    "iata_code": "",
+    "local_code": "6M6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242679",
+            "airport_ref": "19004",
+            "airport_ident": "K6M6",
+            "length_ft": "3500",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.134",
+            "le_longitude_deg": "-91.6781",
+            "le_elevation_ft": "664",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "40.1244",
+            "he_longitude_deg": "-91.6784",
+            "he_elevation_ft": "674",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64406",
+            "airport_ref": "19004",
+            "airport_ident": "K6M6",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "135.525"
+        },
+        {
+            "id": "64407",
+            "airport_ref": "19004",
+            "airport_ident": "K6M6",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

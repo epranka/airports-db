@@ -1,0 +1,112 @@
+{
+    "id": "4428",
+    "ident": "LOAN",
+    "type": "medium_airport",
+    "name": "Wiener Neustadt East Airport",
+    "latitude_deg": "47.843299865722656",
+    "longitude_deg": "16.260099411010742",
+    "elevation_ft": "896",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Wiener Neustadt",
+    "scheduled_service": "no",
+    "gps_code": "LOAN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.loan-airport.at/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233579",
+            "airport_ref": "4428",
+            "airport_ident": "LOAN",
+            "length_ft": "3500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "47.8439",
+            "le_longitude_deg": "16.2531",
+            "le_elevation_ft": "896",
+            "le_heading_degT": "97",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "47.8428",
+            "he_longitude_deg": "16.2672",
+            "he_elevation_ft": "876",
+            "he_heading_degT": "277",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49246",
+            "airport_ref": "4428",
+            "airport_ident": "LOAN",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "49247",
+            "airport_ref": "4428",
+            "airport_ident": "LOAN",
+            "type": "APP",
+            "description": "WIEN APP",
+            "frequency_mhz": "134.675"
+        },
+        {
+            "id": "49248",
+            "airport_ref": "4428",
+            "airport_ident": "LOAN",
+            "type": "INFO",
+            "description": "WIEN INFO",
+            "frequency_mhz": "124.4"
+        }
+    ],
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302959",
+        "code": "AT-3",
+        "local_code": "3",
+        "name": "Lower Austria",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Austria",
+        "keywords": "Niederösterreich"
+    },
+    "navaids": [
+        {
+            "id": "94299",
+            "filename": "Wierner_Neustadt_East_NDB_AT",
+            "ident": "TF",
+            "name": "Wierner Neustadt East",
+            "type": "NDB",
+            "frequency_khz": "315",
+            "latitude_deg": "47.840999603271484",
+            "longitude_deg": "16.281700134277344",
+            "elevation_ft": "",
+            "iso_country": "AT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.463",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LOAN"
+        }
+    ]
+}

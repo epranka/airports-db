@@ -1,0 +1,104 @@
+{
+    "id": "26673",
+    "ident": "VTSN",
+    "type": "medium_airport",
+    "name": "Cha Eian Airport",
+    "latitude_deg": "8.47115039825",
+    "longitude_deg": "99.9555969238",
+    "elevation_ft": "44",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-80",
+    "municipality": "Nakhon Si Thammarat",
+    "scheduled_service": "no",
+    "gps_code": "VTSN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cha_Eian_Airport",
+    "keywords": "NST",
+    "runways": [
+        {
+            "id": "239174",
+            "airport_ref": "26673",
+            "airport_ident": "VTSN",
+            "length_ft": "7546",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "8.48149",
+            "le_longitude_deg": "99.9544",
+            "le_elevation_ft": "",
+            "le_heading_degT": "173",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "8.46076",
+            "he_longitude_deg": "99.9569",
+            "he_elevation_ft": "",
+            "he_heading_degT": "353",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57713",
+            "airport_ref": "26673",
+            "airport_ident": "VTSN",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "657.7"
+        },
+        {
+            "id": "57714",
+            "airport_ref": "26673",
+            "airport_ident": "VTSN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305769",
+        "code": "TH-80",
+        "local_code": "80",
+        "name": "Nakhon Si Thammarat Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nakhon_Si_Thammarat",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91709",
+            "filename": "Cha_Ian_NDB_TH",
+            "ident": "NS",
+            "name": "Cha Ian",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "8.461669921875",
+            "longitude_deg": "99.96170043945312",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.253",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VTSN"
+        }
+    ]
+}

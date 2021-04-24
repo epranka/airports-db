@@ -1,0 +1,80 @@
+{
+    "id": "27766",
+    "ident": "YMEO",
+    "type": "small_airport",
+    "name": "Merton Airport",
+    "latitude_deg": "-36.967704",
+    "longitude_deg": "145.707616",
+    "elevation_ft": "1101",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "Merton",
+    "scheduled_service": "no",
+    "gps_code": "YMEO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258983",
+            "airport_ref": "27766",
+            "airport_ident": "YMEO",
+            "length_ft": "2198",
+            "width_ft": "",
+            "surface": "G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "73775",
+            "airport_ref": "27766",
+            "airport_ident": "YMEO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "73773",
+            "airport_ref": "27766",
+            "airport_ident": "YMEO",
+            "type": "FIA",
+            "description": "Melbourne Centre",
+            "frequency_mhz": "122.4"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302975",
+        "code": "AU-VIC",
+        "local_code": "VIC",
+        "name": "Victoria",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
+        "keywords": ""
+    }
+}

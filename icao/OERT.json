@@ -1,0 +1,104 @@
+{
+    "id": "5115",
+    "ident": "OERT",
+    "type": "medium_airport",
+    "name": "Ras Tanura Airport",
+    "latitude_deg": "26.723101",
+    "longitude_deg": "50.0308",
+    "elevation_ft": "6",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-04",
+    "municipality": "Ras Tanura",
+    "scheduled_service": "no",
+    "gps_code": "OERT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238672",
+            "airport_ref": "5115",
+            "airport_ident": "OERT",
+            "length_ft": "7063",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "26.7317",
+            "le_longitude_deg": "50.0258",
+            "le_elevation_ft": "8",
+            "le_heading_degT": "152",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "26.7145",
+            "he_longitude_deg": "50.0358",
+            "he_elevation_ft": "8",
+            "he_heading_degT": "332",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56961",
+            "airport_ref": "5115",
+            "airport_ident": "OERT",
+            "type": "A/G",
+            "description": "AG",
+            "frequency_mhz": "138.2"
+        },
+        {
+            "id": "56962",
+            "airport_ref": "5115",
+            "airport_ident": "OERT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.4"
+        }
+    ],
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305363",
+        "code": "SA-04",
+        "local_code": "04",
+        "name": "Ash Sharqiyah Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ash_Sharqiyah_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93265",
+            "filename": "Ras_Tanura_NDB_SA",
+            "ident": "RT",
+            "name": "Ras Tanura",
+            "type": "NDB",
+            "frequency_khz": "286",
+            "latitude_deg": "26.716699600219727",
+            "longitude_deg": "50",
+            "elevation_ft": "6",
+            "iso_country": "SA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.204",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OERT"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "46530",
+    "ident": "KECP",
+    "type": "medium_airport",
+    "name": "Northwest Florida Beaches International Airport",
+    "latitude_deg": "30.357106",
+    "longitude_deg": "-85.795414",
+    "elevation_ft": "69",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Panama City Beach",
+    "scheduled_service": "yes",
+    "gps_code": "KECP",
+    "iata_code": "ECP",
+    "local_code": "ECP",
+    "home_link": "http://iflybeaches.com",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Florida_Beaches_International_Airport",
+    "keywords": "Northwest Florida Beaches International Airport",
+    "runways": [
+        {
+            "id": "271045",
+            "airport_ref": "46530",
+            "airport_ident": "KECP",
+            "length_ft": "10000",
+            "width_ft": "",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75441",
+            "airport_ref": "46530",
+            "airport_ident": "KECP",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "119.975"
+        },
+        {
+            "id": "75440",
+            "airport_ref": "46530",
+            "airport_ident": "KECP",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "75442",
+            "airport_ref": "46530",
+            "airport_ident": "KECP",
+            "type": "GND",
+            "description": "Panama City Ground",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "75443",
+            "airport_ref": "46530",
+            "airport_ident": "KECP",
+            "type": "TWR",
+            "description": "Panama City Tower",
+            "frequency_mhz": "118.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

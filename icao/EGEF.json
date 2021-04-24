@@ -1,0 +1,72 @@
+{
+    "id": "29127",
+    "ident": "EGEF",
+    "type": "medium_airport",
+    "name": "Fair Isle Airport",
+    "latitude_deg": "59.53580093383789",
+    "longitude_deg": "-1.628059983253479",
+    "elevation_ft": "223",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Fair Isle",
+    "scheduled_service": "yes",
+    "gps_code": "EGEF",
+    "iata_code": "FIE",
+    "local_code": "",
+    "home_link": "http://www.fairisle.org.uk/egef/index.htm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fair_Isle_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "250727",
+            "airport_ref": "29127",
+            "airport_ident": "EGEF",
+            "length_ft": "1761",
+            "width_ft": "75",
+            "surface": "Gravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "227",
+            "le_heading_degT": "62",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "221",
+            "he_heading_degT": "242",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71927",
+            "airport_ref": "29127",
+            "airport_ident": "EGEF",
+            "type": "A/G",
+            "description": "Fair Isle A/G",
+            "frequency_mhz": "118.025"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306377",
+        "code": "GB-SCT",
+        "local_code": "SCT",
+        "name": "Scotland",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
+        "keywords": "keep"
+    }
+}

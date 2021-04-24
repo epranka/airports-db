@@ -1,0 +1,102 @@
+{
+    "id": "29519",
+    "ident": "LSZF",
+    "type": "small_airport",
+    "name": "Flugplatz Birrfeld",
+    "latitude_deg": "47.4436",
+    "longitude_deg": "8.23361",
+    "elevation_ft": "1300",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-AG",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LSZF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.birrfeld.ch/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "302425",
+            "airport_ref": "29519",
+            "airport_ident": "LSZF",
+            "length_ft": "2264",
+            "width_ft": "65",
+            "surface": "asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08L",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "295",
+            "he_ident": "26R",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "256699",
+            "airport_ref": "29519",
+            "airport_ident": "LSZF",
+            "length_ft": "2264",
+            "width_ft": "66",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08R",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26L",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75568",
+            "airport_ref": "29519",
+            "airport_ident": "LSZF",
+            "type": "AFIS",
+            "description": "Birrfeld aerodrome (de,en)",
+            "frequency_mhz": "123.55"
+        },
+        {
+            "id": "302419",
+            "airport_ref": "29519",
+            "airport_ident": "LSZF",
+            "type": "FIS",
+            "description": "Zurich Information (en,ge)",
+            "frequency_mhz": "124.7"
+        }
+    ],
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303352",
+        "code": "CH-AG",
+        "local_code": "AG",
+        "name": "Canton of Aargau",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aargau",
+        "keywords": ""
+    }
+}

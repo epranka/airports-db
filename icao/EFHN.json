@@ -1,0 +1,72 @@
+{
+    "id": "2309",
+    "ident": "EFHN",
+    "type": "small_airport",
+    "name": "Hanko Airport",
+    "latitude_deg": "59.8489",
+    "longitude_deg": "23.083599",
+    "elevation_ft": "20",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-18",
+    "municipality": "Hanko",
+    "scheduled_service": "no",
+    "gps_code": "EFHN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hanko_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235750",
+            "airport_ref": "2309",
+            "airport_ident": "EFHN",
+            "length_ft": "5249",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "59.8423",
+            "le_longitude_deg": "23.078",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "33.8",
+            "le_displaced_threshold_ft": "656",
+            "he_ident": "21",
+            "he_latitude_deg": "59.8543",
+            "he_longitude_deg": "23.0939",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "213.8",
+            "he_displaced_threshold_ft": "656"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52114",
+            "airport_ref": "2309",
+            "airport_ident": "EFHN",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "123.6"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336519",
+        "code": "FI-18",
+        "local_code": "18",
+        "name": "Uusimaa Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uusimaa",
+        "keywords": ""
+    }
+}

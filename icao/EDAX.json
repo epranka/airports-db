@@ -1,0 +1,80 @@
+{
+    "id": "2193",
+    "ident": "EDAX",
+    "type": "small_airport",
+    "name": "Rechlin-Lärz Airport",
+    "latitude_deg": "53.306388855",
+    "longitude_deg": "12.7522220612",
+    "elevation_ft": "220",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-MV",
+    "municipality": "Lärz",
+    "scheduled_service": "no",
+    "gps_code": "EDAX",
+    "iata_code": "REB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rechlin-L%C3%A4rz_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236221",
+            "airport_ref": "2193",
+            "airport_ident": "EDAX",
+            "length_ft": "7808",
+            "width_ft": "164",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "53.3036",
+            "le_longitude_deg": "12.7359",
+            "le_elevation_ft": "220",
+            "le_heading_degT": "76",
+            "le_displaced_threshold_ft": "984",
+            "he_ident": "25",
+            "he_latitude_deg": "53.3092",
+            "he_longitude_deg": "12.7704",
+            "he_elevation_ft": "220",
+            "he_heading_degT": "256",
+            "he_displaced_threshold_ft": "984"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52997",
+            "airport_ref": "2193",
+            "airport_ident": "EDAX",
+            "type": "INFO",
+            "description": "LARZ INFO",
+            "frequency_mhz": "129.975"
+        },
+        {
+            "id": "52998",
+            "airport_ref": "2193",
+            "airport_ident": "EDAX",
+            "type": "INFO",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "132.65"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303554",
+        "code": "DE-MV",
+        "local_code": "MV",
+        "name": "Mecklenburg-Vorpommern",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mecklenburg-Vorpommern",
+        "keywords": ""
+    }
+}

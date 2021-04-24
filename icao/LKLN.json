@@ -1,0 +1,96 @@
+{
+    "id": "4400",
+    "ident": "LKLN",
+    "type": "medium_airport",
+    "name": "Plzeň-Líně Airport",
+    "latitude_deg": "49.675201416016",
+    "longitude_deg": "13.274600028992",
+    "elevation_ft": "1188",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-PL",
+    "municipality": "Plzen",
+    "scheduled_service": "no",
+    "gps_code": "LKLN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235680",
+            "airport_ref": "4400",
+            "airport_ident": "LKLN",
+            "length_ft": "4757",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "49.6718",
+            "le_longitude_deg": "13.266",
+            "le_elevation_ft": "1175",
+            "le_heading_degT": "56.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "49.6786",
+            "he_longitude_deg": "13.2832",
+            "he_elevation_ft": "1188",
+            "he_heading_degT": "236.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "333260",
+            "airport_ref": "4400",
+            "airport_ident": "LKLN",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "129.005"
+        }
+    ],
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303540",
+        "code": "CZ-PL",
+        "local_code": "PL",
+        "name": "Plzeň Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Plzeň_Region",
+        "keywords": "Plzeňský kraj"
+    },
+    "navaids": [
+        {
+            "id": "87225",
+            "filename": "Line_NDB_CZ",
+            "ident": "D",
+            "name": "Line",
+            "type": "NDB",
+            "frequency_khz": "398",
+            "latitude_deg": "49.683101654052734",
+            "longitude_deg": "13.29419994354248",
+            "elevation_ft": "",
+            "iso_country": "CZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.062",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "LKLN"
+        }
+    ]
+}

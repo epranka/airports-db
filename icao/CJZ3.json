@@ -1,0 +1,104 @@
+{
+    "id": "1155",
+    "ident": "CJZ3",
+    "type": "small_airport",
+    "name": "Melfort Airport",
+    "latitude_deg": "52.86669921875",
+    "longitude_deg": "-104.69999694824219",
+    "elevation_ft": "1495",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Melfort",
+    "scheduled_service": "no",
+    "gps_code": "CJZ3",
+    "iata_code": "",
+    "local_code": "CJZ3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Melfort_Airport",
+    "keywords": "JZ3",
+    "runways": [
+        {
+            "id": "234702",
+            "airport_ref": "1155",
+            "airport_ident": "CJZ3",
+            "length_ft": "3000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "52.8645",
+            "le_longitude_deg": "-104.708",
+            "le_elevation_ft": "1495",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "52.8645",
+            "he_longitude_deg": "-104.694",
+            "he_elevation_ft": "1488",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50320",
+            "airport_ref": "1155",
+            "airport_ident": "CJZ3",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "50321",
+            "airport_ref": "1155",
+            "airport_ident": "CJZ3",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303305",
+        "code": "CA-SK",
+        "local_code": "SK",
+        "name": "Saskatchewan",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87234",
+            "filename": "Melfort_NDB_CA",
+            "ident": "D5",
+            "name": "Melfort",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "52.87139892578125",
+            "longitude_deg": "-104.80599975585938",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.585",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CJZ3"
+        }
+    ]
+}

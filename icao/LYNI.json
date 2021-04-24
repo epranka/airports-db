@@ -1,0 +1,120 @@
+{
+    "id": "4612",
+    "ident": "LYNI",
+    "type": "medium_airport",
+    "name": "Nis Airport",
+    "latitude_deg": "43.337299",
+    "longitude_deg": "21.853701",
+    "elevation_ft": "648",
+    "continent": "EU",
+    "iso_country": "RS",
+    "iso_region": "RS-20",
+    "municipality": "Nis",
+    "scheduled_service": "yes",
+    "gps_code": "LYNI",
+    "iata_code": "INI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ni%C5%A1_Constantine_the_Great_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246232",
+            "airport_ref": "4612",
+            "airport_ident": "LYNI",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "43.3412",
+            "le_longitude_deg": "21.8413",
+            "le_elevation_ft": "644",
+            "le_heading_degT": "113",
+            "le_displaced_threshold_ft": "719",
+            "he_ident": "29",
+            "he_latitude_deg": "43.3323",
+            "he_longitude_deg": "21.8695",
+            "he_elevation_ft": "646",
+            "he_heading_degT": "293",
+            "he_displaced_threshold_ft": "985"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71823",
+            "airport_ref": "4612",
+            "airport_ident": "LYNI",
+            "type": "APP",
+            "description": "Nis Approach",
+            "frequency_mhz": "119.525"
+        },
+        {
+            "id": "322711",
+            "airport_ref": "4612",
+            "airport_ident": "LYNI",
+            "type": "EMERG",
+            "description": "",
+            "frequency_mhz": "121.5"
+        },
+        {
+            "id": "71824",
+            "airport_ref": "4612",
+            "airport_ident": "LYNI",
+            "type": "TWR",
+            "description": "Nis Tower",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "322710",
+            "airport_ref": "4612",
+            "airport_ident": "LYNI",
+            "type": "TWR/APP ALTN",
+            "description": "",
+            "frequency_mhz": "136.075"
+        }
+    ],
+    "country": {
+        "id": "302713",
+        "code": "RS",
+        "name": "Serbia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
+        "keywords": "Serb"
+    },
+    "region": {
+        "id": "306610",
+        "code": "RS-20",
+        "local_code": "20",
+        "name": "Nišava",
+        "continent": "EU",
+        "iso_country": "RS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nišava",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91579",
+            "filename": "Nis_VOR-DME_RS",
+            "ident": "NIS",
+            "name": "Nis",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "43.346500396728516",
+            "longitude_deg": "21.82710075378418",
+            "elevation_ft": "623",
+            "iso_country": "RS",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.304",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LYNI"
+        }
+    ]
+}

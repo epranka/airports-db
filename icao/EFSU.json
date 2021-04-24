@@ -1,0 +1,80 @@
+{
+    "id": "27272",
+    "ident": "EFSU",
+    "type": "small_airport",
+    "name": "Suomussalmi Airfield",
+    "latitude_deg": "64.821899",
+    "longitude_deg": "28.7103",
+    "elevation_ft": "541",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-05",
+    "municipality": "Suomussalmi",
+    "scheduled_service": "no",
+    "gps_code": "EFSU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Suomussalmi_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "310824",
+            "airport_ref": "27272",
+            "airport_ident": "EFSU",
+            "length_ft": "2624",
+            "width_ft": "49",
+            "surface": "Oilgravel/sand",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310823",
+            "airport_ref": "27272",
+            "airport_ident": "EFSU",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "310822",
+            "airport_ref": "27272",
+            "airport_ident": "EFSU",
+            "type": "RDO",
+            "description": "Suomussalmi traffic",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336506",
+        "code": "FI-05",
+        "local_code": "05",
+        "name": "Kainuu Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kainuu",
+        "keywords": ""
+    }
+}

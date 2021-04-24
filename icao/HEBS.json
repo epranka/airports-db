@@ -1,0 +1,102 @@
+{
+    "id": "3182",
+    "ident": "HEBS",
+    "type": "medium_airport",
+    "name": "Beni Suef Air Base",
+    "latitude_deg": "29.20829963684082",
+    "longitude_deg": "31.016599655151367",
+    "elevation_ft": "108",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-BNS",
+    "municipality": "Beni Suef",
+    "scheduled_service": "no",
+    "gps_code": "HEBS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235554",
+            "airport_ref": "3182",
+            "airport_ident": "HEBS",
+            "length_ft": "11565",
+            "width_ft": "152",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "29.182",
+            "le_longitude_deg": "31.0163",
+            "le_elevation_ft": "",
+            "le_heading_degT": "9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "29.2136",
+            "he_longitude_deg": "31.0217",
+            "he_elevation_ft": "",
+            "he_heading_degT": "189",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "235555",
+            "airport_ref": "3182",
+            "airport_ident": "HEBS",
+            "length_ft": "9843",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "29.2113",
+            "le_longitude_deg": "31.0015",
+            "le_elevation_ft": "",
+            "le_heading_degT": "55.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "29.2264",
+            "he_longitude_deg": "31.0268",
+            "he_elevation_ft": "",
+            "he_heading_degT": "235.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51852",
+            "airport_ref": "3182",
+            "airport_ident": "HEBS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "51853",
+            "airport_ref": "3182",
+            "airport_ident": "HEBS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.1"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303696",
+        "code": "EG-BNS",
+        "local_code": "BNS",
+        "name": "Beni Suef Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Beni_Suef_Governorate",
+        "keywords": ""
+    }
+}

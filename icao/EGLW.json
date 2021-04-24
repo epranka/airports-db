@@ -1,0 +1,80 @@
+{
+    "id": "43211",
+    "ident": "EGLW",
+    "type": "heliport",
+    "name": "London Heliport",
+    "latitude_deg": "51.46972274779999",
+    "longitude_deg": "-0.179444000125",
+    "elevation_ft": "18",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "London",
+    "scheduled_service": "no",
+    "gps_code": "EGLW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.londonheliport.co.uk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/London_Heliport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "307325",
+            "airport_ref": "43211",
+            "airport_ident": "EGLW",
+            "length_ft": "114",
+            "width_ft": "52",
+            "surface": "Concrete",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "18",
+            "le_heading_degT": "24",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "18",
+            "he_heading_degT": "204",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71950",
+            "airport_ref": "43211",
+            "airport_ident": "EGLW",
+            "type": "RAD/APP",
+            "description": "London Heliport RAD/APP",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "71949",
+            "airport_ref": "43211",
+            "airport_ident": "EGLW",
+            "type": "TWR",
+            "description": "London Heliport TWR",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "id": "3944",
+    "ident": "KVBG",
+    "type": "large_airport",
+    "name": "Vandenberg Air Force Base",
+    "latitude_deg": "34.7373008728",
+    "longitude_deg": "-120.583999634",
+    "elevation_ft": "369",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Lompoc",
+    "scheduled_service": "no",
+    "gps_code": "KVBG",
+    "iata_code": "VBG",
+    "local_code": "VBG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vandenberg_Air_Force_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245123",
+            "airport_ref": "3944",
+            "airport_ident": "KVBG",
+            "length_ft": "15000",
+            "width_ft": "200",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "34.7523",
+            "le_longitude_deg": "-120.601",
+            "le_elevation_ft": "238",
+            "le_heading_degT": "136.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "34.7224",
+            "he_longitude_deg": "-120.567",
+            "he_elevation_ft": "369",
+            "he_heading_degT": "316.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69619",
+            "airport_ref": "3944",
+            "airport_ident": "KVBG",
+            "type": "A/D",
+            "description": "SANTA BARB APP/DEP",
+            "frequency_mhz": "124.15"
+        },
+        {
+            "id": "69620",
+            "airport_ref": "3944",
+            "airport_ident": "KVBG",
+            "type": "ACP",
+            "description": "COMD POST",
+            "frequency_mhz": "31.1"
+        },
+        {
+            "id": "69621",
+            "airport_ref": "3944",
+            "airport_ident": "KVBG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "133.125"
+        },
+        {
+            "id": "69622",
+            "airport_ref": "3944",
+            "airport_ident": "KVBG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.95"
+        },
+        {
+            "id": "69623",
+            "airport_ref": "3944",
+            "airport_ident": "KVBG",
+            "type": "GCCD",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "69624",
+            "airport_ref": "3944",
+            "airport_ident": "KVBG",
+            "type": "MISC",
+            "description": "RANGE CON",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "69625",
+            "airport_ref": "3944",
+            "airport_ident": "KVBG",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.24"
+        },
+        {
+            "id": "69626",
+            "airport_ref": "3944",
+            "airport_ident": "KVBG",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "69627",
+            "airport_ref": "3944",
+            "airport_ident": "KVBG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95057",
+            "filename": "Vandenberg_TACAN_US",
+            "ident": "VBG",
+            "name": "Vandenberg",
+            "type": "TACAN",
+            "frequency_khz": "112250",
+            "latitude_deg": "34.732601165771484",
+            "longitude_deg": "-120.58300018310547",
+            "elevation_ft": "370",
+            "iso_country": "US",
+            "dme_frequency_khz": "112250",
+            "dme_channel": "059Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.001",
+            "magnetic_variation_deg": "13.413",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KVBG"
+        }
+    ]
+}

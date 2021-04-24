@@ -1,0 +1,96 @@
+{
+    "id": "26594",
+    "ident": "VNCG",
+    "type": "small_airport",
+    "name": "Bhadrapur Airport",
+    "latitude_deg": "26.5708007812",
+    "longitude_deg": "88.07959747310001",
+    "elevation_ft": "300",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-ME",
+    "municipality": "Bhadrapur",
+    "scheduled_service": "yes",
+    "gps_code": "VNCG",
+    "iata_code": "BDP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bhadrapur_Airport",
+    "keywords": "Chandragadhi Airport",
+    "runways": [
+        {
+            "id": "237995",
+            "airport_ref": "26594",
+            "airport_ident": "VNCG",
+            "length_ft": "3965",
+            "width_ft": "95",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "26.5718",
+            "le_longitude_deg": "88.0736",
+            "le_elevation_ft": "300",
+            "le_heading_degT": "100.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "26.5698",
+            "he_longitude_deg": "88.0855",
+            "he_elevation_ft": "300",
+            "he_heading_degT": "280.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55886",
+            "airport_ref": "26594",
+            "airport_ident": "VNCG",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302654",
+        "code": "NP",
+        "name": "Nepal",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nepal",
+        "keywords": "नेपाल विमानस्थलको"
+    },
+    "region": {
+        "id": "306435",
+        "code": "NP-ME",
+        "local_code": "ME",
+        "name": "Mechi",
+        "continent": "AS",
+        "iso_country": "NP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mechi",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89538",
+            "filename": "Chandragadhi_NDB_NP",
+            "ident": "JPA",
+            "name": "Chandragadhi",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "26.56999969482422",
+            "longitude_deg": "88.07749938964844",
+            "elevation_ft": "",
+            "iso_country": "NP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.09",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VNCG"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "19768",
+    "ident": "KERV",
+    "type": "small_airport",
+    "name": "Kerrville Municipal Louis Schreiner Field",
+    "latitude_deg": "29.9766998291",
+    "longitude_deg": "-99.08570098879999",
+    "elevation_ft": "1617",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Kerrville",
+    "scheduled_service": "no",
+    "gps_code": "KERV",
+    "iata_code": "ERV",
+    "local_code": "ERV",
+    "home_link": "http://www.co.kerr.tx.us/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kerrville_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245339",
+            "airport_ref": "19768",
+            "airport_ident": "KERV",
+            "length_ft": "4047",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "29.9774",
+            "le_longitude_deg": "-99.0906",
+            "le_elevation_ft": "1576",
+            "le_heading_degT": "33",
+            "le_displaced_threshold_ft": "455",
+            "he_ident": "21",
+            "he_latitude_deg": "29.9867",
+            "he_longitude_deg": "-99.0837",
+            "he_elevation_ft": "1617",
+            "he_heading_degT": "213",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245340",
+            "airport_ref": "19768",
+            "airport_ident": "KERV",
+            "length_ft": "6000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "29.9785",
+            "le_longitude_deg": "-99.0919",
+            "le_elevation_ft": "1575",
+            "le_heading_degT": "130.5",
+            "le_displaced_threshold_ft": "700",
+            "he_ident": "30",
+            "he_latitude_deg": "29.9678",
+            "he_longitude_deg": "-99.0775",
+            "he_elevation_ft": "1589",
+            "he_heading_degT": "310.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70090",
+            "airport_ref": "19768",
+            "airport_ident": "KERV",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.125"
+        },
+        {
+            "id": "70091",
+            "airport_ref": "19768",
+            "airport_ident": "KERV",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "134.95"
+        },
+        {
+            "id": "70092",
+            "airport_ref": "19768",
+            "airport_ident": "KERV",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "134.95"
+        },
+        {
+            "id": "70093",
+            "airport_ref": "19768",
+            "airport_ident": "KERV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

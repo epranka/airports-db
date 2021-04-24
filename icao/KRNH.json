@@ -1,0 +1,110 @@
+{
+    "id": "20944",
+    "ident": "KRNH",
+    "type": "medium_airport",
+    "name": "New Richmond Regional Airport",
+    "latitude_deg": "45.14830017",
+    "longitude_deg": "-92.5381012",
+    "elevation_ft": "998",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "New Richmond",
+    "scheduled_service": "no",
+    "gps_code": "KRNH",
+    "iata_code": "",
+    "local_code": "RNH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245404",
+            "airport_ref": "20944",
+            "airport_ident": "KRNH",
+            "length_ft": "2110",
+            "width_ft": "75",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "45.14",
+            "le_longitude_deg": "-92.5402",
+            "le_elevation_ft": "",
+            "le_heading_degT": "44.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "45.1441",
+            "he_longitude_deg": "-92.5344",
+            "he_elevation_ft": "",
+            "he_heading_degT": "224.7",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245405",
+            "airport_ref": "20944",
+            "airport_ident": "KRNH",
+            "length_ft": "4003",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "45.1527",
+            "le_longitude_deg": "-92.5427",
+            "le_elevation_ft": "996",
+            "le_heading_degT": "143.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "45.1439",
+            "he_longitude_deg": "-92.5334",
+            "he_elevation_ft": "996",
+            "he_heading_degT": "323.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70228",
+            "airport_ref": "20944",
+            "airport_ident": "KRNH",
+            "type": "A/D",
+            "description": "MINNEAPOLIS APP/DEP",
+            "frequency_mhz": "121.2"
+        },
+        {
+            "id": "70229",
+            "airport_ref": "20944",
+            "airport_ident": "KRNH",
+            "type": "ASOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "70230",
+            "airport_ref": "20944",
+            "airport_ident": "KRNH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.975"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

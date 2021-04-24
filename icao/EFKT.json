@@ -1,0 +1,104 @@
+{
+    "id": "2325",
+    "ident": "EFKT",
+    "type": "medium_airport",
+    "name": "Kittilä Airport",
+    "latitude_deg": "67.700996398926",
+    "longitude_deg": "24.846799850464",
+    "elevation_ft": "644",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-10",
+    "municipality": "Kittilä",
+    "scheduled_service": "yes",
+    "gps_code": "EFKT",
+    "iata_code": "KTT",
+    "local_code": "",
+    "home_link": "http://www.finavia.fi/en/kittila/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kittil%C3%A4_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235733",
+            "airport_ref": "2325",
+            "airport_ident": "EFKT",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "67.7119",
+            "le_longitude_deg": "24.8398",
+            "le_elevation_ft": "632",
+            "le_heading_degT": "166",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "67.6901",
+            "he_longitude_deg": "24.8539",
+            "he_elevation_ft": "644",
+            "he_heading_degT": "346",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52087",
+            "airport_ref": "2325",
+            "airport_ident": "EFKT",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "52088",
+            "airport_ref": "2325",
+            "airport_ident": "EFKT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "133.85"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303802",
+        "code": "FI-10",
+        "local_code": "10",
+        "name": "Lapland Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lapland_(Finland)",
+        "keywords": "Lapin lääni, Lapplands län, Lappland"
+    },
+    "navaids": [
+        {
+            "id": "89807",
+            "filename": "Kittila_NDB_FI",
+            "ident": "KIT",
+            "name": "Kittila",
+            "type": "NDB",
+            "frequency_khz": "328",
+            "latitude_deg": "67.62310028076172",
+            "longitude_deg": "24.897499084472656",
+            "elevation_ft": "",
+            "iso_country": "FI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.095",
+            "usageType": "RNAV",
+            "power": "LOW",
+            "associated_airport": "EFKT"
+        }
+    ]
+}

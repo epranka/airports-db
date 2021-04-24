@@ -1,0 +1,96 @@
+{
+    "id": "5790",
+    "ident": "SANE",
+    "type": "medium_airport",
+    "name": "Vicecomodoro Angel D. La Paz Aragonés Airport",
+    "latitude_deg": "-27.765556335399996",
+    "longitude_deg": "-64.3099975586",
+    "elevation_ft": "656",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-G",
+    "municipality": "Santiago del Estero",
+    "scheduled_service": "yes",
+    "gps_code": "SANE",
+    "iata_code": "SDE",
+    "local_code": "SDE",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_del_Estero_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233062",
+            "airport_ref": "5790",
+            "airport_ident": "SANE",
+            "length_ft": "7946",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "3",
+            "le_latitude_deg": "-27.7753",
+            "le_longitude_deg": "-64.3158",
+            "le_elevation_ft": "654",
+            "le_heading_degT": "27.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "-27.756",
+            "he_longitude_deg": "-64.3044",
+            "he_elevation_ft": "656",
+            "he_heading_degT": "207.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48474",
+            "airport_ref": "5790",
+            "airport_ident": "SANE",
+            "type": "TWR",
+            "description": "SANTIAGO TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302937",
+        "code": "AR-G",
+        "local_code": "G",
+        "name": "Santiago del Estero Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_del_Estero_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93477",
+            "filename": "Santiago_Del_Estero_VOR_AR",
+            "ident": "SDE",
+            "name": "Santiago Del Estero",
+            "type": "VOR",
+            "frequency_khz": "114800",
+            "latitude_deg": "-27.779399871826172",
+            "longitude_deg": "-64.31809997558594",
+            "elevation_ft": "656",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-5.024",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SANE"
+        }
+    ]
+}

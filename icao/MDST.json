@@ -1,0 +1,112 @@
+{
+    "id": "4640",
+    "ident": "MDST",
+    "type": "medium_airport",
+    "name": "Cibao International Airport",
+    "latitude_deg": "19.406099319458008",
+    "longitude_deg": "-70.60469818115234",
+    "elevation_ft": "565",
+    "continent": "NA",
+    "iso_country": "DO",
+    "iso_region": "DO-25",
+    "municipality": "Santiago",
+    "scheduled_service": "yes",
+    "gps_code": "MDST",
+    "iata_code": "STI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cibao_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235484",
+            "airport_ref": "4640",
+            "airport_ident": "MDST",
+            "length_ft": "8595",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "19.4088",
+            "le_longitude_deg": "-70.6169",
+            "le_elevation_ft": "565",
+            "le_heading_degT": "103",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "19.4034",
+            "he_longitude_deg": "-70.5925",
+            "he_elevation_ft": "551",
+            "he_heading_degT": "283",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51760",
+            "airport_ref": "4640",
+            "airport_ident": "MDST",
+            "type": "APP",
+            "description": "SANTIAGO APP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "51761",
+            "airport_ref": "4640",
+            "airport_ident": "MDST",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51762",
+            "airport_ref": "4640",
+            "airport_ident": "MDST",
+            "type": "TWR",
+            "description": "SANTIAGO TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302734",
+        "code": "DO",
+        "name": "Dominican Republic",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dominican_Republic",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303596",
+        "code": "DO-25",
+        "local_code": "25",
+        "name": "Santiago de los Caballeros Province",
+        "continent": "NA",
+        "iso_country": "DO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93561",
+            "filename": "Santiago_VOR-DME_DO",
+            "ident": "SGO",
+            "name": "Santiago",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "19.40730094909668",
+            "longitude_deg": "-70.60379791259766",
+            "elevation_ft": "580",
+            "iso_country": "DO",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.178",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "MDST"
+        }
+    ]
+}

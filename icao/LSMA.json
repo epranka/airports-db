@@ -1,0 +1,96 @@
+{
+    "id": "4493",
+    "ident": "LSMA",
+    "type": "medium_airport",
+    "name": "Alpnach Air Base",
+    "latitude_deg": "46.943901",
+    "longitude_deg": "8.28417",
+    "elevation_ft": "1460",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-OW",
+    "municipality": "Alpnach",
+    "scheduled_service": "no",
+    "gps_code": "LSMA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Alpnach_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239115",
+            "airport_ref": "4493",
+            "airport_ident": "LSMA",
+            "length_ft": "4920",
+            "width_ft": "130",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "46.9349",
+            "le_longitude_deg": "8.2814",
+            "le_elevation_ft": "1460",
+            "le_heading_degT": "10.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "46.9516",
+            "he_longitude_deg": "8.28649",
+            "he_elevation_ft": "1425",
+            "he_heading_degT": "190.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57550",
+            "airport_ref": "4493",
+            "airport_ident": "LSMA",
+            "type": "ARR",
+            "description": "ARR/DEP",
+            "frequency_mhz": "33.787"
+        },
+        {
+            "id": "57549",
+            "airport_ref": "4493",
+            "airport_ident": "LSMA",
+            "type": "ARR",
+            "description": "ARR/DEP",
+            "frequency_mhz": "139.45"
+        },
+        {
+            "id": "57551",
+            "airport_ref": "4493",
+            "airport_ident": "LSMA",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "138.05"
+        },
+        {
+            "id": "57552",
+            "airport_ref": "4493",
+            "airport_ident": "LSMA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.625"
+        }
+    ],
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303366",
+        "code": "CH-OW",
+        "local_code": "OW",
+        "name": "Canton of Obwalden",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Obwalden",
+        "keywords": ""
+    }
+}

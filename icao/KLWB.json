@@ -1,0 +1,120 @@
+{
+    "id": "20390",
+    "ident": "KLWB",
+    "type": "medium_airport",
+    "name": "Greenbrier Valley Airport",
+    "latitude_deg": "37.8582992554",
+    "longitude_deg": "-80.3994979858",
+    "elevation_ft": "2302",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Lewisburg",
+    "scheduled_service": "no",
+    "gps_code": "KLWB",
+    "iata_code": "LWB",
+    "local_code": "LWB",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Greenbrier_Valley_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240363",
+            "airport_ref": "20390",
+            "airport_ident": "KLWB",
+            "length_ft": "7004",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "37.8505",
+            "le_longitude_deg": "-80.4065",
+            "le_elevation_ft": "2288",
+            "le_heading_degT": "35.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "37.8662",
+            "he_longitude_deg": "-80.3925",
+            "he_elevation_ft": "2293",
+            "he_heading_degT": "215.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59829",
+            "airport_ref": "20390",
+            "airport_ident": "KLWB",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "59830",
+            "airport_ref": "20390",
+            "airport_ident": "KLWB",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.85"
+        },
+        {
+            "id": "59831",
+            "airport_ref": "20390",
+            "airport_ident": "KLWB",
+            "type": "CNTR",
+            "description": "WASHINGTON CNTR",
+            "frequency_mhz": "134.4"
+        },
+        {
+            "id": "59832",
+            "airport_ref": "20390",
+            "airport_ident": "KLWB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "59833",
+            "airport_ref": "20390",
+            "airport_ident": "KLWB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "59834",
+            "airport_ref": "20390",
+            "airport_ident": "KLWB",
+            "type": "TWR",
+            "description": "LEWISBURG TWR",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "59835",
+            "airport_ref": "20390",
+            "airport_ident": "KLWB",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306126",
+        "code": "US-WV",
+        "local_code": "WV",
+        "name": "West Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
+        "keywords": ""
+    }
+}

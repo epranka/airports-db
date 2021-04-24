@@ -1,0 +1,72 @@
+{
+    "id": "5817",
+    "ident": "SATG",
+    "type": "medium_airport",
+    "name": "Goya Airport",
+    "latitude_deg": "-29.1058",
+    "longitude_deg": "-59.2189",
+    "elevation_ft": "128",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-W",
+    "municipality": "Goya",
+    "scheduled_service": "no",
+    "gps_code": "SATG",
+    "iata_code": "OYA",
+    "local_code": "GOY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233054",
+            "airport_ref": "5817",
+            "airport_ident": "SATG",
+            "length_ft": "7415",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "4",
+            "le_latitude_deg": "-29.1141",
+            "le_longitude_deg": "-59.2258",
+            "le_elevation_ft": "",
+            "le_heading_degT": "38",
+            "le_displaced_threshold_ft": "427",
+            "he_ident": "22",
+            "he_latitude_deg": "-29.098",
+            "he_longitude_deg": "-59.2115",
+            "he_elevation_ft": "",
+            "he_heading_degT": "218",
+            "he_displaced_threshold_ft": "1075"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48468",
+            "airport_ref": "5817",
+            "airport_ident": "SATG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302952",
+        "code": "AR-W",
+        "local_code": "W",
+        "name": "Corrientes Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Corrientes_Province",
+        "keywords": ""
+    }
+}

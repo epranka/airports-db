@@ -1,0 +1,112 @@
+{
+    "id": "6515",
+    "ident": "URMN",
+    "type": "medium_airport",
+    "name": "Nalchik Airport",
+    "latitude_deg": "43.512901306152344",
+    "longitude_deg": "43.636600494384766",
+    "elevation_ft": "1461",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KB",
+    "municipality": "Nalchik",
+    "scheduled_service": "yes",
+    "gps_code": "URMN",
+    "iata_code": "NAL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nalchik_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238567",
+            "airport_ref": "6515",
+            "airport_ident": "URMN",
+            "length_ft": "7218",
+            "width_ft": "138",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "43.5083",
+            "le_longitude_deg": "43.6244",
+            "le_elevation_ft": "1462",
+            "le_heading_degT": "63.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "43.5175",
+            "he_longitude_deg": "43.6487",
+            "he_elevation_ft": "1378",
+            "he_heading_degT": "243.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56749",
+            "airport_ref": "6515",
+            "airport_ident": "URMN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "56750",
+            "airport_ref": "6515",
+            "airport_ident": "URMN",
+            "type": "RDR",
+            "description": "ASR",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "56751",
+            "airport_ref": "6515",
+            "airport_ident": "URMN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305282",
+        "code": "RU-KB",
+        "local_code": "KB",
+        "name": "Kabardino-Balkar Republic",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kabardino-Balkar_Republic",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91616",
+            "filename": "Nalchik_NDB_RU",
+            "ident": "NL",
+            "name": "Nalchik",
+            "type": "NDB",
+            "frequency_khz": "718",
+            "latitude_deg": "43.53329849243164",
+            "longitude_deg": "43.69329833984375",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.119",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "URMN"
+        }
+    ]
+}

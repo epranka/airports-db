@@ -1,0 +1,88 @@
+{
+    "id": "26625",
+    "ident": "VOSX",
+    "type": "small_airport",
+    "name": "Coimbatore Air Force Station",
+    "latitude_deg": "11.01360034942627",
+    "longitude_deg": "77.15969848632812",
+    "elevation_ft": "1250",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-TN",
+    "municipality": "Sulur",
+    "scheduled_service": "no",
+    "gps_code": "VOSX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236604",
+            "airport_ref": "26625",
+            "airport_ident": "VOSX",
+            "length_ft": "8255",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "11.0061",
+            "le_longitude_deg": "77.151",
+            "le_elevation_ft": "",
+            "le_heading_degT": "48.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "11.021",
+            "he_longitude_deg": "77.1684",
+            "he_elevation_ft": "",
+            "he_heading_degT": "228.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "308618",
+            "airport_ref": "26625",
+            "airport_ident": "VOSX",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "308619",
+            "airport_ref": "26625",
+            "airport_ident": "VOSX",
+            "type": "NDB",
+            "description": "SX",
+            "frequency_mhz": "325"
+        },
+        {
+            "id": "308617",
+            "airport_ref": "26625",
+            "airport_ident": "VOSX",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "120.7"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304193",
+        "code": "IN-TN",
+        "local_code": "TN",
+        "name": "Tamil Nadu",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tamil_Nadu",
+        "keywords": ""
+    }
+}

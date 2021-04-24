@@ -1,0 +1,96 @@
+{
+    "id": "19953",
+    "ident": "KGKJ",
+    "type": "small_airport",
+    "name": "Port Meadville Airport",
+    "latitude_deg": "41.62649918",
+    "longitude_deg": "-80.21469879",
+    "elevation_ft": "1399",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Meadville",
+    "scheduled_service": "no",
+    "gps_code": "KGKJ",
+    "iata_code": "MEJ",
+    "local_code": "GKJ",
+    "home_link": "http://www.crawfordcountypa.net/portal/page?_dad=portal&_pageid=393,916281&_schema=PORTAL",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Port_Meadville_Airport",
+    "keywords": "2G6",
+    "runways": [
+        {
+            "id": "244591",
+            "airport_ref": "19953",
+            "airport_ident": "KGKJ",
+            "length_ft": "5002",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "41.6232",
+            "le_longitude_deg": "-80.2227",
+            "le_elevation_ft": "1393",
+            "le_heading_degT": "61.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "41.6298",
+            "he_longitude_deg": "-80.2067",
+            "he_elevation_ft": "1397",
+            "he_heading_degT": "241.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68451",
+            "airport_ref": "19953",
+            "airport_ident": "KGKJ",
+            "type": "A/D",
+            "description": "YOUNGSTOWN APP/DEP",
+            "frequency_mhz": "133.95"
+        },
+        {
+            "id": "68452",
+            "airport_ref": "19953",
+            "airport_ident": "KGKJ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.425"
+        },
+        {
+            "id": "68453",
+            "airport_ref": "19953",
+            "airport_ident": "KGKJ",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.95"
+        },
+        {
+            "id": "68454",
+            "airport_ref": "19953",
+            "airport_ident": "KGKJ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "26860",
+    "ident": "WITL",
+    "type": "medium_airport",
+    "name": "Lhok Sukon Airport",
+    "latitude_deg": "5.069509983062744",
+    "longitude_deg": "97.25920104980469",
+    "elevation_ft": "28",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-AC",
+    "municipality": "Lhok Sukon-Sumatra Island",
+    "scheduled_service": "no",
+    "gps_code": "WITL",
+    "iata_code": "LSX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236513",
+            "airport_ref": "26860",
+            "airport_ident": "WITL",
+            "length_ft": "3675",
+            "width_ft": "69",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "5.07409",
+            "le_longitude_deg": "97.257",
+            "le_elevation_ft": "",
+            "le_heading_degT": "154.7",
+            "le_displaced_threshold_ft": "656",
+            "he_ident": "34",
+            "he_latitude_deg": "5.06493",
+            "he_longitude_deg": "97.2613",
+            "he_elevation_ft": "",
+            "he_heading_degT": "334.7",
+            "he_displaced_threshold_ft": "209"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53642",
+            "airport_ref": "26860",
+            "airport_ident": "WITL",
+            "type": "A/G",
+            "description": "INFO",
+            "frequency_mhz": "130.45"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304097",
+        "code": "ID-AC",
+        "local_code": "AC",
+        "name": "Aceh",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aceh",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90538",
+            "filename": "Lhok_Sukon_NDB_ID",
+            "ident": "LS",
+            "name": "Lhok Sukon",
+            "type": "NDB",
+            "frequency_khz": "222",
+            "latitude_deg": "5.068329811096191",
+            "longitude_deg": "97.25309753417969",
+            "elevation_ft": "28",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.446",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WITL"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "id": "4363",
+    "ident": "LIPS",
+    "type": "medium_airport",
+    "name": "Istrana Air Base",
+    "latitude_deg": "45.684898",
+    "longitude_deg": "12.0829",
+    "elevation_ft": "137",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Istrana",
+    "scheduled_service": "no",
+    "gps_code": "LIPS",
+    "iata_code": "",
+    "local_code": "TV16",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "V Bragadin",
+    "runways": [
+        {
+            "id": "236992",
+            "airport_ref": "4363",
+            "airport_ident": "LIPS",
+            "length_ft": "9816",
+            "width_ft": "105",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "45.6826",
+            "le_longitude_deg": "12.0682",
+            "le_elevation_ft": "136",
+            "le_heading_degT": "82",
+            "le_displaced_threshold_ft": "956",
+            "he_ident": "26",
+            "he_latitude_deg": "45.6863",
+            "he_longitude_deg": "12.1062",
+            "he_elevation_ft": "137",
+            "he_heading_degT": "262",
+            "he_displaced_threshold_ft": "953"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54189",
+            "airport_ref": "4363",
+            "airport_ident": "LIPS",
+            "type": "APP",
+            "description": "TREVISO APP",
+            "frequency_mhz": "36.23"
+        },
+        {
+            "id": "54188",
+            "airport_ref": "4363",
+            "airport_ident": "LIPS",
+            "type": "APP",
+            "description": "TREVISO APP",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "54190",
+            "airport_ref": "4363",
+            "airport_ident": "LIPS",
+            "type": "EMR",
+            "description": "EMERG",
+            "frequency_mhz": "24.34"
+        },
+        {
+            "id": "54191",
+            "airport_ref": "4363",
+            "airport_ident": "LIPS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "27.95"
+        },
+        {
+            "id": "54192",
+            "airport_ref": "4363",
+            "airport_ident": "LIPS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306354",
+        "code": "IT-34",
+        "local_code": "34",
+        "name": "Veneto",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Veneto",
+        "keywords": "VN"
+    },
+    "navaids": [
+        {
+            "id": "89339",
+            "filename": "Istrana_TACAN_IT",
+            "ident": "ISA",
+            "name": "Istrana",
+            "type": "TACAN",
+            "frequency_khz": "111700",
+            "latitude_deg": "45.6875",
+            "longitude_deg": "12.116900444030762",
+            "elevation_ft": "189",
+            "iso_country": "IT",
+            "dme_frequency_khz": "111700",
+            "dme_channel": "054X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.455",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIPS"
+        },
+        {
+            "id": "89340",
+            "filename": "Istrana_NDB_IT",
+            "ident": "ISA",
+            "name": "Istrana",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "45.69860076904297",
+            "longitude_deg": "12.228300094604492",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.471",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LIPS"
+        }
+    ]
+}

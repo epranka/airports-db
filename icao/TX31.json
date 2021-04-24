@@ -1,0 +1,80 @@
+{
+    "id": "25147",
+    "ident": "TX31",
+    "type": "small_airport",
+    "name": "Edwards Lucian Wells Ranch Airport",
+    "latitude_deg": "32.074522",
+    "longitude_deg": "-101.565804",
+    "elevation_ft": "2505",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Big Spring",
+    "scheduled_service": "no",
+    "gps_code": "TX31",
+    "iata_code": "",
+    "local_code": "TX31",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241584",
+            "airport_ref": "25147",
+            "airport_ident": "TX31",
+            "length_ft": "5200",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "32.0669",
+            "le_longitude_deg": "-101.567",
+            "le_elevation_ft": "",
+            "le_heading_degT": "20",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "32.0806",
+            "he_longitude_deg": "-101.561",
+            "he_elevation_ft": "",
+            "he_heading_degT": "200",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62167",
+            "airport_ref": "25147",
+            "airport_ident": "TX31",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "127.45"
+        },
+        {
+            "id": "62168",
+            "airport_ref": "25147",
+            "airport_ident": "TX31",
+            "type": "MULT",
+            "description": "MULTICOM",
+            "frequency_mhz": "122.85"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

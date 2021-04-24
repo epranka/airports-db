@@ -1,0 +1,88 @@
+{
+    "id": "38541",
+    "ident": "YPAC",
+    "type": "small_airport",
+    "name": "Pacific Haven Airport",
+    "latitude_deg": "-25.2367000579834",
+    "longitude_deg": "152.54299926757812",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YPAC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259203",
+            "airport_ref": "38541",
+            "airport_ident": "YPAC",
+            "length_ft": "3280",
+            "width_ft": "",
+            "surface": "B",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74233",
+            "airport_ref": "38541",
+            "airport_ident": "YPAC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "74234",
+            "airport_ref": "38541",
+            "airport_ident": "YPAC",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "74235",
+            "airport_ref": "38541",
+            "airport_ident": "YPAC",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

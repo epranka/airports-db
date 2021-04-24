@@ -1,0 +1,102 @@
+{
+    "id": "5075",
+    "ident": "OAMS",
+    "type": "medium_airport",
+    "name": "Mazar-i-Sharif International Airport",
+    "latitude_deg": "36.706902",
+    "longitude_deg": "67.209702",
+    "elevation_ft": "1284",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-BAL",
+    "municipality": "Mazar-i-Sharif",
+    "scheduled_service": "yes",
+    "gps_code": "OAMS",
+    "iata_code": "MZR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mazar-i-Sharif_International_Airport",
+    "keywords": "Mazari Sharif",
+    "runways": [
+        {
+            "id": "232778",
+            "airport_ref": "5075",
+            "airport_ident": "OAMS",
+            "length_ft": "10437",
+            "width_ft": "146",
+            "surface": "CONCRETE AND ASP",
+            "lighted": "1",
+            "closed": "1",
+            "le_ident": "06L",
+            "le_latitude_deg": "36.701",
+            "le_longitude_deg": "67.1935",
+            "le_elevation_ft": "1278",
+            "le_heading_degT": "65.8",
+            "le_displaced_threshold_ft": "535",
+            "he_ident": "24R",
+            "he_latitude_deg": "36.7128",
+            "he_longitude_deg": "67.2259",
+            "he_elevation_ft": "1256",
+            "he_heading_degT": "245.8",
+            "he_displaced_threshold_ft": "1733"
+        },
+        {
+            "id": "271059",
+            "airport_ref": "5075",
+            "airport_ident": "OAMS",
+            "length_ft": "9843",
+            "width_ft": "147",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06R",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "1287",
+            "le_heading_degT": "66",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24L",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "1252",
+            "he_heading_degT": "246",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75467",
+            "airport_ref": "5075",
+            "airport_ident": "OAMS",
+            "type": "CONTROL",
+            "description": "MAZAR CONTROL",
+            "frequency_mhz": "121.25"
+        },
+        {
+            "id": "48238",
+            "airport_ref": "5075",
+            "airport_ident": "OAMS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "132"
+        }
+    ],
+    "country": {
+        "id": "302619",
+        "code": "AF",
+        "name": "Afghanistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Afghanistan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302827",
+        "code": "AF-BAL",
+        "local_code": "BAL",
+        "name": "Balkh Province",
+        "continent": "AS",
+        "iso_country": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balkh_Province",
+        "keywords": ""
+    }
+}

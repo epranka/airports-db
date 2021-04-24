@@ -1,0 +1,88 @@
+{
+    "id": "27770",
+    "ident": "YMGR",
+    "type": "small_airport",
+    "name": "Margaret River (Station) Airport",
+    "latitude_deg": "-18.6217002869",
+    "longitude_deg": "126.883003235",
+    "elevation_ft": "289",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YMGR",
+    "iata_code": "MGV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258995",
+            "airport_ref": "27770",
+            "airport_ident": "YMGR",
+            "length_ft": "5006",
+            "width_ft": "",
+            "surface": "S",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "73797",
+            "airport_ref": "27770",
+            "airport_ident": "YMGR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "73799",
+            "airport_ref": "27770",
+            "airport_ident": "YMGR",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "73798",
+            "airport_ref": "27770",
+            "airport_ident": "YMGR",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.2"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": ""
+    }
+}

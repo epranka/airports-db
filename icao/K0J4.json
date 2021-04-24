@@ -1,0 +1,80 @@
+{
+    "id": "18368",
+    "ident": "K0J4",
+    "type": "small_airport",
+    "name": "Florala Municipal Airport",
+    "latitude_deg": "31.042499542236328",
+    "longitude_deg": "-86.31159973144531",
+    "elevation_ft": "314",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Florala",
+    "scheduled_service": "no",
+    "gps_code": "K0J4",
+    "iata_code": "",
+    "local_code": "0J4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244432",
+            "airport_ref": "18368",
+            "airport_ident": "K0J4",
+            "length_ft": "3197",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "31.039",
+            "le_longitude_deg": "-86.3146",
+            "le_elevation_ft": "288",
+            "le_heading_degT": "38",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "31.046",
+            "he_longitude_deg": "-86.3084",
+            "he_elevation_ft": "314",
+            "he_heading_degT": "218",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68089",
+            "airport_ref": "18368",
+            "airport_ident": "K0J4",
+            "type": "A/D",
+            "description": "CAIRNS APP/DEP",
+            "frequency_mhz": "133.45"
+        },
+        {
+            "id": "68090",
+            "airport_ref": "18368",
+            "airport_ident": "K0J4",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

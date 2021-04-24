@@ -1,0 +1,128 @@
+{
+    "id": "5575",
+    "ident": "RJFZ",
+    "type": "medium_airport",
+    "name": "JASDF Tsuiki Air Base",
+    "latitude_deg": "33.685001",
+    "longitude_deg": "131.039993",
+    "elevation_ft": "55",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-40",
+    "municipality": "Tsuiki",
+    "scheduled_service": "no",
+    "gps_code": "RJFZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tsuiki_Air_Field",
+    "keywords": "築城飛行場, Tsuiki Hikōjō, Tsuiki Airbase",
+    "runways": [
+        {
+            "id": "237163",
+            "airport_ref": "5575",
+            "airport_ident": "RJFZ",
+            "length_ft": "7870",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "33.6818",
+            "le_longitude_deg": "131.029",
+            "le_elevation_ft": "55",
+            "le_heading_degT": "70",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "33.6891",
+            "he_longitude_deg": "131.053",
+            "he_elevation_ft": "55",
+            "he_heading_degT": "250",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54563",
+            "airport_ref": "5575",
+            "airport_ident": "RJFZ",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "54564",
+            "airport_ref": "5575",
+            "airport_ident": "RJFZ",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "54565",
+            "airport_ref": "5575",
+            "airport_ident": "RJFZ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "54566",
+            "airport_ref": "5575",
+            "airport_ident": "RJFZ",
+            "type": "TCA",
+            "description": "TCA",
+            "frequency_mhz": "127.95"
+        },
+        {
+            "id": "54567",
+            "airport_ref": "5575",
+            "airport_ident": "RJFZ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304325",
+        "code": "JP-40",
+        "local_code": "40",
+        "name": "Fukuoka Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fukuoka",
+        "keywords": "Kyushu and Okinawa"
+    },
+    "navaids": [
+        {
+            "id": "94561",
+            "filename": "Tsuiki_TACAN_JP",
+            "ident": "TQT",
+            "name": "Tsuiki",
+            "type": "TACAN",
+            "frequency_khz": "110400",
+            "latitude_deg": "33.6880989074707",
+            "longitude_deg": "131.03799438476562",
+            "elevation_ft": "84",
+            "iso_country": "JP",
+            "dme_frequency_khz": "110400",
+            "dme_channel": "041X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-6.492",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJFZ"
+        }
+    ]
+}

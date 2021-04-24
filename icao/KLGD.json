@@ -1,0 +1,118 @@
+{
+    "id": "20335",
+    "ident": "KLGD",
+    "type": "small_airport",
+    "name": "La Grande/Union County Airport",
+    "latitude_deg": "45.2901992798",
+    "longitude_deg": "-118.007003784",
+    "elevation_ft": "2717",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "La Grande",
+    "scheduled_service": "no",
+    "gps_code": "KLGD",
+    "iata_code": "LGD",
+    "local_code": "LGD",
+    "home_link": "http://union-county.org/public-works/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/La_Grande/Union_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244440",
+            "airport_ref": "20335",
+            "airport_ident": "KLGD",
+            "length_ft": "5600",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "45.2955",
+            "le_longitude_deg": "-118.012",
+            "le_elevation_ft": "2717",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "45.2847",
+            "he_longitude_deg": "-117.997",
+            "he_elevation_ft": "2707",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244441",
+            "airport_ref": "20335",
+            "airport_ident": "KLGD",
+            "length_ft": "3876",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "45.2957",
+            "le_longitude_deg": "-118.011",
+            "le_elevation_ft": "2714",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "486",
+            "he_ident": "34",
+            "he_latitude_deg": "45.285",
+            "he_longitude_deg": "-118.011",
+            "he_elevation_ft": "2709",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68102",
+            "airport_ref": "20335",
+            "airport_ident": "KLGD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.075"
+        },
+        {
+            "id": "68103",
+            "airport_ref": "20335",
+            "airport_ident": "KLGD",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "132.6"
+        },
+        {
+            "id": "68104",
+            "airport_ref": "20335",
+            "airport_ident": "KLGD",
+            "type": "RDO",
+            "description": "MC MINNVILLE RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "68105",
+            "airport_ref": "20335",
+            "airport_ident": "KLGD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306113",
+        "code": "US-OR",
+        "local_code": "OR",
+        "name": "Oregon",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
+        "keywords": ""
+    }
+}

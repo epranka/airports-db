@@ -1,0 +1,102 @@
+{
+    "id": "19256",
+    "ident": "KAHQ",
+    "type": "small_airport",
+    "name": "Wahoo Municipal Airport",
+    "latitude_deg": "41.2412986755",
+    "longitude_deg": "-96.59400177",
+    "elevation_ft": "1224",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Wahoo",
+    "scheduled_service": "no",
+    "gps_code": "KAHQ",
+    "iata_code": "",
+    "local_code": "AHQ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wahoo_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245476",
+            "airport_ref": "19256",
+            "airport_ident": "KAHQ",
+            "length_ft": "4101",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "41.2362",
+            "le_longitude_deg": "-96.597",
+            "le_elevation_ft": "1220",
+            "le_heading_degT": "24",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "20",
+            "he_latitude_deg": "41.2465",
+            "he_longitude_deg": "-96.591",
+            "he_elevation_ft": "1224",
+            "he_heading_degT": "204",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245477",
+            "airport_ref": "19256",
+            "airport_ident": "KAHQ",
+            "length_ft": "3290",
+            "width_ft": "150",
+            "surface": "GRS",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "41.2428",
+            "le_longitude_deg": "-96.5991",
+            "le_elevation_ft": "1222",
+            "le_heading_degT": "142",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "41.2356",
+            "he_longitude_deg": "-96.5917",
+            "he_elevation_ft": "1218",
+            "he_heading_degT": "322",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70409",
+            "airport_ref": "19256",
+            "airport_ident": "KAHQ",
+            "type": "A/D",
+            "description": "OMAHA APP/DEP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "70410",
+            "airport_ref": "19256",
+            "airport_ident": "KAHQ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

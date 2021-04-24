@@ -1,0 +1,80 @@
+{
+    "id": "20245",
+    "ident": "KK24",
+    "type": "small_airport",
+    "name": "Russell County Airport",
+    "latitude_deg": "37.009700775146484",
+    "longitude_deg": "-85.10269927978516",
+    "elevation_ft": "1011",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Jamestown",
+    "scheduled_service": "no",
+    "gps_code": "KK24",
+    "iata_code": "",
+    "local_code": "K24",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243941",
+            "airport_ref": "20245",
+            "airport_ident": "KK24",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "37.0165",
+            "le_longitude_deg": "-85.1034",
+            "le_elevation_ft": "1011",
+            "le_heading_degT": "175.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "37.0029",
+            "he_longitude_deg": "-85.102",
+            "he_elevation_ft": "959",
+            "he_heading_degT": "355.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67074",
+            "airport_ref": "20245",
+            "airport_ident": "KK24",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "67075",
+            "airport_ref": "20245",
+            "airport_ident": "KK24",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306093",
+        "code": "US-KY",
+        "local_code": "KY",
+        "name": "Kentucky",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
+        "keywords": ""
+    }
+}

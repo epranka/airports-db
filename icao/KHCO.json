@@ -1,0 +1,88 @@
+{
+    "id": "20034",
+    "ident": "KHCO",
+    "type": "small_airport",
+    "name": "Hallock Municipal Airport",
+    "latitude_deg": "48.75270080566406",
+    "longitude_deg": "-96.94300079345703",
+    "elevation_ft": "819",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Hallock",
+    "scheduled_service": "no",
+    "gps_code": "KHCO",
+    "iata_code": "",
+    "local_code": "HCO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245619",
+            "airport_ref": "20034",
+            "airport_ident": "KHCO",
+            "length_ft": "4007",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "48.7569",
+            "le_longitude_deg": "-96.9484",
+            "le_elevation_ft": "817",
+            "le_heading_degT": "140",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "48.7485",
+            "he_longitude_deg": "-96.9377",
+            "he_elevation_ft": "819",
+            "he_heading_degT": "320",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70707",
+            "airport_ref": "20034",
+            "airport_ident": "KHCO",
+            "type": "A/D",
+            "description": "MINNEAPOLIS APP/DEP",
+            "frequency_mhz": "132.15"
+        },
+        {
+            "id": "70708",
+            "airport_ref": "20034",
+            "airport_ident": "KHCO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "126.475"
+        },
+        {
+            "id": "70709",
+            "airport_ref": "20034",
+            "airport_ident": "KHCO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

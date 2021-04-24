@@ -1,0 +1,104 @@
+{
+    "id": "6128",
+    "ident": "SKLG",
+    "type": "small_airport",
+    "name": "Caucaya Airport",
+    "latitude_deg": "-0.182278",
+    "longitude_deg": "-74.7708",
+    "elevation_ft": "573",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-PUT",
+    "municipality": "Puerto Leguízamo",
+    "scheduled_service": "yes",
+    "gps_code": "SKLG",
+    "iata_code": "LQM",
+    "local_code": "LQM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Caucay%C3%A1_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235334",
+            "airport_ref": "6128",
+            "airport_ident": "SKLG",
+            "length_ft": "3937",
+            "width_ft": "82",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-0.179778",
+            "le_longitude_deg": "-74.7756",
+            "le_elevation_ft": "",
+            "le_heading_degT": "117.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-0.184778",
+            "he_longitude_deg": "-74.766",
+            "he_elevation_ft": "",
+            "he_heading_degT": "297.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51511",
+            "airport_ref": "6128",
+            "airport_ident": "SKLG",
+            "type": "RDO",
+            "description": "LEGUIZAMO RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51512",
+            "airport_ref": "6128",
+            "airport_ident": "SKLG",
+            "type": "TWR",
+            "description": "LEGUIZAMO TWR",
+            "frequency_mhz": "346.75"
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303480",
+        "code": "CO-PUT",
+        "local_code": "PUT",
+        "name": "Putumayo Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Putumayo_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92516",
+            "filename": "Puerto_Leguizamo_VOR-DME_CO",
+            "ident": "PLG",
+            "name": "Puerto Leguizamo",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "-0.17893099784851074",
+            "longitude_deg": "-74.77539825439453",
+            "elevation_ft": "653",
+            "iso_country": "CO",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.166",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKLG"
+        }
+    ]
+}

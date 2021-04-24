@@ -1,0 +1,142 @@
+{
+    "id": "5970",
+    "ident": "SBSJ",
+    "type": "medium_airport",
+    "name": "Professor Urbano Ernesto Stumpf Airport",
+    "latitude_deg": "-23.22920036315918",
+    "longitude_deg": "-45.86149978637695",
+    "elevation_ft": "2120",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "São José Dos Campos",
+    "scheduled_service": "yes",
+    "gps_code": "SBSJ",
+    "iata_code": "SJK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_dos_Campos_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234249",
+            "airport_ref": "5970",
+            "airport_ident": "SBSJ",
+            "length_ft": "8780",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-23.2197",
+            "le_longitude_deg": "-45.872",
+            "le_elevation_ft": "2031",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-23.2368",
+            "he_longitude_deg": "-45.8535",
+            "he_elevation_ft": "2120",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49771",
+            "airport_ref": "5970",
+            "airport_ident": "SBSJ",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "49772",
+            "airport_ref": "5970",
+            "airport_ident": "SBSJ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49773",
+            "airport_ref": "5970",
+            "airport_ident": "SBSJ",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "49774",
+            "airport_ref": "5970",
+            "airport_ident": "SBSJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303224",
+        "code": "BR-SP",
+        "local_code": "SP",
+        "name": "São Paulo",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/São_Paulo",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93646",
+            "filename": "Sao_Jose_VOR-DME_BR",
+            "ident": "SJC",
+            "name": "Sao Jose",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "-23.246299743652344",
+            "longitude_deg": "-45.85419845581055",
+            "elevation_ft": "2120",
+            "iso_country": "BR",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.204",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBSJ"
+        },
+        {
+            "id": "93648",
+            "filename": "Sao_Jose_NDB_BR",
+            "ident": "SJC",
+            "name": "Sao Jose",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "-23.24970054626465",
+            "longitude_deg": "-45.86389923095703",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.203",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "SBSJ"
+        }
+    ]
+}

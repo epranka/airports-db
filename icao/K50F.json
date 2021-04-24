@@ -1,0 +1,80 @@
+{
+    "id": "18865",
+    "ident": "K50F",
+    "type": "small_airport",
+    "name": "Bourland Field",
+    "latitude_deg": "32.5817985534668",
+    "longitude_deg": "-97.5907974243164",
+    "elevation_ft": "873",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Fort Worth",
+    "scheduled_service": "no",
+    "gps_code": "K50F",
+    "iata_code": "",
+    "local_code": "50F",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241171",
+            "airport_ref": "18865",
+            "airport_ident": "K50F",
+            "length_ft": "4092",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "32.5873",
+            "le_longitude_deg": "-97.5918",
+            "le_elevation_ft": "873",
+            "le_heading_degT": "171",
+            "le_displaced_threshold_ft": "392",
+            "he_ident": "35",
+            "he_latitude_deg": "32.5762",
+            "he_longitude_deg": "-97.5898",
+            "he_elevation_ft": "836",
+            "he_heading_degT": "351",
+            "he_displaced_threshold_ft": "260"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61291",
+            "airport_ref": "18865",
+            "airport_ident": "K50F",
+            "type": "A/D",
+            "description": "REGIONAL APP/DEP",
+            "frequency_mhz": "135.975"
+        },
+        {
+            "id": "61292",
+            "airport_ref": "18865",
+            "airport_ident": "K50F",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

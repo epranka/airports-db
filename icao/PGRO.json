@@ -1,0 +1,112 @@
+{
+    "id": "5430",
+    "ident": "PGRO",
+    "type": "medium_airport",
+    "name": "Rota International Airport",
+    "latitude_deg": "14.1743",
+    "longitude_deg": "145.242996",
+    "elevation_ft": "607",
+    "continent": "OC",
+    "iso_country": "MP",
+    "iso_region": "MP-U-A",
+    "municipality": "Rota Island",
+    "scheduled_service": "yes",
+    "gps_code": "PGRO",
+    "iata_code": "ROP",
+    "local_code": "GRO",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rota_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235365",
+            "airport_ref": "5430",
+            "airport_ident": "PGRO",
+            "length_ft": "6000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "14.1746",
+            "le_longitude_deg": "145.234",
+            "le_elevation_ft": "591",
+            "le_heading_degT": "92",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "14.1741",
+            "he_longitude_deg": "145.251",
+            "he_elevation_ft": "607",
+            "he_heading_degT": "272",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51571",
+            "airport_ref": "5430",
+            "airport_ident": "PGRO",
+            "type": "A/D",
+            "description": "GUAM CNTR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "51572",
+            "airport_ref": "5430",
+            "airport_ident": "PGRO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "51573",
+            "airport_ref": "5430",
+            "airport_ident": "PGRO",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "123.6"
+        }
+    ],
+    "country": {
+        "id": "302771",
+        "code": "MP",
+        "name": "Northern Mariana Islands",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Mariana_Islands",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304705",
+        "code": "MP-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "MP",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88572",
+            "filename": "Rota_NDB_MP",
+            "ident": "GRO",
+            "name": "Rota",
+            "type": "NDB",
+            "frequency_khz": "332",
+            "latitude_deg": "14.171699523925781",
+            "longitude_deg": "145.24000549316406",
+            "elevation_ft": "607",
+            "iso_country": "MP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.22",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "PGRO"
+        }
+    ]
+}

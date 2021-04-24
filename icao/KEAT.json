@@ -1,0 +1,118 @@
+{
+    "id": "19717",
+    "ident": "KEAT",
+    "type": "medium_airport",
+    "name": "Pangborn Memorial Airport",
+    "latitude_deg": "47.3988990784",
+    "longitude_deg": "-120.207000732",
+    "elevation_ft": "1249",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Wenatchee",
+    "scheduled_service": "no",
+    "gps_code": "KEAT",
+    "iata_code": "EAT",
+    "local_code": "EAT",
+    "home_link": "http://www.pangbornairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pangborn_Memorial_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243758",
+            "airport_ref": "19717",
+            "airport_ident": "KEAT",
+            "length_ft": "4460",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "47.3986",
+            "le_longitude_deg": "-120.215",
+            "le_elevation_ft": "1205",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "47.3986",
+            "he_longitude_deg": "-120.197",
+            "he_elevation_ft": "1249",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243759",
+            "airport_ref": "19717",
+            "airport_ident": "KEAT",
+            "length_ft": "7000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "47.4032",
+            "le_longitude_deg": "-120.214",
+            "le_elevation_ft": "1221",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "1",
+            "he_ident": "30",
+            "he_latitude_deg": "47.3922",
+            "he_longitude_deg": "-120.197",
+            "he_elevation_ft": "1232",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": "800"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66687",
+            "airport_ref": "19717",
+            "airport_ident": "KEAT",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "66688",
+            "airport_ref": "19717",
+            "airport_ident": "KEAT",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "66689",
+            "airport_ref": "19717",
+            "airport_ident": "KEAT",
+            "type": "RDO",
+            "description": "SEATTLE RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "66690",
+            "airport_ref": "19717",
+            "airport_ident": "KEAT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "20720",
+    "ident": "KOEL",
+    "type": "small_airport",
+    "name": "Oakley Municipal Airport",
+    "latitude_deg": "39.109901428222656",
+    "longitude_deg": "-100.81600189208984",
+    "elevation_ft": "3045",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Oakley",
+    "scheduled_service": "no",
+    "gps_code": "KOEL",
+    "iata_code": "",
+    "local_code": "OEL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241924",
+            "airport_ref": "20720",
+            "airport_ident": "KOEL",
+            "length_ft": "2270",
+            "width_ft": "110",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "39.1158",
+            "le_longitude_deg": "-100.821",
+            "le_elevation_ft": "3040",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "39.1158",
+            "he_longitude_deg": "-100.813",
+            "he_elevation_ft": "3040",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241925",
+            "airport_ref": "20720",
+            "airport_ident": "KOEL",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "39.1167",
+            "le_longitude_deg": "-100.818",
+            "le_elevation_ft": "3045",
+            "le_heading_degT": "169",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "39.1032",
+            "he_longitude_deg": "-100.815",
+            "he_elevation_ft": "3019",
+            "he_heading_degT": "349",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62840",
+            "airport_ref": "20720",
+            "airport_ident": "KOEL",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "62841",
+            "airport_ref": "20720",
+            "airport_ident": "KOEL",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "132.5"
+        },
+        {
+            "id": "62842",
+            "airport_ref": "20720",
+            "airport_ident": "KOEL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

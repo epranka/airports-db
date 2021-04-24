@@ -1,0 +1,104 @@
+{
+    "id": "5018",
+    "ident": "NWWR",
+    "type": "medium_airport",
+    "name": "Maré Airport",
+    "latitude_deg": "-21.481700897216797",
+    "longitude_deg": "168.03799438476562",
+    "elevation_ft": "141",
+    "continent": "OC",
+    "iso_country": "NC",
+    "iso_region": "NC-U-A",
+    "municipality": "Maré",
+    "scheduled_service": "yes",
+    "gps_code": "NWWR",
+    "iata_code": "MEE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mar%C3%A9_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237871",
+            "airport_ref": "5018",
+            "airport_ident": "NWWR",
+            "length_ft": "3281",
+            "width_ft": "82",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "-21.4783",
+            "le_longitude_deg": "168.034",
+            "le_elevation_ft": "135",
+            "le_heading_degT": "138.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "-21.4851",
+            "he_longitude_deg": "168.041",
+            "he_elevation_ft": "141",
+            "he_heading_degT": "318.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55677",
+            "airport_ref": "5018",
+            "airport_ident": "NWWR",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "55678",
+            "airport_ref": "5018",
+            "airport_ident": "NWWR",
+            "type": "ATIS",
+            "description": "TONTOUTA INFO",
+            "frequency_mhz": "125.1"
+        }
+    ],
+    "country": {
+        "id": "302772",
+        "code": "NC",
+        "name": "New Caledonia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Caledonia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304865",
+        "code": "NC-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "NC",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91224",
+            "filename": "Mare_NDB_NC",
+            "ident": "MR",
+            "name": "Mare",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "-21.481599807739258",
+            "longitude_deg": "168.03599548339844",
+            "elevation_ft": "141",
+            "iso_country": "NC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.261",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "NWWR"
+        }
+    ]
+}

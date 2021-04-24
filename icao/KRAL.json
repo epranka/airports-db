@@ -1,0 +1,174 @@
+{
+    "id": "3837",
+    "ident": "KRAL",
+    "type": "medium_airport",
+    "name": "Riverside Municipal Airport",
+    "latitude_deg": "33.9519",
+    "longitude_deg": "-117.445",
+    "elevation_ft": "819",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Riverside",
+    "scheduled_service": "no",
+    "gps_code": "KRAL",
+    "iata_code": "RAL",
+    "local_code": "RAL",
+    "home_link": "http://www.riversideca.gov/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Riverside_Municipal_Airport",
+    "keywords": "Riverside Arlington",
+    "runways": [
+        {
+            "id": "244998",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "length_ft": "5401",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "33.9539",
+            "le_longitude_deg": "-117.452",
+            "le_elevation_ft": "760",
+            "le_heading_degT": "103.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "33.9505",
+            "he_longitude_deg": "-117.435",
+            "he_elevation_ft": "818",
+            "he_heading_degT": "283.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244999",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "length_ft": "2851",
+            "width_ft": "48",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "33.9552",
+            "le_longitude_deg": "-117.449",
+            "le_elevation_ft": "774",
+            "le_heading_degT": "178.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "33.9473",
+            "he_longitude_deg": "-117.448",
+            "he_elevation_ft": "751",
+            "he_heading_degT": "358.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69357",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "135.4"
+        },
+        {
+            "id": "69358",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.8"
+        },
+        {
+            "id": "69359",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "69360",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "69362",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "25.54"
+        },
+        {
+            "id": "69361",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "69363",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "69364",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92962",
+            "filename": "Riverside_VOR_US",
+            "ident": "RAL",
+            "name": "Riverside",
+            "type": "VOR",
+            "frequency_khz": "112400",
+            "latitude_deg": "33.95199966430664",
+            "longitude_deg": "-117.4489974975586",
+            "elevation_ft": "762",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "12.564",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KRAL"
+        }
+    ]
+}

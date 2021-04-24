@@ -1,0 +1,110 @@
+{
+    "id": "21339",
+    "ident": "KVTN",
+    "type": "medium_airport",
+    "name": "Miller Field",
+    "latitude_deg": "42.85779953",
+    "longitude_deg": "-100.5479965",
+    "elevation_ft": "2596",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Valentine",
+    "scheduled_service": "no",
+    "gps_code": "KVTN",
+    "iata_code": "VTN",
+    "local_code": "VTN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Miller_Field_(airport)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245581",
+            "airport_ref": "21339",
+            "airport_ident": "KVTN",
+            "length_ft": "2807",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "42.8569",
+            "le_longitude_deg": "-100.551",
+            "le_elevation_ft": "2590",
+            "le_heading_degT": "36",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "42.8631",
+            "he_longitude_deg": "-100.545",
+            "he_elevation_ft": "2582",
+            "he_heading_degT": "216",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245582",
+            "airport_ref": "21339",
+            "airport_ident": "KVTN",
+            "length_ft": "4700",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "42.8618",
+            "le_longitude_deg": "-100.552",
+            "le_elevation_ft": "2588",
+            "le_heading_degT": "145",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "42.8512",
+            "he_longitude_deg": "-100.542",
+            "he_elevation_ft": "2582",
+            "he_heading_degT": "325",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70635",
+            "airport_ref": "21339",
+            "airport_ident": "KVTN",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.075"
+        },
+        {
+            "id": "70636",
+            "airport_ref": "21339",
+            "airport_ident": "KVTN",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "127.95"
+        },
+        {
+            "id": "70637",
+            "airport_ref": "21339",
+            "airport_ident": "KVTN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

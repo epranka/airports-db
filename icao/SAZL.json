@@ -1,0 +1,96 @@
+{
+    "id": "5846",
+    "ident": "SAZL",
+    "type": "medium_airport",
+    "name": "Santa Teresita Airport",
+    "latitude_deg": "-36.5423",
+    "longitude_deg": "-56.7218",
+    "elevation_ft": "9",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Santa Teresita",
+    "scheduled_service": "yes",
+    "gps_code": "SAZL",
+    "iata_code": "SST",
+    "local_code": "STR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Teresita_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232934",
+            "airport_ref": "5846",
+            "airport_ident": "SAZL",
+            "length_ft": "4921",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "-36.5357",
+            "le_longitude_deg": "-56.7232",
+            "le_elevation_ft": "",
+            "le_heading_degT": "170",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "-36.549",
+            "he_longitude_deg": "-56.7203",
+            "he_elevation_ft": "",
+            "he_heading_degT": "350",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48361",
+            "airport_ref": "5846",
+            "airport_ident": "SAZL",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302933",
+        "code": "AR-B",
+        "local_code": "B",
+        "name": "Buenos Aires Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94011",
+            "filename": "Santa_Teresita_NDB_AR",
+            "ident": "STR",
+            "name": "Santa Teresita",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "-36.54970169067383",
+            "longitude_deg": "-56.68389892578125",
+            "elevation_ft": "13",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.277",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SAZL"
+        }
+    ]
+}

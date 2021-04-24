@@ -1,0 +1,110 @@
+{
+    "id": "20158",
+    "ident": "KIER",
+    "type": "small_airport",
+    "name": "Natchitoches Regional Airport",
+    "latitude_deg": "31.735700607299805",
+    "longitude_deg": "-93.0990982055664",
+    "elevation_ft": "121",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Natchitoches",
+    "scheduled_service": "no",
+    "gps_code": "KIER",
+    "iata_code": "",
+    "local_code": "IER",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243314",
+            "airport_ref": "20158",
+            "airport_ident": "KIER",
+            "length_ft": "4000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "31.7378",
+            "le_longitude_deg": "-93.1074",
+            "le_elevation_ft": "115",
+            "le_heading_degT": "76.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "31.7404",
+            "he_longitude_deg": "-93.0949",
+            "he_elevation_ft": "117",
+            "he_heading_degT": "256.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243315",
+            "airport_ref": "20158",
+            "airport_ident": "KIER",
+            "length_ft": "5003",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "31.7397",
+            "le_longitude_deg": "-93.0995",
+            "le_elevation_ft": "116",
+            "le_heading_degT": "166.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "31.7263",
+            "he_longitude_deg": "-93.0957",
+            "he_elevation_ft": "121",
+            "he_heading_degT": "346.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65696",
+            "airport_ref": "20158",
+            "airport_ident": "KIER",
+            "type": "A/D",
+            "description": "POLK APP/DEP",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "65697",
+            "airport_ref": "20158",
+            "airport_ident": "KIER",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "65698",
+            "airport_ref": "20158",
+            "airport_ident": "KIER",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "28116",
+    "ident": "ENSG",
+    "type": "small_airport",
+    "name": "Sogndal Airport",
+    "latitude_deg": "61.156101",
+    "longitude_deg": "7.13778",
+    "elevation_ft": "1633",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-14",
+    "municipality": "Sogndal",
+    "scheduled_service": "yes",
+    "gps_code": "ENSG",
+    "iata_code": "SOG",
+    "local_code": "",
+    "home_link": "https://avinor.no/en/airport/sogndal-airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sogndal_Airport,_Hauk%C3%A5sen",
+    "keywords": "Haukåsen",
+    "runways": [
+        {
+            "id": "260162",
+            "airport_ref": "28116",
+            "airport_ident": "ENSG",
+            "length_ft": "3150",
+            "width_ft": "98",
+            "surface": "UNK",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "61.1535",
+            "le_longitude_deg": "7.12833",
+            "le_elevation_ft": "1619",
+            "le_heading_degT": "59",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "61.1577",
+            "he_longitude_deg": "7.143",
+            "he_elevation_ft": "1634",
+            "he_heading_degT": "239",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "75349",
+            "airport_ref": "28116",
+            "airport_ident": "ENSG",
+            "type": "AFIS",
+            "description": "Sogndal",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "75348",
+            "airport_ref": "28116",
+            "airport_ident": "ENSG",
+            "type": "INFO",
+            "description": "Sogndal Information",
+            "frequency_mhz": "121.5"
+        }
+    ],
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "304957",
+        "code": "NO-14",
+        "local_code": "14",
+        "name": "Sogn og Fjordane",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sogn_og_Fjordane",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93841",
+            "filename": "Sogndal_VOR-DME_NO",
+            "ident": "SOG",
+            "name": "Sogndal",
+            "type": "VOR-DME",
+            "frequency_khz": "114200",
+            "latitude_deg": "61.15019989013672",
+            "longitude_deg": "7.159739971160889",
+            "elevation_ft": "1652",
+            "iso_country": "NO",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.003",
+            "magnetic_variation_deg": "-0.285",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "ENSG"
+        }
+    ]
+}

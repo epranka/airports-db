@@ -1,0 +1,72 @@
+{
+    "id": "5691",
+    "ident": "RPLS",
+    "type": "small_airport",
+    "name": "Sangley Point International Airport / Danilo Atienza Air Base",
+    "latitude_deg": "14.4954",
+    "longitude_deg": "120.903999",
+    "elevation_ft": "8",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-CAV",
+    "municipality": "Cavite",
+    "scheduled_service": "no",
+    "gps_code": "RPLS",
+    "iata_code": "SGL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Danilo_Atienza_Air_Base",
+    "keywords": "NSP, Sangley Point Air Base",
+    "runways": [
+        {
+            "id": "238430",
+            "airport_ref": "5691",
+            "airport_ident": "RPLS",
+            "length_ft": "7769",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "14.4913",
+            "le_longitude_deg": "120.894",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "67.8",
+            "le_displaced_threshold_ft": "1870",
+            "he_ident": "25",
+            "he_latitude_deg": "14.4994",
+            "he_longitude_deg": "120.914",
+            "he_elevation_ft": "6",
+            "he_heading_degT": "247.8",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56486",
+            "airport_ref": "5691",
+            "airport_ident": "RPLS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305078",
+        "code": "PH-CAV",
+        "local_code": "CAV",
+        "name": "Cavite Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cavite_Province",
+        "keywords": ""
+    }
+}

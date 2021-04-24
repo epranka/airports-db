@@ -1,0 +1,80 @@
+{
+    "id": "18872",
+    "ident": "K51R",
+    "type": "small_airport",
+    "name": "Madisonville Municipal Airport",
+    "latitude_deg": "30.912799835205078",
+    "longitude_deg": "-95.9520034790039",
+    "elevation_ft": "287",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Madisonville",
+    "scheduled_service": "no",
+    "gps_code": "K51R",
+    "iata_code": "",
+    "local_code": "51R",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245460",
+            "airport_ref": "18872",
+            "airport_ident": "K51R",
+            "length_ft": "3202",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "30.9172",
+            "le_longitude_deg": "-95.9511",
+            "le_elevation_ft": "287",
+            "le_heading_degT": "190.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "30.9085",
+            "he_longitude_deg": "-95.9529",
+            "he_elevation_ft": "260",
+            "he_heading_degT": "10.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70370",
+            "airport_ref": "18872",
+            "airport_ident": "K51R",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "70371",
+            "airport_ref": "18872",
+            "airport_ident": "K51R",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

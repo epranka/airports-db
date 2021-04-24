@@ -1,0 +1,158 @@
+{
+    "id": "3869",
+    "ident": "KSBP",
+    "type": "medium_airport",
+    "name": "San Luis County Regional Airport",
+    "latitude_deg": "35.236801147499996",
+    "longitude_deg": "-120.641998291",
+    "elevation_ft": "212",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "San Luis Obispo",
+    "scheduled_service": "yes",
+    "gps_code": "KSBP",
+    "iata_code": "SBP",
+    "local_code": "SBP",
+    "home_link": "http://www.sloairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/San_Luis_Obispo_County_Regional_Airport",
+    "keywords": "SLO Airport",
+    "runways": [
+        {
+            "id": "240432",
+            "airport_ref": "3869",
+            "airport_ident": "KSBP",
+            "length_ft": "2500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "35.2369",
+            "le_longitude_deg": "-120.65",
+            "le_elevation_ft": "162",
+            "le_heading_degT": "89.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "35.2369",
+            "he_longitude_deg": "-120.639",
+            "he_elevation_ft": "197",
+            "he_heading_degT": "269.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240433",
+            "airport_ref": "3869",
+            "airport_ident": "KSBP",
+            "length_ft": "6100",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "35.241",
+            "le_longitude_deg": "-120.647",
+            "le_elevation_ft": "162",
+            "le_heading_degT": "124",
+            "le_displaced_threshold_ft": "800",
+            "he_ident": "29",
+            "he_latitude_deg": "35.2327",
+            "he_longitude_deg": "-120.633",
+            "he_elevation_ft": "212",
+            "he_heading_degT": "304",
+            "he_displaced_threshold_ft": "500"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59958",
+            "airport_ref": "3869",
+            "airport_ident": "KSBP",
+            "type": "APP/DEP",
+            "description": "SANTA BARBARA APP/DEP",
+            "frequency_mhz": "127.725"
+        },
+        {
+            "id": "312192",
+            "airport_ref": "3869",
+            "airport_ident": "KSBP",
+            "type": "APP/DEP Backup",
+            "description": "LOS ANGELES ARTCC - USE WHEN SANTA BARBARA APP/DEP CLOSED.",
+            "frequency_mhz": "119.05"
+        },
+        {
+            "id": "312193",
+            "airport_ref": "3869",
+            "airport_ident": "KSBP",
+            "type": "APP/DEP Backup2",
+            "description": "LOS ANGELES ARTCC - USE WHEN SANTA BARBARA APP/DEP CLOSED.",
+            "frequency_mhz": "269.5"
+        },
+        {
+            "id": "59959",
+            "airport_ref": "3869",
+            "airport_ident": "KSBP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "59960",
+            "airport_ref": "3869",
+            "airport_ident": "KSBP",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "59961",
+            "airport_ref": "3869",
+            "airport_ident": "KSBP",
+            "type": "GND",
+            "description": "Ground",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "59962",
+            "airport_ref": "3869",
+            "airport_ident": "KSBP",
+            "type": "TWR",
+            "description": "Tower - Primary frequency",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "312188",
+            "airport_ref": "3869",
+            "airport_ident": "KSBP",
+            "type": "TWR2",
+            "description": "Tower - Secondary frequency",
+            "frequency_mhz": "379.9"
+        },
+        {
+            "id": "59963",
+            "airport_ref": "3869",
+            "airport_ident": "KSBP",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

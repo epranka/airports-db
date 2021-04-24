@@ -1,0 +1,80 @@
+{
+    "id": "20103",
+    "ident": "KHWQ",
+    "type": "small_airport",
+    "name": "Wheatland County At Harlowton Airport",
+    "latitude_deg": "46.44860077",
+    "longitude_deg": "-109.8529968",
+    "elevation_ft": "4311",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Harlowton",
+    "scheduled_service": "no",
+    "gps_code": "KHWQ",
+    "iata_code": "",
+    "local_code": "HWQ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241667",
+            "airport_ref": "20103",
+            "airport_ident": "KHWQ",
+            "length_ft": "4200",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "46.4547",
+            "le_longitude_deg": "-109.863",
+            "le_elevation_ft": "",
+            "le_heading_degT": "96",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "46.4536",
+            "he_longitude_deg": "-109.847",
+            "he_elevation_ft": "",
+            "he_heading_degT": "276",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62350",
+            "airport_ref": "20103",
+            "airport_ident": "KHWQ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "62351",
+            "airport_ref": "20103",
+            "airport_ident": "KHWQ",
+            "type": "FSS",
+            "description": "GREAT FALLS RDO",
+            "frequency_mhz": "122.4"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306102",
+        "code": "US-MT",
+        "local_code": "MT",
+        "name": "Montana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
+        "keywords": ""
+    }
+}

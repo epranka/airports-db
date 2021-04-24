@@ -1,0 +1,80 @@
+{
+    "id": "2593",
+    "ident": "ENSB",
+    "type": "medium_airport",
+    "name": "Svalbard Airport, Longyear",
+    "latitude_deg": "78.246101379395",
+    "longitude_deg": "15.465600013733",
+    "elevation_ft": "88",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-21",
+    "municipality": "Longyearbyen",
+    "scheduled_service": "yes",
+    "gps_code": "ENSB",
+    "iata_code": "LYR",
+    "local_code": "",
+    "home_link": "https://avinor.no/en/airport/svalbard-airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Svalbard_Airport%2C_Longyear",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238973",
+            "airport_ref": "2593",
+            "airport_ident": "ENSB",
+            "length_ft": "7608",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "78.2488",
+            "le_longitude_deg": "15.418",
+            "le_elevation_ft": "63",
+            "le_heading_degT": "105.3",
+            "le_displaced_threshold_ft": "199",
+            "he_ident": "28",
+            "he_latitude_deg": "78.2433",
+            "he_longitude_deg": "15.5163",
+            "he_elevation_ft": "73",
+            "he_heading_degT": "285.3",
+            "he_displaced_threshold_ft": "395"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57387",
+            "airport_ref": "2593",
+            "airport_ident": "ENSB",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "57388",
+            "airport_ref": "2593",
+            "airport_ident": "ENSB",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "884"
+        }
+    ],
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "304964",
+        "code": "NO-21",
+        "local_code": "21",
+        "name": "Svalbard",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Svalbard",
+        "keywords": ""
+    }
+}

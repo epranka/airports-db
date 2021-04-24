@@ -1,0 +1,88 @@
+{
+    "id": "20976",
+    "ident": "KRWV",
+    "type": "small_airport",
+    "name": "Caldwell Municipal Airport",
+    "latitude_deg": "30.515499",
+    "longitude_deg": "-96.704102",
+    "elevation_ft": "391",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Caldwell",
+    "scheduled_service": "no",
+    "gps_code": "KRWV",
+    "iata_code": "",
+    "local_code": "RWV",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Caldwell_Municipal_Airport_(Texas)",
+    "keywords": "14R",
+    "runways": [
+        {
+            "id": "245773",
+            "airport_ref": "20976",
+            "airport_ident": "KRWV",
+            "length_ft": "3252",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "30.5194",
+            "le_longitude_deg": "-96.7065",
+            "le_elevation_ft": "391",
+            "le_heading_degT": "152.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "30.5115",
+            "he_longitude_deg": "-96.7017",
+            "he_elevation_ft": "365",
+            "he_heading_degT": "332.4",
+            "he_displaced_threshold_ft": "242"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71039",
+            "airport_ref": "20976",
+            "airport_ident": "KRWV",
+            "type": "A/D",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "71040",
+            "airport_ref": "20976",
+            "airport_ident": "KRWV",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.35"
+        },
+        {
+            "id": "71041",
+            "airport_ref": "20976",
+            "airport_ident": "KRWV",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

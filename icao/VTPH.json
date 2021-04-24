@@ -1,0 +1,142 @@
+{
+    "id": "26655",
+    "ident": "VTPH",
+    "type": "medium_airport",
+    "name": "Hua Hin Airport",
+    "latitude_deg": "12.6361999512",
+    "longitude_deg": "99.951499939",
+    "elevation_ft": "62",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-76",
+    "municipality": "Hua Hin",
+    "scheduled_service": "yes",
+    "gps_code": "VTPH",
+    "iata_code": "HHQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hua_Hin_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239147",
+            "airport_ref": "26655",
+            "airport_ident": "VTPH",
+            "length_ft": "6890",
+            "width_ft": "115",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "12.6451",
+            "le_longitude_deg": "99.9482",
+            "le_elevation_ft": "62",
+            "le_heading_degT": "159.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "12.6273",
+            "he_longitude_deg": "99.9549",
+            "he_elevation_ft": "17",
+            "he_heading_degT": "339.7",
+            "he_displaced_threshold_ft": "492"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57638",
+            "airport_ref": "26655",
+            "airport_ident": "VTPH",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "57639",
+            "airport_ref": "26655",
+            "airport_ident": "VTPH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "21.3"
+        },
+        {
+            "id": "57640",
+            "airport_ref": "26655",
+            "airport_ident": "VTPH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "57641",
+            "airport_ref": "26655",
+            "airport_ident": "VTPH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305767",
+        "code": "TH-76",
+        "local_code": "76",
+        "name": "Phetchaburi Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Phetchaburi",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88829",
+            "filename": "Hua_Hin_VOR-DME_TH",
+            "ident": "HHN",
+            "name": "Hua Hin",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "12.634499549865723",
+            "longitude_deg": "99.95120239257812",
+            "elevation_ft": "62",
+            "iso_country": "TH",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.331",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTPH"
+        },
+        {
+            "id": "88928",
+            "filename": "Hua_Hin_NDB_TH",
+            "ident": "HN",
+            "name": "Hua Hin",
+            "type": "NDB",
+            "frequency_khz": "213",
+            "latitude_deg": "12.643199920654297",
+            "longitude_deg": "99.94960021972656",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.331",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTPH"
+        }
+    ]
+}

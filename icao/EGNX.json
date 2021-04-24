@@ -1,0 +1,104 @@
+{
+    "id": "2450",
+    "ident": "EGNX",
+    "type": "large_airport",
+    "name": "East Midlands Airport",
+    "latitude_deg": "52.8311004639",
+    "longitude_deg": "-1.32806003094",
+    "elevation_ft": "306",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Nottingham",
+    "scheduled_service": "yes",
+    "gps_code": "EGNX",
+    "iata_code": "EMA",
+    "local_code": "",
+    "home_link": "http://www.eastmidlandsairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/East_Midlands_Airport",
+    "keywords": "RAF Castle Donington",
+    "runways": [
+        {
+            "id": "239595",
+            "airport_ref": "2450",
+            "airport_ident": "EGNX",
+            "length_ft": "9491",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "52.8306",
+            "le_longitude_deg": "-1.34957",
+            "le_elevation_ft": "306",
+            "le_heading_degT": "88",
+            "le_displaced_threshold_ft": "590",
+            "he_ident": "27",
+            "he_latitude_deg": "52.8314",
+            "he_longitude_deg": "-1.30667",
+            "he_elevation_ft": "282",
+            "he_heading_degT": "268",
+            "he_displaced_threshold_ft": "426"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58519",
+            "airport_ref": "2450",
+            "airport_ident": "EGNX",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "134.175"
+        },
+        {
+            "id": "58520",
+            "airport_ref": "2450",
+            "airport_ident": "EGNX",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "122.675"
+        },
+        {
+            "id": "302153",
+            "airport_ref": "2450",
+            "airport_ident": "EGNX",
+            "type": "Fire service",
+            "description": "",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "58521",
+            "airport_ref": "2450",
+            "airport_ident": "EGNX",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "58522",
+            "airport_ref": "2450",
+            "airport_ident": "EGNX",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "612",
+    "ident": "CAA8",
+    "type": "small_airport",
+    "name": "Invermere Airport",
+    "latitude_deg": "50.521502",
+    "longitude_deg": "-116.005775",
+    "elevation_ft": "2820",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Invermere",
+    "scheduled_service": "no",
+    "gps_code": "CAA8",
+    "iata_code": "",
+    "local_code": "CAA8",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Invermere_Airport",
+    "keywords": "AA8",
+    "runways": [
+        {
+            "id": "234502",
+            "airport_ref": "612",
+            "airport_ident": "CAA8",
+            "length_ft": "3000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "50.5208",
+            "le_longitude_deg": "-116.001",
+            "le_elevation_ft": "",
+            "le_heading_degT": "170",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "50.5125",
+            "he_longitude_deg": "-115.999",
+            "he_elevation_ft": "",
+            "he_heading_degT": "350",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49952",
+            "airport_ref": "612",
+            "airport_ident": "CAA8",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        },
+        {
+            "id": "49953",
+            "airport_ref": "612",
+            "airport_ident": "CAA8",
+            "type": "RCO",
+            "description": "PACIFIC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    }
+}

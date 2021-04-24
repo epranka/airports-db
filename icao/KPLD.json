@@ -1,0 +1,88 @@
+{
+    "id": "20839",
+    "ident": "KPLD",
+    "type": "small_airport",
+    "name": "Portland Municipal Airport",
+    "latitude_deg": "40.45080185",
+    "longitude_deg": "-84.99009705",
+    "elevation_ft": "925",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Portland",
+    "scheduled_service": "no",
+    "gps_code": "KPLD",
+    "iata_code": "",
+    "local_code": "PLD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244762",
+            "airport_ref": "20839",
+            "airport_ident": "KPLD",
+            "length_ft": "4002",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "40.4514",
+            "le_longitude_deg": "-84.9962",
+            "le_elevation_ft": "913",
+            "le_heading_degT": "89",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "40.4517",
+            "he_longitude_deg": "-84.9818",
+            "he_elevation_ft": "925",
+            "he_heading_degT": "269",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68816",
+            "airport_ref": "20839",
+            "airport_ident": "KPLD",
+            "type": "A/D",
+            "description": "FORT WAYNE APP/DEP",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "68817",
+            "airport_ref": "20839",
+            "airport_ident": "KPLD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "126.675"
+        },
+        {
+            "id": "68818",
+            "airport_ref": "20839",
+            "airport_ident": "KPLD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

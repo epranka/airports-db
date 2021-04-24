@@ -1,0 +1,112 @@
+{
+    "id": "26927",
+    "ident": "YBRM",
+    "type": "medium_airport",
+    "name": "Broome International Airport",
+    "latitude_deg": "-17.944700241088867",
+    "longitude_deg": "122.23200225830078",
+    "elevation_ft": "56",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Broome",
+    "scheduled_service": "yes",
+    "gps_code": "YBRM",
+    "iata_code": "BME",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Broome_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233305",
+            "airport_ref": "26927",
+            "airport_ident": "YBRM",
+            "length_ft": "8064",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-17.9456",
+            "le_longitude_deg": "122.216",
+            "le_elevation_ft": "56",
+            "le_heading_degT": "105",
+            "le_displaced_threshold_ft": "295",
+            "he_ident": "28",
+            "he_latitude_deg": "-17.9514",
+            "he_longitude_deg": "122.238",
+            "he_elevation_ft": "22",
+            "he_heading_degT": "285",
+            "he_displaced_threshold_ft": "689"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48835",
+            "airport_ref": "26927",
+            "airport_ident": "YBRM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.55"
+        },
+        {
+            "id": "48836",
+            "airport_ref": "26927",
+            "airport_ident": "YBRM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "48837",
+            "airport_ref": "26927",
+            "airport_ident": "YBRM",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "123.9"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86324",
+            "filename": "Broome_NDB-DME_AU",
+            "ident": "BRM",
+            "name": "Broome",
+            "type": "NDB-DME",
+            "frequency_khz": "320",
+            "latitude_deg": "-17.946399688720703",
+            "longitude_deg": "122.23500061035156",
+            "elevation_ft": "67",
+            "iso_country": "AU",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "-17.9469",
+            "dme_longitude_deg": "122.235",
+            "dme_elevation_ft": "67",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.289",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YBRM"
+        }
+    ]
+}

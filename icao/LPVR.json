@@ -1,0 +1,96 @@
+{
+    "id": "4465",
+    "ident": "LPVR",
+    "type": "medium_airport",
+    "name": "Vila Real Airport",
+    "latitude_deg": "41.2743",
+    "longitude_deg": "-7.72047",
+    "elevation_ft": "1805",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-17",
+    "municipality": "Vila Real",
+    "scheduled_service": "yes",
+    "gps_code": "LPVR",
+    "iata_code": "VRL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vila_Real_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238349",
+            "airport_ref": "4465",
+            "airport_ident": "LPVR",
+            "length_ft": "3107",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "41.2703",
+            "le_longitude_deg": "-7.72217",
+            "le_elevation_ft": "1798",
+            "le_heading_degT": "17.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "41.2784",
+            "he_longitude_deg": "-7.71875",
+            "he_elevation_ft": "1831",
+            "he_heading_degT": "197.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56335",
+            "airport_ref": "4465",
+            "airport_ident": "LPVR",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302711",
+        "code": "PT",
+        "name": "Portugal",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
+        "keywords": "Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "305183",
+        "code": "PT-17",
+        "local_code": "17",
+        "name": "Vila Real District",
+        "continent": "EU",
+        "iso_country": "PT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vila_Real_District",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95260",
+            "filename": "Vila_Real_NDB_PT",
+            "ident": "VR",
+            "name": "Vila Real",
+            "type": "NDB",
+            "frequency_khz": "304",
+            "latitude_deg": "41.215301513671875",
+            "longitude_deg": "-7.743889808654785",
+            "elevation_ft": "",
+            "iso_country": "PT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.411",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPVR"
+        }
+    ]
+}

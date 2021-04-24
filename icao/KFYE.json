@@ -1,0 +1,96 @@
+{
+    "id": "19914",
+    "ident": "KFYE",
+    "type": "small_airport",
+    "name": "Fayette County Airport",
+    "latitude_deg": "35.207698822021484",
+    "longitude_deg": "-89.39450073242188",
+    "elevation_ft": "436",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Somerville",
+    "scheduled_service": "no",
+    "gps_code": "KFYE",
+    "iata_code": "",
+    "local_code": "FYE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240303",
+            "airport_ref": "19914",
+            "airport_ident": "KFYE",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "35.2009",
+            "le_longitude_deg": "-89.3956",
+            "le_elevation_ft": "436",
+            "le_heading_degT": "7.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "35.2145",
+            "he_longitude_deg": "-89.3933",
+            "he_elevation_ft": "423",
+            "he_heading_degT": "187.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59752",
+            "airport_ref": "19914",
+            "airport_ident": "KFYE",
+            "type": "APP",
+            "description": "MEMPHIS APP",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "59753",
+            "airport_ref": "19914",
+            "airport_ident": "KFYE",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.875"
+        },
+        {
+            "id": "59754",
+            "airport_ref": "19914",
+            "airport_ident": "KFYE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "59755",
+            "airport_ref": "19914",
+            "airport_ident": "KFYE",
+            "type": "DEP",
+            "description": "MEMPHIS DEP",
+            "frequency_mhz": "124.15"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

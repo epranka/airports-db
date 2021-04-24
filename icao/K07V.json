@@ -1,0 +1,80 @@
+{
+    "id": "18330",
+    "ident": "K07V",
+    "type": "small_airport",
+    "name": "Cuchara Valley At La Veta Airport",
+    "latitude_deg": "37.5238",
+    "longitude_deg": "-105.009002",
+    "elevation_ft": "7153",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "La Veta",
+    "scheduled_service": "no",
+    "gps_code": "K07V",
+    "iata_code": "",
+    "local_code": "07V",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242386",
+            "airport_ref": "18330",
+            "airport_ident": "K07V",
+            "length_ft": "5798",
+            "width_ft": "60",
+            "surface": "ASPH-P",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "37.522",
+            "le_longitude_deg": "-105.019",
+            "le_elevation_ft": "7152",
+            "le_heading_degT": "76",
+            "le_displaced_threshold_ft": "250",
+            "he_ident": "24",
+            "he_latitude_deg": "37.5256",
+            "he_longitude_deg": "-105",
+            "he_elevation_ft": "7060",
+            "he_heading_degT": "256",
+            "he_displaced_threshold_ft": "198"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63829",
+            "airport_ref": "18330",
+            "airport_ident": "K07V",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.7"
+        },
+        {
+            "id": "63830",
+            "airport_ref": "18330",
+            "airport_ident": "K07V",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": "28061",
+    "ident": "YWND",
+    "type": "small_airport",
+    "name": "Wondai Airport",
+    "latitude_deg": "-26.283300399780273",
+    "longitude_deg": "151.85800170898438",
+    "elevation_ft": "320",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YWND",
+    "iata_code": "WDI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259541",
+            "airport_ref": "28061",
+            "airport_ident": "YWND",
+            "length_ft": "4606",
+            "width_ft": "",
+            "surface": "S",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74993",
+            "airport_ref": "28061",
+            "airport_ident": "YWND",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "74994",
+            "airport_ref": "28061",
+            "airport_ident": "YWND",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "74995",
+            "airport_ref": "28061",
+            "airport_ident": "YWND",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.6"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

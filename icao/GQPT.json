@@ -1,0 +1,104 @@
+{
+    "id": "3139",
+    "ident": "GQPT",
+    "type": "small_airport",
+    "name": "Bir Moghrein Airport",
+    "latitude_deg": "25.2367000579834",
+    "longitude_deg": "-11.588700294494629",
+    "elevation_ft": "1206",
+    "continent": "AF",
+    "iso_country": "MR",
+    "iso_region": "MR-11",
+    "municipality": "Bir Moghrein",
+    "scheduled_service": "no",
+    "gps_code": "GQPT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bir_Moghrein_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237620",
+            "airport_ref": "3139",
+            "airport_ident": "GQPT",
+            "length_ft": "7515",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "25.2263",
+            "le_longitude_deg": "-11.5883",
+            "le_elevation_ft": "1194",
+            "le_heading_degT": "358",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "25.247",
+            "he_longitude_deg": "-11.5891",
+            "he_elevation_ft": "1178",
+            "he_heading_degT": "178",
+            "he_displaced_threshold_ft": "1610"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55355",
+            "airport_ref": "3139",
+            "airport_ident": "GQPT",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "568"
+        },
+        {
+            "id": "55356",
+            "airport_ref": "3139",
+            "airport_ident": "GQPT",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302587",
+        "code": "MR",
+        "name": "Mauritania",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mauritania",
+        "keywords": "مطارات موريتانيا"
+    },
+    "region": {
+        "id": "304717",
+        "code": "MR-11",
+        "local_code": "11",
+        "name": "Tiris Zemmour Region",
+        "continent": "AF",
+        "iso_country": "MR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tiris_Zemmour_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88128",
+            "filename": "Bir_Moghrein_NDB_MR",
+            "ident": "FR",
+            "name": "Bir Moghrein",
+            "type": "NDB",
+            "frequency_khz": "408",
+            "latitude_deg": "25.21649932861328",
+            "longitude_deg": "-11.583800315856934",
+            "elevation_ft": "",
+            "iso_country": "MR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.57",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "GQPT"
+        }
+    ]
+}

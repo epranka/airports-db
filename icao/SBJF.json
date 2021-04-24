@@ -1,0 +1,96 @@
+{
+    "id": "5922",
+    "ident": "SBJF",
+    "type": "medium_airport",
+    "name": "Francisco de Assis Airport",
+    "latitude_deg": "-21.791500091552734",
+    "longitude_deg": "-43.38679885864258",
+    "elevation_ft": "2989",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Juiz De Fora",
+    "scheduled_service": "yes",
+    "gps_code": "SBJF",
+    "iata_code": "JDF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234354",
+            "airport_ref": "5922",
+            "airport_ident": "SBJF",
+            "length_ft": "5036",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "3",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49829",
+            "airport_ref": "5922",
+            "airport_ident": "SBJF",
+            "type": "AFIS",
+            "description": "JUIZ DE FORA RDO",
+            "frequency_mhz": "128.1"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303209",
+        "code": "BR-MG",
+        "local_code": "MG",
+        "name": "Minas Gerais",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88132",
+            "filename": "Fora_NDB_BR",
+            "ident": "FRA",
+            "name": "Fora",
+            "type": "NDB",
+            "frequency_khz": "173",
+            "latitude_deg": "-21.767799377441406",
+            "longitude_deg": "-43.38370132446289",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.413",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBJF"
+        }
+    ]
+}

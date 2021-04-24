@@ -1,0 +1,88 @@
+{
+    "id": "27479",
+    "ident": "YCOL",
+    "type": "small_airport",
+    "name": "Coleraine Airport",
+    "latitude_deg": "-37.599998474121094",
+    "longitude_deg": "141.6999969482422",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YCOL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258459",
+            "airport_ref": "27479",
+            "airport_ident": "YCOL",
+            "length_ft": "3897",
+            "width_ft": "",
+            "surface": "G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72591",
+            "airport_ref": "27479",
+            "airport_ident": "YCOL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "72592",
+            "airport_ref": "27479",
+            "airport_ident": "YCOL",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "123"
+        },
+        {
+            "id": "72593",
+            "airport_ref": "27479",
+            "airport_ident": "YCOL",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.8"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302975",
+        "code": "AU-VIC",
+        "local_code": "VIC",
+        "name": "Victoria",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
+        "keywords": ""
+    }
+}

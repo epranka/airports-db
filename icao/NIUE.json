@@ -1,0 +1,104 @@
+{
+    "id": "4974",
+    "ident": "NIUE",
+    "type": "medium_airport",
+    "name": "Niue International Airport",
+    "latitude_deg": "-19.079030990600586",
+    "longitude_deg": "-169.92559814453125",
+    "elevation_ft": "209",
+    "continent": "OC",
+    "iso_country": "NU",
+    "iso_region": "NU-U-A",
+    "municipality": "Alofi",
+    "scheduled_service": "yes",
+    "gps_code": "NIUE",
+    "iata_code": "IUE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Niue_International_Airport",
+    "keywords": "Hanan International Airport",
+    "runways": [
+        {
+            "id": "237873",
+            "airport_ref": "4974",
+            "airport_ident": "NIUE",
+            "length_ft": "7660",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-19.0764",
+            "le_longitude_deg": "-169.936",
+            "le_elevation_ft": "209",
+            "le_heading_degT": "109.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "-19.0836",
+            "he_longitude_deg": "-169.915",
+            "he_elevation_ft": "182",
+            "he_heading_degT": "289.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55682",
+            "airport_ref": "4974",
+            "airport_ident": "NIUE",
+            "type": "AFIS",
+            "description": "FSS",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "55683",
+            "airport_ref": "4974",
+            "airport_ident": "NIUE",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "655.3"
+        }
+    ],
+    "country": {
+        "id": "302775",
+        "code": "NU",
+        "name": "Niue",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Niue",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304969",
+        "code": "NU-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "NU",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "91753",
+            "filename": "Niue_NDB-DME_NU",
+            "ident": "NU",
+            "name": "Niue",
+            "type": "NDB-DME",
+            "frequency_khz": "345",
+            "latitude_deg": "-19.07360076904297",
+            "longitude_deg": "-169.91700744628906",
+            "elevation_ft": "311",
+            "iso_country": "NU",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "-19.0928",
+            "dme_longitude_deg": "-169.904",
+            "dme_elevation_ft": "311",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.494",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "NIUE"
+        }
+    ]
+}

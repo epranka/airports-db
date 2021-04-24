@@ -1,0 +1,96 @@
+{
+    "id": "1725",
+    "ident": "CYEU",
+    "type": "small_airport",
+    "name": "Eureka Airport",
+    "latitude_deg": "79.9946975708",
+    "longitude_deg": "-85.814201355",
+    "elevation_ft": "256",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Eureka",
+    "scheduled_service": "no",
+    "gps_code": "CYEU",
+    "iata_code": "YEU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Eureka_Aerodrome",
+    "keywords": "YEU",
+    "runways": [
+        {
+            "id": "235065",
+            "airport_ref": "1725",
+            "airport_ident": "CYEU",
+            "length_ft": "4836",
+            "width_ft": "150",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10T",
+            "le_latitude_deg": "79.9963",
+            "le_longitude_deg": "-85.8499",
+            "le_elevation_ft": "",
+            "le_heading_degT": "104",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28T",
+            "he_latitude_deg": "79.9931",
+            "he_longitude_deg": "-85.7768",
+            "he_elevation_ft": "",
+            "he_heading_degT": "284",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50984",
+            "airport_ref": "1725",
+            "airport_ident": "CYEU",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303301",
+        "code": "CA-NU",
+        "local_code": "NU",
+        "name": "Nunavut",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95661",
+            "filename": "Eureka_NDB_CA",
+            "ident": "YEU",
+            "name": "Eureka",
+            "type": "NDB",
+            "frequency_khz": "205",
+            "latitude_deg": "79.99079895019531",
+            "longitude_deg": "-85.89830017089844",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-70.406",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYEU"
+        }
+    ]
+}

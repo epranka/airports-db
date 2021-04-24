@@ -1,0 +1,96 @@
+{
+    "id": "19786",
+    "ident": "KEYE",
+    "type": "small_airport",
+    "name": "Eagle Creek Airpark",
+    "latitude_deg": "39.830699920654",
+    "longitude_deg": "-86.294403076172",
+    "elevation_ft": "823",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Indianapolis",
+    "scheduled_service": "no",
+    "gps_code": "KEYE",
+    "iata_code": "",
+    "local_code": "EYE",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Eagle_Creek_Airpark",
+    "keywords": "I14",
+    "runways": [
+        {
+            "id": "243136",
+            "airport_ref": "19786",
+            "airport_ident": "KEYE",
+            "length_ft": "4200",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "39.8255",
+            "le_longitude_deg": "-86.2976",
+            "le_elevation_ft": "818",
+            "le_heading_degT": "25.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "39.8359",
+            "he_longitude_deg": "-86.2912",
+            "he_elevation_ft": "823",
+            "he_heading_degT": "205.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65339",
+            "airport_ref": "19786",
+            "airport_ident": "KEYE",
+            "type": "A/D",
+            "description": "INDIANAPOLIS APP/DEP",
+            "frequency_mhz": "119.05"
+        },
+        {
+            "id": "65340",
+            "airport_ref": "19786",
+            "airport_ident": "KEYE",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.575"
+        },
+        {
+            "id": "65341",
+            "airport_ref": "19786",
+            "airport_ident": "KEYE",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "65342",
+            "airport_ref": "19786",
+            "airport_ident": "KEYE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

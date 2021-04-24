@@ -1,0 +1,96 @@
+{
+    "id": "5133",
+    "ident": "OIAH",
+    "type": "medium_airport",
+    "name": "Gachsaran Airport",
+    "latitude_deg": "30.337600708",
+    "longitude_deg": "50.827999115",
+    "elevation_ft": "2414",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-18",
+    "municipality": "Gachsaran",
+    "scheduled_service": "no",
+    "gps_code": "OIAH",
+    "iata_code": "GCH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236874",
+            "airport_ref": "5133",
+            "airport_ident": "OIAH",
+            "length_ft": "6070",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "30.3423",
+            "le_longitude_deg": "50.82",
+            "le_elevation_ft": "2394",
+            "le_heading_degT": "124.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "30.3328",
+            "he_longitude_deg": "50.8359",
+            "he_elevation_ft": "2394",
+            "he_heading_degT": "304.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54035",
+            "airport_ref": "5133",
+            "airport_ident": "OIAH",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304235",
+        "code": "IR-18",
+        "local_code": "18",
+        "name": "Kohgiluyeh and Boyer-Ahmad Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kohgiluyeh_and_Boyer-Ahmad_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88596",
+            "filename": "Gachsaran_NDB_IR",
+            "ident": "GSN",
+            "name": "Gachsaran",
+            "type": "NDB",
+            "frequency_khz": "245",
+            "latitude_deg": "30.312299728393555",
+            "longitude_deg": "50.870399475097656",
+            "elevation_ft": "2414",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.527",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "OIAH"
+        }
+    ]
+}

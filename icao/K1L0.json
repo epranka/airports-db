@@ -1,0 +1,80 @@
+{
+    "id": "18483",
+    "ident": "K1L0",
+    "type": "small_airport",
+    "name": "Port of South Louisiana Executive Regional Airport",
+    "latitude_deg": "30.087",
+    "longitude_deg": "-90.582602",
+    "elevation_ft": "7",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Reserve",
+    "scheduled_service": "no",
+    "gps_code": "KAPS",
+    "iata_code": "",
+    "local_code": "APS",
+    "home_link": "http://portsl.com/airport-services/",
+    "wikipedia_link": "",
+    "keywords": "0LA4, 1L0, St John The Baptist Parish Airport",
+    "runways": [
+        {
+            "id": "244396",
+            "airport_ref": "18483",
+            "airport_ident": "K1L0",
+            "length_ft": "3999",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "30.0927",
+            "le_longitude_deg": "-90.5835",
+            "le_elevation_ft": "4",
+            "le_heading_degT": "172",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "30.0817",
+            "he_longitude_deg": "-90.5818",
+            "he_elevation_ft": "6",
+            "he_heading_degT": "352",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68007",
+            "airport_ref": "18483",
+            "airport_ident": "K1L0",
+            "type": "A/D",
+            "description": "NEW ORLEANS APP/DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "68008",
+            "airport_ref": "18483",
+            "airport_ident": "K1L0",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

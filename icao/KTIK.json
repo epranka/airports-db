@@ -1,0 +1,214 @@
+{
+    "id": "3921",
+    "ident": "KTIK",
+    "type": "large_airport",
+    "name": "Tinker Air Force Base",
+    "latitude_deg": "35.414699554443",
+    "longitude_deg": "-97.386596679688",
+    "elevation_ft": "1291",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Oklahoma City",
+    "scheduled_service": "no",
+    "gps_code": "KTIK",
+    "iata_code": "TIK",
+    "local_code": "TIK",
+    "home_link": "http://www.tinker.af.mil/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tinker_Air_Force_Base",
+    "keywords": "Midwest Air Depot",
+    "runways": [
+        {
+            "id": "241406",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "length_ft": "10000",
+            "width_ft": "200",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "35.4249",
+            "le_longitude_deg": "-97.4043",
+            "le_elevation_ft": "1226",
+            "le_heading_degT": "131",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "35.4068",
+            "he_longitude_deg": "-97.379",
+            "he_elevation_ft": "1277",
+            "he_heading_degT": "311",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241407",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "length_ft": "11100",
+            "width_ft": "200",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "35.429",
+            "le_longitude_deg": "-97.3821",
+            "le_elevation_ft": "1260",
+            "le_heading_degT": "180.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "35.3985",
+            "he_longitude_deg": "-97.3821",
+            "he_elevation_ft": "1291",
+            "he_heading_degT": "0.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61780",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "A/D",
+            "description": "OKE CITY APP/DEP",
+            "frequency_mhz": "26.68"
+        },
+        {
+            "id": "61779",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "A/D",
+            "description": "OKE CITY APP/DEP",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "61781",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "27.01"
+        },
+        {
+            "id": "61782",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "61783",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "61784",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "INFO",
+            "description": "ATOC",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "61785",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "MISC",
+            "description": "AFMC FLT TEST",
+            "frequency_mhz": "38.26"
+        },
+        {
+            "id": "61786",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "26.102"
+        },
+        {
+            "id": "61788",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "POST",
+            "description": "507 ARW",
+            "frequency_mhz": "22.845"
+        },
+        {
+            "id": "61787",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "POST",
+            "description": "ACC COMD POST",
+            "frequency_mhz": "141.65"
+        },
+        {
+            "id": "61789",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "61790",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "SFA",
+            "description": "SFA",
+            "frequency_mhz": "35.412"
+        },
+        {
+            "id": "61791",
+            "airport_ref": "3921",
+            "airport_ident": "KTIK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.45"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94366",
+            "filename": "Tinker_TACAN_US",
+            "ident": "TIK",
+            "name": "Tinker",
+            "type": "TACAN",
+            "frequency_khz": "115800",
+            "latitude_deg": "35.436500549316406",
+            "longitude_deg": "-97.37969970703125",
+            "elevation_ft": "1251",
+            "iso_country": "US",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.001",
+            "magnetic_variation_deg": "4.595",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KTIK"
+        }
+    ]
+}

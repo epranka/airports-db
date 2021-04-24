@@ -1,0 +1,88 @@
+{
+    "id": "21043",
+    "ident": "KSCX",
+    "type": "small_airport",
+    "name": "Scott Municipal Airport",
+    "latitude_deg": "36.45560073852539",
+    "longitude_deg": "-84.58570098876953",
+    "elevation_ft": "1545",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Oneida",
+    "scheduled_service": "no",
+    "gps_code": "KSCX",
+    "iata_code": "",
+    "local_code": "SCX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241454",
+            "airport_ref": "21043",
+            "airport_ident": "KSCX",
+            "length_ft": "5502",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "36.4505",
+            "le_longitude_deg": "-84.5925",
+            "le_elevation_ft": "1545",
+            "le_heading_degT": "46.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "36.4609",
+            "he_longitude_deg": "-84.579",
+            "he_elevation_ft": "1522",
+            "he_heading_degT": "226.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61893",
+            "airport_ref": "21043",
+            "airport_ident": "KSCX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.025"
+        },
+        {
+            "id": "61894",
+            "airport_ref": "21043",
+            "airport_ident": "KSCX",
+            "type": "CNTR",
+            "description": "INDIANAPOLIS CNTR",
+            "frequency_mhz": "121.325"
+        },
+        {
+            "id": "61895",
+            "airport_ref": "21043",
+            "airport_ident": "KSCX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

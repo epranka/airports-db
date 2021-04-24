@@ -1,0 +1,88 @@
+{
+    "id": "21132",
+    "ident": "KSZY",
+    "type": "small_airport",
+    "name": "Robert Sibley Airport",
+    "latitude_deg": "35.20289993286133",
+    "longitude_deg": "-88.49839782714844",
+    "elevation_ft": "610",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Selmer",
+    "scheduled_service": "no",
+    "gps_code": "KSZY",
+    "iata_code": "",
+    "local_code": "SZY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243725",
+            "airport_ref": "21132",
+            "airport_ident": "KSZY",
+            "length_ft": "5002",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "35.2095",
+            "le_longitude_deg": "-88.5004",
+            "le_elevation_ft": "603",
+            "le_heading_degT": "164.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "35.1963",
+            "he_longitude_deg": "-88.496",
+            "he_elevation_ft": "610",
+            "he_heading_degT": "344.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66624",
+            "airport_ref": "21132",
+            "airport_ident": "KSZY",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "66625",
+            "airport_ref": "21132",
+            "airport_ident": "KSZY",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "66626",
+            "airport_ref": "21132",
+            "airport_ident": "KSZY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": ""
+    }
+}

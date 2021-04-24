@@ -1,0 +1,102 @@
+{
+    "id": "3193",
+    "ident": "HEMM",
+    "type": "medium_airport",
+    "name": "Marsa Matruh Airport",
+    "latitude_deg": "31.325399",
+    "longitude_deg": "27.221701",
+    "elevation_ft": "94",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-MT",
+    "municipality": "Marsa Matruh",
+    "scheduled_service": "no",
+    "gps_code": "HEMM",
+    "iata_code": "MUH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mersa_Matruh_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235566",
+            "airport_ref": "3193",
+            "airport_ident": "HEMM",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "31.322",
+            "le_longitude_deg": "27.2149",
+            "le_elevation_ft": "94",
+            "le_heading_degT": "60",
+            "le_displaced_threshold_ft": "160",
+            "he_ident": "24",
+            "he_latitude_deg": "31.3355",
+            "he_longitude_deg": "27.2422",
+            "he_elevation_ft": "94",
+            "he_heading_degT": "240",
+            "he_displaced_threshold_ft": "160"
+        },
+        {
+            "id": "235567",
+            "airport_ref": "3193",
+            "airport_ident": "HEMM",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "31.3371",
+            "le_longitude_deg": "27.2137",
+            "le_elevation_ft": "94",
+            "le_heading_degT": "149.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "31.3137",
+            "he_longitude_deg": "27.2296",
+            "he_elevation_ft": "94",
+            "he_heading_degT": "329.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51857",
+            "airport_ref": "3193",
+            "airport_ident": "HEMM",
+            "type": "RDO",
+            "description": "MATRUH RDO",
+            "frequency_mhz": "579"
+        },
+        {
+            "id": "51858",
+            "airport_ref": "3193",
+            "airport_ident": "HEMM",
+            "type": "TWR",
+            "description": "MATRUH TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر"
+    },
+    "region": {
+        "id": "303710",
+        "code": "EG-MT",
+        "local_code": "MT",
+        "name": "Matruh Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Matruh_Governorate",
+        "keywords": ""
+    }
+}

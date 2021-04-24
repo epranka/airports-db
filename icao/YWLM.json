@@ -1,0 +1,166 @@
+{
+    "id": "27175",
+    "ident": "YWLM",
+    "type": "medium_airport",
+    "name": "Newcastle Airport",
+    "latitude_deg": "-32.79499816894531",
+    "longitude_deg": "151.83399963378906",
+    "elevation_ft": "31",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Williamtown",
+    "scheduled_service": "yes",
+    "gps_code": "YWLM",
+    "iata_code": "NTL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Newcastle_Airport_(Williamtown)",
+    "keywords": "RAAF Base Williamtown",
+    "runways": [
+        {
+            "id": "233282",
+            "airport_ref": "27175",
+            "airport_ident": "YWLM",
+            "length_ft": "7999",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-32.7888",
+            "le_longitude_deg": "151.825",
+            "le_elevation_ft": "30",
+            "le_heading_degT": "130",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-32.803",
+            "he_longitude_deg": "151.845",
+            "he_elevation_ft": "17",
+            "he_heading_degT": "310",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48794",
+            "airport_ref": "27175",
+            "airport_ident": "YWLM",
+            "type": "APP",
+            "description": "WILLY APP",
+            "frequency_mhz": "135.7"
+        },
+        {
+            "id": "48795",
+            "airport_ref": "27175",
+            "airport_ident": "YWLM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "31.61"
+        },
+        {
+            "id": "48796",
+            "airport_ref": "27175",
+            "airport_ident": "YWLM",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "130.35"
+        },
+        {
+            "id": "48797",
+            "airport_ref": "27175",
+            "airport_ident": "YWLM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "48798",
+            "airport_ref": "27175",
+            "airport_ident": "YWLM",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "125.7"
+        },
+        {
+            "id": "48799",
+            "airport_ref": "27175",
+            "airport_ident": "YWLM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "48800",
+            "airport_ref": "27175",
+            "airport_ident": "YWLM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95458",
+            "filename": "Williamtown_TACAN_AU",
+            "ident": "WLM",
+            "name": "Williamtown",
+            "type": "TACAN",
+            "frequency_khz": "113300",
+            "latitude_deg": "-32.79710006713867",
+            "longitude_deg": "151.83299255371094",
+            "elevation_ft": "59",
+            "iso_country": "AU",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.011",
+            "magnetic_variation_deg": "12.265",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YWLM"
+        },
+        {
+            "id": "95459",
+            "filename": "Williamtown_NDB_AU",
+            "ident": "WLM",
+            "name": "Williamtown",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "-32.80339813232422",
+            "longitude_deg": "151.82899475097656",
+            "elevation_ft": "30",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.266",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YWLM"
+        }
+    ]
+}

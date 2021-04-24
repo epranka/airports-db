@@ -1,0 +1,104 @@
+{
+    "id": "26728",
+    "ident": "VYME",
+    "type": "medium_airport",
+    "name": "Myeik Airport",
+    "latitude_deg": "12.439800262451172",
+    "longitude_deg": "98.62149810791016",
+    "elevation_ft": "75",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-05",
+    "municipality": "Mkeik",
+    "scheduled_service": "yes",
+    "gps_code": "VYME",
+    "iata_code": "MGZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Myeik_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233722",
+            "airport_ref": "26728",
+            "airport_ident": "VYME",
+            "length_ft": "8795",
+            "width_ft": "180",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "12.452",
+            "le_longitude_deg": "98.622",
+            "le_elevation_ft": "75",
+            "le_heading_degT": "182.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "12.4276",
+            "he_longitude_deg": "98.6209",
+            "he_elevation_ft": "75",
+            "he_heading_degT": "2.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49503",
+            "airport_ref": "26728",
+            "airport_ident": "VYME",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "49504",
+            "airport_ref": "26728",
+            "airport_ident": "VYME",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302649",
+        "code": "MM",
+        "name": "Burma",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
+        "keywords": "Myanmar"
+    },
+    "region": {
+        "id": "304670",
+        "code": "MM-05",
+        "local_code": "05",
+        "name": "Tanintharyi Division",
+        "continent": "AS",
+        "iso_country": "MM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanintharyi_Division",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90849",
+            "filename": "Myeik_NDB_MM",
+            "ident": "ME",
+            "name": "Myeik",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "12.449999809265137",
+            "longitude_deg": "98.62300109863281",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.373",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VYME"
+        }
+    ]
+}

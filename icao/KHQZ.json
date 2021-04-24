@@ -1,0 +1,88 @@
+{
+    "id": "20078",
+    "ident": "KHQZ",
+    "type": "small_airport",
+    "name": "Mesquite Metro Airport",
+    "latitude_deg": "32.74700164794922",
+    "longitude_deg": "-96.53040313720703",
+    "elevation_ft": "447",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Mesquite",
+    "scheduled_service": "no",
+    "gps_code": "KHQZ",
+    "iata_code": "",
+    "local_code": "HQZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241988",
+            "airport_ref": "20078",
+            "airport_ident": "KHQZ",
+            "length_ft": "5999",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "32.7552",
+            "le_longitude_deg": "-96.5303",
+            "le_elevation_ft": "446",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "32.7387",
+            "he_longitude_deg": "-96.5306",
+            "he_elevation_ft": "442",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62951",
+            "airport_ref": "20078",
+            "airport_ident": "KHQZ",
+            "type": "A/D",
+            "description": "REGIONAL APP/DEP",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "62952",
+            "airport_ref": "20078",
+            "airport_ident": "KHQZ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.175"
+        },
+        {
+            "id": "62953",
+            "airport_ref": "20078",
+            "airport_ident": "KHQZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

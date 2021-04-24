@@ -1,0 +1,80 @@
+{
+    "id": "21402",
+    "ident": "KX50",
+    "type": "small_airport",
+    "name": "Massey Ranch Airpark",
+    "latitude_deg": "28.978900909423828",
+    "longitude_deg": "-80.92510223388672",
+    "elevation_ft": "12",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "New Smyrna Beach",
+    "scheduled_service": "no",
+    "gps_code": "KX50",
+    "iata_code": "",
+    "local_code": "X50",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239841",
+            "airport_ref": "21402",
+            "airport_ident": "KX50",
+            "length_ft": "3845",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "28.9842",
+            "le_longitude_deg": "-80.9251",
+            "le_elevation_ft": "12",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "28.9736",
+            "he_longitude_deg": "-80.9251",
+            "he_elevation_ft": "11",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59056",
+            "airport_ref": "21402",
+            "airport_ident": "KX50",
+            "type": "A/D",
+            "description": "DAYTONA APP/DEP",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "59057",
+            "airport_ref": "21402",
+            "airport_ident": "KX50",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

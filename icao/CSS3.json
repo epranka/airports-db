@@ -1,0 +1,80 @@
+{
+    "id": "1558",
+    "ident": "CSS3",
+    "type": "small_airport",
+    "name": "Montreal / Les Cèdres Airport",
+    "latitude_deg": "45.347499847399995",
+    "longitude_deg": "-74.0766983032",
+    "elevation_ft": "160",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Montréal",
+    "scheduled_service": "no",
+    "gps_code": "CSS3",
+    "iata_code": "",
+    "local_code": "CSS3",
+    "home_link": "http://www.laurentideaviation.com/cfs.php",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Montr%C3%A9al/Les_C%C3%A8dres_Airport",
+    "keywords": "SS3, Cedars Airport",
+    "runways": [
+        {
+            "id": "234604",
+            "airport_ref": "1558",
+            "airport_ident": "CSS3",
+            "length_ft": "3000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "45.3452",
+            "le_longitude_deg": "-74.0815",
+            "le_elevation_ft": "",
+            "le_heading_degT": "55.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "45.3498",
+            "he_longitude_deg": "-74.0719",
+            "he_elevation_ft": "",
+            "he_heading_degT": "235.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50132",
+            "airport_ref": "1558",
+            "airport_ident": "CSS3",
+            "type": "ATF",
+            "description": "",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "75180",
+            "airport_ref": "1558",
+            "airport_ident": "CSS3",
+            "type": "UNICOM",
+            "description": "",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": "20753",
+    "ident": "KONX",
+    "type": "small_airport",
+    "name": "Currituck County Regional Airport",
+    "latitude_deg": "36.398899",
+    "longitude_deg": "-76.016296",
+    "elevation_ft": "18",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Currituck",
+    "scheduled_service": "no",
+    "gps_code": "KONX",
+    "iata_code": "",
+    "local_code": "ONX",
+    "home_link": "http://www.co.currituck.nc.us/airport.cfm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Currituck_County_Airport",
+    "keywords": "9W7",
+    "runways": [
+        {
+            "id": "245950",
+            "airport_ref": "20753",
+            "airport_ident": "KONX",
+            "length_ft": "4001",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "36.3944",
+            "le_longitude_deg": "-76.0202",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "35",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "36.4034",
+            "he_longitude_deg": "-76.0124",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "215",
+            "he_displaced_threshold_ft": "350"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71421",
+            "airport_ref": "20753",
+            "airport_ident": "KONX",
+            "type": "A/D",
+            "description": "OCEANA APP/DEP",
+            "frequency_mhz": "124.825"
+        },
+        {
+            "id": "71422",
+            "airport_ref": "20753",
+            "airport_ident": "KONX",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.775"
+        },
+        {
+            "id": "71423",
+            "airport_ref": "20753",
+            "airport_ident": "KONX",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

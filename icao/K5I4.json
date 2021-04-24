@@ -1,0 +1,110 @@
+{
+    "id": "18905",
+    "ident": "K5I4",
+    "type": "small_airport",
+    "name": "Sheridan Airport",
+    "latitude_deg": "40.17789840698242",
+    "longitude_deg": "-86.21730041503906",
+    "elevation_ft": "936",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Sheridan",
+    "scheduled_service": "no",
+    "gps_code": "K5I4",
+    "iata_code": "",
+    "local_code": "5I4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243302",
+            "airport_ref": "18905",
+            "airport_ident": "K5I4",
+            "length_ft": "3760",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "40.1734",
+            "le_longitude_deg": "-86.2232",
+            "le_elevation_ft": "930",
+            "le_heading_degT": "52",
+            "le_displaced_threshold_ft": "650",
+            "he_ident": "23",
+            "he_latitude_deg": "40.1798",
+            "he_longitude_deg": "-86.2126",
+            "he_elevation_ft": "932",
+            "he_heading_degT": "232",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243303",
+            "airport_ref": "18905",
+            "airport_ident": "K5I4",
+            "length_ft": "3590",
+            "width_ft": "88",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "40.1792",
+            "le_longitude_deg": "-86.2231",
+            "le_elevation_ft": "936",
+            "le_heading_degT": "88.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "40.1795",
+            "he_longitude_deg": "-86.2103",
+            "he_elevation_ft": "934",
+            "he_heading_degT": "268.4",
+            "he_displaced_threshold_ft": "250"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65673",
+            "airport_ref": "18905",
+            "airport_ident": "K5I4",
+            "type": "A/D",
+            "description": "INDIANAPOLIS APP/DEP",
+            "frequency_mhz": "124.65"
+        },
+        {
+            "id": "65674",
+            "airport_ref": "18905",
+            "airport_ident": "K5I4",
+            "type": "RDO",
+            "description": "TERRE HAUTE RDO",
+            "frequency_mhz": "113.5"
+        },
+        {
+            "id": "65675",
+            "airport_ref": "18905",
+            "airport_ident": "K5I4",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.075"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": ""
+    }
+}

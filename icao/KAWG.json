@@ -1,0 +1,118 @@
+{
+    "id": "19332",
+    "ident": "KAWG",
+    "type": "small_airport",
+    "name": "Washington Municipal Airport",
+    "latitude_deg": "41.276100158691406",
+    "longitude_deg": "-91.67340087890625",
+    "elevation_ft": "754",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Washington",
+    "scheduled_service": "no",
+    "gps_code": "KAWG",
+    "iata_code": "",
+    "local_code": "AWG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245591",
+            "airport_ref": "19332",
+            "airport_ident": "KAWG",
+            "length_ft": "3401",
+            "width_ft": "50",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "41.2794",
+            "le_longitude_deg": "-91.6778",
+            "le_elevation_ft": "752",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "41.2729",
+            "he_longitude_deg": "-91.6691",
+            "he_elevation_ft": "753",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": "335"
+        },
+        {
+            "id": "245592",
+            "airport_ref": "19332",
+            "airport_ident": "KAWG",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "41.2796",
+            "le_longitude_deg": "-91.6763",
+            "le_elevation_ft": "751",
+            "le_heading_degT": "183",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "41.2686",
+            "he_longitude_deg": "-91.6771",
+            "he_elevation_ft": "751",
+            "he_heading_degT": "3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70659",
+            "airport_ref": "19332",
+            "airport_ident": "KAWG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "127.825"
+        },
+        {
+            "id": "70660",
+            "airport_ref": "19332",
+            "airport_ident": "KAWG",
+            "type": "CNTR",
+            "description": "CHICAGO CNTR",
+            "frequency_mhz": "135.6"
+        },
+        {
+            "id": "70661",
+            "airport_ref": "19332",
+            "airport_ident": "KAWG",
+            "type": "FSS",
+            "description": "FORT DODGE RDO",
+            "frequency_mhz": "121.725"
+        },
+        {
+            "id": "70662",
+            "airport_ref": "19332",
+            "airport_ident": "KAWG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

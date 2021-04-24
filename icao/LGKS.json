@@ -1,0 +1,80 @@
+{
+    "id": "4267",
+    "ident": "LGKS",
+    "type": "small_airport",
+    "name": "Kasos Airport",
+    "latitude_deg": "35.4213981628",
+    "longitude_deg": "26.909999847399998",
+    "elevation_ft": "35",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-81",
+    "municipality": "Kasos Island",
+    "scheduled_service": "yes",
+    "gps_code": "LGKS",
+    "iata_code": "KSJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kassos_Island_Public_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236386",
+            "airport_ref": "4267",
+            "airport_ident": "LGKS",
+            "length_ft": "3221",
+            "width_ft": "82",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "35.4215",
+            "le_longitude_deg": "26.9046",
+            "le_elevation_ft": "19",
+            "le_heading_degT": "93",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "35.4212",
+            "he_longitude_deg": "26.9154",
+            "he_elevation_ft": "24",
+            "he_heading_degT": "273",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53435",
+            "airport_ref": "4267",
+            "airport_ident": "LGKS",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "563.7"
+        },
+        {
+            "id": "53436",
+            "airport_ref": "4267",
+            "airport_ident": "LGKS",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "303948",
+        "code": "GR-81",
+        "local_code": "81",
+        "name": "Dodecanese",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dodecanese",
+        "keywords": ""
+    }
+}

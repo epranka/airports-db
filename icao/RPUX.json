@@ -1,0 +1,96 @@
+{
+    "id": "32230",
+    "ident": "RPUX",
+    "type": "small_airport",
+    "name": "Plaridel Airport",
+    "latitude_deg": "14.890855",
+    "longitude_deg": "120.852914",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-BUL",
+    "municipality": "Plaridel",
+    "scheduled_service": "no",
+    "gps_code": "RPUX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Plaridel_Airport",
+    "keywords": "Plaridel",
+    "runways": [
+        {
+            "id": "299367",
+            "airport_ref": "32230",
+            "airport_ident": "RPUX",
+            "length_ft": "2953",
+            "width_ft": "30",
+            "surface": "Paved",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "299175",
+            "airport_ref": "32230",
+            "airport_ident": "RPUX",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "122.4"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305071",
+        "code": "PH-BUL",
+        "local_code": "BUL",
+        "name": "Bulacan Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulacan_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92503",
+            "filename": "Plaridel_NDB_PH",
+            "ident": "PL",
+            "name": "Plaridel",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "14.881799697875977",
+            "longitude_deg": "120.85099792480469",
+            "elevation_ft": "20",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.225",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RPUX"
+        }
+    ]
+}

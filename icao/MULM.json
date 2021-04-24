@@ -1,0 +1,72 @@
+{
+    "id": "4843",
+    "ident": "MULM",
+    "type": "medium_airport",
+    "name": "La Coloma Airport",
+    "latitude_deg": "22.33609962463379",
+    "longitude_deg": "-83.64189910888672",
+    "elevation_ft": "131",
+    "continent": "NA",
+    "iso_country": "CU",
+    "iso_region": "CU-01",
+    "municipality": "Pinar del Rio",
+    "scheduled_service": "no",
+    "gps_code": "MULM",
+    "iata_code": "LCL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235409",
+            "airport_ref": "4843",
+            "airport_ident": "MULM",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "22.3332",
+            "le_longitude_deg": "-83.6515",
+            "le_elevation_ft": "131",
+            "le_heading_degT": "71",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "22.339",
+            "he_longitude_deg": "-83.6327",
+            "he_elevation_ft": "131",
+            "he_heading_degT": "251",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51637",
+            "airport_ref": "4843",
+            "airport_ident": "MULM",
+            "type": "AFIS",
+            "description": "INFORMACION",
+            "frequency_mhz": "125"
+        }
+    ],
+    "country": {
+        "id": "302732",
+        "code": "CU",
+        "name": "Cuba",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuba",
+        "keywords": "Aeropuertos de Cuba"
+    },
+    "region": {
+        "id": "303499",
+        "code": "CU-01",
+        "local_code": "01",
+        "name": "Pinar del Río Province",
+        "continent": "NA",
+        "iso_country": "CU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pinar_del_R%C3%ADo_Province",
+        "keywords": ""
+    }
+}

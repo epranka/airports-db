@@ -1,0 +1,96 @@
+{
+    "id": "4421",
+    "ident": "LLMZ",
+    "type": "medium_airport",
+    "name": "Bar Yehuda Airfield",
+    "latitude_deg": "31.32819938659668",
+    "longitude_deg": "35.38859939575195",
+    "elevation_ft": "-1266",
+    "continent": "AS",
+    "iso_country": "IL",
+    "iso_region": "IL-D",
+    "municipality": "Masada",
+    "scheduled_service": "no",
+    "gps_code": "LLMZ",
+    "iata_code": "MTZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bar_Yehuda_Airfield",
+    "keywords": "Masada Airfield",
+    "runways": [
+        {
+            "id": "236962",
+            "airport_ref": "4421",
+            "airport_ident": "LLMZ",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "31.3229",
+            "le_longitude_deg": "35.3876",
+            "le_elevation_ft": "-1246",
+            "le_heading_degT": "9.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "31.3335",
+            "he_longitude_deg": "35.3897",
+            "he_elevation_ft": "-1210",
+            "he_heading_degT": "189.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54134",
+            "airport_ref": "4421",
+            "airport_ident": "LLMZ",
+            "type": "APP",
+            "description": "TEL AVIV APP",
+            "frequency_mhz": "120.9"
+        }
+    ],
+    "country": {
+        "id": "302633",
+        "code": "IL",
+        "name": "Israel",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Israel",
+        "keywords": "שדות התעופה של ישראל"
+    },
+    "region": {
+        "id": "304156",
+        "code": "IL-D",
+        "local_code": "D",
+        "name": "Southern District",
+        "continent": "AS",
+        "iso_country": "IL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_District_(Israel)",
+        "keywords": "Mehoz HaDarom"
+    },
+    "navaids": [
+        {
+            "id": "91418",
+            "filename": "Metzada_VOR-DME_IL",
+            "ident": "MZD",
+            "name": "Metzada",
+            "type": "VOR-DME",
+            "frequency_khz": "115000",
+            "latitude_deg": "31.33060073852539",
+            "longitude_deg": "35.390499114990234",
+            "elevation_ft": "-1200",
+            "iso_country": "IL",
+            "dme_frequency_khz": "115000",
+            "dme_channel": "097X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "3.381",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LLMZ"
+        }
+    ]
+}

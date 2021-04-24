@@ -1,0 +1,88 @@
+{
+    "id": "4173",
+    "ident": "LFOH",
+    "type": "medium_airport",
+    "name": "Le Havre Octeville Airport",
+    "latitude_deg": "49.53390121459961",
+    "longitude_deg": "0.08805599808692932",
+    "elevation_ft": "313",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NOR",
+    "municipality": "Le Havre/Octeville",
+    "scheduled_service": "yes",
+    "gps_code": "LFOH",
+    "iata_code": "LEH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Le_Havre_Octeville_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236036",
+            "airport_ref": "4173",
+            "airport_ident": "LFOH",
+            "length_ft": "7546",
+            "width_ft": "130",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "49.5265",
+            "le_longitude_deg": "0.077586",
+            "le_elevation_ft": "310",
+            "le_heading_degT": "44",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "49.5416",
+            "he_longitude_deg": "0.099325",
+            "he_elevation_ft": "300",
+            "he_heading_degT": "224.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52599",
+            "airport_ref": "4173",
+            "airport_ident": "LFOH",
+            "type": "APP",
+            "description": "DEAUVILLE APP",
+            "frequency_mhz": "120.35"
+        },
+        {
+            "id": "52600",
+            "airport_ref": "4173",
+            "airport_ident": "LFOH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.175"
+        },
+        {
+            "id": "52601",
+            "airport_ref": "4173",
+            "airport_ident": "LFOH",
+            "type": "TWR",
+            "description": "LE HAVRE TWR",
+            "frequency_mhz": "135.2"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306343",
+        "code": "FR-NOR",
+        "local_code": "NOR",
+        "name": "Normandy",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Normandy",
+        "keywords": "Haute-Normandie"
+    }
+}

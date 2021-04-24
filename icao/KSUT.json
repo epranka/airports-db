@@ -1,0 +1,88 @@
+{
+    "id": "21119",
+    "ident": "KSUT",
+    "type": "small_airport",
+    "name": "Brunswick County Airport",
+    "latitude_deg": "33.9292984",
+    "longitude_deg": "-78.07499695",
+    "elevation_ft": "24",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Oak Island",
+    "scheduled_service": "no",
+    "gps_code": "KSUT",
+    "iata_code": "",
+    "local_code": "SUT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243484",
+            "airport_ref": "21119",
+            "airport_ident": "KSUT",
+            "length_ft": "4000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "33.9251",
+            "le_longitude_deg": "-78.0793",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "41",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "33.9334",
+            "he_longitude_deg": "-78.0707",
+            "he_elevation_ft": "23",
+            "he_heading_degT": "221",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66098",
+            "airport_ref": "21119",
+            "airport_ident": "KSUT",
+            "type": "A/D",
+            "description": "WILMINGTON APP/DEP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "66099",
+            "airport_ref": "21119",
+            "airport_ident": "KSUT",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "124.175"
+        },
+        {
+            "id": "66100",
+            "airport_ref": "21119",
+            "airport_ident": "KSUT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

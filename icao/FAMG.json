@@ -1,0 +1,96 @@
+{
+    "id": "2809",
+    "ident": "FAMG",
+    "type": "medium_airport",
+    "name": "Margate Airport",
+    "latitude_deg": "-30.8574008942",
+    "longitude_deg": "30.343000412",
+    "elevation_ft": "495",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NL",
+    "municipality": "Margate",
+    "scheduled_service": "yes",
+    "gps_code": "FAMG",
+    "iata_code": "MGH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Margate_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238830",
+            "airport_ref": "2809",
+            "airport_ident": "FAMG",
+            "length_ft": "4495",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "-30.863",
+            "le_longitude_deg": "30.3403",
+            "le_elevation_ft": "",
+            "le_heading_degT": "22",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "-30.8518",
+            "he_longitude_deg": "30.3457",
+            "he_elevation_ft": "",
+            "he_heading_degT": "202",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57137",
+            "airport_ref": "2809",
+            "airport_ident": "FAMG",
+            "type": "AFIS",
+            "description": "CTAF",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306300",
+        "code": "ZA-NL",
+        "local_code": "NL",
+        "name": "Kwazulu-Natal",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwazulu-Natal",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94939",
+            "filename": "Margate_NDB_ZA",
+            "ident": "UR",
+            "name": "Margate",
+            "type": "NDB",
+            "frequency_khz": "485",
+            "latitude_deg": "-30.80419921875",
+            "longitude_deg": "30.369400024414062",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-24.535",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAMG"
+        }
+    ]
+}

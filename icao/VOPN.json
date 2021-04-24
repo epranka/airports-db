@@ -1,0 +1,96 @@
+{
+    "id": "26622",
+    "ident": "VOPN",
+    "type": "medium_airport",
+    "name": "Sri Sathya Sai Airport",
+    "latitude_deg": "14.1492996216",
+    "longitude_deg": "77.7910995483",
+    "elevation_ft": "1558",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-AP",
+    "municipality": "Puttaparthi",
+    "scheduled_service": "no",
+    "gps_code": "VOPN",
+    "iata_code": "PUT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sri_Sathya_Sai_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236819",
+            "airport_ref": "26622",
+            "airport_ident": "VOPN",
+            "length_ft": "7315",
+            "width_ft": "145",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "14.1498",
+            "le_longitude_deg": "77.7808",
+            "le_elevation_ft": "1541",
+            "le_heading_degT": "93",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "14.1488",
+            "he_longitude_deg": "77.8015",
+            "he_elevation_ft": "1563",
+            "he_heading_degT": "273",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53979",
+            "airport_ref": "26622",
+            "airport_ident": "VOPN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304165",
+        "code": "IN-AP",
+        "local_code": "AP",
+        "name": "Andhra Pradesh",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andhra_Pradesh",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93364",
+            "filename": "Sri_Sathya_Sai_NDB_IN",
+            "ident": "SAI",
+            "name": "Sri Sathya Sai",
+            "type": "NDB",
+            "frequency_khz": "241",
+            "latitude_deg": "14.149900436401367",
+            "longitude_deg": "77.78459930419922",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.393",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VOPN"
+        }
+    ]
+}

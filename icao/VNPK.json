@@ -1,0 +1,96 @@
+{
+    "id": "26598",
+    "ident": "VNPK",
+    "type": "medium_airport",
+    "name": "Pokhara Airport",
+    "latitude_deg": "28.200899124145508",
+    "longitude_deg": "83.98210144042969",
+    "elevation_ft": "2712",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-GA",
+    "municipality": "Pokhara",
+    "scheduled_service": "yes",
+    "gps_code": "VNPK",
+    "iata_code": "PKR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pokhara_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237993",
+            "airport_ref": "26598",
+            "airport_ident": "VNPK",
+            "length_ft": "4720",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "28.1958",
+            "le_longitude_deg": "83.9774",
+            "le_elevation_ft": "",
+            "le_heading_degT": "39.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "28.2059",
+            "he_longitude_deg": "83.9867",
+            "he_elevation_ft": "",
+            "he_heading_degT": "219.1",
+            "he_displaced_threshold_ft": "350"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55884",
+            "airport_ref": "26598",
+            "airport_ident": "VNPK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.8"
+        }
+    ],
+    "country": {
+        "id": "302654",
+        "code": "NP",
+        "name": "Nepal",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nepal",
+        "keywords": "नेपाल विमानस्थलको"
+    },
+    "region": {
+        "id": "306441",
+        "code": "NP-GA",
+        "local_code": "GA",
+        "name": "Gandaki",
+        "continent": "AS",
+        "iso_country": "NP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gandaki",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92421",
+            "filename": "Pokhara_NDB-DME_NP",
+            "ident": "PHR",
+            "name": "Pokhara",
+            "type": "NDB-DME",
+            "frequency_khz": "336",
+            "latitude_deg": "28.200599670410156",
+            "longitude_deg": "83.9843978881836",
+            "elevation_ft": "2712",
+            "iso_country": "NP",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.157",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VNPK"
+        }
+    ]
+}

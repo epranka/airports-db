@@ -1,0 +1,110 @@
+{
+    "id": "21442",
+    "ident": "KZPH",
+    "type": "small_airport",
+    "name": "Zephyrhills Municipal Airport",
+    "latitude_deg": "28.2282009125",
+    "longitude_deg": "-82.15589904790001",
+    "elevation_ft": "90",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Zephyrhills",
+    "scheduled_service": "no",
+    "gps_code": "KZPH",
+    "iata_code": "ZPH",
+    "local_code": "ZPH",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Zephyrhills_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239851",
+            "airport_ref": "21442",
+            "airport_ident": "KZPH",
+            "length_ft": "5072",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "19",
+            "le_latitude_deg": "28.2342",
+            "le_longitude_deg": "-82.1533",
+            "le_elevation_ft": "88",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "380",
+            "he_ident": "1",
+            "he_latitude_deg": "28.2202",
+            "he_longitude_deg": "-82.1534",
+            "he_elevation_ft": "80",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "300"
+        },
+        {
+            "id": "239850",
+            "airport_ref": "21442",
+            "airport_ident": "KZPH",
+            "length_ft": "5001",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "5",
+            "le_latitude_deg": "28.2242",
+            "le_longitude_deg": "-82.1638",
+            "le_elevation_ft": "85",
+            "le_heading_degT": "43",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "28.2343",
+            "he_longitude_deg": "-82.1532",
+            "he_elevation_ft": "87",
+            "he_heading_degT": "223",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59083",
+            "airport_ref": "21442",
+            "airport_ident": "KZPH",
+            "type": "A/D",
+            "description": "TAMPA APP/DEP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "59084",
+            "airport_ref": "21442",
+            "airport_ident": "KZPH",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.975"
+        },
+        {
+            "id": "59085",
+            "airport_ref": "21442",
+            "airport_ident": "KZPH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.075"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

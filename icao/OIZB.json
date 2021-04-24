@@ -1,0 +1,96 @@
+{
+    "id": "5207",
+    "ident": "OIZB",
+    "type": "medium_airport",
+    "name": "Zabol Airport",
+    "latitude_deg": "31.098301",
+    "longitude_deg": "61.5439",
+    "elevation_ft": "1628",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-13",
+    "municipality": "Zabol",
+    "scheduled_service": "no",
+    "gps_code": "OIZB",
+    "iata_code": "ACZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Zabol_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236876",
+            "airport_ref": "5207",
+            "airport_ident": "OIZB",
+            "length_ft": "9848",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "31.1103",
+            "le_longitude_deg": "61.5405",
+            "le_elevation_ft": "1628",
+            "le_heading_degT": "167",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "31.084",
+            "he_longitude_deg": "61.5477",
+            "he_elevation_ft": "1628",
+            "he_heading_degT": "347",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54037",
+            "airport_ref": "5207",
+            "airport_ident": "OIZB",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.35"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304230",
+        "code": "IR-13",
+        "local_code": "13",
+        "name": "Sistan and Baluchestan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sistan_and_Baluchestan_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95968",
+            "filename": "Zabol_NDB_IR",
+            "ident": "ZAL",
+            "name": "Zabol",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "31.097700119018555",
+            "longitude_deg": "61.53990173339844",
+            "elevation_ft": "",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.095",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OIZB"
+        }
+    ]
+}

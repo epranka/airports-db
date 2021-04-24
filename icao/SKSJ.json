@@ -1,0 +1,112 @@
+{
+    "id": "6160",
+    "ident": "SKSJ",
+    "type": "medium_airport",
+    "name": "Jorge E. Gonzalez Torres Airport",
+    "latitude_deg": "2.57969",
+    "longitude_deg": "-72.6394",
+    "elevation_ft": "605",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-GUV",
+    "municipality": "San José Del Guaviare",
+    "scheduled_service": "yes",
+    "gps_code": "SKSJ",
+    "iata_code": "SJE",
+    "local_code": "SJE",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jorge_Enrique_Gonz%C3%A1lez_Torres_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235305",
+            "airport_ref": "6160",
+            "airport_ident": "SKSJ",
+            "length_ft": "4897",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "2.57296",
+            "le_longitude_deg": "-72.64",
+            "le_elevation_ft": "605",
+            "le_heading_degT": "5.3",
+            "le_displaced_threshold_ft": "304",
+            "he_ident": "19",
+            "he_latitude_deg": "2.58642",
+            "he_longitude_deg": "-72.6387",
+            "he_elevation_ft": "601",
+            "he_heading_degT": "185.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51447",
+            "airport_ref": "6160",
+            "airport_ident": "SKSJ",
+            "type": "APP",
+            "description": "VILLAVICENCIO APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "51448",
+            "airport_ref": "6160",
+            "airport_ident": "SKSJ",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51449",
+            "airport_ref": "6160",
+            "airport_ident": "SKSJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303473",
+        "code": "CO-GUV",
+        "local_code": "GUV",
+        "name": "Guaviare Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guaviare_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93650",
+            "filename": "San_Jose_Del_Guaviare_VOR-DME_CO",
+            "ident": "SJE",
+            "name": "San Jose Del Guaviare",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "2.5728299617767334",
+            "longitude_deg": "-72.63379669189453",
+            "elevation_ft": "520",
+            "iso_country": "CO",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-6.171",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKSJ"
+        }
+    ]
+}

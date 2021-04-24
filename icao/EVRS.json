@@ -1,0 +1,72 @@
+{
+    "id": "31030",
+    "ident": "EVRS",
+    "type": "small_airport",
+    "name": "Spilve Aerodrome",
+    "latitude_deg": "56.991100311299995",
+    "longitude_deg": "24.0750007629",
+    "elevation_ft": "3",
+    "continent": "EU",
+    "iso_country": "LV",
+    "iso_region": "LV-RIX",
+    "municipality": "Riga",
+    "scheduled_service": "no",
+    "gps_code": "EVRS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.spilve.org/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Spilve_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "263451",
+            "airport_ref": "31030",
+            "airport_ident": "EVRS",
+            "length_ft": "3281",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "4",
+            "le_heading_degT": "148.2",
+            "le_displaced_threshold_ft": "771",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "4",
+            "he_heading_degT": "328.2",
+            "he_displaced_threshold_ft": "1178"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "299838",
+            "airport_ref": "31030",
+            "airport_ident": "EVRS",
+            "type": "CTAF",
+            "description": "Spilve traffic",
+            "frequency_mhz": "123.95"
+        }
+    ],
+    "country": {
+        "id": "302702",
+        "code": "LV",
+        "name": "Latvia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304533",
+        "code": "LV-RIX",
+        "local_code": "RIX",
+        "name": "Riga (city)",
+        "continent": "EU",
+        "iso_country": "LV",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Riga",
+        "keywords": ""
+    }
+}

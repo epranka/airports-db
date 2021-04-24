@@ -1,0 +1,96 @@
+{
+    "id": "20523",
+    "ident": "KMLE",
+    "type": "small_airport",
+    "name": "Millard Airport",
+    "latitude_deg": "41.19599914550781",
+    "longitude_deg": "-96.11199951171875",
+    "elevation_ft": "1051",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Omaha",
+    "scheduled_service": "no",
+    "gps_code": "KMLE",
+    "iata_code": "",
+    "local_code": "MLE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244354",
+            "airport_ref": "20523",
+            "airport_ident": "KMLE",
+            "length_ft": "3801",
+            "width_ft": "75",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "41.1993",
+            "le_longitude_deg": "-96.1176",
+            "le_elevation_ft": "1051",
+            "le_heading_degT": "128.9",
+            "le_displaced_threshold_ft": "212",
+            "he_ident": "30",
+            "he_latitude_deg": "41.1927",
+            "he_longitude_deg": "-96.1069",
+            "he_elevation_ft": "1046",
+            "he_heading_degT": "308.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67912",
+            "airport_ref": "20523",
+            "airport_ident": "KMLE",
+            "type": "A/D",
+            "description": "OMAHA APP/DEP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "67913",
+            "airport_ref": "20523",
+            "airport_ident": "KMLE",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "67914",
+            "airport_ref": "20523",
+            "airport_ident": "KMLE",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.4"
+        },
+        {
+            "id": "67915",
+            "airport_ref": "20523",
+            "airport_ident": "KMLE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    }
+}

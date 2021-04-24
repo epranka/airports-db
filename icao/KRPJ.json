@@ -1,0 +1,96 @@
+{
+    "id": "20955",
+    "ident": "KRPJ",
+    "type": "small_airport",
+    "name": "Rochelle Municipal Airport - Koritz Field",
+    "latitude_deg": "41.893001556399994",
+    "longitude_deg": "-89.0783004761",
+    "elevation_ft": "781",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "Rochelle",
+    "scheduled_service": "no",
+    "gps_code": "KRPJ",
+    "iata_code": "",
+    "local_code": "RPJ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244511",
+            "airport_ref": "20955",
+            "airport_ident": "KRPJ",
+            "length_ft": "4226",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "41.891",
+            "le_longitude_deg": "-89.0856",
+            "le_elevation_ft": "772",
+            "le_heading_degT": "70",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "41.895",
+            "he_longitude_deg": "-89.071",
+            "he_elevation_ft": "781",
+            "he_heading_degT": "250",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68256",
+            "airport_ref": "20955",
+            "airport_ident": "KRPJ",
+            "type": "A/D",
+            "description": "ROCKFORD APP/DEP",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "68257",
+            "airport_ref": "20955",
+            "airport_ident": "KRPJ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.675"
+        },
+        {
+            "id": "68258",
+            "airport_ref": "20955",
+            "airport_ident": "KRPJ",
+            "type": "FSS",
+            "description": "KANKAKEE RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "68259",
+            "airport_ref": "20955",
+            "airport_ident": "KRPJ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": ""
+    }
+}

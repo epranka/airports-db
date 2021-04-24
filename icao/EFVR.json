@@ -1,0 +1,80 @@
+{
+    "id": "2352",
+    "ident": "EFVR",
+    "type": "medium_airport",
+    "name": "Varkaus Airport",
+    "latitude_deg": "62.171101",
+    "longitude_deg": "27.868601",
+    "elevation_ft": "286",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-04",
+    "municipality": "Varkaus / Joroinen",
+    "scheduled_service": "yes",
+    "gps_code": "EFVR",
+    "iata_code": "VRK",
+    "local_code": "",
+    "home_link": "http://www.finavia.fi/en/varkaus/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Varkaus_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235709",
+            "airport_ref": "2352",
+            "airport_ident": "EFVR",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "62.1803",
+            "le_longitude_deg": "27.8541",
+            "le_elevation_ft": "286",
+            "le_heading_degT": "142",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "62.1663",
+            "he_longitude_deg": "27.8779",
+            "he_elevation_ft": "255",
+            "he_heading_degT": "322",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52052",
+            "airport_ref": "2352",
+            "airport_ident": "EFVR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.325"
+        },
+        {
+            "id": "52053",
+            "airport_ref": "2352",
+            "airport_ident": "EFVR",
+            "type": "MISC",
+            "description": "AFIS",
+            "frequency_mhz": "120.4"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336505",
+        "code": "FI-04",
+        "local_code": "04",
+        "name": "Southern Savonia Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Savo",
+        "keywords": ""
+    }
+}

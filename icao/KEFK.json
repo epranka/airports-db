@@ -1,0 +1,110 @@
+{
+    "id": "19732",
+    "ident": "KEFK",
+    "type": "small_airport",
+    "name": "Northeast Kingdom International Airport",
+    "latitude_deg": "44.888802",
+    "longitude_deg": "-72.229202",
+    "elevation_ft": "930",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Newport",
+    "scheduled_service": "no",
+    "gps_code": "KEFK",
+    "iata_code": "EFK",
+    "local_code": "EFK",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Newport_State_Airport_(Vermont)",
+    "keywords": "Newport State Airport",
+    "runways": [
+        {
+            "id": "243575",
+            "airport_ref": "19732",
+            "airport_ident": "KEFK",
+            "length_ft": "4000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "44.8847",
+            "le_longitude_deg": "-72.2349",
+            "le_elevation_ft": "922",
+            "le_heading_degT": "29.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "44.8943",
+            "he_longitude_deg": "-72.2273",
+            "he_elevation_ft": "926",
+            "he_heading_degT": "209.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243576",
+            "airport_ref": "19732",
+            "airport_ident": "KEFK",
+            "length_ft": "5300",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "44.8932",
+            "le_longitude_deg": "-72.23",
+            "le_elevation_ft": "929",
+            "le_heading_degT": "160",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "44.883",
+            "he_longitude_deg": "-72.2246",
+            "he_elevation_ft": "917",
+            "he_heading_degT": "340",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66300",
+            "airport_ref": "19732",
+            "airport_ident": "KEFK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.275"
+        },
+        {
+            "id": "66301",
+            "airport_ref": "19732",
+            "airport_ident": "KEFK",
+            "type": "RDO",
+            "description": "BURLINGTON RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "66302",
+            "airport_ref": "19732",
+            "airport_ident": "KEFK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306123",
+        "code": "US-VT",
+        "local_code": "VT",
+        "name": "Vermont",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vermont",
+        "keywords": ""
+    }
+}

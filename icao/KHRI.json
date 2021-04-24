@@ -1,0 +1,88 @@
+{
+    "id": "20079",
+    "ident": "KHRI",
+    "type": "small_airport",
+    "name": "Hermiston Municipal Airport",
+    "latitude_deg": "45.828223",
+    "longitude_deg": "-119.259024",
+    "elevation_ft": "644",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Hermiston",
+    "scheduled_service": "no",
+    "gps_code": "KHRI",
+    "iata_code": "HES",
+    "local_code": "HRI",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hermiston_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245677",
+            "airport_ref": "20079",
+            "airport_ident": "KHRI",
+            "length_ft": "4500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "45.8254",
+            "le_longitude_deg": "-119.267",
+            "le_elevation_ft": "641",
+            "le_heading_degT": "62",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "45.8311",
+            "he_longitude_deg": "-119.251",
+            "he_elevation_ft": "638",
+            "he_heading_degT": "242",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70818",
+            "airport_ref": "20079",
+            "airport_ident": "KHRI",
+            "type": "A/D",
+            "description": "CHINOOK APP/DEP",
+            "frequency_mhz": "133.15"
+        },
+        {
+            "id": "70819",
+            "airport_ref": "20079",
+            "airport_ident": "KHRI",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.225"
+        },
+        {
+            "id": "70820",
+            "airport_ref": "20079",
+            "airport_ident": "KHRI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306113",
+        "code": "US-OR",
+        "local_code": "OR",
+        "name": "Oregon",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
+        "keywords": ""
+    }
+}

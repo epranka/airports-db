@@ -1,0 +1,104 @@
+{
+    "id": "6182",
+    "ident": "SLCO",
+    "type": "medium_airport",
+    "name": "Capitán Aníbal Arab Airport",
+    "latitude_deg": "-11.040399551400002",
+    "longitude_deg": "-68.7829971313",
+    "elevation_ft": "889",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-N",
+    "municipality": "Cobija",
+    "scheduled_service": "yes",
+    "gps_code": "SLCO",
+    "iata_code": "CIJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cap._Anibal_Arab_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233700",
+            "airport_ref": "6182",
+            "airport_ident": "SLCO",
+            "length_ft": "6562",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-11.0493",
+            "le_longitude_deg": "-68.7846",
+            "le_elevation_ft": "892",
+            "le_heading_degT": "11",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "-11.0315",
+            "he_longitude_deg": "-68.7812",
+            "he_elevation_ft": "835",
+            "he_heading_degT": "191",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49480",
+            "airport_ref": "6182",
+            "airport_ident": "SLCO",
+            "type": "RDO",
+            "description": "COBIJA RDO",
+            "frequency_mhz": "662.2"
+        },
+        {
+            "id": "49481",
+            "airport_ref": "6182",
+            "airport_ident": "SLCO",
+            "type": "TWR",
+            "description": "COBIJA TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302790",
+        "code": "BO",
+        "name": "Bolivia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolivia",
+        "keywords": "Aeropuertos de Bolivia"
+    },
+    "region": {
+        "id": "303193",
+        "code": "BO-N",
+        "local_code": "N",
+        "name": "Pando Department",
+        "continent": "SA",
+        "iso_country": "BO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pando_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86802",
+            "filename": "Cobija_NDB_BO",
+            "ident": "CIJ",
+            "name": "Cobija",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "-11.041199684143066",
+            "longitude_deg": "-68.78160095214844",
+            "elevation_ft": "",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.375",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SLCO"
+        }
+    ]
+}

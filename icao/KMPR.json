@@ -1,0 +1,118 @@
+{
+    "id": "20550",
+    "ident": "KMPR",
+    "type": "small_airport",
+    "name": "Mc Pherson Airport",
+    "latitude_deg": "38.35240173",
+    "longitude_deg": "-97.69129944",
+    "elevation_ft": "1498",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KS",
+    "municipality": "Mc Pherson",
+    "scheduled_service": "no",
+    "gps_code": "KMPR",
+    "iata_code": "",
+    "local_code": "MPR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244389",
+            "airport_ref": "20550",
+            "airport_ident": "KMPR",
+            "length_ft": "2511",
+            "width_ft": "75",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "38.3549",
+            "le_longitude_deg": "-97.6988",
+            "le_elevation_ft": "1494",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "38.355",
+            "he_longitude_deg": "-97.69",
+            "he_elevation_ft": "1493",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244390",
+            "airport_ref": "20550",
+            "airport_ident": "KMPR",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.3588",
+            "le_longitude_deg": "-97.689",
+            "le_elevation_ft": "1497",
+            "le_heading_degT": "186",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.3438",
+            "he_longitude_deg": "-97.6909",
+            "he_elevation_ft": "1497",
+            "he_heading_degT": "6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67991",
+            "airport_ref": "20550",
+            "airport_ident": "KMPR",
+            "type": "A/D",
+            "description": "WICHITA APP/DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "67992",
+            "airport_ref": "20550",
+            "airport_ident": "KMPR",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "67993",
+            "airport_ref": "20550",
+            "airport_ident": "KMPR",
+            "type": "RDO",
+            "description": "WICHITA RDO",
+            "frequency_mhz": "122.15"
+        },
+        {
+            "id": "67994",
+            "airport_ref": "20550",
+            "airport_ident": "KMPR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306092",
+        "code": "US-KS",
+        "local_code": "KS",
+        "name": "Kansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
+        "keywords": ""
+    }
+}

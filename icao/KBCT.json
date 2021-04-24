@@ -1,0 +1,120 @@
+{
+    "id": "19359",
+    "ident": "KBCT",
+    "type": "small_airport",
+    "name": "Boca Raton Airport",
+    "latitude_deg": "26.3784999847",
+    "longitude_deg": "-80.1076965332",
+    "elevation_ft": "13",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Boca Raton",
+    "scheduled_service": "no",
+    "gps_code": "KBCT",
+    "iata_code": "BCT",
+    "local_code": "BCT",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Boca_Raton_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245398",
+            "airport_ref": "19359",
+            "airport_ident": "KBCT",
+            "length_ft": "6276",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "26.3723",
+            "le_longitude_deg": "-80.1144",
+            "le_elevation_ft": "13",
+            "le_heading_degT": "44",
+            "le_displaced_threshold_ft": "696",
+            "he_ident": "23",
+            "he_latitude_deg": "26.3847",
+            "he_longitude_deg": "-80.101",
+            "he_elevation_ft": "13",
+            "he_heading_degT": "224",
+            "he_displaced_threshold_ft": "378"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70212",
+            "airport_ref": "19359",
+            "airport_ident": "KBCT",
+            "type": "APP",
+            "description": "PALM BEACH APP",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "70213",
+            "airport_ref": "19359",
+            "airport_ident": "KBCT",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "70214",
+            "airport_ref": "19359",
+            "airport_ident": "KBCT",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "70215",
+            "airport_ref": "19359",
+            "airport_ident": "KBCT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "70216",
+            "airport_ref": "19359",
+            "airport_ident": "KBCT",
+            "type": "DEP",
+            "description": "PALM BEACH DEP",
+            "frequency_mhz": "127.35"
+        },
+        {
+            "id": "70217",
+            "airport_ref": "19359",
+            "airport_ident": "KBCT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "70218",
+            "airport_ref": "19359",
+            "airport_ident": "KBCT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.425"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

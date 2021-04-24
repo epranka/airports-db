@@ -1,0 +1,88 @@
+{
+    "id": "27410",
+    "ident": "YBRA",
+    "type": "small_airport",
+    "name": "Benambra Airport",
+    "latitude_deg": "-36.9668665594",
+    "longitude_deg": "147.699143887",
+    "elevation_ft": "2200",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBRA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Victorian Aerial Fire Bases",
+    "runways": [
+        {
+            "id": "258333",
+            "airport_ref": "27410",
+            "airport_ident": "YBRA",
+            "length_ft": "3805",
+            "width_ft": "",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "485"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72318",
+            "airport_ref": "27410",
+            "airport_ident": "YBRA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "72319",
+            "airport_ref": "27410",
+            "airport_ident": "YBRA",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "123.4"
+        },
+        {
+            "id": "72320",
+            "airport_ref": "27410",
+            "airport_ident": "YBRA",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.2"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302975",
+        "code": "AU-VIC",
+        "local_code": "VIC",
+        "name": "Victoria",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
+        "keywords": ""
+    }
+}

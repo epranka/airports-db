@@ -1,0 +1,96 @@
+{
+    "id": "20759",
+    "ident": "KOPN",
+    "type": "small_airport",
+    "name": "Thomaston Upson County Airport",
+    "latitude_deg": "32.95460129",
+    "longitude_deg": "-84.26319885",
+    "elevation_ft": "798",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Thomaston",
+    "scheduled_service": "no",
+    "gps_code": "KOPN",
+    "iata_code": "",
+    "local_code": "OPN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244737",
+            "airport_ref": "20759",
+            "airport_ident": "KOPN",
+            "length_ft": "5701",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "32.9582",
+            "le_longitude_deg": "-84.2714",
+            "le_elevation_ft": "796",
+            "le_heading_degT": "118",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "32.9509",
+            "he_longitude_deg": "-84.2549",
+            "he_elevation_ft": "796",
+            "he_heading_degT": "298",
+            "he_displaced_threshold_ft": "700"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68759",
+            "airport_ref": "20759",
+            "airport_ident": "KOPN",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "68760",
+            "airport_ref": "20759",
+            "airport_ident": "KOPN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.975"
+        },
+        {
+            "id": "68761",
+            "airport_ref": "20759",
+            "airport_ident": "KOPN",
+            "type": "FSS",
+            "description": "MACON RDO",
+            "frequency_mhz": "121.725"
+        },
+        {
+            "id": "68762",
+            "airport_ref": "20759",
+            "airport_ident": "KOPN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "20066",
+    "ident": "KHMZ",
+    "type": "small_airport",
+    "name": "Bedford County Airport",
+    "latitude_deg": "40.08530045",
+    "longitude_deg": "-78.5121994",
+    "elevation_ft": "1162",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Bedford",
+    "scheduled_service": "no",
+    "gps_code": "KHMZ",
+    "iata_code": "",
+    "local_code": "HMZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242307",
+            "airport_ref": "20066",
+            "airport_ident": "KHMZ",
+            "length_ft": "5005",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "40.0903",
+            "le_longitude_deg": "-78.5206",
+            "le_elevation_ft": "1156",
+            "le_heading_degT": "127.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "40.0819",
+            "he_longitude_deg": "-78.5064",
+            "he_elevation_ft": "1161",
+            "he_heading_degT": "307.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63662",
+            "airport_ref": "20066",
+            "airport_ident": "KHMZ",
+            "type": "CNTR",
+            "description": "CLEVELAND CNTR APP",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "63663",
+            "airport_ref": "20066",
+            "airport_ident": "KHMZ",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "20701",
+    "ident": "KO65",
+    "type": "small_airport",
+    "name": "Christman Airfield",
+    "latitude_deg": "36.112499",
+    "longitude_deg": "-98.308701",
+    "elevation_ft": "1205",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Okeene",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "O65",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "OK71, Okeene Municipal Airport",
+    "runways": [
+        {
+            "id": "240529",
+            "airport_ref": "20701",
+            "airport_ident": "KO65",
+            "length_ft": "3000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "36.1145",
+            "le_longitude_deg": "-98.3087",
+            "le_elevation_ft": "1208",
+            "le_heading_degT": "179.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "36.1062",
+            "he_longitude_deg": "-98.3087",
+            "he_elevation_ft": "1196",
+            "he_heading_degT": "359.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60101",
+            "airport_ref": "20701",
+            "airport_ident": "KO65",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

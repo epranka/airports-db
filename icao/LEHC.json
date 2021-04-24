@@ -1,0 +1,102 @@
+{
+    "id": "29967",
+    "ident": "LEHC",
+    "type": "small_airport",
+    "name": "Huesca/Pirineos Airport",
+    "latitude_deg": "42.076099",
+    "longitude_deg": "-0.316667",
+    "elevation_ft": "1769",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AR",
+    "municipality": "Monflorite/Alcalá del Obispo",
+    "scheduled_service": "no",
+    "gps_code": "LEHC",
+    "iata_code": "HSK",
+    "local_code": "",
+    "home_link": "http://aena.mobi/m/en/huesca-pirineos-airport/huesca-pirineos.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Huesca%E2%80%93Pirineos_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "335839",
+            "airport_ref": "29967",
+            "airport_ident": "LEHC",
+            "length_ft": "2018",
+            "width_ft": "39",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12L",
+            "le_latitude_deg": "42.0824",
+            "le_longitude_deg": "-0.326603",
+            "le_elevation_ft": "1768",
+            "le_heading_degT": "122",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30R",
+            "he_latitude_deg": "42.0794",
+            "he_longitude_deg": "-0.320358",
+            "he_elevation_ft": "1756",
+            "he_heading_degT": "302",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "335838",
+            "airport_ref": "29967",
+            "airport_ident": "LEHC",
+            "length_ft": "6889",
+            "width_ft": "147",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12R",
+            "le_latitude_deg": "42.0809",
+            "le_longitude_deg": "-0.327303",
+            "le_elevation_ft": "1768",
+            "le_heading_degT": "122",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30L",
+            "he_latitude_deg": "42.0707",
+            "he_longitude_deg": "-0.305978",
+            "he_elevation_ft": "1699",
+            "he_heading_degT": "302",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "335840",
+            "airport_ref": "29967",
+            "airport_ident": "LEHC",
+            "type": "LEHC_AFIS",
+            "description": "Huesca Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "335841",
+            "airport_ref": "29967",
+            "airport_ident": "LEHC",
+            "type": "LEZG_APP",
+            "description": "Zaragoza Approach",
+            "frequency_mhz": "119.3"
+        }
+    ],
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303730",
+        "code": "ES-AR",
+        "local_code": "AR",
+        "name": "Aragón",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aragón",
+        "keywords": ""
+    }
+}

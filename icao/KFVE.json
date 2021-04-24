@@ -1,0 +1,112 @@
+{
+    "id": "19906",
+    "ident": "KFVE",
+    "type": "small_airport",
+    "name": "Northern Aroostook Regional Airport",
+    "latitude_deg": "47.2854995728",
+    "longitude_deg": "-68.31279754639999",
+    "elevation_ft": "988",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Frenchville",
+    "scheduled_service": "no",
+    "gps_code": "KFVE",
+    "iata_code": "WFK",
+    "local_code": "FVE",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Aroostook_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244349",
+            "airport_ref": "19906",
+            "airport_ident": "KFVE",
+            "length_ft": "4600",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "47.2882",
+            "le_longitude_deg": "-68.3211",
+            "le_elevation_ft": "976",
+            "le_heading_degT": "116.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "47.2828",
+            "he_longitude_deg": "-68.3044",
+            "he_elevation_ft": "988",
+            "he_heading_degT": "296.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67896",
+            "airport_ref": "19906",
+            "airport_ident": "KFVE",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.725"
+        },
+        {
+            "id": "67897",
+            "airport_ref": "19906",
+            "airport_ident": "KFVE",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "124.75"
+        },
+        {
+            "id": "67898",
+            "airport_ref": "19906",
+            "airport_ident": "KFVE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306097",
+        "code": "US-ME",
+        "local_code": "ME",
+        "name": "Maine",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88199",
+            "filename": "Frenchville_NDB_US",
+            "ident": "FVE",
+            "name": "Frenchville",
+            "type": "NDB",
+            "frequency_khz": "257",
+            "latitude_deg": "47.26810073852539",
+            "longitude_deg": "-68.25669860839844",
+            "elevation_ft": "700",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.366",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KFVE"
+        }
+    ]
+}

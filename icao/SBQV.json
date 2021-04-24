@@ -1,0 +1,96 @@
+{
+    "id": "5963",
+    "ident": "SBQV",
+    "type": "closed",
+    "name": "Pedro Otacílio Figueiredo Airport",
+    "latitude_deg": "-14.8628",
+    "longitude_deg": "-40.863098",
+    "elevation_ft": "3002",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Vitória da Conquista",
+    "scheduled_service": "no",
+    "gps_code": "SBQV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pedro_Otac%C3%ADlio_Figueiredo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234306",
+            "airport_ref": "5963",
+            "airport_ident": "SBQV",
+            "length_ft": "5823",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49796",
+            "airport_ref": "5963",
+            "airport_ident": "SBQV",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "130.3"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303203",
+        "code": "BR-BA",
+        "local_code": "BA",
+        "name": "Bahia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "95075",
+            "filename": "Conquista_NDB_BR",
+            "ident": "VCO",
+            "name": "Conquista",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "-14.866499900817871",
+            "longitude_deg": "-40.8656005859375",
+            "elevation_ft": "2998",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.482",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBQV"
+        }
+    ]
+}

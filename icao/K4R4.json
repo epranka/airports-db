@@ -1,0 +1,80 @@
+{
+    "id": "18845",
+    "ident": "K4R4",
+    "type": "small_airport",
+    "name": "H L Sonny Callahan Airport",
+    "latitude_deg": "30.460501",
+    "longitude_deg": "-87.876999",
+    "elevation_ft": "91",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Fairhope",
+    "scheduled_service": "no",
+    "gps_code": "KCQF",
+    "iata_code": "",
+    "local_code": "CQF",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/H._L._Sonny_Callahan_Airport",
+    "keywords": "4R4",
+    "runways": [
+        {
+            "id": "242001",
+            "airport_ref": "18845",
+            "airport_ident": "K4R4",
+            "length_ft": "6604",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "30.4516",
+            "le_longitude_deg": "-87.8787",
+            "le_elevation_ft": "86",
+            "le_heading_degT": "7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "30.4695",
+            "he_longitude_deg": "-87.8762",
+            "he_elevation_ft": "91",
+            "he_heading_degT": "187",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62989",
+            "airport_ref": "18845",
+            "airport_ident": "K4R4",
+            "type": "A/D",
+            "description": "MOBILE APP/DEP",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "62990",
+            "airport_ref": "18845",
+            "airport_ident": "K4R4",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    }
+}

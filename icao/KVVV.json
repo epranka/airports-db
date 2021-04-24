@@ -1,0 +1,110 @@
+{
+    "id": "21343",
+    "ident": "KVVV",
+    "type": "small_airport",
+    "name": "Ortonville Municipal Martinson Field",
+    "latitude_deg": "45.30569839",
+    "longitude_deg": "-96.42440033",
+    "elevation_ft": "1100",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Ortonville",
+    "scheduled_service": "no",
+    "gps_code": "KVVV",
+    "iata_code": "",
+    "local_code": "VVV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241862",
+            "airport_ref": "21343",
+            "airport_ident": "KVVV",
+            "length_ft": "2158",
+            "width_ft": "300",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "45.2997",
+            "le_longitude_deg": "-96.4281",
+            "le_elevation_ft": "1091",
+            "le_heading_degT": "46.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "45.3037",
+            "he_longitude_deg": "-96.422",
+            "he_elevation_ft": "1094",
+            "he_heading_degT": "226.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241863",
+            "airport_ref": "21343",
+            "airport_ident": "KVVV",
+            "length_ft": "3417",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "45.3103",
+            "le_longitude_deg": "-96.4257",
+            "le_elevation_ft": "1100",
+            "le_heading_degT": "168.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "45.3011",
+            "he_longitude_deg": "-96.4231",
+            "he_elevation_ft": "1094",
+            "he_heading_degT": "348.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62728",
+            "airport_ref": "21343",
+            "airport_ident": "KVVV",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "33.2"
+        },
+        {
+            "id": "62729",
+            "airport_ref": "21343",
+            "airport_ident": "KVVV",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "62730",
+            "airport_ref": "21343",
+            "airport_ident": "KVVV",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

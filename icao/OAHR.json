@@ -1,0 +1,72 @@
+{
+    "id": "5069",
+    "ident": "OAHR",
+    "type": "medium_airport",
+    "name": "Herat International Airport",
+    "latitude_deg": "34.209999",
+    "longitude_deg": "62.228298",
+    "elevation_ft": "3206",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-HER",
+    "municipality": "Guzara",
+    "scheduled_service": "yes",
+    "gps_code": "OAHR",
+    "iata_code": "HEA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Herat_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232777",
+            "airport_ref": "5069",
+            "airport_ident": "OAHR",
+            "length_ft": "9888",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "34.2212",
+            "le_longitude_deg": "62.23",
+            "le_elevation_ft": "3206",
+            "le_heading_degT": "187",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "34.1988",
+            "he_longitude_deg": "62.2266",
+            "he_elevation_ft": "3133",
+            "he_heading_degT": "7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48237",
+            "airport_ref": "5069",
+            "airport_ident": "OAHR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302619",
+        "code": "AF",
+        "name": "Afghanistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Afghanistan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302837",
+        "code": "AF-HER",
+        "local_code": "HER",
+        "name": "Herat Province",
+        "continent": "AS",
+        "iso_country": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Herat_Province",
+        "keywords": ""
+    }
+}

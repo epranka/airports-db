@@ -1,0 +1,136 @@
+{
+    "id": "5882",
+    "ident": "SBCF",
+    "type": "large_airport",
+    "name": "Tancredo Neves International Airport",
+    "latitude_deg": "-19.62444305419922",
+    "longitude_deg": "-43.97194290161133",
+    "elevation_ft": "2715",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Belo Horizonte",
+    "scheduled_service": "yes",
+    "gps_code": "SBCF",
+    "iata_code": "CNF",
+    "local_code": "",
+    "home_link": "http://www.infraero.gov.br/usa/aero_prev_home.php?ai=207",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tancredo_Neves_International_Airport",
+    "keywords": "http://www.infraero.gov.br/usa/aero_prev_home.php?ai=207",
+    "runways": [
+        {
+            "id": "234190",
+            "airport_ref": "5882",
+            "airport_ident": "SBCF",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "2712",
+            "le_heading_degT": "139",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "2712",
+            "he_heading_degT": "319",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49737",
+            "airport_ref": "5882",
+            "airport_ident": "SBCF",
+            "type": "APP",
+            "description": "BELO HORIZONTE APP",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "49738",
+            "airport_ref": "5882",
+            "airport_ident": "SBCF",
+            "type": "ATIS",
+            "description": "BELO HORIZONTE ATIS",
+            "frequency_mhz": "127.45"
+        },
+        {
+            "id": "49739",
+            "airport_ref": "5882",
+            "airport_ident": "SBCF",
+            "type": "CLD",
+            "description": "CONFINS CLNC DEL",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "49740",
+            "airport_ref": "5882",
+            "airport_ident": "SBCF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49741",
+            "airport_ref": "5882",
+            "airport_ident": "SBCF",
+            "type": "OPS",
+            "description": "BELO HORIZONTE OPS",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "49742",
+            "airport_ref": "5882",
+            "airport_ident": "SBCF",
+            "type": "TWR",
+            "description": "CONFINS TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303209",
+        "code": "BR-MG",
+        "local_code": "MG",
+        "name": "Minas Gerais",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86910",
+            "filename": "Confins_VOR-DME_BR",
+            "ident": "CNF",
+            "name": "Confins",
+            "type": "VOR-DME",
+            "frequency_khz": "114400",
+            "latitude_deg": "-19.55820083618164",
+            "longitude_deg": "-44.048500061035156",
+            "elevation_ft": "2782",
+            "iso_country": "BR",
+            "dme_frequency_khz": "114400",
+            "dme_channel": "091X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-20.007",
+            "magnetic_variation_deg": "-21.398",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBCF"
+        }
+    ]
+}

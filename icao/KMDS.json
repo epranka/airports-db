@@ -1,0 +1,102 @@
+{
+    "id": "20489",
+    "ident": "KMDS",
+    "type": "small_airport",
+    "name": "Madison Municipal Airport",
+    "latitude_deg": "44.01599884",
+    "longitude_deg": "-97.08589935",
+    "elevation_ft": "1718",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Madison",
+    "scheduled_service": "no",
+    "gps_code": "KMDS",
+    "iata_code": "XMD",
+    "local_code": "MDS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Madison_Municipal_Airport_(South_Dakota)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245987",
+            "airport_ref": "20489",
+            "airport_ident": "KMDS",
+            "length_ft": "2600",
+            "width_ft": "200",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "44.0115",
+            "le_longitude_deg": "-97.0873",
+            "le_elevation_ft": "1710",
+            "le_heading_degT": "33.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "44.0175",
+            "he_longitude_deg": "-97.0817",
+            "he_elevation_ft": "1704",
+            "he_heading_degT": "213.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245988",
+            "airport_ref": "20489",
+            "airport_ident": "KMDS",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "44.0229",
+            "le_longitude_deg": "-97.0909",
+            "le_elevation_ft": "1717",
+            "le_heading_degT": "153.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "44.0106",
+            "he_longitude_deg": "-97.0825",
+            "he_elevation_ft": "1710",
+            "he_heading_degT": "333.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71495",
+            "airport_ref": "20489",
+            "airport_ident": "KMDS",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "71496",
+            "airport_ref": "20489",
+            "airport_ident": "KMDS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306117",
+        "code": "US-SD",
+        "local_code": "SD",
+        "name": "South Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
+        "keywords": ""
+    }
+}

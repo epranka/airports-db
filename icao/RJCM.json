@@ -1,0 +1,96 @@
+{
+    "id": "5548",
+    "ident": "RJCM",
+    "type": "medium_airport",
+    "name": "Memanbetsu Airport",
+    "latitude_deg": "43.8805999756",
+    "longitude_deg": "144.164001465",
+    "elevation_ft": "135",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-01",
+    "municipality": "Ōzora",
+    "scheduled_service": "yes",
+    "gps_code": "RJCM",
+    "iata_code": "MMB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Memanbetsu_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237213",
+            "airport_ref": "5548",
+            "airport_ident": "RJCM",
+            "length_ft": "8202",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "43.8918",
+            "le_longitude_deg": "144.163",
+            "le_elevation_ft": "102",
+            "le_heading_degT": "174.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "43.8694",
+            "he_longitude_deg": "144.165",
+            "he_elevation_ft": "135",
+            "he_heading_degT": "354.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54712",
+            "airport_ref": "5548",
+            "airport_ident": "RJCM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.85"
+        }
+    ],
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304286",
+        "code": "JP-01",
+        "local_code": "01",
+        "name": "Hokkaidō Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hokkaido",
+        "keywords": "Hokkaido"
+    },
+    "navaids": [
+        {
+            "id": "94223",
+            "filename": "Memanbetsu_VOR-DME_JP",
+            "ident": "TBE",
+            "name": "Memanbetsu",
+            "type": "VOR-DME",
+            "frequency_khz": "110850",
+            "latitude_deg": "43.8848991394043",
+            "longitude_deg": "144.16600036621094",
+            "elevation_ft": "132",
+            "iso_country": "JP",
+            "dme_frequency_khz": "110850",
+            "dme_channel": "045Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-9.011",
+            "magnetic_variation_deg": "-8.543",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJCM"
+        }
+    ]
+}

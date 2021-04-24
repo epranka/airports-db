@@ -1,0 +1,104 @@
+{
+    "id": "3995",
+    "ident": "LDZU",
+    "type": "closed",
+    "name": "Udbina Air Base",
+    "latitude_deg": "44.55759811401367",
+    "longitude_deg": "15.774399757385254",
+    "elevation_ft": "2462",
+    "continent": "EU",
+    "iso_country": "HR",
+    "iso_region": "HR-09",
+    "municipality": "Udbina",
+    "scheduled_service": "no",
+    "gps_code": "LDZU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236430",
+            "airport_ref": "3995",
+            "airport_ident": "LDZU",
+            "length_ft": "9022",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "44.565",
+            "le_longitude_deg": "15.7605",
+            "le_elevation_ft": "2254",
+            "le_heading_degT": "126.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "44.5502",
+            "he_longitude_deg": "15.7882",
+            "he_elevation_ft": "2461",
+            "he_heading_degT": "306.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53527",
+            "airport_ref": "3995",
+            "airport_ident": "LDZU",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "53528",
+            "airport_ref": "3995",
+            "airport_ident": "LDZU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302692",
+        "code": "HR",
+        "name": "Croatia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304033",
+        "code": "HR-09",
+        "local_code": "09",
+        "name": "Lika-Senj County",
+        "continent": "EU",
+        "iso_country": "HR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lika-Senj_County",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94911",
+            "filename": "Udbina_NDB_HR",
+            "ident": "UNA",
+            "name": "Udbina",
+            "type": "NDB",
+            "frequency_khz": "450",
+            "latitude_deg": "44.52579879760742",
+            "longitude_deg": "15.77280044555664",
+            "elevation_ft": "",
+            "iso_country": "HR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.3",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LDZU"
+        }
+    ]
+}

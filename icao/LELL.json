@@ -1,0 +1,112 @@
+{
+    "id": "29412",
+    "ident": "LELL",
+    "type": "small_airport",
+    "name": "Sabadell Airport",
+    "latitude_deg": "41.52090072631836",
+    "longitude_deg": "2.1050798892974854",
+    "elevation_ft": "485",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Sabadell",
+    "scheduled_service": "no",
+    "gps_code": "LELL",
+    "iata_code": "QSA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259864",
+            "airport_ref": "29412",
+            "airport_ident": "LELL",
+            "length_ft": "2953",
+            "width_ft": "98",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "485",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "445",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "322066",
+            "airport_ref": "29412",
+            "airport_ident": "LELL",
+            "type": "ACBS",
+            "description": "AEROCLUB BARCELONA SABADELL",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "322065",
+            "airport_ref": "29412",
+            "airport_ident": "LELL",
+            "type": "GMC",
+            "description": "Sabadell Ground",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "317264",
+            "airport_ref": "29412",
+            "airport_ident": "LELL",
+            "type": "TWR",
+            "description": "Sabadell Tower",
+            "frequency_mhz": "120.8"
+        }
+    ],
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303745",
+        "code": "ES-CT",
+        "local_code": "CT",
+        "name": "Catalonia",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Catalonia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93422",
+            "filename": "Sabadell_NDB_ES",
+            "ident": "SBD",
+            "name": "Sabadell",
+            "type": "NDB",
+            "frequency_khz": "367",
+            "latitude_deg": "41.51940155029297",
+            "longitude_deg": "2.1030499935150146",
+            "elevation_ft": "",
+            "iso_country": "ES",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.369",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LELL"
+        }
+    ]
+}

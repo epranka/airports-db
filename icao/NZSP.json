@@ -1,0 +1,104 @@
+{
+    "id": "5054",
+    "ident": "NZSP",
+    "type": "medium_airport",
+    "name": "South Pole Station Airport",
+    "latitude_deg": "-90",
+    "longitude_deg": "0",
+    "elevation_ft": "9300",
+    "continent": "AN",
+    "iso_country": "AQ",
+    "iso_region": "AQ-U-A",
+    "municipality": "Amundsen-Scott South Pole Station",
+    "scheduled_service": "no",
+    "gps_code": "NZSP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Amundsen-Scott_South_Pole_Station",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233601",
+            "airport_ref": "5054",
+            "airport_ident": "NZSP",
+            "length_ft": "12000",
+            "width_ft": "200",
+            "surface": "SNO",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "9301",
+            "le_heading_degT": "128.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "9301",
+            "he_heading_degT": "308.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49279",
+            "airport_ref": "5054",
+            "airport_ident": "NZSP",
+            "type": "CNTR",
+            "description": "MCMURDO CNTR",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "49280",
+            "airport_ref": "5054",
+            "airport_ident": "NZSP",
+            "type": "MISC",
+            "description": "INTL DISTRESS",
+            "frequency_mhz": "218.2"
+        }
+    ],
+    "country": {
+        "id": "302615",
+        "code": "AQ",
+        "name": "Antarctica",
+        "continent": "AN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antarctica",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302931",
+        "code": "AQ-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AN",
+        "iso_country": "AQ",
+        "wikipedia_link": "",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "96115",
+            "filename": "South_Pole_Station_TACAN_AQ",
+            "ident": "ZSP",
+            "name": "South Pole Station",
+            "type": "TACAN",
+            "frequency_khz": "115300",
+            "latitude_deg": "-89.99520111083984",
+            "longitude_deg": "120.92900085449219",
+            "elevation_ft": "9327",
+            "iso_country": "AQ",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-155.011",
+            "magnetic_variation_deg": "-149.447",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NZSP"
+        }
+    ]
+}

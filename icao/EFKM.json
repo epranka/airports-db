@@ -1,0 +1,72 @@
+{
+    "id": "2322",
+    "ident": "EFKM",
+    "type": "small_airport",
+    "name": "Kemijarvi Airport",
+    "latitude_deg": "66.712898",
+    "longitude_deg": "27.156799",
+    "elevation_ft": "692",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-10",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EFKM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kemij%C3%A4rvi_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235746",
+            "airport_ref": "2322",
+            "airport_ident": "EFKM",
+            "length_ft": "4593",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "66.7193",
+            "le_longitude_deg": "27.1552",
+            "le_elevation_ft": "",
+            "le_heading_degT": "175",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "66.7065",
+            "he_longitude_deg": "27.1584",
+            "he_elevation_ft": "",
+            "he_heading_degT": "355",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52109",
+            "airport_ref": "2322",
+            "airport_ident": "EFKM",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303802",
+        "code": "FI-10",
+        "local_code": "10",
+        "name": "Lapland Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lapland_(Finland)",
+        "keywords": "Lapin lääni, Lapplands län, Lappland"
+    }
+}

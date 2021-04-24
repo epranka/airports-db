@@ -1,0 +1,120 @@
+{
+    "id": "4184",
+    "ident": "LFPC",
+    "type": "medium_airport",
+    "name": "Creil Air Base",
+    "latitude_deg": "49.253501892089844",
+    "longitude_deg": "2.5191400051116943",
+    "elevation_ft": "291",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-HDF",
+    "municipality": "Creil",
+    "scheduled_service": "no",
+    "gps_code": "LFPC",
+    "iata_code": "CSF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "BA 110",
+    "runways": [
+        {
+            "id": "235850",
+            "airport_ref": "4184",
+            "airport_ident": "LFPC",
+            "length_ft": "7871",
+            "width_ft": "164",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "49.249",
+            "le_longitude_deg": "2.50417",
+            "le_elevation_ft": "281",
+            "le_heading_degT": "65.1",
+            "le_displaced_threshold_ft": "653",
+            "he_ident": "25",
+            "he_latitude_deg": "49.2581",
+            "he_longitude_deg": "2.53409",
+            "he_elevation_ft": "291",
+            "he_heading_degT": "245.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52238",
+            "airport_ref": "4184",
+            "airport_ident": "LFPC",
+            "type": "APP",
+            "description": "DE GAULLE APP",
+            "frequency_mhz": "119.85"
+        },
+        {
+            "id": "52239",
+            "airport_ref": "4184",
+            "airport_ident": "LFPC",
+            "type": "GCA",
+            "description": "PRECISION",
+            "frequency_mhz": "138.57"
+        },
+        {
+            "id": "52240",
+            "airport_ref": "4184",
+            "airport_ident": "LFPC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "52241",
+            "airport_ref": "4184",
+            "airport_ident": "LFPC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.3"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306337",
+        "code": "FR-HDF",
+        "local_code": "HDF",
+        "name": "Hauts-de-France",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87035",
+            "filename": "Creil_VORTAC_FR",
+            "ident": "CRL",
+            "name": "Creil",
+            "type": "VORTAC",
+            "frequency_khz": "109200",
+            "latitude_deg": "49.25529861450195",
+            "longitude_deg": "2.514780044555664",
+            "elevation_ft": "325",
+            "iso_country": "FR",
+            "dme_frequency_khz": "109200",
+            "dme_channel": "029X",
+            "dme_latitude_deg": "49.256",
+            "dme_longitude_deg": "2.51728",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.04",
+            "usageType": "HI",
+            "power": "HIGH",
+            "associated_airport": "LFPC"
+        }
+    ]
+}

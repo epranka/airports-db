@@ -1,0 +1,96 @@
+{
+    "id": "21049",
+    "ident": "KSEG",
+    "type": "small_airport",
+    "name": "Penn Valley Airport",
+    "latitude_deg": "40.820598602295",
+    "longitude_deg": "-76.863899230957",
+    "elevation_ft": "450",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Selinsgrove",
+    "scheduled_service": "no",
+    "gps_code": "KSEG",
+    "iata_code": "SEG",
+    "local_code": "SEG",
+    "home_link": "http://www.dot.state.pa.us/Internet/Bureaus/pdBOA.nsf/AviationHomepage?openframeset",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Penn_Valley_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245042",
+            "airport_ref": "21049",
+            "airport_ident": "KSEG",
+            "length_ft": "4760",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "40.8254",
+            "le_longitude_deg": "-76.8663",
+            "le_elevation_ft": "450",
+            "le_heading_degT": "158.9",
+            "le_displaced_threshold_ft": "388",
+            "he_ident": "35",
+            "he_latitude_deg": "40.8157",
+            "he_longitude_deg": "-76.8613",
+            "he_elevation_ft": "443",
+            "he_heading_degT": "338.9",
+            "he_displaced_threshold_ft": "250"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69466",
+            "airport_ref": "21049",
+            "airport_ident": "KSEG",
+            "type": "A/D",
+            "description": "HARRISBURG APP/DEP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "69467",
+            "airport_ref": "21049",
+            "airport_ident": "KSEG",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "69468",
+            "airport_ref": "21049",
+            "airport_ident": "KSEG",
+            "type": "RDO",
+            "description": "WILLIAMSPORT RDO",
+            "frequency_mhz": "110.4"
+        },
+        {
+            "id": "69469",
+            "airport_ref": "21049",
+            "airport_ident": "KSEG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

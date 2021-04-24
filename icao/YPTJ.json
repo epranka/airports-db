@@ -1,0 +1,80 @@
+{
+    "id": "30248",
+    "ident": "YPTJ",
+    "type": "small_airport",
+    "name": "Patjarr Airport",
+    "latitude_deg": "-24.6189002991",
+    "longitude_deg": "126.327003479",
+    "elevation_ft": "1493",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Patjarr",
+    "scheduled_service": "no",
+    "gps_code": "YPTJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259252",
+            "airport_ref": "30248",
+            "airport_ident": "YPTJ",
+            "length_ft": "5905",
+            "width_ft": "",
+            "surface": "X",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "74327",
+            "airport_ref": "30248",
+            "airport_ident": "YPTJ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "130.9"
+        },
+        {
+            "id": "74328",
+            "airport_ref": "30248",
+            "airport_ident": "YPTJ",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "130.449"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": ""
+    }
+}

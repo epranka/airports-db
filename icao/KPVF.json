@@ -1,0 +1,88 @@
+{
+    "id": "20887",
+    "ident": "KPVF",
+    "type": "small_airport",
+    "name": "Placerville Airport",
+    "latitude_deg": "38.724201202393",
+    "longitude_deg": "-120.75299835205",
+    "elevation_ft": "2585",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Placerville",
+    "scheduled_service": "no",
+    "gps_code": "KPVF",
+    "iata_code": "PVF",
+    "local_code": "PVF",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Placerville_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245153",
+            "airport_ref": "20887",
+            "airport_ident": "KPVF",
+            "length_ft": "4201",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "38.7216",
+            "le_longitude_deg": "-120.76",
+            "le_elevation_ft": "2577",
+            "le_heading_degT": "62.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "38.7268",
+            "he_longitude_deg": "-120.747",
+            "he_elevation_ft": "2579",
+            "he_heading_degT": "242.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69686",
+            "airport_ref": "20887",
+            "airport_ident": "KPVF",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "69687",
+            "airport_ref": "20887",
+            "airport_ident": "KPVF",
+            "type": "RDO",
+            "description": "RANCHO RDO",
+            "frequency_mhz": "115.5"
+        },
+        {
+            "id": "69688",
+            "airport_ref": "20887",
+            "airport_ident": "KPVF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

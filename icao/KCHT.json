@@ -1,0 +1,118 @@
+{
+    "id": "19496",
+    "ident": "KCHT",
+    "type": "small_airport",
+    "name": "Chillicothe Municipal Airport",
+    "latitude_deg": "39.78219985961914",
+    "longitude_deg": "-93.49569702148438",
+    "elevation_ft": "783",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Chillicothe",
+    "scheduled_service": "no",
+    "gps_code": "KCHT",
+    "iata_code": "",
+    "local_code": "CHT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244768",
+            "airport_ref": "19496",
+            "airport_ident": "KCHT",
+            "length_ft": "3614",
+            "width_ft": "110",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "39.7777",
+            "le_longitude_deg": "-93.4994",
+            "le_elevation_ft": "783",
+            "le_heading_degT": "25.6",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "20",
+            "he_latitude_deg": "39.7861",
+            "he_longitude_deg": "-93.4941",
+            "he_elevation_ft": "783",
+            "he_heading_degT": "205.6",
+            "he_displaced_threshold_ft": "400"
+        },
+        {
+            "id": "244769",
+            "airport_ref": "19496",
+            "airport_ident": "KCHT",
+            "length_ft": "3900",
+            "width_ft": "74",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "39.7864",
+            "le_longitude_deg": "-93.4998",
+            "le_elevation_ft": "783",
+            "le_heading_degT": "143.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "39.7779",
+            "he_longitude_deg": "-93.4915",
+            "he_elevation_ft": "763",
+            "he_heading_degT": "323.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68825",
+            "airport_ref": "19496",
+            "airport_ident": "KCHT",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.175"
+        },
+        {
+            "id": "68826",
+            "airport_ref": "19496",
+            "airport_ident": "KCHT",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "125.25"
+        },
+        {
+            "id": "68827",
+            "airport_ref": "19496",
+            "airport_ident": "KCHT",
+            "type": "RDO",
+            "description": "COLUMBIA RDO",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "68828",
+            "airport_ref": "19496",
+            "airport_ident": "KCHT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "18929",
+    "ident": "K5T6",
+    "type": "small_airport",
+    "name": "Doña Ana County International Jetport",
+    "latitude_deg": "31.881001",
+    "longitude_deg": "-106.705002",
+    "elevation_ft": "4112",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Santa Teresa",
+    "scheduled_service": "no",
+    "gps_code": "KDNA",
+    "iata_code": "",
+    "local_code": "DNA",
+    "home_link": "https://www.donaanacounty.org/works/airport",
+    "wikipedia_link": "",
+    "keywords": "5T6, Dona Ana County At Santa Teresa Airport",
+    "runways": [
+        {
+            "id": "244023",
+            "airport_ref": "18929",
+            "airport_ident": "K5T6",
+            "length_ft": "8500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "31.8853",
+            "le_longitude_deg": "-106.718",
+            "le_elevation_ft": "4110",
+            "le_heading_degT": "111.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "31.8766",
+            "he_longitude_deg": "-106.692",
+            "he_elevation_ft": "4108",
+            "he_heading_degT": "291.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67234",
+            "airport_ref": "18929",
+            "airport_ident": "K5T6",
+            "type": "A/D",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "128.2"
+        },
+        {
+            "id": "67235",
+            "airport_ref": "18929",
+            "airport_ident": "K5T6",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    }
+}

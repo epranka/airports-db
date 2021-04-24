@@ -1,0 +1,88 @@
+{
+    "id": "38494",
+    "ident": "YMRS",
+    "type": "small_airport",
+    "name": "Melrose Airport",
+    "latitude_deg": "-27.933300018310547",
+    "longitude_deg": "121.30000305175781",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YMRS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259058",
+            "airport_ref": "38494",
+            "airport_ident": "YMRS",
+            "length_ft": "2624",
+            "width_ft": "",
+            "surface": "N",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "73930",
+            "airport_ref": "38494",
+            "airport_ident": "YMRS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "73931",
+            "airport_ref": "38494",
+            "airport_ident": "YMRS",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "112.9"
+        },
+        {
+            "id": "73932",
+            "airport_ref": "38494",
+            "airport_ident": "YMRS",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.6"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": ""
+    }
+}

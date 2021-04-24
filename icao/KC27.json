@@ -1,0 +1,72 @@
+{
+    "id": "19443",
+    "ident": "KC27",
+    "type": "small_airport",
+    "name": "Manchester Municipal Airport",
+    "latitude_deg": "42.493301391602",
+    "longitude_deg": "-91.498497009277",
+    "elevation_ft": "987",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Manchester",
+    "scheduled_service": "no",
+    "gps_code": "C27",
+    "iata_code": "",
+    "local_code": "C27",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239859",
+            "airport_ref": "19443",
+            "airport_ident": "KC27",
+            "length_ft": "3465",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "42.4983",
+            "le_longitude_deg": "-91.4985",
+            "le_elevation_ft": "",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "42.4888",
+            "he_longitude_deg": "-91.4985",
+            "he_elevation_ft": "",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "305"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59104",
+            "airport_ref": "19443",
+            "airport_ident": "KC27",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

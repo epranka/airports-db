@@ -1,0 +1,110 @@
+{
+    "id": "20889",
+    "ident": "KPVJ",
+    "type": "small_airport",
+    "name": "Pauls Valley Municipal Airport",
+    "latitude_deg": "34.71110153",
+    "longitude_deg": "-97.22319794",
+    "elevation_ft": "971",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OK",
+    "municipality": "Pauls Valley",
+    "scheduled_service": "no",
+    "gps_code": "KPVJ",
+    "iata_code": "",
+    "local_code": "PVJ",
+    "home_link": "http://paulsvalley.com/for-residents/community-spaces/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pauls_Valley_Municipal_Airport",
+    "keywords": "F51",
+    "runways": [
+        {
+            "id": "243141",
+            "airport_ref": "20889",
+            "airport_ident": "KPVJ",
+            "length_ft": "3499",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "34.7157",
+            "le_longitude_deg": "-97.2263",
+            "le_elevation_ft": "965",
+            "le_heading_degT": "134",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "34.7089",
+            "he_longitude_deg": "-97.2181",
+            "he_elevation_ft": "948",
+            "he_heading_degT": "314",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243142",
+            "airport_ref": "20889",
+            "airport_ident": "KPVJ",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "1",
+            "le_ident": "17",
+            "le_latitude_deg": "34.7144",
+            "le_longitude_deg": "-97.2242",
+            "le_elevation_ft": "968",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "34.7007",
+            "he_longitude_deg": "-97.2242",
+            "he_elevation_ft": "946",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65357",
+            "airport_ref": "20889",
+            "airport_ident": "KPVJ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.675"
+        },
+        {
+            "id": "65358",
+            "airport_ref": "20889",
+            "airport_ident": "KPVJ",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "128.1"
+        },
+        {
+            "id": "65359",
+            "airport_ref": "20889",
+            "airport_ident": "KPVJ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306112",
+        "code": "US-OK",
+        "local_code": "OK",
+        "name": "Oklahoma",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
+        "keywords": ""
+    }
+}

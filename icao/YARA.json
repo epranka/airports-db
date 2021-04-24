@@ -1,0 +1,102 @@
+{
+    "id": "26891",
+    "ident": "YARA",
+    "type": "medium_airport",
+    "name": "Ararat Airport",
+    "latitude_deg": "-37.309978",
+    "longitude_deg": "142.988688",
+    "elevation_ft": "1008",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "Ararat",
+    "scheduled_service": "no",
+    "gps_code": "YARA",
+    "iata_code": "ARY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ararat_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233120",
+            "airport_ref": "26891",
+            "airport_ident": "YARA",
+            "length_ft": "2165",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "-37.311",
+            "le_longitude_deg": "142.987",
+            "le_elevation_ft": "",
+            "le_heading_degT": "55",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "-37.3075",
+            "he_longitude_deg": "142.993",
+            "he_elevation_ft": "",
+            "he_heading_degT": "235",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "233121",
+            "airport_ref": "26891",
+            "airport_ident": "YARA",
+            "length_ft": "4068",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-37.3082",
+            "le_longitude_deg": "142.985",
+            "le_elevation_ft": "1008",
+            "le_heading_degT": "125",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-37.3147",
+            "he_longitude_deg": "142.997",
+            "he_elevation_ft": "1008",
+            "he_heading_degT": "305",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48565",
+            "airport_ref": "26891",
+            "airport_ident": "YARA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48566",
+            "airport_ref": "26891",
+            "airport_ident": "YARA",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "126.8"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302975",
+        "code": "AU-VIC",
+        "local_code": "VIC",
+        "name": "Victoria",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
+        "keywords": ""
+    }
+}

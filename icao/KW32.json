@@ -1,0 +1,88 @@
+{
+    "id": "21351",
+    "ident": "KW32",
+    "type": "small_airport",
+    "name": "Washington Executive Hyde Field",
+    "latitude_deg": "38.74829864501953",
+    "longitude_deg": "-76.93280029296875",
+    "elevation_ft": "249",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Clinton",
+    "scheduled_service": "no",
+    "gps_code": "KW32",
+    "iata_code": "",
+    "local_code": "W32",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Washington_Executive_Airport",
+    "keywords": "DC3, FRZ, ADIZ",
+    "runways": [
+        {
+            "id": "244283",
+            "airport_ref": "21351",
+            "airport_ident": "KW32",
+            "length_ft": "3000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "38.7452",
+            "le_longitude_deg": "-76.9363",
+            "le_elevation_ft": "239",
+            "le_heading_degT": "41",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "38.7514",
+            "he_longitude_deg": "-76.9294",
+            "he_elevation_ft": "238",
+            "he_heading_degT": "221",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67766",
+            "airport_ref": "21351",
+            "airport_ident": "KW32",
+            "type": "A/D",
+            "description": "POTOMAC APP/DEP",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "67767",
+            "airport_ref": "21351",
+            "airport_ident": "KW32",
+            "type": "ATIS",
+            "description": "ANDREWS",
+            "frequency_mhz": "113.1"
+        },
+        {
+            "id": "67768",
+            "airport_ref": "21351",
+            "airport_ident": "KW32",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306096",
+        "code": "US-MD",
+        "local_code": "MD",
+        "name": "Maryland",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "id": "21307",
+    "ident": "KUVA",
+    "type": "small_airport",
+    "name": "Garner Field",
+    "latitude_deg": "29.2112998962",
+    "longitude_deg": "-99.743598938",
+    "elevation_ft": "942",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Uvalde",
+    "scheduled_service": "no",
+    "gps_code": "KUVA",
+    "iata_code": "UVA",
+    "local_code": "UVA",
+    "home_link": "http://uvaldeflightcenter.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Garner_Field",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240295",
+            "airport_ref": "21307",
+            "airport_ident": "KUVA",
+            "length_ft": "5255",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "29.2179",
+            "le_longitude_deg": "-99.7471",
+            "le_elevation_ft": "942",
+            "le_heading_degT": "155",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "29.2048",
+            "he_longitude_deg": "-99.7401",
+            "he_elevation_ft": "925",
+            "he_heading_degT": "335",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59737",
+            "airport_ref": "21307",
+            "airport_ident": "KUVA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "124.175"
+        },
+        {
+            "id": "59738",
+            "airport_ref": "21307",
+            "airport_ident": "KUVA",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "134.95"
+        },
+        {
+            "id": "59739",
+            "airport_ref": "21307",
+            "airport_ident": "KUVA",
+            "type": "RDO",
+            "description": "SAN ANGELO RDO",
+            "frequency_mhz": "123.65"
+        },
+        {
+            "id": "59740",
+            "airport_ref": "21307",
+            "airport_ident": "KUVA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94992",
+            "filename": "Uvalde_NDB_US",
+            "ident": "UVA",
+            "name": "Uvalde",
+            "type": "NDB",
+            "frequency_khz": "281",
+            "latitude_deg": "29.17770004272461",
+            "longitude_deg": "-99.72570037841797",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.154",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KUVA"
+        }
+    ]
+}

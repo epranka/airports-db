@@ -1,0 +1,80 @@
+{
+    "id": "4501",
+    "ident": "LSTS",
+    "type": "small_airport",
+    "name": "Flugplatz St Stephan",
+    "latitude_deg": "46.497398",
+    "longitude_deg": "7.41257",
+    "elevation_ft": "3304",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-BE",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LSTS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239114",
+            "airport_ref": "4501",
+            "airport_ident": "LSTS",
+            "length_ft": "6726",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "46.504",
+            "le_longitude_deg": "7.40314",
+            "le_elevation_ft": "",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "500",
+            "he_ident": "32",
+            "he_latitude_deg": "46.4909",
+            "he_longitude_deg": "7.42201",
+            "he_elevation_ft": "",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": "290"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57547",
+            "airport_ref": "4501",
+            "airport_ident": "LSTS",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "119.425"
+        },
+        {
+            "id": "57548",
+            "airport_ref": "4501",
+            "airport_ident": "LSTS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.05"
+        }
+    ],
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303355",
+        "code": "CH-BE",
+        "local_code": "BE",
+        "name": "Canton of Berne",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Berne",
+        "keywords": "Bern"
+    }
+}

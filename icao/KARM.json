@@ -1,0 +1,88 @@
+{
+    "id": "19304",
+    "ident": "KARM",
+    "type": "small_airport",
+    "name": "Wharton Regional Airport",
+    "latitude_deg": "29.254299",
+    "longitude_deg": "-96.154404",
+    "elevation_ft": "100",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Wharton",
+    "scheduled_service": "no",
+    "gps_code": "KARM",
+    "iata_code": "WHT",
+    "local_code": "ARM",
+    "home_link": "http://www.cityofwharton.com/page/Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wharton_Regional_Airport",
+    "keywords": "5R5",
+    "runways": [
+        {
+            "id": "243158",
+            "airport_ref": "19304",
+            "airport_ident": "KARM",
+            "length_ft": "5004",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "29.2603",
+            "le_longitude_deg": "-96.1582",
+            "le_elevation_ft": "100",
+            "le_heading_degT": "150.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "29.2483",
+            "he_longitude_deg": "-96.1506",
+            "he_elevation_ft": "97",
+            "he_heading_degT": "330.8",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65393",
+            "airport_ref": "19304",
+            "airport_ident": "KARM",
+            "type": "AWOS",
+            "description": "AWOS  3",
+            "frequency_mhz": "118.475"
+        },
+        {
+            "id": "65394",
+            "airport_ref": "19304",
+            "airport_ident": "KARM",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "65395",
+            "airport_ref": "19304",
+            "airport_ident": "KARM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

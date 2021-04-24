@@ -1,0 +1,118 @@
+{
+    "id": "1898",
+    "ident": "CYSC",
+    "type": "medium_airport",
+    "name": "Sherbrooke Airport",
+    "latitude_deg": "45.4385986328125",
+    "longitude_deg": "-71.69139862060547",
+    "elevation_ft": "792",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Sherbrooke",
+    "scheduled_service": "no",
+    "gps_code": "CYSC",
+    "iata_code": "YSC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sherbrooke_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234618",
+            "airport_ref": "1898",
+            "airport_ident": "CYSC",
+            "length_ft": "6000",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "45.4425",
+            "le_longitude_deg": "-71.7016",
+            "le_elevation_ft": "753",
+            "le_heading_degT": "118.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "45.4345",
+            "he_longitude_deg": "-71.6811",
+            "he_elevation_ft": "792",
+            "he_heading_degT": "298.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "248038",
+            "airport_ref": "1898",
+            "airport_ident": "CYSC",
+            "length_ft": "6000",
+            "width_ft": "150",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50155",
+            "airport_ref": "1898",
+            "airport_ident": "CYSC",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "50156",
+            "airport_ref": "1898",
+            "airport_ident": "CYSC",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "126.25"
+        },
+        {
+            "id": "50157",
+            "airport_ref": "1898",
+            "airport_ident": "CYSC",
+            "type": "CNTR",
+            "description": "MONTREAL CNTR",
+            "frequency_mhz": "132.55"
+        },
+        {
+            "id": "50158",
+            "airport_ref": "1898",
+            "airport_ident": "CYSC",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "123.5"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "25142",
+    "ident": "TX25",
+    "type": "small_airport",
+    "name": "Lochridge Ranch Airport",
+    "latitude_deg": "31.989299774169922",
+    "longitude_deg": "-95.95110321044922",
+    "elevation_ft": "391",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Athens",
+    "scheduled_service": "no",
+    "gps_code": "TX25",
+    "iata_code": "",
+    "local_code": "TX25",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244985",
+            "airport_ref": "25142",
+            "airport_ident": "TX25",
+            "length_ft": "5000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "31.9961",
+            "le_longitude_deg": "-95.9525",
+            "le_elevation_ft": "391",
+            "le_heading_degT": "170",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "31.9828",
+            "he_longitude_deg": "-95.9497",
+            "he_elevation_ft": "391",
+            "he_heading_degT": "350",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69323",
+            "airport_ref": "25142",
+            "airport_ident": "TX25",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "127.45"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

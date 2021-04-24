@@ -1,0 +1,110 @@
+{
+    "id": "6123",
+    "ident": "SKGY",
+    "type": "small_airport",
+    "name": "Guaymaral Airport",
+    "latitude_deg": "4.81233",
+    "longitude_deg": "-74.0649",
+    "elevation_ft": "8390",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-BOL",
+    "municipality": "Chía",
+    "scheduled_service": "no",
+    "gps_code": "SKGY",
+    "iata_code": "",
+    "local_code": "GMY",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Guaymaral_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "260327",
+            "airport_ref": "6123",
+            "airport_ident": "SKGY",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "UNK",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "8390",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "8390",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "235307",
+            "airport_ref": "6123",
+            "airport_ident": "SKGY",
+            "length_ft": "5643",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "4.81408",
+            "le_longitude_deg": "-74.0725",
+            "le_elevation_ft": "8478",
+            "le_heading_degT": "103",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "4.81058",
+            "he_longitude_deg": "-74.0574",
+            "he_elevation_ft": "8478",
+            "he_heading_degT": "283",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51453",
+            "airport_ref": "6123",
+            "airport_ident": "SKGY",
+            "type": "APP",
+            "description": "BOGOTA APP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "51454",
+            "airport_ref": "6123",
+            "airport_ident": "SKGY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "51455",
+            "airport_ref": "6123",
+            "airport_ident": "SKGY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303461",
+        "code": "CO-BOL",
+        "local_code": "BOL",
+        "name": "Bolívar Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolívar_Department",
+        "keywords": ""
+    }
+}

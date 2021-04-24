@@ -1,0 +1,88 @@
+{
+    "id": "20033",
+    "ident": "KHCD",
+    "type": "small_airport",
+    "name": "Hutchinson Municipal Butler Field",
+    "latitude_deg": "44.85990143",
+    "longitude_deg": "-94.38249969",
+    "elevation_ft": "1062",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Hutchinson",
+    "scheduled_service": "no",
+    "gps_code": "KHCD",
+    "iata_code": "",
+    "local_code": "HCD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241812",
+            "airport_ref": "20033",
+            "airport_ident": "KHCD",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "44.8647",
+            "le_longitude_deg": "-94.3861",
+            "le_elevation_ft": "1055",
+            "le_heading_degT": "152",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "44.855",
+            "he_longitude_deg": "-94.3789",
+            "he_elevation_ft": "1060",
+            "he_heading_degT": "332",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62622",
+            "airport_ref": "20033",
+            "airport_ident": "KHCD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "62623",
+            "airport_ref": "20033",
+            "airport_ident": "KHCD",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "62624",
+            "airport_ref": "20033",
+            "airport_ident": "KHCD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

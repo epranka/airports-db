@@ -1,0 +1,80 @@
+{
+    "id": "18852",
+    "ident": "K4S9",
+    "type": "small_airport",
+    "name": "Portland Mulino Airport",
+    "latitude_deg": "45.21630096435547",
+    "longitude_deg": "-122.58999633789062",
+    "elevation_ft": "260",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Portland-Mulino",
+    "scheduled_service": "no",
+    "gps_code": "K4S9",
+    "iata_code": "",
+    "local_code": "4S9",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Portland-Mulino_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245144",
+            "airport_ref": "18852",
+            "airport_ident": "K4S9",
+            "length_ft": "3600",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "45.221",
+            "le_longitude_deg": "-122.593",
+            "le_elevation_ft": "248",
+            "le_heading_degT": "160",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "45.2117",
+            "he_longitude_deg": "-122.588",
+            "he_elevation_ft": "260",
+            "he_heading_degT": "340",
+            "he_displaced_threshold_ft": "175"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69669",
+            "airport_ref": "18852",
+            "airport_ident": "K4S9",
+            "type": "CLD",
+            "description": "CLD",
+            "frequency_mhz": "119.95"
+        },
+        {
+            "id": "69670",
+            "airport_ref": "18852",
+            "airport_ident": "K4S9",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306113",
+        "code": "US-OR",
+        "local_code": "OR",
+        "name": "Oregon",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
+        "keywords": ""
+    }
+}

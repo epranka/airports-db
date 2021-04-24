@@ -1,0 +1,112 @@
+{
+    "id": "29136",
+    "ident": "EGFP",
+    "type": "small_airport",
+    "name": "Pembrey Airport",
+    "latitude_deg": "51.71390151977539",
+    "longitude_deg": "-4.312220096588135",
+    "elevation_ft": "15",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-WLS",
+    "municipality": "Pembrey",
+    "scheduled_service": "no",
+    "gps_code": "EGFP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pembrey_Airport",
+    "keywords": "RAF Pembrey",
+    "runways": [
+        {
+            "id": "248451",
+            "airport_ref": "29136",
+            "airport_ident": "EGFP",
+            "length_ft": "2614",
+            "width_ft": "98",
+            "surface": "Concrete/Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "15",
+            "le_heading_degT": "36",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "14",
+            "he_heading_degT": "216",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71967",
+            "airport_ref": "29136",
+            "airport_ident": "EGFP",
+            "type": "A/G",
+            "description": "Pembrey A/G",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "71969",
+            "airport_ref": "29136",
+            "airport_ident": "EGFP",
+            "type": "RAD/APP",
+            "description": "Pembrey RAD/APP",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "71968",
+            "airport_ref": "29136",
+            "airport_ident": "EGFP",
+            "type": "TWR",
+            "description": "Pembrey TWR",
+            "frequency_mhz": "124.4"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306376",
+        "code": "GB-WLS",
+        "local_code": "WLS",
+        "name": "Wales",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wales",
+        "keywords": "keep"
+    },
+    "navaids": [
+        {
+            "id": "92538",
+            "filename": "Pembrey_NDB_GB",
+            "ident": "PMB",
+            "name": "Pembrey",
+            "type": "NDB",
+            "frequency_khz": "341",
+            "latitude_deg": "51.71369934082031",
+            "longitude_deg": "-4.311130046844482",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.562",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGFP"
+        }
+    ]
+}

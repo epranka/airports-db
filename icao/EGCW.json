@@ -1,0 +1,96 @@
+{
+    "id": "2402",
+    "ident": "EGCW",
+    "type": "small_airport",
+    "name": "Welshpool Airport",
+    "latitude_deg": "52.62860107421875",
+    "longitude_deg": "-3.153330087661743",
+    "elevation_ft": "233",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-WLS",
+    "municipality": "Welshpool",
+    "scheduled_service": "no",
+    "gps_code": "EGCW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.welshpoolairport.co.uk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Welshpool_Airport",
+    "keywords": "Mid-Wales",
+    "runways": [
+        {
+            "id": "239380",
+            "airport_ref": "2402",
+            "airport_ident": "EGCW",
+            "length_ft": "3346",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "52.6248",
+            "le_longitude_deg": "-3.15776",
+            "le_elevation_ft": "233",
+            "le_heading_degT": "36",
+            "le_displaced_threshold_ft": "318",
+            "he_ident": "22",
+            "he_latitude_deg": "52.6322",
+            "he_longitude_deg": "-3.149",
+            "he_elevation_ft": "233",
+            "he_heading_degT": "216",
+            "he_displaced_threshold_ft": "364"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58095",
+            "airport_ref": "2402",
+            "airport_ident": "EGCW",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "128"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306376",
+        "code": "GB-WLS",
+        "local_code": "WLS",
+        "name": "Wales",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wales",
+        "keywords": "keep"
+    },
+    "navaids": [
+        {
+            "id": "95489",
+            "filename": "Welshpool_NDB-DME_GB",
+            "ident": "WPL",
+            "name": "Welshpool",
+            "type": "NDB-DME",
+            "frequency_khz": "323",
+            "latitude_deg": "52.630001068115234",
+            "longitude_deg": "-3.1538898944854736",
+            "elevation_ft": "282",
+            "iso_country": "GB",
+            "dme_frequency_khz": "115950",
+            "dme_channel": "106Y",
+            "dme_latitude_deg": "52.6297",
+            "dme_longitude_deg": "-3.15389",
+            "dme_elevation_ft": "282",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.389",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGCW"
+        }
+    ]
+}

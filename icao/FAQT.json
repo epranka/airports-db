@@ -1,0 +1,72 @@
+{
+    "id": "2830",
+    "ident": "FAQT",
+    "type": "medium_airport",
+    "name": "Queenstown Airport",
+    "latitude_deg": "-31.92020034790039",
+    "longitude_deg": "26.882200241088867",
+    "elevation_ft": "3637",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Queenstown",
+    "scheduled_service": "no",
+    "gps_code": "FAQT",
+    "iata_code": "UTW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238814",
+            "airport_ref": "2830",
+            "airport_ident": "FAQT",
+            "length_ft": "3937",
+            "width_ft": "66",
+            "surface": "Tar - lights 5 clicks on 124.8",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-31.9198",
+            "le_longitude_deg": "26.8759",
+            "le_elevation_ft": "",
+            "le_heading_degT": "95",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-31.9206",
+            "he_longitude_deg": "26.8885",
+            "he_elevation_ft": "",
+            "he_heading_degT": "275",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "311225",
+            "airport_ref": "2830",
+            "airport_ident": "FAQT",
+            "type": "Unmanned",
+            "description": "Queenstown Traffic",
+            "frequency_mhz": "124.8"
+        }
+    ],
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306295",
+        "code": "ZA-EC",
+        "local_code": "EC",
+        "name": "Eastern Cape",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Cape",
+        "keywords": ""
+    }
+}

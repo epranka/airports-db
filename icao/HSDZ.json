@@ -1,0 +1,96 @@
+{
+    "id": "3240",
+    "ident": "HSDZ",
+    "type": "small_airport",
+    "name": "Damazin Airport",
+    "latitude_deg": "11.7859",
+    "longitude_deg": "34.3367",
+    "elevation_ft": "1582",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-24",
+    "municipality": "Ad Damazin",
+    "scheduled_service": "no",
+    "gps_code": "HSDZ",
+    "iata_code": "RSS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Damazin_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238967",
+            "airport_ref": "3240",
+            "airport_ident": "HSDZ",
+            "length_ft": "9020",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "11.797",
+            "le_longitude_deg": "34.3347",
+            "le_elevation_ft": "1582",
+            "le_heading_degT": "170",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "11.7748",
+            "he_longitude_deg": "34.3386",
+            "he_elevation_ft": "1580",
+            "he_heading_degT": "350",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57382",
+            "airport_ref": "3240",
+            "airport_ident": "HSDZ",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302597",
+        "code": "SD",
+        "name": "Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sudan",
+        "keywords": "مطارات السودان"
+    },
+    "region": {
+        "id": "305407",
+        "code": "SD-24",
+        "local_code": "24",
+        "name": "Blue Nile State",
+        "continent": "AF",
+        "iso_country": "SD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Blue_Nile_State",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87443",
+            "filename": "Damazin_NDB_SD",
+            "ident": "DMZ",
+            "name": "Damazin",
+            "type": "NDB",
+            "frequency_khz": "343",
+            "latitude_deg": "11.790900230407715",
+            "longitude_deg": "34.3400993347168",
+            "elevation_ft": "",
+            "iso_country": "SD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.086",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "HSDZ"
+        }
+    ]
+}

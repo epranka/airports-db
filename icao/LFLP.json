@@ -1,0 +1,88 @@
+{
+    "id": "4141",
+    "ident": "LFLP",
+    "type": "medium_airport",
+    "name": "Annecy-Haute-Savoie-Mont Blanc Airport",
+    "latitude_deg": "45.9308333",
+    "longitude_deg": "6.1063889",
+    "elevation_ft": "1521",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Annecy/Meythet",
+    "scheduled_service": "yes",
+    "gps_code": "LFLP",
+    "iata_code": "NCY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Annecy_-_Haute-Savoie_-_Mont_Blanc_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235950",
+            "airport_ref": "4141",
+            "airport_ident": "LFLP",
+            "length_ft": "5348",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "45.9235",
+            "le_longitude_deg": "6.09216",
+            "le_elevation_ft": "1489",
+            "le_heading_degT": "39",
+            "le_displaced_threshold_ft": "820",
+            "he_ident": "22",
+            "he_latitude_deg": "45.935",
+            "he_longitude_deg": "6.10534",
+            "he_elevation_ft": "1516",
+            "he_heading_degT": "219",
+            "he_displaced_threshold_ft": "755"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52448",
+            "airport_ref": "4141",
+            "airport_ident": "LFLP",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "52449",
+            "airport_ref": "4141",
+            "airport_ident": "LFLP",
+            "type": "APP",
+            "description": "CHAMBERY APP",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "52450",
+            "airport_ref": "4141",
+            "airport_ident": "LFLP",
+            "type": "TWR",
+            "description": "ANNECY TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306351",
+        "code": "FR-ARA",
+        "local_code": "ARA",
+        "name": "Auvergne-Rhône-Alpes",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
+        "keywords": ""
+    }
+}

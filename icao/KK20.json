@@ -1,0 +1,118 @@
+{
+    "id": "20243",
+    "ident": "KK20",
+    "type": "small_airport",
+    "name": "Wendell H Ford Airport",
+    "latitude_deg": "37.38779830932617",
+    "longitude_deg": "-83.26210021972656",
+    "elevation_ft": "1253",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Hazard",
+    "scheduled_service": "no",
+    "gps_code": "KK20",
+    "iata_code": "",
+    "local_code": "K20",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242492",
+            "airport_ref": "20243",
+            "airport_ident": "KK20",
+            "length_ft": "3250",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "37.3895",
+            "le_longitude_deg": "-83.2698",
+            "le_elevation_ft": "1243",
+            "le_heading_degT": "59.3",
+            "le_displaced_threshold_ft": "277",
+            "he_ident": "24",
+            "he_latitude_deg": "37.394",
+            "he_longitude_deg": "-83.2602",
+            "he_elevation_ft": "1242",
+            "he_heading_degT": "239.3",
+            "he_displaced_threshold_ft": "282"
+        },
+        {
+            "id": "242493",
+            "airport_ref": "20243",
+            "airport_ident": "KK20",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "37.3905",
+            "le_longitude_deg": "-83.2658",
+            "le_elevation_ft": "1243",
+            "le_heading_degT": "138.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "37.3801",
+            "he_longitude_deg": "-83.2545",
+            "he_elevation_ft": "1253",
+            "he_heading_degT": "318.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64036",
+            "airport_ref": "20243",
+            "airport_ident": "KK20",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "64037",
+            "airport_ref": "20243",
+            "airport_ident": "KK20",
+            "type": "CNTR",
+            "description": "INDIANAPOLIS CNTR",
+            "frequency_mhz": "126.575"
+        },
+        {
+            "id": "64038",
+            "airport_ref": "20243",
+            "airport_ident": "KK20",
+            "type": "FSS",
+            "description": "HAZARD RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "64039",
+            "airport_ref": "20243",
+            "airport_ident": "KK20",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306093",
+        "code": "US-KY",
+        "local_code": "KY",
+        "name": "Kentucky",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
+        "keywords": ""
+    }
+}

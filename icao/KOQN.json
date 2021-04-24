@@ -1,0 +1,88 @@
+{
+    "id": "20631",
+    "ident": "KOQN",
+    "type": "small_airport",
+    "name": "Brandywine Regional Airport",
+    "latitude_deg": "39.990101",
+    "longitude_deg": "-75.581902",
+    "elevation_ft": "466",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "West Chester",
+    "scheduled_service": "no",
+    "gps_code": "KOQN",
+    "iata_code": "",
+    "local_code": "OQN",
+    "home_link": "https://www.brandywineairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brandywine_Airport",
+    "keywords": "Formerly N99",
+    "runways": [
+        {
+            "id": "242008",
+            "airport_ref": "20631",
+            "airport_ident": "KOQN",
+            "length_ft": "3347",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "39.9891",
+            "le_longitude_deg": "-75.5877",
+            "le_elevation_ft": "459",
+            "le_heading_degT": "77",
+            "le_displaced_threshold_ft": "125",
+            "he_ident": "27",
+            "he_latitude_deg": "39.9912",
+            "he_longitude_deg": "-75.5761",
+            "he_elevation_ft": "462",
+            "he_heading_degT": "257",
+            "he_displaced_threshold_ft": "250"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63007",
+            "airport_ref": "20631",
+            "airport_ident": "KOQN",
+            "type": "A/D",
+            "description": "PHILADELPHIA APP/DEP",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "63008",
+            "airport_ref": "20631",
+            "airport_ident": "KOQN",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "63009",
+            "airport_ref": "20631",
+            "airport_ident": "KOQN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.075"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    }
+}

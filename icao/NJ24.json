@@ -1,0 +1,104 @@
+{
+    "id": "23069",
+    "ident": "NJ24",
+    "type": "small_airport",
+    "name": "Warren Grove Range Airport",
+    "latitude_deg": "39.69670104980469",
+    "longitude_deg": "-74.4000015258789",
+    "elevation_ft": "105",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Burlington County",
+    "scheduled_service": "no",
+    "gps_code": "NJ24",
+    "iata_code": "",
+    "local_code": "NJ24",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240876",
+            "airport_ref": "23069",
+            "airport_ident": "NJ24",
+            "length_ft": "1800",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "39.6989",
+            "le_longitude_deg": "-74.4017",
+            "le_elevation_ft": "",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "39.6944",
+            "he_longitude_deg": "-74.3983",
+            "he_elevation_ft": "",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60683",
+            "airport_ref": "23069",
+            "airport_ident": "NJ24",
+            "type": "MISC",
+            "description": "RANGE CON",
+            "frequency_mhz": "40.1"
+        },
+        {
+            "id": "60684",
+            "airport_ref": "23069",
+            "airport_ident": "NJ24",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "113.4"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87189",
+            "filename": "Coyle_VORTAC_US",
+            "ident": "CYN",
+            "name": "Coyle",
+            "type": "VORTAC",
+            "frequency_khz": "113400",
+            "latitude_deg": "39.817298889160156",
+            "longitude_deg": "-74.43160247802734",
+            "elevation_ft": "210",
+            "iso_country": "US",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.002",
+            "magnetic_variation_deg": "-12.388",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NJ24"
+        }
+    ]
+}

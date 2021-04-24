@@ -1,0 +1,150 @@
+{
+    "id": "4161",
+    "ident": "LFMT",
+    "type": "medium_airport",
+    "name": "Montpellier-Méditerranée Airport",
+    "latitude_deg": "43.57619857788086",
+    "longitude_deg": "3.96301007270813",
+    "elevation_ft": "17",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "Montpellier/Méditerranée",
+    "scheduled_service": "yes",
+    "gps_code": "LFMT",
+    "iata_code": "MPL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Montpellier_-_M%C3%A9diterran%C3%A9e_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235861",
+            "airport_ref": "4161",
+            "airport_ident": "LFMT",
+            "length_ft": "8530",
+            "width_ft": "164",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12L",
+            "le_latitude_deg": "43.5861",
+            "le_longitude_deg": "3.95573",
+            "le_elevation_ft": "17",
+            "le_heading_degT": "124",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30R",
+            "he_latitude_deg": "43.5728",
+            "he_longitude_deg": "3.98222",
+            "he_elevation_ft": "6",
+            "he_heading_degT": "304",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "235860",
+            "airport_ref": "4161",
+            "airport_ident": "LFMT",
+            "length_ft": "3609",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12R",
+            "le_latitude_deg": "43.5758",
+            "le_longitude_deg": "3.95189",
+            "le_elevation_ft": "10",
+            "le_heading_degT": "124",
+            "le_displaced_threshold_ft": "328",
+            "he_ident": "30L",
+            "he_latitude_deg": "43.5702",
+            "he_longitude_deg": "3.96309",
+            "he_elevation_ft": "7",
+            "he_heading_degT": "304",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52264",
+            "airport_ref": "4161",
+            "airport_ident": "LFMT",
+            "type": "APP",
+            "description": "MONTPELLIER APP",
+            "frequency_mhz": "120.375"
+        },
+        {
+            "id": "52265",
+            "airport_ref": "4161",
+            "airport_ident": "LFMT",
+            "type": "ATIS",
+            "description": "MONTPELLIER ATIS",
+            "frequency_mhz": "124.125"
+        },
+        {
+            "id": "52266",
+            "airport_ref": "4161",
+            "airport_ident": "LFMT",
+            "type": "GND",
+            "description": "MONTPELLIER GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "52267",
+            "airport_ref": "4161",
+            "airport_ident": "LFMT",
+            "type": "TWR",
+            "description": "MONTPELLIER TWR South sector",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "309617",
+            "airport_ref": "4161",
+            "airport_ident": "LFMT",
+            "type": "TWR",
+            "description": "MONTPELLIER TWR North sector",
+            "frequency_mhz": "118.775"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306341",
+        "code": "FR-OCC",
+        "local_code": "OCC",
+        "name": "Occitanie",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occitanie",
+        "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
+    },
+    "navaids": [
+        {
+            "id": "88014",
+            "filename": "Mediterranee_VOR-DME_FR",
+            "ident": "FJR",
+            "name": "Mediterranee",
+            "type": "VOR-DME",
+            "frequency_khz": "114450",
+            "latitude_deg": "43.578399658203125",
+            "longitude_deg": "3.974720001220703",
+            "elevation_ft": "17",
+            "iso_country": "FR",
+            "dme_frequency_khz": "114450",
+            "dme_channel": "091Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-0.122",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFMT"
+        }
+    ]
+}

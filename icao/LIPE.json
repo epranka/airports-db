@@ -1,0 +1,142 @@
+{
+    "id": "4354",
+    "ident": "LIPE",
+    "type": "large_airport",
+    "name": "Bologna Guglielmo Marconi Airport",
+    "latitude_deg": "44.5354",
+    "longitude_deg": "11.2887",
+    "elevation_ft": "123",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Bologna",
+    "scheduled_service": "yes",
+    "gps_code": "LIPE",
+    "iata_code": "BLQ",
+    "local_code": "BO08",
+    "home_link": "http://www.bologna-airport.it/?LN=UK",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bologna_Airport",
+    "keywords": "Guglielmo Marconi Airport, Borgo Panigale Airport",
+    "runways": [
+        {
+            "id": "237036",
+            "airport_ref": "4354",
+            "airport_ident": "LIPE",
+            "length_ft": "9186",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "44.5411",
+            "le_longitude_deg": "11.2729",
+            "le_elevation_ft": "120",
+            "le_heading_degT": "117",
+            "le_displaced_threshold_ft": "1007",
+            "he_ident": "30",
+            "he_latitude_deg": "44.5298",
+            "he_longitude_deg": "11.3044",
+            "he_elevation_ft": "120",
+            "he_heading_degT": "297",
+            "he_displaced_threshold_ft": "1188"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54286",
+            "airport_ref": "4354",
+            "airport_ident": "LIPE",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "54287",
+            "airport_ref": "4354",
+            "airport_ident": "LIPE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.875"
+        },
+        {
+            "id": "54288",
+            "airport_ref": "4354",
+            "airport_ident": "LIPE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "129.925"
+        },
+        {
+            "id": "54289",
+            "airport_ref": "4354",
+            "airport_ident": "LIPE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.8"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306367",
+        "code": "IT-45",
+        "local_code": "45",
+        "name": "Emilia-Romagna",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Emilia-Romagna",
+        "keywords": "ER"
+    },
+    "navaids": [
+        {
+            "id": "86242",
+            "filename": "Bologna_VOR-DME_IT",
+            "ident": "BOA",
+            "name": "Bologna",
+            "type": "VOR-DME",
+            "frequency_khz": "117100",
+            "latitude_deg": "44.536999",
+            "longitude_deg": "11.2907",
+            "elevation_ft": "156",
+            "iso_country": "IT",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.3",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIPE"
+        },
+        {
+            "id": "86243",
+            "filename": "Bologna_NDB_IT",
+            "ident": "BOA",
+            "name": "Bologna",
+            "type": "NDB",
+            "frequency_khz": "413",
+            "latitude_deg": "44.567298889160156",
+            "longitude_deg": "11.200200080871582",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.326",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LIPE"
+        }
+    ]
+}

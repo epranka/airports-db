@@ -1,0 +1,80 @@
+{
+    "id": "21324",
+    "ident": "KVIQ",
+    "type": "small_airport",
+    "name": "Neillsville Municipal Airport",
+    "latitude_deg": "44.558101654052734",
+    "longitude_deg": "-90.51219940185547",
+    "elevation_ft": "1237",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Neillsville",
+    "scheduled_service": "no",
+    "gps_code": "KVIQ",
+    "iata_code": "",
+    "local_code": "VIQ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244128",
+            "airport_ref": "21324",
+            "airport_ident": "KVIQ",
+            "length_ft": "3400",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "44.5586",
+            "le_longitude_deg": "-90.5187",
+            "le_elevation_ft": "1208",
+            "le_heading_degT": "95.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "44.5577",
+            "he_longitude_deg": "-90.5058",
+            "he_elevation_ft": "1237",
+            "he_heading_degT": "275.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67428",
+            "airport_ref": "21324",
+            "airport_ident": "KVIQ",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "67429",
+            "airport_ref": "21324",
+            "airport_ident": "KVIQ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

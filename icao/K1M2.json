@@ -1,0 +1,72 @@
+{
+    "id": "18490",
+    "ident": "K1M2",
+    "type": "small_airport",
+    "name": "Belzoni Municipal Airport",
+    "latitude_deg": "33.145198822021484",
+    "longitude_deg": "-90.51529693603516",
+    "elevation_ft": "110",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Belzoni",
+    "scheduled_service": "no",
+    "gps_code": "K1M2",
+    "iata_code": "",
+    "local_code": "1M2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244121",
+            "airport_ref": "18490",
+            "airport_ident": "K1M2",
+            "length_ft": "3000",
+            "width_ft": "50",
+            "surface": "ASPH-E",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "33.1417",
+            "le_longitude_deg": "-90.5178",
+            "le_elevation_ft": "109",
+            "le_heading_degT": "32",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "33.1487",
+            "he_longitude_deg": "-90.5127",
+            "he_elevation_ft": "109",
+            "he_heading_degT": "212",
+            "he_displaced_threshold_ft": "500"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67418",
+            "airport_ref": "18490",
+            "airport_ident": "K1M2",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "19951",
+    "ident": "KGHW",
+    "type": "small_airport",
+    "name": "Glenwood Municipal Airport",
+    "latitude_deg": "45.64390182495117",
+    "longitude_deg": "-95.32039642333984",
+    "elevation_ft": "1393",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Glenwood",
+    "scheduled_service": "no",
+    "gps_code": "KGHW",
+    "iata_code": "",
+    "local_code": "GHW",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241766",
+            "airport_ref": "19951",
+            "airport_ident": "KGHW",
+            "length_ft": "2801",
+            "width_ft": "209",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "45.6444",
+            "le_longitude_deg": "-95.3253",
+            "le_elevation_ft": "1380",
+            "le_heading_degT": "58",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "45.6486",
+            "he_longitude_deg": "-95.3161",
+            "he_elevation_ft": "1393",
+            "he_heading_degT": "238",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241767",
+            "airport_ref": "19951",
+            "airport_ident": "KGHW",
+            "length_ft": "4500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "45.6481",
+            "le_longitude_deg": "-95.3229",
+            "le_elevation_ft": "1390",
+            "le_heading_degT": "161",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "45.6364",
+            "he_longitude_deg": "-95.3176",
+            "he_elevation_ft": "1393",
+            "he_heading_degT": "341",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62525",
+            "airport_ref": "19951",
+            "airport_ident": "KGHW",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "34.6"
+        },
+        {
+            "id": "62526",
+            "airport_ref": "19951",
+            "airport_ident": "KGHW",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "62527",
+            "airport_ref": "19951",
+            "airport_ident": "KGHW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": ""
+    }
+}

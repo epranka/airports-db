@@ -1,0 +1,104 @@
+{
+    "id": "2098",
+    "ident": "DIDL",
+    "type": "medium_airport",
+    "name": "Daloa Airport",
+    "latitude_deg": "6.792809963226318",
+    "longitude_deg": "-6.473189830780029",
+    "elevation_ft": "823",
+    "continent": "AF",
+    "iso_country": "CI",
+    "iso_region": "CI-02",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "DIDL",
+    "iata_code": "DJO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237076",
+            "airport_ref": "2098",
+            "airport_ident": "DIDL",
+            "length_ft": "6562",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "6.78481",
+            "le_longitude_deg": "-6.47743",
+            "le_elevation_ft": "810",
+            "le_heading_degT": "28",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "6.80081",
+            "he_longitude_deg": "-6.46894",
+            "he_elevation_ft": "823",
+            "he_heading_degT": "208",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "323287",
+            "airport_ref": "2098",
+            "airport_ident": "DIDL",
+            "type": "AFIS",
+            "description": "",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "54359",
+            "airport_ref": "2098",
+            "airport_ident": "DIDL",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302564",
+        "code": "CI",
+        "name": "Côte d'Ivoire",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Côte_d'Ivoire",
+        "keywords": "Ivory Coast"
+    },
+    "region": {
+        "id": "303380",
+        "code": "CI-02",
+        "local_code": "02",
+        "name": "Haut-Sassandra",
+        "continent": "AF",
+        "iso_country": "CI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Sassandra",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87246",
+            "filename": "Daloa_NDB_CI",
+            "ident": "DA",
+            "name": "Daloa",
+            "type": "NDB",
+            "frequency_khz": "316",
+            "latitude_deg": "6.883470058441162",
+            "longitude_deg": "-6.466400146484375",
+            "elevation_ft": "",
+            "iso_country": "CI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.236",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DIDL"
+        }
+    ]
+}

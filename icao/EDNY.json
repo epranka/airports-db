@@ -1,0 +1,150 @@
+{
+    "id": "2256",
+    "ident": "EDNY",
+    "type": "medium_airport",
+    "name": "Friedrichshafen Airport",
+    "latitude_deg": "47.671298980699994",
+    "longitude_deg": "9.51148986816",
+    "elevation_ft": "1367",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Friedrichshafen",
+    "scheduled_service": "yes",
+    "gps_code": "EDNY",
+    "iata_code": "FDH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Friedrichshafen_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236263",
+            "airport_ref": "2256",
+            "airport_ident": "EDNY",
+            "length_ft": "7729",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "47.666",
+            "le_longitude_deg": "9.49789",
+            "le_elevation_ft": "1334",
+            "le_heading_degT": "60",
+            "le_displaced_threshold_ft": "885",
+            "he_ident": "24",
+            "he_latitude_deg": "47.6766",
+            "he_longitude_deg": "9.52509",
+            "he_elevation_ft": "1367",
+            "he_heading_degT": "240",
+            "he_displaced_threshold_ft": "675"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53131",
+            "airport_ref": "2256",
+            "airport_ident": "EDNY",
+            "type": "APP",
+            "description": "ZURICH ARR",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "53132",
+            "airport_ref": "2256",
+            "airport_ident": "EDNY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "129.6"
+        },
+        {
+            "id": "53133",
+            "airport_ref": "2256",
+            "airport_ident": "EDNY",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "53134",
+            "airport_ref": "2256",
+            "airport_ident": "EDNY",
+            "type": "RDO",
+            "description": "MUNCHEN INFO",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "53135",
+            "airport_ref": "2256",
+            "airport_ident": "EDNY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.075"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
+    },
+    "navaids": [
+        {
+            "id": "87991",
+            "filename": "Friedrichshafen_NDB_DE",
+            "ident": "FHA",
+            "name": "Friedrichshafen",
+            "type": "NDB",
+            "frequency_khz": "473",
+            "latitude_deg": "47.68119812011719",
+            "longitude_deg": "9.537779808044434",
+            "elevation_ft": "1366",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.069",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "EDNY"
+        },
+        {
+            "id": "87993",
+            "filename": "Friedrichshafen_DME_DE",
+            "ident": "FHD",
+            "name": "Friedrichshafen",
+            "type": "DME",
+            "frequency_khz": "112600",
+            "latitude_deg": "47.66640090942383",
+            "longitude_deg": "9.508859634399414",
+            "elevation_ft": "1400",
+            "iso_country": "DE",
+            "dme_frequency_khz": "112600",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.065",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDNY"
+        }
+    ]
+}

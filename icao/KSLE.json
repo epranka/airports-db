@@ -1,0 +1,166 @@
+{
+    "id": "3888",
+    "ident": "KSLE",
+    "type": "medium_airport",
+    "name": "Salem Municipal Airport/McNary Field",
+    "latitude_deg": "44.90950012",
+    "longitude_deg": "-123.0029984",
+    "elevation_ft": "214",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Salem",
+    "scheduled_service": "no",
+    "gps_code": "KSLE",
+    "iata_code": "SLE",
+    "local_code": "SLE",
+    "home_link": "http://www.flysalem.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/McNary_Field",
+    "keywords": "4OR1",
+    "runways": [
+        {
+            "id": "242289",
+            "airport_ref": "3888",
+            "airport_ident": "KSLE",
+            "length_ft": "5811",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "44.9169",
+            "le_longitude_deg": "-123.007",
+            "le_elevation_ft": "195",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "44.9031",
+            "he_longitude_deg": "-122.996",
+            "he_elevation_ft": "214",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242290",
+            "airport_ref": "3888",
+            "airport_ident": "KSLE",
+            "length_ft": "5145",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "44.9161",
+            "le_longitude_deg": "-123.003",
+            "le_elevation_ft": "196",
+            "le_heading_degT": "181",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "44.902",
+            "he_longitude_deg": "-123.004",
+            "he_elevation_ft": "211",
+            "he_heading_degT": "1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63621",
+            "airport_ref": "3888",
+            "airport_ident": "KSLE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.55"
+        },
+        {
+            "id": "63622",
+            "airport_ref": "3888",
+            "airport_ident": "KSLE",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "63623",
+            "airport_ref": "3888",
+            "airport_ident": "KSLE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "63624",
+            "airport_ref": "3888",
+            "airport_ident": "KSLE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "63625",
+            "airport_ref": "3888",
+            "airport_ident": "KSLE",
+            "type": "RDO",
+            "description": "MC MINNVILLE RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "63626",
+            "airport_ref": "3888",
+            "airport_ident": "KSLE",
+            "type": "TWR",
+            "description": "SALEM TWR",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "63627",
+            "airport_ref": "3888",
+            "airport_ident": "KSLE",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306113",
+        "code": "US-OR",
+        "local_code": "OR",
+        "name": "Oregon",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93717",
+            "filename": "Turno_NDB_US",
+            "ident": "SL",
+            "name": "Turno",
+            "type": "NDB",
+            "frequency_khz": "266",
+            "latitude_deg": "44.8474006652832",
+            "longitude_deg": "-122.95099639892578",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.533",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KSLE"
+        }
+    ]
+}

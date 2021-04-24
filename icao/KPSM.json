@@ -1,0 +1,160 @@
+{
+    "id": "3791",
+    "ident": "KPSM",
+    "type": "medium_airport",
+    "name": "Portsmouth International at Pease Airport",
+    "latitude_deg": "43.0778999329",
+    "longitude_deg": "-70.8233032227",
+    "elevation_ft": "100",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Portsmouth",
+    "scheduled_service": "yes",
+    "gps_code": "KPSM",
+    "iata_code": "PSM",
+    "local_code": "PSM",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pease_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244494",
+            "airport_ref": "3791",
+            "airport_ident": "KPSM",
+            "length_ft": "11321",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "43.0913",
+            "le_longitude_deg": "-70.8341",
+            "le_elevation_ft": "97",
+            "le_heading_degT": "149",
+            "le_displaced_threshold_ft": "803",
+            "he_ident": "34",
+            "he_latitude_deg": "43.0646",
+            "he_longitude_deg": "-70.8124",
+            "he_elevation_ft": "84",
+            "he_heading_degT": "329",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68214",
+            "airport_ref": "3791",
+            "airport_ident": "KPSM",
+            "type": "APP",
+            "description": "BOSTON APP",
+            "frequency_mhz": "125.05"
+        },
+        {
+            "id": "68215",
+            "airport_ref": "3791",
+            "airport_ident": "KPSM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "68216",
+            "airport_ref": "3791",
+            "airport_ident": "KPSM",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "33.58"
+        },
+        {
+            "id": "68217",
+            "airport_ref": "3791",
+            "airport_ident": "KPSM",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "125.05"
+        },
+        {
+            "id": "68218",
+            "airport_ref": "3791",
+            "airport_ident": "KPSM",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "127.05"
+        },
+        {
+            "id": "68219",
+            "airport_ref": "3791",
+            "airport_ident": "KPSM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "120.95"
+        },
+        {
+            "id": "68220",
+            "airport_ref": "3791",
+            "airport_ident": "KPSM",
+            "type": "MISC",
+            "description": "ARW ANG OPS",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "68221",
+            "airport_ref": "3791",
+            "airport_ident": "KPSM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "68222",
+            "airport_ref": "3791",
+            "airport_ident": "KPSM",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306106",
+        "code": "US-NH",
+        "local_code": "NH",
+        "name": "New Hampshire",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Hampshire",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92734",
+            "filename": "Pease_VORTAC_US",
+            "ident": "PSM",
+            "name": "Pease",
+            "type": "VORTAC",
+            "frequency_khz": "116500",
+            "latitude_deg": "43.08449935913086",
+            "longitude_deg": "-70.83200073242188",
+            "elevation_ft": "99",
+            "iso_country": "US",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-16.001",
+            "magnetic_variation_deg": "-15.448",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KPSM"
+        }
+    ]
+}

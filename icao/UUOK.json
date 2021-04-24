@@ -1,0 +1,142 @@
+{
+    "id": "26399",
+    "ident": "UUOK",
+    "type": "medium_airport",
+    "name": "Kursk East Airport",
+    "latitude_deg": "51.7505989074707",
+    "longitude_deg": "36.29560089111328",
+    "elevation_ft": "686",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KRS",
+    "municipality": "Kursk",
+    "scheduled_service": "yes",
+    "gps_code": "UUOK",
+    "iata_code": "URS",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kursk_Vostochny_Airport",
+    "keywords": "Kursk Vostochny Airport",
+    "runways": [
+        {
+            "id": "238522",
+            "airport_ref": "26399",
+            "airport_ident": "UUOK",
+            "length_ft": "8202",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "51.7569",
+            "le_longitude_deg": "36.2806",
+            "le_elevation_ft": "656",
+            "le_heading_degT": "124",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "51.7443",
+            "he_longitude_deg": "36.3106",
+            "he_elevation_ft": "686",
+            "he_heading_degT": "304",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56638",
+            "airport_ref": "26399",
+            "airport_ident": "UUOK",
+            "type": "APP",
+            "description": "KRUG",
+            "frequency_mhz": "131.5"
+        },
+        {
+            "id": "56639",
+            "airport_ref": "26399",
+            "airport_ident": "UUOK",
+            "type": "GND",
+            "description": "TAXIING",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "56640",
+            "airport_ref": "26399",
+            "airport_ident": "UUOK",
+            "type": "PMSV",
+            "description": "METRO",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "56641",
+            "airport_ref": "26399",
+            "airport_ident": "UUOK",
+            "type": "TWR",
+            "description": "START",
+            "frequency_mhz": "131.5"
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305297",
+        "code": "RU-KRS",
+        "local_code": "KRS",
+        "name": "Kursk Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kursk_Oblast",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88326",
+            "filename": "Kursk_NDB_RU",
+            "ident": "GE",
+            "name": "Kursk",
+            "type": "NDB",
+            "frequency_khz": "742",
+            "latitude_deg": "51.77669906616211",
+            "longitude_deg": "36.233299255371094",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.5",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "UUOK"
+        },
+        {
+            "id": "95365",
+            "filename": "Kursk_NDB_RU",
+            "ident": "WA",
+            "name": "Kursk",
+            "type": "NDB",
+            "frequency_khz": "742",
+            "latitude_deg": "51.724998474121094",
+            "longitude_deg": "36.358299255371094",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.505",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "UUOK"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "2558",
+    "ident": "EKVD",
+    "type": "medium_airport",
+    "name": "Kolding Vamdrup Airfield",
+    "latitude_deg": "55.436298",
+    "longitude_deg": "9.33092",
+    "elevation_ft": "143",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-83",
+    "municipality": "Kolding / Vamdrup",
+    "scheduled_service": "no",
+    "gps_code": "EKVD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235446",
+            "airport_ref": "2558",
+            "airport_ident": "EKVD",
+            "length_ft": "3203",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "55.4311",
+            "le_longitude_deg": "9.32805",
+            "le_elevation_ft": "128",
+            "le_heading_degT": "18",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "55.4395",
+            "he_longitude_deg": "9.33271",
+            "he_elevation_ft": "143",
+            "he_heading_degT": "198",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "235447",
+            "airport_ref": "2558",
+            "airport_ident": "EKVD",
+            "length_ft": "2310",
+            "width_ft": "75",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "55.4356",
+            "le_longitude_deg": "9.32549",
+            "le_elevation_ft": "142",
+            "le_heading_degT": "77",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "55.437",
+            "he_longitude_deg": "9.33632",
+            "he_elevation_ft": "141",
+            "he_heading_degT": "257",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51700",
+            "airport_ref": "2558",
+            "airport_ident": "EKVD",
+            "type": "AFIS",
+            "description": "VAMDRUP AFIS",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "51701",
+            "airport_ref": "2558",
+            "airport_ident": "EKVD",
+            "type": "APP",
+            "description": "SKRYDSTRUP APP",
+            "frequency_mhz": "127.475"
+        }
+    ],
+    "country": {
+        "id": "302682",
+        "code": "DK",
+        "name": "Denmark",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
+        "keywords": "Lufthavnene i Danmark"
+    },
+    "region": {
+        "id": "306327",
+        "code": "DK-83",
+        "local_code": "83",
+        "name": "South Denmark",
+        "continent": "EU",
+        "iso_country": "DK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Denmark",
+        "keywords": "Syddanmark"
+    }
+}

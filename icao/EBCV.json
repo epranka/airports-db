@@ -1,0 +1,158 @@
+{
+    "id": "2158",
+    "ident": "EBCV",
+    "type": "medium_airport",
+    "name": "Chièvres Air Base",
+    "latitude_deg": "50.575801849365234",
+    "longitude_deg": "3.8310000896453857",
+    "elevation_ft": "194",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-WHT",
+    "municipality": "Chièvres",
+    "scheduled_service": "no",
+    "gps_code": "EBCV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chievres_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233630",
+            "airport_ref": "2158",
+            "airport_ident": "EBCV",
+            "length_ft": "5386",
+            "width_ft": "164",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "50.5743",
+            "le_longitude_deg": "3.81772",
+            "le_elevation_ft": "178",
+            "le_heading_degT": "80",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "50.5774",
+            "he_longitude_deg": "3.84443",
+            "he_elevation_ft": "182",
+            "he_heading_degT": "260",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49334",
+            "airport_ref": "2158",
+            "airport_ident": "EBCV",
+            "type": "ARR",
+            "description": "BRUSSELS APP",
+            "frequency_mhz": "126.625"
+        },
+        {
+            "id": "49335",
+            "airport_ref": "2158",
+            "airport_ident": "EBCV",
+            "type": "ATIS",
+            "description": "ASOS 3",
+            "frequency_mhz": "37.162"
+        },
+        {
+            "id": "49336",
+            "airport_ref": "2158",
+            "airport_ident": "EBCV",
+            "type": "DEP",
+            "description": "BRUSSELS DEP",
+            "frequency_mhz": "126.625"
+        },
+        {
+            "id": "49337",
+            "airport_ref": "2158",
+            "airport_ident": "EBCV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "141.75"
+        },
+        {
+            "id": "49338",
+            "airport_ref": "2158",
+            "airport_ident": "EBCV",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "27.91"
+        },
+        {
+            "id": "49339",
+            "airport_ref": "2158",
+            "airport_ident": "EBCV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "136.5"
+        }
+    ],
+    "country": {
+        "id": "302676",
+        "code": "BE",
+        "name": "Belgium",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
+        "keywords": "Aéroports de Belgique,Luchthavens van België"
+    },
+    "region": {
+        "id": "303076",
+        "code": "BE-WHT",
+        "local_code": "WHT",
+        "name": "Hainaut Province",
+        "continent": "EU",
+        "iso_country": "BE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hainaut_Province",
+        "keywords": "Wallonia, Walloon Region"
+    },
+    "navaids": [
+        {
+            "id": "86810",
+            "filename": "Chièvres_VOR_BE",
+            "ident": "CIV",
+            "name": "Chièvres",
+            "type": "VOR",
+            "frequency_khz": "113200",
+            "latitude_deg": "50.57389831542969",
+            "longitude_deg": "3.832779884338379",
+            "elevation_ft": "221",
+            "iso_country": "BE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.307",
+            "magnetic_variation_deg": "-0.458",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EBCV"
+        },
+        {
+            "id": "86811",
+            "filename": "Chièvres_TACAN_BE",
+            "ident": "CIV",
+            "name": "Chièvres",
+            "type": "TACAN",
+            "frequency_khz": "113200",
+            "latitude_deg": "50.57229995727539",
+            "longitude_deg": "3.8218300342559814",
+            "elevation_ft": "185",
+            "iso_country": "BE",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-0.46",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EBCV"
+        }
+    ]
+}

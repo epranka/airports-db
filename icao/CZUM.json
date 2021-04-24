@@ -1,0 +1,120 @@
+{
+    "id": "2043",
+    "ident": "CZUM",
+    "type": "small_airport",
+    "name": "Churchill Falls Airport",
+    "latitude_deg": "53.5619010925293",
+    "longitude_deg": "-64.10639953613281",
+    "elevation_ft": "1442",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NL",
+    "municipality": "Churchill Falls",
+    "scheduled_service": "yes",
+    "gps_code": "CZUM",
+    "iata_code": "ZUM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Churchill_Falls_Airport",
+    "keywords": "ZUM",
+    "runways": [
+        {
+            "id": "234532",
+            "airport_ref": "2043",
+            "airport_ident": "CZUM",
+            "length_ft": "5500",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "53.5645",
+            "le_longitude_deg": "-64.1182",
+            "le_elevation_ft": "1436",
+            "le_heading_degT": "104.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "53.5607",
+            "he_longitude_deg": "-64.0937",
+            "he_elevation_ft": "1429",
+            "he_heading_degT": "284.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50007",
+            "airport_ref": "2043",
+            "airport_ident": "CZUM",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "50005",
+            "airport_ref": "2043",
+            "airport_ident": "CZUM",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "50006",
+            "airport_ref": "2043",
+            "airport_ident": "CZUM",
+            "type": "CNTR",
+            "description": "GANDER CNTR",
+            "frequency_mhz": "126.025"
+        },
+        {
+            "id": "50008",
+            "airport_ref": "2043",
+            "airport_ident": "CZUM",
+            "type": "RCO",
+            "description": "HALIFAX RDO",
+            "frequency_mhz": "123.25"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303298",
+        "code": "CA-NL",
+        "local_code": "NL",
+        "name": "Newfoundland and Labrador",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94896",
+            "filename": "Churchill_Falls_NDB_CA",
+            "ident": "UM",
+            "name": "Churchill Falls",
+            "type": "NDB",
+            "frequency_khz": "233",
+            "latitude_deg": "53.590599060058594",
+            "longitude_deg": "-64.23560333251953",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-23.222",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CZUM"
+        }
+    ]
+}

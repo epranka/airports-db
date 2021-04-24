@@ -1,0 +1,80 @@
+{
+    "id": "4",
+    "ident": "AGGM",
+    "type": "medium_airport",
+    "name": "Munda Airport",
+    "latitude_deg": "-8.32797",
+    "longitude_deg": "157.263",
+    "elevation_ft": "10",
+    "continent": "OC",
+    "iso_country": "SB",
+    "iso_region": "SB-WE",
+    "municipality": "Munda",
+    "scheduled_service": "yes",
+    "gps_code": "AGGM",
+    "iata_code": "MUA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Munda_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233755",
+            "airport_ref": "4",
+            "airport_ident": "AGGM",
+            "length_ft": "4593",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "-8.32918",
+            "le_longitude_deg": "157.257",
+            "le_elevation_ft": "7",
+            "le_heading_degT": "78.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "-8.32676",
+            "he_longitude_deg": "157.269",
+            "he_elevation_ft": "9",
+            "he_heading_degT": "258.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49557",
+            "airport_ref": "4",
+            "airport_ident": "AGGM",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "49558",
+            "airport_ref": "4",
+            "airport_ident": "AGGM",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302781",
+        "code": "SB",
+        "name": "Solomon Islands",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Solomon_Islands",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305382",
+        "code": "SB-WE",
+        "local_code": "WE",
+        "name": "Western",
+        "continent": "OC",
+        "iso_country": "SB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": "3842",
+    "ident": "KRDG",
+    "type": "medium_airport",
+    "name": "Reading Regional Airport (Carl A Spaatz Field)",
+    "latitude_deg": "40.378502",
+    "longitude_deg": "-75.965202",
+    "elevation_ft": "344",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Reading",
+    "scheduled_service": "yes",
+    "gps_code": "KRDG",
+    "iata_code": "RDG",
+    "local_code": "RDG",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Reading_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241096",
+            "airport_ref": "3842",
+            "airport_ident": "KRDG",
+            "length_ft": "6350",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "40.3836",
+            "le_longitude_deg": "-75.9781",
+            "le_elevation_ft": "344",
+            "le_heading_degT": "121.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "40.3745",
+            "he_longitude_deg": "-75.9586",
+            "he_elevation_ft": "330",
+            "he_heading_degT": "301.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241097",
+            "airport_ref": "3842",
+            "airport_ident": "KRDG",
+            "length_ft": "5151",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.3848",
+            "le_longitude_deg": "-75.9627",
+            "le_elevation_ft": "291",
+            "le_heading_degT": "172.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "40.3708",
+            "he_longitude_deg": "-75.9601",
+            "he_elevation_ft": "342",
+            "he_heading_degT": "352.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61140",
+            "airport_ref": "3842",
+            "airport_ident": "KRDG",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "125.15"
+        },
+        {
+            "id": "61141",
+            "airport_ref": "3842",
+            "airport_ident": "KRDG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "61142",
+            "airport_ref": "3842",
+            "airport_ident": "KRDG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "61143",
+            "airport_ref": "3842",
+            "airport_ident": "KRDG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "61144",
+            "airport_ref": "3842",
+            "airport_ident": "KRDG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "61145",
+            "airport_ref": "3842",
+            "airport_ident": "KRDG",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93021",
+            "filename": "Shapp_NDB_US",
+            "ident": "RD",
+            "name": "Shapp",
+            "type": "NDB",
+            "frequency_khz": "356",
+            "latitude_deg": "40.30649948120117",
+            "longitude_deg": "-75.94960021972656",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.502",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KRDG"
+        }
+    ]
+}

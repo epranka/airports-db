@@ -1,0 +1,142 @@
+{
+    "id": "3611",
+    "ident": "KINK",
+    "type": "medium_airport",
+    "name": "Winkler County Airport",
+    "latitude_deg": "31.779600143399996",
+    "longitude_deg": "-103.200996399",
+    "elevation_ft": "2822",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Wink",
+    "scheduled_service": "no",
+    "gps_code": "KINK",
+    "iata_code": "INK",
+    "local_code": "INK",
+    "home_link": "http://www.co.winkler.tx.us/default.aspx?Winkler_County/County.Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Winkler_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243579",
+            "airport_ref": "3611",
+            "airport_ident": "KINK",
+            "length_ft": "3515",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "31.7797",
+            "le_longitude_deg": "-103.205",
+            "le_elevation_ft": "2818",
+            "le_heading_degT": "50.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "31.7858",
+            "he_longitude_deg": "-103.196",
+            "he_elevation_ft": "2811",
+            "he_heading_degT": "230.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243580",
+            "airport_ref": "3611",
+            "airport_ident": "KINK",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "31.783",
+            "le_longitude_deg": "-103.208",
+            "le_elevation_ft": "2822",
+            "le_heading_degT": "140.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "31.7724",
+            "he_longitude_deg": "-103.198",
+            "he_elevation_ft": "2812",
+            "he_heading_degT": "320.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66306",
+            "airport_ref": "3611",
+            "airport_ident": "KINK",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "66307",
+            "airport_ref": "3611",
+            "airport_ident": "KINK",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "133.1"
+        },
+        {
+            "id": "66308",
+            "airport_ref": "3611",
+            "airport_ident": "KINK",
+            "type": "RDO",
+            "description": "SAN ANGELO RDO",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "66309",
+            "airport_ref": "3611",
+            "airport_ident": "KINK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89272",
+            "filename": "Wink_VORTAC_US",
+            "ident": "INK",
+            "name": "Wink",
+            "type": "VORTAC",
+            "frequency_khz": "112100",
+            "latitude_deg": "31.874799728393555",
+            "longitude_deg": "-103.24400329589844",
+            "elevation_ft": "2860",
+            "iso_country": "US",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.012",
+            "magnetic_variation_deg": "8.032",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KINK"
+        }
+    ]
+}

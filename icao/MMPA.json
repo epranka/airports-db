@@ -1,0 +1,96 @@
+{
+    "id": "4737",
+    "ident": "MMPA",
+    "type": "medium_airport",
+    "name": "El Tajín National Airport",
+    "latitude_deg": "20.6026992798",
+    "longitude_deg": "-97.46080017090001",
+    "elevation_ft": "497",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-VER",
+    "municipality": "Poza Rica",
+    "scheduled_service": "yes",
+    "gps_code": "MMPA",
+    "iata_code": "PAZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/El_Taj%C3%ADn_National_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237762",
+            "airport_ref": "4737",
+            "airport_ident": "MMPA",
+            "length_ft": "5906",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "20.6025",
+            "le_longitude_deg": "-97.4695",
+            "le_elevation_ft": "497",
+            "le_heading_degT": "89.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "20.6028",
+            "he_longitude_deg": "-97.4522",
+            "he_elevation_ft": "497",
+            "he_heading_degT": "269.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55505",
+            "airport_ref": "4737",
+            "airport_ident": "MMPA",
+            "type": "AFIS",
+            "description": "POZA RICA INFO",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304820",
+        "code": "MX-VER",
+        "local_code": "VER",
+        "name": "Veracruz",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Veracruz",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92285",
+            "filename": "Poza_Rica_VOR-DME_MX",
+            "ident": "PAZ",
+            "name": "Poza Rica",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "20.60059928894043",
+            "longitude_deg": "-97.4551010131836",
+            "elevation_ft": "497",
+            "iso_country": "MX",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.004",
+            "magnetic_variation_deg": "5.168",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMPA"
+        }
+    ]
+}

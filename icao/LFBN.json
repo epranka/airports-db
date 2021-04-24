@@ -1,0 +1,80 @@
+{
+    "id": "4069",
+    "ident": "LFBN",
+    "type": "medium_airport",
+    "name": "Niort-Souché Airport",
+    "latitude_deg": "46.313477",
+    "longitude_deg": "-0.394529",
+    "elevation_ft": "203",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Niort/Souché",
+    "scheduled_service": "no",
+    "gps_code": "LFBN",
+    "iata_code": "NIT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235992",
+            "airport_ref": "4069",
+            "airport_ident": "LFBN",
+            "length_ft": "5774",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "46.3083",
+            "le_longitude_deg": "-0.412097",
+            "le_elevation_ft": "144",
+            "le_heading_degT": "68",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "46.3145",
+            "he_longitude_deg": "-0.390731",
+            "he_elevation_ft": "201",
+            "he_heading_degT": "248",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52529",
+            "airport_ref": "4069",
+            "airport_ident": "LFBN",
+            "type": "AFIS",
+            "description": "NIORT INFO",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "52530",
+            "airport_ref": "4069",
+            "airport_ident": "LFBN",
+            "type": "APP",
+            "description": "COGNAC APP",
+            "frequency_mhz": "122.55"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306352",
+        "code": "FR-NAQ",
+        "local_code": "NAQ",
+        "name": "Nouvelle-Aquitaine",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
+        "keywords": "Limousin, Poitou-Charentes"
+    }
+}

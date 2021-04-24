@@ -1,0 +1,190 @@
+{
+    "id": "3524",
+    "ident": "KFAT",
+    "type": "large_airport",
+    "name": "Fresno Yosemite International Airport",
+    "latitude_deg": "36.776199",
+    "longitude_deg": "-119.718002",
+    "elevation_ft": "336",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Fresno",
+    "scheduled_service": "yes",
+    "gps_code": "KFAT",
+    "iata_code": "FAT",
+    "local_code": "FAT",
+    "home_link": "https://flyfresno.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fresno_Yosemite_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243596",
+            "airport_ref": "3524",
+            "airport_ident": "KFAT",
+            "length_ft": "9217",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11L",
+            "le_latitude_deg": "36.7835",
+            "le_longitude_deg": "-119.729",
+            "le_elevation_ft": "333",
+            "le_heading_degT": "125.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29R",
+            "he_latitude_deg": "36.7688",
+            "he_longitude_deg": "-119.704",
+            "he_elevation_ft": "333",
+            "he_heading_degT": "305.4",
+            "he_displaced_threshold_ft": "312"
+        },
+        {
+            "id": "243595",
+            "airport_ref": "3524",
+            "airport_ident": "KFAT",
+            "length_ft": "7205",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11R",
+            "le_latitude_deg": "36.782",
+            "le_longitude_deg": "-119.73",
+            "le_elevation_ft": "331",
+            "le_heading_degT": "125",
+            "le_displaced_threshold_ft": "1448",
+            "he_ident": "29L",
+            "he_latitude_deg": "36.7705",
+            "he_longitude_deg": "-119.71",
+            "he_elevation_ft": "330",
+            "he_heading_degT": "305",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66347",
+            "airport_ref": "3524",
+            "airport_ident": "KFAT",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "35.195"
+        },
+        {
+            "id": "66346",
+            "airport_ref": "3524",
+            "airport_ident": "KFAT",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "66348",
+            "airport_ref": "3524",
+            "airport_ident": "KFAT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "121.35"
+        },
+        {
+            "id": "66349",
+            "airport_ref": "3524",
+            "airport_ident": "KFAT",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "66350",
+            "airport_ref": "3524",
+            "airport_ident": "KFAT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "66351",
+            "airport_ref": "3524",
+            "airport_ident": "KFAT",
+            "type": "MISC",
+            "description": "ANG OPS",
+            "frequency_mhz": "138.15"
+        },
+        {
+            "id": "66352",
+            "airport_ref": "3524",
+            "airport_ident": "KFAT",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "40.95"
+        },
+        {
+            "id": "66353",
+            "airport_ref": "3524",
+            "airport_ident": "KFAT",
+            "type": "RDO",
+            "description": "RANCHO RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "66354",
+            "airport_ref": "3524",
+            "airport_ident": "KFAT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "66355",
+            "airport_ref": "3524",
+            "airport_ident": "KFAT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87214",
+            "filename": "Clovis_VORTAC_US",
+            "ident": "CZQ",
+            "name": "Clovis",
+            "type": "VORTAC",
+            "frequency_khz": "112900",
+            "latitude_deg": "36.884300231933594",
+            "longitude_deg": "-119.81500244140625",
+            "elevation_ft": "363",
+            "iso_country": "US",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "14.054",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KFAT"
+        }
+    ]
+}

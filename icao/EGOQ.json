@@ -1,0 +1,96 @@
+{
+    "id": "3073",
+    "ident": "EGOQ",
+    "type": "small_airport",
+    "name": "RAF Mona",
+    "latitude_deg": "53.258598",
+    "longitude_deg": "-4.37355",
+    "elevation_ft": "202",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-WLS",
+    "municipality": "Holyhead Island",
+    "scheduled_service": "no",
+    "gps_code": "EGOQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Mona",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239474",
+            "airport_ref": "3073",
+            "airport_ident": "EGOQ",
+            "length_ft": "5180",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "53.2539",
+            "le_longitude_deg": "-4.38096",
+            "le_elevation_ft": "187",
+            "le_heading_degT": "37",
+            "le_displaced_threshold_ft": "286",
+            "he_ident": "22",
+            "he_latitude_deg": "53.2651",
+            "he_longitude_deg": "-4.36662",
+            "he_elevation_ft": "197",
+            "he_heading_degT": "217",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58267",
+            "airport_ref": "3073",
+            "airport_ident": "EGOQ",
+            "type": "APP",
+            "description": "VALLEY APP",
+            "frequency_mhz": "122.225"
+        },
+        {
+            "id": "58268",
+            "airport_ref": "3073",
+            "airport_ident": "EGOQ",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "58269",
+            "airport_ref": "3073",
+            "airport_ident": "EGOQ",
+            "type": "RDR",
+            "description": "RDR",
+            "frequency_mhz": "125.225"
+        },
+        {
+            "id": "58270",
+            "airport_ref": "3073",
+            "airport_ident": "EGOQ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.75"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306376",
+        "code": "GB-WLS",
+        "local_code": "WLS",
+        "name": "Wales",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wales",
+        "keywords": "keep"
+    }
+}

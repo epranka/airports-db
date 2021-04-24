@@ -1,0 +1,96 @@
+{
+    "id": "2435",
+    "ident": "EGMC",
+    "type": "medium_airport",
+    "name": "Southend Airport",
+    "latitude_deg": "51.5714",
+    "longitude_deg": "0.695556",
+    "elevation_ft": "49",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "London",
+    "scheduled_service": "yes",
+    "gps_code": "EGMC",
+    "iata_code": "SEN",
+    "local_code": "",
+    "home_link": "http://www.southendairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/London_Southend_Airport",
+    "keywords": "RAF Rochford",
+    "runways": [
+        {
+            "id": "239473",
+            "airport_ref": "2435",
+            "airport_ident": "EGMC",
+            "length_ft": "6089",
+            "width_ft": "118",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "51.5672",
+            "le_longitude_deg": "0.686268",
+            "le_elevation_ft": "49",
+            "le_heading_degT": "54",
+            "le_displaced_threshold_ft": "571",
+            "he_ident": "23",
+            "he_latitude_deg": "51.5756",
+            "he_longitude_deg": "0.704996",
+            "he_elevation_ft": "37",
+            "he_heading_degT": "234",
+            "he_displaced_threshold_ft": "479"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58263",
+            "airport_ref": "2435",
+            "airport_ident": "EGMC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "130.775"
+        },
+        {
+            "id": "58264",
+            "airport_ref": "2435",
+            "airport_ident": "EGMC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "58265",
+            "airport_ref": "2435",
+            "airport_ident": "EGMC",
+            "type": "RDR",
+            "description": "RDR",
+            "frequency_mhz": "130.775"
+        },
+        {
+            "id": "58266",
+            "airport_ref": "2435",
+            "airport_ident": "EGMC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.725"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

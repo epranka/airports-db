@@ -1,0 +1,110 @@
+{
+    "id": "19192",
+    "ident": "KRCM",
+    "type": "small_airport",
+    "name": "Skyhaven Airport",
+    "latitude_deg": "38.78419876098633",
+    "longitude_deg": "-93.80290222167969",
+    "elevation_ft": "798",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Warrensburg",
+    "scheduled_service": "no",
+    "gps_code": "KRCM",
+    "iata_code": "",
+    "local_code": "RCM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Formerly 9K4",
+    "runways": [
+        {
+            "id": "242206",
+            "airport_ref": "19192",
+            "airport_ident": "KRCM",
+            "length_ft": "2801",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "38.784",
+            "le_longitude_deg": "-93.8068",
+            "le_elevation_ft": "798",
+            "le_heading_degT": "137",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "38.7784",
+            "he_longitude_deg": "-93.8001",
+            "he_elevation_ft": "786",
+            "he_heading_degT": "317",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242207",
+            "airport_ref": "19192",
+            "airport_ident": "KRCM",
+            "length_ft": "4206",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "38.7919",
+            "le_longitude_deg": "-93.8014",
+            "le_elevation_ft": "796",
+            "le_heading_degT": "188.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "38.7804",
+            "he_longitude_deg": "-93.8035",
+            "he_elevation_ft": "789",
+            "he_heading_degT": "8.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63440",
+            "airport_ref": "19192",
+            "airport_ident": "KRCM",
+            "type": "APP",
+            "description": "WHITEMAN APP",
+            "frequency_mhz": "127.45"
+        },
+        {
+            "id": "63441",
+            "airport_ref": "19192",
+            "airport_ident": "KRCM",
+            "type": "DEP",
+            "description": "WHITEMAN DEP",
+            "frequency_mhz": "125.925"
+        },
+        {
+            "id": "63442",
+            "airport_ref": "19192",
+            "airport_ident": "KRCM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

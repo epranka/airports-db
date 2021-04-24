@@ -1,0 +1,110 @@
+{
+    "id": "20495",
+    "ident": "KMEZ",
+    "type": "small_airport",
+    "name": "Mena Intermountain Municipal Airport",
+    "latitude_deg": "34.545399",
+    "longitude_deg": "-94.202698",
+    "elevation_ft": "1080",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Mena",
+    "scheduled_service": "no",
+    "gps_code": "KMEZ",
+    "iata_code": "",
+    "local_code": "MEZ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mena_Intermountain_Municipal_Airport",
+    "keywords": "M39",
+    "runways": [
+        {
+            "id": "241156",
+            "airport_ref": "20495",
+            "airport_ident": "KMEZ",
+            "length_ft": "6000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "34.543",
+            "le_longitude_deg": "-94.2081",
+            "le_elevation_ft": "1077",
+            "le_heading_degT": "91.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "34.5424",
+            "he_longitude_deg": "-94.1882",
+            "he_elevation_ft": "1050",
+            "he_heading_degT": "271.3",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241157",
+            "airport_ref": "20495",
+            "airport_ident": "KMEZ",
+            "length_ft": "5000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "34.5555",
+            "le_longitude_deg": "-94.209",
+            "le_elevation_ft": "1040",
+            "le_heading_degT": "174",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "34.5418",
+            "he_longitude_deg": "-94.2071",
+            "he_elevation_ft": "1079",
+            "he_heading_degT": "354",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61264",
+            "airport_ref": "20495",
+            "airport_ident": "KMEZ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.025"
+        },
+        {
+            "id": "61265",
+            "airport_ref": "20495",
+            "airport_ident": "KMEZ",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "61266",
+            "airport_ref": "20495",
+            "airport_ident": "KMEZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

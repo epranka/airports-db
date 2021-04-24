@@ -1,0 +1,80 @@
+{
+    "id": "2517",
+    "ident": "EHDR",
+    "type": "small_airport",
+    "name": "Drachten Airfield",
+    "latitude_deg": "53.119202",
+    "longitude_deg": "6.12972",
+    "elevation_ft": "14",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-FR",
+    "municipality": "Drachten",
+    "scheduled_service": "no",
+    "gps_code": "EHDR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Drachten_Airfield",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237918",
+            "airport_ref": "2517",
+            "airport_ident": "EHDR",
+            "length_ft": "3117",
+            "width_ft": "102",
+            "surface": "PEM",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "53.118",
+            "le_longitude_deg": "6.1229",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "74.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "53.1203",
+            "he_longitude_deg": "6.13654",
+            "he_elevation_ft": "14",
+            "he_heading_degT": "254.4",
+            "he_displaced_threshold_ft": "394"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55732",
+            "airport_ref": "2517",
+            "airport_ident": "EHDR",
+            "type": "FIR",
+            "description": "Dutch MIL",
+            "frequency_mhz": "132.355"
+        },
+        {
+            "id": "75296",
+            "airport_ref": "2517",
+            "airport_ident": "EHDR",
+            "type": "INFO",
+            "description": "Drachten Radio",
+            "frequency_mhz": "119.655"
+        }
+    ],
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland,Luchthavens van Nederland"
+    },
+    "region": {
+        "id": "304934",
+        "code": "NL-FR",
+        "local_code": "FR",
+        "name": "Friesland",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Friesland",
+        "keywords": ""
+    }
+}

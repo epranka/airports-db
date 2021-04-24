@@ -1,0 +1,110 @@
+{
+    "id": "19919",
+    "ident": "KFZY",
+    "type": "small_airport",
+    "name": "Oswego County Airport",
+    "latitude_deg": "43.350799560546875",
+    "longitude_deg": "-76.38809967041016",
+    "elevation_ft": "475",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Fulton",
+    "scheduled_service": "no",
+    "gps_code": "KFZY",
+    "iata_code": "",
+    "local_code": "FZY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244730",
+            "airport_ref": "19919",
+            "airport_ident": "KFZY",
+            "length_ft": "3996",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "43.3465",
+            "le_longitude_deg": "-76.3936",
+            "le_elevation_ft": "457",
+            "le_heading_degT": "46.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "43.354",
+            "he_longitude_deg": "-76.3826",
+            "he_elevation_ft": "469",
+            "he_heading_degT": "226.8",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244731",
+            "airport_ref": "19919",
+            "airport_ident": "KFZY",
+            "length_ft": "5197",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "43.3564",
+            "le_longitude_deg": "-76.3947",
+            "le_elevation_ft": "447",
+            "le_heading_degT": "137",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "43.346",
+            "he_longitude_deg": "-76.3814",
+            "he_elevation_ft": "475",
+            "he_heading_degT": "317",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68734",
+            "airport_ref": "19919",
+            "airport_ident": "KFZY",
+            "type": "A/D",
+            "description": "SYRACUSE APP/DEP",
+            "frequency_mhz": "134.275"
+        },
+        {
+            "id": "68735",
+            "airport_ref": "19919",
+            "airport_ident": "KFZY",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "68736",
+            "airport_ref": "19919",
+            "airport_ident": "KFZY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

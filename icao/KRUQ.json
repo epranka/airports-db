@@ -1,0 +1,104 @@
+{
+    "id": "20968",
+    "ident": "KRUQ",
+    "type": "small_airport",
+    "name": "Mid-Carolina Regional Airport",
+    "latitude_deg": "35.645901",
+    "longitude_deg": "-80.520302",
+    "elevation_ft": "772",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Salisbury",
+    "scheduled_service": "no",
+    "gps_code": "KRUQ",
+    "iata_code": "SRW",
+    "local_code": "RUQ",
+    "home_link": "https://www.rowancountync.gov/GOVERNMENT/Departments/Airport.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rowan_County_Airport",
+    "keywords": "Rowan County Airport",
+    "runways": [
+        {
+            "id": "240045",
+            "airport_ref": "20968",
+            "airport_ident": "KRUQ",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "35.6386",
+            "le_longitude_deg": "-80.5228",
+            "le_elevation_ft": "770",
+            "le_heading_degT": "16",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "35.6531",
+            "he_longitude_deg": "-80.5177",
+            "he_elevation_ft": "767",
+            "he_heading_degT": "196",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59382",
+            "airport_ref": "20968",
+            "airport_ident": "KRUQ",
+            "type": "A/D",
+            "description": "CHARLOTTE APP/DEP",
+            "frequency_mhz": "128.32"
+        },
+        {
+            "id": "59383",
+            "airport_ref": "20968",
+            "airport_ident": "KRUQ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.175"
+        },
+        {
+            "id": "59384",
+            "airport_ref": "20968",
+            "airport_ident": "KRUQ",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "127.35"
+        },
+        {
+            "id": "59385",
+            "airport_ref": "20968",
+            "airport_ident": "KRUQ",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "42"
+        },
+        {
+            "id": "59386",
+            "airport_ref": "20968",
+            "airport_ident": "KRUQ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.72"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "4066",
+    "ident": "LFBK",
+    "type": "medium_airport",
+    "name": "Montluçon-Guéret Airport",
+    "latitude_deg": "46.222599029541016",
+    "longitude_deg": "2.363960027694702",
+    "elevation_ft": "1497",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "Montluçon/Guéret",
+    "scheduled_service": "no",
+    "gps_code": "LFBK",
+    "iata_code": "MCU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236021",
+            "airport_ref": "4066",
+            "airport_ident": "LFBK",
+            "length_ft": "6234",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "46.231",
+            "le_longitude_deg": "2.36125",
+            "le_elevation_ft": "1346",
+            "le_heading_degT": "167",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "46.2143",
+            "he_longitude_deg": "2.36667",
+            "he_elevation_ft": "1354",
+            "he_heading_degT": "347",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52580",
+            "airport_ref": "4066",
+            "airport_ident": "LFBK",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.4"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306352",
+        "code": "FR-NAQ",
+        "local_code": "NAQ",
+        "name": "Nouvelle-Aquitaine",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
+        "keywords": "Limousin, Poitou-Charentes"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "21407",
+    "ident": "KX60",
+    "type": "small_airport",
+    "name": "Williston Municipal Airport",
+    "latitude_deg": "29.35420036315918",
+    "longitude_deg": "-82.472900390625",
+    "elevation_ft": "76",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Williston",
+    "scheduled_service": "no",
+    "gps_code": "KX60",
+    "iata_code": "",
+    "local_code": "X60",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Williston_Municipal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243961",
+            "airport_ref": "21407",
+            "airport_ident": "KX60",
+            "length_ft": "6390",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "29.3526",
+            "le_longitude_deg": "-82.4765",
+            "le_elevation_ft": "74",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "29.365",
+            "he_longitude_deg": "-82.4624",
+            "he_elevation_ft": "71",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": "1366"
+        },
+        {
+            "id": "243962",
+            "airport_ref": "21407",
+            "airport_ident": "KX60",
+            "length_ft": "4330",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "29.3552",
+            "le_longitude_deg": "-82.4801",
+            "le_elevation_ft": "70",
+            "le_heading_degT": "138.5",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "32",
+            "he_latitude_deg": "29.3461",
+            "he_longitude_deg": "-82.4709",
+            "he_elevation_ft": "65",
+            "he_heading_degT": "318.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67109",
+            "airport_ref": "21407",
+            "airport_ident": "KX60",
+            "type": "A/D",
+            "description": "JACKSONVILLE APP/DEP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "67110",
+            "airport_ref": "21407",
+            "airport_ident": "KX60",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "67111",
+            "airport_ref": "21407",
+            "airport_ident": "KX60",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

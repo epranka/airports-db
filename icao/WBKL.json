@@ -1,0 +1,142 @@
+{
+    "id": "26815",
+    "ident": "WBKL",
+    "type": "medium_airport",
+    "name": "Labuan Airport",
+    "latitude_deg": "5.300680160522461",
+    "longitude_deg": "115.25",
+    "elevation_ft": "101",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-15",
+    "municipality": "Labuan",
+    "scheduled_service": "yes",
+    "gps_code": "WBKL",
+    "iata_code": "LBU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Labuan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237810",
+            "airport_ref": "26815",
+            "airport_ident": "WBKL",
+            "length_ft": "7546",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "5.30921",
+            "le_longitude_deg": "115.244",
+            "le_elevation_ft": "101",
+            "le_heading_degT": "145.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "5.29216",
+            "he_longitude_deg": "115.256",
+            "he_elevation_ft": "101",
+            "he_heading_degT": "325.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55556",
+            "airport_ref": "26815",
+            "airport_ident": "WBKL",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "55557",
+            "airport_ref": "26815",
+            "airport_ident": "WBKL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "55558",
+            "airport_ref": "26815",
+            "airport_ident": "WBKL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.35"
+        },
+        {
+            "id": "55559",
+            "airport_ref": "26815",
+            "airport_ident": "WBKL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302653",
+        "code": "MY",
+        "name": "Malaysia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
+        "keywords": "Lapangan Terbang Malaysia"
+    },
+    "region": {
+        "id": "304837",
+        "code": "MY-15",
+        "local_code": "15",
+        "name": "Wilayah Persekutuan Labuan",
+        "continent": "AS",
+        "iso_country": "MY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wilayah_Persekutuan_Labuan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90145",
+            "filename": "Labuan_NDB_MY",
+            "ident": "LAB",
+            "name": "Labuan",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "5.284719944000244",
+            "longitude_deg": "115.25499725341797",
+            "elevation_ft": "101",
+            "iso_country": "MY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.243",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WBKL"
+        },
+        {
+            "id": "95179",
+            "filename": "Labuan_VOR-DME_MY",
+            "ident": "VLB",
+            "name": "Labuan",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "5.289999961853027",
+            "longitude_deg": "115.25199890136719",
+            "elevation_ft": "101",
+            "iso_country": "MY",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.242",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WBKL"
+        }
+    ]
+}

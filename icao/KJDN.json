@@ -1,0 +1,72 @@
+{
+    "id": "20207",
+    "ident": "KJDN",
+    "type": "small_airport",
+    "name": "Jordan Airport",
+    "latitude_deg": "47.3288002014",
+    "longitude_deg": "-106.95300293",
+    "elevation_ft": "2662",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Jordan",
+    "scheduled_service": "no",
+    "gps_code": "KJDN",
+    "iata_code": "JDN",
+    "local_code": "JDN",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jordan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240887",
+            "airport_ref": "20207",
+            "airport_ident": "KJDN",
+            "length_ft": "4300",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "47.3358",
+            "le_longitude_deg": "-106.942",
+            "le_elevation_ft": "",
+            "le_heading_degT": "115",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "47.3308",
+            "he_longitude_deg": "-106.926",
+            "he_elevation_ft": "",
+            "he_heading_degT": "295",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60695",
+            "airport_ref": "20207",
+            "airport_ident": "KJDN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306102",
+        "code": "US-MT",
+        "local_code": "MT",
+        "name": "Montana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
+        "keywords": ""
+    }
+}

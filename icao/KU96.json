@@ -1,0 +1,88 @@
+{
+    "id": "21279",
+    "ident": "KU96",
+    "type": "small_airport",
+    "name": "Cal Black Memorial Airport",
+    "latitude_deg": "37.435169",
+    "longitude_deg": "-110.564373",
+    "elevation_ft": "4388",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Halls Crossing",
+    "scheduled_service": "no",
+    "gps_code": "KU96",
+    "iata_code": "",
+    "local_code": "U96",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245112",
+            "airport_ref": "21279",
+            "airport_ident": "KU96",
+            "length_ft": "5700",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "37.4347",
+            "le_longitude_deg": "-110.573",
+            "le_elevation_ft": "",
+            "le_heading_degT": "23.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "37.4492",
+            "he_longitude_deg": "-110.566",
+            "he_elevation_ft": "",
+            "he_heading_degT": "203.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69600",
+            "airport_ref": "21279",
+            "airport_ident": "KU96",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "134.375"
+        },
+        {
+            "id": "69601",
+            "airport_ref": "21279",
+            "airport_ident": "KU96",
+            "type": "FSS",
+            "description": "CEDAR CITY RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "69602",
+            "airport_ref": "21279",
+            "airport_ident": "KU96",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306121",
+        "code": "US-UT",
+        "local_code": "UT",
+        "name": "Utah",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "id": "26612",
+    "ident": "VOCX",
+    "type": "medium_airport",
+    "name": "Car Nicobar Air Force Station",
+    "latitude_deg": "9.152509689331055",
+    "longitude_deg": "92.8196029663086",
+    "elevation_ft": "5",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-AN",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "VOCX",
+    "iata_code": "CBD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Car_Nicobar_Air_Force_Base",
+    "keywords": "Carnicobar",
+    "runways": [
+        {
+            "id": "236723",
+            "airport_ref": "26612",
+            "airport_ident": "VOCX",
+            "length_ft": "8914",
+            "width_ft": "140",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "9.14106",
+            "le_longitude_deg": "92.8153",
+            "le_elevation_ft": "",
+            "le_heading_degT": "20",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "9.16395",
+            "he_longitude_deg": "92.8239",
+            "he_elevation_ft": "",
+            "he_heading_degT": "200",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53902",
+            "airport_ref": "26612",
+            "airport_ident": "VOCX",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "669.6"
+        },
+        {
+            "id": "53903",
+            "airport_ref": "26612",
+            "airport_ident": "VOCX",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "53904",
+            "airport_ref": "26612",
+            "airport_ident": "VOCX",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.5"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304164",
+        "code": "IN-AN",
+        "local_code": "AN",
+        "name": "Andaman and Nicobar Islands",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86897",
+            "filename": "Carnicobar_NDB_IN",
+            "ident": "CN",
+            "name": "Carnicobar",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "9.152059555053711",
+            "longitude_deg": "92.8322982788086",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.12",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOCX"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "id": "19742",
+    "ident": "KEIK",
+    "type": "small_airport",
+    "name": "Erie Municipal Airport",
+    "latitude_deg": "40.010200500488",
+    "longitude_deg": "-105.047996521",
+    "elevation_ft": "5130",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Erie",
+    "scheduled_service": "no",
+    "gps_code": "KEIK",
+    "iata_code": "",
+    "local_code": "EIK",
+    "home_link": "https://www.erieco.gov/93/Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Erie_Municipal_Airport",
+    "keywords": "48V",
+    "runways": [
+        {
+            "id": "244016",
+            "airport_ref": "19742",
+            "airport_ident": "KEIK",
+            "length_ft": "2250",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "09",
+            "le_latitude_deg": "40.011",
+            "le_longitude_deg": "-105.052",
+            "le_elevation_ft": "5083",
+            "le_heading_degT": "105.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "40.0094",
+            "he_longitude_deg": "-105.044",
+            "he_elevation_ft": "5130",
+            "he_heading_degT": "285.4",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244017",
+            "airport_ref": "19742",
+            "airport_ident": "KEIK",
+            "length_ft": "4700",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "40.0165",
+            "le_longitude_deg": "-105.05",
+            "le_elevation_ft": "5072",
+            "le_heading_degT": "167.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "40.0039",
+            "he_longitude_deg": "-105.046",
+            "he_elevation_ft": "5116",
+            "he_heading_degT": "347.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67220",
+            "airport_ref": "19742",
+            "airport_ident": "KEIK",
+            "type": "A/D",
+            "description": "DENVER APP/DEP",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "67221",
+            "airport_ref": "19742",
+            "airport_ident": "KEIK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.825"
+        },
+        {
+            "id": "67222",
+            "airport_ref": "19742",
+            "airport_ident": "KEIK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

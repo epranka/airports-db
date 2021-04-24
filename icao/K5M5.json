@@ -1,0 +1,80 @@
+{
+    "id": "18914",
+    "ident": "K5M5",
+    "type": "small_airport",
+    "name": "Crystal Lake Airport",
+    "latitude_deg": "36.34360122680664",
+    "longitude_deg": "-94.4448013305664",
+    "elevation_ft": "1180",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Decatur",
+    "scheduled_service": "no",
+    "gps_code": "K5M5",
+    "iata_code": "",
+    "local_code": "5M5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242678",
+            "airport_ref": "18914",
+            "airport_ident": "K5M5",
+            "length_ft": "3865",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "36.3473",
+            "le_longitude_deg": "-94.4495",
+            "le_elevation_ft": "1154",
+            "le_heading_degT": "134",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "36.3398",
+            "he_longitude_deg": "-94.4401",
+            "he_elevation_ft": "1180",
+            "he_heading_degT": "314",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64404",
+            "airport_ref": "18914",
+            "airport_ident": "K5M5",
+            "type": "A/D",
+            "description": "RAZORBACK APP/DEP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "64405",
+            "airport_ref": "18914",
+            "airport_ident": "K5M5",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": ""
+    }
+}

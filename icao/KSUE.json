@@ -1,0 +1,110 @@
+{
+    "id": "21117",
+    "ident": "KSUE",
+    "type": "small_airport",
+    "name": "Door County Cherryland Airport",
+    "latitude_deg": "44.84370041",
+    "longitude_deg": "-87.42150116",
+    "elevation_ft": "725",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Sturgeon Bay",
+    "scheduled_service": "no",
+    "gps_code": "KSUE",
+    "iata_code": "SUE",
+    "local_code": "SUE",
+    "home_link": "http://map.co.door.wi.us/airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Door_County_Cherryland_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240488",
+            "airport_ref": "21117",
+            "airport_ident": "KSUE",
+            "length_ft": "4600",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "44.8369",
+            "le_longitude_deg": "-87.4248",
+            "le_elevation_ft": "722",
+            "le_heading_degT": "13",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "44.8492",
+            "he_longitude_deg": "-87.4208",
+            "he_elevation_ft": "704",
+            "he_heading_degT": "193",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240489",
+            "airport_ref": "21117",
+            "airport_ident": "KSUE",
+            "length_ft": "3200",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "44.8447",
+            "le_longitude_deg": "-87.4259",
+            "le_elevation_ft": "719",
+            "le_heading_degT": "93",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "44.8443",
+            "he_longitude_deg": "-87.4136",
+            "he_elevation_ft": "715",
+            "he_heading_degT": "273",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60049",
+            "airport_ref": "21117",
+            "airport_ident": "KSUE",
+            "type": "A/D",
+            "description": "GREEN BAY APP/DEP",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "60050",
+            "airport_ref": "21117",
+            "airport_ident": "KSUE",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "128.325"
+        },
+        {
+            "id": "60051",
+            "airport_ref": "21117",
+            "airport_ident": "KSUE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": ""
+    }
+}

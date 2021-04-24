@@ -1,0 +1,80 @@
+{
+    "id": "28519",
+    "ident": "EDCB",
+    "type": "small_airport",
+    "name": "Flugplatz Ballenstedt",
+    "latitude_deg": "51.745834",
+    "longitude_deg": "11.229722",
+    "elevation_ft": "535",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-ST",
+    "municipality": "Ballenstedt",
+    "scheduled_service": "no",
+    "gps_code": "EDCB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.flugplatz-ballenstedt.de",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "315839",
+            "airport_ref": "28519",
+            "airport_ident": "EDCB",
+            "length_ft": "2247",
+            "width_ft": "",
+            "surface": "asfalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "310110",
+            "airport_ref": "28519",
+            "airport_ident": "EDCB",
+            "type": "GE",
+            "description": "Ballenstedt Info",
+            "frequency_mhz": "0"
+        },
+        {
+            "id": "315838",
+            "airport_ref": "28519",
+            "airport_ident": "EDCB",
+            "type": "INFO",
+            "description": "Ballenstedt Info",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303561",
+        "code": "DE-ST",
+        "local_code": "ST",
+        "name": "Saxony-Anhalt",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony-Anhalt",
+        "keywords": "Sachsen-Anhalt"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "id": "21150",
+    "ident": "KT41",
+    "type": "small_airport",
+    "name": "La Porte Municipal Airport",
+    "latitude_deg": "29.669300079345703",
+    "longitude_deg": "-95.06420135498047",
+    "elevation_ft": "25",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "La Porte",
+    "scheduled_service": "no",
+    "gps_code": "KT41",
+    "iata_code": "",
+    "local_code": "T41",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240687",
+            "airport_ref": "21150",
+            "airport_ident": "KT41",
+            "length_ft": "2998",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "29.6668",
+            "le_longitude_deg": "-95.0677",
+            "le_elevation_ft": "23",
+            "le_heading_degT": "51.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "29.6719",
+            "he_longitude_deg": "-95.0604",
+            "he_elevation_ft": "24",
+            "he_heading_degT": "231.3",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "240688",
+            "airport_ref": "21150",
+            "airport_ident": "KT41",
+            "length_ft": "4165",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "29.6726",
+            "le_longitude_deg": "-95.0696",
+            "le_elevation_ft": "24",
+            "le_heading_degT": "126.2",
+            "le_displaced_threshold_ft": "190",
+            "he_ident": "30",
+            "he_latitude_deg": "29.6658",
+            "he_longitude_deg": "-95.059",
+            "he_elevation_ft": "24",
+            "he_heading_degT": "306.2",
+            "he_displaced_threshold_ft": "402"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "60342",
+            "airport_ref": "21150",
+            "airport_ident": "KT41",
+            "type": "A/D",
+            "description": "HOUSTON APP/DEP",
+            "frequency_mhz": "134.45"
+        },
+        {
+            "id": "60343",
+            "airport_ref": "21150",
+            "airport_ident": "KT41",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "60344",
+            "airport_ref": "21150",
+            "airport_ident": "KT41",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

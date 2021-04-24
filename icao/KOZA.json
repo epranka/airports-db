@@ -1,0 +1,80 @@
+{
+    "id": "20789",
+    "ident": "KOZA",
+    "type": "small_airport",
+    "name": "Ozona Municipal Airport",
+    "latitude_deg": "30.735300064087",
+    "longitude_deg": "-101.20300292969",
+    "elevation_ft": "2381",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Ozona",
+    "scheduled_service": "no",
+    "gps_code": "KOZA",
+    "iata_code": "OZA",
+    "local_code": "OZA",
+    "home_link": "http://www.ozona.com/articles/view/ozona-municipal-airport-52b1db2c-3ff8-4122-8b3f-1a349bf0d2c8",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240208",
+            "airport_ref": "20789",
+            "airport_ident": "KOZA",
+            "length_ft": "6000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "30.7433",
+            "le_longitude_deg": "-101.204",
+            "le_elevation_ft": "2377",
+            "le_heading_degT": "167.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "30.7271",
+            "he_longitude_deg": "-101.2",
+            "he_elevation_ft": "2355",
+            "he_heading_degT": "347.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59634",
+            "airport_ref": "20789",
+            "airport_ident": "KOZA",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "125.75"
+        },
+        {
+            "id": "59635",
+            "airport_ref": "20789",
+            "airport_ident": "KOZA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

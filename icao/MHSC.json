@@ -1,0 +1,176 @@
+{
+    "id": "4664",
+    "ident": "MHSC",
+    "type": "medium_airport",
+    "name": "Coronel Enrique Soto Cano Air Base",
+    "latitude_deg": "14.3824",
+    "longitude_deg": "-87.621201",
+    "elevation_ft": "2061",
+    "continent": "NA",
+    "iso_country": "HN",
+    "iso_region": "HN-CM",
+    "municipality": "Comayagua",
+    "scheduled_service": "no",
+    "gps_code": "MHSC",
+    "iata_code": "XPL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Soto_Cano_Air_Base",
+    "keywords": "Palmerola Air Base",
+    "runways": [
+        {
+            "id": "236416",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "length_ft": "8008",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "14.3932",
+            "le_longitude_deg": "-87.6232",
+            "le_elevation_ft": "2061",
+            "le_heading_degT": "170",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "14.3715",
+            "he_longitude_deg": "-87.6191",
+            "he_elevation_ft": "2036",
+            "he_heading_degT": "350",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53490",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "AAS",
+            "description": "VFR ADVSY SVC",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "53491",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "ACC",
+            "description": "CENAMER ACC",
+            "frequency_mhz": "89.1"
+        },
+        {
+            "id": "53492",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "53493",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "53494",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "MISC",
+            "description": "SKYWATCH AFFS",
+            "frequency_mhz": "42.5"
+        },
+        {
+            "id": "53495",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "OPS",
+            "description": "WARRIOR OPS",
+            "frequency_mhz": "51.5"
+        },
+        {
+            "id": "53496",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.06"
+        },
+        {
+            "id": "53497",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "33.13"
+        },
+        {
+            "id": "53498",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "135.5"
+        },
+        {
+            "id": "53499",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "RDO",
+            "description": "TEGUCIGALPA RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "53500",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302739",
+        "code": "HN",
+        "name": "Honduras",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Honduras",
+        "keywords": "Aeropuertos de Honduras"
+    },
+    "region": {
+        "id": "304009",
+        "code": "HN-CM",
+        "local_code": "CM",
+        "name": "Comayagua Department",
+        "continent": "NA",
+        "iso_country": "HN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Comayagua_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87826",
+            "filename": "Soto_Cano_VORTAC_HN",
+            "ident": "ESC",
+            "name": "Soto Cano",
+            "type": "VORTAC",
+            "frequency_khz": "114900",
+            "latitude_deg": "14.391900062561035",
+            "longitude_deg": "-87.62210083007812",
+            "elevation_ft": "2062",
+            "iso_country": "HN",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.003",
+            "magnetic_variation_deg": "1.057",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "MHSC"
+        }
+    ]
+}

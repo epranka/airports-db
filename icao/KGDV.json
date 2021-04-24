@@ -1,0 +1,110 @@
+{
+    "id": "19936",
+    "ident": "KGDV",
+    "type": "medium_airport",
+    "name": "Dawson Community Airport",
+    "latitude_deg": "47.13869858",
+    "longitude_deg": "-104.8069992",
+    "elevation_ft": "2458",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Glendive",
+    "scheduled_service": "no",
+    "gps_code": "KGDV",
+    "iata_code": "GDV",
+    "local_code": "GDV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242224",
+            "airport_ref": "19936",
+            "airport_ident": "KGDV",
+            "length_ft": "3000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "47.1373",
+            "le_longitude_deg": "-104.814",
+            "le_elevation_ft": "2454",
+            "le_heading_degT": "36",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "47.1439",
+            "he_longitude_deg": "-104.807",
+            "he_elevation_ft": "2452",
+            "he_heading_degT": "216",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242225",
+            "airport_ref": "19936",
+            "airport_ident": "KGDV",
+            "length_ft": "5704",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "47.1434",
+            "le_longitude_deg": "-104.814",
+            "le_elevation_ft": "2456",
+            "le_heading_degT": "136",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "47.1321",
+            "he_longitude_deg": "-104.798",
+            "he_elevation_ft": "2452",
+            "he_heading_degT": "316",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63471",
+            "airport_ref": "19936",
+            "airport_ident": "KGDV",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.075"
+        },
+        {
+            "id": "63472",
+            "airport_ref": "19936",
+            "airport_ident": "KGDV",
+            "type": "RDO",
+            "description": "GREAT FALLS RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "63473",
+            "airport_ref": "19936",
+            "airport_ident": "KGDV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306102",
+        "code": "US-MT",
+        "local_code": "MT",
+        "name": "Montana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
+        "keywords": ""
+    }
+}

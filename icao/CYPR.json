@@ -1,0 +1,142 @@
+{
+    "id": "1855",
+    "ident": "CYPR",
+    "type": "medium_airport",
+    "name": "Prince Rupert Airport",
+    "latitude_deg": "54.286098480199996",
+    "longitude_deg": "-130.445007324",
+    "elevation_ft": "116",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Prince Rupert",
+    "scheduled_service": "yes",
+    "gps_code": "CYPR",
+    "iata_code": "YPR",
+    "local_code": "",
+    "home_link": "http://www.ypr.ca/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Prince_Rupert_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235046",
+            "airport_ref": "1855",
+            "airport_ident": "CYPR",
+            "length_ft": "6000",
+            "width_ft": "200",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "54.2933",
+            "le_longitude_deg": "-130.452",
+            "le_elevation_ft": "94",
+            "le_heading_degT": "151.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "54.2789",
+            "he_longitude_deg": "-130.438",
+            "he_elevation_ft": "116",
+            "he_heading_degT": "331.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50953",
+            "airport_ref": "1855",
+            "airport_ident": "CYPR",
+            "type": "A/G",
+            "description": "RUPERT RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "50954",
+            "airport_ref": "1855",
+            "airport_ident": "CYPR",
+            "type": "CNTR",
+            "description": "VANCOUVER CNTR",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "50955",
+            "airport_ref": "1855",
+            "airport_ident": "CYPR",
+            "type": "RCO",
+            "description": "TERRACE RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "50956",
+            "airport_ref": "1855",
+            "airport_ident": "CYPR",
+            "type": "RDO",
+            "description": "PACIFIC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89303",
+            "filename": "Prince_Rupert_DME_CA",
+            "ident": "IPR",
+            "name": "Prince Rupert",
+            "type": "DME",
+            "frequency_khz": "109700",
+            "latitude_deg": "54.29059982299805",
+            "longitude_deg": "-130.4510040283203",
+            "elevation_ft": "91",
+            "iso_country": "CA",
+            "dme_frequency_khz": "109700",
+            "dme_channel": "034X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.133",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYPR"
+        },
+        {
+            "id": "92661",
+            "filename": "Prince_Rupert_NDB_CA",
+            "ident": "PR",
+            "name": "Prince Rupert",
+            "type": "NDB",
+            "frequency_khz": "218",
+            "latitude_deg": "54.263301849365234",
+            "longitude_deg": "-130.4239959716797",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.125",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYPR"
+        }
+    ]
+}

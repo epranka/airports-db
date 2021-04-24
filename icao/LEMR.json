@@ -1,0 +1,80 @@
+{
+    "id": "4023",
+    "ident": "LEMR",
+    "type": "small_airport",
+    "name": "La Morgal Airport",
+    "latitude_deg": "43.4291992188",
+    "longitude_deg": "-5.8305602073700005",
+    "elevation_ft": "541",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-O",
+    "municipality": "Oviedo",
+    "scheduled_service": "no",
+    "gps_code": "LEMR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aeroclubllanera.com/",
+    "wikipedia_link": "http://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_La_Morgal",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238913",
+            "airport_ref": "4023",
+            "airport_ident": "LEMR",
+            "length_ft": "3281",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "43.4292",
+            "le_longitude_deg": "-5.83667",
+            "le_elevation_ft": "",
+            "le_heading_degT": "91.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "43.4292",
+            "he_longitude_deg": "-5.82444",
+            "he_elevation_ft": "",
+            "he_heading_degT": "271.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "299147",
+            "airport_ref": "4023",
+            "airport_ident": "LEMR",
+            "type": "RDO",
+            "description": "La Morgal Radio (A/A, ES)",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "299148",
+            "airport_ref": "4023",
+            "airport_ident": "LEMR",
+            "type": "TWR",
+            "description": "Asturias TWR",
+            "frequency_mhz": "118.15"
+        }
+    ],
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303766",
+        "code": "ES-O",
+        "local_code": "O",
+        "name": "Asturias",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Asturias",
+        "keywords": ""
+    }
+}

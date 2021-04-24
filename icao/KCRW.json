@@ -1,0 +1,174 @@
+{
+    "id": "3467",
+    "ident": "KCRW",
+    "type": "large_airport",
+    "name": "Yeager Airport",
+    "latitude_deg": "38.37310028076172",
+    "longitude_deg": "-81.59320068359375",
+    "elevation_ft": "981",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Charleston",
+    "scheduled_service": "yes",
+    "gps_code": "KCRW",
+    "iata_code": "CRW",
+    "local_code": "CRW",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yeager_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241242",
+            "airport_ref": "3467",
+            "airport_ident": "KCRW",
+            "length_ft": "6302",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "38.3696",
+            "le_longitude_deg": "-81.6017",
+            "le_elevation_ft": "946",
+            "le_heading_degT": "47.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "38.3814",
+            "he_longitude_deg": "-81.5856",
+            "he_elevation_ft": "897",
+            "he_heading_degT": "227.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241243",
+            "airport_ref": "3467",
+            "airport_ident": "KCRW",
+            "length_ft": "4751",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "38.3752",
+            "le_longitude_deg": "-81.5978",
+            "le_elevation_ft": "934",
+            "le_heading_degT": "141.4",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "38.365",
+            "he_longitude_deg": "-81.5874",
+            "he_elevation_ft": "981",
+            "he_heading_degT": "321.4",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61435",
+            "airport_ref": "3467",
+            "airport_ident": "KCRW",
+            "type": "A/D",
+            "description": "CHARLESTON APP/DEP",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "61436",
+            "airport_ref": "3467",
+            "airport_ident": "KCRW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "61437",
+            "airport_ref": "3467",
+            "airport_ident": "KCRW",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "61438",
+            "airport_ref": "3467",
+            "airport_ident": "KCRW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "61439",
+            "airport_ref": "3467",
+            "airport_ident": "KCRW",
+            "type": "POST",
+            "description": "ANG COMD POST/OPS",
+            "frequency_mhz": "30.23"
+        },
+        {
+            "id": "61440",
+            "airport_ref": "3467",
+            "airport_ident": "KCRW",
+            "type": "RDO",
+            "description": "ELKINS RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "61441",
+            "airport_ref": "3467",
+            "airport_ident": "KCRW",
+            "type": "TWR",
+            "description": "CHARLESTON TWR",
+            "frequency_mhz": "125.7"
+        },
+        {
+            "id": "61442",
+            "airport_ref": "3467",
+            "airport_ident": "KCRW",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306126",
+        "code": "US-WV",
+        "local_code": "WV",
+        "name": "West Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89061",
+            "filename": "Charleston_VORTAC_US",
+            "ident": "HVQ",
+            "name": "Charleston",
+            "type": "VORTAC",
+            "frequency_khz": "117400",
+            "latitude_deg": "38.349700927734375",
+            "longitude_deg": "-81.7698974609375",
+            "elevation_ft": "1100",
+            "iso_country": "US",
+            "dme_frequency_khz": "117400",
+            "dme_channel": "121X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.001",
+            "magnetic_variation_deg": "-7.047",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KCRW"
+        }
+    ]
+}

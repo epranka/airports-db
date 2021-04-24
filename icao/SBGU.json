@@ -1,0 +1,96 @@
+{
+    "id": "5911",
+    "ident": "SBGU",
+    "type": "small_airport",
+    "name": "Tancredo Thomas de Faria Airport",
+    "latitude_deg": "-25.388327",
+    "longitude_deg": "-51.52349",
+    "elevation_ft": "3494",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Guarapuava",
+    "scheduled_service": "no",
+    "gps_code": "SSGG",
+    "iata_code": "GPB",
+    "local_code": "PR0009",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Guarapuava_Airport",
+    "keywords": "SBGU, Guarapuava Airport",
+    "runways": [
+        {
+            "id": "234365",
+            "airport_ref": "5911",
+            "airport_ident": "SBGU",
+            "length_ft": "5315",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "8",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49840",
+            "airport_ref": "5911",
+            "airport_ident": "SBGU",
+            "type": "AFIS",
+            "description": "GUARAPUAVA RDO",
+            "frequency_mhz": "130.75"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303216",
+        "code": "BR-PR",
+        "local_code": "PR",
+        "name": "Paraná",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88581",
+            "filename": "Guarapuava_NDB_BR",
+            "ident": "GRU",
+            "name": "Guarapuava",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "-25.386699676513672",
+            "longitude_deg": "-51.522701263427734",
+            "elevation_ft": "3429",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.317",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBGU"
+        }
+    ]
+}

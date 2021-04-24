@@ -1,0 +1,112 @@
+{
+    "id": "5995",
+    "ident": "SBUR",
+    "type": "medium_airport",
+    "name": "Mário de Almeida Franco Airport",
+    "latitude_deg": "-19.764722824097",
+    "longitude_deg": "-47.966110229492",
+    "elevation_ft": "2655",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Uberaba",
+    "scheduled_service": "yes",
+    "gps_code": "SBUR",
+    "iata_code": "UBA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Uberaba_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233782",
+            "airport_ref": "5995",
+            "airport_ident": "SBUR",
+            "length_ft": "5771",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49562",
+            "airport_ref": "5995",
+            "airport_ident": "SBUR",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "49563",
+            "airport_ref": "5995",
+            "airport_ident": "SBUR",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "49564",
+            "airport_ref": "5995",
+            "airport_ident": "SBUR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303209",
+        "code": "BR-MG",
+        "local_code": "MG",
+        "name": "Minas Gerais",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94944",
+            "filename": "Uberaba_NDB_BR",
+            "ident": "URB",
+            "name": "Uberaba",
+            "type": "NDB",
+            "frequency_khz": "235",
+            "latitude_deg": "-19.765499114990234",
+            "longitude_deg": "-47.95920181274414",
+            "elevation_ft": "2649",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.512",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBUR"
+        }
+    ]
+}

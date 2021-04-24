@@ -1,0 +1,112 @@
+{
+    "id": "1556",
+    "ident": "CSR8",
+    "type": "small_airport",
+    "name": "La Sarre Airport",
+    "latitude_deg": "48.917198181152",
+    "longitude_deg": "-79.178596496582",
+    "elevation_ft": "1048",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "La Sarre",
+    "scheduled_service": "no",
+    "gps_code": "CSR8",
+    "iata_code": "SSQ",
+    "local_code": "CSR8",
+    "home_link": "http://www.ville.lasarre.qc.ca/fr/ville/services-municipaux/aeroport-municipal/index.cfm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/La_Sarre_Airport",
+    "keywords": "SR8",
+    "runways": [
+        {
+            "id": "234623",
+            "airport_ref": "1556",
+            "airport_ident": "CSR8",
+            "length_ft": "4700",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "48.9233",
+            "le_longitude_deg": "-79.1814",
+            "le_elevation_ft": "1048",
+            "le_heading_degT": "163.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "48.9111",
+            "he_longitude_deg": "-79.1758",
+            "he_elevation_ft": "1045",
+            "he_heading_degT": "343.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50167",
+            "airport_ref": "1556",
+            "airport_ident": "CSR8",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "50166",
+            "airport_ref": "1556",
+            "airport_ident": "CSR8",
+            "type": "CNTR",
+            "description": "MONTREAL CNTR",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "50168",
+            "airport_ref": "1556",
+            "airport_ident": "CSR8",
+            "type": "RDO",
+            "description": "QUEBEC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    },
+    "navaids": [
+        {
+            "id": "85131",
+            "filename": "La_Sarre_NDB_CA",
+            "ident": "7L",
+            "name": "La Sarre",
+            "type": "NDB",
+            "frequency_khz": "405",
+            "latitude_deg": "48.91059875488281",
+            "longitude_deg": "-79.17890167236328",
+            "elevation_ft": "1048",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.521",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CSR8"
+        }
+    ]
+}

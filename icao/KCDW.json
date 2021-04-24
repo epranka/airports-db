@@ -1,0 +1,150 @@
+{
+    "id": "19476",
+    "ident": "KCDW",
+    "type": "small_airport",
+    "name": "Essex County Airport",
+    "latitude_deg": "40.875198364300005",
+    "longitude_deg": "-74.2814025879",
+    "elevation_ft": "173",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NJ",
+    "municipality": "Caldwell",
+    "scheduled_service": "no",
+    "gps_code": "KCDW",
+    "iata_code": "CDW",
+    "local_code": "CDW",
+    "home_link": "http://flycdw.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Essex_County_Airport",
+    "keywords": "Manhattan, New York City, NYC",
+    "runways": [
+        {
+            "id": "244339",
+            "airport_ref": "19476",
+            "airport_ident": "KCDW",
+            "length_ft": "4553",
+            "width_ft": "80",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "40.8678",
+            "le_longitude_deg": "-74.2863",
+            "le_elevation_ft": "173",
+            "le_heading_degT": "30.1",
+            "le_displaced_threshold_ft": "371",
+            "he_ident": "22",
+            "he_latitude_deg": "40.8786",
+            "he_longitude_deg": "-74.2782",
+            "he_elevation_ft": "173",
+            "he_heading_degT": "210.1",
+            "he_displaced_threshold_ft": "135"
+        },
+        {
+            "id": "256865",
+            "airport_ref": "19476",
+            "airport_ident": "KCDW",
+            "length_ft": "3721",
+            "width_ft": "75",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "40.8771",
+            "le_longitude_deg": "-74.2869",
+            "le_elevation_ft": "170",
+            "le_heading_degT": "83",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "40.8783",
+            "he_longitude_deg": "-74.2735",
+            "he_elevation_ft": "173",
+            "he_heading_degT": "263",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67871",
+            "airport_ref": "19476",
+            "airport_ident": "KCDW",
+            "type": "APP",
+            "description": "NEW YORK APP",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "67872",
+            "airport_ref": "19476",
+            "airport_ident": "KCDW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135.5"
+        },
+        {
+            "id": "67873",
+            "airport_ref": "19476",
+            "airport_ident": "KCDW",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "67874",
+            "airport_ref": "19476",
+            "airport_ident": "KCDW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "67875",
+            "airport_ref": "19476",
+            "airport_ident": "KCDW",
+            "type": "DEP",
+            "description": "NEW YORK DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "67876",
+            "airport_ref": "19476",
+            "airport_ident": "KCDW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "67877",
+            "airport_ref": "19476",
+            "airport_ident": "KCDW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "67878",
+            "airport_ref": "19476",
+            "airport_ident": "KCDW",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306107",
+        "code": "US-NJ",
+        "local_code": "NJ",
+        "name": "New Jersey",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
+        "keywords": ""
+    }
+}

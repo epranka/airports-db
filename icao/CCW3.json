@@ -1,0 +1,88 @@
+{
+    "id": "786",
+    "ident": "CCW3",
+    "type": "small_airport",
+    "name": "Waterville / Kings County Municipal Airport",
+    "latitude_deg": "45.0518989563",
+    "longitude_deg": "-64.6517028809",
+    "elevation_ft": "119",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Waterville",
+    "scheduled_service": "no",
+    "gps_code": "CCW3",
+    "iata_code": "",
+    "local_code": "CCW3",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Waterville/Kings_County_Municipal_Airport",
+    "keywords": "CW3",
+    "runways": [
+        {
+            "id": "234577",
+            "airport_ref": "786",
+            "airport_ident": "CCW3",
+            "length_ft": "3500",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "45.0511",
+            "le_longitude_deg": "-64.6586",
+            "le_elevation_ft": "119",
+            "le_heading_degT": "77",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "45.0533",
+            "he_longitude_deg": "-64.6453",
+            "he_elevation_ft": "106",
+            "he_heading_degT": "257",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50082",
+            "airport_ref": "786",
+            "airport_ident": "CCW3",
+            "type": "A/D",
+            "description": "GREENWOOD TRML",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "50083",
+            "airport_ref": "786",
+            "airport_ident": "CCW3",
+            "type": "TWR",
+            "description": "GREENWOOD TWR",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "50084",
+            "airport_ref": "786",
+            "airport_ident": "CCW3",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303299",
+        "code": "CA-NS",
+        "local_code": "NS",
+        "name": "Nova Scotia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nova_Scotia",
+        "keywords": ""
+    }
+}

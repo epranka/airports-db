@@ -1,0 +1,160 @@
+{
+    "id": "20081",
+    "ident": "KHRT",
+    "type": "medium_airport",
+    "name": "Hurlburt Field",
+    "latitude_deg": "30.427799224853516",
+    "longitude_deg": "-86.68930053710938",
+    "elevation_ft": "38",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Mary Esther",
+    "scheduled_service": "no",
+    "gps_code": "KHRT",
+    "iata_code": "",
+    "local_code": "HRT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241197",
+            "airport_ref": "20081",
+            "airport_ident": "KHRT",
+            "length_ft": "9600",
+            "width_ft": "150",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "30.4421",
+            "le_longitude_deg": "-86.6899",
+            "le_elevation_ft": "33",
+            "le_heading_degT": "176",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "30.4158",
+            "he_longitude_deg": "-86.6877",
+            "he_elevation_ft": "35",
+            "he_heading_degT": "356",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61336",
+            "airport_ref": "20081",
+            "airport_ident": "KHRT",
+            "type": "APP",
+            "description": "EGLIN APP",
+            "frequency_mhz": "37.915"
+        },
+        {
+            "id": "61335",
+            "airport_ref": "20081",
+            "airport_ident": "KHRT",
+            "type": "APP",
+            "description": "EGLIN APP",
+            "frequency_mhz": "133"
+        },
+        {
+            "id": "61337",
+            "airport_ref": "20081",
+            "airport_ident": "KHRT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "36.067"
+        },
+        {
+            "id": "61338",
+            "airport_ref": "20081",
+            "airport_ident": "KHRT",
+            "type": "DEP",
+            "description": "EGLIN DEP",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "61339",
+            "airport_ref": "20081",
+            "airport_ident": "KHRT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "123.975"
+        },
+        {
+            "id": "61340",
+            "airport_ref": "20081",
+            "airport_ident": "KHRT",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "39.075"
+        },
+        {
+            "id": "61341",
+            "airport_ref": "20081",
+            "airport_ident": "KHRT",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "140.4"
+        },
+        {
+            "id": "61342",
+            "airport_ref": "20081",
+            "airport_ident": "KHRT",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "61343",
+            "airport_ref": "20081",
+            "airport_ident": "KHRT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.5"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "88999",
+            "filename": "Hurlburt_TACAN_US",
+            "ident": "HRT",
+            "name": "Hurlburt",
+            "type": "TACAN",
+            "frequency_khz": "110800",
+            "latitude_deg": "30.42799949645996",
+            "longitude_deg": "-86.69029998779297",
+            "elevation_ft": "35",
+            "iso_country": "US",
+            "dme_frequency_khz": "110800",
+            "dme_channel": "045X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "-1.522",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KHRT"
+        }
+    ]
+}

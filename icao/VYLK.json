@@ -1,0 +1,96 @@
+{
+    "id": "26724",
+    "ident": "VYLK",
+    "type": "medium_airport",
+    "name": "Loikaw Airport",
+    "latitude_deg": "19.691499710083008",
+    "longitude_deg": "97.21479797363281",
+    "elevation_ft": "2940",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-12",
+    "municipality": "Loikaw",
+    "scheduled_service": "yes",
+    "gps_code": "VYLK",
+    "iata_code": "LIW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Loikaw_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233734",
+            "airport_ref": "26724",
+            "airport_ident": "VYLK",
+            "length_ft": "5200",
+            "width_ft": "75",
+            "surface": "BIT",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "19.6843",
+            "le_longitude_deg": "97.2143",
+            "le_elevation_ft": "",
+            "le_heading_degT": "4",
+            "le_displaced_threshold_ft": "200",
+            "he_ident": "19",
+            "he_latitude_deg": "19.6987",
+            "he_longitude_deg": "97.2154",
+            "he_elevation_ft": "",
+            "he_heading_degT": "184",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49523",
+            "airport_ref": "26724",
+            "airport_ident": "VYLK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302649",
+        "code": "MM",
+        "name": "Burma",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
+        "keywords": "Myanmar"
+    },
+    "region": {
+        "id": "304674",
+        "code": "MM-12",
+        "local_code": "12",
+        "name": "Kayah State",
+        "continent": "AS",
+        "iso_country": "MM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kayah_State",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90372",
+            "filename": "Loikaw_NDB_MM",
+            "ident": "LK",
+            "name": "Loikaw",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "19.692800521850586",
+            "longitude_deg": "97.21630096435547",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.447",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VYLK"
+        }
+    ]
+}

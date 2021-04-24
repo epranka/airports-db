@@ -1,0 +1,72 @@
+{
+    "id": "29133",
+    "ident": "EGET",
+    "type": "small_airport",
+    "name": "Lerwick / Tingwall Airport",
+    "latitude_deg": "60.192199707",
+    "longitude_deg": "-1.24361002445",
+    "elevation_ft": "43",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "Lerwick",
+    "scheduled_service": "yes",
+    "gps_code": "EGET",
+    "iata_code": "LWK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tingwall_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "247707",
+            "airport_ref": "29133",
+            "airport_ident": "EGET",
+            "length_ft": "5787",
+            "width_ft": "59",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "43",
+            "le_heading_degT": "16",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "196",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71947",
+            "airport_ref": "29133",
+            "airport_ident": "EGET",
+            "type": "A/G",
+            "description": "Lerwick Tingwall A/G",
+            "frequency_mhz": "122.6"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306377",
+        "code": "GB-SCT",
+        "local_code": "SCT",
+        "name": "Scotland",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
+        "keywords": "keep"
+    }
+}

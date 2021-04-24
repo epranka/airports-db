@@ -1,0 +1,72 @@
+{
+    "id": "21388",
+    "ident": "KX05",
+    "type": "small_airport",
+    "name": "Pilot Country Airport",
+    "latitude_deg": "28.3302993774",
+    "longitude_deg": "-82.4964981079",
+    "elevation_ft": "80",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Brooksville",
+    "scheduled_service": "no",
+    "gps_code": "X05",
+    "iata_code": "",
+    "local_code": "X05",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241836",
+            "airport_ref": "21388",
+            "airport_ident": "KX05",
+            "length_ft": "3700",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "28.3353",
+            "le_longitude_deg": "-82.4964",
+            "le_elevation_ft": "",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "36",
+            "he_latitude_deg": "28.3253",
+            "he_longitude_deg": "-82.4964",
+            "he_elevation_ft": "",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "900"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62667",
+            "airport_ref": "21388",
+            "airport_ident": "KX05",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "id": "20908",
+    "ident": "KRAS",
+    "type": "small_airport",
+    "name": "Mustang Beach Airport",
+    "latitude_deg": "27.8118",
+    "longitude_deg": "-97.088799",
+    "elevation_ft": "5",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Port Aransas",
+    "scheduled_service": "no",
+    "gps_code": "KRAS",
+    "iata_code": "",
+    "local_code": "RAS",
+    "home_link": "https://cityofportaransas.org/departments/airport/",
+    "wikipedia_link": "",
+    "keywords": "2R8",
+    "runways": [
+        {
+            "id": "244654",
+            "airport_ref": "20908",
+            "airport_ident": "KRAS",
+            "length_ft": "3482",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "27.8146",
+            "le_longitude_deg": "-97.0931",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "125.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "27.809",
+            "he_longitude_deg": "-97.0844",
+            "he_elevation_ft": "5",
+            "he_heading_degT": "305.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "68582",
+            "airport_ref": "20908",
+            "airport_ident": "KRAS",
+            "type": "A/D",
+            "description": "CORPUS APP/DEP",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "68583",
+            "airport_ref": "20908",
+            "airport_ident": "KRAS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

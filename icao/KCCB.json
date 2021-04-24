@@ -1,0 +1,80 @@
+{
+    "id": "19467",
+    "ident": "KCCB",
+    "type": "small_airport",
+    "name": "Cable Airport",
+    "latitude_deg": "34.1115989685",
+    "longitude_deg": "-117.68800354",
+    "elevation_ft": "1444",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Upland",
+    "scheduled_service": "no",
+    "gps_code": "KCCB",
+    "iata_code": "CCB",
+    "local_code": "CCB",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cable_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244076",
+            "airport_ref": "19467",
+            "airport_ident": "KCCB",
+            "length_ft": "3864",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "34.1097",
+            "le_longitude_deg": "-117.693",
+            "le_elevation_ft": "1391",
+            "le_heading_degT": "69.1",
+            "le_displaced_threshold_ft": "106",
+            "he_ident": "24",
+            "he_latitude_deg": "34.1135",
+            "he_longitude_deg": "-117.681",
+            "he_elevation_ft": "1431",
+            "he_heading_degT": "249.1",
+            "he_displaced_threshold_ft": "158"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67337",
+            "airport_ref": "19467",
+            "airport_ident": "KCCB",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "67338",
+            "airport_ref": "19467",
+            "airport_ident": "KCCB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

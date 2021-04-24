@@ -1,0 +1,80 @@
+{
+    "id": "24788",
+    "ident": "TA81",
+    "type": "small_airport",
+    "name": "Morning Star Ranch Airport",
+    "latitude_deg": "29.792017",
+    "longitude_deg": "-100.876851",
+    "elevation_ft": "1500",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Del Rio",
+    "scheduled_service": "no",
+    "gps_code": "TA81",
+    "iata_code": "",
+    "local_code": "TA81",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "240190",
+            "airport_ref": "24788",
+            "airport_ident": "TA81",
+            "length_ft": "3200",
+            "width_ft": "30",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "29.7967",
+            "le_longitude_deg": "-100.883",
+            "le_elevation_ft": "",
+            "le_heading_degT": "130",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "29.7911",
+            "he_longitude_deg": "-100.875",
+            "he_elevation_ft": "",
+            "he_heading_degT": "310",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59598",
+            "airport_ref": "24788",
+            "airport_ident": "TA81",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "126.625"
+        },
+        {
+            "id": "59599",
+            "airport_ref": "24788",
+            "airport_ident": "TA81",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

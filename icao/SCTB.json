@@ -1,0 +1,80 @@
+{
+    "id": "6041",
+    "ident": "SCTB",
+    "type": "small_airport",
+    "name": "Eulogio Sánchez Airport",
+    "latitude_deg": "-33.456298828125",
+    "longitude_deg": "-70.54669952392578",
+    "elevation_ft": "2129",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Santiago",
+    "scheduled_service": "no",
+    "gps_code": "SCTB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235210",
+            "airport_ref": "6041",
+            "airport_ident": "SCTB",
+            "length_ft": "3280",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-33.4613",
+            "le_longitude_deg": "-70.548",
+            "le_elevation_ft": "2129",
+            "le_heading_degT": "12.8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-33.4512",
+            "he_longitude_deg": "-70.5453",
+            "he_elevation_ft": "2129",
+            "he_heading_degT": "192.8",
+            "he_displaced_threshold_ft": "552"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51295",
+            "airport_ref": "6041",
+            "airport_ident": "SCTB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "51296",
+            "airport_ref": "6041",
+            "airport_ident": "SCTB",
+            "type": "TWR",
+            "description": "TOBALABA TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303407",
+        "code": "CL-RM",
+        "local_code": "RM",
+        "name": "Santiago Metropolitan Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_Metropolitan_Region",
+        "keywords": ""
+    }
+}

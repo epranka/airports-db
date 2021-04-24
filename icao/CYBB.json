@@ -1,0 +1,80 @@
+{
+    "id": "1668",
+    "ident": "CYBB",
+    "type": "medium_airport",
+    "name": "Kugaaruk Airport",
+    "latitude_deg": "68.534401",
+    "longitude_deg": "-89.808098",
+    "elevation_ft": "56",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NU",
+    "municipality": "Kugaaruk",
+    "scheduled_service": "yes",
+    "gps_code": "CYBB",
+    "iata_code": "YBB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kugaaruk_Airport",
+    "keywords": "YBB, Pelly Bay Townsite Airport",
+    "runways": [
+        {
+            "id": "235071",
+            "airport_ref": "1668",
+            "airport_ident": "CYBB",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "68.53",
+            "le_longitude_deg": "-89.8222",
+            "le_elevation_ft": "56",
+            "le_heading_degT": "49",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "68.5389",
+            "he_longitude_deg": "-89.7939",
+            "he_elevation_ft": "25",
+            "he_heading_degT": "229",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "50999",
+            "airport_ref": "1668",
+            "airport_ident": "CYBB",
+            "type": "ATF",
+            "description": "MANDATORY FREQ",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51000",
+            "airport_ref": "1668",
+            "airport_ident": "CYBB",
+            "type": "RDO",
+            "description": "ARPT RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": ""
+    },
+    "region": {
+        "id": "303301",
+        "code": "CA-NU",
+        "local_code": "NU",
+        "name": "Nunavut",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
+        "keywords": ""
+    }
+}

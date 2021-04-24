@@ -1,0 +1,96 @@
+{
+    "id": "3027",
+    "ident": "FYKM",
+    "type": "small_airport",
+    "name": "Katima Mulilo Airport",
+    "latitude_deg": "-17.634399",
+    "longitude_deg": "24.176701",
+    "elevation_ft": "3144",
+    "continent": "AF",
+    "iso_country": "NA",
+    "iso_region": "NA-CA",
+    "municipality": "Mpacha",
+    "scheduled_service": "no",
+    "gps_code": "FYKM",
+    "iata_code": "MPA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Katima_Mulilo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246195",
+            "airport_ref": "3027",
+            "airport_ident": "FYKM",
+            "length_ft": "7520",
+            "width_ft": "128",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "-17.6362",
+            "le_longitude_deg": "24.166",
+            "le_elevation_ft": "3144",
+            "le_heading_degT": "80",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "-17.6327",
+            "he_longitude_deg": "24.1873",
+            "he_elevation_ft": "3126",
+            "he_heading_degT": "260",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71783",
+            "airport_ref": "3027",
+            "airport_ident": "FYKM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.6"
+        }
+    ],
+    "country": {
+        "id": "302591",
+        "code": "NA",
+        "name": "Namibia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Namibia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304851",
+        "code": "NA-CA",
+        "local_code": "CA",
+        "name": "Zambezi Region",
+        "continent": "AF",
+        "iso_country": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zambezi_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89840",
+            "filename": "Katima_Mulilo_NDB_NA",
+            "ident": "KL",
+            "name": "Katima Mulilo",
+            "type": "NDB",
+            "frequency_khz": "332",
+            "latitude_deg": "-17.634199142456055",
+            "longitude_deg": "24.181800842285156",
+            "elevation_ft": "3230",
+            "iso_country": "NA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.433",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FYKM"
+        }
+    ]
+}

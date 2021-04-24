@@ -1,0 +1,72 @@
+{
+    "id": "21151",
+    "ident": "KT42",
+    "type": "small_airport",
+    "name": "Ruth Airport",
+    "latitude_deg": "40.2113",
+    "longitude_deg": "-123.297997",
+    "elevation_ft": "2781",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Mad River",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "T42",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ruth_Airport",
+    "keywords": "Q95",
+    "runways": [
+        {
+            "id": "243362",
+            "airport_ref": "21151",
+            "airport_ident": "KT42",
+            "length_ft": "3500",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "40.2144",
+            "le_longitude_deg": "-123.302",
+            "le_elevation_ft": "2765",
+            "le_heading_degT": "142.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "40.2069",
+            "he_longitude_deg": "-123.294",
+            "he_elevation_ft": "2782",
+            "he_heading_degT": "322.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "65812",
+            "airport_ref": "21151",
+            "airport_ident": "KT42",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

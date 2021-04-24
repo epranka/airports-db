@@ -1,0 +1,88 @@
+{
+    "id": "20030",
+    "ident": "KHBV",
+    "type": "small_airport",
+    "name": "Jim Hogg County Airport",
+    "latitude_deg": "27.349599838256836",
+    "longitude_deg": "-98.73699951171875",
+    "elevation_ft": "663",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Hebbronville",
+    "scheduled_service": "no",
+    "gps_code": "KHBV",
+    "iata_code": "",
+    "local_code": "HBV",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241475",
+            "airport_ref": "20030",
+            "airport_ident": "KHBV",
+            "length_ft": "4999",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "27.3544",
+            "le_longitude_deg": "-98.7425",
+            "le_elevation_ft": "660",
+            "le_heading_degT": "134.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "27.3448",
+            "he_longitude_deg": "-98.7314",
+            "he_elevation_ft": "662",
+            "he_heading_degT": "314.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61946",
+            "airport_ref": "20030",
+            "airport_ident": "KHBV",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.075"
+        },
+        {
+            "id": "61947",
+            "airport_ref": "20030",
+            "airport_ident": "KHBV",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "61948",
+            "airport_ref": "20030",
+            "airport_ident": "KHBV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

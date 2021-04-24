@@ -1,0 +1,112 @@
+{
+    "id": "4214",
+    "ident": "LFRJ",
+    "type": "medium_airport",
+    "name": "Landivisiau Air Base",
+    "latitude_deg": "48.53030014038086",
+    "longitude_deg": "-4.151639938354492",
+    "elevation_ft": "348",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-BRE",
+    "municipality": "Landivisiau",
+    "scheduled_service": "no",
+    "gps_code": "LFRJ",
+    "iata_code": "LDV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235920",
+            "airport_ref": "4214",
+            "airport_ident": "LFRJ",
+            "length_ft": "8858",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "48.5267",
+            "le_longitude_deg": "-4.16917",
+            "le_elevation_ft": "330",
+            "le_heading_degT": "73",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "48.5336",
+            "he_longitude_deg": "-4.13417",
+            "he_elevation_ft": "336",
+            "he_heading_degT": "253",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52369",
+            "airport_ref": "4214",
+            "airport_ident": "LFRJ",
+            "type": "APP",
+            "description": "LANDI APP",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "52370",
+            "airport_ref": "4214",
+            "airport_ident": "LFRJ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "142.225"
+        },
+        {
+            "id": "52371",
+            "airport_ref": "4214",
+            "airport_ident": "LFRJ",
+            "type": "TWR",
+            "description": "LANDI TWR",
+            "frequency_mhz": "119.2"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306348",
+        "code": "FR-BRE",
+        "local_code": "BRE",
+        "name": "Brittany",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
+        "keywords": "Bretagne"
+    },
+    "navaids": [
+        {
+            "id": "90254",
+            "filename": "Landivisiau_TACAN_FR",
+            "ident": "LDV",
+            "name": "Landivisiau",
+            "type": "TACAN",
+            "frequency_khz": "115150",
+            "latitude_deg": "48.52830123901367",
+            "longitude_deg": "-4.156310081481934",
+            "elevation_ft": "364",
+            "iso_country": "FR",
+            "dme_frequency_khz": "115150",
+            "dme_channel": "098Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.007",
+            "magnetic_variation_deg": "-3.189",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFRJ"
+        }
+    ]
+}

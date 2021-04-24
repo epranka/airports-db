@@ -1,0 +1,72 @@
+{
+    "id": "21405",
+    "ident": "KX58",
+    "type": "small_airport",
+    "name": "Indiantown Airport",
+    "latitude_deg": "27.036399841308594",
+    "longitude_deg": "-80.44010162353516",
+    "elevation_ft": "30",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-FL",
+    "municipality": "Indiantown",
+    "scheduled_service": "no",
+    "gps_code": "KX58",
+    "iata_code": "",
+    "local_code": "X58",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "239880",
+            "airport_ref": "21405",
+            "airport_ident": "KX58",
+            "length_ft": "6300",
+            "width_ft": "75",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "27.0425",
+            "le_longitude_deg": "-80.4469",
+            "le_elevation_ft": "",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "600",
+            "he_ident": "31",
+            "he_latitude_deg": "27.0303",
+            "he_longitude_deg": "-80.4333",
+            "he_elevation_ft": "",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": "300"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "59129",
+            "airport_ref": "21405",
+            "airport_ident": "KX58",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": ""
+    }
+}

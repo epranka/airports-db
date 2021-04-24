@@ -1,0 +1,96 @@
+{
+    "id": "5177",
+    "ident": "OIKQ",
+    "type": "medium_airport",
+    "name": "Dayrestan Airport",
+    "latitude_deg": "26.754600524902344",
+    "longitude_deg": "55.902400970458984",
+    "elevation_ft": "45",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-23",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "OIKQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dayrestan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236835",
+            "airport_ref": "5177",
+            "airport_ident": "OIKQ",
+            "length_ft": "13864",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "26.7423",
+            "le_longitude_deg": "55.8862",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "49.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "26.767",
+            "he_longitude_deg": "55.9185",
+            "he_elevation_ft": "45",
+            "he_heading_degT": "229.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53998",
+            "airport_ref": "5177",
+            "airport_ident": "OIKQ",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.05"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304240",
+        "code": "IR-23",
+        "local_code": "23",
+        "name": "Hormozgan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hormozgan_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89776",
+            "filename": "Dayrestan_NDB-DME_IR",
+            "ident": "KHM",
+            "name": "Dayrestan",
+            "type": "NDB-DME",
+            "frequency_khz": "233",
+            "latitude_deg": "26.763099670410156",
+            "longitude_deg": "55.90769958496094",
+            "elevation_ft": "31",
+            "iso_country": "IR",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.424",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OIKQ"
+        }
+    ]
+}

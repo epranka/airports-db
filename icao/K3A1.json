@@ -1,0 +1,112 @@
+{
+    "id": "18667",
+    "ident": "K3A1",
+    "type": "small_airport",
+    "name": "Cullman Regional Airport-Folsom Field",
+    "latitude_deg": "34.2687",
+    "longitude_deg": "-86.858002",
+    "elevation_ft": "969",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Cullman",
+    "scheduled_service": "no",
+    "gps_code": "KCMD",
+    "iata_code": "",
+    "local_code": "CMD",
+    "home_link": "http://www.cullmanregionalairport.org/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Folsom_Field_(Alabama)",
+    "keywords": "3A1",
+    "runways": [
+        {
+            "id": "245877",
+            "airport_ref": "18667",
+            "airport_ident": "K3A1",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "34.2615",
+            "le_longitude_deg": "-86.8606",
+            "le_elevation_ft": "935",
+            "le_heading_degT": "17",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "34.2759",
+            "he_longitude_deg": "-86.8555",
+            "he_elevation_ft": "969",
+            "he_heading_degT": "197",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71252",
+            "airport_ref": "18667",
+            "airport_ident": "K3A1",
+            "type": "A/D",
+            "description": "HUNTSVILLE APP/DEP",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "71253",
+            "airport_ref": "18667",
+            "airport_ident": "K3A1",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "124.175"
+        },
+        {
+            "id": "71254",
+            "airport_ref": "18667",
+            "airport_ident": "K3A1",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86997",
+            "filename": "Cole_Spring_NDB_US",
+            "ident": "CPP",
+            "name": "Cole Spring",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "34.36790084838867",
+            "longitude_deg": "-86.82389831542969",
+            "elevation_ft": "830",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.227",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "K3A1"
+        }
+    ]
+}

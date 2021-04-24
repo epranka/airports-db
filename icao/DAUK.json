@@ -1,0 +1,104 @@
+{
+    "id": "2081",
+    "ident": "DAUK",
+    "type": "medium_airport",
+    "name": "Touggourt Sidi Madhi Airport",
+    "latitude_deg": "33.06779861450195",
+    "longitude_deg": "6.088669776916504",
+    "elevation_ft": "279",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-30",
+    "municipality": "Touggourt",
+    "scheduled_service": "yes",
+    "gps_code": "DAUK",
+    "iata_code": "TGR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Touggourt_Sidi_Madhi_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "232833",
+            "airport_ref": "2081",
+            "airport_ident": "DAUK",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "33.06",
+            "le_longitude_deg": "6.08722",
+            "le_elevation_ft": "279",
+            "le_heading_degT": "9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "33.0867",
+            "he_longitude_deg": "6.09194",
+            "he_elevation_ft": "259",
+            "he_heading_degT": "189",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48281",
+            "airport_ref": "2081",
+            "airport_ident": "DAUK",
+            "type": "RDO",
+            "description": "TOUGGOURT RDO",
+            "frequency_mhz": "889.4"
+        },
+        {
+            "id": "48282",
+            "airport_ref": "2081",
+            "airport_ident": "DAUK",
+            "type": "TWR",
+            "description": "TOUGGOURT TWR",
+            "frequency_mhz": "119.7"
+        }
+    ],
+    "country": {
+        "id": "302568",
+        "code": "DZ",
+        "name": "Algeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Algeria",
+        "keywords": "مطارات الجزائر"
+    },
+    "region": {
+        "id": "303632",
+        "code": "DZ-30",
+        "local_code": "30",
+        "name": "Ouargla Province",
+        "continent": "AF",
+        "iso_country": "DZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ouargla_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94332",
+            "filename": "Touggourt_VOR-DME_DZ",
+            "ident": "TGU",
+            "name": "Touggourt",
+            "type": "VOR-DME",
+            "frequency_khz": "113200",
+            "latitude_deg": "33.05690002441406",
+            "longitude_deg": "6.0886101722717285",
+            "elevation_ft": "279",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.19",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DAUK"
+        }
+    ]
+}

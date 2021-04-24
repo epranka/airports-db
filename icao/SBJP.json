@@ -1,0 +1,104 @@
+{
+    "id": "5923",
+    "ident": "SBJP",
+    "type": "medium_airport",
+    "name": "Presidente Castro Pinto International Airport",
+    "latitude_deg": "-7.145833015440001",
+    "longitude_deg": "-34.9486122131",
+    "elevation_ft": "217",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PB",
+    "municipality": "João Pessoa",
+    "scheduled_service": "yes",
+    "gps_code": "SBJP",
+    "iata_code": "JPA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Presidente_Castro_Pinto_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234373",
+            "airport_ref": "5923",
+            "airport_ident": "SBJP",
+            "length_ft": "8251",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49847",
+            "airport_ref": "5923",
+            "airport_ident": "SBJP",
+            "type": "APP",
+            "description": "PESSOA CON",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "49848",
+            "airport_ref": "5923",
+            "airport_ident": "SBJP",
+            "type": "TWR",
+            "description": "PESSOA TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303213",
+        "code": "BR-PB",
+        "local_code": "PB",
+        "name": "Paraíba",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraíba",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89541",
+            "filename": "Joao_Pessoa_NDB_BR",
+            "ident": "JPS",
+            "name": "Joao Pessoa",
+            "type": "NDB",
+            "frequency_khz": "320",
+            "latitude_deg": "-7.140500068664551",
+            "longitude_deg": "-34.95249938964844",
+            "elevation_ft": "215",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.086",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBJP"
+        }
+    ]
+}

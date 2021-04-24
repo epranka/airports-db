@@ -1,0 +1,72 @@
+{
+    "id": "29192",
+    "ident": "EGST",
+    "type": "small_airport",
+    "name": "Elmsett Airfield",
+    "latitude_deg": "52.077202",
+    "longitude_deg": "0.9775",
+    "elevation_ft": "246",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Hadleigh",
+    "scheduled_service": "no",
+    "gps_code": "EGST",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "257422",
+            "airport_ref": "29192",
+            "airport_ident": "EGST",
+            "length_ft": "2920",
+            "width_ft": "85",
+            "surface": "Grass",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "189",
+            "le_heading_degT": "49",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "242",
+            "he_heading_degT": "229",
+            "he_displaced_threshold_ft": "337"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71924",
+            "airport_ref": "29192",
+            "airport_ident": "EGST",
+            "type": "A/G",
+            "description": "Elmsett A/G",
+            "frequency_mhz": "130.9"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": "20582",
+    "ident": "KMWK",
+    "type": "small_airport",
+    "name": "Mount Airy Surry County Airport",
+    "latitude_deg": "36.45970154",
+    "longitude_deg": "-80.5530014",
+    "elevation_ft": "1249",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Mount Airy",
+    "scheduled_service": "no",
+    "gps_code": "KMWK",
+    "iata_code": "",
+    "local_code": "MWK",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mount_Airy/Surry_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241391",
+            "airport_ref": "20582",
+            "airport_ident": "KMWK",
+            "length_ft": "4302",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "36.4656",
+            "le_longitude_deg": "-80.5538",
+            "le_elevation_ft": "1242",
+            "le_heading_degT": "173.3",
+            "le_displaced_threshold_ft": "500",
+            "he_ident": "36",
+            "he_latitude_deg": "36.4539",
+            "he_longitude_deg": "-80.5521",
+            "he_elevation_ft": "1208",
+            "he_heading_degT": "353.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61745",
+            "airport_ref": "20582",
+            "airport_ident": "KMWK",
+            "type": "A/D",
+            "description": "GREENSBORO APP/DEP",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "61746",
+            "airport_ref": "20582",
+            "airport_ident": "KMWK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "61747",
+            "airport_ref": "20582",
+            "airport_ident": "KMWK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

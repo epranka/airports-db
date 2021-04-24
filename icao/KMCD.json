@@ -1,0 +1,88 @@
+{
+    "id": "20479",
+    "ident": "KMCD",
+    "type": "small_airport",
+    "name": "Mackinac Island Airport",
+    "latitude_deg": "45.86489868",
+    "longitude_deg": "-84.63729858",
+    "elevation_ft": "739",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Mackinac Island",
+    "scheduled_service": "no",
+    "gps_code": "KMCD",
+    "iata_code": "MCD",
+    "local_code": "MCD",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mackinac_Island_Airport",
+    "keywords": "Y84",
+    "runways": [
+        {
+            "id": "245521",
+            "airport_ref": "20479",
+            "airport_ident": "KMCD",
+            "length_ft": "3501",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "45.8637",
+            "le_longitude_deg": "-84.644",
+            "le_elevation_ft": "725",
+            "le_heading_degT": "75.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "45.8662",
+            "he_longitude_deg": "-84.6307",
+            "he_elevation_ft": "738",
+            "he_heading_degT": "255.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70502",
+            "airport_ref": "20479",
+            "airport_ident": "KMCD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.275"
+        },
+        {
+            "id": "70503",
+            "airport_ref": "20479",
+            "airport_ident": "KMCD",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "134.6"
+        },
+        {
+            "id": "70504",
+            "airport_ref": "20479",
+            "airport_ident": "KMCD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

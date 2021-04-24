@@ -1,0 +1,96 @@
+{
+    "id": "26803",
+    "ident": "WAWM",
+    "type": "small_airport",
+    "name": "Andi Jemma Airport",
+    "latitude_deg": "-2.55803",
+    "longitude_deg": "120.323997",
+    "elevation_ft": "164",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-SN",
+    "municipality": "Masamba-Celebes Island",
+    "scheduled_service": "yes",
+    "gps_code": "WAAM",
+    "iata_code": "MXB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Andi_Jemma_Airport",
+    "keywords": "WAWM",
+    "runways": [
+        {
+            "id": "236478",
+            "airport_ref": "26803",
+            "airport_ident": "WAWM",
+            "length_ft": "3133",
+            "width_ft": "82",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-2.56213",
+            "le_longitude_deg": "120.323",
+            "le_elevation_ft": "164",
+            "le_heading_degT": "18.8",
+            "le_displaced_threshold_ft": "111",
+            "he_ident": "20",
+            "he_latitude_deg": "-2.55396",
+            "he_longitude_deg": "120.326",
+            "he_elevation_ft": "164",
+            "he_heading_degT": "198.8",
+            "he_displaced_threshold_ft": "111"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53595",
+            "airport_ref": "26803",
+            "airport_ident": "WAWM",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "534"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304123",
+        "code": "ID-SN",
+        "local_code": "SN",
+        "name": "Sulawesi Selatan",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Selatan",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90700",
+            "filename": "Masamba_NDB_ID",
+            "ident": "MA",
+            "name": "Masamba",
+            "type": "NDB",
+            "frequency_khz": "244",
+            "latitude_deg": "-2.558039903640747",
+            "longitude_deg": "120.3239974975586",
+            "elevation_ft": "164",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.259",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAWM"
+        }
+    ]
+}

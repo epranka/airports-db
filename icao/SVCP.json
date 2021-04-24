@@ -1,0 +1,96 @@
+{
+    "id": "6270",
+    "ident": "SVCP",
+    "type": "medium_airport",
+    "name": "General Francisco Bermúdez Airport",
+    "latitude_deg": "10.660014152526855",
+    "longitude_deg": "-63.261680603027344",
+    "elevation_ft": "33",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-R",
+    "municipality": "Carúpano",
+    "scheduled_service": "yes",
+    "gps_code": "SVCP",
+    "iata_code": "CUP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246091",
+            "airport_ref": "6270",
+            "airport_ident": "SVCP",
+            "length_ft": "6611",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "10.6689",
+            "le_longitude_deg": "-63.2637",
+            "le_elevation_ft": "",
+            "le_heading_degT": "167.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "10.6511",
+            "he_longitude_deg": "-63.2597",
+            "he_elevation_ft": "",
+            "he_heading_degT": "347.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71670",
+            "airport_ref": "6270",
+            "airport_ident": "SVCP",
+            "type": "TWR",
+            "description": "CARUPANO TWR",
+            "frequency_mhz": "122.4"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306181",
+        "code": "VE-R",
+        "local_code": "R",
+        "name": "Sucre State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sucre_(state)",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87119",
+            "filename": "Carupano_NDB_VE",
+            "ident": "CUP",
+            "name": "Carupano",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "10.660300254821777",
+            "longitude_deg": "-63.257598876953125",
+            "elevation_ft": "",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.168",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SVCP"
+        }
+    ]
+}

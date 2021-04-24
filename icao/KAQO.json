@@ -1,0 +1,110 @@
+{
+    "id": "19297",
+    "ident": "KAQO",
+    "type": "small_airport",
+    "name": "Llano Municipal Airport",
+    "latitude_deg": "30.783700942993",
+    "longitude_deg": "-98.662002563477",
+    "elevation_ft": "1102",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Llano",
+    "scheduled_service": "no",
+    "gps_code": "KAQO",
+    "iata_code": "",
+    "local_code": "AQO",
+    "home_link": "http://www.cityofllano.com/137/Municipal-Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Llano_Municipal_Airport",
+    "keywords": "6R9",
+    "runways": [
+        {
+            "id": "244847",
+            "airport_ref": "19297",
+            "airport_ident": "KAQO",
+            "length_ft": "3240",
+            "width_ft": "150",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "30.7888",
+            "le_longitude_deg": "-98.6614",
+            "le_elevation_ft": "1102",
+            "le_heading_degT": "137.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "30.7822",
+            "he_longitude_deg": "-98.6545",
+            "he_elevation_ft": "1090",
+            "he_heading_degT": "317.5",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244848",
+            "airport_ref": "19297",
+            "airport_ident": "KAQO",
+            "length_ft": "4202",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "30.7895",
+            "le_longitude_deg": "-98.6621",
+            "le_elevation_ft": "1102",
+            "le_heading_degT": "179.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "30.778",
+            "he_longitude_deg": "-98.6619",
+            "he_elevation_ft": "1102",
+            "he_heading_degT": "359.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69002",
+            "airport_ref": "19297",
+            "airport_ident": "KAQO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.425"
+        },
+        {
+            "id": "69003",
+            "airport_ref": "19297",
+            "airport_ident": "KAQO",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "69004",
+            "airport_ref": "19297",
+            "airport_ident": "KAQO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": ""
+    }
+}

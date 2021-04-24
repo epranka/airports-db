@@ -1,0 +1,104 @@
+{
+    "id": "26961",
+    "ident": "YCOE",
+    "type": "medium_airport",
+    "name": "Coen Airport",
+    "latitude_deg": "-13.761133",
+    "longitude_deg": "143.113311",
+    "elevation_ft": "532",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Coen",
+    "scheduled_service": "yes",
+    "gps_code": "YCOE",
+    "iata_code": "CUQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Coen_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "233117",
+            "airport_ref": "26961",
+            "airport_ident": "YCOE",
+            "length_ft": "4107",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-13.7606",
+            "le_longitude_deg": "143.112",
+            "le_elevation_ft": "522",
+            "le_heading_degT": "113.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "-13.7649",
+            "he_longitude_deg": "143.122",
+            "he_elevation_ft": "532",
+            "he_heading_degT": "293.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48561",
+            "airport_ref": "26961",
+            "airport_ident": "YCOE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48562",
+            "airport_ref": "26961",
+            "airport_ident": "YCOE",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "86945",
+            "filename": "Coen_NDB_AU",
+            "ident": "COE",
+            "name": "Coen",
+            "type": "NDB",
+            "frequency_khz": "404",
+            "latitude_deg": "-13.76609992980957",
+            "longitude_deg": "143.11700439453125",
+            "elevation_ft": "532",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.053",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YCOE"
+        }
+    ]
+}

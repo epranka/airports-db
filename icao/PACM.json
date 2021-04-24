@@ -1,0 +1,102 @@
+{
+    "id": "5347",
+    "ident": "PACM",
+    "type": "medium_airport",
+    "name": "Scammon Bay Airport",
+    "latitude_deg": "61.845298767100005",
+    "longitude_deg": "-165.570999146",
+    "elevation_ft": "14",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Scammon Bay",
+    "scheduled_service": "no",
+    "gps_code": "PACM",
+    "iata_code": "SCM",
+    "local_code": "SCM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "253431",
+            "airport_ref": "5347",
+            "airport_ident": "PACM",
+            "length_ft": "10000",
+            "width_ft": "500",
+            "surface": "WATER-E",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04W",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22W",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "239708",
+            "airport_ref": "5347",
+            "airport_ident": "PACM",
+            "length_ft": "3000",
+            "width_ft": "75",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "61.8462",
+            "le_longitude_deg": "-165.582",
+            "le_elevation_ft": "14",
+            "le_heading_degT": "113",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "61.8429",
+            "he_longitude_deg": "-165.566",
+            "he_elevation_ft": "14",
+            "he_heading_degT": "293",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58804",
+            "airport_ref": "5347",
+            "airport_ident": "PACM",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "58805",
+            "airport_ref": "5347",
+            "airport_ident": "PACM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": ""
+    }
+}

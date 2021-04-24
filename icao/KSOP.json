@@ -1,0 +1,118 @@
+{
+    "id": "21096",
+    "ident": "KSOP",
+    "type": "small_airport",
+    "name": "Moore County Airport",
+    "latitude_deg": "35.23740005",
+    "longitude_deg": "-79.3911972",
+    "elevation_ft": "455",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Pinehurst/Southern Pines",
+    "scheduled_service": "no",
+    "gps_code": "KSOP",
+    "iata_code": "SOP",
+    "local_code": "SOP",
+    "home_link": "http://moorecountyairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Moore_County_Airport_(North_Carolina)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "244931",
+            "airport_ref": "21096",
+            "airport_ident": "KSOP",
+            "length_ft": "5503",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "35.2324",
+            "le_longitude_deg": "-79.3954",
+            "le_elevation_ft": "455",
+            "le_heading_degT": "46.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "35.2428",
+            "he_longitude_deg": "-79.3821",
+            "he_elevation_ft": "431",
+            "he_heading_degT": "226.2",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "244932",
+            "airport_ref": "21096",
+            "airport_ident": "KSOP",
+            "length_ft": "1999",
+            "width_ft": "100",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "14",
+            "le_latitude_deg": "35.2387",
+            "le_longitude_deg": "-79.4",
+            "le_elevation_ft": "459",
+            "le_heading_degT": "137.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "35.2346",
+            "he_longitude_deg": "-79.3954",
+            "he_elevation_ft": "449",
+            "he_heading_degT": "317.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69207",
+            "airport_ref": "21096",
+            "airport_ident": "KSOP",
+            "type": "A/D",
+            "description": "FAYETTEVILLE APP/DEP",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "69208",
+            "airport_ref": "21096",
+            "airport_ident": "KSOP",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "127.575"
+        },
+        {
+            "id": "69209",
+            "airport_ref": "21096",
+            "airport_ident": "KSOP",
+            "type": "CLD",
+            "description": "FAYETTEVILLE CLNCDEL",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "69210",
+            "airport_ref": "21096",
+            "airport_ident": "KSOP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

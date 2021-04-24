@@ -1,0 +1,96 @@
+{
+    "id": "6216",
+    "ident": "SPHZ",
+    "type": "medium_airport",
+    "name": "Comandante FAP German Arias Graziani Airport",
+    "latitude_deg": "-9.347439765930176",
+    "longitude_deg": "-77.59839630126953",
+    "elevation_ft": "9097",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-ANC",
+    "municipality": "Anta",
+    "scheduled_service": "no",
+    "gps_code": "SPHZ",
+    "iata_code": "ATA",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Comandante_FAP_Germ%C3%A1n_Arias_Graziani_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238155",
+            "airport_ref": "6216",
+            "airport_ident": "SPHZ",
+            "length_ft": "10007",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-9.33449",
+            "le_longitude_deg": "-77.6027",
+            "le_elevation_ft": "9022",
+            "le_heading_degT": "161.7",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-9.3604",
+            "he_longitude_deg": "-77.5941",
+            "he_elevation_ft": "9022",
+            "he_heading_degT": "341.7",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56109",
+            "airport_ref": "6216",
+            "airport_ident": "SPHZ",
+            "type": "RDO",
+            "description": "ANTA RDO",
+            "frequency_mhz": "126.9"
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Perú",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305008",
+        "code": "PE-ANC",
+        "local_code": "ANC",
+        "name": "Ancash Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ancash_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85655",
+            "filename": "Anta_NDB_PE",
+            "ident": "ATA",
+            "name": "Anta",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "-9.350669860839844",
+            "longitude_deg": "-77.5979995727539",
+            "elevation_ft": "9022",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.162",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SPHZ"
+        }
+    ]
+}

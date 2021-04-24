@@ -1,0 +1,96 @@
+{
+    "id": "26705",
+    "ident": "VVPQ",
+    "type": "medium_airport",
+    "name": "Phu Quoc International Airport",
+    "latitude_deg": "10.1698",
+    "longitude_deg": "103.9931",
+    "elevation_ft": "37",
+    "continent": "AS",
+    "iso_country": "VN",
+    "iso_region": "VN-47",
+    "municipality": "Phu Quoc Island",
+    "scheduled_service": "yes",
+    "gps_code": "VVPQ",
+    "iata_code": "PQC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Phu_Quoc_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246182",
+            "airport_ref": "26705",
+            "airport_ident": "VVPQ",
+            "length_ft": "9843",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "10.1712",
+            "le_longitude_deg": "103.979",
+            "le_elevation_ft": "",
+            "le_heading_degT": "96",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "10.1685",
+            "he_longitude_deg": "104.007",
+            "he_elevation_ft": "",
+            "he_heading_degT": "276",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71760",
+            "airport_ref": "26705",
+            "airport_ident": "VVPQ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
+    "country": {
+        "id": "302670",
+        "code": "VN",
+        "name": "Vietnam",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vietnam",
+        "keywords": "Các sân bay của Việt Nam"
+    },
+    "region": {
+        "id": "306230",
+        "code": "VN-47",
+        "local_code": "47",
+        "name": "Kien Giang Province",
+        "continent": "AS",
+        "iso_country": "VN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kien_Giang_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "92654",
+            "filename": "Phuquoc_NDB_VN",
+            "ident": "PQ",
+            "name": "Phuquoc",
+            "type": "NDB",
+            "frequency_khz": "278",
+            "latitude_deg": "10.223600387573242",
+            "longitude_deg": "103.96199798583984",
+            "elevation_ft": "",
+            "iso_country": "VN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.143",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VVPQ"
+        }
+    ]
+}

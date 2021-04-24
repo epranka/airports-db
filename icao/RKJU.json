@@ -1,0 +1,80 @@
+{
+    "id": "5633",
+    "ident": "RKJU",
+    "type": "small_airport",
+    "name": "Jeon Ju Airport (G-703)",
+    "latitude_deg": "35.87808",
+    "longitude_deg": "127.119112",
+    "elevation_ft": "96",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-45",
+    "municipality": "Jeon Ju",
+    "scheduled_service": "no",
+    "gps_code": "RKJU",
+    "iata_code": "CHN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jeonju_Airport",
+    "keywords": "Jun Ju, Jeonju",
+    "runways": [
+        {
+            "id": "237297",
+            "airport_ref": "5633",
+            "airport_ident": "RKJU",
+            "length_ft": "4800",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "35.876",
+            "le_longitude_deg": "127.112",
+            "le_elevation_ft": "",
+            "le_heading_degT": "69",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "35.8809",
+            "he_longitude_deg": "127.127",
+            "he_elevation_ft": "",
+            "he_heading_degT": "249",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54905",
+            "airport_ref": "5633",
+            "airport_ident": "RKJU",
+            "type": "ACP",
+            "description": "BRICKWALL",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "54906",
+            "airport_ref": "5633",
+            "airport_ident": "RKJU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "31"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304411",
+        "code": "KR-45",
+        "local_code": "45",
+        "name": "Jeonrabugdo",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jeonrabugdo",
+        "keywords": ""
+    }
+}

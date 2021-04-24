@@ -1,0 +1,88 @@
+{
+    "id": "20374",
+    "ident": "KLRY",
+    "type": "small_airport",
+    "name": "Lawrence Smith Memorial Airport",
+    "latitude_deg": "38.611000061035156",
+    "longitude_deg": "-94.34210205078125",
+    "elevation_ft": "915",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Harrisonville",
+    "scheduled_service": "no",
+    "gps_code": "KLRY",
+    "iata_code": "",
+    "local_code": "LRY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245313",
+            "airport_ref": "20374",
+            "airport_ident": "KLRY",
+            "length_ft": "4000",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "38.6157",
+            "le_longitude_deg": "-94.3439",
+            "le_elevation_ft": "915",
+            "le_heading_degT": "177",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "38.6047",
+            "he_longitude_deg": "-94.3432",
+            "he_elevation_ft": "875",
+            "he_heading_degT": "357",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "70034",
+            "airport_ref": "20374",
+            "airport_ident": "KLRY",
+            "type": "A/D",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "125.55"
+        },
+        {
+            "id": "70035",
+            "airport_ref": "20374",
+            "airport_ident": "KLRY",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.975"
+        },
+        {
+            "id": "70036",
+            "airport_ref": "20374",
+            "airport_ident": "KLRY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": ""
+    }
+}

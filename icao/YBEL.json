@@ -1,0 +1,80 @@
+{
+    "id": "27368",
+    "ident": "YBEL",
+    "type": "small_airport",
+    "name": "Bothwell Airport",
+    "latitude_deg": "-42.36669921875",
+    "longitude_deg": "147.0330047607422",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YBEL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "258270",
+            "airport_ref": "27368",
+            "airport_ident": "YBEL",
+            "length_ft": "4790",
+            "width_ft": "",
+            "surface": "G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72201",
+            "airport_ref": "27368",
+            "airport_ident": "YBEL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "72202",
+            "airport_ref": "27368",
+            "airport_ident": "YBEL",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "130.4"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302973",
+        "code": "AU-TAS",
+        "local_code": "TAS",
+        "name": "Tasmania",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
+        "keywords": ""
+    }
+}

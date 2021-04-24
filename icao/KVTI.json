@@ -1,0 +1,110 @@
+{
+    "id": "21338",
+    "ident": "KVTI",
+    "type": "small_airport",
+    "name": "Vinton Veterans Memorial Airpark",
+    "latitude_deg": "42.21860123",
+    "longitude_deg": "-92.02590179",
+    "elevation_ft": "842",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "Vinton",
+    "scheduled_service": "no",
+    "gps_code": "KVTI",
+    "iata_code": "",
+    "local_code": "VTI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245100",
+            "airport_ref": "21338",
+            "airport_ident": "KVTI",
+            "length_ft": "4000",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "42.2195",
+            "le_longitude_deg": "-92.0354",
+            "le_elevation_ft": "824",
+            "le_heading_degT": "92",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "42.219",
+            "he_longitude_deg": "-92.0206",
+            "he_elevation_ft": "838",
+            "he_heading_degT": "272",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245101",
+            "airport_ref": "21338",
+            "airport_ident": "KVTI",
+            "length_ft": "2500",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "42.2229",
+            "le_longitude_deg": "-92.0261",
+            "le_elevation_ft": "838",
+            "le_heading_degT": "161",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "42.2165",
+            "he_longitude_deg": "-92.0231",
+            "he_elevation_ft": "839",
+            "he_heading_degT": "341",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69584",
+            "airport_ref": "21338",
+            "airport_ident": "KVTI",
+            "type": "A/D",
+            "description": "CEDAR RAPIDS APP/DEP",
+            "frequency_mhz": "134.05"
+        },
+        {
+            "id": "69585",
+            "airport_ref": "21338",
+            "airport_ident": "KVTI",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.075"
+        },
+        {
+            "id": "69586",
+            "airport_ref": "21338",
+            "airport_ident": "KVTI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": ""
+    }
+}

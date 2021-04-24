@@ -1,0 +1,72 @@
+{
+    "id": "6266",
+    "ident": "SVCJ",
+    "type": "small_airport",
+    "name": "San Carlos Airport",
+    "latitude_deg": "9.647720336914062",
+    "longitude_deg": "-68.57469940185547",
+    "elevation_ft": "512",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-H",
+    "municipality": "San Carlos",
+    "scheduled_service": "no",
+    "gps_code": "SVCJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "246101",
+            "airport_ref": "6266",
+            "airport_ident": "SVCJ",
+            "length_ft": "6575",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "9.65481",
+            "le_longitude_deg": "-68.5803",
+            "le_elevation_ft": "",
+            "le_heading_degT": "141.5",
+            "le_displaced_threshold_ft": "980",
+            "he_ident": "33",
+            "he_latitude_deg": "9.64063",
+            "he_longitude_deg": "-68.569",
+            "he_elevation_ft": "",
+            "he_heading_degT": "321.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71680",
+            "airport_ref": "6266",
+            "airport_ident": "SVCJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306172",
+        "code": "VE-H",
+        "local_code": "H",
+        "name": "Cojedes State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cojedes_(state)",
+        "keywords": ""
+    }
+}

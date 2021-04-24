@@ -1,0 +1,96 @@
+{
+    "id": "27786",
+    "ident": "YMLS",
+    "type": "small_airport",
+    "name": "Miles Airport",
+    "latitude_deg": "-26.808300018311",
+    "longitude_deg": "150.17500305176",
+    "elevation_ft": "304",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YMLS",
+    "iata_code": "WLE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "259026",
+            "airport_ref": "27786",
+            "airport_ident": "YMLS",
+            "length_ft": "5217",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "3274",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "3287",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "73862",
+            "airport_ref": "27786",
+            "airport_ident": "YMLS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.9"
+        },
+        {
+            "id": "73863",
+            "airport_ref": "27786",
+            "airport_ident": "YMLS",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "113.7"
+        },
+        {
+            "id": "73864",
+            "airport_ref": "27786",
+            "airport_ident": "YMLS",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "73865",
+            "airport_ref": "27786",
+            "airport_ident": "YMLS",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.1"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": ""
+    }
+}

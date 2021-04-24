@@ -1,0 +1,96 @@
+{
+    "id": "6362",
+    "ident": "TDPD",
+    "type": "medium_airport",
+    "name": "Douglas-Charles Airport",
+    "latitude_deg": "15.547",
+    "longitude_deg": "-61.299999",
+    "elevation_ft": "73",
+    "continent": "NA",
+    "iso_country": "DM",
+    "iso_region": "DM-02",
+    "municipality": "Marigot",
+    "scheduled_service": "yes",
+    "gps_code": "TDPD",
+    "iata_code": "DOM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Melville_Hall_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235481",
+            "airport_ref": "6362",
+            "airport_ident": "TDPD",
+            "length_ft": "4777",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "15.5448",
+            "le_longitude_deg": "-61.3064",
+            "le_elevation_ft": "71",
+            "le_heading_degT": "70",
+            "le_displaced_threshold_ft": "174",
+            "he_ident": "27",
+            "he_latitude_deg": "15.5493",
+            "he_longitude_deg": "-61.2936",
+            "he_elevation_ft": "14",
+            "he_heading_degT": "250",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51756",
+            "airport_ref": "6362",
+            "airport_ident": "TDPD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302733",
+        "code": "DM",
+        "name": "Dominica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dominica",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306401",
+        "code": "DM-02",
+        "local_code": "02",
+        "name": "Saint Andrew Parish",
+        "continent": "NA",
+        "iso_country": "DM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Andrew_Parish,_Dominica",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "87489",
+            "filename": "Melville_Hall_NDB_DM",
+            "ident": "DOM",
+            "name": "Melville Hall",
+            "type": "NDB",
+            "frequency_khz": "273",
+            "latitude_deg": "15.55090045928955",
+            "longitude_deg": "-61.29560089111328",
+            "elevation_ft": "80",
+            "iso_country": "DM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.32",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "TDPD"
+        }
+    ]
+}

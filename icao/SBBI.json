@@ -1,0 +1,112 @@
+{
+    "id": "5870",
+    "ident": "SBBI",
+    "type": "medium_airport",
+    "name": "Bacacheri Airport",
+    "latitude_deg": "-25.4051",
+    "longitude_deg": "-49.231998",
+    "elevation_ft": "3057",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Curitiba",
+    "scheduled_service": "no",
+    "gps_code": "SBBI",
+    "iata_code": "BFH",
+    "local_code": "PR0006",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bacacheri_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234033",
+            "airport_ref": "5870",
+            "airport_ident": "SBBI",
+            "length_ft": "4560",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-25.3993",
+            "le_longitude_deg": "-49.2346",
+            "le_elevation_ft": "3057",
+            "le_heading_degT": "155",
+            "le_displaced_threshold_ft": "1016",
+            "he_ident": "36",
+            "he_latitude_deg": "-25.4109",
+            "he_longitude_deg": "-49.2294",
+            "he_elevation_ft": "3057",
+            "he_heading_degT": "335",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49604",
+            "airport_ref": "5870",
+            "airport_ident": "SBBI",
+            "type": "APP",
+            "description": "CURITIBA APP",
+            "frequency_mhz": "119.95"
+        },
+        {
+            "id": "49605",
+            "airport_ref": "5870",
+            "airport_ident": "SBBI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "49606",
+            "airport_ref": "5870",
+            "airport_ident": "SBBI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303216",
+        "code": "BR-PR",
+        "local_code": "PR",
+        "name": "Paraná",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "85868",
+            "filename": "Bacacheri_NDB_BR",
+            "ident": "BCH",
+            "name": "Bacacheri",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "-25.402700424194336",
+            "longitude_deg": "-49.229000091552734",
+            "elevation_ft": "3057",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.582",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBBI"
+        }
+    ]
+}

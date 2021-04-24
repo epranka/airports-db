@@ -1,0 +1,96 @@
+{
+    "id": "5769",
+    "ident": "SAAR",
+    "type": "medium_airport",
+    "name": "Islas Malvinas Airport",
+    "latitude_deg": "-32.9036",
+    "longitude_deg": "-60.785",
+    "elevation_ft": "85",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-S",
+    "municipality": "Rosario",
+    "scheduled_service": "yes",
+    "gps_code": "SAAR",
+    "iata_code": "ROS",
+    "local_code": "ROS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rosario_International_Airport",
+    "keywords": "Fisherton Airport",
+    "runways": [
+        {
+            "id": "233052",
+            "airport_ref": "5769",
+            "airport_ident": "SAAR",
+            "length_ft": "9842",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-32.9168",
+            "le_longitude_deg": "-60.7876",
+            "le_elevation_ft": "82",
+            "le_heading_degT": "10",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "-32.8903",
+            "he_longitude_deg": "-60.7816",
+            "he_elevation_ft": "77",
+            "he_heading_degT": "190",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48465",
+            "airport_ref": "5769",
+            "airport_ident": "SAAR",
+            "type": "TWR",
+            "description": "TWR/APP",
+            "frequency_mhz": "118.7"
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302947",
+        "code": "AR-S",
+        "local_code": "S",
+        "name": "Santa Fe Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Fe_Province",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93202",
+            "filename": "Rosario_VOR-DME_AR",
+            "ident": "ROS",
+            "name": "Rosario",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "-32.904998779296875",
+            "longitude_deg": "-60.78139877319336",
+            "elevation_ft": "80",
+            "iso_country": "AR",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-5.508",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAAR"
+        }
+    ]
+}

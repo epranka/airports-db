@@ -1,0 +1,80 @@
+{
+    "id": "2554",
+    "ident": "EKSN",
+    "type": "medium_airport",
+    "name": "Sindal Airport",
+    "latitude_deg": "57.503502",
+    "longitude_deg": "10.2294",
+    "elevation_ft": "92",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-81",
+    "municipality": "Sindal",
+    "scheduled_service": "yes",
+    "gps_code": "EKSN",
+    "iata_code": "CNL",
+    "local_code": "",
+    "home_link": "http://www.eksn.dk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sindal_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235473",
+            "airport_ref": "2554",
+            "airport_ident": "EKSN",
+            "length_ft": "3934",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "57.5032",
+            "le_longitude_deg": "10.2194",
+            "le_elevation_ft": "91",
+            "le_heading_degT": "86",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "57.5039",
+            "he_longitude_deg": "10.2394",
+            "he_elevation_ft": "92",
+            "he_heading_degT": "266",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51742",
+            "airport_ref": "2554",
+            "airport_ident": "EKSN",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.75"
+        },
+        {
+            "id": "51743",
+            "airport_ref": "2554",
+            "airport_ident": "EKSN",
+            "type": "APP",
+            "description": "AALBORG APP",
+            "frequency_mhz": "123.975"
+        }
+    ],
+    "country": {
+        "id": "302682",
+        "code": "DK",
+        "name": "Denmark",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
+        "keywords": "Lufthavnene i Danmark"
+    },
+    "region": {
+        "id": "306329",
+        "code": "DK-81",
+        "local_code": "81",
+        "name": "North Jutland",
+        "continent": "EU",
+        "iso_country": "DK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Jutland",
+        "keywords": "Nordjylland"
+    }
+}

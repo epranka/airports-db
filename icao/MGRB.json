@@ -1,0 +1,96 @@
+{
+    "id": "4646",
+    "ident": "MGRB",
+    "type": "medium_airport",
+    "name": "Rubelsanto Airport",
+    "latitude_deg": "15.991999626159668",
+    "longitude_deg": "-90.44529724121094",
+    "elevation_ft": "426",
+    "continent": "NA",
+    "iso_country": "GT",
+    "iso_region": "GT-AV",
+    "municipality": "Rubelsanto",
+    "scheduled_service": "no",
+    "gps_code": "MGRB",
+    "iata_code": "RUV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236391",
+            "airport_ref": "4646",
+            "airport_ident": "MGRB",
+            "length_ft": "4690",
+            "width_ft": "70",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "15.9918",
+            "le_longitude_deg": "-90.452",
+            "le_elevation_ft": "",
+            "le_heading_degT": "88",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "15.9922",
+            "he_longitude_deg": "-90.4386",
+            "he_elevation_ft": "",
+            "he_heading_degT": "268",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53447",
+            "airport_ref": "4646",
+            "airport_ident": "MGRB",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302738",
+        "code": "GT",
+        "name": "Guatemala",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guatemala",
+        "keywords": "Aeropuertos de Guatemala"
+    },
+    "region": {
+        "id": "303960",
+        "code": "GT-AV",
+        "local_code": "AV",
+        "name": "Alta Verapez Department",
+        "continent": "NA",
+        "iso_country": "GT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alta_Verapez_Department",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93276",
+            "filename": "Rubelsanto_NDB_GT",
+            "ident": "RUB",
+            "name": "Rubelsanto",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "15.991999626159668",
+            "longitude_deg": "-90.44889831542969",
+            "elevation_ft": "426",
+            "iso_country": "GT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.224",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "MGRB"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "20963",
+    "ident": "KRSN",
+    "type": "small_airport",
+    "name": "Ruston Regional Airport",
+    "latitude_deg": "32.514400482178",
+    "longitude_deg": "-92.591697692871",
+    "elevation_ft": "311",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-LA",
+    "municipality": "Ruston",
+    "scheduled_service": "no",
+    "gps_code": "KRSN",
+    "iata_code": "RSN",
+    "local_code": "RSN",
+    "home_link": "http://www.ruston.org/departments.aspx?p_PageAlias=regional-airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ruston_Regional_Airport",
+    "keywords": "3L5",
+    "runways": [
+        {
+            "id": "242651",
+            "airport_ref": "20963",
+            "airport_ident": "KRSN",
+            "length_ft": "5003",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "32.5215",
+            "le_longitude_deg": "-92.5883",
+            "le_elevation_ft": "276",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "32.5077",
+            "he_longitude_deg": "-92.5883",
+            "he_elevation_ft": "309",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64357",
+            "airport_ref": "20963",
+            "airport_ident": "KRSN",
+            "type": "A/D",
+            "description": "MONROE APP/DEP",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "64358",
+            "airport_ref": "20963",
+            "airport_ident": "KRSN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.525"
+        },
+        {
+            "id": "64359",
+            "airport_ref": "20963",
+            "airport_ident": "KRSN",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "64360",
+            "airport_ref": "20963",
+            "airport_ident": "KRSN",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": ""
+    }
+}

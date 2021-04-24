@@ -1,0 +1,120 @@
+{
+    "id": "4806",
+    "ident": "MRLB",
+    "type": "large_airport",
+    "name": "Daniel Oduber Quiros International Airport",
+    "latitude_deg": "10.5933",
+    "longitude_deg": "-85.544403",
+    "elevation_ft": "270",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-G",
+    "municipality": "Liberia",
+    "scheduled_service": "yes",
+    "gps_code": "MRLB",
+    "iata_code": "LIR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Daniel_Oduber_Quir%C3%B3s_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235375",
+            "airport_ref": "4806",
+            "airport_ident": "MRLB",
+            "length_ft": "9022",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "10.5891",
+            "le_longitude_deg": "-85.5563",
+            "le_elevation_ft": "249",
+            "le_heading_degT": "70",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "10.5975",
+            "he_longitude_deg": "-85.5325",
+            "he_elevation_ft": "269",
+            "he_heading_degT": "250",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "51587",
+            "airport_ref": "4806",
+            "airport_ident": "MRLB",
+            "type": "APP",
+            "description": "LIBERIA APP",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "51588",
+            "airport_ref": "4806",
+            "airport_ident": "MRLB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "51589",
+            "airport_ref": "4806",
+            "airport_ident": "MRLB",
+            "type": "RDO",
+            "description": "COCO RDO",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "51590",
+            "airport_ref": "4806",
+            "airport_ident": "MRLB",
+            "type": "TWR",
+            "description": "LIBERIA TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302731",
+        "code": "CR",
+        "name": "Costa Rica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
+        "keywords": "Aeropuertos de Costa Rica"
+    },
+    "region": {
+        "id": "303493",
+        "code": "CR-G",
+        "local_code": "G",
+        "name": "Guanacaste",
+        "continent": "NA",
+        "iso_country": "CR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guanacaste",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90337",
+            "filename": "Liberia_VOR-DME_CR",
+            "ident": "LIB",
+            "name": "Liberia",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "10.593299865722656",
+            "longitude_deg": "-85.54669952392578",
+            "elevation_ft": "270",
+            "iso_country": "CR",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.348",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MRLB"
+        }
+    ]
+}

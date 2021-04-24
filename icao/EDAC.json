@@ -1,0 +1,142 @@
+{
+    "id": "2184",
+    "ident": "EDAC",
+    "type": "medium_airport",
+    "name": "Altenburg-Nobitz Airport",
+    "latitude_deg": "50.981945",
+    "longitude_deg": "12.506389",
+    "elevation_ft": "640",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-TH",
+    "municipality": "Altenburg",
+    "scheduled_service": "no",
+    "gps_code": "EDAC",
+    "iata_code": "AOC",
+    "local_code": "",
+    "home_link": "http://www.leipzig-altenburg-airport.de/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Altenburg-Nobitz_Airport",
+    "keywords": "Altenburg Nobitz",
+    "runways": [
+        {
+            "id": "236174",
+            "airport_ref": "2184",
+            "airport_ident": "EDAC",
+            "length_ft": "7333",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "50.9742",
+            "le_longitude_deg": "12.4965",
+            "le_elevation_ft": "639",
+            "le_heading_degT": "41",
+            "le_displaced_threshold_ft": "853",
+            "he_ident": "22",
+            "he_latitude_deg": "50.9911",
+            "he_longitude_deg": "12.5185",
+            "he_elevation_ft": "605",
+            "he_heading_degT": "221",
+            "he_displaced_threshold_ft": "985"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52857",
+            "airport_ref": "2184",
+            "airport_ident": "EDAC",
+            "type": "AAS",
+            "description": "INFO",
+            "frequency_mhz": "123.575"
+        },
+        {
+            "id": "52858",
+            "airport_ref": "2184",
+            "airport_ident": "EDAC",
+            "type": "INFO",
+            "description": "MUNCHEN INFO",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "52859",
+            "airport_ref": "2184",
+            "airport_ident": "EDAC",
+            "type": "RDR",
+            "description": "MUNCHEN RADAR",
+            "frequency_mhz": "132.3"
+        },
+        {
+            "id": "52860",
+            "airport_ref": "2184",
+            "airport_ident": "EDAC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.575"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303562",
+        "code": "DE-TH",
+        "local_code": "TH",
+        "name": "Thuringia",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thuringia",
+        "keywords": "Thueringen, Freistaat Thüringen"
+    },
+    "navaids": [
+        {
+            "id": "85221",
+            "filename": "Altenburg_NDB_DE",
+            "ident": "ABU",
+            "name": "Altenburg",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "50.99380111694336",
+            "longitude_deg": "12.520999908447266",
+            "elevation_ft": "581",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.561",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDAC"
+        },
+        {
+            "id": "85303",
+            "filename": "Altenburg_DME_DE",
+            "ident": "AGD",
+            "name": "Altenburg",
+            "type": "DME",
+            "frequency_khz": "115300",
+            "latitude_deg": "50.98270034790039",
+            "longitude_deg": "12.512299537658691",
+            "elevation_ft": "624",
+            "iso_country": "DE",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.542",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDAC"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "18792",
+    "ident": "K48I",
+    "type": "small_airport",
+    "name": "Braxton County Airport",
+    "latitude_deg": "38.68700027",
+    "longitude_deg": "-80.65180206",
+    "elevation_ft": "1276",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WV",
+    "municipality": "Sutton",
+    "scheduled_service": "no",
+    "gps_code": "K48I",
+    "iata_code": "",
+    "local_code": "48I",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "241113",
+            "airport_ref": "18792",
+            "airport_ident": "K48I",
+            "length_ft": "4000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "38.6815",
+            "le_longitude_deg": "-80.6532",
+            "le_elevation_ft": "1253",
+            "le_heading_degT": "10",
+            "le_displaced_threshold_ft": "400",
+            "he_ident": "19",
+            "he_latitude_deg": "38.6924",
+            "he_longitude_deg": "-80.6507",
+            "he_elevation_ft": "1275",
+            "he_heading_degT": "190",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "61180",
+            "airport_ref": "18792",
+            "airport_ident": "K48I",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "121.15"
+        },
+        {
+            "id": "61181",
+            "airport_ref": "18792",
+            "airport_ident": "K48I",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306126",
+        "code": "US-WV",
+        "local_code": "WV",
+        "name": "West Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
+        "keywords": ""
+    }
+}

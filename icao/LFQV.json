@@ -1,0 +1,72 @@
+{
+    "id": "4204",
+    "ident": "LFQV",
+    "type": "medium_airport",
+    "name": "Charleville-Mézières Airport",
+    "latitude_deg": "49.78390121459961",
+    "longitude_deg": "4.647079944610596",
+    "elevation_ft": "492",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "Charleville-Mézières",
+    "scheduled_service": "no",
+    "gps_code": "LFQV",
+    "iata_code": "XCZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235933",
+            "airport_ref": "4204",
+            "airport_ident": "LFQV",
+            "length_ft": "4921",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "49.7865",
+            "le_longitude_deg": "4.63743",
+            "le_elevation_ft": "492",
+            "le_heading_degT": "112.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "49.7814",
+            "he_longitude_deg": "4.65671",
+            "he_elevation_ft": "482",
+            "he_heading_degT": "292.1",
+            "he_displaced_threshold_ft": "656"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52401",
+            "airport_ref": "4204",
+            "airport_ident": "LFQV",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "119"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306353",
+        "code": "FR-GES",
+        "local_code": "GES",
+        "name": "Grand Est",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
+        "keywords": ""
+    }
+}

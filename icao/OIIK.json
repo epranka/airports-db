@@ -1,0 +1,88 @@
+{
+    "id": "5169",
+    "ident": "OIIK",
+    "type": "medium_airport",
+    "name": "Qazvin Airport",
+    "latitude_deg": "36.240101",
+    "longitude_deg": "50.0471",
+    "elevation_ft": "4184",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-28",
+    "municipality": "Qazvin",
+    "scheduled_service": "no",
+    "gps_code": "OIIK",
+    "iata_code": "GZW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Qazvin_Airport",
+    "keywords": "Ghazvin",
+    "runways": [
+        {
+            "id": "236898",
+            "airport_ref": "5169",
+            "airport_ident": "OIIK",
+            "length_ft": "3670",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "36.2409",
+            "le_longitude_deg": "50.041",
+            "le_elevation_ft": "4184",
+            "le_heading_degT": "99.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "36.2392",
+            "he_longitude_deg": "50.0533",
+            "he_elevation_ft": "4172",
+            "he_heading_degT": "279.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "54065",
+            "airport_ref": "5169",
+            "airport_ident": "OIIK",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "75298",
+            "airport_ref": "5169",
+            "airport_ident": "OIIK",
+            "type": "Manual",
+            "description": "Meraj Dispatch",
+            "frequency_mhz": "135.7"
+        },
+        {
+            "id": "75299",
+            "airport_ref": "5169",
+            "airport_ident": "OIIK",
+            "type": "TIBA",
+            "description": "",
+            "frequency_mhz": "135.175"
+        }
+    ],
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304245",
+        "code": "IR-28",
+        "local_code": "28",
+        "name": "Qazvin Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Qazvin_Province",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "3238",
+    "ident": "HRZA",
+    "type": "medium_airport",
+    "name": "Kamembe Airport",
+    "latitude_deg": "-2.462239980697632",
+    "longitude_deg": "28.907899856567383",
+    "elevation_ft": "5192",
+    "continent": "AF",
+    "iso_country": "RW",
+    "iso_region": "RW-04",
+    "municipality": "Kamembe",
+    "scheduled_service": "yes",
+    "gps_code": "HRZA",
+    "iata_code": "KME",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kamembe_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238616",
+            "airport_ref": "3238",
+            "airport_ident": "HRZA",
+            "length_ft": "4921",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-2.46875",
+            "le_longitude_deg": "28.906",
+            "le_elevation_ft": "5189",
+            "le_heading_degT": "17",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "-2.45573",
+            "he_longitude_deg": "28.9099",
+            "he_elevation_ft": "5189",
+            "he_heading_degT": "197",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56856",
+            "airport_ref": "3238",
+            "airport_ident": "HRZA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.7"
+        }
+    ],
+    "country": {
+        "id": "302595",
+        "code": "RW",
+        "name": "Rwanda",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rwanda",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306623",
+        "code": "RW-04",
+        "local_code": "04",
+        "name": "Western Province",
+        "continent": "AF",
+        "iso_country": "RW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Province,_Rwanda",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "89675",
+            "filename": "Kamembe_NDB_RW",
+            "ident": "KB",
+            "name": "Kamembe",
+            "type": "NDB",
+            "frequency_khz": "321",
+            "latitude_deg": "-2.463789939880371",
+            "longitude_deg": "28.908199310302734",
+            "elevation_ft": "",
+            "iso_country": "RW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.01",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "HRZA"
+        }
+    ]
+}

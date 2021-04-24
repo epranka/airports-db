@@ -1,0 +1,118 @@
+{
+    "id": "19727",
+    "ident": "KEED",
+    "type": "medium_airport",
+    "name": "Needles Airport",
+    "latitude_deg": "34.7663002014",
+    "longitude_deg": "-114.623001099",
+    "elevation_ft": "983",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Needles",
+    "scheduled_service": "no",
+    "gps_code": "KEED",
+    "iata_code": "EED",
+    "local_code": "EED",
+    "home_link": "http://cms.sbcounty.gov/airports/Airports/Needles.aspx",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Needles_Airport",
+    "keywords": "Needles AAF",
+    "runways": [
+        {
+            "id": "242056",
+            "airport_ref": "19727",
+            "airport_ident": "KEED",
+            "length_ft": "4235",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "34.7644",
+            "le_longitude_deg": "-114.623",
+            "le_elevation_ft": "929",
+            "le_heading_degT": "29.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "34.7745",
+            "he_longitude_deg": "-114.616",
+            "he_elevation_ft": "844",
+            "he_heading_degT": "209.1",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "242057",
+            "airport_ref": "19727",
+            "airport_ident": "KEED",
+            "length_ft": "5005",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "34.7671",
+            "le_longitude_deg": "-114.634",
+            "le_elevation_ft": "983",
+            "le_heading_degT": "119.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "34.7604",
+            "he_longitude_deg": "-114.619",
+            "he_elevation_ft": "918",
+            "he_heading_degT": "299.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "63113",
+            "airport_ref": "19727",
+            "airport_ident": "KEED",
+            "type": "A/D",
+            "description": "LOS ANGELES CNTR",
+            "frequency_mhz": "134.65"
+        },
+        {
+            "id": "63114",
+            "airport_ref": "19727",
+            "airport_ident": "KEED",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "128.325"
+        },
+        {
+            "id": "63115",
+            "airport_ref": "19727",
+            "airport_ident": "KEED",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "115.2"
+        },
+        {
+            "id": "63116",
+            "airport_ref": "19727",
+            "airport_ident": "KEED",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": ""
+    }
+}

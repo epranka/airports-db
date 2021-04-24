@@ -1,0 +1,112 @@
+{
+    "id": "4480",
+    "ident": "LRIA",
+    "type": "medium_airport",
+    "name": "Iaşi Airport",
+    "latitude_deg": "47.17850112915039",
+    "longitude_deg": "27.6205997467041",
+    "elevation_ft": "397",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-IS",
+    "municipality": "Iaşi",
+    "scheduled_service": "yes",
+    "gps_code": "LRIA",
+    "iata_code": "IAS",
+    "local_code": "",
+    "home_link": "http://www.aeroport.ro/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ia%C5%9Fi_International_Airport",
+    "keywords": "Iasi, Jassy",
+    "runways": [
+        {
+            "id": "238410",
+            "airport_ref": "4480",
+            "airport_ident": "LRIA",
+            "length_ft": "7874",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "47.1857",
+            "le_longitude_deg": "27.6156",
+            "le_elevation_ft": "397",
+            "le_heading_degT": "154",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "47.1713",
+            "he_longitude_deg": "27.6257",
+            "he_elevation_ft": "340",
+            "he_heading_degT": "334",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56457",
+            "airport_ref": "4480",
+            "airport_ident": "LRIA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "56458",
+            "airport_ref": "4480",
+            "airport_ident": "LRIA",
+            "type": "GCA",
+            "description": "PRECISION",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "56459",
+            "airport_ref": "4480",
+            "airport_ident": "LRIA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.2"
+        }
+    ],
+    "country": {
+        "id": "302712",
+        "code": "RO",
+        "name": "Romania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
+        "keywords": "Aeroporturi din România"
+    },
+    "region": {
+        "id": "305243",
+        "code": "RO-IS",
+        "local_code": "IS",
+        "name": "Iaşi",
+        "continent": "EU",
+        "iso_country": "RO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iaşi",
+        "keywords": "Moldavia, Moldavian"
+    },
+    "navaids": [
+        {
+            "id": "89119",
+            "filename": "Iasi_NDB_RO",
+            "ident": "IAS",
+            "name": "Iasi",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "47.23429870605469",
+            "longitude_deg": "27.579700469970703",
+            "elevation_ft": "292",
+            "iso_country": "RO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.005",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LRIA"
+        }
+    ]
+}

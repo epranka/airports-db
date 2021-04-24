@@ -1,0 +1,88 @@
+{
+    "id": "21188",
+    "ident": "KTEX",
+    "type": "small_airport",
+    "name": "Telluride Regional Airport",
+    "latitude_deg": "37.9538002",
+    "longitude_deg": "-107.9079971",
+    "elevation_ft": "9070",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Telluride",
+    "scheduled_service": "no",
+    "gps_code": "KTEX",
+    "iata_code": "TEX",
+    "local_code": "TEX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243888",
+            "airport_ref": "21188",
+            "airport_ident": "KTEX",
+            "length_ft": "6870",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "37.9562",
+            "le_longitude_deg": "-107.92",
+            "le_elevation_ft": "9061",
+            "le_heading_degT": "105",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "37.9513",
+            "he_longitude_deg": "-107.897",
+            "he_elevation_ft": "9078",
+            "he_heading_degT": "285",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66963",
+            "airport_ref": "21188",
+            "airport_ident": "KTEX",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "66964",
+            "airport_ref": "21188",
+            "airport_ident": "KTEX",
+            "type": "FSS",
+            "description": "DENVER RDO",
+            "frequency_mhz": "122.15"
+        },
+        {
+            "id": "66965",
+            "airport_ref": "21188",
+            "airport_ident": "KTEX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": ""
+    }
+}

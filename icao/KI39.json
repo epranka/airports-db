@@ -1,0 +1,88 @@
+{
+    "id": "20129",
+    "ident": "KI39",
+    "type": "medium_airport",
+    "name": "Central Kentucky Regional Airport",
+    "latitude_deg": "37.630798",
+    "longitude_deg": "-84.332298",
+    "elevation_ft": "1002",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Richmond",
+    "scheduled_service": "no",
+    "gps_code": "KRGA",
+    "iata_code": "",
+    "local_code": "RGA",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Kentucky_Regional_Airport",
+    "keywords": "I39, Madison",
+    "runways": [
+        {
+            "id": "243989",
+            "airport_ref": "20129",
+            "airport_ident": "KI39",
+            "length_ft": "4500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "37.637",
+            "le_longitude_deg": "-84.3331",
+            "le_elevation_ft": "966",
+            "le_heading_degT": "174.6",
+            "le_displaced_threshold_ft": "90",
+            "he_ident": "36",
+            "he_latitude_deg": "37.6247",
+            "he_longitude_deg": "-84.3316",
+            "he_elevation_ft": "1000",
+            "he_heading_degT": "354.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "67167",
+            "airport_ref": "20129",
+            "airport_ident": "KI39",
+            "type": "A/D",
+            "description": "LEXINGTON APP/DEP",
+            "frequency_mhz": "120.15"
+        },
+        {
+            "id": "67168",
+            "airport_ref": "20129",
+            "airport_ident": "KI39",
+            "type": "FSS",
+            "description": "LOUISVILLE RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "67169",
+            "airport_ref": "20129",
+            "airport_ident": "KI39",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306093",
+        "code": "US-KY",
+        "local_code": "KY",
+        "name": "Kentucky",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "5948",
+    "ident": "SBNM",
+    "type": "medium_airport",
+    "name": "Santo Ângelo Airport",
+    "latitude_deg": "-28.2817",
+    "longitude_deg": "-54.169102",
+    "elevation_ft": "1056",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Santo Ângelo",
+    "scheduled_service": "yes",
+    "gps_code": "SBNM",
+    "iata_code": "GEL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Santo_%C3%82ngelo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234020",
+            "airport_ref": "5948",
+            "airport_ident": "SBNM",
+            "length_ft": "5331",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49597",
+            "airport_ref": "5948",
+            "airport_ident": "SBNM",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "131.65"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303221",
+        "code": "BR-RS",
+        "local_code": "RS",
+        "name": "Rio Grande do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "93381",
+            "filename": "Santo_Angelo_NDB_BR",
+            "ident": "SAN",
+            "name": "Santo Angelo",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "-28.279300689697266",
+            "longitude_deg": "-54.17190170288086",
+            "elevation_ft": "1056",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.351",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBNM"
+        }
+    ]
+}

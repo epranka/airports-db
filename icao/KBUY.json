@@ -1,0 +1,96 @@
+{
+    "id": "19416",
+    "ident": "KBUY",
+    "type": "small_airport",
+    "name": "Burlington Alamance Regional Airport",
+    "latitude_deg": "36.048500061035156",
+    "longitude_deg": "-79.47489929199219",
+    "elevation_ft": "617",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Burlington",
+    "scheduled_service": "no",
+    "gps_code": "KBUY",
+    "iata_code": "",
+    "local_code": "BUY",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Burlington-Alamance_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "242519",
+            "airport_ref": "19416",
+            "airport_ident": "KBUY",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "36.0443",
+            "le_longitude_deg": "-79.4816",
+            "le_elevation_ft": "617",
+            "le_heading_degT": "52.1",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "36.0528",
+            "he_longitude_deg": "-79.4682",
+            "he_elevation_ft": "584",
+            "he_heading_degT": "232.1",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "64095",
+            "airport_ref": "19416",
+            "airport_ident": "KBUY",
+            "type": "A/D",
+            "description": "GREENSBORO APP/DEP",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "64096",
+            "airport_ref": "19416",
+            "airport_ident": "KBUY",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.325"
+        },
+        {
+            "id": "64097",
+            "airport_ref": "19416",
+            "airport_ident": "KBUY",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.25"
+        },
+        {
+            "id": "64098",
+            "airport_ref": "19416",
+            "airport_ident": "KBUY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.975"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": ""
+    }
+}

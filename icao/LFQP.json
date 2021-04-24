@@ -1,0 +1,96 @@
+{
+    "id": "4201",
+    "ident": "LFQP",
+    "type": "medium_airport",
+    "name": "Phalsbourg-Bourscheid Air Base",
+    "latitude_deg": "48.7680556",
+    "longitude_deg": "7.205",
+    "elevation_ft": "1017",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "Phalsbourg/Bourscheid",
+    "scheduled_service": "no",
+    "gps_code": "LFQP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "235919",
+            "airport_ref": "4201",
+            "airport_ident": "LFQP",
+            "length_ft": "7205",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "48.7609",
+            "le_longitude_deg": "7.18799",
+            "le_elevation_ft": "996",
+            "le_heading_degT": "57",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "48.7715",
+            "he_longitude_deg": "7.21312",
+            "he_elevation_ft": "1017",
+            "he_heading_degT": "237",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "52365",
+            "airport_ref": "4201",
+            "airport_ident": "LFQP",
+            "type": "APP",
+            "description": "PHALSBOURG APP",
+            "frequency_mhz": "128.75"
+        },
+        {
+            "id": "52366",
+            "airport_ref": "4201",
+            "airport_ident": "LFQP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "141.05"
+        },
+        {
+            "id": "52367",
+            "airport_ref": "4201",
+            "airport_ident": "LFQP",
+            "type": "GND",
+            "description": "PHALSBOURG GND",
+            "frequency_mhz": "139.6"
+        },
+        {
+            "id": "52368",
+            "airport_ref": "4201",
+            "airport_ident": "LFQP",
+            "type": "TWR",
+            "description": "PHALSBOURG TWR",
+            "frequency_mhz": "129.8"
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306353",
+        "code": "FR-GES",
+        "local_code": "GES",
+        "name": "Grand Est",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
+        "keywords": ""
+    }
+}

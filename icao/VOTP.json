@@ -1,0 +1,96 @@
+{
+    "id": "26627",
+    "ident": "VOTP",
+    "type": "small_airport",
+    "name": "Tirupati Airport",
+    "latitude_deg": "13.632499694800002",
+    "longitude_deg": "79.543296814",
+    "elevation_ft": "350",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-AP",
+    "municipality": "Tirupati",
+    "scheduled_service": "yes",
+    "gps_code": "VOTP",
+    "iata_code": "TIR",
+    "local_code": "",
+    "home_link": "http://aai.aero/allAirports/tirupati_generalinfo.jsp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tirupati_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "236711",
+            "airport_ref": "26627",
+            "airport_ident": "VOTP",
+            "length_ft": "7500",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "13.631",
+            "le_longitude_deg": "79.5328",
+            "le_elevation_ft": "350",
+            "le_heading_degT": "81",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "13.634",
+            "he_longitude_deg": "79.5537",
+            "he_elevation_ft": "332",
+            "he_heading_degT": "261",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "53892",
+            "airport_ref": "26627",
+            "airport_ident": "VOTP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119"
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304165",
+        "code": "IN-AP",
+        "local_code": "AP",
+        "name": "Andhra Pradesh",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andhra_Pradesh",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "94645",
+            "filename": "Tirupati_VOR-DME_IN",
+            "ident": "TTP",
+            "name": "Tirupati",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "13.634400367736816",
+            "longitude_deg": "79.53910064697266",
+            "elevation_ft": "349",
+            "iso_country": "IN",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.011",
+            "magnetic_variation_deg": "-1.422",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOTP"
+        }
+    ]
+}

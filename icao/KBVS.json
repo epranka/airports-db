@@ -1,0 +1,110 @@
+{
+    "id": "19420",
+    "ident": "KBVS",
+    "type": "small_airport",
+    "name": "Skagit Regional Airport",
+    "latitude_deg": "48.4709014893",
+    "longitude_deg": "-122.42099762",
+    "elevation_ft": "144",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Burlington/Mount Vernon",
+    "scheduled_service": "no",
+    "gps_code": "KBVS",
+    "iata_code": "MVW",
+    "local_code": "BVS",
+    "home_link": "http://www.portofskagit.com/skagit-regional-airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Skagit_Regional_Airport",
+    "keywords": "75S",
+    "runways": [
+        {
+            "id": "245211",
+            "airport_ref": "19420",
+            "airport_ident": "KBVS",
+            "length_ft": "3000",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "48.4641",
+            "le_longitude_deg": "-122.424",
+            "le_elevation_ft": "84",
+            "le_heading_degT": "56",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "48.4686",
+            "he_longitude_deg": "-122.414",
+            "he_elevation_ft": "97",
+            "he_heading_degT": "236",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "245212",
+            "airport_ref": "19420",
+            "airport_ident": "KBVS",
+            "length_ft": "5477",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "48.4778",
+            "le_longitude_deg": "-122.431",
+            "le_elevation_ft": "144",
+            "le_heading_degT": "126",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "48.4689",
+            "he_longitude_deg": "-122.413",
+            "he_elevation_ft": "98",
+            "he_heading_degT": "306",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69810",
+            "airport_ref": "19420",
+            "airport_ident": "KBVS",
+            "type": "A/D",
+            "description": "WHIDBEY APP/DEP",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "69811",
+            "airport_ref": "19420",
+            "airport_ident": "KBVS",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "69812",
+            "airport_ref": "19420",
+            "airport_ident": "KBVS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.075"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": ""
+    }
+}

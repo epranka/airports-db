@@ -1,0 +1,212 @@
+{
+    "id": "3647",
+    "ident": "KLNK",
+    "type": "medium_airport",
+    "name": "Lincoln Airport",
+    "latitude_deg": "40.85100173950195",
+    "longitude_deg": "-96.75920104980469",
+    "elevation_ft": "1219",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Lincoln",
+    "scheduled_service": "yes",
+    "gps_code": "KLNK",
+    "iata_code": "LNK",
+    "local_code": "LNK",
+    "home_link": "http://www.lincolnairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lincoln_Airport_%28Nebraska%29",
+    "keywords": "Lincoln Army Air Field, Lincoln Air Force Base, 155th Air Refueling Wing",
+    "runways": [
+        {
+            "id": "241652",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "length_ft": "8649",
+            "width_ft": "150",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "40.8673",
+            "le_longitude_deg": "-96.7697",
+            "le_elevation_ft": "1199",
+            "le_heading_degT": "145",
+            "le_displaced_threshold_ft": "363",
+            "he_ident": "32",
+            "he_latitude_deg": "40.8479",
+            "he_longitude_deg": "-96.7518",
+            "he_elevation_ft": "1179",
+            "he_heading_degT": "325",
+            "he_displaced_threshold_ft": "470"
+        },
+        {
+            "id": "241653",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "length_ft": "5400",
+            "width_ft": "100",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "40.8613",
+            "le_longitude_deg": "-96.7508",
+            "le_elevation_ft": "1219",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "40.8465",
+            "he_longitude_deg": "-96.7508",
+            "he_elevation_ft": "1176",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "241654",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "length_ft": "12901",
+            "width_ft": "200",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.863",
+            "le_longitude_deg": "-96.7617",
+            "le_elevation_ft": "1195",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "40.8276",
+            "he_longitude_deg": "-96.7619",
+            "he_elevation_ft": "1175",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62324",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "62325",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "62326",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "62327",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "62328",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "62329",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "type": "MISC",
+            "description": "ARNG OPS",
+            "frequency_mhz": "123.075"
+        },
+        {
+            "id": "62330",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "type": "OPS",
+            "description": "ANG OPS",
+            "frequency_mhz": "25.96"
+        },
+        {
+            "id": "62331",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "type": "RDO",
+            "description": "COLUMBUS RDO",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "62332",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "62333",
+            "airport_ref": "3647",
+            "airport_ident": "KLNK",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90435",
+            "filename": "Potts_NDB_US",
+            "ident": "LN",
+            "name": "Potts",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "40.747100830078125",
+            "longitude_deg": "-96.76239776611328",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.274",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KLNK"
+        }
+    ]
+}

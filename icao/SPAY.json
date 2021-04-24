@@ -1,0 +1,96 @@
+{
+    "id": "6202",
+    "ident": "SPAY",
+    "type": "medium_airport",
+    "name": "Teniente General Gerardo Pérez Pinedo Airport",
+    "latitude_deg": "-10.7291",
+    "longitude_deg": "-73.766502",
+    "elevation_ft": "751",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-UCA",
+    "municipality": "Atalaya",
+    "scheduled_service": "no",
+    "gps_code": "SPAY",
+    "iata_code": "AYX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tnte._Gral._Gerardo_P%C3%A9rez_Pinedo_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "238141",
+            "airport_ref": "6202",
+            "airport_ident": "SPAY",
+            "length_ft": "4935",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "-10.7339",
+            "le_longitude_deg": "-73.7714",
+            "le_elevation_ft": "",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "-10.7244",
+            "he_longitude_deg": "-73.7617",
+            "he_elevation_ft": "",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "56084",
+            "airport_ref": "6202",
+            "airport_ident": "SPAY",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "126.9"
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Perú",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305032",
+        "code": "PE-UCA",
+        "local_code": "UCA",
+        "name": "Ucayali Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ucayali_Region",
+        "keywords": ""
+    },
+    "navaids": [
+        {
+            "id": "90186",
+            "filename": "Atalaya_NDB_PE",
+            "ident": "LAY",
+            "name": "Atalaya",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "-10.727800369262695",
+            "longitude_deg": "-73.76969909667969",
+            "elevation_ft": "751",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.447",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "SPAY"
+        }
+    ]
+}

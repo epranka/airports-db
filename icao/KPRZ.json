@@ -1,0 +1,126 @@
+{
+    "id": "20868",
+    "ident": "KPRZ",
+    "type": "small_airport",
+    "name": "Portales Municipal Airport",
+    "latitude_deg": "34.14550018310547",
+    "longitude_deg": "-103.41000366210938",
+    "elevation_ft": "4078",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NM",
+    "municipality": "Portales",
+    "scheduled_service": "no",
+    "gps_code": "KPRZ",
+    "iata_code": "",
+    "local_code": "PRZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "243753",
+            "airport_ref": "20868",
+            "airport_ident": "KPRZ",
+            "length_ft": "5700",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "34.1381",
+            "le_longitude_deg": "-103.415",
+            "le_elevation_ft": "4078",
+            "le_heading_degT": "22.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "34.1525",
+            "he_longitude_deg": "-103.408",
+            "he_elevation_ft": "4044",
+            "he_heading_degT": "202.9",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "243754",
+            "airport_ref": "20868",
+            "airport_ident": "KPRZ",
+            "length_ft": "4560",
+            "width_ft": "60",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "34.1457",
+            "le_longitude_deg": "-103.416",
+            "le_elevation_ft": "4066",
+            "le_heading_degT": "89.9",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "34.1457",
+            "he_longitude_deg": "-103.401",
+            "he_elevation_ft": "4058",
+            "he_heading_degT": "269.9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "66674",
+            "airport_ref": "20868",
+            "airport_ident": "KPRZ",
+            "type": "APP",
+            "description": "CANNON APP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "66675",
+            "airport_ref": "20868",
+            "airport_ident": "KPRZ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.175"
+        },
+        {
+            "id": "66676",
+            "airport_ref": "20868",
+            "airport_ident": "KPRZ",
+            "type": "CLD",
+            "description": "CANNON CLNC DEL",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "66677",
+            "airport_ref": "20868",
+            "airport_ident": "KPRZ",
+            "type": "DEP",
+            "description": "CANNON DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "66678",
+            "airport_ref": "20868",
+            "airport_ident": "KPRZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306108",
+        "code": "US-NM",
+        "local_code": "NM",
+        "name": "New Mexico",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
+        "keywords": ""
+    }
+}

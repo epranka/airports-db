@@ -1,0 +1,112 @@
+{
+    "id": "19849",
+    "ident": "KFCI",
+    "type": "small_airport",
+    "name": "Richmond Executive-Chesterfield County Airport",
+    "latitude_deg": "37.406502",
+    "longitude_deg": "-77.525002",
+    "elevation_ft": "236",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "North Chesterfield",
+    "scheduled_service": "no",
+    "gps_code": "KFCI",
+    "iata_code": "",
+    "local_code": "FCI",
+    "home_link": "https://www.chesterfield.gov/739/Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chesterfield_County_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "245129",
+            "airport_ref": "19849",
+            "airport_ident": "KFCI",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "37.4123",
+            "le_longitude_deg": "-77.5308",
+            "le_elevation_ft": "237",
+            "le_heading_degT": "141",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "37.4006",
+            "he_longitude_deg": "-77.5189",
+            "he_elevation_ft": "199",
+            "he_heading_degT": "321",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "69639",
+            "airport_ref": "19849",
+            "airport_ident": "KFCI",
+            "type": "APP",
+            "description": "POTOMAC APP",
+            "frequency_mhz": "134.7"
+        },
+        {
+            "id": "69640",
+            "airport_ref": "19849",
+            "airport_ident": "KFCI",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "128.625"
+        },
+        {
+            "id": "69641",
+            "airport_ref": "19849",
+            "airport_ident": "KFCI",
+            "type": "CLD",
+            "description": "POTOMAC CLNC DEL",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "69642",
+            "airport_ref": "19849",
+            "airport_ident": "KFCI",
+            "type": "DEP",
+            "description": "POTOMAC DEP",
+            "frequency_mhz": "134.7"
+        },
+        {
+            "id": "69643",
+            "airport_ref": "19849",
+            "airport_ident": "KFCI",
+            "type": "RDO",
+            "description": "LEESBURG RDO",
+            "frequency_mhz": "113.3"
+        },
+        {
+            "id": "69644",
+            "airport_ref": "19849",
+            "airport_ident": "KFCI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": ""
+    }
+}
