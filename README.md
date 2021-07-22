@@ -1,5 +1,7 @@
 <h1 align="center" style="border-bottom: none;">✈️ Public airports database</h1>
 
+<h2>This project is deprecated and unmaintainable due to the GitHub limitations. Please use the https://airportdb.io for free airport database API</h2>
+
 <h3 align="center">GitHub based API service</h3>
 
 <p align="center">
